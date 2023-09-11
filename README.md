@@ -1,4 +1,4 @@
-# Outils pour transformer des calendriers en fichiers iCalendar
+# Outils pour transformer des calendriers en invitations calendriers
 
 par Martin Erpicum
 
