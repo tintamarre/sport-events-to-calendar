@@ -2,6 +2,7 @@
 name: Execute notebook
 
 on:
+  workflow_dispatch:
   schedule:
     - cron:  '0 22 * * 4'
     # This runs at 10pm (UTC) every Thursday

@@ -1,6 +1,6 @@
 # 🏀 Les clubs du CPLiège
 
-Dernière mise à jour: 17/09/2023 14:13:52
+Dernière mise à jour: 17/09/2023 15:09:41
 
 ## [44 RBC ESNEUX](http://www.cpliege.be/clubs/club0044.asp)
 
