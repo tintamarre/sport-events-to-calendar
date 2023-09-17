@@ -1,6 +1,8 @@
-Dernière mise à jour: 17/09/2023 14:10:31
+# 🏀 Les clubs du CPLiège
 
-## 44 RBC ESNEUX[44 RBC ESNEUX](http://www.cpliege.be/clubs/club0044.asp)
+Dernière mise à jour: 17/09/2023 14:13:52
+
+## [44 RBC ESNEUX](http://www.cpliege.be/clubs/club0044.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/44-rbc-esneux/44-rbc-esneux.csv)
 * [CPE PROV U 14 MM](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/44-rbc-esneux/cpe-prov-u-14-mm.ics)
@@ -22,7 +24,7 @@ Dernière mise à jour: 17/09/2023 14:10:31
 * [U 8 - MM D](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/44-rbc-esneux/u-8-mm-d.ics)
 * [U 8 - MM E](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/44-rbc-esneux/u-8-mm-e.ics)
 
-## 493 RABC ENSIVAL[493 RABC ENSIVAL](http://www.cpliege.be/clubs/club0493.asp)
+## [493 RABC ENSIVAL](http://www.cpliege.be/clubs/club0493.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/493-rabc-ensival/493-rabc-ensival.csv)
 * [CPE PROV DAMES](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/493-rabc-ensival/cpe-prov-dames.ics)
@@ -40,19 +42,19 @@ Dernière mise à jour: 17/09/2023 14:10:31
 * [U 7 - MM A](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/493-rabc-ensival/u-7-mm-a.ics)
 * [U 8 - MM B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/493-rabc-ensival/u-8-mm-b.ics)
 
-## 1338 REN. MONTEGNEE[1338 REN. MONTEGNEE](http://www.cpliege.be/Clubs/club1338.asp)
+## [1338 REN. MONTEGNEE](http://www.cpliege.be/Clubs/club1338.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1338-ren-montegnee/1338-ren-montegnee.csv)
 * [MM - DIVISION 3 A](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1338-ren-montegnee/mm-division-3-a.ics)
 * [U 12 - MM H](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1338-ren-montegnee/u-12-mm-h.ics)
 
-## 2329 BC TORES LIEGE[2329 BC TORES LIEGE](http://www.cpliege.be/Clubs/club2329.asp)
+## [2329 BC TORES LIEGE](http://www.cpliege.be/Clubs/club2329.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2329-bc-tores-liege/2329-bc-tores-liege.csv)
 * [MM - DIVISION 4 B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2329-bc-tores-liege/mm-division-4-b.ics)
 * [MM - DIVISION 4 E](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2329-bc-tores-liege/mm-division-4-e.ics)
 
-## 2722 CRISTAL SERAING[2722 CRISTAL SERAING](http://www.cpliege.be/clubs/club2722.asp)
+## [2722 CRISTAL SERAING](http://www.cpliege.be/clubs/club2722.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2722-cristal-seraing/2722-cristal-seraing.csv)
 * [COUPE AWBB PUPILLES MM](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2722-cristal-seraing/coupe-awbb-pupilles-mm.ics)
@@ -84,7 +86,7 @@ Dernière mise à jour: 17/09/2023 14:10:31
 * [U 8 - MM B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2722-cristal-seraing/u-8-mm-b.ics)
 * [U 8 - MM C](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2722-cristal-seraing/u-8-mm-c.ics)
 
-## 46 PEPINSTER EAST B[46 PEPINSTER EAST B](http://www.cpliege.be/clubs/club0046.asp)
+## [46 PEPINSTER EAST B](http://www.cpliege.be/clubs/club0046.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/46-pepinster-east-b/46-pepinster-east-b.csv)
 * [COUPE AWBB DAMES](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/46-pepinster-east-b/coupe-awbb-dames.ics)
@@ -117,7 +119,7 @@ Dernière mise à jour: 17/09/2023 14:10:31
 * [U 8 - MM B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/46-pepinster-east-b/u-8-mm-b.ics)
 * [U 8 - MM C](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/46-pepinster-east-b/u-8-mm-c.ics)
 
-## 524 RBC 4A AYWAILLE[524 RBC 4A AYWAILLE](http://www.cpliege.be/clubs/club0524.asp)
+## [524 RBC 4A AYWAILLE](http://www.cpliege.be/clubs/club0524.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/524-rbc-4a-aywaille/524-rbc-4a-aywaille.csv)
 * [CPE PROV MESSIEURS](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/524-rbc-4a-aywaille/cpe-prov-messieurs.ics)
@@ -136,7 +138,7 @@ Dernière mise à jour: 17/09/2023 14:10:31
 * [U 7 - MM A](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/524-rbc-4a-aywaille/u-7-mm-a.ics)
 * [U 8 - MM B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/524-rbc-4a-aywaille/u-8-mm-b.ics)
 
-## 1377 HENRI CHAPELLE[1377 HENRI CHAPELLE](http://www.cpliege.be/Clubs/club1377.asp)
+## [1377 HENRI CHAPELLE](http://www.cpliege.be/Clubs/club1377.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1377-henri-chapelle/1377-henri-chapelle.csv)
 * [COUPE AWBB MINIMES MM](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1377-henri-chapelle/coupe-awbb-minimes-mm.ics)
@@ -168,7 +170,7 @@ Dernière mise à jour: 17/09/2023 14:10:31
 * [U 7 - MM A](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1377-henri-chapelle/u-7-mm-a.ics)
 * [U 8 - MM A](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1377-henri-chapelle/u-8-mm-a.ics)
 
-## 2410 ETOILE JUPILLE[2410 ETOILE JUPILLE](http://www.cpliege.be/Clubs/club2410.asp)
+## [2410 ETOILE JUPILLE](http://www.cpliege.be/Clubs/club2410.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2410-etoile-jupille/2410-etoile-jupille.csv)
 * [COUPE AWBB MESSIEURS](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2410-etoile-jupille/coupe-awbb-messieurs.ics)
@@ -177,14 +179,14 @@ Dernière mise à jour: 17/09/2023 14:10:31
 * [MM - DIVISION 1](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2410-etoile-jupille/mm-division-1.ics)
 * [MM - DIVISION 4 D](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2410-etoile-jupille/mm-division-4-d.ics)
 
-## 2724 FLERON BBC[2724 FLERON BBC](http://www.cpliege.be/clubs/club2724.asp)
+## [2724 FLERON BBC](http://www.cpliege.be/clubs/club2724.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2724-fleron-bbc/2724-fleron-bbc.csv)
 * [CPE PROV MESSIEURS](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2724-fleron-bbc/cpe-prov-messieurs.ics)
 * [MM - DIVISION 3 A](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2724-fleron-bbc/mm-division-3-a.ics)
 * [U 8 - MM C](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2724-fleron-bbc/u-8-mm-c.ics)
 
-## 57 ATLAS A JUPILLE[57 ATLAS A JUPILLE](http://www.cpliege.be/clubs/club0057.asp)
+## [57 ATLAS A JUPILLE](http://www.cpliege.be/clubs/club0057.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/57-atlas-a-jupille/57-atlas-a-jupille.csv)
 * [COUPE AWBB BENJAMINS](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/57-atlas-a-jupille/coupe-awbb-benjamins.ics)
@@ -221,7 +223,7 @@ Dernière mise à jour: 17/09/2023 14:10:31
 * [U 7 - MM B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/57-atlas-a-jupille/u-7-mm-b.ics)
 * [U 8 - MM A](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/57-atlas-a-jupille/u-8-mm-a.ics)
 
-## 550 ROYAL BC WANZE[550 ROYAL BC WANZE](http://www.cpliege.be/clubs/club0550.asp)
+## [550 ROYAL BC WANZE](http://www.cpliege.be/clubs/club0550.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/550-royal-bc-wanze/550-royal-bc-wanze.csv)
 * [COUPE AWBB CADETS](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/550-royal-bc-wanze/coupe-awbb-cadets.ics)
@@ -244,7 +246,7 @@ Dernière mise à jour: 17/09/2023 14:10:31
 * [U 7 - MM D](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/550-royal-bc-wanze/u-7-mm-d.ics)
 * [U 8 - MM E](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/550-royal-bc-wanze/u-8-mm-e.ics)
 
-## 1388 RBC AUBEL[1388 RBC AUBEL](http://www.cpliege.be/Clubs/club1388.asp)
+## [1388 RBC AUBEL](http://www.cpliege.be/Clubs/club1388.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1388-rbc-aubel/1388-rbc-aubel.csv)
 * [COUPE AWBB MESSIEURS](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1388-rbc-aubel/coupe-awbb-messieurs.ics)
@@ -261,7 +263,7 @@ Dernière mise à jour: 17/09/2023 14:10:31
 * [U 16 - DD A](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1388-rbc-aubel/u-16-dd-a.ics)
 * [U 7 - MM C](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1388-rbc-aubel/u-7-mm-c.ics)
 
-## 2440 BCM HERSTAL[2440 BCM HERSTAL](http://www.cpliege.be/Clubs/club2440.asp)
+## [2440 BCM HERSTAL](http://www.cpliege.be/Clubs/club2440.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2440-bcm-herstal/2440-bcm-herstal.csv)
 * [CPE PROV U 18](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2440-bcm-herstal/cpe-prov-u-18.ics)
@@ -274,7 +276,7 @@ Dernière mise à jour: 17/09/2023 14:10:31
 * [U 18 - PROV MM A](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2440-bcm-herstal/u-18-prov-mm-a.ics)
 * [U 8 - MM D](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2440-bcm-herstal/u-8-mm-d.ics)
 
-## 2725 CONDROZ MODAVE[2725 CONDROZ MODAVE](http://www.cpliege.be/clubs/club2725.asp)
+## [2725 CONDROZ MODAVE](http://www.cpliege.be/clubs/club2725.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2725-condroz-modave/2725-condroz-modave.csv)
 * [CPE PROV U 14 MM](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2725-condroz-modave/cpe-prov-u-14-mm.ics)
@@ -287,7 +289,7 @@ Dernière mise à jour: 17/09/2023 14:10:31
 * [U 7 - MM D](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2725-condroz-modave/u-7-mm-d.ics)
 * [U 8 - MM E](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2725-condroz-modave/u-8-mm-e.ics)
 
-## 68 RB UNION LIEGE[68 RB UNION LIEGE](http://www.cpliege.be/clubs/club0068.asp)
+## [68 RB UNION LIEGE](http://www.cpliege.be/clubs/club0068.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/68-rb-union-liege/68-rb-union-liege.csv)
 * [CPE PROV MESSIEURS](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/68-rb-union-liege/cpe-prov-messieurs.ics)
@@ -297,7 +299,7 @@ Dernière mise à jour: 17/09/2023 14:10:31
 * [U 12 - MM F](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/68-rb-union-liege/u-12-mm-f.ics)
 * [U 14 - DD A](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/68-rb-union-liege/u-14-dd-a.ics)
 
-## 565 RBC WELKENRAEDT[565 RBC WELKENRAEDT](http://www.cpliege.be/clubs/club0565.asp)
+## [565 RBC WELKENRAEDT](http://www.cpliege.be/clubs/club0565.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/565-rbc-welkenraedt/565-rbc-welkenraedt.csv)
 * [CPE PROV MESSIEURS](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/565-rbc-welkenraedt/cpe-prov-messieurs.ics)
@@ -312,7 +314,7 @@ Dernière mise à jour: 17/09/2023 14:10:31
 * [U 16 - DD A](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/565-rbc-welkenraedt/u-16-dd-a.ics)
 * [U 16 - PROV MM A](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/565-rbc-welkenraedt/u-16-prov-mm-a.ics)
 
-## 1429 R HT-PRE OUGREE[1429 R HT-PRE OUGREE](http://www.cpliege.be/Clubs/club1429.asp)
+## [1429 R HT-PRE OUGREE](http://www.cpliege.be/Clubs/club1429.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1429-r-ht-pre-ougree/1429-r-ht-pre-ougree.csv)
 * [CPE PROV U 14 DD](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1429-r-ht-pre-ougree/cpe-prov-u-14-dd.ics)
@@ -333,7 +335,7 @@ Dernière mise à jour: 17/09/2023 14:10:31
 * [U 7 - MM D](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1429-r-ht-pre-ougree/u-7-mm-d.ics)
 * [U 8 - MM D](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1429-r-ht-pre-ougree/u-8-mm-d.ics)
 
-## 2458 BBC EUPEN[2458 BBC EUPEN](http://www.cpliege.be/Clubs/club2458.asp)
+## [2458 BBC EUPEN](http://www.cpliege.be/Clubs/club2458.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2458-bbc-eupen/2458-bbc-eupen.csv)
 * [CPE PROV MESSIEURS](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2458-bbc-eupen/cpe-prov-messieurs.ics)
@@ -346,13 +348,13 @@ Dernière mise à jour: 17/09/2023 14:10:31
 * [U 16 - PROV MM C](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2458-bbc-eupen/u-16-prov-mm-c.ics)
 * [U 18 - ELITES MM B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2458-bbc-eupen/u-18-elites-mm-b.ics)
 
-## 2731 BC REVEIL[2731 BC REVEIL](http://www.cpliege.be/clubs/club2731.asp)
+## [2731 BC REVEIL](http://www.cpliege.be/clubs/club2731.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2731-bc-reveil/2731-bc-reveil.csv)
 * [MM - DIVISION 2 B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2731-bc-reveil/mm-division-2-b.ics)
 * [MM - DIVISION 4 A](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2731-bc-reveil/mm-division-4-a.ics)
 
-## 78 PRAYON TROOZ[78 PRAYON TROOZ](http://www.cpliege.be/clubs/club0078.asp)
+## [78 PRAYON TROOZ](http://www.cpliege.be/clubs/club0078.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/78-prayon-trooz/78-prayon-trooz.csv)
 * [COUPE AWBB DAMES](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/78-prayon-trooz/coupe-awbb-dames.ics)
@@ -364,7 +366,7 @@ Dernière mise à jour: 17/09/2023 14:10:31
 * [U 14 - PROV MM D](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/78-prayon-trooz/u-14-prov-mm-d.ics)
 * [U 7 - MM B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/78-prayon-trooz/u-7-mm-b.ics)
 
-## 691 RBC STAVELOT[691 RBC STAVELOT](http://www.cpliege.be/clubs/club0691.asp)
+## [691 RBC STAVELOT](http://www.cpliege.be/clubs/club0691.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/691-rbc-stavelot/691-rbc-stavelot.csv)
 * [CPE PROV U 16 MM](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/691-rbc-stavelot/cpe-prov-u-16-mm.ics)
@@ -382,7 +384,7 @@ Dernière mise à jour: 17/09/2023 14:10:31
 * [U 7 - MM A](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/691-rbc-stavelot/u-7-mm-a.ics)
 * [U 8 - MM A](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/691-rbc-stavelot/u-8-mm-a.ics)
 
-## 1466 RBC ALLEUR[1466 RBC ALLEUR](http://www.cpliege.be/Clubs/club1466.asp)
+## [1466 RBC ALLEUR](http://www.cpliege.be/Clubs/club1466.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1466-rbc-alleur/1466-rbc-alleur.csv)
 * [COUPE AWBB CADETS](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1466-rbc-alleur/coupe-awbb-cadets.ics)
@@ -421,7 +423,7 @@ Dernière mise à jour: 17/09/2023 14:10:31
 * [U 8 - MM C](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1466-rbc-alleur/u-8-mm-c.ics)
 * [U 8 - MM E](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1466-rbc-alleur/u-8-mm-e.ics)
 
-## 2499 GIANTS BRAIVES[2499 GIANTS BRAIVES](http://www.cpliege.be/Clubs/club2499.asp)
+## [2499 GIANTS BRAIVES](http://www.cpliege.be/Clubs/club2499.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2499-giants-braives/2499-giants-braives.csv)
 * [CPE PROV MESSIEURS](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2499-giants-braives/cpe-prov-messieurs.ics)
@@ -441,12 +443,12 @@ Dernière mise à jour: 17/09/2023 14:10:31
 * [U 7 - MM D](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2499-giants-braives/u-7-mm-d.ics)
 * [U 8 - MM E](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2499-giants-braives/u-8-mm-e.ics)
 
-## 2732 BC OLNE[2732 BC OLNE](http://www.cpliege.be/clubs/club2732.asp)
+## [2732 BC OLNE](http://www.cpliege.be/clubs/club2732.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2732-bc-olne/2732-bc-olne.csv)
 * [MM - DIVISION 4 C](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2732-bc-olne/mm-division-4-c.ics)
 
-## 88 VAIL. JUPILLE[88 VAIL. JUPILLE](http://www.cpliege.be/clubs/club0088.asp)
+## [88 VAIL. JUPILLE](http://www.cpliege.be/clubs/club0088.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/88-vail-jupille/88-vail-jupille.csv)
 * [CPE PROV MESSIEURS](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/88-vail-jupille/cpe-prov-messieurs.ics)
@@ -461,7 +463,7 @@ Dernière mise à jour: 17/09/2023 14:10:31
 * [U 7 - MM C](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/88-vail-jupille/u-7-mm-c.ics)
 * [U 8 - MM C](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/88-vail-jupille/u-8-mm-c.ics)
 
-## 709 ABC WAREMME[709 ABC WAREMME](http://www.cpliege.be/clubs/club0709.asp)
+## [709 ABC WAREMME](http://www.cpliege.be/clubs/club0709.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/709-abc-waremme/709-abc-waremme.csv)
 * [COUPE AWBB CADETS](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/709-abc-waremme/coupe-awbb-cadets.ics)
@@ -495,19 +497,19 @@ Dernière mise à jour: 17/09/2023 14:10:31
 * [U 7 - MM C](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/709-abc-waremme/u-7-mm-c.ics)
 * [U 8 - MM D](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/709-abc-waremme/u-8-mm-d.ics)
 
-## 1535 LA SPECIALE[1535 LA SPECIALE](http://www.cpliege.be/Clubs/club1535.asp)
+## [1535 LA SPECIALE](http://www.cpliege.be/Clubs/club1535.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1535-la-speciale/1535-la-speciale.csv)
 * [CPE PROV MESSIEURS](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1535-la-speciale/cpe-prov-messieurs.ics)
 * [MM - DIVISION 3 C](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1535-la-speciale/mm-division-3-c.ics)
 
-## 2504 ESP. HAMOIR 96[2504 ESP. HAMOIR 96](http://www.cpliege.be/Clubs/club2504.asp)
+## [2504 ESP. HAMOIR 96](http://www.cpliege.be/Clubs/club2504.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2504-esp-hamoir-96/2504-esp-hamoir-96.csv)
 * [MM - DIVISION 4 B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2504-esp-hamoir-96/mm-division-4-b.ics)
 * [U 12 - MM F](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2504-esp-hamoir-96/u-12-mm-f.ics)
 
-## 2733 ESNEUX S LOUIS UTD[2733 ESNEUX S LOUIS UTD](http://www.cpliege.be/Clubs/club2733.asp)
+## [2733 ESNEUX S LOUIS UTD](http://www.cpliege.be/Clubs/club2733.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2733-esneux-s-louis-utd/2733-esneux-s-louis-utd.csv)
 * [COUPE AWBB CADETS](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2733-esneux-s-louis-utd/coupe-awbb-cadets.ics)
@@ -527,7 +529,7 @@ Dernière mise à jour: 17/09/2023 14:10:31
 * [U 18 - GOLD REGIONAUX A](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2733-esneux-s-louis-utd/u-18-gold-regionaux-a.ics)
 * [U 21 - GOLD REGIONAUX A](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2733-esneux-s-louis-utd/u-21-gold-regionaux-a.ics)
 
-## 91 ROYAL SPA BC[91 ROYAL SPA BC](http://www.cpliege.be/clubs/club0091.asp)
+## [91 ROYAL SPA BC](http://www.cpliege.be/clubs/club0091.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/91-royal-spa-bc/91-royal-spa-bc.csv)
 * [CPE PROV DAMES](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/91-royal-spa-bc/cpe-prov-dames.ics)
@@ -552,7 +554,7 @@ Dernière mise à jour: 17/09/2023 14:10:31
 * [U 7 - MM A](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/91-royal-spa-bc/u-7-mm-a.ics)
 * [U 8 - MM A](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/91-royal-spa-bc/u-8-mm-a.ics)
 
-## 854 BC SPRIMONT[854 BC SPRIMONT](http://www.cpliege.be/clubs/club0854.asp)
+## [854 BC SPRIMONT](http://www.cpliege.be/clubs/club0854.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/854-bc-sprimont/854-bc-sprimont.csv)
 * [COUPE AWBB BENJAMINS](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/854-bc-sprimont/coupe-awbb-benjamins.ics)
@@ -599,7 +601,7 @@ Dernière mise à jour: 17/09/2023 14:10:31
 * [U 8 - MM A](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/854-bc-sprimont/u-8-mm-a.ics)
 * [U 8 - MM D](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/854-bc-sprimont/u-8-mm-d.ics)
 
-## 1555 ALL. FLEMALLE[1555 ALL. FLEMALLE](http://www.cpliege.be/Clubs/club1555.asp)
+## [1555 ALL. FLEMALLE](http://www.cpliege.be/Clubs/club1555.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1555-all-flemalle/1555-all-flemalle.csv)
 * [CPE PROV MESSIEURS](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1555-all-flemalle/cpe-prov-messieurs.ics)
@@ -634,7 +636,7 @@ Dernière mise à jour: 17/09/2023 14:10:31
 * [U 8 - MM C](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1555-all-flemalle/u-8-mm-c.ics)
 * [U 8 - MM D](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1555-all-flemalle/u-8-mm-d.ics)
 
-## 2511 UN HUY BASKET[2511 UN HUY BASKET](http://www.cpliege.be/Clubs/club2511.asp)
+## [2511 UN HUY BASKET](http://www.cpliege.be/Clubs/club2511.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2511-un-huy-basket/2511-un-huy-basket.csv)
 * [COUPE AWBB DAMES](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2511-un-huy-basket/coupe-awbb-dames.ics)
@@ -661,7 +663,7 @@ Dernière mise à jour: 17/09/2023 14:10:31
 * [U 7 - MM D](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2511-un-huy-basket/u-7-mm-d.ics)
 * [U 8 - MM D](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2511-un-huy-basket/u-8-mm-d.ics)
 
-## 97 RB TILFF[97 RB TILFF](http://www.cpliege.be/clubs/club0097.asp)
+## [97 RB TILFF](http://www.cpliege.be/clubs/club0097.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/97-rb-tilff/97-rb-tilff.csv)
 * [COUPE AWBB MINIMES MM](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/97-rb-tilff/coupe-awbb-minimes-mm.ics)
@@ -683,7 +685,7 @@ Dernière mise à jour: 17/09/2023 14:10:31
 * [U 8 - MM B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/97-rb-tilff/u-8-mm-b.ics)
 * [U 8 - MM C](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/97-rb-tilff/u-8-mm-c.ics)
 
-## 914 RBC CROATIA OUPEYE[914 RBC CROATIA OUPEYE](http://www.cpliege.be/clubs/club0914.asp)
+## [914 RBC CROATIA OUPEYE](http://www.cpliege.be/clubs/club0914.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/914-rbc-croatia-oupeye/914-rbc-croatia-oupeye.csv)
 * [CPE PROV DAMES](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/914-rbc-croatia-oupeye/cpe-prov-dames.ics)
@@ -692,7 +694,7 @@ Dernière mise à jour: 17/09/2023 14:10:31
 * [MM - DIVISION 2 B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/914-rbc-croatia-oupeye/mm-division-2-b.ics)
 * [MM - DIVISION 4 C](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/914-rbc-croatia-oupeye/mm-division-4-c.ics)
 
-## 1595 RBC BLEGNY[1595 RBC BLEGNY](http://www.cpliege.be/Clubs/club1595.asp)
+## [1595 RBC BLEGNY](http://www.cpliege.be/Clubs/club1595.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1595-rbc-blegny/1595-rbc-blegny.csv)
 * [CPE PROV DAMES](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1595-rbc-blegny/cpe-prov-dames.ics)
@@ -718,7 +720,7 @@ Dernière mise à jour: 17/09/2023 14:10:31
 * [U 7 - MM D](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1595-rbc-blegny/u-7-mm-d.ics)
 * [U 8 - MM C](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1595-rbc-blegny/u-8-mm-c.ics)
 
-## 2558 LA VILLERSOISE[2558 LA VILLERSOISE](http://www.cpliege.be/Clubs/club2558.asp)
+## [2558 LA VILLERSOISE](http://www.cpliege.be/Clubs/club2558.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2558-la-villersoise/2558-la-villersoise.csv)
 * [COUPE AWBB BENJAMINS](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2558-la-villersoise/coupe-awbb-benjamins.ics)
@@ -755,7 +757,7 @@ Dernière mise à jour: 17/09/2023 14:10:31
 * [U 7 - MM D](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2558-la-villersoise/u-7-mm-d.ics)
 * [U 8 - MM E](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2558-la-villersoise/u-8-mm-e.ics)
 
-## 108 ACSA MOSA ANGL.[108 ACSA MOSA ANGL.](http://www.cpliege.be/clubs/club0108.asp)
+## [108 ACSA MOSA ANGL.](http://www.cpliege.be/clubs/club0108.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/108-acsa-mosa-angl/108-acsa-mosa-angl.csv)
 * [CPE PROV U 16 MM](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/108-acsa-mosa-angl/cpe-prov-u-16-mm.ics)
@@ -770,7 +772,7 @@ Dernière mise à jour: 17/09/2023 14:10:31
 * [U 18 - PROV MM A](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/108-acsa-mosa-angl/u-18-prov-mm-a.ics)
 * [U 8 - MM C](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/108-acsa-mosa-angl/u-8-mm-c.ics)
 
-## 961 RSW LIEGE BASKET[961 RSW LIEGE BASKET](http://www.cpliege.be/clubs/club0961.asp)
+## [961 RSW LIEGE BASKET](http://www.cpliege.be/clubs/club0961.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/961-rsw-liege-basket/961-rsw-liege-basket.csv)
 * [COUPE AWBB CADETS](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/961-rsw-liege-basket/coupe-awbb-cadets.ics)
@@ -797,7 +799,7 @@ Dernière mise à jour: 17/09/2023 14:10:31
 * [U 21 - GOLD REGIONAUX A](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/961-rsw-liege-basket/u-21-gold-regionaux-a.ics)
 * [U 8 - MM B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/961-rsw-liege-basket/u-8-mm-b.ics)
 
-## 1623 REBOND NEUVILLE[1623 REBOND NEUVILLE](http://www.cpliege.be/Clubs/club1623.asp)
+## [1623 REBOND NEUVILLE](http://www.cpliege.be/Clubs/club1623.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1623-rebond-neuville/1623-rebond-neuville.csv)
 * [CPE PROV U 16 MM](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1623-rebond-neuville/cpe-prov-u-16-mm.ics)
@@ -810,14 +812,14 @@ Dernière mise à jour: 17/09/2023 14:10:31
 * [U 16 - PROV MM B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1623-rebond-neuville/u-16-prov-mm-b.ics)
 * [U 18 - PROV MM B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1623-rebond-neuville/u-18-prov-mm-b.ics)
 
-## 2563 CS OUTREMEUSE[2563 CS OUTREMEUSE](http://www.cpliege.be/Clubs/club2563.asp)
+## [2563 CS OUTREMEUSE](http://www.cpliege.be/Clubs/club2563.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2563-cs-outremeuse/2563-cs-outremeuse.csv)
 * [CPE PROV MESSIEURS](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2563-cs-outremeuse/cpe-prov-messieurs.ics)
 * [DD - DIVISION 3 B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2563-cs-outremeuse/dd-division-3-b.ics)
 * [MM - DIVISION 4 E](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2563-cs-outremeuse/mm-division-4-e.ics)
 
-## 169 VERV. ST MICHEL[169 VERV. ST MICHEL](http://www.cpliege.be/clubs/club0169.asp)
+## [169 VERV. ST MICHEL](http://www.cpliege.be/clubs/club0169.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/169-verv-st-michel/169-verv-st-michel.csv)
 * [COUPE AWBB CADETS](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/169-verv-st-michel/coupe-awbb-cadets.ics)
@@ -830,7 +832,7 @@ Dernière mise à jour: 17/09/2023 14:10:31
 * [U 14 - ELITES MM A](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/169-verv-st-michel/u-14-elites-mm-a.ics)
 * [U 18 - ELITES MM B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/169-verv-st-michel/u-18-elites-mm-b.ics)
 
-## 1034 RBC HANEFFE[1034 RBC HANEFFE](http://www.cpliege.be/clubs/club1034.asp)
+## [1034 RBC HANEFFE](http://www.cpliege.be/clubs/club1034.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1034-rbc-haneffe/1034-rbc-haneffe.csv)
 * [COUPE AWBB MESSIEURS](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1034-rbc-haneffe/coupe-awbb-messieurs.ics)
@@ -854,7 +856,7 @@ Dernière mise à jour: 17/09/2023 14:10:31
 * [U 7 - MM C](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1034-rbc-haneffe/u-7-mm-c.ics)
 * [U 8 - MM E](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1034-rbc-haneffe/u-8-mm-e.ics)
 
-## 1727 US AWANS[1727 US AWANS](http://www.cpliege.be/Clubs/club1727.asp)
+## [1727 US AWANS](http://www.cpliege.be/Clubs/club1727.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1727-us-awans/1727-us-awans.csv)
 * [CPE PROV DAMES](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1727-us-awans/cpe-prov-dames.ics)
@@ -863,7 +865,7 @@ Dernière mise à jour: 17/09/2023 14:10:31
 * [MM - DIVISION 3 A](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1727-us-awans/mm-division-3-a.ics)
 * [MM - DIVISION 4 A](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1727-us-awans/mm-division-4-a.ics)
 
-## 2657 DF BC MALMEDY[2657 DF BC MALMEDY](http://www.cpliege.be/Clubs/club2657.asp)
+## [2657 DF BC MALMEDY](http://www.cpliege.be/Clubs/club2657.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2657-df-bc-malmedy/2657-df-bc-malmedy.csv)
 * [CPE PROV U 21](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2657-df-bc-malmedy/cpe-prov-u-21.ics)
@@ -872,7 +874,7 @@ Dernière mise à jour: 17/09/2023 14:10:31
 * [U 12 - MM C](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2657-df-bc-malmedy/u-12-mm-c.ics)
 * [U 21 - MM](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2657-df-bc-malmedy/u-21-mm.ics)
 
-## 196 AVENIR JUPILLE[196 AVENIR JUPILLE](http://www.cpliege.be/clubs/club0196.asp)
+## [196 AVENIR JUPILLE](http://www.cpliege.be/clubs/club0196.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/196-avenir-jupille/196-avenir-jupille.csv)
 * [CPE PROV DAMES](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/196-avenir-jupille/cpe-prov-dames.ics)
@@ -882,7 +884,7 @@ Dernière mise à jour: 17/09/2023 14:10:31
 * [MM - DIVISION 3 B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/196-avenir-jupille/mm-division-3-b.ics)
 * [MM - DIVISION 4 D](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/196-avenir-jupille/mm-division-4-d.ics)
 
-## 1058 BC BELLEFLAMME[1058 BC BELLEFLAMME](http://www.cpliege.be/clubs/club1058.asp)
+## [1058 BC BELLEFLAMME](http://www.cpliege.be/clubs/club1058.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1058-bc-belleflamme/1058-bc-belleflamme.csv)
 * [COUPE AWBB CADETS](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1058-bc-belleflamme/coupe-awbb-cadets.ics)
@@ -924,13 +926,13 @@ Dernière mise à jour: 17/09/2023 14:10:31
 * [U 7 - MM C](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1058-bc-belleflamme/u-7-mm-c.ics)
 * [U 8 - MM D](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1058-bc-belleflamme/u-8-mm-d.ics)
 
-## 1728 B. OTHEE CLUB[1728 B. OTHEE CLUB](http://www.cpliege.be/Clubs/club1728.asp)
+## [1728 B. OTHEE CLUB](http://www.cpliege.be/Clubs/club1728.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1728-b-othee-club/1728-b-othee-club.csv)
 * [DD - DIVISION 3 B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1728-b-othee-club/dd-division-3-b.ics)
 * [MM - DIVISION 4 D](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1728-b-othee-club/mm-division-4-d.ics)
 
-## 2663 COLLEGE S LOUIS[2663 COLLEGE S LOUIS](http://www.cpliege.be/Clubs/club2663.asp)
+## [2663 COLLEGE S LOUIS](http://www.cpliege.be/Clubs/club2663.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2663-college-s-louis/2663-college-s-louis.csv)
 * [COUPE AWBB BENJAMINS](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2663-college-s-louis/coupe-awbb-benjamins.ics)
@@ -951,14 +953,14 @@ Dernière mise à jour: 17/09/2023 14:10:31
 * [U 16 - PROV MM C](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2663-college-s-louis/u-16-prov-mm-c.ics)
 * [U 8 - MM E](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2663-college-s-louis/u-8-mm-e.ics)
 
-## 197 RJS GRIVEGNEE[197 RJS GRIVEGNEE](http://www.cpliege.be/clubs/club0197.asp)
+## [197 RJS GRIVEGNEE](http://www.cpliege.be/clubs/club0197.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/197-rjs-grivegnee/197-rjs-grivegnee.csv)
 * [MM - DIVISION 4 E](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/197-rjs-grivegnee/mm-division-4-e.ics)
 * [U 10 - MM G](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/197-rjs-grivegnee/u-10-mm-g.ics)
 * [U 12 - MM G](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/197-rjs-grivegnee/u-12-mm-g.ics)
 
-## 1096 AD JESYL BC[1096 AD JESYL BC](http://www.cpliege.be/clubs/club1058.asp)
+## [1096 AD JESYL BC](http://www.cpliege.be/clubs/club1058.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1096-ad-jesyl-bc/1096-ad-jesyl-bc.csv)
 * [COUPE AWBB CADETS](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1096-ad-jesyl-bc/coupe-awbb-cadets.ics)
@@ -1000,7 +1002,7 @@ Dernière mise à jour: 17/09/2023 14:10:31
 * [U 7 - MM C](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1096-ad-jesyl-bc/u-7-mm-c.ics)
 * [U 8 - MM D](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1096-ad-jesyl-bc/u-8-mm-d.ics)
 
-## 1741 HERVE-BATTICE[1741 HERVE-BATTICE](http://www.cpliege.be/Clubs/club1741.asp)
+## [1741 HERVE-BATTICE](http://www.cpliege.be/Clubs/club1741.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1741-herve-battice/1741-herve-battice.csv)
 * [COUPE AWBB BENJAMINS](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1741-herve-battice/coupe-awbb-benjamins.ics)
@@ -1038,7 +1040,7 @@ Dernière mise à jour: 17/09/2023 14:10:31
 * [U 8 - MM A](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1741-herve-battice/u-8-mm-a.ics)
 * [U 8 - MM B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1741-herve-battice/u-8-mm-b.ics)
 
-## 236 RBC AWANS[236 RBC AWANS](http://www.cpliege.be/clubs/club0236.asp)
+## [236 RBC AWANS](http://www.cpliege.be/clubs/club0236.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/236-rbc-awans/236-rbc-awans.csv)
 * [CPE PROV MESSIEURS](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/236-rbc-awans/cpe-prov-messieurs.ics)
@@ -1066,7 +1068,7 @@ Dernière mise à jour: 17/09/2023 14:10:31
 * [U 7 - MM C](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/236-rbc-awans/u-7-mm-c.ics)
 * [U 8 - MM E](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/236-rbc-awans/u-8-mm-e.ics)
 
-## 1200 BC NINANE[1200 BC NINANE](http://www.cpliege.be/clubs/club1200.asp)
+## [1200 BC NINANE](http://www.cpliege.be/clubs/club1200.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1200-bc-ninane/1200-bc-ninane.csv)
 * [COUPE AWBB JUNIORS](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1200-bc-ninane/coupe-awbb-juniors.ics)
@@ -1094,7 +1096,7 @@ Dernière mise à jour: 17/09/2023 14:10:31
 * [U 7 - MM B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1200-bc-ninane/u-7-mm-b.ics)
 * [U 8 - MM C](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1200-bc-ninane/u-8-mm-c.ics)
 
-## 1898 BC ST VITH[1898 BC ST VITH](http://www.cpliege.be/Clubs/club1898.asp)
+## [1898 BC ST VITH](http://www.cpliege.be/Clubs/club1898.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1898-bc-st-vith/1898-bc-st-vith.csv)
 * [MM - DIVISION 3 B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1898-bc-st-vith/mm-division-3-b.ics)
@@ -1102,7 +1104,7 @@ Dernière mise à jour: 17/09/2023 14:10:31
 * [U 16 - PROV MM A](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1898-bc-st-vith/u-16-prov-mm-a.ics)
 * [U 18 - PROV MM A](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1898-bc-st-vith/u-18-prov-mm-a.ics)
 
-## 2700 BC VERLAINE[2700 BC VERLAINE](http://www.cpliege.be/Clubs/club2700.asp)
+## [2700 BC VERLAINE](http://www.cpliege.be/Clubs/club2700.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2700-bc-verlaine/2700-bc-verlaine.csv)
 * [COUPE AWBB CADETS](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2700-bc-verlaine/coupe-awbb-cadets.ics)
@@ -1118,7 +1120,7 @@ Dernière mise à jour: 17/09/2023 14:10:31
 * [U 7 - MM D](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2700-bc-verlaine/u-7-mm-d.ics)
 * [U 8 - MM D](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2700-bc-verlaine/u-8-mm-d.ics)
 
-## 425 ROYAL ANS BC[425 ROYAL ANS BC](http://www.cpliege.be/clubs/club0425.asp)
+## [425 ROYAL ANS BC](http://www.cpliege.be/clubs/club0425.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/425-royal-ans-bc/425-royal-ans-bc.csv)
 * [COUPE AWBB BENJAMINS](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/425-royal-ans-bc/coupe-awbb-benjamins.ics)
@@ -1138,7 +1140,7 @@ Dernière mise à jour: 17/09/2023 14:10:31
 * [U 7 - MM B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/425-royal-ans-bc/u-7-mm-b.ics)
 * [U 8 - MM D](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/425-royal-ans-bc/u-8-mm-d.ics)
 
-## 1215 DISON-ANDRIMONT[1215 DISON-ANDRIMONT](http://www.cpliege.be/clubs/club1215.asp)
+## [1215 DISON-ANDRIMONT](http://www.cpliege.be/clubs/club1215.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1215-dison-andrimont/1215-dison-andrimont.csv)
 * [CPE PROV DAMES](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1215-dison-andrimont/cpe-prov-dames.ics)
@@ -1161,7 +1163,7 @@ Dernière mise à jour: 17/09/2023 14:10:31
 * [U 21 - MM](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1215-dison-andrimont/u-21-mm.ics)
 * [U 8 - MM C](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1215-dison-andrimont/u-8-mm-c.ics)
 
-## 2061 THEUX BC[2061 THEUX BC](http://www.cpliege.be/Clubs/club2061.asp)
+## [2061 THEUX BC](http://www.cpliege.be/Clubs/club2061.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2061-theux-bc/2061-theux-bc.csv)
 * [COUPE AWBB MINIMES MM](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2061-theux-bc/coupe-awbb-minimes-mm.ics)
@@ -1183,7 +1185,7 @@ Dernière mise à jour: 17/09/2023 14:10:31
 * [U 8 - MM A](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2061-theux-bc/u-8-mm-a.ics)
 * [U 8 - MM B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2061-theux-bc/u-8-mm-b.ics)
 
-## 2701 GRACE-HOLLOGNE[2701 GRACE-HOLLOGNE](http://www.cpliege.be/Clubs/club2701.asp)
+## [2701 GRACE-HOLLOGNE](http://www.cpliege.be/Clubs/club2701.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2701-grace-hollogne/2701-grace-hollogne.csv)
 * [COUPE AWBB BENJAMINS](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2701-grace-hollogne/coupe-awbb-benjamins.ics)
@@ -1206,7 +1208,7 @@ Dernière mise à jour: 17/09/2023 14:10:31
 * [U 7 - MM B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2701-grace-hollogne/u-7-mm-b.ics)
 * [U 8 - MM E](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2701-grace-hollogne/u-8-mm-e.ics)
 
-## 428 MAIL. COMBLAIN[428 MAIL. COMBLAIN](http://www.cpliege.be/clubs/club0428.asp)
+## [428 MAIL. COMBLAIN](http://www.cpliege.be/clubs/club0428.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/428-mail-comblain/428-mail-comblain.csv)
 * [CPE BELG MESSIEURS](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/428-mail-comblain/cpe-belg-messieurs.ics)
@@ -1225,7 +1227,7 @@ Dernière mise à jour: 17/09/2023 14:10:31
 * [U 18 - PROV MM B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/428-mail-comblain/u-18-prov-mm-b.ics)
 * [U 8 - MM B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/428-mail-comblain/u-8-mm-b.ics)
 
-## 1245 RBC VISE[1245 RBC VISE](http://www.cpliege.be/clubs/club1245.asp)
+## [1245 RBC VISE](http://www.cpliege.be/clubs/club1245.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1245-rbc-vise/1245-rbc-vise.csv)
 * [CPE PROV MESSIEURS](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1245-rbc-vise/cpe-prov-messieurs.ics)
@@ -1258,7 +1260,7 @@ Dernière mise à jour: 17/09/2023 14:10:31
 * [U 8 - MM A](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1245-rbc-vise/u-8-mm-a.ics)
 * [U 8 - MM B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1245-rbc-vise/u-8-mm-b.ics)
 
-## 2211 HARIMALIA BC[2211 HARIMALIA BC](http://www.cpliege.be/clubs/club2211.asp)
+## [2211 HARIMALIA BC](http://www.cpliege.be/clubs/club2211.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2211-harimalia-bc/2211-harimalia-bc.csv)
 * [CPE PROV MESSIEURS](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2211-harimalia-bc/cpe-prov-messieurs.ics)
@@ -1285,7 +1287,7 @@ Dernière mise à jour: 17/09/2023 14:10:31
 * [U 18 - SILVER REGIONAUX C](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2211-harimalia-bc/u-18-silver-regionaux-c.ics)
 * [U 8 - MM B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2211-harimalia-bc/u-8-mm-b.ics)
 
-## 2708 EAST BELGIUM BDA[2708 EAST BELGIUM BDA](http://www.cpliege.be/clubs/club2708.asp)
+## [2708 EAST BELGIUM BDA](http://www.cpliege.be/clubs/club2708.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2708-east-belgium-bda/2708-east-belgium-bda.csv)
 * [COUPE AWBB CADETS](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2708-east-belgium-bda/coupe-awbb-cadets.ics)
@@ -1299,7 +1301,7 @@ Dernière mise à jour: 17/09/2023 14:10:31
 * [U 18 - SILVER REGIONAUX D](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2708-east-belgium-bda/u-18-silver-regionaux-d.ics)
 * [U 19 - SILVER REGIONALES A](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2708-east-belgium-bda/u-19-silver-regionales-a.ics)
 
-## 434 R.UN.BELLAIRE[434 R.UN.BELLAIRE](http://www.cpliege.be/clubs/club0434.asp)
+## [434 R.UN.BELLAIRE](http://www.cpliege.be/clubs/club0434.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/434-r-un-bellaire/434-r-un-bellaire.csv)
 * [CPE PROV DAMES](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/434-r-un-bellaire/cpe-prov-dames.ics)
@@ -1316,7 +1318,7 @@ Dernière mise à jour: 17/09/2023 14:10:31
 * [U 21 - MM](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/434-r-un-bellaire/u-21-mm.ics)
 * [U 8 - MM D](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/434-r-un-bellaire/u-8-mm-d.ics)
 
-## 1298 BC COINTE[1298 BC COINTE](http://www.cpliege.be/clubs/club1298.asp)
+## [1298 BC COINTE](http://www.cpliege.be/clubs/club1298.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1298-bc-cointe/1298-bc-cointe.csv)
 * [CPE PROV DAMES](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1298-bc-cointe/cpe-prov-dames.ics)
@@ -1346,7 +1348,7 @@ Dernière mise à jour: 17/09/2023 14:10:31
 * [U 7 - MM B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1298-bc-cointe/u-7-mm-b.ics)
 * [U 8 - MM C](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1298-bc-cointe/u-8-mm-c.ics)
 
-## 2309 HANNUT BC[2309 HANNUT BC](http://www.cpliege.be/Clubs/club2309.asp)
+## [2309 HANNUT BC](http://www.cpliege.be/Clubs/club2309.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2309-hannut-bc/2309-hannut-bc.csv)
 * [COUPE AWBB MESSIEURS](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2309-hannut-bc/coupe-awbb-messieurs.ics)
