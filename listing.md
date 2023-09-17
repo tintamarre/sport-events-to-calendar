@@ -1,6 +1,14 @@
 # 🏀 Les clubs du CPLiège
 
-Dernière mise à jour: 17/09/2023 15:09:41
+Ce dépôt contient les agendas des clubs de basket du CPLiège.
+
+Les agendas sont disponibles au format CSV et ICS.
+
+Les agendas sont mis à jour automatiquement toutes semaines.
+
+[L'agenda global](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/CPLi%C3%A8ge.ics) est également disponible.
+
+Dernière mise à jour: 17/09/2023 17:46:54
 
 ## [44 RBC ESNEUX](http://www.cpliege.be/clubs/club0044.asp)
 
