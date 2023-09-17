@@ -6,7 +6,10 @@ on:
     - cron:  '0 22 * * 4'
     # This runs at 10pm (UTC) every Thursday
     # * is a special character in YAML so you have to quote this string
-  [push]
+  push:
+    branches:
+      - main
+    
 
 jobs:
   run:
