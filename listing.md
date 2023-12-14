@@ -8,7 +8,7 @@ Les agendas sont mis à jour automatiquement toutes semaines.
 
 [L'agenda global](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/CPLi%C3%A8ge.ics) est également disponible.
 
-Dernière mise à jour: 07/12/2023 22:04:01
+Dernière mise à jour: 14/12/2023 22:03:56
 
 ## [44 RBC ESNEUX](http://www.cpliege.be/clubs/club0044.asp)
 
@@ -170,7 +170,6 @@ Dernière mise à jour: 07/12/2023 22:04:01
 * [U 16 - ELITES MM B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/57-atlas-a-jupille/u-16-elites-mm-b.ics)
 * [U 16 - PROV MM A](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/57-atlas-a-jupille/u-16-prov-mm-a.ics)
 * [U 18 - ELITES MM A](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/57-atlas-a-jupille/u-18-elites-mm-a.ics)
-* [U 18 - SILVER REGIONAUX A](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/57-atlas-a-jupille/u-18-silver-regionaux-a.ics)
 * [U 21 - SILVER REGIONAUX B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/57-atlas-a-jupille/u-21-silver-regionaux-b.ics)
 * [U 7 - MM B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/57-atlas-a-jupille/u-7-mm-b.ics)
 * [U 8 - MM A](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/57-atlas-a-jupille/u-8-mm-a.ics)
@@ -405,7 +404,6 @@ Dernière mise à jour: 07/12/2023 22:04:01
 ## [1535 LA SPECIALE](http://www.cpliege.be/Clubs/club1535.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1535-la-speciale/1535-la-speciale.csv)
-* [CPE PROV MESSIEURS](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1535-la-speciale/cpe-prov-messieurs.ics)
 * [MM - DIVISION 3 C](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1535-la-speciale/mm-division-3-c.ics)
 
 ## [2504 ESP. HAMOIR 96](http://www.cpliege.be/Clubs/club2504.asp)
@@ -516,6 +514,7 @@ Dernière mise à jour: 07/12/2023 22:04:01
 ## [97 RB TILFF](http://www.cpliege.be/clubs/club0097.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/97-rb-tilff/97-rb-tilff.csv)
+* [CPE PROV MESSIEURS](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/97-rb-tilff/cpe-prov-messieurs.ics)
 * [CPE PROV U 18](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/97-rb-tilff/cpe-prov-u-18.ics)
 * [MM - DIVISION 1](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/97-rb-tilff/mm-division-1.ics)
 * [MM - DIVISION 2 A](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/97-rb-tilff/mm-division-2-a.ics)
@@ -599,7 +598,6 @@ Dernière mise à jour: 07/12/2023 22:04:01
 ## [961 RSW LIEGE BASKET](http://www.cpliege.be/clubs/club0961.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/961-rsw-liege-basket/961-rsw-liege-basket.csv)
-* [CPE BELG MESSIEURS](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/961-rsw-liege-basket/cpe-belg-messieurs.ics)
 * [MM - DIVISION 1](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/961-rsw-liege-basket/mm-division-1.ics)
 * [MM - DIVISION 2 B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/961-rsw-liege-basket/mm-division-2-b.ics)
 * [MM - DIVISION 3 B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/961-rsw-liege-basket/mm-division-3-b.ics)
@@ -803,6 +801,7 @@ Dernière mise à jour: 07/12/2023 22:04:01
 ## [236 RBC AWANS](http://www.cpliege.be/clubs/club0236.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/236-rbc-awans/236-rbc-awans.csv)
+* [CPE PROV MESSIEURS](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/236-rbc-awans/cpe-prov-messieurs.ics)
 * [DD - DIVISION 3 A](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/236-rbc-awans/dd-division-3-a.ics)
 * [MM - DIVISION 2 A](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/236-rbc-awans/mm-division-2-a.ics)
 * [MM - DIVISION 4 B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/236-rbc-awans/mm-division-4-b.ics)
@@ -1006,7 +1005,6 @@ Dernière mise à jour: 07/12/2023 22:04:01
 * [U 16 - ELITES MM B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2211-harimalia-bc/u-16-elites-mm-b.ics)
 * [U 18 - PROV MM A](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2211-harimalia-bc/u-18-prov-mm-a.ics)
 * [U 18 - PROV MM B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2211-harimalia-bc/u-18-prov-mm-b.ics)
-* [U 18 - SILVER REGIONAUX C](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2211-harimalia-bc/u-18-silver-regionaux-c.ics)
 * [U 8 - MM B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2211-harimalia-bc/u-8-mm-b.ics)
 
 ## [2708 EAST BELGIUM BDA](http://www.cpliege.be/clubs/club2708.asp)
