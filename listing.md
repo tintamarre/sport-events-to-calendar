@@ -8,7 +8,7 @@ Les agendas sont mis à jour automatiquement toutes semaines.
 
 [L'agenda global](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/CPLi%C3%A8ge.ics) est également disponible.
 
-Dernière mise à jour: 07/03/2024 22:03:49
+Dernière mise à jour: 14/03/2024 22:03:48
 
 ## [44 RBC ESNEUX](http://www.cpliege.be/clubs/club0044.asp)
 
@@ -1061,7 +1061,6 @@ Dernière mise à jour: 07/03/2024 22:03:49
 * [CPE PROV DAMES](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1298-bc-cointe/cpe-prov-dames.ics)
 * [CPE PROV U 21](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1298-bc-cointe/cpe-prov-u-21.ics)
 * [DD - DIVISION 1](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1298-bc-cointe/dd-division-1.ics)
-* [DD - DIVISION 3 B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1298-bc-cointe/dd-division-3-b.ics)
 * [MM - DIVISION 2 B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1298-bc-cointe/mm-division-2-b.ics)
 * [MM - DIVISION 4 A](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1298-bc-cointe/mm-division-4-a.ics)
 * [MM - REGIONALE 1](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1298-bc-cointe/mm-regionale-1.ics)
