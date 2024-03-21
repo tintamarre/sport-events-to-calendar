@@ -8,7 +8,7 @@ Les agendas sont mis à jour automatiquement toutes semaines.
 
 [L'agenda global](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/CPLi%C3%A8ge.ics) est également disponible.
 
-Dernière mise à jour: 14/03/2024 22:03:48
+Dernière mise à jour: 21/03/2024 22:03:57
 
 ## [44 RBC ESNEUX](http://www.cpliege.be/clubs/club0044.asp)
 
@@ -444,7 +444,6 @@ Dernière mise à jour: 14/03/2024 22:03:48
 ## [854 BC SPRIMONT](http://www.cpliege.be/clubs/club0854.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/854-bc-sprimont/854-bc-sprimont.csv)
-* [COUPE AWBB MINIMES DD](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/854-bc-sprimont/coupe-awbb-minimes-dd.ics)
 * [CPE PROV U 14 DD](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/854-bc-sprimont/cpe-prov-u-14-dd.ics)
 * [DD - DIVISION 2 A](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/854-bc-sprimont/dd-division-2-a.ics)
 * [DD - REGIONALE 2 A](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/854-bc-sprimont/dd-regionale-2-a.ics)
@@ -616,8 +615,6 @@ Dernière mise à jour: 14/03/2024 22:03:48
 ## [961 RSW LIEGE BASKET](http://www.cpliege.be/clubs/club0961.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/961-rsw-liege-basket/961-rsw-liege-basket.csv)
-* [COUPE AWBB JUNIORS](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/961-rsw-liege-basket/coupe-awbb-juniors.ics)
-* [COUPE AWBB MINIMES MM](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/961-rsw-liege-basket/coupe-awbb-minimes-mm.ics)
 * [MM - DIVISION 1](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/961-rsw-liege-basket/mm-division-1.ics)
 * [MM - DIVISION 2 B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/961-rsw-liege-basket/mm-division-2-b.ics)
 * [MM - DIVISION 3 B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/961-rsw-liege-basket/mm-division-3-b.ics)
@@ -706,7 +703,6 @@ Dernière mise à jour: 14/03/2024 22:03:48
 ## [1058 BC BELLEFLAMME](http://www.cpliege.be/clubs/club1058.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1058-bc-belleflamme/1058-bc-belleflamme.csv)
-* [COUPE AWBB PUPILLES DD](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1058-bc-belleflamme/coupe-awbb-pupilles-dd.ics)
 * [CPE PROV U 16 MM](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1058-bc-belleflamme/cpe-prov-u-16-mm.ics)
 * [DD - DIVISION 1](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1058-bc-belleflamme/dd-division-1.ics)
 * [DD - DIVISION 3 B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1058-bc-belleflamme/dd-division-3-b.ics)
@@ -736,11 +732,11 @@ Dernière mise à jour: 14/03/2024 22:03:48
 * [U 7 - MM C](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1058-bc-belleflamme/u-7-mm-c.ics)
 * [U 8 - MM D](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1058-bc-belleflamme/u-8-mm-d.ics)
 
-## [1728 B. OTHEE CLUB](http://www.cpliege.be/Clubs/club1728.asp)
+## [1728 ROYAL BASKET OTHEE](http://www.cpliege.be/Clubs/club1728.asp)
 
-* [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1728-b-othee-club/1728-b-othee-club.csv)
-* [DD - DIVISION 3 B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1728-b-othee-club/dd-division-3-b.ics)
-* [MM - DIVISION 4 D](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1728-b-othee-club/mm-division-4-d.ics)
+* [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1728-royal-basket-othee/1728-royal-basket-othee.csv)
+* [DD - DIVISION 3 B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1728-royal-basket-othee/dd-division-3-b.ics)
+* [MM - DIVISION 4 D](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1728-royal-basket-othee/mm-division-4-d.ics)
 
 ## [2663 COLLEGE S LOUIS](http://www.cpliege.be/Clubs/club2663.asp)
 
@@ -767,7 +763,6 @@ Dernière mise à jour: 14/03/2024 22:03:48
 ## [1096 AD JESYL BC](http://www.cpliege.be/clubs/club1058.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1096-ad-jesyl-bc/1096-ad-jesyl-bc.csv)
-* [COUPE AWBB PUPILLES DD](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1096-ad-jesyl-bc/coupe-awbb-pupilles-dd.ics)
 * [CPE PROV U 16 MM](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1096-ad-jesyl-bc/cpe-prov-u-16-mm.ics)
 * [DD - DIVISION 1](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1096-ad-jesyl-bc/dd-division-1.ics)
 * [DD - DIVISION 3 B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1096-ad-jesyl-bc/dd-division-3-b.ics)
