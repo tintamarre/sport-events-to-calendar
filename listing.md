@@ -8,7 +8,7 @@ Les agendas sont mis à jour automatiquement toutes semaines.
 
 [L'agenda global](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/CPLi%C3%A8ge.ics) est également disponible.
 
-Dernière mise à jour: 05/01/2025 19:24:26
+Dernière mise à jour: 09/01/2025 22:03:08
 
 ## [44 RBC ESNEUX](http://www.cpliege.be/clubs/club0044.asp)
 
