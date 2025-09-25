@@ -8,7 +8,7 @@ Les agendas sont mis à jour automatiquement toutes semaines.
 
 [L'agenda global](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/CPLi%C3%A8ge.ics) est également disponible.
 
-Dernière mise à jour: 18/09/2025 22:05:15
+Dernière mise à jour: 25/09/2025 22:05:01
 
 ## [44 RBC ESNEUX](http://www.cpliege.be/clubs/club0044.asp)
 
@@ -66,6 +66,7 @@ Dernière mise à jour: 18/09/2025 22:05:15
 ## [2410 ETOILE JUPILLE](http://www.cpliege.be/Clubs/club2410.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2410-etoile-jupille/2410-etoile-jupille.csv)
+* [COUPE AWBB MESSIEURS](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2410-etoile-jupille/coupe-awbb-messieurs.ics)
 * [CPE PROV MESSIEURS](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2410-etoile-jupille/cpe-prov-messieurs.ics)
 * [CPE PROV PUPILLES MM](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2410-etoile-jupille/cpe-prov-pupilles-mm.ics)
 * [DD - DIVISION 3 C](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2410-etoile-jupille/dd-division-3-c.ics)
@@ -313,7 +314,6 @@ Dernière mise à jour: 18/09/2025 22:05:15
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/565-rbc-welkenraedt/565-rbc-welkenraedt.csv)
 * [CPE PROV CADETS](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/565-rbc-welkenraedt/cpe-prov-cadets.ics)
 * [CPE PROV CADETTES](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/565-rbc-welkenraedt/cpe-prov-cadettes.ics)
-* [CPE PROV MESSIEURS](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/565-rbc-welkenraedt/cpe-prov-messieurs.ics)
 * [CPE PROV PUPILLES MM](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/565-rbc-welkenraedt/cpe-prov-pupilles-mm.ics)
 * [DD - DIVISION 3 C](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/565-rbc-welkenraedt/dd-division-3-c.ics)
 * [MM - DIVISION 3 C](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/565-rbc-welkenraedt/mm-division-3-c.ics)
@@ -373,7 +373,6 @@ Dernière mise à jour: 18/09/2025 22:05:15
 ## [78 PRAYON TROOZ](http://www.cpliege.be/clubs/club0078.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/78-prayon-trooz/78-prayon-trooz.csv)
-* [CPE PROV DAMES](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/78-prayon-trooz/cpe-prov-dames.ics)
 * [CPE PROV MINIMES MM](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/78-prayon-trooz/cpe-prov-minimes-mm.ics)
 * [CPE PROV PUPILLES DD](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/78-prayon-trooz/cpe-prov-pupilles-dd.ics)
 * [DD - DIVISION 2 A](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/78-prayon-trooz/dd-division-2-a.ics)
@@ -395,7 +394,6 @@ Dernière mise à jour: 18/09/2025 22:05:15
 ## [691 RBC STAVELOT](http://www.cpliege.be/clubs/club0691.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/691-rbc-stavelot/691-rbc-stavelot.csv)
-* [CPE PROV CADETS](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/691-rbc-stavelot/cpe-prov-cadets.ics)
 * [CPE PROV PUPILLES MM](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/691-rbc-stavelot/cpe-prov-pupilles-mm.ics)
 * [DD - DIVISION 2 A](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/691-rbc-stavelot/dd-division-2-a.ics)
 * [MM - DIVISION 2 A](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/691-rbc-stavelot/mm-division-2-a.ics)
@@ -450,7 +448,6 @@ Dernière mise à jour: 18/09/2025 22:05:15
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2511-un-huy-basket/2511-un-huy-basket.csv)
 * [COUPE AWBB DAMES](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2511-un-huy-basket/coupe-awbb-dames.ics)
-* [CPE BELG DAMES](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2511-un-huy-basket/cpe-belg-dames.ics)
 * [CPE PROV CADETS](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2511-un-huy-basket/cpe-prov-cadets.ics)
 * [DD - DIVISION 3 B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2511-un-huy-basket/dd-division-3-b.ics)
 * [DD - REGIONALE 1](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2511-un-huy-basket/dd-regionale-1.ics)
@@ -602,7 +599,6 @@ Dernière mise à jour: 18/09/2025 22:05:15
 ## [91 ROYAL SPA BC](http://www.cpliege.be/clubs/club0091.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/91-royal-spa-bc/91-royal-spa-bc.csv)
-* [CPE PROV JUNIORS](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/91-royal-spa-bc/cpe-prov-juniors.ics)
 * [CPE PROV MESSIEURS](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/91-royal-spa-bc/cpe-prov-messieurs.ics)
 * [CPE PROV MINIMES DD](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/91-royal-spa-bc/cpe-prov-minimes-dd.ics)
 * [CPE PROV MINIMES MM](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/91-royal-spa-bc/cpe-prov-minimes-mm.ics)
@@ -616,7 +612,6 @@ Dernière mise à jour: 18/09/2025 22:05:15
 * [MM - DIVISION 4 E](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/91-royal-spa-bc/mm-division-4-e.ics)
 * [MM - REGIONALE 2 B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/91-royal-spa-bc/mm-regionale-2-b.ics)
 * [U 10 - MM A](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/91-royal-spa-bc/u-10-mm-a.ics)
-* [U 10 - MM E](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/91-royal-spa-bc/u-10-mm-e.ics)
 * [U 10 - MM F](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/91-royal-spa-bc/u-10-mm-f.ics)
 * [U 12 - MM A](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/91-royal-spa-bc/u-12-mm-a.ics)
 * [U 14 - DD A](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/91-royal-spa-bc/u-14-dd-a.ics)
@@ -632,11 +627,9 @@ Dernière mise à jour: 18/09/2025 22:05:15
 ## [854 BC SPRIMONT](http://www.cpliege.be/clubs/club0854.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/854-bc-sprimont/854-bc-sprimont.csv)
-* [COUPE AWBB U12 -GARCONS](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/854-bc-sprimont/coupe-awbb-u12-garcons.ics)
 * [COUPE AWBB U14 - GARCONS](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/854-bc-sprimont/coupe-awbb-u14-garcons.ics)
 * [COUPE AWBB U16 - GARCONS](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/854-bc-sprimont/coupe-awbb-u16-garcons.ics)
 * [COUPE AWBB U18 - GARCONS](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/854-bc-sprimont/coupe-awbb-u18-garcons.ics)
-* [CPE BELG MESSIEURS](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/854-bc-sprimont/cpe-belg-messieurs.ics)
 * [CPE PROV DAMES](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/854-bc-sprimont/cpe-prov-dames.ics)
 * [CPE PROV JUNIORS](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/854-bc-sprimont/cpe-prov-juniors.ics)
 * [CPE PROV MESSIEURS](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/854-bc-sprimont/cpe-prov-messieurs.ics)
@@ -676,7 +669,6 @@ Dernière mise à jour: 18/09/2025 22:05:15
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1595-rbc-blegny/1595-rbc-blegny.csv)
 * [CPE PROV CADETTES](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1595-rbc-blegny/cpe-prov-cadettes.ics)
-* [CPE PROV DAMES](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1595-rbc-blegny/cpe-prov-dames.ics)
 * [CPE PROV MINIMES DD](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1595-rbc-blegny/cpe-prov-minimes-dd.ics)
 * [CPE PROV PUPILLES MM](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1595-rbc-blegny/cpe-prov-pupilles-mm.ics)
 * [DD - DIVISION 1](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1595-rbc-blegny/dd-division-1.ics)
@@ -739,7 +731,6 @@ Dernière mise à jour: 18/09/2025 22:05:15
 ## [2657 DF BC MALMEDY](http://www.cpliege.be/Clubs/club2657.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2657-df-bc-malmedy/2657-df-bc-malmedy.csv)
-* [CPE PROV JUNIORS](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2657-df-bc-malmedy/cpe-prov-juniors.ics)
 * [CPE PROV PUPILLES DD](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2657-df-bc-malmedy/cpe-prov-pupilles-dd.ics)
 * [DD - DIVISION 3 C](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2657-df-bc-malmedy/dd-division-3-c.ics)
 * [MM - DIVISION 4 E](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2657-df-bc-malmedy/mm-division-4-e.ics)
@@ -1025,7 +1016,6 @@ Dernière mise à jour: 18/09/2025 22:05:15
 * [U 12 - DD](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/236-rbc-awans/u-12-dd.ics)
 * [U 12 - MM B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/236-rbc-awans/u-12-mm-b.ics)
 * [U 14 - DD B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/236-rbc-awans/u-14-dd-b.ics)
-* [U 14 - ELITES MM B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/236-rbc-awans/u-14-elites-mm-b.ics)
 * [U 14 - PROV MM D](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/236-rbc-awans/u-14-prov-mm-d.ics)
 * [U 16 - DD A](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/236-rbc-awans/u-16-dd-a.ics)
 * [U 16 - DD B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/236-rbc-awans/u-16-dd-b.ics)
@@ -1039,7 +1029,6 @@ Dernière mise à jour: 18/09/2025 22:05:15
 ## [1200 BC NINANE](http://www.cpliege.be/clubs/club1200.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1200-bc-ninane/1200-bc-ninane.csv)
-* [COUPE AWBB MESSIEURS](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1200-bc-ninane/coupe-awbb-messieurs.ics)
 * [CPE PROV CADETS](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1200-bc-ninane/cpe-prov-cadets.ics)
 * [CPE PROV CADETTES](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1200-bc-ninane/cpe-prov-cadettes.ics)
 * [CPE PROV MINIMES DD](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1200-bc-ninane/cpe-prov-minimes-dd.ics)
@@ -1129,7 +1118,6 @@ Dernière mise à jour: 18/09/2025 22:05:15
 * [U 14 - PROV MM C](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2722-cristal-sgh/u-14-prov-mm-c.ics)
 * [U 16 - ELITES MM A](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2722-cristal-sgh/u-16-elites-mm-a.ics)
 * [U 16 - ELITES MM B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2722-cristal-sgh/u-16-elites-mm-b.ics)
-* [U 16 - PROV MM B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2722-cristal-sgh/u-16-prov-mm-b.ics)
 * [U 16 - PROV MM C](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2722-cristal-sgh/u-16-prov-mm-c.ics)
 * [U 18 - ELITES MM A](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2722-cristal-sgh/u-18-elites-mm-a.ics)
 * [U 18 - ELITES MM B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2722-cristal-sgh/u-18-elites-mm-b.ics)
@@ -1165,7 +1153,6 @@ Dernière mise à jour: 18/09/2025 22:05:15
 ## [1215 RBC DISON-ANDRIMONT](http://www.cpliege.be/clubs/club1215.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1215-rbc-dison-andrimont/1215-rbc-dison-andrimont.csv)
-* [CPE PROV DAMES](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1215-rbc-dison-andrimont/cpe-prov-dames.ics)
 * [CPE PROV MESSIEURS](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1215-rbc-dison-andrimont/cpe-prov-messieurs.ics)
 * [CPE PROV MINIMES DD](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1215-rbc-dison-andrimont/cpe-prov-minimes-dd.ics)
 * [CPE PROV PUPILLES DD](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1215-rbc-dison-andrimont/cpe-prov-pupilles-dd.ics)
@@ -1176,7 +1163,6 @@ Dernière mise à jour: 18/09/2025 22:05:15
 * [MM - DIVISION 3 B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1215-rbc-dison-andrimont/mm-division-3-b.ics)
 * [MM - DIVISION 4 A](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1215-rbc-dison-andrimont/mm-division-4-a.ics)
 * [MM - DIVISION 4 C](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1215-rbc-dison-andrimont/mm-division-4-c.ics)
-* [RBC DISON-ANDRIMONT A (+ 5)](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1215-rbc-dison-andrimont/rbc-dison-andrimont-a-5.ics)
 * [U 10 - MM F](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1215-rbc-dison-andrimont/u-10-mm-f.ics)
 * [U 10 - MM H](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1215-rbc-dison-andrimont/u-10-mm-h.ics)
 * [U 12 - DD](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1215-rbc-dison-andrimont/u-12-dd.ics)
@@ -1192,7 +1178,6 @@ Dernière mise à jour: 18/09/2025 22:05:15
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2211-harimalia-bc/2211-harimalia-bc.csv)
 * [COUPE AWBB U21 - GARCONS](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2211-harimalia-bc/coupe-awbb-u21-garcons.ics)
 * [CPE PROV JUNIORS](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2211-harimalia-bc/cpe-prov-juniors.ics)
-* [CPE PROV MINIMES MM](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2211-harimalia-bc/cpe-prov-minimes-mm.ics)
 * [CPE PROV PUPILLES MM](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2211-harimalia-bc/cpe-prov-pupilles-mm.ics)
 * [MM - DIVISION 1](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2211-harimalia-bc/mm-division-1.ics)
 * [MM - DIVISION 2 A](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2211-harimalia-bc/mm-division-2-a.ics)
@@ -1216,7 +1201,6 @@ Dernière mise à jour: 18/09/2025 22:05:15
 ## [2724 FLERON BBC](http://www.cpliege.be/clubs/club2724.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2724-fleron-bbc/2724-fleron-bbc.csv)
-* [CPE PROV MESSIEURS](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2724-fleron-bbc/cpe-prov-messieurs.ics)
 * [MM - DIVISION 2 A](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2724-fleron-bbc/mm-division-2-a.ics)
 * [MM - DIVISION 3 A](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2724-fleron-bbc/mm-division-3-a.ics)
 * [U 10 - MM A](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2724-fleron-bbc/u-10-mm-a.ics)
@@ -1289,15 +1273,12 @@ Dernière mise à jour: 18/09/2025 22:05:15
 ## [2309 HANNUT BC](http://www.cpliege.be/Clubs/club2309.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2309-hannut-bc/2309-hannut-bc.csv)
-* [COUPE AWBB MESSIEURS](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2309-hannut-bc/coupe-awbb-messieurs.ics)
-* [CPE PROV DAMES](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2309-hannut-bc/cpe-prov-dames.ics)
 * [CPE PROV MESSIEURS](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2309-hannut-bc/cpe-prov-messieurs.ics)
 * [CPE PROV MINIMES MM](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2309-hannut-bc/cpe-prov-minimes-mm.ics)
 * [DD - DIVISION 1](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2309-hannut-bc/dd-division-1.ics)
 * [MM - DIVISION 1](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2309-hannut-bc/mm-division-1.ics)
 * [MM - DIVISION 3 A](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2309-hannut-bc/mm-division-3-a.ics)
 * [MM - DIVISION 4 B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2309-hannut-bc/mm-division-4-b.ics)
-* [RBC DISON-ANDRIMONT A (+ 5)](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2309-hannut-bc/rbc-dison-andrimont-a-5.ics)
 * [U 10 - MM L](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2309-hannut-bc/u-10-mm-l.ics)
 * [U 12 - MM I](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2309-hannut-bc/u-12-mm-i.ics)
 * [U 14 - PROV MM D](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2309-hannut-bc/u-14-prov-mm-d.ics)
