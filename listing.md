@@ -8,7 +8,7 @@ Les agendas sont mis à jour automatiquement toutes semaines.
 
 [L'agenda global](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/CPLi%C3%A8ge.ics) est également disponible.
 
-Dernière mise à jour: 06/11/2025 22:05:20
+Dernière mise à jour: 13/11/2025 22:05:42
 
 ## [44 RBC ESNEUX](http://www.cpliege.be/clubs/club0044.asp)
 
@@ -57,6 +57,7 @@ Dernière mise à jour: 06/11/2025 22:05:20
 ## [2410 ETOILE JUPILLE](http://www.cpliege.be/Clubs/club2410.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2410-etoile-jupille/2410-etoile-jupille.csv)
+* [CPE PROV MESSIEURS](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2410-etoile-jupille/cpe-prov-messieurs.ics)
 * [CPE PROV PUPILLES MM](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2410-etoile-jupille/cpe-prov-pupilles-mm.ics)
 * [DD - DIVISION 3 C](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2410-etoile-jupille/dd-division-3-c.ics)
 * [MM - DIVISION 1](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2410-etoile-jupille/mm-division-1.ics)
@@ -74,6 +75,7 @@ Dernière mise à jour: 06/11/2025 22:05:20
 ## [46 PEPINSTER EAST B](http://www.cpliege.be/clubs/club0046.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/46-pepinster-east-b/46-pepinster-east-b.csv)
+* [CPE PROV CADETS](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/46-pepinster-east-b/cpe-prov-cadets.ics)
 * [DD - DIVISION 1](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/46-pepinster-east-b/dd-division-1.ics)
 * [DD - DIVISION 2 B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/46-pepinster-east-b/dd-division-2-b.ics)
 * [DD - REGIONALE 2 B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/46-pepinster-east-b/dd-regionale-2-b.ics)
@@ -248,7 +250,6 @@ Dernière mise à jour: 06/11/2025 22:05:20
 ## [2744 MARCHIN BASKET](http://www.cpliege.be/Clubs/club2744.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2744-marchin-basket/2744-marchin-basket.csv)
-* [U 12 - MM J](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2744-marchin-basket/u-12-mm-j.ics)
 * [U 16 - PROV MM C](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2744-marchin-basket/u-16-prov-mm-c.ics)
 * [U 18 - PROV MM](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2744-marchin-basket/u-18-prov-mm.ics)
 
@@ -444,6 +445,8 @@ Dernière mise à jour: 06/11/2025 22:05:20
 ## [1555 ALL. FLEMALLE](http://www.cpliege.be/Clubs/club1555.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1555-all-flemalle/1555-all-flemalle.csv)
+* [CPE PROV MINIMES DD](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1555-all-flemalle/cpe-prov-minimes-dd.ics)
+* [CPE PROV PUPILLES DD](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1555-all-flemalle/cpe-prov-pupilles-dd.ics)
 * [DD - DIVISION 2 A](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1555-all-flemalle/dd-division-2-a.ics)
 * [DD - DIVISION 3 B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1555-all-flemalle/dd-division-3-b.ics)
 * [DD - DIVISION 3 C](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1555-all-flemalle/dd-division-3-c.ics)
@@ -645,6 +648,7 @@ Dernière mise à jour: 06/11/2025 22:05:20
 ## [928 ORP JAUCHE](http://www.cpliege.be/clubs/club0928.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/928-orp-jauche/928-orp-jauche.csv)
+* [CPE PROV PUPILLES MM](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/928-orp-jauche/cpe-prov-pupilles-mm.ics)
 * [DD - DIVISION 3 B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/928-orp-jauche/dd-division-3-b.ics)
 * [MM - DIVISION 4 A](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/928-orp-jauche/mm-division-4-a.ics)
 * [MM - DIVISION 4 D](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/928-orp-jauche/mm-division-4-d.ics)
@@ -666,6 +670,7 @@ Dernière mise à jour: 06/11/2025 22:05:20
 ## [2663 COLLEGE S LOUIS](http://www.cpliege.be/Clubs/club2663.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2663-college-s-louis/2663-college-s-louis.csv)
+* [CPE PROV PUPILLES MM](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2663-college-s-louis/cpe-prov-pupilles-mm.ics)
 * [DD - DIVISION 2 A](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2663-college-s-louis/dd-division-2-a.ics)
 * [U 10 - MM C](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2663-college-s-louis/u-10-mm-c.ics)
 * [U 10 - MM I](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2663-college-s-louis/u-10-mm-i.ics)
@@ -771,6 +776,7 @@ Dernière mise à jour: 06/11/2025 22:05:20
 ## [2700 BC VERLAINE](http://www.cpliege.be/Clubs/club2700.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2700-bc-verlaine/2700-bc-verlaine.csv)
+* [CPE PROV PUPILLES DD](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2700-bc-verlaine/cpe-prov-pupilles-dd.ics)
 * [DD - DIVISION 2 B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2700-bc-verlaine/dd-division-2-b.ics)
 * [DD - DIVISION 3 B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2700-bc-verlaine/dd-division-3-b.ics)
 * [MM - DIVISION 4 A](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2700-bc-verlaine/mm-division-4-a.ics)
@@ -868,6 +874,7 @@ Dernière mise à jour: 06/11/2025 22:05:20
 ## [1200 BC NINANE](http://www.cpliege.be/clubs/club1200.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1200-bc-ninane/1200-bc-ninane.csv)
+* [CPE PROV PUPILLES MM](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1200-bc-ninane/cpe-prov-pupilles-mm.ics)
 * [DD - DIVISION 2 A](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1200-bc-ninane/dd-division-2-a.ics)
 * [DD - DIVISION 2 B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1200-bc-ninane/dd-division-2-b.ics)
 * [MM - DIVISION 3 B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1200-bc-ninane/mm-division-3-b.ics)
@@ -893,6 +900,7 @@ Dernière mise à jour: 06/11/2025 22:05:20
 ## [2061 THEUX BC](http://www.cpliege.be/Clubs/club2061.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2061-theux-bc/2061-theux-bc.csv)
+* [CPE PROV PUPILLES MM](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2061-theux-bc/cpe-prov-pupilles-mm.ics)
 * [MM - DIVISION 1](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2061-theux-bc/mm-division-1.ics)
 * [MM - DIVISION 3 C](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2061-theux-bc/mm-division-3-c.ics)
 * [MM - DIVISION 4 A](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2061-theux-bc/mm-division-4-a.ics)
@@ -966,6 +974,7 @@ Dernière mise à jour: 06/11/2025 22:05:20
 ## [1215 RBC DISON-ANDRIMONT](http://www.cpliege.be/clubs/club1215.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1215-rbc-dison-andrimont/1215-rbc-dison-andrimont.csv)
+* [CPE PROV PUPILLES DD](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1215-rbc-dison-andrimont/cpe-prov-pupilles-dd.ics)
 * [DD - DIVISION 2 A](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1215-rbc-dison-andrimont/dd-division-2-a.ics)
 * [DD - DIVISION 3 C](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1215-rbc-dison-andrimont/dd-division-3-c.ics)
 * [MM - DIVISION 2 B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1215-rbc-dison-andrimont/mm-division-2-b.ics)
@@ -1015,6 +1024,10 @@ Dernière mise à jour: 06/11/2025 22:05:20
 ## [428 MAIL. COMBLAIN](http://www.cpliege.be/clubs/club0428.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/428-mail-comblain/428-mail-comblain.csv)
+* [CPE PROV CADETS](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/428-mail-comblain/cpe-prov-cadets.ics)
+* [CPE PROV MESSIEURS](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/428-mail-comblain/cpe-prov-messieurs.ics)
+* [CPE PROV MINIMES DD](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/428-mail-comblain/cpe-prov-minimes-dd.ics)
+* [CPE PROV PUPILLES DD](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/428-mail-comblain/cpe-prov-pupilles-dd.ics)
 * [DD - DIVISION 3 C](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/428-mail-comblain/dd-division-3-c.ics)
 * [MM - DIVISION 1](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/428-mail-comblain/mm-division-1.ics)
 * [MM - DIVISION 4 E](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/428-mail-comblain/mm-division-4-e.ics)
