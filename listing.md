@@ -8,7 +8,7 @@ Les agendas sont mis à jour automatiquement toutes semaines.
 
 [L'agenda global](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/CPLi%C3%A8ge.ics) est également disponible.
 
-Dernière mise à jour: 13/11/2025 22:05:42
+Dernière mise à jour: 20/11/2025 22:05:29
 
 ## [44 RBC ESNEUX](http://www.cpliege.be/clubs/club0044.asp)
 
@@ -853,6 +853,7 @@ Dernière mise à jour: 13/11/2025 22:05:42
 ## [236 RBC AWANS](http://www.cpliege.be/clubs/club0236.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/236-rbc-awans/236-rbc-awans.csv)
+* [CPE PROV MINIMES DD](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/236-rbc-awans/cpe-prov-minimes-dd.ics)
 * [DD - DIVISION 3 B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/236-rbc-awans/dd-division-3-b.ics)
 * [MM - DIVISION 2 A](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/236-rbc-awans/mm-division-2-a.ics)
 * [MM - DIVISION 4 B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/236-rbc-awans/mm-division-4-b.ics)
@@ -874,6 +875,7 @@ Dernière mise à jour: 13/11/2025 22:05:42
 ## [1200 BC NINANE](http://www.cpliege.be/clubs/club1200.asp)
 
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1200-bc-ninane/1200-bc-ninane.csv)
+* [CPE PROV MINIMES DD](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1200-bc-ninane/cpe-prov-minimes-dd.ics)
 * [CPE PROV PUPILLES MM](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1200-bc-ninane/cpe-prov-pupilles-mm.ics)
 * [DD - DIVISION 2 A](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1200-bc-ninane/dd-division-2-a.ics)
 * [DD - DIVISION 2 B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1200-bc-ninane/dd-division-2-b.ics)
