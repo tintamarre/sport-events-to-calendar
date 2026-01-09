@@ -1,235 +1,382 @@
+"""
+Basketball calendar generator for CPLiège clubs.
+
+Fetches match schedules from cpliege.be and generates ICS calendar files.
+"""
+
+import logging
+import os
+import uuid
+import warnings
+from datetime import datetime
+from typing import Optional
+
 import pandas as pd
-from bs4 import BeautifulSoup
 import requests
 import slugify
-import os
+from bs4 import BeautifulSoup
 from icalendar import Calendar, Event
-import uuid
-from datetime import datetime
-from rich import print
+from requests.adapters import HTTPAdapter
+from rich import print as rprint
+from urllib3.util.retry import Retry
+
+# Suppress BeautifulSoup warning about from_encoding with unicode markup
+# This is triggered by pandas read_html internally
+warnings.filterwarnings(
+    "ignore",
+    message="You provided Unicode markup but also provided a value for from_encoding",
+)
+
+# Configure logging
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s - %(levelname)s - %(message)s",
+)
+logger = logging.getLogger(__name__)
+
+# Constants
+BASE_URL = "http://www.cpliege.be"
+CLUBS_URL = f"{BASE_URL}/caleclub.asp"
+REQUEST_TIMEOUT = 30
+MAX_RETRIES = 3
+EVENT_DURATION_MINUTES = 120
+TIMEZONE = "Europe/Brussels"
+BASE_RAW_PATH = (
+    "https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/"
+)
+
+# Expected column names after renaming
+COLUMN_NAMES = [
+    "Code",
+    "Unknown",
+    "Weekday",
+    "Date",
+    "Heure",
+    "Équipe 1",
+    "Équipe 2",
+    "Catégorie",
+    "Autre",
+]
 
 
-clubs_url = "http://www.cpliege.be/caleclub.asp"
-
-clubs_url_html = requests.get(clubs_url).text
-
-soup = BeautifulSoup(clubs_url_html, "html.parser")
-
-# read html and get every links
-clubs = soup.find_all("a")
-
-# tranform to get a dict with club name and url
-clubs_dict = {}
-for club in clubs:
-    # removes "all whitespace characters (space, tab, newline, return, formfeed)"
-    club_name = " ".join(club.text.split())
-    clubs_dict[club_name] = "http://www.cpliege.be/" + club["href"]
-
-print(clubs_dict)
+def create_session() -> requests.Session:
+    """Create a requests session with retry logic."""
+    session = requests.Session()
+    retry_strategy = Retry(
+        total=MAX_RETRIES,
+        backoff_factor=1,
+        status_forcelist=[429, 500, 502, 503, 504],
+    )
+    adapter = HTTPAdapter(max_retries=retry_strategy)
+    session.mount("http://", adapter)
+    session.mount("https://", adapter)
+    return session
 
 
-def get_club_agenda(club_url):
-    agenda = pd.read_html(club_url, header=5, encoding="ISO-8859-1")[0]
+def fetch_clubs(session: requests.Session) -> dict[str, str]:
+    """Fetch list of clubs from CPLiège website."""
+    try:
+        response = session.get(CLUBS_URL, timeout=REQUEST_TIMEOUT)
+        response.raise_for_status()
+    except requests.RequestException as e:
+        logger.error(f"Failed to fetch clubs list: {e}")
+        raise
 
-    # remove if column "Unnamed: 7" is empty OR starts with "(" and ends with ")"
-    agenda = agenda[
-        ~(
-            agenda["Unnamed: 7"].isnull()
-            | agenda["Unnamed: 7"].str.startswith("(")
-            & agenda["Unnamed: 7"].str.endswith(")")
+    soup = BeautifulSoup(response.text, "html.parser")
+    clubs = soup.find_all("a")
+
+    clubs_dict = {}
+    for club in clubs:
+        club_name = " ".join(club.text.split())
+        if club_name and club.get("href"):
+            clubs_dict[club_name] = f"{BASE_URL}/" + club["href"]
+
+    logger.info(f"Found {len(clubs_dict)} clubs")
+    return clubs_dict
+
+
+def get_club_agenda(club_url: str) -> Optional[pd.DataFrame]:
+    """
+    Fetch and parse club agenda from the website.
+
+    Returns None if the agenda cannot be parsed.
+    """
+    try:
+        tables = pd.read_html(club_url, header=5, encoding="ISO-8859-1")
+        if not tables:
+            logger.warning(f"No tables found at {club_url}")
+            return None
+        agenda = tables[0]
+    except Exception as e:
+        logger.error(f"Failed to read HTML table from {club_url}: {e}")
+        return None
+
+    # Validate we have enough columns
+    if len(agenda.columns) < 9:
+        logger.warning(
+            f"Table has {len(agenda.columns)} columns, expected 9 at {club_url}"
         )
-    ]
+        return None
 
-    print(f"Agenda shape: {agenda.shape} from {club_url}")
+    # Check if "Unnamed: 7" exists (the category column)
+    if "Unnamed: 7" not in agenda.columns:
+        logger.warning(f"Missing expected column 'Unnamed: 7' at {club_url}")
+        return None
 
-    # rename columns
-    agenda.columns = [
-        "Code",
-        "Unknown",
-        "Weekday",
-        "Date",
-        "Heure",
-        "Équipe 1",
-        "Équipe 2",
-        "Catégorie",
-        "Autre",
-    ]
+    # Convert the column to string safely before using .str accessor
+    cat_col = agenda["Unnamed: 7"].fillna("").astype(str)
 
-    # drop "Unknown" column
+    # Filter out rows where category is empty or is a parenthetical note
+    mask = ~(
+        (cat_col == "")
+        | (cat_col == "nan")
+        | (cat_col.str.startswith("(") & cat_col.str.endswith(")"))
+    )
+    agenda = agenda[mask]
+
+    if agenda.empty:
+        logger.warning(f"No valid events found at {club_url}")
+        return None
+
+    logger.info(f"Agenda shape: {agenda.shape} from {club_url}")
+
+    # Rename columns
+    agenda.columns = COLUMN_NAMES
+
+    # Drop "Unknown" column
     agenda = agenda.drop("Unknown", axis=1)
 
-    agenda = agenda[~agenda["Date"].isnull()]
-    agenda = agenda[~agenda["Heure"].isnull()]
+    # Filter out rows with missing Date or Heure
+    agenda = agenda[agenda["Date"].notna()]
+    agenda = agenda[agenda["Heure"].notna()]
 
-    # Heure to string
+    if agenda.empty:
+        logger.warning(f"No events with valid dates found at {club_url}")
+        return None
+
+    # Convert Heure to string and clean up
     agenda["Heure"] = agenda["Heure"].astype(str)
 
-    # if Heure is ".", set it to 00:00
+    # If Heure is ".", set it to 00:00
     agenda.loc[agenda["Heure"] == ".", "Heure"] = "00:00"
 
-    # replace . and ; in Heure by :
-    for char in [".", ";"]:
-        agenda["Heure"] = agenda["Heure"].str.replace(char, ":", regex=False)
+    # Replace . and ; in Heure by :
+    agenda["Heure"] = agenda["Heure"].str.replace(".", ":", regex=False)
+    agenda["Heure"] = agenda["Heure"].str.replace(";", ":", regex=False)
 
-    # if Heure contains only one number after : add a 0
-    agenda["Heure"] = agenda["Heure"].apply(
-        lambda x: x if len(x.split(":")[1]) == 2 else x + "0"
-    )
+    # If Heure contains only one digit after : add a 0
+    def fix_time_format(time_str: str) -> str:
+        if ":" not in time_str:
+            return "00:00"
+        parts = time_str.split(":")
+        if len(parts) != 2:
+            return "00:00"
+        hours, minutes = parts
+        if len(minutes) == 1:
+            minutes = minutes + "0"
+        elif len(minutes) == 0:
+            minutes = "00"
+        return f"{hours}:{minutes}"
 
-    # remove Weekday column
-    agenda.drop("Weekday", axis=1, inplace=True)
+    agenda["Heure"] = agenda["Heure"].apply(fix_time_format)
 
-    # Date as datetime
-    agenda["Date"] = pd.to_datetime(agenda["Date"], format="%d/%m/%y")
+    # Remove Weekday column
+    agenda = agenda.drop("Weekday", axis=1)
 
-    # order by catégorie and then by date
-    agenda.sort_values(by=["Catégorie", "Date"], inplace=True)
+    # Parse Date as datetime
+    try:
+        agenda["Date"] = pd.to_datetime(agenda["Date"], format="%d/%m/%y")
+    except Exception as e:
+        logger.error(f"Failed to parse dates from {club_url}: {e}")
+        return None
+
+    # Sort by category and date
+    agenda = agenda.sort_values(by=["Catégorie", "Date"])
 
     return agenda
 
 
-def generate_ics(agenda, filename, cal_name, club_url):
-    cal = Calendar()
+def generate_ics(
+    agenda: pd.DataFrame, filename: str, cal_name: str, club_url: str
+) -> bool:
+    """
+    Generate an ICS calendar file from the agenda.
 
-    cal.add("version", "2.0")
+    Returns True on success, False on failure.
+    """
+    try:
+        cal = Calendar()
+        cal.add("version", "2.0")
+        cal.add("prodid", "-//CPLiège Calendar//cpliege.be//")
+        cal.add("x-wr-calname", cal_name)
 
-    for event in agenda.iterrows():
-        e = Event()
+        for _, event_row in agenda.iterrows():
+            e = Event()
 
-        name = (
-            "🏀 "
-            + event[1]["Catégorie"]
-            + ": "
-            + event[1]["Équipe 1"]
-            + " et "
-            + event[1]["Équipe 2"]
-        )
+            equipe1 = event_row.get("Équipe 1", "")
+            equipe2 = event_row.get("Équipe 2", "")
+            categorie = event_row.get("Catégorie", "")
 
-        code = event[1]["Code"]
-        description = "[" + code + "] — " + name
+            if pd.isna(equipe1):
+                equipe1 = ""
+            if pd.isna(equipe2):
+                equipe2 = ""
+            if pd.isna(categorie):
+                categorie = ""
 
-        startime = (
-            pd.to_datetime(event[1]["Date"]).strftime("%Y-%m-%d")
-            + " "
-            + event[1]["Heure"]
-        )
-        endtime = pd.to_datetime(startime) + pd.Timedelta(minutes=120)
+            name = f"🏀 {categorie}: {equipe1} et {equipe2}"
 
-        # time zone
-        location = "Europe/Brussels"
+            code = event_row.get("Code", "")
+            if pd.isna(code):
+                code = ""
+            description = f"[{code}] — {name}"
 
-        # from local time to UTC
-        startime = pd.to_datetime(startime).tz_localize(location).tz_convert("UTC")
-        endtime = pd.to_datetime(endtime).tz_localize(location).tz_convert("UTC")
+            # Build datetime
+            date_str = pd.to_datetime(event_row["Date"]).strftime("%Y-%m-%d")
+            time_str = event_row["Heure"]
+            datetime_str = f"{date_str} {time_str}"
 
-        # if ["Équipe 1"] is not empty
-        if not pd.isnull(event[1]["Équipe 1"]):
-            location = event[1]["Équipe 1"]
-        else:
-            location = ""
+            try:
+                start_dt = pd.to_datetime(datetime_str)
+                end_dt = start_dt + pd.Timedelta(minutes=EVENT_DURATION_MINUTES)
 
-        # generate uuid from name
-        event_uuid = uuid.uuid5(uuid.NAMESPACE_DNS, name)
+                # Localize to timezone and convert to UTC
+                start_dt = start_dt.tz_localize(TIMEZONE).tz_convert("UTC")
+                end_dt = end_dt.tz_localize(TIMEZONE).tz_convert("UTC")
+            except Exception as e:
+                logger.warning(f"Failed to parse datetime '{datetime_str}': {e}")
+                continue
 
-        e.begin = startime.strftime("%Y-%m-%d %H:%M:%S%Z")
-        e.end = endtime.strftime("%Y-%m-%d %H:%M:%S%Z")
-        e.add("summary", name)
-        e.add("dtstart", startime)
-        e.add("dtend", endtime)
-        # e.add('dtstamp', datetime.now())
-        e.add("location", location)
-        e.add("priority", 5)
-        e.add("sequence", 1)
-        e.add("description", description)
-        e.add("url", club_url)
-        e.add("uid", event_uuid)
+            # Location is Équipe 1 (home team)
+            location = equipe1 if equipe1 else ""
 
-        cal.add_component(e)
+            # Generate deterministic UUID from name and date
+            event_uuid = uuid.uuid5(uuid.NAMESPACE_DNS, f"{name}-{date_str}")
 
-    # save to file
-    with open(filename, "wb") as f:
-        f.write(cal.to_ical())
-        f.close()
+            e.add("summary", name)
+            e.add("dtstart", start_dt)
+            e.add("dtend", end_dt)
+            e.add("location", location)
+            e.add("priority", 5)
+            e.add("sequence", 1)
+            e.add("description", description)
+            e.add("url", club_url)
+            e.add("uid", str(event_uuid))
+
+            cal.add_component(e)
+
+        # Ensure directory exists
+        os.makedirs(os.path.dirname(filename), exist_ok=True)
+
+        with open(filename, "wb") as f:
+            f.write(cal.to_ical())
+
+        return True
+
+    except Exception as e:
+        logger.error(f"Failed to generate ICS file {filename}: {e}")
+        return False
 
 
-if __name__ == "__main__":
-    base_raw_path = (
-        "https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/"
-    )
+def main():
+    """Main entry point."""
+    session = create_session()
 
+    # Fetch clubs
+    try:
+        clubs_dict = fetch_clubs(session)
+    except Exception as e:
+        logger.error(f"Failed to fetch clubs: {e}")
+        return 1
+
+    if not clubs_dict:
+        logger.error("No clubs found")
+        return 1
+
+    rprint(f"[bold green]Found {len(clubs_dict)} clubs[/bold green]")
+
+    # Build markdown listing
     md = "# 🏀 Les clubs du CPLiège\n\n"
-
     md += "Ce dépôt contient les agendas des clubs de basket du CPLiège.\n\n"
     md += "Les agendas sont disponibles au format CSV et ICS.\n\n"
     md += "Les agendas sont mis à jour automatiquement toutes semaines.\n\n"
-    md += "[L'agenda global](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/CPLi%C3%A8ge.ics) est également disponible.\n\n"
-    md += (
-        "Dernière mise à jour: " + datetime.now().strftime("%d/%m/%Y %H:%M:%S") + "\n\n"
-    )
+    md += f"[L'agenda global]({BASE_RAW_PATH}data/CPLi%C3%A8ge.ics) est également disponible.\n\n"
+    md += f"Dernière mise à jour: {datetime.now().strftime('%d/%m/%Y %H:%M:%S')}\n\n"
 
-    agenda = pd.DataFrame()
+    all_agendas = pd.DataFrame()
+    successful_clubs = 0
+    failed_clubs = []
 
     for club_name, club_url in clubs_dict.items():
-        md += "## [" + club_name + "](" + club_url + ")\n\n"
+        rprint(f"[blue]Processing {club_name}...[/blue]")
 
-        club_agenda = get_club_agenda(club_url)
+        try:
+            club_agenda = get_club_agenda(club_url)
 
-        agenda = pd.concat([agenda, club_agenda], ignore_index=True)
+            if club_agenda is None or club_agenda.empty:
+                logger.warning(f"No agenda data for {club_name}")
+                failed_clubs.append((club_name, "No agenda data"))
+                continue
 
-        storage_path = "data/" + slugify.slugify(club_name)
+            md += f"## [{club_name}]({club_url})\n\n"
 
-        if not os.path.exists(storage_path):
-            os.mkdir(storage_path)
+            all_agendas = pd.concat([all_agendas, club_agenda], ignore_index=True)
 
-        club_agenda.to_csv(
-            storage_path + "/" + slugify.slugify(club_name) + ".csv", index=False
-        )
+            storage_path = f"data/{slugify.slugify(club_name)}"
+            os.makedirs(storage_path, exist_ok=True)
 
-        md += (
-            "* [Agenda]("
-            + base_raw_path
-            + storage_path
-            + "/"
-            + slugify.slugify(club_name)
-            + ".csv)\n"
-        )
+            # Save CSV
+            csv_filename = f"{storage_path}/{slugify.slugify(club_name)}.csv"
+            club_agenda.to_csv(csv_filename, index=False)
+            md += f"* [Agenda]({BASE_RAW_PATH}{csv_filename})\n"
 
-        categories = club_agenda["Catégorie"].unique()
+            # Generate ICS for each category
+            categories = club_agenda["Catégorie"].dropna().unique()
 
-        for category in categories:
-            club_category_agenda = club_agenda[club_agenda["Catégorie"] == category]
+            for category in categories:
+                club_category_agenda = club_agenda[
+                    club_agenda["Catégorie"] == category
+                ]
 
-            filename = (
-                storage_path
-                + "/"
-                + slugify.slugify(club_category_agenda["Catégorie"].iloc[0])
-                + ".ics"
-            )
+                ics_filename = f"{storage_path}/{slugify.slugify(category)}.ics"
+                cal_name = f"{club_name} - {category}"
 
-            cal_name = club_name + " - " + club_category_agenda["Catégorie"].iloc[0]
+                rprint(f"  Generating {cal_name}")
 
-            print(f"Generating {cal_name} calendar at {filename}")
-            generate_ics(club_category_agenda, filename, cal_name, club_url)
+                if generate_ics(club_category_agenda, ics_filename, cal_name, club_url):
+                    md += f"* [{category}]({BASE_RAW_PATH}{ics_filename})\n"
 
-            md += (
-                "* ["
-                + category
-                + "]("
-                + base_raw_path
-                + storage_path
-                + "/"
-                + slugify.slugify(category)
-                + ".ics)\n"
-            )
+            md += "\n"
+            successful_clubs += 1
 
-        md += "\n"
+        except Exception as e:
+            logger.error(f"Failed to process club {club_name}: {e}")
+            failed_clubs.append((club_name, str(e)))
+            continue
 
-    # remove duplicates from agenda
-    agenda.drop_duplicates(inplace=True)
-    generate_ics(
-        agenda, "data/CPLiège.ics", "CPLiège", "http://www.cpliege.be/caleclub.asp"
-    )
+    # Generate global calendar
+    if not all_agendas.empty:
+        all_agendas = all_agendas.drop_duplicates()
+        os.makedirs("data", exist_ok=True)
+        if generate_ics(all_agendas, "data/CPLiège.ics", "CPLiège", CLUBS_URL):
+            rprint("[bold green]Generated global calendar[/bold green]")
 
+    # Save markdown listing
     with open("listing.md", "w") as f:
         f.write(md)
-        f.close()
+
+    # Print summary
+    rprint("\n[bold]Summary:[/bold]")
+    rprint(f"  [green]Successful: {successful_clubs}[/green]")
+    rprint(f"  [red]Failed: {len(failed_clubs)}[/red]")
+
+    if failed_clubs:
+        rprint("\n[bold red]Failed clubs:[/bold red]")
+        for club_name, error in failed_clubs:
+            rprint(f"  - {club_name}: {error}")
+
+    return 0 if successful_clubs > 0 else 1
+
+
+if __name__ == "__main__":
+    exit(main())
