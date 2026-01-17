@@ -1,3 +1,4 @@
+import ICAL from 'ical.js'
 import type { CalendarEvent, DataManifest } from '../types'
 
 const BASE_PATH = import.meta.env.DEV ? '/data' : '/sport-events-to-calendar/data'
@@ -8,6 +9,50 @@ export async function loadManifest(): Promise<DataManifest> {
     throw new Error('Failed to load manifest')
   }
   return response.json()
+}
+
+export async function loadICSEvents(icsPath: string, categoryName: string): Promise<CalendarEvent[]> {
+  const fullPath = import.meta.env.DEV ? icsPath : `/sport-events-to-calendar${icsPath}`
+  const response = await fetch(fullPath)
+  if (!response.ok) {
+    throw new Error(`Failed to load ICS: ${icsPath}`)
+  }
+
+  const text = await response.text()
+  const jcalData = ICAL.parse(text)
+  const comp = new ICAL.Component(jcalData)
+  const vevents = comp.getAllSubcomponents('vevent')
+
+  const events: CalendarEvent[] = []
+
+  for (const vevent of vevents) {
+    const event = new ICAL.Event(vevent)
+    const summary = event.summary || ''
+    const startDate = event.startDate
+    const code = event.uid ? event.uid.split('-')[0] : ''
+    const description = event.description || ''
+
+    // Extract teams from summary (format: "🏀 Category: Team1 et Team2")
+    const match = summary.match(/:\s*(.+?)\s+et\s+(.+)$/)
+    const team1 = match ? match[1].trim() : ''
+    const team2 = match ? match[2].trim() : ''
+
+    // Extract code from description if available (format: "[CODE] — ...")
+    const codeMatch = description.match(/\[(\w+)\]/)
+    const eventCode = codeMatch ? codeMatch[1] : code
+
+    events.push({
+      code: eventCode,
+      date: startDate.toJSDate().toLocaleDateString('fr-BE', { day: '2-digit', month: '2-digit', year: 'numeric' }),
+      time: startDate.toJSDate().toLocaleTimeString('fr-BE', { hour: '2-digit', minute: '2-digit' }),
+      team1,
+      team2,
+      category: categoryName,
+      other: ''
+    })
+  }
+
+  return events
 }
 
 export async function loadClubEvents(csvPath: string): Promise<CalendarEvent[]> {
@@ -43,6 +88,22 @@ export async function loadClubEvents(csvPath: string): Promise<CalendarEvent[]> 
   }
 
   return events
+}
+
+export async function loadAllClubEvents(club: any): Promise<CalendarEvent[]> {
+  const allEvents: CalendarEvent[] = []
+
+  // Load all ICS files for the club
+  for (const [category, icsPath] of Object.entries(club.icsFiles)) {
+    try {
+      const events = await loadICSEvents(icsPath as string, category)
+      allEvents.push(...events)
+    } catch (e) {
+      console.warn(`Failed to load ${category}:`, e)
+    }
+  }
+
+  return allEvents
 }
 
 export function parseDate(dateStr: string): Date | null {
