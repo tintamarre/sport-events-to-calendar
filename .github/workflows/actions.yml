@@ -46,6 +46,10 @@ jobs:
           cd web
           npm run build
 
+      - name: Copy data directory to docs
+        run: |
+          cp -r data docs/data
+
       - name: Add .nojekyll file
         run: |
           touch docs/.nojekyll

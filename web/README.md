@@ -14,6 +14,47 @@ A Vue 3 + TypeScript + Tailwind CSS web application for viewing CPLiège basketb
 
 ## Development
 
+### Using Make (recommended)
+
+```bash
+# View all available commands
+make help
+
+# Install dependencies
+make install
+
+# Start development server
+make dev
+
+# Build for production
+make build
+
+# Preview production build
+make preview
+```
+
+### Using Docker
+
+```bash
+# Start development server with hot reload
+make docker-dev
+# or
+docker-compose up dev
+
+# Build and run production server
+make docker-prod
+# or
+docker-compose up --build prod
+
+# Stop containers
+make docker-stop
+
+# Clean up containers and images
+make docker-clean
+```
+
+### Using npm directly
+
 ```bash
 # Install dependencies
 npm install
