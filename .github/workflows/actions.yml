@@ -8,6 +8,11 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
 jobs:
   run:
     runs-on: ubuntu-latest
@@ -20,6 +25,30 @@ jobs:
       - name: Run basket-to-calendar script
         run: |
           uv run basket-to-calendar.py
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install web dependencies
+        run: |
+          cd web
+          npm install
+
+      - name: Generate data manifest
+        run: |
+          cd web
+          npm run generate-manifest
+
+      - name: Build web application
+        run: |
+          cd web
+          npm run build
+
+      - name: Add .nojekyll file
+        run: |
+          touch docs/.nojekyll
 
       - uses: actions/upload-artifact@v4
         if: always()
