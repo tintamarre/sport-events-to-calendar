@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-17T17:36:06.482Z",
+  "lastUpdated": "2026-01-19T20:51:15.707Z",
   "clubs": [
     {
       "id": "709",
@@ -34,6 +34,7 @@
         "U 8 - MM C",
         "U 8 - MM D"
       ],
+      "jsonPath": "/data/709-abc-waremme/events.json",
       "csvPath": "/data/709-abc-waremme/709-abc-waremme.csv",
       "icsFiles": {
         "CPE PROV CADETTES": "/data/709-abc-waremme/cpe-prov-cadettes.ics",
@@ -104,6 +105,7 @@
         "U 8 - MM D",
         "U 8 - MM E"
       ],
+      "jsonPath": "/data/1555-all-flemalle/events.json",
       "csvPath": "/data/1555-all-flemalle/1555-all-flemalle.csv",
       "icsFiles": {
         "CPE PROV MESSIEURS": "/data/1555-all-flemalle/cpe-prov-messieurs.ics",
@@ -168,6 +170,7 @@
         "U 19 - DD B",
         "U 8 - MM B"
       ],
+      "jsonPath": "/data/57-atlas-a-jupille/events.json",
       "csvPath": "/data/57-atlas-a-jupille/57-atlas-a-jupille.csv",
       "icsFiles": {
         "COUPE AWBB U18 - GARCONS": "/data/57-atlas-a-jupille/coupe-awbb-u18-garcons.ics",
@@ -202,6 +205,7 @@
         "MM - DIVISION 3 A",
         "MM - DIVISION 4 E"
       ],
+      "jsonPath": "/data/196-avenir-jupille/events.json",
       "csvPath": "/data/196-avenir-jupille/196-avenir-jupille.csv",
       "icsFiles": {
         "DD - DIVISION 2 B": "/data/196-avenir-jupille/dd-division-2-b.ics",
@@ -224,6 +228,7 @@
         "U 18 - PROV MM",
         "U 21 - MM A"
       ],
+      "jsonPath": "/data/2458-bbc-eupen/events.json",
       "csvPath": "/data/2458-bbc-eupen/2458-bbc-eupen.csv",
       "icsFiles": {
         "CPE PROV CADETS": "/data/2458-bbc-eupen/cpe-prov-cadets.ics",
@@ -271,6 +276,7 @@
         "U 8 - MM C",
         "U 8 - MM D"
       ],
+      "jsonPath": "/data/1058-bc-belleflamme/events.json",
       "csvPath": "/data/1058-bc-belleflamme/1058-bc-belleflamme.csv",
       "icsFiles": {
         "COUPE AWBB U12 -GARCONS": "/data/1058-bc-belleflamme/coupe-awbb-u12-garcons.ics",
@@ -328,6 +334,7 @@
         "U 7 - MM D",
         "U 8 - MM C"
       ],
+      "jsonPath": "/data/1298-bc-cointe/events.json",
       "csvPath": "/data/1298-bc-cointe/1298-bc-cointe.csv",
       "icsFiles": {
         "DD - REGIONALE 2 B": "/data/1298-bc-cointe/dd-regionale-2-b.ics",
@@ -359,6 +366,7 @@
         "U 8 - MM E",
         "U 8 - MM F"
       ],
+      "jsonPath": "/data/2746-bc-crisnee/events.json",
       "csvPath": "/data/2746-bc-crisnee/2746-bc-crisnee.csv",
       "icsFiles": {
         "U 8 - MM E": "/data/2746-bc-crisnee/u-8-mm-e.ics",
@@ -393,6 +401,7 @@
         "U 7 - MM B",
         "U 8 - MM A"
       ],
+      "jsonPath": "/data/1200-bc-ninane/events.json",
       "csvPath": "/data/1200-bc-ninane/1200-bc-ninane.csv",
       "icsFiles": {
         "CPE PROV PUPILLES MM": "/data/1200-bc-ninane/cpe-prov-pupilles-mm.ics",
@@ -426,6 +435,7 @@
       "categories": [
         "MM - DIVISION 3 B"
       ],
+      "jsonPath": "/data/2732-bc-olne/events.json",
       "csvPath": "/data/2732-bc-olne/2732-bc-olne.csv",
       "icsFiles": {
         "MM - DIVISION 3 B": "/data/2732-bc-olne/mm-division-3-b.ics"
@@ -439,6 +449,7 @@
         "MM - DIVISION 3 C",
         "MM - DIVISION 4 E"
       ],
+      "jsonPath": "/data/2731-bc-reveil/events.json",
       "csvPath": "/data/2731-bc-reveil/2731-bc-reveil.csv",
       "icsFiles": {
         "MM - DIVISION 3 C": "/data/2731-bc-reveil/mm-division-3-c.ics",
@@ -454,6 +465,7 @@
         "U 10 - MM E",
         "U 14 - PROV MM A"
       ],
+      "jsonPath": "/data/1898-bc-sankt-vith/events.json",
       "csvPath": "/data/1898-bc-sankt-vith/1898-bc-sankt-vith.csv",
       "icsFiles": {
         "MM - DIVISION 3 C": "/data/1898-bc-sankt-vith/mm-division-3-c.ics",
@@ -498,6 +510,7 @@
         "U 8 - MM D",
         "U 8 - MM E"
       ],
+      "jsonPath": "/data/854-bc-sprimont/events.json",
       "csvPath": "/data/854-bc-sprimont/854-bc-sprimont.csv",
       "icsFiles": {
         "COUPE AWBB U16 - GARCONS": "/data/854-bc-sprimont/coupe-awbb-u16-garcons.ics",
@@ -540,6 +553,7 @@
       "categories": [
         "MM - DIVISION 4 D"
       ],
+      "jsonPath": "/data/2329-bc-tores-liege/events.json",
       "csvPath": "/data/2329-bc-tores-liege/2329-bc-tores-liege.csv",
       "icsFiles": {
         "MM - DIVISION 4 D": "/data/2329-bc-tores-liege/mm-division-4-d.ics"
@@ -564,6 +578,7 @@
         "U 8 - MM E",
         "U 8 - MM F"
       ],
+      "jsonPath": "/data/2700-bc-verlaine/events.json",
       "csvPath": "/data/2700-bc-verlaine/2700-bc-verlaine.csv",
       "icsFiles": {
         "CPE PROV PUPILLES DD": "/data/2700-bc-verlaine/cpe-prov-pupilles-dd.ics",
@@ -596,6 +611,7 @@
         "U 7 - MM A",
         "U 8 - MM B"
       ],
+      "jsonPath": "/data/169-bc-verviers/events.json",
       "csvPath": "/data/169-bc-verviers/169-bc-verviers.csv",
       "icsFiles": {
         "CPE PROV MINIMES MM": "/data/169-bc-verviers/cpe-prov-minimes-mm.ics",
@@ -628,6 +644,7 @@
         "U 18 - PROV MM",
         "U 8 - MM B"
       ],
+      "jsonPath": "/data/2440-bcm-herstal/events.json",
       "csvPath": "/data/2440-bcm-herstal/2440-bcm-herstal.csv",
       "icsFiles": {
         "DD - DIVISION 3 A": "/data/2440-bcm-herstal/dd-division-3-a.ics",
@@ -664,6 +681,7 @@
         "U 18 - ELITES MM B",
         "U 8 - MM E"
       ],
+      "jsonPath": "/data/2663-college-s-louis/events.json",
       "csvPath": "/data/2663-college-s-louis/2663-college-s-louis.csv",
       "icsFiles": {
         "COUPE AWBB U12 -GARCONS": "/data/2663-college-s-louis/coupe-awbb-u12-garcons.ics",
@@ -695,6 +713,7 @@
         "U 7 - MM D",
         "U 8 - MM F"
       ],
+      "jsonPath": "/data/2725-condroz-modave/events.json",
       "csvPath": "/data/2725-condroz-modave/2725-condroz-modave.csv",
       "icsFiles": {
         "U 10 - MM D": "/data/2725-condroz-modave/u-10-mm-d.ics",
@@ -748,6 +767,7 @@
         "U 8 - MM B",
         "U 8 - MM D"
       ],
+      "jsonPath": "/data/2722-cristal-sgh/events.json",
       "csvPath": "/data/2722-cristal-sgh/2722-cristal-sgh.csv",
       "icsFiles": {
         "CPE PROV JUNIORS": "/data/2722-cristal-sgh/cpe-prov-juniors.ics",
@@ -795,6 +815,7 @@
         "DD - DIVISION 3 A",
         "MM - DIVISION 4 B"
       ],
+      "jsonPath": "/data/2563-cs-outremeuse/events.json",
       "csvPath": "/data/2563-cs-outremeuse/2563-cs-outremeuse.csv",
       "icsFiles": {
         "DD - DIVISION 3 A": "/data/2563-cs-outremeuse/dd-division-3-a.ics",
@@ -814,6 +835,7 @@
         "U 14 - PROV MM A",
         "U 16 - PROV MM A"
       ],
+      "jsonPath": "/data/2657-df-bc-malmedy/events.json",
       "csvPath": "/data/2657-df-bc-malmedy/2657-df-bc-malmedy.csv",
       "icsFiles": {
         "DD - DIVISION 3 C": "/data/2657-df-bc-malmedy/dd-division-3-c.ics",
@@ -842,6 +864,7 @@
         "U 18 MM - NATIONAUX B",
         "U 19 - SILVER REGIONALES C"
       ],
+      "jsonPath": "/data/2708-east-belgium-bca/events.json",
       "csvPath": "/data/2708-east-belgium-bca/2708-east-belgium-bca.csv",
       "icsFiles": {
         "COUPE AWBB U14 - FILLES": "/data/2708-east-belgium-bca/coupe-awbb-u14-filles.ics",
@@ -874,6 +897,7 @@
         "U 18 - GOLD REGIONAUX A",
         "U 21 MM - NATIONAUX B"
       ],
+      "jsonPath": "/data/2733-esl-united/events.json",
       "csvPath": "/data/2733-esl-united/2733-esl-united.csv",
       "icsFiles": {
         "COUPE AWBB MESSIEURS": "/data/2733-esl-united/coupe-awbb-messieurs.ics",
@@ -903,6 +927,7 @@
         "U 12 - MM D",
         "U 14 - ELITES MM A"
       ],
+      "jsonPath": "/data/2410-etoile-jupille/events.json",
       "csvPath": "/data/2410-etoile-jupille/2410-etoile-jupille.csv",
       "icsFiles": {
         "CPE PROV MESSIEURS": "/data/2410-etoile-jupille/cpe-prov-messieurs.ics",
@@ -926,6 +951,7 @@
         "U 12 - MM H",
         "U 8 - MM B"
       ],
+      "jsonPath": "/data/2724-fleron-bbc/events.json",
       "csvPath": "/data/2724-fleron-bbc/2724-fleron-bbc.csv",
       "icsFiles": {
         "MM - DIVISION 2 A": "/data/2724-fleron-bbc/mm-division-2-a.ics",
@@ -957,6 +983,7 @@
         "U 7 - MM C",
         "U 8 - MM F"
       ],
+      "jsonPath": "/data/2499-giants-braives/events.json",
       "csvPath": "/data/2499-giants-braives/2499-giants-braives.csv",
       "icsFiles": {
         "DD - DIVISION 3 B": "/data/2499-giants-braives/dd-division-3-b.ics",
@@ -993,6 +1020,7 @@
         "U 16 - PROV MM B",
         "U 7 - MM D"
       ],
+      "jsonPath": "/data/2309-hannut-bc/events.json",
       "csvPath": "/data/2309-hannut-bc/2309-hannut-bc.csv",
       "icsFiles": {
         "CPE PROV DAMES": "/data/2309-hannut-bc/cpe-prov-dames.ics",
@@ -1030,6 +1058,7 @@
         "U 7 - MM C",
         "U 8 - MM B"
       ],
+      "jsonPath": "/data/2211-harimalia-bc/events.json",
       "csvPath": "/data/2211-harimalia-bc/2211-harimalia-bc.csv",
       "icsFiles": {
         "MM - DIVISION 1": "/data/2211-harimalia-bc/mm-division-1.ics",
@@ -1077,6 +1106,7 @@
         "U 7 - MM A",
         "U 8 - MM C"
       ],
+      "jsonPath": "/data/1377-henri-chapelle/events.json",
       "csvPath": "/data/1377-henri-chapelle/1377-henri-chapelle.csv",
       "icsFiles": {
         "CPE PROV MINIMES MM": "/data/1377-henri-chapelle/cpe-prov-minimes-mm.ics",
@@ -1131,6 +1161,7 @@
         "U 7 - MM D",
         "U 8 - MM F"
       ],
+      "jsonPath": "/data/2558-la-villersoise/events.json",
       "csvPath": "/data/2558-la-villersoise/2558-la-villersoise.csv",
       "icsFiles": {
         "DD - DIVISION 2 A": "/data/2558-la-villersoise/dd-division-2-a.ics",
@@ -1160,6 +1191,37 @@
       }
     },
     {
+      "id": "2699",
+      "name": "Liege Panthers",
+      "slug": "2699-liege-panthers",
+      "categories": [
+        "COUPE AWBB U16 - FILLES",
+        "COUPE AWBB U19 - FILLES",
+        "DD - REGIONALE 1",
+        "DD - REGIONALE 2 A",
+        "TOP DIVISION WOMEN 1",
+        "U 14 DD - NATIONALES B",
+        "U 16 - GOLD REGIONALES A",
+        "U 16 DD - NATIONALES B",
+        "U 19 - GOLD REGIONALES B",
+        "U 19 DD - NATIONALES B"
+      ],
+      "jsonPath": "/data/2699-liege-panthers/events.json",
+      "csvPath": "/data/2699-liege-panthers/2699-liege-panthers.csv",
+      "icsFiles": {
+        "COUPE AWBB U16 - FILLES": "/data/2699-liege-panthers/coupe-awbb-u16-filles.ics",
+        "COUPE AWBB U19 - FILLES": "/data/2699-liege-panthers/coupe-awbb-u19-filles.ics",
+        "DD - REGIONALE 1": "/data/2699-liege-panthers/dd-regionale-1.ics",
+        "DD - REGIONALE 2 A": "/data/2699-liege-panthers/dd-regionale-2-a.ics",
+        "TOP DIVISION WOMEN 1": "/data/2699-liege-panthers/top-division-women-1.ics",
+        "U 14 DD - NATIONALES B": "/data/2699-liege-panthers/u-14-dd-nationales-b.ics",
+        "U 16 DD - NATIONALES B": "/data/2699-liege-panthers/u-16-dd-nationales-b.ics",
+        "U 16 - GOLD REGIONALES A": "/data/2699-liege-panthers/u-16-gold-regionales-a.ics",
+        "U 19 DD - NATIONALES B": "/data/2699-liege-panthers/u-19-dd-nationales-b.ics",
+        "U 19 - GOLD REGIONALES B": "/data/2699-liege-panthers/u-19-gold-regionales-b.ics"
+      }
+    },
+    {
       "id": "428",
       "name": "Mail Comblain",
       "slug": "428-mail-comblain",
@@ -1179,6 +1241,7 @@
         "U 18 - ELITES MM B",
         "U 8 - MM D"
       ],
+      "jsonPath": "/data/428-mail-comblain/events.json",
       "csvPath": "/data/428-mail-comblain/428-mail-comblain.csv",
       "icsFiles": {
         "COUPE AWBB MESSIEURS": "/data/428-mail-comblain/coupe-awbb-messieurs.ics",
@@ -1205,6 +1268,7 @@
         "U 16 - PROV MM C",
         "U 18 - PROV MM"
       ],
+      "jsonPath": "/data/2744-marchin-basket/events.json",
       "csvPath": "/data/2744-marchin-basket/2744-marchin-basket.csv",
       "icsFiles": {
         "U 16 - PROV MM C": "/data/2744-marchin-basket/u-16-prov-mm-c.ics",
@@ -1228,6 +1292,7 @@
         "U 18 - ELITES MM C",
         "U 8 - MM F"
       ],
+      "jsonPath": "/data/928-orp-jauche/events.json",
       "csvPath": "/data/928-orp-jauche/928-orp-jauche.csv",
       "icsFiles": {
         "CPE PROV PUPILLES MM": "/data/928-orp-jauche/cpe-prov-pupilles-mm.ics",
@@ -1275,6 +1340,7 @@
         "U 8 - MM B",
         "U 8 - MM C"
       ],
+      "jsonPath": "/data/46-pepinster-east-b/events.json",
       "csvPath": "/data/46-pepinster-east-b/46-pepinster-east-b.csv",
       "icsFiles": {
         "CPE PROV CADETS": "/data/46-pepinster-east-b/cpe-prov-cadets.ics",
@@ -1326,6 +1392,7 @@
         "U 16 - PROV MM B",
         "U 19 - SILVER REGIONALES A"
       ],
+      "jsonPath": "/data/78-prayon-trooz/events.json",
       "csvPath": "/data/78-prayon-trooz/78-prayon-trooz.csv",
       "icsFiles": {
         "DD - DIVISION 2 A": "/data/78-prayon-trooz/dd-division-2-a.ics",
@@ -1371,6 +1438,7 @@
         "U 8 - MM C",
         "U 8 - MM F"
       ],
+      "jsonPath": "/data/524-r-4a-aywaille-hamoir/events.json",
       "csvPath": "/data/524-r-4a-aywaille-hamoir/524-r-4a-aywaille-hamoir.csv",
       "icsFiles": {
         "CPE PROV CADETS": "/data/524-r-4a-aywaille-hamoir/cpe-prov-cadets.ics",
@@ -1412,6 +1480,7 @@
         "U 7 - MM B",
         "U 8 - MM C"
       ],
+      "jsonPath": "/data/1429-r-ht-pre-ougree/events.json",
       "csvPath": "/data/1429-r-ht-pre-ougree/1429-r-ht-pre-ougree.csv",
       "icsFiles": {
         "DD - DIVISION 1": "/data/1429-r-ht-pre-ougree/dd-division-1.ics",
@@ -1444,6 +1513,7 @@
         "U 16 - PROV MM C",
         "U 8 - MM A"
       ],
+      "jsonPath": "/data/434-r-un-bellaire/events.json",
       "csvPath": "/data/434-r-un-bellaire/434-r-un-bellaire.csv",
       "icsFiles": {
         "CPE PROV DAMES": "/data/434-r-un-bellaire/cpe-prov-dames.ics",
@@ -1478,6 +1548,7 @@
         "U 16 - PROV MM A",
         "U 8 - MM A"
       ],
+      "jsonPath": "/data/493-rabc-ensival/events.json",
       "csvPath": "/data/493-rabc-ensival/493-rabc-ensival.csv",
       "icsFiles": {
         "DD - DIVISION 1": "/data/493-rabc-ensival/dd-division-1.ics",
@@ -1518,6 +1589,7 @@
         "U 8 - MM B",
         "U 8 - MM F"
       ],
+      "jsonPath": "/data/97-rb-tilff/events.json",
       "csvPath": "/data/97-rb-tilff/97-rb-tilff.csv",
       "icsFiles": {
         "MM - DIVISION 2 B": "/data/97-rb-tilff/mm-division-2-b.ics",
@@ -1547,6 +1619,7 @@
         "MM - DIVISION 1",
         "MM - DIVISION 3 A"
       ],
+      "jsonPath": "/data/68-rb-union-liege/events.json",
       "csvPath": "/data/68-rb-union-liege/68-rb-union-liege.csv",
       "icsFiles": {
         "MM - DIVISION 1": "/data/68-rb-union-liege/mm-division-1.ics",
@@ -1585,6 +1658,7 @@
         "U 7 - MM D",
         "U 8 - MM C"
       ],
+      "jsonPath": "/data/1466-rbc-alleur/events.json",
       "csvPath": "/data/1466-rbc-alleur/1466-rbc-alleur.csv",
       "icsFiles": {
         "COUPE AWBB DAMES": "/data/1466-rbc-alleur/coupe-awbb-dames.ics",
@@ -1630,6 +1704,7 @@
         "U 19 - DD A",
         "U 8 - MM A"
       ],
+      "jsonPath": "/data/1388-rbc-aubel/events.json",
       "csvPath": "/data/1388-rbc-aubel/1388-rbc-aubel.csv",
       "icsFiles": {
         "MM - DIVISION 4 E": "/data/1388-rbc-aubel/mm-division-4-e.ics",
@@ -1668,6 +1743,7 @@
         "U 19 - DD A",
         "U 7 - MM D"
       ],
+      "jsonPath": "/data/236-rbc-awans/events.json",
       "csvPath": "/data/236-rbc-awans/236-rbc-awans.csv",
       "icsFiles": {
         "CPE PROV CADETTES": "/data/236-rbc-awans/cpe-prov-cadettes.ics",
@@ -1714,6 +1790,7 @@
         "U 7 - MM B",
         "U 8 - MM A"
       ],
+      "jsonPath": "/data/1595-rbc-blegny/events.json",
       "csvPath": "/data/1595-rbc-blegny/1595-rbc-blegny.csv",
       "icsFiles": {
         "DD - DIVISION 1": "/data/1595-rbc-blegny/dd-division-1.ics",
@@ -1743,6 +1820,7 @@
         "DD - DIVISION 1",
         "MM - DIVISION 4 C"
       ],
+      "jsonPath": "/data/914-rbc-croatia-oupeye/events.json",
       "csvPath": "/data/914-rbc-croatia-oupeye/914-rbc-croatia-oupeye.csv",
       "icsFiles": {
         "DD - DIVISION 1": "/data/914-rbc-croatia-oupeye/dd-division-1.ics",
@@ -1770,6 +1848,7 @@
         "U 16 - PROV MM A",
         "U 8 - MM B"
       ],
+      "jsonPath": "/data/1215-rbc-dison-andrimont/events.json",
       "csvPath": "/data/1215-rbc-dison-andrimont/1215-rbc-dison-andrimont.csv",
       "icsFiles": {
         "DD - DIVISION 2 A": "/data/1215-rbc-dison-andrimont/dd-division-2-a.ics",
@@ -1812,6 +1891,7 @@
         "U 7 - MM A",
         "U 8 - MM E"
       ],
+      "jsonPath": "/data/44-rbc-esneux/events.json",
       "csvPath": "/data/44-rbc-esneux/44-rbc-esneux.csv",
       "icsFiles": {
         "CPE PROV CADETTES": "/data/44-rbc-esneux/cpe-prov-cadettes.ics",
@@ -1856,6 +1936,7 @@
         "U 7 - MM C",
         "U 8 - MM F"
       ],
+      "jsonPath": "/data/1034-rbc-haneffe/events.json",
       "csvPath": "/data/1034-rbc-haneffe/1034-rbc-haneffe.csv",
       "icsFiles": {
         "DD - DIVISION 2 A": "/data/1034-rbc-haneffe/dd-division-2-a.ics",
@@ -1895,6 +1976,7 @@
         "U 18 - PROV MM",
         "U 8 - MM A"
       ],
+      "jsonPath": "/data/691-rbc-stavelot/events.json",
       "csvPath": "/data/691-rbc-stavelot/691-rbc-stavelot.csv",
       "icsFiles": {
         "DD - DIVISION 2 A": "/data/691-rbc-stavelot/dd-division-2-a.ics",
@@ -1946,6 +2028,7 @@
         "U 8 - MM A",
         "U 8 - MM B"
       ],
+      "jsonPath": "/data/1245-rbc-vise/events.json",
       "csvPath": "/data/1245-rbc-vise/1245-rbc-vise.csv",
       "icsFiles": {
         "DD - DIVISION 2 B": "/data/1245-rbc-vise/dd-division-2-b.ics",
@@ -1992,6 +2075,7 @@
         "U 18 - PROV MM",
         "U 19 - DD A"
       ],
+      "jsonPath": "/data/565-rbc-welkenraedt/events.json",
       "csvPath": "/data/565-rbc-welkenraedt/565-rbc-welkenraedt.csv",
       "icsFiles": {
         "DD - DIVISION 3 C": "/data/565-rbc-welkenraedt/dd-division-3-c.ics",
@@ -2010,6 +2094,7 @@
       "categories": [
         "DD - DIVISION 3 B"
       ],
+      "jsonPath": "/data/1623-rebond-neuville/events.json",
       "csvPath": "/data/1623-rebond-neuville/1623-rebond-neuville.csv",
       "icsFiles": {
         "DD - DIVISION 3 B": "/data/1623-rebond-neuville/dd-division-3-b.ics"
@@ -2025,6 +2110,7 @@
         "U 14 - DD B",
         "U 8 - MM D"
       ],
+      "jsonPath": "/data/1338-ren-montegnee/events.json",
       "csvPath": "/data/1338-ren-montegnee/1338-ren-montegnee.csv",
       "icsFiles": {
         "MM - DIVISION 4 C": "/data/1338-ren-montegnee/mm-division-4-c.ics",
@@ -2042,6 +2128,7 @@
         "U 12 - MM I",
         "U 14 - DD A"
       ],
+      "jsonPath": "/data/197-rjs-grivegnee/events.json",
       "csvPath": "/data/197-rjs-grivegnee/197-rjs-grivegnee.csv",
       "icsFiles": {
         "MM - DIVISION 3 A": "/data/197-rjs-grivegnee/mm-division-3-a.ics",
@@ -2069,6 +2156,7 @@
         "U 7 - MM D",
         "U 8 - MM E"
       ],
+      "jsonPath": "/data/425-royal-ans-bc/events.json",
       "csvPath": "/data/425-royal-ans-bc/425-royal-ans-bc.csv",
       "icsFiles": {
         "DD - DIVISION 2 B": "/data/425-royal-ans-bc/dd-division-2-b.ics",
@@ -2095,6 +2183,7 @@
         "DD - DIVISION 3 B",
         "MM - DIVISION 4 D"
       ],
+      "jsonPath": "/data/1728-royal-basket-othee/events.json",
       "csvPath": "/data/1728-royal-basket-othee/1728-royal-basket-othee.csv",
       "icsFiles": {
         "DD - DIVISION 3 B": "/data/1728-royal-basket-othee/dd-division-3-b.ics",
@@ -2126,6 +2215,7 @@
         "U 7 - MM C",
         "U 8 - MM E"
       ],
+      "jsonPath": "/data/550-royal-bc-wanze/events.json",
       "csvPath": "/data/550-royal-bc-wanze/550-royal-bc-wanze.csv",
       "icsFiles": {
         "CPE PROV JUNIORS": "/data/550-royal-bc-wanze/cpe-prov-juniors.ics",
@@ -2181,6 +2271,7 @@
         "U 8 - MM D",
         "U 8 - MM E"
       ],
+      "jsonPath": "/data/1741-royal-herve-battice/events.json",
       "csvPath": "/data/1741-royal-herve-battice/1741-royal-herve-battice.csv",
       "icsFiles": {
         "CPE PROV MESSIEURS": "/data/1741-royal-herve-battice/cpe-prov-messieurs.ics",
@@ -2226,6 +2317,7 @@
         "U 18 - ELITES MM A",
         "U 8 - MM A"
       ],
+      "jsonPath": "/data/108-royal-mosa-ac-1941/events.json",
       "csvPath": "/data/108-royal-mosa-ac-1941/108-royal-mosa-ac-1941.csv",
       "icsFiles": {
         "MM - DIVISION 2 B": "/data/108-royal-mosa-ac-1941/mm-division-2-b.ics",
@@ -2264,6 +2356,7 @@
         "U 8 - MM A",
         "U 8 - MM B"
       ],
+      "jsonPath": "/data/91-royal-spa-bc/events.json",
       "csvPath": "/data/91-royal-spa-bc/91-royal-spa-bc.csv",
       "icsFiles": {
         "DD - DIVISION 1": "/data/91-royal-spa-bc/dd-division-1.ics",
@@ -2296,6 +2389,7 @@
         "MM - DIVISION 3 A",
         "MM - DIVISION 4 C"
       ],
+      "jsonPath": "/data/1727-royale-us-awans/events.json",
       "csvPath": "/data/1727-royale-us-awans/1727-royale-us-awans.csv",
       "icsFiles": {
         "DD - DIVISION 2 A": "/data/1727-royale-us-awans/dd-division-2-a.ics",
@@ -2320,6 +2414,7 @@
         "U 21 - SILVER REGIONAUX B",
         "U 8 - MM D"
       ],
+      "jsonPath": "/data/961-rsw-liege-basket/events.json",
       "csvPath": "/data/961-rsw-liege-basket/961-rsw-liege-basket.csv",
       "icsFiles": {
         "CPE PROV CADETS": "/data/961-rsw-liege-basket/cpe-prov-cadets.ics",
@@ -2356,6 +2451,7 @@
         "U 7 - MM A",
         "U 8 - MM A"
       ],
+      "jsonPath": "/data/2061-theux-bc/events.json",
       "csvPath": "/data/2061-theux-bc/2061-theux-bc.csv",
       "icsFiles": {
         "MM - DIVISION 1": "/data/2061-theux-bc/mm-division-1.ics",
@@ -2399,6 +2495,7 @@
         "U 7 - MM D",
         "U 8 - MM F"
       ],
+      "jsonPath": "/data/2511-un-huy-basket/events.json",
       "csvPath": "/data/2511-un-huy-basket/2511-un-huy-basket.csv",
       "icsFiles": {
         "COUPE AWBB DAMES": "/data/2511-un-huy-basket/coupe-awbb-dames.ics",
@@ -2437,6 +2534,7 @@
         "U 7 - MM C",
         "U 8 - MM C"
       ],
+      "jsonPath": "/data/88-vail-jupille/events.json",
       "csvPath": "/data/88-vail-jupille/88-vail-jupille.csv",
       "icsFiles": {
         "DD - DIVISION 2 B": "/data/88-vail-jupille/dd-division-2-b.ics",

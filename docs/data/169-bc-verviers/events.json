@@ -1,0 +1,759 @@
+{
+  "club": {
+    "id": "169",
+    "name": "169 BC VERVIERS",
+    "slug": "169-bc-verviers"
+  },
+  "events": [
+    {
+      "code": "763145",
+      "date": "2026-02-08",
+      "time": "12:15",
+      "team1": "BC VERVIERS",
+      "team2": "HENRI-CHAPELLE",
+      "category": "CPE PROV MINIMES MM",
+      "location": "BC VERVIERS",
+      "other": "(Salle de Grivegnée)"
+    },
+    {
+      "code": "402214",
+      "date": "2026-01-24",
+      "time": "17:30",
+      "team1": "BC VERVIERS B",
+      "team2": "ABC WAREMME B",
+      "category": "MM - DIVISION 2 A",
+      "location": "BC VERVIERS B",
+      "other": ""
+    },
+    {
+      "code": "402222",
+      "date": "2026-01-31",
+      "time": "19:00",
+      "team1": "RBC STAVELOT A",
+      "team2": "BC VERVIERS B",
+      "category": "MM - DIVISION 2 A",
+      "location": "RBC STAVELOT A",
+      "other": ""
+    },
+    {
+      "code": "402194",
+      "date": "2026-02-04",
+      "time": "20:30",
+      "team1": "BC VERVIERS B",
+      "team2": "FLERON BBC A",
+      "category": "MM - DIVISION 2 A",
+      "location": "BC VERVIERS B",
+      "other": ""
+    },
+    {
+      "code": "402244",
+      "date": "2026-02-14",
+      "time": "17:30",
+      "team1": "BC VERVIERS B",
+      "team2": "ROYAL SPA BC C",
+      "category": "MM - DIVISION 2 A",
+      "location": "BC VERVIERS B",
+      "other": ""
+    },
+    {
+      "code": "402337",
+      "date": "2026-02-21",
+      "time": "19:00",
+      "team1": "RBC VISE A",
+      "team2": "BC VERVIERS B",
+      "category": "MM - DIVISION 2 A",
+      "location": "RBC VISE A",
+      "other": ""
+    },
+    {
+      "code": "402264",
+      "date": "2026-02-28",
+      "time": "17:30",
+      "team1": "BC VERVIERS B",
+      "team2": "RBC ALLEUR C",
+      "category": "MM - DIVISION 2 A",
+      "location": "BC VERVIERS B",
+      "other": ""
+    },
+    {
+      "code": "402272",
+      "date": "2026-03-07",
+      "time": "17:00",
+      "team1": "BC SPRIMONT C",
+      "team2": "BC VERVIERS B",
+      "category": "MM - DIVISION 2 A",
+      "location": "BC SPRIMONT C",
+      "other": ""
+    },
+    {
+      "code": "402296",
+      "date": "2026-03-22",
+      "time": "15:00",
+      "team1": "ROYAL BC WANZE B",
+      "team2": "BC VERVIERS B",
+      "category": "MM - DIVISION 2 A",
+      "location": "ROYAL BC WANZE B",
+      "other": ""
+    },
+    {
+      "code": "402304",
+      "date": "2026-03-28",
+      "time": "17:30",
+      "team1": "BC VERVIERS B",
+      "team2": "HARIMALIA BC C",
+      "category": "MM - DIVISION 2 A",
+      "location": "BC VERVIERS B",
+      "other": ""
+    },
+    {
+      "code": "402313",
+      "date": "2026-04-04",
+      "time": "21:00",
+      "team1": "RBC AWANS A",
+      "team2": "BC VERVIERS B",
+      "category": "MM - DIVISION 2 A",
+      "location": "RBC AWANS A",
+      "other": ""
+    },
+    {
+      "code": "402324",
+      "date": "2026-04-11",
+      "time": "17:30",
+      "team1": "BC VERVIERS B",
+      "team2": "BC BELLEFLAMME C",
+      "category": "MM - DIVISION 2 A",
+      "location": "BC VERVIERS B",
+      "other": ""
+    },
+    {
+      "code": "403216",
+      "date": "2026-01-25",
+      "time": "16:00",
+      "team1": "BC VERVIERS C",
+      "team2": "RBC DISON-ANDRIMONT A",
+      "category": "MM - DIVISION 2 B",
+      "location": "BC VERVIERS C",
+      "other": ""
+    },
+    {
+      "code": "403223",
+      "date": "2026-02-01",
+      "time": "10:00",
+      "team1": "VAIL. JUPILLE A",
+      "team2": "BC VERVIERS C",
+      "category": "MM - DIVISION 2 B",
+      "location": "VAIL. JUPILLE A",
+      "other": ""
+    },
+    {
+      "code": "403246",
+      "date": "2026-02-15",
+      "time": "11:00",
+      "team1": "BC VERVIERS C",
+      "team2": "ROYAL SPA BC B",
+      "category": "MM - DIVISION 2 B",
+      "location": "BC VERVIERS C",
+      "other": ""
+    },
+    {
+      "code": "403205",
+      "date": "2026-02-22",
+      "time": "11:30",
+      "team1": "ROYAL MOSA AC 1941 A",
+      "team2": "BC VERVIERS C",
+      "category": "MM - DIVISION 2 B",
+      "location": "ROYAL MOSA AC 1941 A",
+      "other": ""
+    },
+    {
+      "code": "403265",
+      "date": "2026-02-28",
+      "time": "19:00",
+      "team1": "RB TILFF B",
+      "team2": "BC VERVIERS C",
+      "category": "MM - DIVISION 2 B",
+      "location": "RB TILFF B",
+      "other": ""
+    },
+    {
+      "code": "403276",
+      "date": "2026-03-08",
+      "time": "11:00",
+      "team1": "BC VERVIERS C",
+      "team2": "RBC VISE B",
+      "category": "MM - DIVISION 2 B",
+      "location": "BC VERVIERS C",
+      "other": ""
+    },
+    {
+      "code": "403296",
+      "date": "2026-03-22",
+      "time": "11:00",
+      "team1": "BC VERVIERS C",
+      "team2": "ESL UNITED D",
+      "category": "MM - DIVISION 2 B",
+      "location": "BC VERVIERS C",
+      "other": ""
+    },
+    {
+      "code": "403306",
+      "date": "2026-03-28",
+      "time": "19:30",
+      "team1": "BC VERVIERS C",
+      "team2": "RBC ALLEUR B",
+      "category": "MM - DIVISION 2 B",
+      "location": "BC VERVIERS C",
+      "other": ""
+    },
+    {
+      "code": "403311",
+      "date": "2026-04-05",
+      "time": "15:00",
+      "team1": "HARIMALIA BC B",
+      "team2": "BC VERVIERS C",
+      "category": "MM - DIVISION 2 B",
+      "location": "HARIMALIA BC B",
+      "other": ""
+    },
+    {
+      "code": "403326",
+      "date": "2026-04-12",
+      "time": "16:00",
+      "team1": "BC VERVIERS C",
+      "team2": "ROYAL HERVE-BATTICE A",
+      "category": "MM - DIVISION 2 B",
+      "location": "BC VERVIERS C",
+      "other": ""
+    },
+    {
+      "code": "403333",
+      "date": "2026-04-17",
+      "time": "20:15",
+      "team1": "R.UN.BELLAIRE A",
+      "team2": "BC VERVIERS C",
+      "category": "MM - DIVISION 2 B",
+      "location": "R.UN.BELLAIRE A",
+      "other": ""
+    },
+    {
+      "code": "AW101109",
+      "date": "2026-01-24",
+      "time": "19:30",
+      "team1": "BC VERVIERS A",
+      "team2": "CASTORS BRAINE",
+      "category": "MM - REGIONALE 1",
+      "location": "BC VERVIERS A",
+      "other": ""
+    },
+    {
+      "code": "AW101114",
+      "date": "2026-02-01",
+      "time": "13:00",
+      "team1": "BC SPRIMONT B",
+      "team2": "BC VERVIERS A",
+      "category": "MM - REGIONALE 1",
+      "location": "BC SPRIMONT B",
+      "other": ""
+    },
+    {
+      "code": "AW101123",
+      "date": "2026-02-07",
+      "time": "19:30",
+      "team1": "BC VERVIERS A",
+      "team2": "RSW LIEGE BASKET A",
+      "category": "MM - REGIONALE 1",
+      "location": "BC VERVIERS A",
+      "other": ""
+    },
+    {
+      "code": "AW101130",
+      "date": "2026-02-14",
+      "time": "19:30",
+      "team1": "BC VERVIERS A",
+      "team2": "ROYAL IV BRUSSELS",
+      "category": "MM - REGIONALE 1",
+      "location": "BC VERVIERS A",
+      "other": ""
+    },
+    {
+      "code": "AW101144",
+      "date": "2026-02-28",
+      "time": "19:30",
+      "team1": "BC VERVIERS A",
+      "team2": "BB GEMBLOUX",
+      "category": "MM - REGIONALE 1",
+      "location": "BC VERVIERS A",
+      "other": ""
+    },
+    {
+      "code": "AW101149",
+      "date": "2026-03-07",
+      "time": "21:00",
+      "team1": "RBC LOYERS",
+      "team2": "BC VERVIERS A",
+      "category": "MM - REGIONALE 1",
+      "location": "RBC LOYERS",
+      "other": ""
+    },
+    {
+      "code": "AW101158",
+      "date": "2026-03-14",
+      "time": "19:30",
+      "team1": "BC VERVIERS A",
+      "team2": "UNION MONS-HAINAUT",
+      "category": "MM - REGIONALE 1",
+      "location": "BC VERVIERS A",
+      "other": ""
+    },
+    {
+      "code": "AW101139",
+      "date": "2026-03-20",
+      "time": "21:00",
+      "team1": "ROYAL BC NINANE A",
+      "team2": "BC VERVIERS A",
+      "category": "MM - REGIONALE 1",
+      "location": "ROYAL BC NINANE A",
+      "other": ""
+    },
+    {
+      "code": "AW101172",
+      "date": "2026-04-11",
+      "time": "19:30",
+      "team1": "BC VERVIERS A",
+      "team2": "ESL UNITED B",
+      "category": "MM - REGIONALE 1",
+      "location": "BC VERVIERS A",
+      "other": ""
+    },
+    {
+      "code": "AW101182",
+      "date": "2026-04-18",
+      "time": "21:00",
+      "team1": "RCS NATOYE",
+      "team2": "BC VERVIERS A",
+      "category": "MM - REGIONALE 1",
+      "location": "RCS NATOYE",
+      "other": ""
+    },
+    {
+      "code": "AW101164",
+      "date": "2026-04-26",
+      "time": "15:00",
+      "team1": "RPC ANDERLECHT",
+      "team2": "BC VERVIERS A",
+      "category": "MM - REGIONALE 1",
+      "location": "RPC ANDERLECHT",
+      "other": ""
+    },
+    {
+      "code": "450212",
+      "date": "2026-01-24",
+      "time": "9:00",
+      "team1": "ROYAL SPA BC B",
+      "team2": "BC VERVIERS B",
+      "category": "U 16 - ELITES MM A",
+      "location": "ROYAL SPA BC B",
+      "other": ""
+    },
+    {
+      "code": "450226",
+      "date": "2026-02-01",
+      "time": "13:00",
+      "team1": "GIANTS BRAIVES A",
+      "team2": "BC VERVIERS B",
+      "category": "U 16 - ELITES MM A",
+      "location": "GIANTS BRAIVES A",
+      "other": ""
+    },
+    {
+      "code": "450273",
+      "date": "2026-03-08",
+      "time": "13:30",
+      "team1": "BC VERVIERS B",
+      "team2": "ABC WAREMME A",
+      "category": "U 16 - ELITES MM A",
+      "location": "BC VERVIERS B",
+      "other": ""
+    },
+    {
+      "code": "450196",
+      "date": "2026-03-14",
+      "time": "12:30",
+      "team1": "HENRI-CHAPELLE",
+      "team2": "BC VERVIERS B",
+      "category": "U 16 - ELITES MM A",
+      "location": "HENRI-CHAPELLE",
+      "other": ""
+    },
+    {
+      "code": "450293",
+      "date": "2026-03-22",
+      "time": "15:00",
+      "team1": "BC VERVIERS B",
+      "team2": "CRISTAL SGH B",
+      "category": "U 16 - ELITES MM A",
+      "location": "BC VERVIERS B",
+      "other": ""
+    },
+    {
+      "code": "450305",
+      "date": "2026-03-28",
+      "time": "13:30",
+      "team1": "ROYAL MOSA AC 1941",
+      "team2": "BC VERVIERS B",
+      "category": "U 16 - ELITES MM A",
+      "location": "ROYAL MOSA AC 1941",
+      "other": ""
+    },
+    {
+      "code": "450323",
+      "date": "2026-04-12",
+      "time": "17:00",
+      "team1": "ROYAL ANS BC",
+      "team2": "BC VERVIERS B",
+      "category": "U 16 - ELITES MM A",
+      "location": "ROYAL ANS BC",
+      "other": ""
+    },
+    {
+      "code": "451216",
+      "date": "2026-01-24",
+      "time": "13:00",
+      "team1": "ATLAS A JUPILLE A",
+      "team2": "BC VERVIERS A",
+      "category": "U 16 - ELITES MM B",
+      "location": "ATLAS A JUPILLE A",
+      "other": ""
+    },
+    {
+      "code": "451195",
+      "date": "2026-02-14",
+      "time": "13:00",
+      "team1": "R 4A AYWAILLE-HAMOIR",
+      "team2": "BC VERVIERS A",
+      "category": "U 16 - ELITES MM B",
+      "location": "R 4A AYWAILLE-HAMOIR",
+      "other": ""
+    },
+    {
+      "code": "451266",
+      "date": "2026-02-28",
+      "time": "15:00",
+      "team1": "COLLEGE S LOUIS A",
+      "team2": "BC VERVIERS A",
+      "category": "U 16 - ELITES MM B",
+      "location": "COLLEGE S LOUIS A",
+      "other": ""
+    },
+    {
+      "code": "451293",
+      "date": "2026-03-21",
+      "time": "13:00",
+      "team1": "RBC AWANS",
+      "team2": "BC VERVIERS A",
+      "category": "U 16 - ELITES MM B",
+      "location": "RBC AWANS",
+      "other": ""
+    },
+    {
+      "code": "451303",
+      "date": "2026-03-28",
+      "time": "14:00",
+      "team1": "VAIL. JUPILLE",
+      "team2": "BC VERVIERS A",
+      "category": "U 16 - ELITES MM B",
+      "location": "VAIL. JUPILLE",
+      "other": ""
+    },
+    {
+      "code": "451232",
+      "date": "2026-04-04",
+      "time": "13:00",
+      "team1": "BC SPRIMONT",
+      "team2": "BC VERVIERS A",
+      "category": "U 16 - ELITES MM B",
+      "location": "BC SPRIMONT",
+      "other": ""
+    },
+    {
+      "code": "451325",
+      "date": "2026-04-11",
+      "time": "15:30",
+      "team1": "BC VERVIERS A",
+      "team2": "RBC ESNEUX",
+      "category": "U 16 - ELITES MM B",
+      "location": "BC VERVIERS A",
+      "other": ""
+    },
+    {
+      "code": "451335",
+      "date": "2026-04-18",
+      "time": "15:30",
+      "team1": "BC VERVIERS A",
+      "team2": "LA VILLERSOISE B",
+      "category": "U 16 - ELITES MM B",
+      "location": "BC VERVIERS A",
+      "other": ""
+    },
+    {
+      "code": "430216",
+      "date": "2026-01-24",
+      "time": "15:30",
+      "team1": "BC VERVIERS",
+      "team2": "CRISTAL SGH A",
+      "category": "U 18 - ELITES MM A",
+      "location": "BC VERVIERS",
+      "other": ""
+    },
+    {
+      "code": "430223",
+      "date": "2026-01-31",
+      "time": "13:00",
+      "team1": "RSW LIEGE BASKET B",
+      "team2": "BC VERVIERS",
+      "category": "U 18 - ELITES MM A",
+      "location": "RSW LIEGE BASKET B",
+      "other": ""
+    },
+    {
+      "code": "430236",
+      "date": "2026-02-07",
+      "time": "17:00",
+      "team1": "BC VERVIERS",
+      "team2": "BBC EUPEN A",
+      "category": "U 18 - ELITES MM A",
+      "location": "BC VERVIERS",
+      "other": ""
+    },
+    {
+      "code": "430321",
+      "date": "2026-02-15",
+      "time": "13:00",
+      "team1": "RBC VISE A",
+      "team2": "BC VERVIERS",
+      "category": "U 18 - ELITES MM A",
+      "location": "RBC VISE A",
+      "other": ""
+    },
+    {
+      "code": "430116",
+      "date": "2026-02-28",
+      "time": "15:30",
+      "team1": "BC VERVIERS",
+      "team2": "ROYAL MOSA AC 1941",
+      "category": "U 18 - ELITES MM A",
+      "location": "BC VERVIERS",
+      "other": ""
+    },
+    {
+      "code": "430296",
+      "date": "2026-03-22",
+      "time": "13:00",
+      "team1": "BC VERVIERS",
+      "team2": "BC BELLEFLAMME A",
+      "category": "U 18 - ELITES MM A",
+      "location": "BC VERVIERS",
+      "other": ""
+    },
+    {
+      "code": "430306",
+      "date": "2026-03-28",
+      "time": "15:30",
+      "team1": "BC VERVIERS",
+      "team2": "ATLAS A JUPILLE",
+      "category": "U 18 - ELITES MM A",
+      "location": "BC VERVIERS",
+      "other": ""
+    },
+    {
+      "code": "430334",
+      "date": "2026-04-18",
+      "time": "13:00",
+      "team1": "BC COINTE",
+      "team2": "BC VERVIERS",
+      "category": "U 18 - ELITES MM A",
+      "location": "BC COINTE",
+      "other": ""
+    },
+    {
+      "code": "550213",
+      "date": "2026-01-24",
+      "time": "13:00",
+      "team1": "BC VERVIERS",
+      "team2": "PEPINSTER EAST BELG A",
+      "category": "U 7 - MM A",
+      "location": "BC VERVIERS",
+      "other": ""
+    },
+    {
+      "code": "550234",
+      "date": "2026-02-07",
+      "time": "9:00",
+      "team1": "RBC ESNEUX",
+      "team2": "BC VERVIERS",
+      "category": "U 7 - MM A",
+      "location": "RBC ESNEUX",
+      "other": ""
+    },
+    {
+      "code": "550193",
+      "date": "2026-02-14",
+      "time": "15:00",
+      "team1": "BC VERVIERS",
+      "team2": "ALL. FLEMALLE B",
+      "category": "U 7 - MM A",
+      "location": "BC VERVIERS",
+      "other": ""
+    },
+    {
+      "code": "550263",
+      "date": "2026-02-28",
+      "time": "13:00",
+      "team1": "BC VERVIERS",
+      "team2": "BC BELLEFLAMME",
+      "category": "U 7 - MM A",
+      "location": "BC VERVIERS",
+      "other": ""
+    },
+    {
+      "code": "550271",
+      "date": "2026-03-07",
+      "time": "10:00",
+      "team1": "ROYAL SPA BC",
+      "team2": "BC VERVIERS",
+      "category": "U 7 - MM A",
+      "location": "ROYAL SPA BC",
+      "other": ""
+    },
+    {
+      "code": "550303",
+      "date": "2026-03-28",
+      "time": "13:00",
+      "team1": "BC VERVIERS",
+      "team2": "R 4A AYWAILLE-HAMOIR A",
+      "category": "U 7 - MM A",
+      "location": "BC VERVIERS",
+      "other": ""
+    },
+    {
+      "code": "550323",
+      "date": "2026-04-11",
+      "time": "13:00",
+      "team1": "BC VERVIERS",
+      "team2": "BC SPRIMONT C",
+      "category": "U 7 - MM A",
+      "location": "BC VERVIERS",
+      "other": ""
+    },
+    {
+      "code": "550332",
+      "date": "2026-04-19",
+      "time": "9:00",
+      "team1": "THEUX BC",
+      "team2": "BC VERVIERS",
+      "category": "U 7 - MM A",
+      "location": "THEUX BC",
+      "other": ""
+    },
+    {
+      "code": "541216",
+      "date": "2026-01-24",
+      "time": "13:00",
+      "team1": "BC VERVIERS",
+      "team2": "FLERON BBC",
+      "category": "U 8 - MM B",
+      "location": "BC VERVIERS",
+      "other": ""
+    },
+    {
+      "code": "541236",
+      "date": "2026-02-07",
+      "time": "14:30",
+      "team1": "BC VERVIERS",
+      "team2": "ATLAS A JUPILLE",
+      "category": "U 8 - MM B",
+      "location": "BC VERVIERS",
+      "other": ""
+    },
+    {
+      "code": "541196",
+      "date": "2026-02-14",
+      "time": "15:00",
+      "team1": "BC VERVIERS",
+      "team2": "BCM HERSTAL",
+      "category": "U 8 - MM B",
+      "location": "BC VERVIERS",
+      "other": ""
+    },
+    {
+      "code": "541265",
+      "date": "2026-02-28",
+      "time": "11:15",
+      "team1": "CRISTAL SGH B",
+      "team2": "BC VERVIERS",
+      "category": "U 8 - MM B",
+      "location": "CRISTAL SGH B",
+      "other": ""
+    },
+    {
+      "code": "541276",
+      "date": "2026-03-08",
+      "time": "9:00",
+      "team1": "BC VERVIERS",
+      "team2": "RB TILFF B",
+      "category": "U 8 - MM B",
+      "location": "BC VERVIERS",
+      "other": ""
+    },
+    {
+      "code": "541296",
+      "date": "2026-03-22",
+      "time": "9:00",
+      "team1": "BC VERVIERS",
+      "team2": "PEPINSTER EAST BELG A",
+      "category": "U 8 - MM B",
+      "location": "BC VERVIERS",
+      "other": ""
+    },
+    {
+      "code": "541306",
+      "date": "2026-03-28",
+      "time": "13:00",
+      "team1": "BC VERVIERS",
+      "team2": "ROYAL SPA BC B",
+      "category": "U 8 - MM B",
+      "location": "BC VERVIERS",
+      "other": ""
+    },
+    {
+      "code": "541142",
+      "date": "2026-04-05",
+      "time": "9:00",
+      "team1": "PEPINSTER EAST BELG A",
+      "team2": "BC VERVIERS",
+      "category": "U 8 - MM B",
+      "location": "PEPINSTER EAST BELG A",
+      "other": ""
+    },
+    {
+      "code": "541321",
+      "date": "2026-04-11",
+      "time": "13:00",
+      "team1": "HARIMALIA BC",
+      "team2": "BC VERVIERS",
+      "category": "U 8 - MM B",
+      "location": "HARIMALIA BC",
+      "other": ""
+    },
+    {
+      "code": "541334",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "team1": "RBC DISON-ANDRIMONT",
+      "team2": "BC VERVIERS",
+      "category": "U 8 - MM B",
+      "location": "RBC DISON-ANDRIMONT",
+      "other": ""
+    }
+  ]
+}

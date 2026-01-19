@@ -1,0 +1,869 @@
+{
+  "club": {
+    "id": "928",
+    "name": "928 ORP JAUCHE",
+    "slug": "928-orp-jauche"
+  },
+  "events": [
+    {
+      "code": "764151",
+      "date": "2026-02-07",
+      "time": "17:15",
+      "team1": "ROYAL BC WANZE A",
+      "team2": "ORP JAUCHE",
+      "category": "CPE PROV PUPILLES MM",
+      "location": "ROYAL BC WANZE A",
+      "other": "(Salle de Sprimont)"
+    },
+    {
+      "code": "417217",
+      "date": "2026-01-24",
+      "time": "20:00",
+      "team1": "ORP JAUCHE",
+      "team2": "REBOND NEUVILLE",
+      "category": "DD - DIVISION 3 B",
+      "location": "ORP JAUCHE",
+      "other": ""
+    },
+    {
+      "code": "417197",
+      "date": "2026-02-07",
+      "time": "17:00",
+      "team1": "ORP JAUCHE",
+      "team2": "RBC AWANS",
+      "category": "DD - DIVISION 3 B",
+      "location": "ORP JAUCHE",
+      "other": ""
+    },
+    {
+      "code": "417264",
+      "date": "2026-02-28",
+      "time": "17:00",
+      "team1": "GIANTS BRAIVES",
+      "team2": "ORP JAUCHE",
+      "category": "DD - DIVISION 3 B",
+      "location": "GIANTS BRAIVES",
+      "other": ""
+    },
+    {
+      "code": "417277",
+      "date": "2026-03-07",
+      "time": "17:00",
+      "team1": "ORP JAUCHE",
+      "team2": "BC VERLAINE B",
+      "category": "DD - DIVISION 3 B",
+      "location": "ORP JAUCHE",
+      "other": ""
+    },
+    {
+      "code": "417306",
+      "date": "2026-03-28",
+      "time": "19:00",
+      "team1": "R HT-PRE OUGREE B",
+      "team2": "ORP JAUCHE",
+      "category": "DD - DIVISION 3 B",
+      "location": "R HT-PRE OUGREE B",
+      "other": ""
+    },
+    {
+      "code": "417327",
+      "date": "2026-04-11",
+      "time": "17:00",
+      "team1": "ORP JAUCHE",
+      "team2": "ALL. FLEMALLE B",
+      "category": "DD - DIVISION 3 B",
+      "location": "ORP JAUCHE",
+      "other": ""
+    },
+    {
+      "code": "417334",
+      "date": "2026-04-19",
+      "time": "14:00",
+      "team1": "RBC HANEFFE D",
+      "team2": "ORP JAUCHE",
+      "category": "DD - DIVISION 3 B",
+      "location": "RBC HANEFFE D",
+      "other": ""
+    },
+    {
+      "code": "407215",
+      "date": "2026-01-25",
+      "time": "11:00",
+      "team1": "BC VERLAINE",
+      "team2": "ORP JAUCHE A",
+      "category": "MM - DIVISION 4 A",
+      "location": "BC VERLAINE",
+      "other": ""
+    },
+    {
+      "code": "407227",
+      "date": "2026-01-31",
+      "time": "17:00",
+      "team1": "ORP JAUCHE A",
+      "team2": "ETOILE JUPILLE B",
+      "category": "MM - DIVISION 4 A",
+      "location": "ORP JAUCHE A",
+      "other": ""
+    },
+    {
+      "code": "407193",
+      "date": "2026-02-07",
+      "time": "17:00",
+      "team1": "VAIL. JUPILLE C",
+      "team2": "ORP JAUCHE A",
+      "category": "MM - DIVISION 4 A",
+      "location": "VAIL. JUPILLE C",
+      "other": ""
+    },
+    {
+      "code": "407247",
+      "date": "2026-02-14",
+      "time": "18:30",
+      "team1": "RBC ALLEUR D",
+      "team2": "ORP JAUCHE A",
+      "category": "MM - DIVISION 4 A",
+      "location": "RBC ALLEUR D",
+      "other": ""
+    },
+    {
+      "code": "407267",
+      "date": "2026-02-28",
+      "time": "17:00",
+      "team1": "ORP JAUCHE A",
+      "team2": "RBC VISE D",
+      "category": "MM - DIVISION 4 A",
+      "location": "ORP JAUCHE A",
+      "other": ""
+    },
+    {
+      "code": "407276",
+      "date": "2026-03-07",
+      "time": "21:00",
+      "team1": "GIANTS BRAIVES A",
+      "team2": "ORP JAUCHE A",
+      "category": "MM - DIVISION 4 A",
+      "location": "GIANTS BRAIVES A",
+      "other": ""
+    },
+    {
+      "code": "407294",
+      "date": "2026-03-22",
+      "time": "14:00",
+      "team1": "RBC HANEFFE C",
+      "team2": "ORP JAUCHE A",
+      "category": "MM - DIVISION 4 A",
+      "location": "RBC HANEFFE C",
+      "other": ""
+    },
+    {
+      "code": "407307",
+      "date": "2026-03-28",
+      "time": "21:00",
+      "team1": "ORP JAUCHE A",
+      "team2": "ROYAL MOSA AC 1941 B",
+      "category": "MM - DIVISION 4 A",
+      "location": "ORP JAUCHE A",
+      "other": ""
+    },
+    {
+      "code": "407316",
+      "date": "2026-04-05",
+      "time": "15:00",
+      "team1": "ROYAL BC NINANE D",
+      "team2": "ORP JAUCHE A",
+      "category": "MM - DIVISION 4 A",
+      "location": "ROYAL BC NINANE D",
+      "other": ""
+    },
+    {
+      "code": "407321",
+      "date": "2026-04-11",
+      "time": "19:00",
+      "team1": "LA VILLERSOISE C",
+      "team2": "ORP JAUCHE A",
+      "category": "MM - DIVISION 4 A",
+      "location": "LA VILLERSOISE C",
+      "other": ""
+    },
+    {
+      "code": "407337",
+      "date": "2026-04-18",
+      "time": "17:00",
+      "team1": "ORP JAUCHE A",
+      "team2": "RBC DISON-ANDRIMONT D",
+      "category": "MM - DIVISION 4 A",
+      "location": "ORP JAUCHE A",
+      "other": ""
+    },
+    {
+      "code": "410215",
+      "date": "2026-01-24",
+      "time": "17:00",
+      "team1": "RB TILFF D",
+      "team2": "ORP JAUCHE B",
+      "category": "MM - DIVISION 4 D",
+      "location": "RB TILFF D",
+      "other": ""
+    },
+    {
+      "code": "410227",
+      "date": "2026-01-31",
+      "time": "19:00",
+      "team1": "ORP JAUCHE B",
+      "team2": "ROYAL ANS BC A",
+      "category": "MM - DIVISION 4 D",
+      "location": "ORP JAUCHE B",
+      "other": ""
+    },
+    {
+      "code": "410193",
+      "date": "2026-02-07",
+      "time": "21:00",
+      "team1": "RBC AWANS C",
+      "team2": "ORP JAUCHE B",
+      "category": "MM - DIVISION 4 D",
+      "location": "RBC AWANS C",
+      "other": ""
+    },
+    {
+      "code": "410247",
+      "date": "2026-02-14",
+      "time": "18:30",
+      "team1": "BCM HERSTAL C",
+      "team2": "ORP JAUCHE B",
+      "category": "MM - DIVISION 4 D",
+      "location": "BCM HERSTAL C",
+      "other": ""
+    },
+    {
+      "code": "410267",
+      "date": "2026-02-28",
+      "time": "19:00",
+      "team1": "ORP JAUCHE B",
+      "team2": "HARIMALIA BC E",
+      "category": "MM - DIVISION 4 D",
+      "location": "ORP JAUCHE B",
+      "other": ""
+    },
+    {
+      "code": "410276",
+      "date": "2026-03-07",
+      "time": "19:00",
+      "team1": "GIANTS BRAIVES B",
+      "team2": "ORP JAUCHE B",
+      "category": "MM - DIVISION 4 D",
+      "location": "GIANTS BRAIVES B",
+      "other": ""
+    },
+    {
+      "code": "410294",
+      "date": "2026-03-21",
+      "time": "17:00",
+      "team1": "BC COINTE D",
+      "team2": "ORP JAUCHE B",
+      "category": "MM - DIVISION 4 D",
+      "location": "BC COINTE D",
+      "other": ""
+    },
+    {
+      "code": "410307",
+      "date": "2026-03-28",
+      "time": "19:00",
+      "team1": "ORP JAUCHE B",
+      "team2": "CRISTAL SGH E",
+      "category": "MM - DIVISION 4 D",
+      "location": "ORP JAUCHE B",
+      "other": ""
+    },
+    {
+      "code": "410316",
+      "date": "2026-04-04",
+      "time": "21:00",
+      "team1": "R HT-PRE OUGREE B",
+      "team2": "ORP JAUCHE B",
+      "category": "MM - DIVISION 4 D",
+      "location": "R HT-PRE OUGREE B",
+      "other": ""
+    },
+    {
+      "code": "410321",
+      "date": "2026-04-12",
+      "time": "15:30",
+      "team1": "BC TORES LIEGE",
+      "team2": "ORP JAUCHE B",
+      "category": "MM - DIVISION 4 D",
+      "location": "BC TORES LIEGE",
+      "other": ""
+    },
+    {
+      "code": "410337",
+      "date": "2026-04-18",
+      "time": "19:00",
+      "team1": "ORP JAUCHE B",
+      "team2": "ALL. FLEMALLE E",
+      "category": "MM - DIVISION 4 D",
+      "location": "ORP JAUCHE B",
+      "other": ""
+    },
+    {
+      "code": "523236",
+      "date": "2026-02-07",
+      "time": "11:00",
+      "team1": "ORP JAUCHE",
+      "team2": "ALL. FLEMALLE A",
+      "category": "U 10 - MM D",
+      "location": "ORP JAUCHE",
+      "other": ""
+    },
+    {
+      "code": "523196",
+      "date": "2026-02-14",
+      "time": "11:00",
+      "team1": "ORP JAUCHE",
+      "team2": "RBC AWANS A",
+      "category": "U 10 - MM D",
+      "location": "ORP JAUCHE",
+      "other": ""
+    },
+    {
+      "code": "523265",
+      "date": "2026-03-01",
+      "time": "13:00",
+      "team1": "RB TILFF C",
+      "team2": "ORP JAUCHE",
+      "category": "U 10 - MM D",
+      "location": "RB TILFF C",
+      "other": ""
+    },
+    {
+      "code": "523276",
+      "date": "2026-03-07",
+      "time": "11:00",
+      "team1": "ORP JAUCHE",
+      "team2": "BC COINTE A",
+      "category": "U 10 - MM D",
+      "location": "ORP JAUCHE",
+      "other": ""
+    },
+    {
+      "code": "523296",
+      "date": "2026-03-21",
+      "time": "11:00",
+      "team1": "ORP JAUCHE",
+      "team2": "BC SPRIMONT C",
+      "category": "U 10 - MM D",
+      "location": "ORP JAUCHE",
+      "other": ""
+    },
+    {
+      "code": "523321",
+      "date": "2026-04-11",
+      "time": "9:00",
+      "team1": "ABC WAREMME A",
+      "team2": "ORP JAUCHE",
+      "category": "U 10 - MM D",
+      "location": "ABC WAREMME A",
+      "other": ""
+    },
+    {
+      "code": "523334",
+      "date": "2026-04-18",
+      "time": "10:30",
+      "team1": "RBC ESNEUX B",
+      "team2": "ORP JAUCHE",
+      "category": "U 10 - MM D",
+      "location": "RBC ESNEUX B",
+      "other": ""
+    },
+    {
+      "code": "509215",
+      "date": "2026-01-24",
+      "time": "13:00",
+      "team1": "BC VERLAINE B",
+      "team2": "ORP JAUCHE",
+      "category": "U 12 - MM J",
+      "location": "BC VERLAINE B",
+      "other": ""
+    },
+    {
+      "code": "509226",
+      "date": "2026-01-31",
+      "time": "15:00",
+      "team1": "ORP JAUCHE",
+      "team2": "ROYAL ANS BC B",
+      "category": "U 12 - MM J",
+      "location": "ORP JAUCHE",
+      "other": ""
+    },
+    {
+      "code": "509236",
+      "date": "2026-02-08",
+      "time": "9:00",
+      "team1": "ROYAL BC WANZE B",
+      "team2": "ORP JAUCHE",
+      "category": "U 12 - MM J",
+      "location": "ROYAL BC WANZE B",
+      "other": ""
+    },
+    {
+      "code": "509274",
+      "date": "2026-03-07",
+      "time": "11:00",
+      "team1": "UN HUY BASKET B",
+      "team2": "ORP JAUCHE",
+      "category": "U 12 - MM J",
+      "location": "UN HUY BASKET B",
+      "other": ""
+    },
+    {
+      "code": "509292",
+      "date": "2026-03-21",
+      "time": "11:30",
+      "team1": "CONDROZ MODAVE BB",
+      "team2": "ORP JAUCHE",
+      "category": "U 12 - MM J",
+      "location": "CONDROZ MODAVE BB",
+      "other": ""
+    },
+    {
+      "code": "509326",
+      "date": "2026-04-11",
+      "time": "11:00",
+      "team1": "ORP JAUCHE",
+      "team2": "RBC ALLEUR C",
+      "category": "U 12 - MM J",
+      "location": "ORP JAUCHE",
+      "other": ""
+    },
+    {
+      "code": "493223",
+      "date": "2026-01-31",
+      "time": "11:00",
+      "team1": "RBC AWANS",
+      "team2": "ORP JAUCHE",
+      "category": "U 14 - PROV MM D",
+      "location": "RBC AWANS",
+      "other": ""
+    },
+    {
+      "code": "493196",
+      "date": "2026-02-14",
+      "time": "13:00",
+      "team1": "ORP JAUCHE",
+      "team2": "BCM HERSTAL",
+      "category": "U 14 - PROV MM D",
+      "location": "ORP JAUCHE",
+      "other": ""
+    },
+    {
+      "code": "493276",
+      "date": "2026-03-07",
+      "time": "13:00",
+      "team1": "ORP JAUCHE",
+      "team2": "RBC ESNEUX A",
+      "category": "U 14 - PROV MM D",
+      "location": "ORP JAUCHE",
+      "other": ""
+    },
+    {
+      "code": "493066",
+      "date": "2026-03-14",
+      "time": "11:00",
+      "team1": "HANNUT BC",
+      "team2": "ORP JAUCHE",
+      "category": "U 14 - PROV MM D",
+      "location": "HANNUT BC",
+      "other": ""
+    },
+    {
+      "code": "493296",
+      "date": "2026-03-21",
+      "time": "13:00",
+      "team1": "ORP JAUCHE",
+      "team2": "RABC ENSIVAL A",
+      "category": "U 14 - PROV MM D",
+      "location": "ORP JAUCHE",
+      "other": ""
+    },
+    {
+      "code": "493306",
+      "date": "2026-03-28",
+      "time": "13:00",
+      "team1": "ORP JAUCHE",
+      "team2": "HARIMALIA BC B",
+      "category": "U 14 - PROV MM D",
+      "location": "ORP JAUCHE",
+      "other": ""
+    },
+    {
+      "code": "493236",
+      "date": "2026-04-04",
+      "time": "13:00",
+      "team1": "ORP JAUCHE",
+      "team2": "HANNUT BC",
+      "category": "U 14 - PROV MM D",
+      "location": "ORP JAUCHE",
+      "other": ""
+    },
+    {
+      "code": "493321",
+      "date": "2026-04-12",
+      "time": "15:00",
+      "team1": "ALL. FLEMALLE B",
+      "team2": "ORP JAUCHE",
+      "category": "U 14 - PROV MM D",
+      "location": "ALL. FLEMALLE B",
+      "other": ""
+    },
+    {
+      "code": "591216",
+      "date": "2026-01-24",
+      "time": "15:00",
+      "team1": "ORP JAUCHE",
+      "team2": "ALL. FLEMALLE A",
+      "category": "U 16 - DD B",
+      "location": "ORP JAUCHE",
+      "other": ""
+    },
+    {
+      "code": "591056",
+      "date": "2026-01-31",
+      "time": "9:00",
+      "team1": "ORP JAUCHE",
+      "team2": "BCM HERSTAL",
+      "category": "U 16 - DD B",
+      "location": "ORP JAUCHE",
+      "other": ""
+    },
+    {
+      "code": "591236",
+      "date": "2026-02-07",
+      "time": "15:00",
+      "team1": "ORP JAUCHE",
+      "team2": "ROYAL BC NINANE",
+      "category": "U 16 - DD B",
+      "location": "ORP JAUCHE",
+      "other": ""
+    },
+    {
+      "code": "591196",
+      "date": "2026-02-14",
+      "time": "15:00",
+      "team1": "ORP JAUCHE",
+      "team2": "RBC AWANS A",
+      "category": "U 16 - DD B",
+      "location": "ORP JAUCHE",
+      "other": ""
+    },
+    {
+      "code": "591265",
+      "date": "2026-02-28",
+      "time": "9:00",
+      "team1": "ABC WAREMME",
+      "team2": "ORP JAUCHE",
+      "category": "U 16 - DD B",
+      "location": "ABC WAREMME",
+      "other": ""
+    },
+    {
+      "code": "591276",
+      "date": "2026-03-07",
+      "time": "15:00",
+      "team1": "ORP JAUCHE",
+      "team2": "LA VILLERSOISE",
+      "category": "U 16 - DD B",
+      "location": "ORP JAUCHE",
+      "other": ""
+    },
+    {
+      "code": "591334",
+      "date": "2026-03-14",
+      "time": "13:00",
+      "team1": "PRAYON TROOZ",
+      "team2": "ORP JAUCHE",
+      "category": "U 16 - DD B",
+      "location": "PRAYON TROOZ",
+      "other": ""
+    },
+    {
+      "code": "591126",
+      "date": "2026-03-28",
+      "time": "11:00",
+      "team1": "ORP JAUCHE",
+      "team2": "PRAYON TROOZ",
+      "category": "U 16 - DD B",
+      "location": "ORP JAUCHE",
+      "other": ""
+    },
+    {
+      "code": "591306",
+      "date": "2026-04-04",
+      "time": "15:00",
+      "team1": "ORP JAUCHE",
+      "team2": "ALL. FLEMALLE C",
+      "category": "U 16 - DD B",
+      "location": "ORP JAUCHE",
+      "other": ""
+    },
+    {
+      "code": "591321",
+      "date": "2026-04-11",
+      "time": "15:00",
+      "team1": "RBC BLEGNY",
+      "team2": "ORP JAUCHE",
+      "category": "U 16 - DD B",
+      "location": "RBC BLEGNY",
+      "other": ""
+    },
+    {
+      "code": "472226",
+      "date": "2026-01-31",
+      "time": "11:00",
+      "team1": "ORP JAUCHE",
+      "team2": "R.UN.BELLAIRE",
+      "category": "U 16 - PROV MM C",
+      "location": "ORP JAUCHE",
+      "other": ""
+    },
+    {
+      "code": "472236",
+      "date": "2026-02-08",
+      "time": "11:00",
+      "team1": "GIANTS BRAIVES",
+      "team2": "ORP JAUCHE",
+      "category": "U 16 - PROV MM C",
+      "location": "GIANTS BRAIVES",
+      "other": ""
+    },
+    {
+      "code": "472193",
+      "date": "2026-02-14",
+      "time": "13:00",
+      "team1": "UN HUY BASKET",
+      "team2": "ORP JAUCHE",
+      "category": "U 16 - PROV MM C",
+      "location": "UN HUY BASKET",
+      "other": ""
+    },
+    {
+      "code": "472266",
+      "date": "2026-02-28",
+      "time": "13:00",
+      "team1": "ORP JAUCHE",
+      "team2": "CRISTAL SGH D",
+      "category": "U 16 - PROV MM C",
+      "location": "ORP JAUCHE",
+      "other": ""
+    },
+    {
+      "code": "472274",
+      "date": "2026-03-08",
+      "time": "12:00",
+      "team1": "MARCHIN BASKET",
+      "team2": "ORP JAUCHE",
+      "category": "U 16 - PROV MM C",
+      "location": "MARCHIN BASKET",
+      "other": ""
+    },
+    {
+      "code": "472292",
+      "date": "2026-03-21",
+      "time": "9:30",
+      "team1": "CONDROZ MODAVE BB",
+      "team2": "ORP JAUCHE",
+      "category": "U 16 - PROV MM C",
+      "location": "CONDROZ MODAVE BB",
+      "other": ""
+    },
+    {
+      "code": "472301",
+      "date": "2026-03-28",
+      "time": "15:00",
+      "team1": "ABC WAREMME B",
+      "team2": "ORP JAUCHE",
+      "category": "U 16 - PROV MM C",
+      "location": "ABC WAREMME B",
+      "other": ""
+    },
+    {
+      "code": "472326",
+      "date": "2026-04-11",
+      "time": "13:00",
+      "team1": "ORP JAUCHE",
+      "team2": "COLLEGE S LOUIS",
+      "category": "U 16 - PROV MM C",
+      "location": "ORP JAUCHE",
+      "other": ""
+    },
+    {
+      "code": "472336",
+      "date": "2026-04-18",
+      "time": "13:00",
+      "team1": "ORP JAUCHE",
+      "team2": "BC COINTE",
+      "category": "U 16 - PROV MM C",
+      "location": "ORP JAUCHE",
+      "other": ""
+    },
+    {
+      "code": "432226",
+      "date": "2026-01-31",
+      "time": "13:00",
+      "team1": "ORP JAUCHE",
+      "team2": "RBC AWANS A",
+      "category": "U 18 - ELITES MM C",
+      "location": "ORP JAUCHE",
+      "other": ""
+    },
+    {
+      "code": "432236",
+      "date": "2026-02-07",
+      "time": "9:00",
+      "team1": "ROYAL BC NINANE A",
+      "team2": "ORP JAUCHE",
+      "category": "U 18 - ELITES MM C",
+      "location": "ROYAL BC NINANE A",
+      "other": ""
+    },
+    {
+      "code": "432266",
+      "date": "2026-02-28",
+      "time": "15:00",
+      "team1": "ORP JAUCHE",
+      "team2": "ABC WAREMME A",
+      "category": "U 18 - ELITES MM C",
+      "location": "ORP JAUCHE",
+      "other": ""
+    },
+    {
+      "code": "432274",
+      "date": "2026-03-08",
+      "time": "14:00",
+      "team1": "RBC ESNEUX",
+      "team2": "ORP JAUCHE",
+      "category": "U 18 - ELITES MM C",
+      "location": "RBC ESNEUX",
+      "other": ""
+    },
+    {
+      "code": "432301",
+      "date": "2026-03-29",
+      "time": "16:00",
+      "team1": "LA VILLERSOISE",
+      "team2": "ORP JAUCHE",
+      "category": "U 18 - ELITES MM C",
+      "location": "LA VILLERSOISE",
+      "other": ""
+    },
+    {
+      "code": "432066",
+      "date": "2026-04-04",
+      "time": "17:00",
+      "team1": "ORP JAUCHE",
+      "team2": "ROYAL BC NINANE A",
+      "category": "U 18 - ELITES MM C",
+      "location": "ORP JAUCHE",
+      "other": ""
+    },
+    {
+      "code": "432326",
+      "date": "2026-04-11",
+      "time": "15:00",
+      "team1": "ORP JAUCHE",
+      "team2": "RBC ALLEUR A",
+      "category": "U 18 - ELITES MM C",
+      "location": "ORP JAUCHE",
+      "other": ""
+    },
+    {
+      "code": "432336",
+      "date": "2026-04-18",
+      "time": "15:00",
+      "team1": "ORP JAUCHE",
+      "team2": "UN HUY BASKET A",
+      "category": "U 18 - ELITES MM C",
+      "location": "ORP JAUCHE",
+      "other": ""
+    },
+    {
+      "code": "545236",
+      "date": "2026-02-07",
+      "time": "11:00",
+      "team1": "ORP JAUCHE",
+      "team2": "GIANTS BRAIVES",
+      "category": "U 8 - MM F",
+      "location": "ORP JAUCHE",
+      "other": ""
+    },
+    {
+      "code": "545196",
+      "date": "2026-02-14",
+      "time": "11:00",
+      "team1": "ORP JAUCHE",
+      "team2": "RBC HANEFFE",
+      "category": "U 8 - MM F",
+      "location": "ORP JAUCHE",
+      "other": ""
+    },
+    {
+      "code": "545265",
+      "date": "2026-02-28",
+      "time": "9:15",
+      "team1": "BC VERLAINE B",
+      "team2": "ORP JAUCHE",
+      "category": "U 8 - MM F",
+      "location": "BC VERLAINE B",
+      "other": ""
+    },
+    {
+      "code": "545276",
+      "date": "2026-03-07",
+      "time": "11:00",
+      "team1": "ORP JAUCHE",
+      "team2": "RB TILFF A",
+      "category": "U 8 - MM F",
+      "location": "ORP JAUCHE",
+      "other": ""
+    },
+    {
+      "code": "545296",
+      "date": "2026-03-21",
+      "time": "11:00",
+      "team1": "ORP JAUCHE",
+      "team2": "BC CRISNEE A",
+      "category": "U 8 - MM F",
+      "location": "ORP JAUCHE",
+      "other": ""
+    },
+    {
+      "code": "545216",
+      "date": "2026-03-28",
+      "time": "17:00",
+      "team1": "ORP JAUCHE",
+      "team2": "R 4A AYWAILLE-HAMOIR A",
+      "category": "U 8 - MM F",
+      "location": "ORP JAUCHE",
+      "other": ""
+    },
+    {
+      "code": "545321",
+      "date": "2026-04-12",
+      "time": "9:00",
+      "team1": "LA VILLERSOISE",
+      "team2": "ORP JAUCHE",
+      "category": "U 8 - MM F",
+      "location": "LA VILLERSOISE",
+      "other": ""
+    },
+    {
+      "code": "545334",
+      "date": "2026-04-18",
+      "time": "9:00",
+      "team1": "UN HUY BASKET",
+      "team2": "ORP JAUCHE",
+      "category": "U 8 - MM F",
+      "location": "UN HUY BASKET",
+      "other": ""
+    }
+  ]
+}

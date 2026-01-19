@@ -1,0 +1,879 @@
+{
+  "club": {
+    "id": "961",
+    "name": "961 RSW LIEGE BASKET",
+    "slug": "961-rsw-liege-basket"
+  },
+  "events": [
+    {
+      "code": "762133",
+      "date": "2026-02-07",
+      "time": "10:30",
+      "team1": "RSW LIEGE BASKET A",
+      "team2": "R 4A AYWAILLE-HAMOIR",
+      "category": "CPE PROV CADETS",
+      "location": "RSW LIEGE BASKET A",
+      "other": "(Salle de Sprimont)"
+    },
+    {
+      "code": "407213",
+      "date": "2026-01-24",
+      "time": "17:00",
+      "team1": "VAIL. JUPILLE C",
+      "team2": "RSW LIEGE BASKET C",
+      "category": "MM - DIVISION 4 A",
+      "location": "VAIL. JUPILLE C",
+      "other": ""
+    },
+    {
+      "code": "407222",
+      "date": "2026-02-01",
+      "time": "17:00",
+      "team1": "RSW LIEGE BASKET C",
+      "team2": "RBC DISON-ANDRIMONT D",
+      "category": "MM - DIVISION 4 A",
+      "location": "RSW LIEGE BASKET C",
+      "other": ""
+    },
+    {
+      "code": "407245",
+      "date": "2026-02-15",
+      "time": "11:00",
+      "team1": "BC VERLAINE",
+      "team2": "RSW LIEGE BASKET C",
+      "category": "MM - DIVISION 4 A",
+      "location": "BC VERLAINE",
+      "other": ""
+    },
+    {
+      "code": "407262",
+      "date": "2026-03-01",
+      "time": "17:00",
+      "team1": "RSW LIEGE BASKET C",
+      "team2": "ETOILE JUPILLE B",
+      "category": "MM - DIVISION 4 A",
+      "location": "RSW LIEGE BASKET C",
+      "other": ""
+    },
+    {
+      "code": "407275",
+      "date": "2026-03-08",
+      "time": "13:30",
+      "team1": "ROYAL MOSA AC 1941 B",
+      "team2": "RSW LIEGE BASKET C",
+      "category": "MM - DIVISION 4 A",
+      "location": "ROYAL MOSA AC 1941 B",
+      "other": ""
+    },
+    {
+      "code": "407291",
+      "date": "2026-03-22",
+      "time": "15:00",
+      "team1": "RBC VISE D",
+      "team2": "RSW LIEGE BASKET C",
+      "category": "MM - DIVISION 4 A",
+      "location": "RBC VISE D",
+      "other": ""
+    },
+    {
+      "code": "407302",
+      "date": "2026-03-29",
+      "time": "17:00",
+      "team1": "RSW LIEGE BASKET C",
+      "team2": "RBC HANEFFE C",
+      "category": "MM - DIVISION 4 A",
+      "location": "RSW LIEGE BASKET C",
+      "other": ""
+    },
+    {
+      "code": "407317",
+      "date": "2026-04-04",
+      "time": "20:30",
+      "team1": "RBC ALLEUR D",
+      "team2": "RSW LIEGE BASKET C",
+      "category": "MM - DIVISION 4 A",
+      "location": "RBC ALLEUR D",
+      "other": ""
+    },
+    {
+      "code": "407322",
+      "date": "2026-04-12",
+      "time": "17:00",
+      "team1": "RSW LIEGE BASKET C",
+      "team2": "ROYAL BC NINANE D",
+      "category": "MM - DIVISION 4 A",
+      "location": "RSW LIEGE BASKET C",
+      "other": ""
+    },
+    {
+      "code": "407332",
+      "date": "2026-04-19",
+      "time": "15:00",
+      "team1": "THEUX BC C",
+      "team2": "RSW LIEGE BASKET C",
+      "category": "MM - DIVISION 4 A",
+      "location": "THEUX BC C",
+      "other": ""
+    },
+    {
+      "code": "AW101108",
+      "date": "2026-01-24",
+      "time": "17:00",
+      "team1": "RSW LIEGE BASKET A",
+      "team2": "BC SPRIMONT B",
+      "category": "MM - REGIONALE 1",
+      "location": "RSW LIEGE BASKET A",
+      "other": ""
+    },
+    {
+      "code": "AW101115",
+      "date": "2026-01-31",
+      "time": "18:00",
+      "team1": "RSW LIEGE BASKET A",
+      "team2": "ROYAL BC NINANE A",
+      "category": "MM - REGIONALE 1",
+      "location": "RSW LIEGE BASKET A",
+      "other": ""
+    },
+    {
+      "code": "AW101123",
+      "date": "2026-02-07",
+      "time": "19:30",
+      "team1": "BC VERVIERS A",
+      "team2": "RSW LIEGE BASKET A",
+      "category": "MM - REGIONALE 1",
+      "location": "BC VERVIERS A",
+      "other": ""
+    },
+    {
+      "code": "AW101129",
+      "date": "2026-02-14",
+      "time": "18:00",
+      "team1": "RSW LIEGE BASKET A",
+      "team2": "BB GEMBLOUX",
+      "category": "MM - REGIONALE 1",
+      "location": "RSW LIEGE BASKET A",
+      "other": ""
+    },
+    {
+      "code": "AW101143",
+      "date": "2026-02-28",
+      "time": "18:00",
+      "team1": "RSW LIEGE BASKET A",
+      "team2": "RBC LOYERS",
+      "category": "MM - REGIONALE 1",
+      "location": "RSW LIEGE BASKET A",
+      "other": ""
+    },
+    {
+      "code": "AW101148",
+      "date": "2026-03-06",
+      "time": "20:30",
+      "team1": "UNION MONS-HAINAUT",
+      "team2": "RSW LIEGE BASKET A",
+      "category": "MM - REGIONALE 1",
+      "location": "UNION MONS-HAINAUT",
+      "other": ""
+    },
+    {
+      "code": "AW101157",
+      "date": "2026-03-14",
+      "time": "18:00",
+      "team1": "RSW LIEGE BASKET A",
+      "team2": "RPC ANDERLECHT",
+      "category": "MM - REGIONALE 1",
+      "location": "RSW LIEGE BASKET A",
+      "other": ""
+    },
+    {
+      "code": "AW101138",
+      "date": "2026-03-21",
+      "time": "19:30",
+      "team1": "ROYAL IV BRUSSELS",
+      "team2": "RSW LIEGE BASKET A",
+      "category": "MM - REGIONALE 1",
+      "location": "ROYAL IV BRUSSELS",
+      "other": ""
+    },
+    {
+      "code": "AW101171",
+      "date": "2026-04-11",
+      "time": "18:00",
+      "team1": "RSW LIEGE BASKET A",
+      "team2": "BCCA NEUFCHATEAU",
+      "category": "MM - REGIONALE 1",
+      "location": "RSW LIEGE BASKET A",
+      "other": ""
+    },
+    {
+      "code": "AW101181",
+      "date": "2026-04-18",
+      "time": "20:15",
+      "team1": "ASTE KAIN",
+      "team2": "RSW LIEGE BASKET A",
+      "category": "MM - REGIONALE 1",
+      "location": "ASTE KAIN",
+      "other": ""
+    },
+    {
+      "code": "AW101165",
+      "date": "2026-04-24",
+      "time": "20:00",
+      "team1": "ESL UNITED B",
+      "team2": "RSW LIEGE BASKET A",
+      "category": "MM - REGIONALE 1",
+      "location": "ESL UNITED B",
+      "other": ""
+    },
+    {
+      "code": "AW102108",
+      "date": "2026-01-23",
+      "time": "20:00",
+      "team1": "RSW LIEGE BASKET B",
+      "team2": "UNITED B WOLUWE",
+      "category": "MM - REGIONALE 2 A",
+      "location": "RSW LIEGE BASKET B",
+      "other": ""
+    },
+    {
+      "code": "AW102115",
+      "date": "2026-01-30",
+      "time": "20:00",
+      "team1": "RSW LIEGE BASKET B",
+      "team2": "ROYAL BC WANZE A",
+      "category": "MM - REGIONALE 2 A",
+      "location": "RSW LIEGE BASKET B",
+      "other": ""
+    },
+    {
+      "code": "AW102123",
+      "date": "2026-02-07",
+      "time": "20:30",
+      "team1": "B55 ACADEMY XL",
+      "team2": "RSW LIEGE BASKET B",
+      "category": "MM - REGIONALE 2 A",
+      "location": "B55 ACADEMY XL",
+      "other": ""
+    },
+    {
+      "code": "AW102129",
+      "date": "2026-02-13",
+      "time": "20:00",
+      "team1": "RSW LIEGE BASKET B",
+      "team2": "ABC WAREMME A",
+      "category": "MM - REGIONALE 2 A",
+      "location": "RSW LIEGE BASKET B",
+      "other": ""
+    },
+    {
+      "code": "AW102143",
+      "date": "2026-02-27",
+      "time": "20:00",
+      "team1": "RSW LIEGE BASKET B",
+      "team2": "JSB MAFFLE",
+      "category": "MM - REGIONALE 2 A",
+      "location": "RSW LIEGE BASKET B",
+      "other": ""
+    },
+    {
+      "code": "AW102148",
+      "date": "2026-03-07",
+      "time": "18:00",
+      "team1": "ROYAL NIVELLES",
+      "team2": "RSW LIEGE BASKET B",
+      "category": "MM - REGIONALE 2 A",
+      "location": "ROYAL NIVELLES",
+      "other": ""
+    },
+    {
+      "code": "AW102157",
+      "date": "2026-03-13",
+      "time": "20:00",
+      "team1": "RSW LIEGE BASKET B",
+      "team2": "ATLAS A JUPILLE A",
+      "category": "MM - REGIONALE 2 A",
+      "location": "RSW LIEGE BASKET B",
+      "other": ""
+    },
+    {
+      "code": "AW102138",
+      "date": "2026-03-21",
+      "time": "20:00",
+      "team1": "AS MAZY-SPY",
+      "team2": "RSW LIEGE BASKET B",
+      "category": "MM - REGIONALE 2 A",
+      "location": "AS MAZY-SPY",
+      "other": ""
+    },
+    {
+      "code": "AW102165",
+      "date": "2026-04-04",
+      "time": "19:00",
+      "team1": "BC FRAIRE",
+      "team2": "RSW LIEGE BASKET B",
+      "category": "MM - REGIONALE 2 A",
+      "location": "BC FRAIRE",
+      "other": ""
+    },
+    {
+      "code": "AW102171",
+      "date": "2026-04-10",
+      "time": "20:00",
+      "team1": "RSW LIEGE BASKET B",
+      "team2": "BCJS ESTAIMPUIS",
+      "category": "MM - REGIONALE 2 A",
+      "location": "RSW LIEGE BASKET B",
+      "other": ""
+    },
+    {
+      "code": "AW102181",
+      "date": "2026-04-18",
+      "time": "20:30",
+      "team1": "R LINTHOUT BC",
+      "team2": "RSW LIEGE BASKET B",
+      "category": "MM - REGIONALE 2 A",
+      "location": "R LINTHOUT BC",
+      "other": ""
+    },
+    {
+      "code": "520212",
+      "date": "2026-01-24",
+      "time": "9:00",
+      "team1": "PEPINSTER EAST BELG D",
+      "team2": "RSW LIEGE BASKET",
+      "category": "U 10 - MM A",
+      "location": "PEPINSTER EAST BELG D",
+      "other": ""
+    },
+    {
+      "code": "520226",
+      "date": "2026-02-01",
+      "time": "11:00",
+      "team1": "HENRI-CHAPELLE A",
+      "team2": "RSW LIEGE BASKET",
+      "category": "U 10 - MM A",
+      "location": "HENRI-CHAPELLE A",
+      "other": ""
+    },
+    {
+      "code": "520073",
+      "date": "2026-02-07",
+      "time": "12:00",
+      "team1": "RSW LIEGE BASKET",
+      "team2": "BC BELLEFLAMME A",
+      "category": "U 10 - MM A",
+      "location": "RSW LIEGE BASKET",
+      "other": ""
+    },
+    {
+      "code": "520196",
+      "date": "2026-02-14",
+      "time": "10:45",
+      "team1": "ROYAL BC NINANE A",
+      "team2": "RSW LIEGE BASKET",
+      "category": "U 10 - MM A",
+      "location": "ROYAL BC NINANE A",
+      "other": ""
+    },
+    {
+      "code": "520273",
+      "date": "2026-03-07",
+      "time": "11:30",
+      "team1": "RSW LIEGE BASKET",
+      "team2": "ROYAL SPA BC C",
+      "category": "U 10 - MM A",
+      "location": "RSW LIEGE BASKET",
+      "other": ""
+    },
+    {
+      "code": "520293",
+      "date": "2026-03-21",
+      "time": "11:30",
+      "team1": "RSW LIEGE BASKET",
+      "team2": "FLERON BBC",
+      "category": "U 10 - MM A",
+      "location": "RSW LIEGE BASKET",
+      "other": ""
+    },
+    {
+      "code": "520323",
+      "date": "2026-04-11",
+      "time": "12:00",
+      "team1": "BC BELLEFLAMME A",
+      "team2": "RSW LIEGE BASKET",
+      "category": "U 10 - MM A",
+      "location": "BC BELLEFLAMME A",
+      "other": ""
+    },
+    {
+      "code": "520333",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "team1": "RSW LIEGE BASKET",
+      "team2": "RBC STAVELOT A",
+      "category": "U 10 - MM A",
+      "location": "RSW LIEGE BASKET",
+      "other": ""
+    },
+    {
+      "code": "501223",
+      "date": "2026-01-31",
+      "time": "15:00",
+      "team1": "RSW LIEGE BASKET",
+      "team2": "ROYAL BC NINANE A",
+      "category": "U 12 - MM B",
+      "location": "RSW LIEGE BASKET",
+      "other": ""
+    },
+    {
+      "code": "501234",
+      "date": "2026-02-07",
+      "time": "11:30",
+      "team1": "BC COINTE B",
+      "team2": "RSW LIEGE BASKET",
+      "category": "U 12 - MM B",
+      "location": "BC COINTE B",
+      "other": ""
+    },
+    {
+      "code": "501263",
+      "date": "2026-02-28",
+      "time": "15:00",
+      "team1": "RSW LIEGE BASKET",
+      "team2": "LA VILLERSOISE C",
+      "category": "U 12 - MM B",
+      "location": "RSW LIEGE BASKET",
+      "other": ""
+    },
+    {
+      "code": "501271",
+      "date": "2026-03-08",
+      "time": "11:15",
+      "team1": "ALL. FLEMALLE C",
+      "team2": "RSW LIEGE BASKET",
+      "category": "U 12 - MM B",
+      "location": "ALL. FLEMALLE C",
+      "other": ""
+    },
+    {
+      "code": "501295",
+      "date": "2026-03-22",
+      "time": "9:00",
+      "team1": "RB TILFF A",
+      "team2": "RSW LIEGE BASKET",
+      "category": "U 12 - MM B",
+      "location": "RB TILFF A",
+      "other": ""
+    },
+    {
+      "code": "501303",
+      "date": "2026-03-28",
+      "time": "11:00",
+      "team1": "RSW LIEGE BASKET",
+      "team2": "R 4A AYWAILLE-HAMOIR",
+      "category": "U 12 - MM B",
+      "location": "RSW LIEGE BASKET",
+      "other": ""
+    },
+    {
+      "code": "501323",
+      "date": "2026-04-11",
+      "time": "15:00",
+      "team1": "RSW LIEGE BASKET",
+      "team2": "RBC AWANS A",
+      "category": "U 12 - MM B",
+      "location": "RSW LIEGE BASKET",
+      "other": ""
+    },
+    {
+      "code": "430213",
+      "date": "2026-01-24",
+      "time": "13:00",
+      "team1": "RSW LIEGE BASKET B",
+      "team2": "BC BELLEFLAMME A",
+      "category": "U 18 - ELITES MM A",
+      "location": "RSW LIEGE BASKET B",
+      "other": ""
+    },
+    {
+      "code": "430223",
+      "date": "2026-01-31",
+      "time": "13:00",
+      "team1": "RSW LIEGE BASKET B",
+      "team2": "BC VERVIERS",
+      "category": "U 18 - ELITES MM A",
+      "location": "RSW LIEGE BASKET B",
+      "other": ""
+    },
+    {
+      "code": "430193",
+      "date": "2026-02-14",
+      "time": "13:00",
+      "team1": "RSW LIEGE BASKET B",
+      "team2": "BBC EUPEN A",
+      "category": "U 18 - ELITES MM A",
+      "location": "RSW LIEGE BASKET B",
+      "other": ""
+    },
+    {
+      "code": "430263",
+      "date": "2026-02-28",
+      "time": "13:00",
+      "team1": "RSW LIEGE BASKET B",
+      "team2": "BC COINTE",
+      "category": "U 18 - ELITES MM A",
+      "location": "RSW LIEGE BASKET B",
+      "other": ""
+    },
+    {
+      "code": "430271",
+      "date": "2026-03-08",
+      "time": "15:00",
+      "team1": "ATLAS A JUPILLE",
+      "team2": "RSW LIEGE BASKET B",
+      "category": "U 18 - ELITES MM A",
+      "location": "ATLAS A JUPILLE",
+      "other": ""
+    },
+    {
+      "code": "430295",
+      "date": "2026-03-22",
+      "time": "9:30",
+      "team1": "ROYAL MOSA AC 1941",
+      "team2": "RSW LIEGE BASKET B",
+      "category": "U 18 - ELITES MM A",
+      "location": "ROYAL MOSA AC 1941",
+      "other": ""
+    },
+    {
+      "code": "430303",
+      "date": "2026-03-28",
+      "time": "13:00",
+      "team1": "RSW LIEGE BASKET B",
+      "team2": "CRISTAL SGH A",
+      "category": "U 18 - ELITES MM A",
+      "location": "RSW LIEGE BASKET B",
+      "other": ""
+    },
+    {
+      "code": "430332",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "team1": "THEUX BC",
+      "team2": "RSW LIEGE BASKET B",
+      "category": "U 18 - ELITES MM A",
+      "location": "THEUX BC",
+      "other": ""
+    },
+    {
+      "code": "431213",
+      "date": "2026-01-24",
+      "time": "13:00",
+      "team1": "UN HUY BASKET B",
+      "team2": "RSW LIEGE BASKET A",
+      "category": "U 18 - ELITES MM B",
+      "location": "UN HUY BASKET B",
+      "other": ""
+    },
+    {
+      "code": "431222",
+      "date": "2026-02-01",
+      "time": "15:00",
+      "team1": "RSW LIEGE BASKET A",
+      "team2": "RBC HANEFFE",
+      "category": "U 18 - ELITES MM B",
+      "location": "RSW LIEGE BASKET A",
+      "other": ""
+    },
+    {
+      "code": "431262",
+      "date": "2026-03-01",
+      "time": "15:00",
+      "team1": "RSW LIEGE BASKET A",
+      "team2": "COLLEGE S LOUIS",
+      "category": "U 18 - ELITES MM B",
+      "location": "RSW LIEGE BASKET A",
+      "other": ""
+    },
+    {
+      "code": "431275",
+      "date": "2026-03-07",
+      "time": "11:00",
+      "team1": "CRISTAL SGH B",
+      "team2": "RSW LIEGE BASKET A",
+      "category": "U 18 - ELITES MM B",
+      "location": "CRISTAL SGH B",
+      "other": ""
+    },
+    {
+      "code": "431296",
+      "date": "2026-03-21",
+      "time": "16:00",
+      "team1": "MAIL. COMBLAIN",
+      "team2": "RSW LIEGE BASKET A",
+      "category": "U 18 - ELITES MM B",
+      "location": "MAIL. COMBLAIN",
+      "other": ""
+    },
+    {
+      "code": "431235",
+      "date": "2026-03-29",
+      "time": "9:30",
+      "team1": "R 4A AYWAILLE-HAMOIR",
+      "team2": "RSW LIEGE BASKET A",
+      "category": "U 18 - ELITES MM B",
+      "location": "R 4A AYWAILLE-HAMOIR",
+      "other": ""
+    },
+    {
+      "code": "431054",
+      "date": "2026-04-05",
+      "time": "10:00",
+      "team1": "RBC HANEFFE",
+      "team2": "RSW LIEGE BASKET A",
+      "category": "U 18 - ELITES MM B",
+      "location": "RBC HANEFFE",
+      "other": ""
+    },
+    {
+      "code": "431322",
+      "date": "2026-04-12",
+      "time": "15:00",
+      "team1": "RSW LIEGE BASKET A",
+      "team2": "PEPINSTER EAST BELG",
+      "category": "U 18 - ELITES MM B",
+      "location": "RSW LIEGE BASKET A",
+      "other": ""
+    },
+    {
+      "code": "INJ1812BDE",
+      "date": "2026-01-28",
+      "time": "20:30",
+      "team1": "BAVI VILVOORDE",
+      "team2": "RSW LIEGE BASKET",
+      "category": "U 18 MM - NATIONAUX B",
+      "location": "BAVI VILVOORDE",
+      "other": ""
+    },
+    {
+      "code": "INJ1812BCE",
+      "date": "2026-02-04",
+      "time": "18:00",
+      "team1": "SOBABEE ANTWERPEN",
+      "team2": "RSW LIEGE BASKET",
+      "category": "U 18 MM - NATIONAUX B",
+      "location": "SOBABEE ANTWERPEN",
+      "other": ""
+    },
+    {
+      "code": "INJ1812BEA",
+      "date": "2026-02-25",
+      "time": "20:00",
+      "team1": "RSW LIEGE BASKET",
+      "team2": "EAST BELGIUM BCA",
+      "category": "U 18 MM - NATIONAUX B",
+      "location": "RSW LIEGE BASKET",
+      "other": ""
+    },
+    {
+      "code": "INJ1812BBE",
+      "date": "2026-03-22",
+      "time": "15:00",
+      "team1": "ATLAS A JUPILLE",
+      "team2": "RSW LIEGE BASKET",
+      "category": "U 18 MM - NATIONAUX B",
+      "location": "ATLAS A JUPILLE",
+      "other": ""
+    },
+    {
+      "code": "INJ1812BED",
+      "date": "2026-03-29",
+      "time": "13:00",
+      "team1": "RSW LIEGE BASKET",
+      "team2": "BAVI VILVOORDE",
+      "category": "U 18 MM - NATIONAUX B",
+      "location": "RSW LIEGE BASKET",
+      "other": ""
+    },
+    {
+      "code": "INJ1812BEC",
+      "date": "2026-04-01",
+      "time": "20:00",
+      "team1": "RSW LIEGE BASKET",
+      "team2": "SOBABEE ANTWERPEN",
+      "category": "U 18 MM - NATIONAUX B",
+      "location": "RSW LIEGE BASKET",
+      "other": ""
+    },
+    {
+      "code": "INJ1812BEF",
+      "date": "2026-04-05",
+      "time": "13:30",
+      "team1": "RSW LIEGE BASKET",
+      "team2": "BC OOSTENDE",
+      "category": "U 18 MM - NATIONAUX B",
+      "location": "RSW LIEGE BASKET",
+      "other": ""
+    },
+    {
+      "code": "INJ1812BAE",
+      "date": "2026-04-18",
+      "time": "13:00",
+      "team1": "EAST BELGIUM BCA",
+      "team2": "RSW LIEGE BASKET",
+      "category": "U 18 MM - NATIONAUX B",
+      "location": "EAST BELGIUM BCA",
+      "other": ""
+    },
+    {
+      "code": "AW149011",
+      "date": "2026-02-08",
+      "time": "13:00",
+      "team1": "BC RANSART CHARLEROI",
+      "team2": "RSW LIEGE BASKET",
+      "category": "U 21 - SILVER REGIONAUX B",
+      "location": "BC RANSART CHARLEROI",
+      "other": ""
+    },
+    {
+      "code": "AW149015",
+      "date": "2026-02-14",
+      "time": "11:00",
+      "team1": "RSW LIEGE BASKET",
+      "team2": "RBC VISE",
+      "category": "U 21 - SILVER REGIONAUX B",
+      "location": "RSW LIEGE BASKET",
+      "other": ""
+    },
+    {
+      "code": "AW149003",
+      "date": "2026-02-21",
+      "time": "14:00",
+      "team1": "UBCF QUAREGNON",
+      "team2": "RSW LIEGE BASKET",
+      "category": "U 21 - SILVER REGIONAUX B",
+      "location": "UBCF QUAREGNON",
+      "other": ""
+    },
+    {
+      "code": "AW149006",
+      "date": "2026-02-28",
+      "time": "11:00",
+      "team1": "RSW LIEGE BASKET",
+      "team2": "RBC ALLEUR",
+      "category": "U 21 - SILVER REGIONAUX B",
+      "location": "RSW LIEGE BASKET",
+      "other": ""
+    },
+    {
+      "code": "AW149028",
+      "date": "2026-03-07",
+      "time": "11:00",
+      "team1": "RBC VISE",
+      "team2": "RSW LIEGE BASKET",
+      "category": "U 21 - SILVER REGIONAUX B",
+      "location": "RBC VISE",
+      "other": ""
+    },
+    {
+      "code": "AW149027",
+      "date": "2026-03-14",
+      "time": "11:00",
+      "team1": "RSW LIEGE BASKET",
+      "team2": "BC RANSART CHARLEROI",
+      "category": "U 21 - SILVER REGIONAUX B",
+      "location": "RSW LIEGE BASKET",
+      "other": ""
+    },
+    {
+      "code": "AW149019",
+      "date": "2026-03-21",
+      "time": "10:30",
+      "team1": "RBC ALLEUR",
+      "team2": "RSW LIEGE BASKET",
+      "category": "U 21 - SILVER REGIONAUX B",
+      "location": "RBC ALLEUR",
+      "other": ""
+    },
+    {
+      "code": "AW149018",
+      "date": "2026-04-11",
+      "time": "11:00",
+      "team1": "RSW LIEGE BASKET",
+      "team2": "UBCF QUAREGNON",
+      "category": "U 21 - SILVER REGIONAUX B",
+      "location": "RSW LIEGE BASKET",
+      "other": ""
+    },
+    {
+      "code": "543212",
+      "date": "2026-01-24",
+      "time": "10:00",
+      "team1": "BC SPRIMONT B",
+      "team2": "RSW LIEGE BASKET",
+      "category": "U 8 - MM D",
+      "location": "BC SPRIMONT B",
+      "other": ""
+    },
+    {
+      "code": "543264",
+      "date": "2026-02-01",
+      "time": "9:00",
+      "team1": "R REN. MONTEGNEE",
+      "team2": "RSW LIEGE BASKET",
+      "category": "U 8 - MM D",
+      "location": "R REN. MONTEGNEE",
+      "other": ""
+    },
+    {
+      "code": "543233",
+      "date": "2026-02-07",
+      "time": "10:00",
+      "team1": "RSW LIEGE BASKET",
+      "team2": "BC BELLEFLAMME A",
+      "category": "U 8 - MM D",
+      "location": "RSW LIEGE BASKET",
+      "other": ""
+    },
+    {
+      "code": "543196",
+      "date": "2026-02-14",
+      "time": "12:00",
+      "team1": "MAIL. COMBLAIN",
+      "team2": "RSW LIEGE BASKET",
+      "category": "U 8 - MM D",
+      "location": "MAIL. COMBLAIN",
+      "other": ""
+    },
+    {
+      "code": "543273",
+      "date": "2026-03-07",
+      "time": "10:00",
+      "team1": "RSW LIEGE BASKET",
+      "team2": "ALL. FLEMALLE A",
+      "category": "U 8 - MM D",
+      "location": "RSW LIEGE BASKET",
+      "other": ""
+    },
+    {
+      "code": "543293",
+      "date": "2026-03-21",
+      "time": "10:00",
+      "team1": "RSW LIEGE BASKET",
+      "team2": "CRISTAL SGH A",
+      "category": "U 8 - MM D",
+      "location": "RSW LIEGE BASKET",
+      "other": ""
+    },
+    {
+      "code": "543305",
+      "date": "2026-03-28",
+      "time": "11:00",
+      "team1": "ABC WAREMME B",
+      "team2": "RSW LIEGE BASKET",
+      "category": "U 8 - MM D",
+      "location": "ABC WAREMME B",
+      "other": ""
+    }
+  ]
+}

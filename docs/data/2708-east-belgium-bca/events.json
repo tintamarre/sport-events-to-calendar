@@ -1,0 +1,829 @@
+{
+  "club": {
+    "id": "2708",
+    "name": "2708 EAST BELGIUM BCA",
+    "slug": "2708-east-belgium-bca"
+  },
+  "events": [
+    {
+      "code": "AW248030",
+      "date": "2026-01-31",
+      "time": "13:30",
+      "team1": "PDL CHARLEROI A",
+      "team2": "EAST BELGIUM BCA",
+      "category": "COUPE AWBB U14 - FILLES",
+      "location": "PDL CHARLEROI A",
+      "other": "(Salle Waremme)"
+    },
+    {
+      "code": "AW247061",
+      "date": "2026-01-31",
+      "time": "15:30",
+      "team1": "EAST BELGIUM BCA B",
+      "team2": "ROYAL BC CINEY A",
+      "category": "COUPE AWBB U16 - FILLES",
+      "location": "EAST BELGIUM BCA B",
+      "other": "(Salle Waremme)"
+    },
+    {
+      "code": "AW179022",
+      "date": "2026-01-24",
+      "time": "15:30",
+      "team1": "TOURNAI WAPITI",
+      "team2": "EAST BELGIUM BCA",
+      "category": "U 14 - GOLD REGIONALES A",
+      "location": "TOURNAI WAPITI",
+      "other": ""
+    },
+    {
+      "code": "AW179012",
+      "date": "2026-02-08",
+      "time": "15:30",
+      "team1": "LADIES CHARLEROI",
+      "team2": "EAST BELGIUM BCA",
+      "category": "U 14 - GOLD REGIONALES A",
+      "location": "LADIES CHARLEROI",
+      "other": ""
+    },
+    {
+      "code": "AW179013",
+      "date": "2026-02-14",
+      "time": "13:00",
+      "team1": "EAST BELGIUM BCA",
+      "team2": "ROYAL BC CINEY",
+      "category": "U 14 - GOLD REGIONALES A",
+      "location": "EAST BELGIUM BCA",
+      "other": ""
+    },
+    {
+      "code": "AW179029",
+      "date": "2026-03-08",
+      "time": "12:15",
+      "team1": "ROYAL BC CINEY",
+      "team2": "EAST BELGIUM BCA",
+      "category": "U 14 - GOLD REGIONALES A",
+      "location": "ROYAL BC CINEY",
+      "other": ""
+    },
+    {
+      "code": "AW179025",
+      "date": "2026-03-15",
+      "time": "13:00",
+      "team1": "EAST BELGIUM BCA",
+      "team2": "LADIES CHARLEROI",
+      "category": "U 14 - GOLD REGIONALES A",
+      "location": "EAST BELGIUM BCA",
+      "other": ""
+    },
+    {
+      "code": "AW179019",
+      "date": "2026-03-21",
+      "time": "13:00",
+      "team1": "EAST BELGIUM BCA",
+      "team2": "MONS CAPITALE",
+      "category": "U 14 - GOLD REGIONALES A",
+      "location": "EAST BELGIUM BCA",
+      "other": ""
+    },
+    {
+      "code": "AW179001",
+      "date": "2026-03-28",
+      "time": "15:00",
+      "team1": "EAST BELGIUM BCA",
+      "team2": "RCS NATOYE",
+      "category": "U 14 - GOLD REGIONALES A",
+      "location": "EAST BELGIUM BCA",
+      "other": ""
+    },
+    {
+      "code": "AW179017",
+      "date": "2026-04-11",
+      "time": "9:30",
+      "team1": "RCS NATOYE",
+      "team2": "EAST BELGIUM BCA",
+      "category": "U 14 - GOLD REGIONALES A",
+      "location": "RCS NATOYE",
+      "other": ""
+    },
+    {
+      "code": "AW179007",
+      "date": "2026-04-18",
+      "time": "13:00",
+      "team1": "EAST BELGIUM BCA",
+      "team2": "TOURNAI WAPITI",
+      "category": "U 14 - GOLD REGIONALES A",
+      "location": "EAST BELGIUM BCA",
+      "other": ""
+    },
+    {
+      "code": "AW167022",
+      "date": "2026-01-24",
+      "time": "14:30",
+      "team1": "EAST BELGIUM BCA",
+      "team2": "R UAA ETTERBEEK",
+      "category": "U 14 - SILVER REGIONAUX E",
+      "location": "EAST BELGIUM BCA",
+      "other": ""
+    },
+    {
+      "code": "AW167004",
+      "date": "2026-02-01",
+      "time": "13:00",
+      "team1": "EAST BELGIUM BCA",
+      "team2": "R EXC BRUXELLES",
+      "category": "U 14 - SILVER REGIONAUX E",
+      "location": "EAST BELGIUM BCA",
+      "other": ""
+    },
+    {
+      "code": "AW167010",
+      "date": "2026-02-08",
+      "time": "13:00",
+      "team1": "EAST BELGIUM BCA",
+      "team2": "GIANTS BRAIVES",
+      "category": "U 14 - SILVER REGIONAUX E",
+      "location": "EAST BELGIUM BCA",
+      "other": ""
+    },
+    {
+      "code": "AW167028",
+      "date": "2026-03-08",
+      "time": "13:00",
+      "team1": "EAST BELGIUM BCA",
+      "team2": "FRIENDLY BULLS XL",
+      "category": "U 14 - SILVER REGIONAUX E",
+      "location": "EAST BELGIUM BCA",
+      "other": ""
+    },
+    {
+      "code": "AW167026",
+      "date": "2026-03-14",
+      "time": "13:00",
+      "team1": "GIANTS BRAIVES",
+      "team2": "EAST BELGIUM BCA",
+      "category": "U 14 - SILVER REGIONAUX E",
+      "location": "GIANTS BRAIVES",
+      "other": ""
+    },
+    {
+      "code": "AW167021",
+      "date": "2026-04-04",
+      "time": "11:00",
+      "team1": "R EXC BRUXELLES",
+      "team2": "EAST BELGIUM BCA",
+      "category": "U 14 - SILVER REGIONAUX E",
+      "location": "R EXC BRUXELLES",
+      "other": ""
+    },
+    {
+      "code": "AW167016",
+      "date": "2026-04-12",
+      "time": "13:00",
+      "team1": "EAST BELGIUM BCA",
+      "team2": "BBC BRAINOIS",
+      "category": "U 14 - SILVER REGIONAUX E",
+      "location": "EAST BELGIUM BCA",
+      "other": ""
+    },
+    {
+      "code": "AW167007",
+      "date": "2026-04-19",
+      "time": "11:00",
+      "team1": "R UAA ETTERBEEK",
+      "team2": "EAST BELGIUM BCA",
+      "category": "U 14 - SILVER REGIONAUX E",
+      "location": "R UAA ETTERBEEK",
+      "other": ""
+    },
+    {
+      "code": "AW167015",
+      "date": "2026-04-26",
+      "time": "11:30",
+      "team1": "FRIENDLY BULLS XL",
+      "team2": "EAST BELGIUM BCA",
+      "category": "U 14 - SILVER REGIONAUX E",
+      "location": "FRIENDLY BULLS XL",
+      "other": ""
+    },
+    {
+      "code": "ING1412AEB",
+      "date": "2026-01-31",
+      "time": "12:30",
+      "team1": "EAST BELGIUM BCA",
+      "team2": "UCCLE EUROPE",
+      "category": "U 14 MM - NATIONAUX A",
+      "location": "EAST BELGIUM BCA",
+      "other": ""
+    },
+    {
+      "code": "ING1412ADE",
+      "date": "2026-02-01",
+      "time": "11:00",
+      "team1": "BER. BLANKENBERGE",
+      "team2": "EAST BELGIUM BCA",
+      "category": "U 14 MM - NATIONAUX A",
+      "location": "BER. BLANKENBERGE",
+      "other": ""
+    },
+    {
+      "code": "ING1412ACE",
+      "date": "2026-02-07",
+      "time": "14:30",
+      "team1": "GEMBO BORGERHOUT",
+      "team2": "EAST BELGIUM BCA",
+      "category": "U 14 MM - NATIONAUX A",
+      "location": "GEMBO BORGERHOUT",
+      "other": ""
+    },
+    {
+      "code": "ING1412ABE",
+      "date": "2026-02-21",
+      "time": "11:00",
+      "team1": "UCCLE EUROPE",
+      "team2": "EAST BELGIUM BCA",
+      "category": "U 14 MM - NATIONAUX A",
+      "location": "UCCLE EUROPE",
+      "other": ""
+    },
+    {
+      "code": "ING1412AEA",
+      "date": "2026-02-28",
+      "time": "14:30",
+      "team1": "EAST BELGIUM BCA",
+      "team2": "R.B.C. BELGRADE",
+      "category": "U 14 MM - NATIONAUX A",
+      "location": "EAST BELGIUM BCA",
+      "other": ""
+    },
+    {
+      "code": "ING1412AEF",
+      "date": "2026-03-15",
+      "time": "15:00",
+      "team1": "EAST BELGIUM BCA",
+      "team2": "BBC FALCO GENT",
+      "category": "U 14 MM - NATIONAUX A",
+      "location": "EAST BELGIUM BCA",
+      "other": ""
+    },
+    {
+      "code": "ING1412AED",
+      "date": "2026-03-29",
+      "time": "15:00",
+      "team1": "EAST BELGIUM BCA",
+      "team2": "BER. BLANKENBERGE",
+      "category": "U 14 MM - NATIONAUX A",
+      "location": "EAST BELGIUM BCA",
+      "other": ""
+    },
+    {
+      "code": "ING1412AEC",
+      "date": "2026-04-12",
+      "time": "15:00",
+      "team1": "EAST BELGIUM BCA",
+      "team2": "GEMBO BORGERHOUT",
+      "category": "U 14 MM - NATIONAUX A",
+      "location": "EAST BELGIUM BCA",
+      "other": ""
+    },
+    {
+      "code": "ING1412AAE",
+      "date": "2026-04-18",
+      "time": "16:00",
+      "team1": "R.B.C. BELGRADE",
+      "team2": "EAST BELGIUM BCA",
+      "category": "U 14 MM - NATIONAUX A",
+      "location": "R.B.C. BELGRADE",
+      "other": ""
+    },
+    {
+      "code": "AW176023",
+      "date": "2026-01-24",
+      "time": "13:30",
+      "team1": "TOURNAI WAPITI",
+      "team2": "EAST BELGIUM BCA",
+      "category": "U 16 - GOLD REGIONALES B",
+      "location": "TOURNAI WAPITI",
+      "other": ""
+    },
+    {
+      "code": "AW176012",
+      "date": "2026-02-08",
+      "time": "15:00",
+      "team1": "EAST BELGIUM BCA",
+      "team2": "LA VILLERSOISE",
+      "category": "U 16 - GOLD REGIONALES B",
+      "location": "EAST BELGIUM BCA",
+      "other": ""
+    },
+    {
+      "code": "AW176014",
+      "date": "2026-02-14",
+      "time": "13:00",
+      "team1": "RCS NATOYE",
+      "team2": "EAST BELGIUM BCA",
+      "category": "U 16 - GOLD REGIONALES B",
+      "location": "RCS NATOYE",
+      "other": ""
+    },
+    {
+      "code": "AW176030",
+      "date": "2026-03-07",
+      "time": "13:00",
+      "team1": "EAST BELGIUM BCA",
+      "team2": "RCS NATOYE",
+      "category": "U 16 - GOLD REGIONALES B",
+      "location": "EAST BELGIUM BCA",
+      "other": ""
+    },
+    {
+      "code": "AW176025",
+      "date": "2026-03-14",
+      "time": "10:30",
+      "team1": "LA VILLERSOISE",
+      "team2": "EAST BELGIUM BCA",
+      "category": "U 16 - GOLD REGIONALES B",
+      "location": "LA VILLERSOISE",
+      "other": ""
+    },
+    {
+      "code": "AW176021",
+      "date": "2026-03-21",
+      "time": "17:00",
+      "team1": "EAST BELGIUM BCA",
+      "team2": "BC BONINNE",
+      "category": "U 16 - GOLD REGIONALES B",
+      "location": "EAST BELGIUM BCA",
+      "other": ""
+    },
+    {
+      "code": "AW176018",
+      "date": "2026-04-11",
+      "time": "11:30",
+      "team1": "BBC LIBRAMONT",
+      "team2": "EAST BELGIUM BCA",
+      "category": "U 16 - GOLD REGIONALES B",
+      "location": "BBC LIBRAMONT",
+      "other": ""
+    },
+    {
+      "code": "AW176009",
+      "date": "2026-04-18",
+      "time": "15:00",
+      "team1": "EAST BELGIUM BCA",
+      "team2": "TOURNAI WAPITI",
+      "category": "U 16 - GOLD REGIONALES B",
+      "location": "EAST BELGIUM BCA",
+      "other": ""
+    },
+    {
+      "code": "AW176004",
+      "date": "2026-04-26",
+      "time": "13:00",
+      "team1": "BC BONINNE",
+      "team2": "EAST BELGIUM BCA",
+      "category": "U 16 - GOLD REGIONALES B",
+      "location": "BC BONINNE",
+      "other": ""
+    },
+    {
+      "code": "AW156022",
+      "date": "2026-01-24",
+      "time": "13:00",
+      "team1": "EAST BELGIUM BCA",
+      "team2": "CASTORS BRAINE",
+      "category": "U 16 - GOLD REGIONAUX B",
+      "location": "EAST BELGIUM BCA",
+      "other": ""
+    },
+    {
+      "code": "AW156026",
+      "date": "2026-01-31",
+      "time": "13:00",
+      "team1": "DPK CARNIERES",
+      "team2": "EAST BELGIUM BCA",
+      "category": "U 16 - GOLD REGIONAUX B",
+      "location": "DPK CARNIERES",
+      "other": ""
+    },
+    {
+      "code": "AW156015",
+      "date": "2026-02-15",
+      "time": "14:00",
+      "team1": "FRESH AIR",
+      "team2": "EAST BELGIUM BCA",
+      "category": "U 16 - GOLD REGIONAUX B",
+      "location": "FRESH AIR",
+      "other": ""
+    },
+    {
+      "code": "AW156010",
+      "date": "2026-03-01",
+      "time": "15:00",
+      "team1": "EAST BELGIUM BCA",
+      "team2": "DPK CARNIERES",
+      "category": "U 16 - GOLD REGIONAUX B",
+      "location": "EAST BELGIUM BCA",
+      "other": ""
+    },
+    {
+      "code": "AW156028",
+      "date": "2026-03-08",
+      "time": "17:00",
+      "team1": "EAST BELGIUM BCA",
+      "team2": "FRESH AIR",
+      "category": "U 16 - GOLD REGIONAUX B",
+      "location": "EAST BELGIUM BCA",
+      "other": ""
+    },
+    {
+      "code": "AW156021",
+      "date": "2026-03-21",
+      "time": "15:00",
+      "team1": "RBC HANEFFE",
+      "team2": "EAST BELGIUM BCA",
+      "category": "U 16 - GOLD REGIONAUX B",
+      "location": "RBC HANEFFE",
+      "other": ""
+    },
+    {
+      "code": "AW156016",
+      "date": "2026-04-12",
+      "time": "15:00",
+      "team1": "EAST BELGIUM BCA",
+      "team2": "BC MALONNE",
+      "category": "U 16 - GOLD REGIONAUX B",
+      "location": "EAST BELGIUM BCA",
+      "other": ""
+    },
+    {
+      "code": "AW156007",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "team1": "CASTORS BRAINE",
+      "team2": "EAST BELGIUM BCA",
+      "category": "U 16 - GOLD REGIONAUX B",
+      "location": "CASTORS BRAINE",
+      "other": ""
+    },
+    {
+      "code": "AW158023",
+      "date": "2026-01-24",
+      "time": "12:30",
+      "team1": "EAST BELGIUM BCA",
+      "team2": "AS ST AUGUSTIN",
+      "category": "U 16 - SILVER REGIONAUX B",
+      "location": "EAST BELGIUM BCA",
+      "other": ""
+    },
+    {
+      "code": "AW158011",
+      "date": "2026-02-07",
+      "time": "14:30",
+      "team1": "EAST BELGIUM BCA",
+      "team2": "FRESH AIR",
+      "category": "U 16 - SILVER REGIONAUX B",
+      "location": "EAST BELGIUM BCA",
+      "other": ""
+    },
+    {
+      "code": "AW158013",
+      "date": "2026-02-14",
+      "time": "11:15",
+      "team1": "BC CENTRE GAUME",
+      "team2": "EAST BELGIUM BCA",
+      "category": "U 16 - SILVER REGIONAUX B",
+      "location": "BC CENTRE GAUME",
+      "other": ""
+    },
+    {
+      "code": "AW158029",
+      "date": "2026-03-07",
+      "time": "14:30",
+      "team1": "EAST BELGIUM BCA",
+      "team2": "BC CENTRE GAUME",
+      "category": "U 16 - SILVER REGIONAUX B",
+      "location": "EAST BELGIUM BCA",
+      "other": ""
+    },
+    {
+      "code": "AW158027",
+      "date": "2026-03-15",
+      "time": "12:00",
+      "team1": "FRESH AIR",
+      "team2": "EAST BELGIUM BCA",
+      "category": "U 16 - SILVER REGIONAUX B",
+      "location": "FRESH AIR",
+      "other": ""
+    },
+    {
+      "code": "AW158020",
+      "date": "2026-03-21",
+      "time": "16:30",
+      "team1": "EAST BELGIUM BCA",
+      "team2": "BC SPRIMONT",
+      "category": "U 16 - SILVER REGIONAUX B",
+      "location": "EAST BELGIUM BCA",
+      "other": ""
+    },
+    {
+      "code": "AW158005",
+      "date": "2026-04-04",
+      "time": "15:00",
+      "team1": "BC SPRIMONT",
+      "team2": "EAST BELGIUM BCA",
+      "category": "U 16 - SILVER REGIONAUX B",
+      "location": "BC SPRIMONT",
+      "other": ""
+    },
+    {
+      "code": "AW158016",
+      "date": "2026-04-12",
+      "time": "13:00",
+      "team1": "ROYAL NIVELLES",
+      "team2": "EAST BELGIUM BCA",
+      "category": "U 16 - SILVER REGIONAUX B",
+      "location": "ROYAL NIVELLES",
+      "other": ""
+    },
+    {
+      "code": "AW158009",
+      "date": "2026-04-18",
+      "time": "14:30",
+      "team1": "AS ST AUGUSTIN",
+      "team2": "EAST BELGIUM BCA",
+      "category": "U 16 - SILVER REGIONAUX B",
+      "location": "AS ST AUGUSTIN",
+      "other": ""
+    },
+    {
+      "code": "INM1612BDE",
+      "date": "2026-02-01",
+      "time": "13:15",
+      "team1": "KORTRIJK SPURS",
+      "team2": "EAST BELGIUM BCA",
+      "category": "U 16 DD - NATIONALES B",
+      "location": "KORTRIJK SPURS",
+      "other": ""
+    },
+    {
+      "code": "INM1612BCE",
+      "date": "2026-02-07",
+      "time": "15:00",
+      "team1": "BASKET WAREGEM",
+      "team2": "EAST BELGIUM BCA",
+      "category": "U 16 DD - NATIONALES B",
+      "location": "BASKET WAREGEM",
+      "other": ""
+    },
+    {
+      "code": "INM1612BEB",
+      "date": "2026-02-14",
+      "time": "11:00",
+      "team1": "EAST BELGIUM BCA",
+      "team2": "LIEGE PANTHERS",
+      "category": "U 16 DD - NATIONALES B",
+      "location": "EAST BELGIUM BCA",
+      "other": ""
+    },
+    {
+      "code": "INM1612BBE",
+      "date": "2026-03-08",
+      "time": "15:00",
+      "team1": "LIEGE PANTHERS",
+      "team2": "EAST BELGIUM BCA",
+      "category": "U 16 DD - NATIONALES B",
+      "location": "LIEGE PANTHERS",
+      "other": ""
+    },
+    {
+      "code": "INM1612BEF",
+      "date": "2026-03-14",
+      "time": "11:00",
+      "team1": "EAST BELGIUM BCA",
+      "team2": "GEMBAS KNESSELARE",
+      "category": "U 16 DD - NATIONALES B",
+      "location": "EAST BELGIUM BCA",
+      "other": ""
+    },
+    {
+      "code": "INM1612BED",
+      "date": "2026-03-28",
+      "time": "11:00",
+      "team1": "EAST BELGIUM BCA",
+      "team2": "KORTRIJK SPURS",
+      "category": "U 16 DD - NATIONALES B",
+      "location": "EAST BELGIUM BCA",
+      "other": ""
+    },
+    {
+      "code": "INM1612BEA",
+      "date": "2026-04-05",
+      "time": "15:00",
+      "team1": "EAST BELGIUM BCA",
+      "team2": "BC BELLEFLAMME",
+      "category": "U 16 DD - NATIONALES B",
+      "location": "EAST BELGIUM BCA",
+      "other": ""
+    },
+    {
+      "code": "INM1612BEC",
+      "date": "2026-04-12",
+      "time": "13:00",
+      "team1": "EAST BELGIUM BCA",
+      "team2": "BASKET WAREGEM",
+      "category": "U 16 DD - NATIONALES B",
+      "location": "EAST BELGIUM BCA",
+      "other": ""
+    },
+    {
+      "code": "INM1612BAE",
+      "date": "2026-04-19",
+      "time": "13:00",
+      "team1": "BC BELLEFLAMME",
+      "team2": "EAST BELGIUM BCA",
+      "category": "U 16 DD - NATIONALES B",
+      "location": "BC BELLEFLAMME",
+      "other": ""
+    },
+    {
+      "code": "INJ1812BBA",
+      "date": "2026-01-25",
+      "time": "17:00",
+      "team1": "ATLAS A JUPILLE",
+      "team2": "EAST BELGIUM BCA",
+      "category": "U 18 MM - NATIONAUX B",
+      "location": "ATLAS A JUPILLE",
+      "other": ""
+    },
+    {
+      "code": "INJ1812BAD",
+      "date": "2026-02-08",
+      "time": "11:00",
+      "team1": "EAST BELGIUM BCA",
+      "team2": "BAVI VILVOORDE",
+      "category": "U 18 MM - NATIONAUX B",
+      "location": "EAST BELGIUM BCA",
+      "other": ""
+    },
+    {
+      "code": "INJ1812BEA",
+      "date": "2026-02-25",
+      "time": "20:00",
+      "team1": "RSW LIEGE BASKET",
+      "team2": "EAST BELGIUM BCA",
+      "category": "U 18 MM - NATIONAUX B",
+      "location": "RSW LIEGE BASKET",
+      "other": ""
+    },
+    {
+      "code": "INJ1812BAC",
+      "date": "2026-03-14",
+      "time": "13:00",
+      "team1": "EAST BELGIUM BCA",
+      "team2": "SOBABEE ANTWERPEN",
+      "category": "U 18 MM - NATIONAUX B",
+      "location": "EAST BELGIUM BCA",
+      "other": ""
+    },
+    {
+      "code": "INJ1812BFA",
+      "date": "2026-03-15",
+      "time": "11:00",
+      "team1": "BC OOSTENDE",
+      "team2": "EAST BELGIUM BCA",
+      "category": "U 18 MM - NATIONAUX B",
+      "location": "BC OOSTENDE",
+      "other": ""
+    },
+    {
+      "code": "INJ1812BAB",
+      "date": "2026-03-28",
+      "time": "11:00",
+      "team1": "EAST BELGIUM BCA",
+      "team2": "ATLAS A JUPILLE",
+      "category": "U 18 MM - NATIONAUX B",
+      "location": "EAST BELGIUM BCA",
+      "other": ""
+    },
+    {
+      "code": "INJ1812BDA",
+      "date": "2026-04-11",
+      "time": "13:00",
+      "team1": "BAVI VILVOORDE",
+      "team2": "EAST BELGIUM BCA",
+      "category": "U 18 MM - NATIONAUX B",
+      "location": "BAVI VILVOORDE",
+      "other": ""
+    },
+    {
+      "code": "INJ1812BAE",
+      "date": "2026-04-18",
+      "time": "13:00",
+      "team1": "EAST BELGIUM BCA",
+      "team2": "RSW LIEGE BASKET",
+      "category": "U 18 MM - NATIONAUX B",
+      "location": "EAST BELGIUM BCA",
+      "other": ""
+    },
+    {
+      "code": "AW174002",
+      "date": "2026-02-01",
+      "time": "15:00",
+      "team1": "BC SPRIMONT",
+      "team2": "EAST BELGIUM BCA",
+      "category": "U 19 - SILVER REGIONALES C",
+      "location": "BC SPRIMONT",
+      "other": ""
+    },
+    {
+      "code": "AW174026",
+      "date": "2026-02-08",
+      "time": "17:15",
+      "team1": "RBC VISE",
+      "team2": "EAST BELGIUM BCA",
+      "category": "U 19 - SILVER REGIONALES C",
+      "location": "RBC VISE",
+      "other": ""
+    },
+    {
+      "code": "AW174015",
+      "date": "2026-02-14",
+      "time": "15:45",
+      "team1": "PDL CHARLEROI",
+      "team2": "EAST BELGIUM BCA",
+      "category": "U 19 - SILVER REGIONALES C",
+      "location": "PDL CHARLEROI",
+      "other": ""
+    },
+    {
+      "code": "AW174022",
+      "date": "2026-02-22",
+      "time": "13:00",
+      "team1": "EAST BELGIUM BCA",
+      "team2": "CASTORS BRAINE",
+      "category": "U 19 - SILVER REGIONALES C",
+      "location": "EAST BELGIUM BCA",
+      "other": ""
+    },
+    {
+      "code": "AW174004",
+      "date": "2026-03-01",
+      "time": "13:00",
+      "team1": "EAST BELGIUM BCA",
+      "team2": "BC MALONNE",
+      "category": "U 19 - SILVER REGIONALES C",
+      "location": "EAST BELGIUM BCA",
+      "other": ""
+    },
+    {
+      "code": "AW174028",
+      "date": "2026-03-08",
+      "time": "13:00",
+      "team1": "EAST BELGIUM BCA",
+      "team2": "PDL CHARLEROI",
+      "category": "U 19 - SILVER REGIONALES C",
+      "location": "EAST BELGIUM BCA",
+      "other": ""
+    },
+    {
+      "code": "AW174021",
+      "date": "2026-03-29",
+      "time": "11:00",
+      "team1": "BC MALONNE",
+      "team2": "EAST BELGIUM BCA",
+      "category": "U 19 - SILVER REGIONALES C",
+      "location": "BC MALONNE",
+      "other": ""
+    },
+    {
+      "code": "AW174010",
+      "date": "2026-04-05",
+      "time": "17:00",
+      "team1": "EAST BELGIUM BCA",
+      "team2": "RBC VISE",
+      "category": "U 19 - SILVER REGIONALES C",
+      "location": "EAST BELGIUM BCA",
+      "other": ""
+    },
+    {
+      "code": "AW174016",
+      "date": "2026-04-11",
+      "time": "13:00",
+      "team1": "EAST BELGIUM BCA",
+      "team2": "BC SPRIMONT",
+      "category": "U 19 - SILVER REGIONALES C",
+      "location": "EAST BELGIUM BCA",
+      "other": ""
+    },
+    {
+      "code": "AW174007",
+      "date": "2026-04-18",
+      "time": "14:00",
+      "team1": "CASTORS BRAINE",
+      "team2": "EAST BELGIUM BCA",
+      "category": "U 19 - SILVER REGIONALES C",
+      "location": "CASTORS BRAINE",
+      "other": ""
+    }
+  ]
+}

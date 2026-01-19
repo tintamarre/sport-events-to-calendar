@@ -1,0 +1,539 @@
+{
+  "club": {
+    "id": "2724",
+    "name": "2724 FLERON BBC",
+    "slug": "2724-fleron-bbc"
+  },
+  "events": [
+    {
+      "code": "402217",
+      "date": "2026-01-25",
+      "time": "11:00",
+      "team1": "RBC ALLEUR C",
+      "team2": "FLERON BBC A",
+      "category": "MM - DIVISION 2 A",
+      "location": "RBC ALLEUR C",
+      "other": ""
+    },
+    {
+      "code": "402225",
+      "date": "2026-02-01",
+      "time": "11:00",
+      "team1": "FLERON BBC A",
+      "team2": "HARIMALIA BC C",
+      "category": "MM - DIVISION 2 A",
+      "location": "FLERON BBC A",
+      "other": ""
+    },
+    {
+      "code": "402194",
+      "date": "2026-02-04",
+      "time": "20:30",
+      "team1": "BC VERVIERS B",
+      "team2": "FLERON BBC A",
+      "category": "MM - DIVISION 2 A",
+      "location": "BC VERVIERS B",
+      "other": ""
+    },
+    {
+      "code": "402016",
+      "date": "2026-02-08",
+      "time": "15:00",
+      "team1": "ROYAL BC WANZE B",
+      "team2": "FLERON BBC A",
+      "category": "MM - DIVISION 2 A",
+      "location": "ROYAL BC WANZE B",
+      "other": ""
+    },
+    {
+      "code": "402242",
+      "date": "2026-02-15",
+      "time": "17:00",
+      "team1": "BC SPRIMONT C",
+      "team2": "FLERON BBC A",
+      "category": "MM - DIVISION 2 A",
+      "location": "BC SPRIMONT C",
+      "other": ""
+    },
+    {
+      "code": "402266",
+      "date": "2026-02-28",
+      "time": "19:00",
+      "team1": "ESL UNITED E",
+      "team2": "FLERON BBC A",
+      "category": "MM - DIVISION 2 A",
+      "location": "ESL UNITED E",
+      "other": ""
+    },
+    {
+      "code": "402275",
+      "date": "2026-03-08",
+      "time": "13:00",
+      "team1": "FLERON BBC A",
+      "team2": "RBC STAVELOT A",
+      "category": "MM - DIVISION 2 A",
+      "location": "FLERON BBC A",
+      "other": ""
+    },
+    {
+      "code": "402185",
+      "date": "2026-03-15",
+      "time": "13:00",
+      "team1": "FLERON BBC A",
+      "team2": "BC BELLEFLAMME C",
+      "category": "MM - DIVISION 2 A",
+      "location": "FLERON BBC A",
+      "other": ""
+    },
+    {
+      "code": "402293",
+      "date": "2026-03-21",
+      "time": "21:00",
+      "team1": "RBC AWANS A",
+      "team2": "FLERON BBC A",
+      "category": "MM - DIVISION 2 A",
+      "location": "RBC AWANS A",
+      "other": ""
+    },
+    {
+      "code": "402307",
+      "date": "2026-03-28",
+      "time": "19:00",
+      "team1": "RBC VISE A",
+      "team2": "FLERON BBC A",
+      "category": "MM - DIVISION 2 A",
+      "location": "RBC VISE A",
+      "other": ""
+    },
+    {
+      "code": "402315",
+      "date": "2026-04-05",
+      "time": "11:00",
+      "team1": "FLERON BBC A",
+      "team2": "ATLAS A JUPILLE B",
+      "category": "MM - DIVISION 2 A",
+      "location": "FLERON BBC A",
+      "other": ""
+    },
+    {
+      "code": "402323",
+      "date": "2026-04-11",
+      "time": "21:00",
+      "team1": "ROYAL SPA BC C",
+      "team2": "FLERON BBC A",
+      "category": "MM - DIVISION 2 A",
+      "location": "ROYAL SPA BC C",
+      "other": ""
+    },
+    {
+      "code": "402335",
+      "date": "2026-04-19",
+      "time": "11:00",
+      "team1": "FLERON BBC A",
+      "team2": "ABC WAREMME B",
+      "category": "MM - DIVISION 2 A",
+      "location": "FLERON BBC A",
+      "other": ""
+    },
+    {
+      "code": "404217",
+      "date": "2026-01-24",
+      "time": "18:30",
+      "team1": "HENRI-CHAPELLE B",
+      "team2": "FLERON BBC B",
+      "category": "MM - DIVISION 3 A",
+      "location": "HENRI-CHAPELLE B",
+      "other": ""
+    },
+    {
+      "code": "404225",
+      "date": "2026-02-01",
+      "time": "13:00",
+      "team1": "FLERON BBC B",
+      "team2": "LA VILLERSOISE A",
+      "category": "MM - DIVISION 3 A",
+      "location": "FLERON BBC B",
+      "other": ""
+    },
+    {
+      "code": "404016",
+      "date": "2026-02-08",
+      "time": "15:00",
+      "team1": "ROYAL BC WANZE C",
+      "team2": "FLERON BBC B",
+      "category": "MM - DIVISION 3 A",
+      "location": "ROYAL BC WANZE C",
+      "other": ""
+    },
+    {
+      "code": "404242",
+      "date": "2026-02-15",
+      "time": "12:45",
+      "team1": "RJS GRIVEGNEE",
+      "team2": "FLERON BBC B",
+      "category": "MM - DIVISION 3 A",
+      "location": "RJS GRIVEGNEE",
+      "other": ""
+    },
+    {
+      "code": "404266",
+      "date": "2026-02-28",
+      "time": "19:00",
+      "team1": "R 4A AYWAILLE-HAMOIR C",
+      "team2": "FLERON BBC B",
+      "category": "MM - DIVISION 3 A",
+      "location": "R 4A AYWAILLE-HAMOIR C",
+      "other": "(Hall de Hamoir)"
+    },
+    {
+      "code": "404275",
+      "date": "2026-03-08",
+      "time": "15:00",
+      "team1": "FLERON BBC B",
+      "team2": "ROYAL HERVE-BATTICE B",
+      "category": "MM - DIVISION 3 A",
+      "location": "FLERON BBC B",
+      "other": ""
+    },
+    {
+      "code": "404185",
+      "date": "2026-03-15",
+      "time": "11:00",
+      "team1": "FLERON BBC B",
+      "team2": "RB TILFF C",
+      "category": "MM - DIVISION 3 A",
+      "location": "FLERON BBC B",
+      "other": ""
+    },
+    {
+      "code": "404293",
+      "date": "2026-03-22",
+      "time": "17:00",
+      "team1": "AVENIR JUPILLE A",
+      "team2": "FLERON BBC B",
+      "category": "MM - DIVISION 3 A",
+      "location": "AVENIR JUPILLE A",
+      "other": ""
+    },
+    {
+      "code": "404307",
+      "date": "2026-03-28",
+      "time": "21:00",
+      "team1": "HANNUT BC B",
+      "team2": "FLERON BBC B",
+      "category": "MM - DIVISION 3 A",
+      "location": "HANNUT BC B",
+      "other": ""
+    },
+    {
+      "code": "404315",
+      "date": "2026-04-05",
+      "time": "13:00",
+      "team1": "FLERON BBC B",
+      "team2": "RB UNION LIEGE B",
+      "category": "MM - DIVISION 3 A",
+      "location": "FLERON BBC B",
+      "other": ""
+    },
+    {
+      "code": "404323",
+      "date": "2026-04-12",
+      "time": "15:00",
+      "team1": "ROYALE US AWANS A",
+      "team2": "FLERON BBC B",
+      "category": "MM - DIVISION 3 A",
+      "location": "ROYALE US AWANS A",
+      "other": ""
+    },
+    {
+      "code": "404335",
+      "date": "2026-04-19",
+      "time": "13:00",
+      "team1": "FLERON BBC B",
+      "team2": "ALL. FLEMALLE B",
+      "category": "MM - DIVISION 3 A",
+      "location": "FLERON BBC B",
+      "other": ""
+    },
+    {
+      "code": "520216",
+      "date": "2026-01-24",
+      "time": "10:45",
+      "team1": "ROYAL BC NINANE A",
+      "team2": "FLERON BBC",
+      "category": "U 10 - MM A",
+      "location": "ROYAL BC NINANE A",
+      "other": ""
+    },
+    {
+      "code": "520225",
+      "date": "2026-02-01",
+      "time": "10:00",
+      "team1": "FLERON BBC",
+      "team2": "ROYAL HERVE-BATTICE A",
+      "category": "U 10 - MM A",
+      "location": "FLERON BBC",
+      "other": ""
+    },
+    {
+      "code": "520232",
+      "date": "2026-02-07",
+      "time": "13:00",
+      "team1": "PEPINSTER EAST BELG D",
+      "team2": "FLERON BBC",
+      "category": "U 10 - MM A",
+      "location": "PEPINSTER EAST BELG D",
+      "other": ""
+    },
+    {
+      "code": "520266",
+      "date": "2026-03-01",
+      "time": "11:00",
+      "team1": "HENRI-CHAPELLE A",
+      "team2": "FLERON BBC",
+      "category": "U 10 - MM A",
+      "location": "HENRI-CHAPELLE A",
+      "other": ""
+    },
+    {
+      "code": "520275",
+      "date": "2026-03-08",
+      "time": "10:00",
+      "team1": "FLERON BBC",
+      "team2": "RBC STAVELOT A",
+      "category": "U 10 - MM A",
+      "location": "FLERON BBC",
+      "other": ""
+    },
+    {
+      "code": "520065",
+      "date": "2026-03-15",
+      "time": "10:00",
+      "team1": "FLERON BBC",
+      "team2": "PEPINSTER EAST BELG D",
+      "category": "U 10 - MM A",
+      "location": "FLERON BBC",
+      "other": ""
+    },
+    {
+      "code": "520293",
+      "date": "2026-03-21",
+      "time": "11:30",
+      "team1": "RSW LIEGE BASKET",
+      "team2": "FLERON BBC",
+      "category": "U 10 - MM A",
+      "location": "RSW LIEGE BASKET",
+      "other": ""
+    },
+    {
+      "code": "520303",
+      "date": "2026-03-28",
+      "time": "9:00",
+      "team1": "BC BELLEFLAMME A",
+      "team2": "FLERON BBC",
+      "category": "U 10 - MM A",
+      "location": "BC BELLEFLAMME A",
+      "other": ""
+    },
+    {
+      "code": "520335",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "team1": "FLERON BBC",
+      "team2": "ROYAL SPA BC C",
+      "category": "U 10 - MM A",
+      "location": "FLERON BBC",
+      "other": ""
+    },
+    {
+      "code": "507225",
+      "date": "2026-02-01",
+      "time": "11:30",
+      "team1": "FLERON BBC",
+      "team2": "RBC ALLEUR A",
+      "category": "U 12 - MM H",
+      "location": "FLERON BBC",
+      "other": ""
+    },
+    {
+      "code": "507232",
+      "date": "2026-02-07",
+      "time": "11:00",
+      "team1": "RABC ENSIVAL B",
+      "team2": "FLERON BBC",
+      "category": "U 12 - MM H",
+      "location": "RABC ENSIVAL B",
+      "other": ""
+    },
+    {
+      "code": "507195",
+      "date": "2026-02-14",
+      "time": "11:00",
+      "team1": "ABC WAREMME B",
+      "team2": "FLERON BBC",
+      "category": "U 12 - MM H",
+      "location": "ABC WAREMME B",
+      "other": ""
+    },
+    {
+      "code": "507266",
+      "date": "2026-03-01",
+      "time": "11:00",
+      "team1": "GIANTS BRAIVES C",
+      "team2": "FLERON BBC",
+      "category": "U 12 - MM H",
+      "location": "GIANTS BRAIVES C",
+      "other": ""
+    },
+    {
+      "code": "507205",
+      "date": "2026-03-08",
+      "time": "11:30",
+      "team1": "FLERON BBC",
+      "team2": "RBC HANEFFE",
+      "category": "U 12 - MM H",
+      "location": "FLERON BBC",
+      "other": ""
+    },
+    {
+      "code": "507065",
+      "date": "2026-03-15",
+      "time": "11:30",
+      "team1": "FLERON BBC",
+      "team2": "RABC ENSIVAL B",
+      "category": "U 12 - MM H",
+      "location": "FLERON BBC",
+      "other": ""
+    },
+    {
+      "code": "507293",
+      "date": "2026-03-21",
+      "time": "12:00",
+      "team1": "R.UN.BELLAIRE",
+      "team2": "FLERON BBC",
+      "category": "U 12 - MM H",
+      "location": "R.UN.BELLAIRE",
+      "other": ""
+    },
+    {
+      "code": "507325",
+      "date": "2026-04-12",
+      "time": "11:30",
+      "team1": "FLERON BBC",
+      "team2": "RBC ESNEUX B",
+      "category": "U 12 - MM H",
+      "location": "FLERON BBC",
+      "other": ""
+    },
+    {
+      "code": "507335",
+      "date": "2026-04-19",
+      "time": "11:30",
+      "team1": "FLERON BBC",
+      "team2": "ALL. FLEMALLE E",
+      "category": "U 12 - MM H",
+      "location": "FLERON BBC",
+      "other": ""
+    },
+    {
+      "code": "541216",
+      "date": "2026-01-24",
+      "time": "13:00",
+      "team1": "BC VERVIERS",
+      "team2": "FLERON BBC",
+      "category": "U 8 - MM B",
+      "location": "BC VERVIERS",
+      "other": ""
+    },
+    {
+      "code": "541225",
+      "date": "2026-02-01",
+      "time": "13:00",
+      "team1": "FLERON BBC",
+      "team2": "ROYAL SPA BC B",
+      "category": "U 8 - MM B",
+      "location": "FLERON BBC",
+      "other": ""
+    },
+    {
+      "code": "541232",
+      "date": "2026-02-08",
+      "time": "10:15",
+      "team1": "RBC VISE A",
+      "team2": "FLERON BBC",
+      "category": "U 8 - MM B",
+      "location": "RBC VISE A",
+      "other": ""
+    },
+    {
+      "code": "541195",
+      "date": "2026-02-14",
+      "time": "11:15",
+      "team1": "CRISTAL SGH B",
+      "team2": "FLERON BBC",
+      "category": "U 8 - MM B",
+      "location": "CRISTAL SGH B",
+      "other": ""
+    },
+    {
+      "code": "541266",
+      "date": "2026-02-28",
+      "time": "9:00",
+      "team1": "ATLAS A JUPILLE",
+      "team2": "FLERON BBC",
+      "category": "U 8 - MM B",
+      "location": "ATLAS A JUPILLE",
+      "other": ""
+    },
+    {
+      "code": "541275",
+      "date": "2026-03-08",
+      "time": "13:00",
+      "team1": "FLERON BBC",
+      "team2": "PEPINSTER EAST BELG A",
+      "category": "U 8 - MM B",
+      "location": "FLERON BBC",
+      "other": ""
+    },
+    {
+      "code": "541025",
+      "date": "2026-03-15",
+      "time": "13:00",
+      "team1": "FLERON BBC",
+      "team2": "CRISTAL SGH B",
+      "category": "U 8 - MM B",
+      "location": "FLERON BBC",
+      "other": ""
+    },
+    {
+      "code": "541293",
+      "date": "2026-03-21",
+      "time": "9:00",
+      "team1": "BCM HERSTAL",
+      "team2": "FLERON BBC",
+      "category": "U 8 - MM B",
+      "location": "BCM HERSTAL",
+      "other": ""
+    },
+    {
+      "code": "541325",
+      "date": "2026-04-12",
+      "time": "13:00",
+      "team1": "FLERON BBC",
+      "team2": "RBC DISON-ANDRIMONT",
+      "category": "U 8 - MM B",
+      "location": "FLERON BBC",
+      "other": ""
+    },
+    {
+      "code": "541335",
+      "date": "2026-04-19",
+      "time": "13:00",
+      "team1": "FLERON BBC",
+      "team2": "HARIMALIA BC",
+      "category": "U 8 - MM B",
+      "location": "FLERON BBC",
+      "other": ""
+    }
+  ]
+}

@@ -1,0 +1,629 @@
+{
+  "club": {
+    "id": "2458",
+    "name": "2458 BBC EUPEN",
+    "slug": "2458-bbc-eupen"
+  },
+  "events": [
+    {
+      "code": "762134",
+      "date": "2026-02-08",
+      "time": "16:45",
+      "team1": "PEPINSTER EAST BELG",
+      "team2": "BBC EUPEN A",
+      "category": "CPE PROV CADETS",
+      "location": "PEPINSTER EAST BELG",
+      "other": "(Salle de Sprimont)"
+    },
+    {
+      "code": "406216",
+      "date": "2026-01-23",
+      "time": "21:00",
+      "team1": "BC REVEIL A",
+      "team2": "BBC EUPEN",
+      "category": "MM - DIVISION 3 C",
+      "location": "BC REVEIL A",
+      "other": ""
+    },
+    {
+      "code": "406226",
+      "date": "2026-02-01",
+      "time": "14:00",
+      "team1": "BBC EUPEN",
+      "team2": "ESL UNITED F",
+      "category": "MM - DIVISION 3 C",
+      "location": "BBC EUPEN",
+      "other": ""
+    },
+    {
+      "code": "406195",
+      "date": "2026-02-07",
+      "time": "17:00",
+      "team1": "CRISTAL SGH B",
+      "team2": "BBC EUPEN",
+      "category": "MM - DIVISION 3 C",
+      "location": "CRISTAL SGH B",
+      "other": ""
+    },
+    {
+      "code": "406241",
+      "date": "2026-02-14",
+      "time": "19:00",
+      "team1": "RBC WELKENRAEDT A",
+      "team2": "BBC EUPEN",
+      "category": "MM - DIVISION 3 C",
+      "location": "RBC WELKENRAEDT A",
+      "other": ""
+    },
+    {
+      "code": "406266",
+      "date": "2026-02-28",
+      "time": "19:00",
+      "team1": "BBC EUPEN",
+      "team2": "R 4A AYWAILLE-HAMOIR B",
+      "category": "MM - DIVISION 3 C",
+      "location": "BBC EUPEN",
+      "other": ""
+    },
+    {
+      "code": "406274",
+      "date": "2026-03-06",
+      "time": "21:00",
+      "team1": "BC SANKT VITH",
+      "team2": "BBC EUPEN",
+      "category": "MM - DIVISION 3 C",
+      "location": "BC SANKT VITH",
+      "other": ""
+    },
+    {
+      "code": "406292",
+      "date": "2026-03-22",
+      "time": "11:00",
+      "team1": "THEUX BC B",
+      "team2": "BBC EUPEN",
+      "category": "MM - DIVISION 3 C",
+      "location": "THEUX BC B",
+      "other": ""
+    },
+    {
+      "code": "406301",
+      "date": "2026-03-28",
+      "time": "21:00",
+      "team1": "RBC VISE C",
+      "team2": "BBC EUPEN",
+      "category": "MM - DIVISION 3 C",
+      "location": "RBC VISE C",
+      "other": ""
+    },
+    {
+      "code": "406316",
+      "date": "2026-04-03",
+      "time": "21:00",
+      "team1": "BBC EUPEN",
+      "team2": "RBC BLEGNY A",
+      "category": "MM - DIVISION 3 C",
+      "location": "BBC EUPEN",
+      "other": ""
+    },
+    {
+      "code": "406322",
+      "date": "2026-04-11",
+      "time": "21:00",
+      "team1": "RBC STAVELOT B",
+      "team2": "BBC EUPEN",
+      "category": "MM - DIVISION 3 C",
+      "location": "RBC STAVELOT B",
+      "other": ""
+    },
+    {
+      "code": "406336",
+      "date": "2026-04-18",
+      "time": "19:00",
+      "team1": "BBC EUPEN",
+      "team2": "ATLAS A JUPILLE C",
+      "category": "MM - DIVISION 3 C",
+      "location": "BBC EUPEN",
+      "other": ""
+    },
+    {
+      "code": "524215",
+      "date": "2026-01-24",
+      "time": "11:00",
+      "team1": "CRISTAL SGH B",
+      "team2": "BBC EUPEN",
+      "category": "U 10 - MM E",
+      "location": "CRISTAL SGH B",
+      "other": ""
+    },
+    {
+      "code": "524193",
+      "date": "2026-02-07",
+      "time": "13:00",
+      "team1": "DF BC MALMEDY",
+      "team2": "BBC EUPEN",
+      "category": "U 10 - MM E",
+      "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "524266",
+      "date": "2026-02-28",
+      "time": "9:30",
+      "team1": "BBC EUPEN",
+      "team2": "RBC AUBEL A",
+      "category": "U 10 - MM E",
+      "location": "BBC EUPEN",
+      "other": ""
+    },
+    {
+      "code": "524274",
+      "date": "2026-03-07",
+      "time": "11:00",
+      "team1": "BC SANKT VITH",
+      "team2": "BBC EUPEN",
+      "category": "U 10 - MM E",
+      "location": "BC SANKT VITH",
+      "other": ""
+    },
+    {
+      "code": "524292",
+      "date": "2026-03-22",
+      "time": "9:00",
+      "team1": "THEUX BC B",
+      "team2": "BBC EUPEN",
+      "category": "U 10 - MM E",
+      "location": "THEUX BC B",
+      "other": ""
+    },
+    {
+      "code": "524236",
+      "date": "2026-04-04",
+      "time": "10:30",
+      "team1": "HENRI-CHAPELLE B",
+      "team2": "BBC EUPEN",
+      "category": "U 10 - MM E",
+      "location": "HENRI-CHAPELLE B",
+      "other": ""
+    },
+    {
+      "code": "504214",
+      "date": "2026-01-24",
+      "time": "10:00",
+      "team1": "BC BELLEFLAMME C",
+      "team2": "BBC EUPEN",
+      "category": "U 12 - MM E",
+      "location": "BC BELLEFLAMME C",
+      "other": ""
+    },
+    {
+      "code": "504221",
+      "date": "2026-01-31",
+      "time": "15:00",
+      "team1": "BBC EUPEN",
+      "team2": "CRISTAL SGH C",
+      "category": "U 12 - MM E",
+      "location": "BBC EUPEN",
+      "other": ""
+    },
+    {
+      "code": "504231",
+      "date": "2026-02-08",
+      "time": "13:00",
+      "team1": "HARIMALIA BC A",
+      "team2": "BBC EUPEN",
+      "category": "U 12 - MM E",
+      "location": "HARIMALIA BC A",
+      "other": ""
+    },
+    {
+      "code": "504261",
+      "date": "2026-02-28",
+      "time": "11:00",
+      "team1": "BBC EUPEN",
+      "team2": "THEUX BC A",
+      "category": "U 12 - MM E",
+      "location": "BBC EUPEN",
+      "other": ""
+    },
+    {
+      "code": "504273",
+      "date": "2026-03-07",
+      "time": "15:00",
+      "team1": "DF BC MALMEDY",
+      "team2": "BBC EUPEN",
+      "category": "U 12 - MM E",
+      "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "504192",
+      "date": "2026-03-14",
+      "time": "10:30",
+      "team1": "RBC STAVELOT A",
+      "team2": "BBC EUPEN",
+      "category": "U 12 - MM E",
+      "location": "RBC STAVELOT A",
+      "other": ""
+    },
+    {
+      "code": "504301",
+      "date": "2026-03-28",
+      "time": "11:00",
+      "team1": "BBC EUPEN",
+      "team2": "ROYAL BC NINANE B",
+      "category": "U 12 - MM E",
+      "location": "BBC EUPEN",
+      "other": ""
+    },
+    {
+      "code": "504335",
+      "date": "2026-04-18",
+      "time": "10:00",
+      "team1": "RBC AUBEL B",
+      "team2": "BBC EUPEN",
+      "category": "U 12 - MM E",
+      "location": "RBC AUBEL B",
+      "other": ""
+    },
+    {
+      "code": "490215",
+      "date": "2026-01-24",
+      "time": "14:30",
+      "team1": "RBC BLEGNY A",
+      "team2": "BBC EUPEN",
+      "category": "U 14 - PROV MM A",
+      "location": "RBC BLEGNY A",
+      "other": ""
+    },
+    {
+      "code": "490226",
+      "date": "2026-02-01",
+      "time": "10:00",
+      "team1": "BBC EUPEN",
+      "team2": "DF BC MALMEDY",
+      "category": "U 14 - PROV MM A",
+      "location": "BBC EUPEN",
+      "other": ""
+    },
+    {
+      "code": "490236",
+      "date": "2026-02-07",
+      "time": "13:00",
+      "team1": "ATLAS A JUPILLE B",
+      "team2": "BBC EUPEN",
+      "category": "U 14 - PROV MM A",
+      "location": "ATLAS A JUPILLE B",
+      "other": ""
+    },
+    {
+      "code": "490274",
+      "date": "2026-03-07",
+      "time": "13:00",
+      "team1": "BC SANKT VITH",
+      "team2": "BBC EUPEN",
+      "category": "U 14 - PROV MM A",
+      "location": "BC SANKT VITH",
+      "other": ""
+    },
+    {
+      "code": "490292",
+      "date": "2026-03-21",
+      "time": "11:00",
+      "team1": "THEUX BC B",
+      "team2": "BBC EUPEN",
+      "category": "U 14 - PROV MM A",
+      "location": "THEUX BC B",
+      "other": ""
+    },
+    {
+      "code": "490336",
+      "date": "2026-04-18",
+      "time": "13:00",
+      "team1": "BBC EUPEN",
+      "team2": "PRAYON TROOZ",
+      "category": "U 14 - PROV MM A",
+      "location": "BBC EUPEN",
+      "other": ""
+    },
+    {
+      "code": "470216",
+      "date": "2026-01-24",
+      "time": "12:00",
+      "team1": "R HT-PRE OUGREE",
+      "team2": "BBC EUPEN",
+      "category": "U 16 - PROV MM A",
+      "location": "R HT-PRE OUGREE",
+      "other": ""
+    },
+    {
+      "code": "470225",
+      "date": "2026-02-01",
+      "time": "12:00",
+      "team1": "BBC EUPEN",
+      "team2": "RBC WELKENRAEDT",
+      "category": "U 16 - PROV MM A",
+      "location": "BBC EUPEN",
+      "other": ""
+    },
+    {
+      "code": "470232",
+      "date": "2026-02-08",
+      "time": "11:00",
+      "team1": "PEPINSTER EAST BELG B",
+      "team2": "BBC EUPEN",
+      "category": "U 16 - PROV MM A",
+      "location": "PEPINSTER EAST BELG B",
+      "other": ""
+    },
+    {
+      "code": "470266",
+      "date": "2026-02-28",
+      "time": "13:00",
+      "team1": "ATLAS A JUPILLE B",
+      "team2": "BBC EUPEN",
+      "category": "U 16 - PROV MM A",
+      "location": "ATLAS A JUPILLE B",
+      "other": ""
+    },
+    {
+      "code": "470275",
+      "date": "2026-03-08",
+      "time": "12:00",
+      "team1": "BBC EUPEN",
+      "team2": "RABC ENSIVAL",
+      "category": "U 16 - PROV MM A",
+      "location": "BBC EUPEN",
+      "other": ""
+    },
+    {
+      "code": "470293",
+      "date": "2026-03-21",
+      "time": "14:30",
+      "team1": "BCM HERSTAL",
+      "team2": "BBC EUPEN",
+      "category": "U 16 - PROV MM A",
+      "location": "BCM HERSTAL",
+      "other": ""
+    },
+    {
+      "code": "470303",
+      "date": "2026-03-28",
+      "time": "15:00",
+      "team1": "DF BC MALMEDY",
+      "team2": "BBC EUPEN",
+      "category": "U 16 - PROV MM A",
+      "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "470335",
+      "date": "2026-04-18",
+      "time": "15:00",
+      "team1": "BBC EUPEN",
+      "team2": "RBC VISE B",
+      "category": "U 16 - PROV MM A",
+      "location": "BBC EUPEN",
+      "other": ""
+    },
+    {
+      "code": "430236",
+      "date": "2026-02-07",
+      "time": "17:00",
+      "team1": "BC VERVIERS",
+      "team2": "BBC EUPEN A",
+      "category": "U 18 - ELITES MM A",
+      "location": "BC VERVIERS",
+      "other": ""
+    },
+    {
+      "code": "430193",
+      "date": "2026-02-14",
+      "time": "13:00",
+      "team1": "RSW LIEGE BASKET B",
+      "team2": "BBC EUPEN A",
+      "category": "U 18 - ELITES MM A",
+      "location": "RSW LIEGE BASKET B",
+      "other": ""
+    },
+    {
+      "code": "430266",
+      "date": "2026-02-28",
+      "time": "15:00",
+      "team1": "BBC EUPEN A",
+      "team2": "CRISTAL SGH A",
+      "category": "U 18 - ELITES MM A",
+      "location": "BBC EUPEN A",
+      "other": ""
+    },
+    {
+      "code": "430274",
+      "date": "2026-03-07",
+      "time": "15:00",
+      "team1": "BC COINTE",
+      "team2": "BBC EUPEN A",
+      "category": "U 18 - ELITES MM A",
+      "location": "BC COINTE",
+      "other": ""
+    },
+    {
+      "code": "430292",
+      "date": "2026-03-22",
+      "time": "13:00",
+      "team1": "THEUX BC",
+      "team2": "BBC EUPEN A",
+      "category": "U 18 - ELITES MM A",
+      "location": "THEUX BC",
+      "other": ""
+    },
+    {
+      "code": "430301",
+      "date": "2026-03-29",
+      "time": "15:00",
+      "team1": "RBC VISE A",
+      "team2": "BBC EUPEN A",
+      "category": "U 18 - ELITES MM A",
+      "location": "RBC VISE A",
+      "other": ""
+    },
+    {
+      "code": "430215",
+      "date": "2026-04-05",
+      "time": "9:30",
+      "team1": "ROYAL MOSA AC 1941",
+      "team2": "BBC EUPEN A",
+      "category": "U 18 - ELITES MM A",
+      "location": "ROYAL MOSA AC 1941",
+      "other": ""
+    },
+    {
+      "code": "440216",
+      "date": "2026-01-24",
+      "time": "13:00",
+      "team1": "RBC VISE B",
+      "team2": "BBC EUPEN B",
+      "category": "U 18 - PROV MM",
+      "location": "RBC VISE B",
+      "other": ""
+    },
+    {
+      "code": "440226",
+      "date": "2026-01-31",
+      "time": "13:00",
+      "team1": "BBC EUPEN B",
+      "team2": "RBC ALLEUR B",
+      "category": "U 18 - PROV MM",
+      "location": "BBC EUPEN B",
+      "other": ""
+    },
+    {
+      "code": "440241",
+      "date": "2026-02-14",
+      "time": "13:00",
+      "team1": "ALL. FLEMALLE B",
+      "team2": "BBC EUPEN B",
+      "category": "U 18 - PROV MM",
+      "location": "ALL. FLEMALLE B",
+      "other": ""
+    },
+    {
+      "code": "440266",
+      "date": "2026-03-01",
+      "time": "9:30",
+      "team1": "RBC STAVELOT",
+      "team2": "BBC EUPEN B",
+      "category": "U 18 - PROV MM",
+      "location": "RBC STAVELOT",
+      "other": ""
+    },
+    {
+      "code": "440274",
+      "date": "2026-03-08",
+      "time": "16:30",
+      "team1": "MARCHIN BASKET",
+      "team2": "BBC EUPEN B",
+      "category": "U 18 - PROV MM",
+      "location": "MARCHIN BASKET",
+      "other": ""
+    },
+    {
+      "code": "440292",
+      "date": "2026-03-21",
+      "time": "13:00",
+      "team1": "RBC WELKENRAEDT",
+      "team2": "BBC EUPEN B",
+      "category": "U 18 - PROV MM",
+      "location": "RBC WELKENRAEDT",
+      "other": ""
+    },
+    {
+      "code": "440316",
+      "date": "2026-04-04",
+      "time": "10:00",
+      "team1": "BBC EUPEN B",
+      "team2": "ROYAL BC NINANE B",
+      "category": "U 18 - PROV MM",
+      "location": "BBC EUPEN B",
+      "other": ""
+    },
+    {
+      "code": "440322",
+      "date": "2026-04-11",
+      "time": "17:00",
+      "team1": "RBC AWANS B",
+      "team2": "BBC EUPEN B",
+      "category": "U 18 - PROV MM",
+      "location": "RBC AWANS B",
+      "other": ""
+    },
+    {
+      "code": "440336",
+      "date": "2026-04-18",
+      "time": "17:00",
+      "team1": "BBC EUPEN B",
+      "team2": "ROYAL ANS BC B",
+      "category": "U 18 - PROV MM",
+      "location": "BBC EUPEN B",
+      "other": ""
+    },
+    {
+      "code": "420214",
+      "date": "2026-01-24",
+      "time": "17:00",
+      "team1": "BC BELLEFLAMME",
+      "team2": "BBC EUPEN",
+      "category": "U 21 - MM A",
+      "location": "BC BELLEFLAMME",
+      "other": ""
+    },
+    {
+      "code": "420221",
+      "date": "2026-01-31",
+      "time": "11:00",
+      "team1": "BBC EUPEN",
+      "team2": "BC BELLEFLAMME",
+      "category": "U 21 - MM A",
+      "location": "BBC EUPEN",
+      "other": ""
+    },
+    {
+      "code": "420321",
+      "date": "2026-02-28",
+      "time": "17:00",
+      "team1": "BBC EUPEN",
+      "team2": "HENRI-CHAPELLE",
+      "category": "U 21 - MM A",
+      "location": "BBC EUPEN",
+      "other": ""
+    },
+    {
+      "code": "420271",
+      "date": "2026-03-08",
+      "time": "10:00",
+      "team1": "BBC EUPEN",
+      "team2": "THEUX BC",
+      "category": "U 21 - MM A",
+      "location": "BBC EUPEN",
+      "other": ""
+    },
+    {
+      "code": "420293",
+      "date": "2026-03-21",
+      "time": "17:00",
+      "team1": "HARIMALIA BC",
+      "team2": "BBC EUPEN",
+      "category": "U 21 - MM A",
+      "location": "HARIMALIA BC",
+      "other": ""
+    },
+    {
+      "code": "420142",
+      "date": "2026-04-19",
+      "time": "11:00",
+      "team1": "THEUX BC",
+      "team2": "BBC EUPEN",
+      "category": "U 21 - MM A",
+      "location": "THEUX BC",
+      "other": ""
+    }
+  ]
+}

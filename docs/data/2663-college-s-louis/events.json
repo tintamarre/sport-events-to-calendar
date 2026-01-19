@@ -1,0 +1,999 @@
+{
+  "club": {
+    "id": "2663",
+    "name": "2663 COLLEGE S LOUIS",
+    "slug": "2663-college-s-louis"
+  },
+  "events": [
+    {
+      "code": "AW245061",
+      "date": "2026-01-31",
+      "time": "10:00",
+      "team1": "BC BELLEFLAMME",
+      "team2": "COLLEGE S LOUIS",
+      "category": "COUPE AWBB U12 -GARCONS",
+      "location": "BC BELLEFLAMME",
+      "other": "(Salle Waremme)"
+    },
+    {
+      "code": "414215",
+      "date": "2026-01-24",
+      "time": "18:00",
+      "team1": "ABC WAREMME A",
+      "team2": "COLLEGE S LOUIS",
+      "category": "DD - DIVISION 2 A",
+      "location": "ABC WAREMME A",
+      "other": ""
+    },
+    {
+      "code": "414187",
+      "date": "2026-02-05",
+      "time": "21:00",
+      "team1": "COLLEGE S LOUIS",
+      "team2": "BC SPRIMONT B",
+      "category": "DD - DIVISION 2 A",
+      "location": "COLLEGE S LOUIS",
+      "other": ""
+    },
+    {
+      "code": "414247",
+      "date": "2026-02-14",
+      "time": "21:00",
+      "team1": "RBC BLEGNY B",
+      "team2": "COLLEGE S LOUIS",
+      "category": "DD - DIVISION 2 A",
+      "location": "RBC BLEGNY B",
+      "other": ""
+    },
+    {
+      "code": "414267",
+      "date": "2026-02-28",
+      "time": "17:00",
+      "team1": "COLLEGE S LOUIS",
+      "team2": "ALL. FLEMALLE A",
+      "category": "DD - DIVISION 2 A",
+      "location": "COLLEGE S LOUIS",
+      "other": ""
+    },
+    {
+      "code": "414276",
+      "date": "2026-03-07",
+      "time": "19:00",
+      "team1": "ATLAS A JUPILLE",
+      "team2": "COLLEGE S LOUIS",
+      "category": "DD - DIVISION 2 A",
+      "location": "ATLAS A JUPILLE",
+      "other": ""
+    },
+    {
+      "code": "414294",
+      "date": "2026-03-22",
+      "time": "12:00",
+      "team1": "RBC HANEFFE B",
+      "team2": "COLLEGE S LOUIS",
+      "category": "DD - DIVISION 2 A",
+      "location": "RBC HANEFFE B",
+      "other": ""
+    },
+    {
+      "code": "414307",
+      "date": "2026-03-28",
+      "time": "17:00",
+      "team1": "COLLEGE S LOUIS",
+      "team2": "PRAYON TROOZ B",
+      "category": "DD - DIVISION 2 A",
+      "location": "COLLEGE S LOUIS",
+      "other": ""
+    },
+    {
+      "code": "414316",
+      "date": "2026-04-05",
+      "time": "17:00",
+      "team1": "ROYAL BC NINANE A",
+      "team2": "COLLEGE S LOUIS",
+      "category": "DD - DIVISION 2 A",
+      "location": "ROYAL BC NINANE A",
+      "other": ""
+    },
+    {
+      "code": "414321",
+      "date": "2026-04-12",
+      "time": "17:00",
+      "team1": "LA VILLERSOISE A",
+      "team2": "COLLEGE S LOUIS",
+      "category": "DD - DIVISION 2 A",
+      "location": "LA VILLERSOISE A",
+      "other": ""
+    },
+    {
+      "code": "414337",
+      "date": "2026-04-18",
+      "time": "17:00",
+      "team1": "COLLEGE S LOUIS",
+      "team2": "RBC DISON-ANDRIMONT A",
+      "category": "DD - DIVISION 2 A",
+      "location": "COLLEGE S LOUIS",
+      "other": ""
+    },
+    {
+      "code": "522214",
+      "date": "2026-01-24",
+      "time": "9:30",
+      "team1": "COLLEGE S LOUIS A",
+      "team2": "ALL. FLEMALLE B",
+      "category": "U 10 - MM C",
+      "location": "COLLEGE S LOUIS A",
+      "other": ""
+    },
+    {
+      "code": "522222",
+      "date": "2026-02-01",
+      "time": "10:30",
+      "team1": "BC SPRIMONT B",
+      "team2": "COLLEGE S LOUIS A",
+      "category": "U 10 - MM C",
+      "location": "BC SPRIMONT B",
+      "other": ""
+    },
+    {
+      "code": "522194",
+      "date": "2026-02-14",
+      "time": "9:15",
+      "team1": "COLLEGE S LOUIS A",
+      "team2": "RBC ESNEUX A",
+      "category": "U 10 - MM C",
+      "location": "COLLEGE S LOUIS A",
+      "other": ""
+    },
+    {
+      "code": "522264",
+      "date": "2026-02-28",
+      "time": "9:15",
+      "team1": "COLLEGE S LOUIS A",
+      "team2": "ROYAL ANS BC A",
+      "category": "U 10 - MM C",
+      "location": "COLLEGE S LOUIS A",
+      "other": ""
+    },
+    {
+      "code": "522276",
+      "date": "2026-03-08",
+      "time": "10:30",
+      "team1": "ROYAL BC WANZE A",
+      "team2": "COLLEGE S LOUIS A",
+      "category": "U 10 - MM C",
+      "location": "ROYAL BC WANZE A",
+      "other": ""
+    },
+    {
+      "code": "522304",
+      "date": "2026-03-28",
+      "time": "9:00",
+      "team1": "COLLEGE S LOUIS A",
+      "team2": "UN HUY BASKET A",
+      "category": "U 10 - MM C",
+      "location": "COLLEGE S LOUIS A",
+      "other": ""
+    },
+    {
+      "code": "522324",
+      "date": "2026-04-11",
+      "time": "9:15",
+      "team1": "COLLEGE S LOUIS A",
+      "team2": "RB TILFF A",
+      "category": "U 10 - MM C",
+      "location": "COLLEGE S LOUIS A",
+      "other": ""
+    },
+    {
+      "code": "522336",
+      "date": "2026-04-18",
+      "time": "10:30",
+      "team1": "LA VILLERSOISE B",
+      "team2": "COLLEGE S LOUIS A",
+      "category": "U 10 - MM C",
+      "location": "LA VILLERSOISE B",
+      "other": ""
+    },
+    {
+      "code": "528211",
+      "date": "2026-01-25",
+      "time": "12:00",
+      "team1": "RBC VISE B",
+      "team2": "COLLEGE S LOUIS B",
+      "category": "U 10 - MM I",
+      "location": "RBC VISE B",
+      "other": ""
+    },
+    {
+      "code": "528233",
+      "date": "2026-02-07",
+      "time": "9:00",
+      "team1": "BC BELLEFLAMME B",
+      "team2": "COLLEGE S LOUIS B",
+      "category": "U 10 - MM I",
+      "location": "BC BELLEFLAMME B",
+      "other": ""
+    },
+    {
+      "code": "528194",
+      "date": "2026-02-14",
+      "time": "9:00",
+      "team1": "BC COINTE B",
+      "team2": "COLLEGE S LOUIS B",
+      "category": "U 10 - MM I",
+      "location": "BC COINTE B",
+      "other": ""
+    },
+    {
+      "code": "528263",
+      "date": "2026-02-28",
+      "time": "11:30",
+      "team1": "VAIL. JUPILLE B",
+      "team2": "COLLEGE S LOUIS B",
+      "category": "U 10 - MM I",
+      "location": "VAIL. JUPILLE B",
+      "other": ""
+    },
+    {
+      "code": "528274",
+      "date": "2026-03-07",
+      "time": "9:30",
+      "team1": "COLLEGE S LOUIS B",
+      "team2": "ATLAS A JUPILLE B",
+      "category": "U 10 - MM I",
+      "location": "COLLEGE S LOUIS B",
+      "other": ""
+    },
+    {
+      "code": "528325",
+      "date": "2026-04-12",
+      "time": "9:00",
+      "team1": "ROYAL HERVE-BATTICE C",
+      "team2": "COLLEGE S LOUIS B",
+      "category": "U 10 - MM I",
+      "location": "ROYAL HERVE-BATTICE C",
+      "other": ""
+    },
+    {
+      "code": "528334",
+      "date": "2026-04-18",
+      "time": "9:30",
+      "team1": "COLLEGE S LOUIS B",
+      "team2": "MAIL. COMBLAIN",
+      "category": "U 10 - MM I",
+      "location": "COLLEGE S LOUIS B",
+      "other": ""
+    },
+    {
+      "code": "AW401079",
+      "date": "2026-01-25",
+      "time": "9:00",
+      "team1": "COLLEGE S LOUIS",
+      "team2": "RBC VISE",
+      "category": "U 12 - INTERPROVINCIAL",
+      "location": "COLLEGE S LOUIS",
+      "other": ""
+    },
+    {
+      "code": "AW401089",
+      "date": "2026-02-01",
+      "time": "13:00",
+      "team1": "UNITED B WOLUWE",
+      "team2": "COLLEGE S LOUIS",
+      "category": "U 12 - INTERPROVINCIAL",
+      "location": "UNITED B WOLUWE",
+      "other": ""
+    },
+    {
+      "code": "AW401091",
+      "date": "2026-02-08",
+      "time": "15:00",
+      "team1": "COLLEGE S LOUIS",
+      "team2": "SPIROU BASKET",
+      "category": "U 12 - INTERPROVINCIAL",
+      "location": "COLLEGE S LOUIS",
+      "other": ""
+    },
+    {
+      "code": "AW401110",
+      "date": "2026-03-01",
+      "time": "11:00",
+      "team1": "R.B.C. BELGRADE",
+      "team2": "COLLEGE S LOUIS",
+      "category": "U 12 - INTERPROVINCIAL",
+      "location": "R.B.C. BELGRADE",
+      "other": ""
+    },
+    {
+      "code": "AW401115",
+      "date": "2026-03-07",
+      "time": "15:00",
+      "team1": "COLLEGE S LOUIS",
+      "team2": "BC BELLEFLAMME",
+      "category": "U 12 - INTERPROVINCIAL",
+      "location": "COLLEGE S LOUIS",
+      "other": ""
+    },
+    {
+      "code": "AW401126",
+      "date": "2026-03-14",
+      "time": "15:00",
+      "team1": "ROYAL NIVELLES",
+      "team2": "COLLEGE S LOUIS",
+      "category": "U 12 - INTERPROVINCIAL",
+      "location": "ROYAL NIVELLES",
+      "other": ""
+    },
+    {
+      "code": "AW401103",
+      "date": "2026-03-22",
+      "time": "9:00",
+      "team1": "COLLEGE S LOUIS",
+      "team2": "LA VILLERSOISE",
+      "category": "U 12 - INTERPROVINCIAL",
+      "location": "COLLEGE S LOUIS",
+      "other": ""
+    },
+    {
+      "code": "AW401127",
+      "date": "2026-04-19",
+      "time": "13:00",
+      "team1": "COLLEGE S LOUIS",
+      "team2": "BC GENAPPE",
+      "category": "U 12 - INTERPROVINCIAL",
+      "location": "COLLEGE S LOUIS",
+      "other": ""
+    },
+    {
+      "code": "502214",
+      "date": "2026-01-24",
+      "time": "11:15",
+      "team1": "COLLEGE S LOUIS A",
+      "team2": "ROYAL SPA BC",
+      "category": "U 12 - MM C",
+      "location": "COLLEGE S LOUIS A",
+      "other": ""
+    },
+    {
+      "code": "502234",
+      "date": "2026-02-07",
+      "time": "9:15",
+      "team1": "COLLEGE S LOUIS A",
+      "team2": "ROYAL ANS BC",
+      "category": "U 12 - MM C",
+      "location": "COLLEGE S LOUIS A",
+      "other": ""
+    },
+    {
+      "code": "502222",
+      "date": "2026-02-21",
+      "time": "14:00",
+      "team1": "BC BELLEFLAMME A",
+      "team2": "COLLEGE S LOUIS A",
+      "category": "U 12 - MM C",
+      "location": "BC BELLEFLAMME A",
+      "other": ""
+    },
+    {
+      "code": "502276",
+      "date": "2026-03-08",
+      "time": "11:00",
+      "team1": "GIANTS BRAIVES A",
+      "team2": "COLLEGE S LOUIS A",
+      "category": "U 12 - MM C",
+      "location": "GIANTS BRAIVES A",
+      "other": ""
+    },
+    {
+      "code": "502291",
+      "date": "2026-03-21",
+      "time": "10:30",
+      "team1": "ALL. FLEMALLE B",
+      "team2": "COLLEGE S LOUIS A",
+      "category": "U 12 - MM C",
+      "location": "ALL. FLEMALLE B",
+      "other": ""
+    },
+    {
+      "code": "502304",
+      "date": "2026-03-29",
+      "time": "9:00",
+      "team1": "COLLEGE S LOUIS A",
+      "team2": "BC SPRIMONT B",
+      "category": "U 12 - MM C",
+      "location": "COLLEGE S LOUIS A",
+      "other": ""
+    },
+    {
+      "code": "502324",
+      "date": "2026-04-12",
+      "time": "10:30",
+      "team1": "COLLEGE S LOUIS A",
+      "team2": "RB TILFF B",
+      "category": "U 12 - MM C",
+      "location": "COLLEGE S LOUIS A",
+      "other": ""
+    },
+    {
+      "code": "506211",
+      "date": "2026-01-24",
+      "time": "11:00",
+      "team1": "RBC VISE B",
+      "team2": "COLLEGE S LOUIS B",
+      "category": "U 12 - MM G",
+      "location": "RBC VISE B",
+      "other": ""
+    },
+    {
+      "code": "506224",
+      "date": "2026-01-31",
+      "time": "13:15",
+      "team1": "COLLEGE S LOUIS B",
+      "team2": "PEPINSTER EAST BELG B",
+      "category": "U 12 - MM G",
+      "location": "COLLEGE S LOUIS B",
+      "other": ""
+    },
+    {
+      "code": "506194",
+      "date": "2026-02-14",
+      "time": "9:00",
+      "team1": "BC BELLEFLAMME C",
+      "team2": "COLLEGE S LOUIS B",
+      "category": "U 12 - MM G",
+      "location": "BC BELLEFLAMME C",
+      "other": ""
+    },
+    {
+      "code": "506274",
+      "date": "2026-03-07",
+      "time": "11:15",
+      "team1": "COLLEGE S LOUIS B",
+      "team2": "R 4A AYWAILLE-HAMOIR B",
+      "category": "U 12 - MM G",
+      "location": "COLLEGE S LOUIS B",
+      "other": ""
+    },
+    {
+      "code": "506294",
+      "date": "2026-03-21",
+      "time": "11:15",
+      "team1": "COLLEGE S LOUIS B",
+      "team2": "HENRI-CHAPELLE C",
+      "category": "U 12 - MM G",
+      "location": "COLLEGE S LOUIS B",
+      "other": ""
+    },
+    {
+      "code": "506325",
+      "date": "2026-04-11",
+      "time": "17:00",
+      "team1": "ROYAL HERVE-BATTICE D",
+      "team2": "COLLEGE S LOUIS B",
+      "category": "U 12 - MM G",
+      "location": "ROYAL HERVE-BATTICE D",
+      "other": ""
+    },
+    {
+      "code": "506334",
+      "date": "2026-04-18",
+      "time": "11:15",
+      "team1": "COLLEGE S LOUIS B",
+      "team2": "MAIL. COMBLAIN",
+      "category": "U 12 - MM G",
+      "location": "COLLEGE S LOUIS B",
+      "other": ""
+    },
+    {
+      "code": "480214",
+      "date": "2026-01-24",
+      "time": "13:00",
+      "team1": "COLLEGE S LOUIS A",
+      "team2": "ALL. FLEMALLE A",
+      "category": "U 14 - ELITES MM A",
+      "location": "COLLEGE S LOUIS A",
+      "other": ""
+    },
+    {
+      "code": "480132",
+      "date": "2026-02-08",
+      "time": "11:00",
+      "team1": "THEUX BC A",
+      "team2": "COLLEGE S LOUIS A",
+      "category": "U 14 - ELITES MM A",
+      "location": "THEUX BC A",
+      "other": ""
+    },
+    {
+      "code": "480194",
+      "date": "2026-02-14",
+      "time": "11:00",
+      "team1": "COLLEGE S LOUIS A",
+      "team2": "RB TILFF A",
+      "category": "U 14 - ELITES MM A",
+      "location": "COLLEGE S LOUIS A",
+      "other": ""
+    },
+    {
+      "code": "480264",
+      "date": "2026-02-28",
+      "time": "11:00",
+      "team1": "COLLEGE S LOUIS A",
+      "team2": "ETOILE JUPILLE",
+      "category": "U 14 - ELITES MM A",
+      "location": "COLLEGE S LOUIS A",
+      "other": ""
+    },
+    {
+      "code": "480276",
+      "date": "2026-03-07",
+      "time": "10:30",
+      "team1": "HENRI-CHAPELLE",
+      "team2": "COLLEGE S LOUIS A",
+      "category": "U 14 - ELITES MM A",
+      "location": "HENRI-CHAPELLE",
+      "other": ""
+    },
+    {
+      "code": "480291",
+      "date": "2026-03-21",
+      "time": "17:00",
+      "team1": "RBC VISE A",
+      "team2": "COLLEGE S LOUIS A",
+      "category": "U 14 - ELITES MM A",
+      "location": "RBC VISE A",
+      "other": ""
+    },
+    {
+      "code": "480304",
+      "date": "2026-03-28",
+      "time": "13:00",
+      "team1": "COLLEGE S LOUIS A",
+      "team2": "THEUX BC A",
+      "category": "U 14 - ELITES MM A",
+      "location": "COLLEGE S LOUIS A",
+      "other": ""
+    },
+    {
+      "code": "480324",
+      "date": "2026-04-12",
+      "time": "14:30",
+      "team1": "COLLEGE S LOUIS A",
+      "team2": "ROYAL HERVE-BATTICE",
+      "category": "U 14 - ELITES MM A",
+      "location": "COLLEGE S LOUIS A",
+      "other": ""
+    },
+    {
+      "code": "480336",
+      "date": "2026-04-19",
+      "time": "17:00",
+      "team1": "RBC ALLEUR",
+      "team2": "COLLEGE S LOUIS A",
+      "category": "U 14 - ELITES MM A",
+      "location": "RBC ALLEUR",
+      "other": ""
+    },
+    {
+      "code": "481223",
+      "date": "2026-01-31",
+      "time": "15:00",
+      "team1": "COLLEGE S LOUIS B",
+      "team2": "ROYAL BC WANZE",
+      "category": "U 14 - ELITES MM B",
+      "location": "COLLEGE S LOUIS B",
+      "other": ""
+    },
+    {
+      "code": "481234",
+      "date": "2026-02-07",
+      "time": "13:00",
+      "team1": "BC COINTE",
+      "team2": "COLLEGE S LOUIS B",
+      "category": "U 14 - ELITES MM B",
+      "location": "BC COINTE",
+      "other": ""
+    },
+    {
+      "code": "481193",
+      "date": "2026-02-14",
+      "time": "13:00",
+      "team1": "COLLEGE S LOUIS B",
+      "team2": "ROYAL BC NINANE A",
+      "category": "U 14 - ELITES MM B",
+      "location": "COLLEGE S LOUIS B",
+      "other": ""
+    },
+    {
+      "code": "481263",
+      "date": "2026-02-28",
+      "time": "13:00",
+      "team1": "COLLEGE S LOUIS B",
+      "team2": "ABC WAREMME",
+      "category": "U 14 - ELITES MM B",
+      "location": "COLLEGE S LOUIS B",
+      "other": ""
+    },
+    {
+      "code": "481271",
+      "date": "2026-03-08",
+      "time": "15:00",
+      "team1": "HARIMALIA BC A",
+      "team2": "COLLEGE S LOUIS B",
+      "category": "U 14 - ELITES MM B",
+      "location": "HARIMALIA BC A",
+      "other": ""
+    },
+    {
+      "code": "481295",
+      "date": "2026-03-21",
+      "time": "15:00",
+      "team1": "CRISTAL SGH A",
+      "team2": "COLLEGE S LOUIS B",
+      "category": "U 14 - ELITES MM B",
+      "location": "CRISTAL SGH A",
+      "other": ""
+    },
+    {
+      "code": "481303",
+      "date": "2026-03-28",
+      "time": "15:00",
+      "team1": "COLLEGE S LOUIS B",
+      "team2": "ATLAS A JUPILLE",
+      "category": "U 14 - ELITES MM B",
+      "location": "COLLEGE S LOUIS B",
+      "other": ""
+    },
+    {
+      "code": "481332",
+      "date": "2026-04-18",
+      "time": "9:00",
+      "team1": "BC SPRIMONT",
+      "team2": "COLLEGE S LOUIS B",
+      "category": "U 14 - ELITES MM B",
+      "location": "BC SPRIMONT",
+      "other": ""
+    },
+    {
+      "code": "451215",
+      "date": "2026-01-24",
+      "time": "15:00",
+      "team1": "R 4A AYWAILLE-HAMOIR",
+      "team2": "COLLEGE S LOUIS A",
+      "category": "U 16 - ELITES MM B",
+      "location": "R 4A AYWAILLE-HAMOIR",
+      "other": ""
+    },
+    {
+      "code": "451226",
+      "date": "2026-01-31",
+      "time": "17:00",
+      "team1": "COLLEGE S LOUIS A",
+      "team2": "RBC AWANS",
+      "category": "U 16 - ELITES MM B",
+      "location": "COLLEGE S LOUIS A",
+      "other": ""
+    },
+    {
+      "code": "451236",
+      "date": "2026-02-07",
+      "time": "15:00",
+      "team1": "ATLAS A JUPILLE A",
+      "team2": "COLLEGE S LOUIS A",
+      "category": "U 16 - ELITES MM B",
+      "location": "ATLAS A JUPILLE A",
+      "other": ""
+    },
+    {
+      "code": "451193",
+      "date": "2026-02-14",
+      "time": "15:00",
+      "team1": "VAIL. JUPILLE",
+      "team2": "COLLEGE S LOUIS A",
+      "category": "U 16 - ELITES MM B",
+      "location": "VAIL. JUPILLE",
+      "other": ""
+    },
+    {
+      "code": "451266",
+      "date": "2026-02-28",
+      "time": "15:00",
+      "team1": "COLLEGE S LOUIS A",
+      "team2": "BC VERVIERS A",
+      "category": "U 16 - ELITES MM B",
+      "location": "COLLEGE S LOUIS A",
+      "other": ""
+    },
+    {
+      "code": "451106",
+      "date": "2026-03-06",
+      "time": "19:00",
+      "team1": "COLLEGE S LOUIS A",
+      "team2": "RBC ESNEUX",
+      "category": "U 16 - ELITES MM B",
+      "location": "COLLEGE S LOUIS A",
+      "other": ""
+    },
+    {
+      "code": "451274",
+      "date": "2026-03-08",
+      "time": "12:00",
+      "team1": "RBC ESNEUX",
+      "team2": "COLLEGE S LOUIS A",
+      "category": "U 16 - ELITES MM B",
+      "location": "RBC ESNEUX",
+      "other": ""
+    },
+    {
+      "code": "451292",
+      "date": "2026-03-21",
+      "time": "15:00",
+      "team1": "BC SPRIMONT",
+      "team2": "COLLEGE S LOUIS A",
+      "category": "U 16 - ELITES MM B",
+      "location": "BC SPRIMONT",
+      "other": ""
+    },
+    {
+      "code": "451301",
+      "date": "2026-04-05",
+      "time": "11:00",
+      "team1": "LA VILLERSOISE B",
+      "team2": "COLLEGE S LOUIS A",
+      "category": "U 16 - ELITES MM B",
+      "location": "LA VILLERSOISE B",
+      "other": ""
+    },
+    {
+      "code": "451326",
+      "date": "2026-04-11",
+      "time": "11:00",
+      "team1": "COLLEGE S LOUIS A",
+      "team2": "HARIMALIA BC A",
+      "category": "U 16 - ELITES MM B",
+      "location": "COLLEGE S LOUIS A",
+      "other": ""
+    },
+    {
+      "code": "451336",
+      "date": "2026-04-18",
+      "time": "15:00",
+      "team1": "COLLEGE S LOUIS A",
+      "team2": "CRISTAL SGH A",
+      "category": "U 16 - ELITES MM B",
+      "location": "COLLEGE S LOUIS A",
+      "other": ""
+    },
+    {
+      "code": "472211",
+      "date": "2026-01-24",
+      "time": "15:00",
+      "team1": "COLLEGE S LOUIS",
+      "team2": "MARCHIN BASKET",
+      "category": "U 16 - PROV MM C",
+      "location": "COLLEGE S LOUIS",
+      "other": ""
+    },
+    {
+      "code": "472225",
+      "date": "2026-01-31",
+      "time": "9:00",
+      "team1": "CRISTAL SGH D",
+      "team2": "COLLEGE S LOUIS",
+      "category": "U 16 - PROV MM C",
+      "location": "CRISTAL SGH D",
+      "other": ""
+    },
+    {
+      "code": "472231",
+      "date": "2026-02-07",
+      "time": "11:00",
+      "team1": "COLLEGE S LOUIS",
+      "team2": "ABC WAREMME B",
+      "category": "U 16 - PROV MM C",
+      "location": "COLLEGE S LOUIS",
+      "other": ""
+    },
+    {
+      "code": "472262",
+      "date": "2026-02-28",
+      "time": "15:00",
+      "team1": "PEPINSTER EAST BELG A",
+      "team2": "COLLEGE S LOUIS",
+      "category": "U 16 - PROV MM C",
+      "location": "PEPINSTER EAST BELG A",
+      "other": ""
+    },
+    {
+      "code": "472271",
+      "date": "2026-03-07",
+      "time": "13:00",
+      "team1": "COLLEGE S LOUIS",
+      "team2": "UN HUY BASKET",
+      "category": "U 16 - PROV MM C",
+      "location": "COLLEGE S LOUIS",
+      "other": ""
+    },
+    {
+      "code": "472291",
+      "date": "2026-03-21",
+      "time": "15:00",
+      "team1": "COLLEGE S LOUIS",
+      "team2": "BC COINTE",
+      "category": "U 16 - PROV MM C",
+      "location": "COLLEGE S LOUIS",
+      "other": ""
+    },
+    {
+      "code": "472306",
+      "date": "2026-03-28",
+      "time": "11:00",
+      "team1": "GIANTS BRAIVES",
+      "team2": "COLLEGE S LOUIS",
+      "category": "U 16 - PROV MM C",
+      "location": "GIANTS BRAIVES",
+      "other": ""
+    },
+    {
+      "code": "472326",
+      "date": "2026-04-11",
+      "time": "13:00",
+      "team1": "ORP JAUCHE",
+      "team2": "COLLEGE S LOUIS",
+      "category": "U 16 - PROV MM C",
+      "location": "ORP JAUCHE",
+      "other": ""
+    },
+    {
+      "code": "431225",
+      "date": "2026-01-31",
+      "time": "11:00",
+      "team1": "CRISTAL SGH B",
+      "team2": "COLLEGE S LOUIS",
+      "category": "U 18 - ELITES MM B",
+      "location": "CRISTAL SGH B",
+      "other": ""
+    },
+    {
+      "code": "431231",
+      "date": "2026-02-07",
+      "time": "13:00",
+      "team1": "COLLEGE S LOUIS",
+      "team2": "ALL. FLEMALLE A",
+      "category": "U 18 - ELITES MM B",
+      "location": "COLLEGE S LOUIS",
+      "other": ""
+    },
+    {
+      "code": "431191",
+      "date": "2026-02-14",
+      "time": "15:00",
+      "team1": "COLLEGE S LOUIS",
+      "team2": "PEPINSTER EAST BELG",
+      "category": "U 18 - ELITES MM B",
+      "location": "COLLEGE S LOUIS",
+      "other": ""
+    },
+    {
+      "code": "431262",
+      "date": "2026-03-01",
+      "time": "15:00",
+      "team1": "RSW LIEGE BASKET A",
+      "team2": "COLLEGE S LOUIS",
+      "category": "U 18 - ELITES MM B",
+      "location": "RSW LIEGE BASKET A",
+      "other": ""
+    },
+    {
+      "code": "431271",
+      "date": "2026-03-08",
+      "time": "9:00",
+      "team1": "COLLEGE S LOUIS",
+      "team2": "UN HUY BASKET B",
+      "category": "U 18 - ELITES MM B",
+      "location": "COLLEGE S LOUIS",
+      "other": ""
+    },
+    {
+      "code": "431291",
+      "date": "2026-03-22",
+      "time": "13:00",
+      "team1": "COLLEGE S LOUIS",
+      "team2": "RBC HANEFFE",
+      "category": "U 18 - ELITES MM B",
+      "location": "COLLEGE S LOUIS",
+      "other": ""
+    },
+    {
+      "code": "431306",
+      "date": "2026-03-28",
+      "time": "16:00",
+      "team1": "MAIL. COMBLAIN",
+      "team2": "COLLEGE S LOUIS",
+      "category": "U 18 - ELITES MM B",
+      "location": "MAIL. COMBLAIN",
+      "other": ""
+    },
+    {
+      "code": "431326",
+      "date": "2026-04-12",
+      "time": "13:00",
+      "team1": "GIANTS BRAIVES",
+      "team2": "COLLEGE S LOUIS",
+      "category": "U 18 - ELITES MM B",
+      "location": "GIANTS BRAIVES",
+      "other": ""
+    },
+    {
+      "code": "431331",
+      "date": "2026-04-18",
+      "time": "13:00",
+      "team1": "COLLEGE S LOUIS",
+      "team2": "R 4A AYWAILLE-HAMOIR",
+      "category": "U 18 - ELITES MM B",
+      "location": "COLLEGE S LOUIS",
+      "other": ""
+    },
+    {
+      "code": "544211",
+      "date": "2026-01-24",
+      "time": "9:00",
+      "team1": "ROYAL HERVE-BATTICE B",
+      "team2": "COLLEGE S LOUIS",
+      "category": "U 8 - MM E",
+      "location": "ROYAL HERVE-BATTICE B",
+      "other": ""
+    },
+    {
+      "code": "544224",
+      "date": "2026-01-31",
+      "time": "11:45",
+      "team1": "COLLEGE S LOUIS",
+      "team2": "BC SPRIMONT C",
+      "category": "U 8 - MM E",
+      "location": "COLLEGE S LOUIS",
+      "other": ""
+    },
+    {
+      "code": "544263",
+      "date": "2026-02-28",
+      "time": "10:45",
+      "team1": "ROYAL ANS BC",
+      "team2": "COLLEGE S LOUIS",
+      "category": "U 8 - MM E",
+      "location": "ROYAL ANS BC",
+      "other": ""
+    },
+    {
+      "code": "544334",
+      "date": "2026-03-07",
+      "time": "9:30",
+      "team1": "COLLEGE S LOUIS",
+      "team2": "ROYAL BC WANZE",
+      "category": "U 8 - MM E",
+      "location": "COLLEGE S LOUIS",
+      "other": ""
+    },
+    {
+      "code": "544294",
+      "date": "2026-03-21",
+      "time": "9:45",
+      "team1": "COLLEGE S LOUIS",
+      "team2": "ALL. FLEMALLE B",
+      "category": "U 8 - MM E",
+      "location": "COLLEGE S LOUIS",
+      "other": ""
+    },
+    {
+      "code": "544302",
+      "date": "2026-03-28",
+      "time": "10:45",
+      "team1": "BC CRISNEE B",
+      "team2": "COLLEGE S LOUIS",
+      "category": "U 8 - MM E",
+      "location": "BC CRISNEE B",
+      "other": ""
+    }
+  ]
+}
