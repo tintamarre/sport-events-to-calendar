@@ -1,9 +1,10 @@
 """
 Basketball calendar generator for CPLiège clubs.
 
-Fetches match schedules from cpliege.be and generates ICS calendar files.
+Fetches match schedules from cpliege.be and generates ICS calendar files and JSON data.
 """
 
+import json
 import logging
 import os
 import uuid
@@ -278,6 +279,127 @@ def generate_ics(
         return False
 
 
+def generate_club_json(
+    agenda: pd.DataFrame, filename: str, club_id: str, club_name: str, club_slug: str
+) -> bool:
+    """
+    Generate a JSON file with club events data.
+
+    Returns True on success, False on failure.
+    """
+    try:
+        events = []
+
+        for _, event_row in agenda.iterrows():
+            equipe1 = event_row.get("Équipe 1", "")
+            equipe2 = event_row.get("Équipe 2", "")
+            categorie = event_row.get("Catégorie", "")
+            code = event_row.get("Code", "")
+            autre = event_row.get("Autre", "")
+
+            if pd.isna(equipe1):
+                equipe1 = ""
+            if pd.isna(equipe2):
+                equipe2 = ""
+            if pd.isna(categorie):
+                categorie = ""
+            if pd.isna(code):
+                code = ""
+            if pd.isna(autre):
+                autre = ""
+
+            date_str = pd.to_datetime(event_row["Date"]).strftime("%Y-%m-%d")
+            time_str = event_row["Heure"]
+
+            events.append({
+                "code": str(code),
+                "date": date_str,
+                "time": time_str,
+                "team1": str(equipe1),
+                "team2": str(equipe2),
+                "category": str(categorie),
+                "location": str(equipe1),  # Home team is location
+                "other": str(autre),
+            })
+
+        club_data = {
+            "club": {
+                "id": club_id,
+                "name": club_name,
+                "slug": club_slug,
+            },
+            "events": events,
+        }
+
+        # Ensure directory exists
+        os.makedirs(os.path.dirname(filename), exist_ok=True)
+
+        with open(filename, "w", encoding="utf-8") as f:
+            json.dump(club_data, f, ensure_ascii=False, indent=2)
+
+        return True
+
+    except Exception as e:
+        logger.error(f"Failed to generate JSON file {filename}: {e}")
+        return False
+
+
+def generate_all_events_json(all_agendas: pd.DataFrame, filename: str) -> bool:
+    """
+    Generate a global JSON file with all events.
+
+    Returns True on success, False on failure.
+    """
+    try:
+        events = []
+
+        for _, event_row in all_agendas.iterrows():
+            equipe1 = event_row.get("Équipe 1", "")
+            equipe2 = event_row.get("Équipe 2", "")
+            categorie = event_row.get("Catégorie", "")
+            code = event_row.get("Code", "")
+            autre = event_row.get("Autre", "")
+
+            if pd.isna(equipe1):
+                equipe1 = ""
+            if pd.isna(equipe2):
+                equipe2 = ""
+            if pd.isna(categorie):
+                categorie = ""
+            if pd.isna(code):
+                code = ""
+            if pd.isna(autre):
+                autre = ""
+
+            date_str = pd.to_datetime(event_row["Date"]).strftime("%Y-%m-%d")
+            time_str = event_row["Heure"]
+
+            events.append({
+                "code": str(code),
+                "date": date_str,
+                "time": time_str,
+                "team1": str(equipe1),
+                "team2": str(equipe2),
+                "category": str(categorie),
+                "location": str(equipe1),
+                "other": str(autre),
+            })
+
+        global_data = {
+            "lastUpdated": datetime.utcnow().isoformat() + "Z",
+            "events": events,
+        }
+
+        with open(filename, "w", encoding="utf-8") as f:
+            json.dump(global_data, f, ensure_ascii=False, indent=2)
+
+        return True
+
+    except Exception as e:
+        logger.error(f"Failed to generate global JSON file {filename}: {e}")
+        return False
+
+
 def main():
     """Main entry point."""
     session = create_session()
@@ -322,13 +444,23 @@ def main():
 
             all_agendas = pd.concat([all_agendas, club_agenda], ignore_index=True)
 
-            storage_path = f"data/{slugify.slugify(club_name)}"
+            club_slug = slugify.slugify(club_name)
+            storage_path = f"data/{club_slug}"
             os.makedirs(storage_path, exist_ok=True)
 
+            # Extract club_id from club_name (format: "1034 - RBC HANEFFE")
+            club_id = club_name.split()[0] if club_name.split() else ""
+
             # Save CSV
-            csv_filename = f"{storage_path}/{slugify.slugify(club_name)}.csv"
+            csv_filename = f"{storage_path}/{club_slug}.csv"
             club_agenda.to_csv(csv_filename, index=False)
             md += f"* [Agenda]({BASE_RAW_PATH}{csv_filename})\n"
+
+            # Generate JSON file for the club
+            json_filename = f"{storage_path}/events.json"
+            if generate_club_json(club_agenda, json_filename, club_id, club_name, club_slug):
+                rprint(f"  [green]Generated JSON: {json_filename}[/green]")
+                md += f"* [JSON]({BASE_RAW_PATH}{json_filename})\n"
 
             # Generate ICS for each category
             categories = club_agenda["Catégorie"].dropna().unique()
@@ -354,12 +486,14 @@ def main():
             failed_clubs.append((club_name, str(e)))
             continue
 
-    # Generate global calendar
+    # Generate global calendar and JSON
     if not all_agendas.empty:
         all_agendas = all_agendas.drop_duplicates()
         os.makedirs("data", exist_ok=True)
         if generate_ics(all_agendas, "data/CPLiège.ics", "CPLiège", CLUBS_URL):
-            rprint("[bold green]Generated global calendar[/bold green]")
+            rprint("[bold green]Generated global calendar (ICS)[/bold green]")
+        if generate_all_events_json(all_agendas, "data/all-events.json"):
+            rprint("[bold green]Generated global events (JSON)[/bold green]")
 
     # Save markdown listing
     with open("listing.md", "w") as f:

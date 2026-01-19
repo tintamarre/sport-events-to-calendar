@@ -1,27 +1,28 @@
 <template>
-  <div class="px-6 py-5 hover:bg-slate-50 transition-colors border-l-4 border-transparent hover:border-blue-500">
-    <div class="flex flex-col sm:flex-row sm:items-center gap-4">
+  <div class="px-4 py-3 hover:bg-neutral-50 transition-colors">
+    <div class="flex flex-col sm:flex-row sm:items-center gap-3">
+      <!-- Time badge -->
       <div class="flex-shrink-0">
-        <div class="bg-gradient-to-br from-orange-500 to-orange-600 text-white px-5 py-3 rounded-xl text-center font-bold shadow-md">
-          <div class="text-lg">{{ event.time }}</div>
+        <div class="inline-flex items-center px-3 py-1.5 bg-indigo-50 text-indigo-700 rounded-lg font-semibold text-sm">
+          {{ event.time }}
         </div>
       </div>
 
-      <div class="flex-1">
-        <div class="flex items-center gap-3 text-lg font-bold text-slate-800 mb-2">
-          <span class="flex-1">{{ event.team1 }}</span>
-          <span class="text-slate-400 text-sm font-normal">VS</span>
-          <span class="flex-1 text-right">{{ event.team2 }}</span>
+      <!-- Match info -->
+      <div class="flex-1 min-w-0">
+        <div class="flex flex-col sm:flex-row sm:items-center gap-1 sm:gap-2 text-sm">
+          <span class="font-medium text-neutral-800 truncate">{{ event.team1 }}</span>
+          <span class="text-neutral-400 text-xs hidden sm:inline">vs</span>
+          <span class="font-medium text-neutral-800 truncate">{{ event.team2 }}</span>
         </div>
-        <div class="flex flex-wrap gap-2 items-center text-sm">
-          <span class="inline-flex items-center px-3 py-1 rounded-lg bg-blue-100 text-blue-700 font-semibold">
-            🏆 {{ event.category }}
+
+        <!-- Tags -->
+        <div class="flex flex-wrap gap-1.5 mt-2">
+          <span class="inline-flex items-center px-2 py-0.5 rounded text-xs font-medium bg-neutral-100 text-neutral-600">
+            {{ event.category }}
           </span>
-          <span v-if="event.code" class="inline-flex items-center px-3 py-1 rounded-lg bg-slate-100 text-slate-600 font-medium">
+          <span v-if="event.code" class="inline-flex items-center px-2 py-0.5 rounded text-xs text-neutral-400">
             #{{ event.code }}
-          </span>
-          <span v-if="event.other" class="inline-flex items-center px-3 py-1 rounded-lg bg-amber-100 text-amber-700">
-            📍 {{ event.other }}
           </span>
         </div>
       </div>

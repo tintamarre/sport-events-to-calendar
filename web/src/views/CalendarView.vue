@@ -1,25 +1,27 @@
 <template>
   <div>
-    <div v-if="loading" class="flex flex-col items-center justify-center py-20">
-      <div class="relative">
-        <div class="w-16 h-16 border-4 border-blue-200 border-t-blue-600 rounded-full animate-spin"></div>
-        <div class="text-4xl absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2">🏀</div>
-      </div>
-      <p class="mt-6 text-slate-600 font-medium">Chargement des matchs...</p>
+    <!-- Loading state -->
+    <div v-if="loading" class="flex flex-col items-center justify-center py-16">
+      <div class="w-10 h-10 border-2 border-indigo-200 border-t-indigo-600 rounded-full animate-spin"></div>
+      <p class="mt-4 text-neutral-500 text-sm">Chargement des matchs...</p>
     </div>
 
-    <div v-else-if="error" class="max-w-2xl mx-auto">
-      <div class="bg-red-50 border-l-4 border-red-500 rounded-lg p-6 shadow-lg">
-        <div class="flex items-start">
-          <div class="text-3xl mr-3">⚠️</div>
+    <!-- Error state -->
+    <div v-else-if="error" class="max-w-lg mx-auto">
+      <div class="bg-red-50 border border-red-200 rounded-lg p-4">
+        <div class="flex items-start gap-3">
+          <svg class="w-5 h-5 text-red-500 mt-0.5 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4m0 4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+          </svg>
           <div>
-            <h3 class="text-red-800 font-bold mb-1">Erreur de chargement</h3>
-            <p class="text-red-700">{{ error }}</p>
+            <h3 class="text-red-800 font-medium text-sm">Erreur de chargement</h3>
+            <p class="text-red-700 text-sm mt-1">{{ error }}</p>
           </div>
         </div>
       </div>
     </div>
 
+    <!-- Main content -->
     <div v-else>
       <FilterPanel
         :clubs="manifest?.clubs || []"
@@ -36,17 +38,16 @@
         @applyPreset="applyPreset"
       />
 
-      <div v-if="selectedClub" class="mt-6">
-        <div class="bg-white rounded-xl shadow-lg p-6 mb-6">
-          <div class="flex flex-col md:flex-row md:items-center md:justify-between gap-4">
+      <!-- Club selected -->
+      <div v-if="selectedClub" class="mt-4">
+        <!-- Club header -->
+        <div class="bg-white rounded-lg border border-neutral-200 p-4 mb-4">
+          <div class="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-3">
             <div>
-              <h2 class="text-3xl font-bold text-slate-800 mb-1">{{ clubName }}</h2>
-              <p class="text-slate-500">
-                <span class="inline-flex items-center gap-2">
-                  <span class="text-2xl">📅</span>
-                  <span class="font-semibold text-blue-600">{{ filteredEvents.length }}</span>
-                  match{{ filteredEvents.length > 1 ? 's' : '' }} trouvé{{ filteredEvents.length > 1 ? 's' : '' }}
-                </span>
+              <h2 class="text-xl font-semibold text-neutral-800">{{ clubName }}</h2>
+              <p class="text-neutral-500 text-sm mt-0.5">
+                <span class="font-medium text-indigo-600">{{ filteredEvents.length }}</span>
+                match{{ filteredEvents.length > 1 ? 's' : '' }} trouvé{{ filteredEvents.length > 1 ? 's' : '' }}
               </p>
             </div>
             <div class="flex flex-wrap gap-2">
@@ -54,20 +55,23 @@
                 v-if="csvUrl"
                 :href="csvUrl"
                 download
-                class="px-4 py-2.5 bg-emerald-600 text-white rounded-lg hover:bg-emerald-700 transition-all shadow-md hover:shadow-lg font-medium flex items-center gap-2"
+                class="btn btn-secondary text-sm flex items-center gap-1.5"
               >
-                <span>📥</span>
-                <span>CSV</span>
+                <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
+                </svg>
+                CSV
               </a>
-              <a
-                v-if="icsUrl && selectedCategory"
-                :href="icsUrl"
-                download
-                class="px-4 py-2.5 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-all shadow-md hover:shadow-lg font-medium flex items-center gap-2"
+              <button
+                v-if="events.length > 0"
+                @click="handleICSDownload"
+                class="btn btn-primary text-sm flex items-center gap-1.5"
               >
-                <span>📅</span>
-                <span>iCal</span>
-              </a>
+                <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
+                </svg>
+                iCal
+              </button>
             </div>
           </div>
         </div>
@@ -75,10 +79,13 @@
         <EventList :events="filteredEvents" />
       </div>
 
-      <div v-else class="text-center py-16 bg-white rounded-xl shadow-lg">
-        <div class="text-7xl mb-4">🏀</div>
-        <h3 class="text-2xl font-bold text-slate-700 mb-2">Choisissez votre club</h3>
-        <p class="text-slate-500">Sélectionnez un club ci-dessus pour consulter le calendrier des matchs</p>
+      <!-- No club selected -->
+      <div v-else class="text-center py-12 bg-white rounded-lg border border-neutral-200 mt-4">
+        <div class="w-16 h-16 bg-indigo-50 rounded-full flex items-center justify-center mx-auto mb-4">
+          <span class="text-3xl">🏀</span>
+        </div>
+        <h3 class="text-lg font-medium text-neutral-700 mb-1">Choisissez votre club</h3>
+        <p class="text-neutral-500 text-sm">Sélectionnez un club ci-dessus pour consulter le calendrier des matchs</p>
       </div>
     </div>
   </div>
@@ -89,7 +96,7 @@ import { ref, computed, onMounted, watch } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
 import FilterPanel from '../components/FilterPanel.vue'
 import EventList from '../components/EventList.vue'
-import { loadManifest, loadAllClubEvents, getWeekRange } from '../utils/dataLoader'
+import { loadManifest, loadClubJSON, getWeekRange, downloadICS } from '../utils/dataLoader'
 import { filterEvents, sortEvents } from '../utils/filters'
 import type { DataManifest, CalendarEvent, Club } from '../types'
 
@@ -122,11 +129,23 @@ const csvUrl = computed(() => {
   return `${base}${currentClub.value.csvPath}`
 })
 
-const icsUrl = computed(() => {
-  if (!currentClub.value || !selectedCategory.value) return ''
-  const base = import.meta.env.DEV ? '' : '/sport-events-to-calendar'
-  return `${base}${currentClub.value.icsFiles[selectedCategory.value]}`
-})
+function handleICSDownload() {
+  if (!currentClub.value) return
+
+  const eventsToDownload = selectedCategory.value
+    ? filteredEvents.value
+    : events.value
+
+  const calName = selectedCategory.value
+    ? `${clubName.value} - ${selectedCategory.value}`
+    : clubName.value
+
+  const filename = selectedCategory.value
+    ? `${currentClub.value.slug}-${selectedCategory.value.toLowerCase().replace(/\s+/g, '-')}.ics`
+    : `${currentClub.value.slug}.ics`
+
+  downloadICS(eventsToDownload, calName, filename)
+}
 
 const filteredEvents = computed(() => {
   const filtered = filterEvents(events.value, {
@@ -146,7 +165,7 @@ async function updateClub(clubSlug: string) {
   if (clubSlug && currentClub.value) {
     try {
       loading.value = true
-      events.value = await loadAllClubEvents(currentClub.value)
+      events.value = await loadClubJSON(currentClub.value)
     } catch (e) {
       error.value = `Erreur lors du chargement des événements: ${e}`
     } finally {
@@ -237,7 +256,7 @@ onMounted(async () => {
     loadFromUrl()
 
     if (selectedClub.value && currentClub.value) {
-      events.value = await loadAllClubEvents(currentClub.value)
+      events.value = await loadClubJSON(currentClub.value)
     }
   } catch (e) {
     error.value = `Erreur lors du chargement des données: ${e}`

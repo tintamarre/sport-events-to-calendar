@@ -6,6 +6,7 @@ export interface CalendarEvent {
   team2: string
   category: string
   other: string
+  location?: string
 }
 
 export interface Club {
@@ -13,6 +14,7 @@ export interface Club {
   name: string
   slug: string
   categories: string[]
+  jsonPath: string | null
   csvPath: string
   icsFiles: { [category: string]: string }
 }
@@ -20,6 +22,15 @@ export interface Club {
 export interface DataManifest {
   lastUpdated: string
   clubs: Club[]
+}
+
+export interface ClubData {
+  club: {
+    id: string
+    name: string
+    slug: string
+  }
+  events: CalendarEvent[]
 }
 
 export interface FilterOptions {

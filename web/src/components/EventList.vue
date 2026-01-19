@@ -1,22 +1,21 @@
 <template>
-  <div v-if="events.length === 0" class="text-center py-16 bg-white rounded-xl shadow-lg">
-    <div class="text-6xl mb-4">📅</div>
-    <h3 class="text-xl font-bold text-slate-700 mb-2">Aucun match trouvé</h3>
-    <p class="text-slate-500">Essayez de modifier vos critères de recherche</p>
+  <div v-if="events.length === 0" class="text-center py-12 bg-white rounded-lg border border-neutral-200">
+    <svg class="w-12 h-12 mx-auto text-neutral-300 mb-3" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
+    </svg>
+    <h3 class="text-lg font-medium text-neutral-700 mb-1">Aucun match trouvé</h3>
+    <p class="text-neutral-500 text-sm">Essayez de modifier vos critères de recherche</p>
   </div>
 
-  <div v-else class="space-y-5">
-    <div v-for="[date, dateEvents] in groupedEvents" :key="date" class="bg-white rounded-xl shadow-lg overflow-hidden border border-slate-200 hover:shadow-xl transition-shadow">
-      <div class="bg-gradient-to-r from-blue-600 to-blue-700 text-white px-6 py-4">
-        <h3 class="text-lg font-bold flex items-center gap-2">
-          <span>📅</span>
-          <span>{{ formatDateHeader(date) }}</span>
-          <span class="ml-auto text-sm font-normal bg-white/20 px-3 py-1 rounded-full">
-            {{ dateEvents.length }} match{{ dateEvents.length > 1 ? 's' : '' }}
-          </span>
-        </h3>
+  <div v-else class="space-y-4">
+    <div v-for="[date, dateEvents] in groupedEvents" :key="date" class="bg-white rounded-lg border border-neutral-200 overflow-hidden">
+      <div class="bg-neutral-50 border-b border-neutral-200 px-4 py-3 flex items-center justify-between">
+        <h3 class="font-medium text-neutral-800">{{ formatDateHeader(date) }}</h3>
+        <span class="text-xs text-neutral-500 bg-white px-2 py-1 rounded-full border border-neutral-200">
+          {{ dateEvents.length }} match{{ dateEvents.length > 1 ? 's' : '' }}
+        </span>
       </div>
-      <div class="divide-y divide-slate-200">
+      <div class="divide-y divide-neutral-100">
         <EventCard
           v-for="(event, index) in dateEvents"
           :key="`${event.code}-${index}`"

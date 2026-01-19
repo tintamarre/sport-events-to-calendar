@@ -75,11 +75,16 @@ function generateManifest() {
 
     categories.sort()
 
+    // Check if JSON file exists
+    const jsonFile = files.find(f => f === 'events.json')
+    const jsonPath = jsonFile ? `/data/${entry.name}/events.json` : null
+
     clubs.push({
       id: clubInfo.id,
       name: clubInfo.name,
       slug: clubInfo.slug,
       categories,
+      jsonPath,
       csvPath: `/data/${entry.name}/${csvFile}`,
       icsFiles: icsFilesMap
     })

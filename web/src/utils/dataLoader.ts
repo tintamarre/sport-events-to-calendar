@@ -1,5 +1,4 @@
-import ICAL from 'ical.js'
-import type { CalendarEvent, DataManifest } from '../types'
+import type { CalendarEvent, DataManifest, ClubData, Club } from '../types'
 
 const BASE_PATH = import.meta.env.DEV ? '/data' : '/sport-events-to-calendar/data'
 
@@ -11,48 +10,34 @@ export async function loadManifest(): Promise<DataManifest> {
   return response.json()
 }
 
-export async function loadICSEvents(icsPath: string, categoryName: string): Promise<CalendarEvent[]> {
-  const fullPath = import.meta.env.DEV ? icsPath : `/sport-events-to-calendar${icsPath}`
+export async function loadClubJSON(club: Club): Promise<CalendarEvent[]> {
+  if (!club.jsonPath) {
+    // Fallback to CSV if JSON not available
+    return loadClubEvents(club.csvPath)
+  }
+
+  const fullPath = import.meta.env.DEV ? club.jsonPath : `/sport-events-to-calendar${club.jsonPath}`
   const response = await fetch(fullPath)
   if (!response.ok) {
-    throw new Error(`Failed to load ICS: ${icsPath}`)
+    throw new Error(`Failed to load JSON: ${club.jsonPath}`)
   }
 
-  const text = await response.text()
-  const jcalData = ICAL.parse(text)
-  const comp = new ICAL.Component(jcalData)
-  const vevents = comp.getAllSubcomponents('vevent')
+  const data: ClubData = await response.json()
 
-  const events: CalendarEvent[] = []
+  // Convert date format from YYYY-MM-DD to DD/MM/YYYY for consistency
+  return data.events.map(event => ({
+    ...event,
+    date: formatDateForDisplay(event.date)
+  }))
+}
 
-  for (const vevent of vevents) {
-    const event = new ICAL.Event(vevent)
-    const summary = event.summary || ''
-    const startDate = event.startDate
-    const code = event.uid ? event.uid.split('-')[0] : ''
-    const description = event.description || ''
-
-    // Extract teams from summary (format: "🏀 Category: Team1 et Team2")
-    const match = summary.match(/:\s*(.+?)\s+et\s+(.+)$/)
-    const team1 = match ? match[1].trim() : ''
-    const team2 = match ? match[2].trim() : ''
-
-    // Extract code from description if available (format: "[CODE] — ...")
-    const codeMatch = description.match(/\[(\w+)\]/)
-    const eventCode = codeMatch ? codeMatch[1] : code
-
-    events.push({
-      code: eventCode,
-      date: startDate.toJSDate().toLocaleDateString('fr-BE', { day: '2-digit', month: '2-digit', year: 'numeric' }),
-      time: startDate.toJSDate().toLocaleTimeString('fr-BE', { hour: '2-digit', minute: '2-digit' }),
-      team1,
-      team2,
-      category: categoryName,
-      other: ''
-    })
+function formatDateForDisplay(dateStr: string): string {
+  // Convert YYYY-MM-DD to DD/MM/YYYY
+  const parts = dateStr.split('-')
+  if (parts.length === 3) {
+    return `${parts[2]}/${parts[1]}/${parts[0]}`
   }
-
-  return events
+  return dateStr
 }
 
 export async function loadClubEvents(csvPath: string): Promise<CalendarEvent[]> {
@@ -90,20 +75,65 @@ export async function loadClubEvents(csvPath: string): Promise<CalendarEvent[]> 
   return events
 }
 
-export async function loadAllClubEvents(club: any): Promise<CalendarEvent[]> {
-  const allEvents: CalendarEvent[] = []
+// Generate ICS content client-side for download
+export function generateICSFromEvents(events: CalendarEvent[], calName: string): string {
+  const lines: string[] = [
+    'BEGIN:VCALENDAR',
+    'VERSION:2.0',
+    'PRODID:-//CPLiège Calendar//cpliege.be//',
+    `X-WR-CALNAME:${calName}`,
+  ]
 
-  // Load all ICS files for the club
-  for (const [category, icsPath] of Object.entries(club.icsFiles)) {
-    try {
-      const events = await loadICSEvents(icsPath as string, category)
-      allEvents.push(...events)
-    } catch (e) {
-      console.warn(`Failed to load ${category}:`, e)
-    }
+  for (const event of events) {
+    const dateObj = parseDate(event.date)
+    if (!dateObj) continue
+
+    const [hours, minutes] = event.time.split(':').map(Number)
+    dateObj.setHours(hours || 0, minutes || 0, 0, 0)
+
+    const endDate = new Date(dateObj.getTime() + 2 * 60 * 60 * 1000) // 2 hours duration
+
+    const uid = `${event.code}-${formatICSDate(dateObj)}@cpliege.be`
+    const summary = `🏀 ${event.category}: ${event.team1} et ${event.team2}`
+    const description = `[${event.code}] — ${summary}`
+    const location = event.team1 || ''
+
+    lines.push('BEGIN:VEVENT')
+    lines.push(`UID:${uid}`)
+    lines.push(`DTSTART:${formatICSDate(dateObj)}`)
+    lines.push(`DTEND:${formatICSDate(endDate)}`)
+    lines.push(`SUMMARY:${escapeICS(summary)}`)
+    lines.push(`DESCRIPTION:${escapeICS(description)}`)
+    lines.push(`LOCATION:${escapeICS(location)}`)
+    lines.push('END:VEVENT')
   }
 
-  return allEvents
+  lines.push('END:VCALENDAR')
+  return lines.join('\r\n')
+}
+
+function formatICSDate(date: Date): string {
+  const pad = (n: number) => n.toString().padStart(2, '0')
+  return `${date.getFullYear()}${pad(date.getMonth() + 1)}${pad(date.getDate())}T${pad(date.getHours())}${pad(date.getMinutes())}00`
+}
+
+function escapeICS(str: string): string {
+  return str.replace(/[\\;,]/g, c => `\\${c}`).replace(/\n/g, '\\n')
+}
+
+// Download ICS file
+export function downloadICS(events: CalendarEvent[], calName: string, filename: string): void {
+  const icsContent = generateICSFromEvents(events, calName)
+  const blob = new Blob([icsContent], { type: 'text/calendar;charset=utf-8' })
+  const url = URL.createObjectURL(blob)
+
+  const link = document.createElement('a')
+  link.href = url
+  link.download = filename
+  document.body.appendChild(link)
+  link.click()
+  document.body.removeChild(link)
+  URL.revokeObjectURL(url)
 }
 
 export function parseDate(dateStr: string): Date | null {
@@ -112,12 +142,22 @@ export function parseDate(dateStr: string): Date | null {
   const parts = dateStr.split(/[-/]/)
   if (parts.length !== 3) return null
 
-  let year = parseInt(parts[2])
-  const month = parseInt(parts[1]) - 1
-  const day = parseInt(parts[0])
+  let year: number, month: number, day: number
 
-  if (year < 100) {
-    year += 2000
+  if (parts[0].length === 4) {
+    // YYYY-MM-DD format
+    year = parseInt(parts[0])
+    month = parseInt(parts[1]) - 1
+    day = parseInt(parts[2])
+  } else {
+    // DD/MM/YYYY format
+    year = parseInt(parts[2])
+    month = parseInt(parts[1]) - 1
+    day = parseInt(parts[0])
+
+    if (year < 100) {
+      year += 2000
+    }
   }
 
   const date = new Date(year, month, day)
