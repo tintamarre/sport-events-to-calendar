@@ -27,7 +27,7 @@
     },
     {
       "code": "401151",
-      "date": "2026-02-10",
+      "date": "2026-02-11",
       "time": "20:30",
       "team1": "HARIMALIA BC A",
       "team2": "HENRI-CHAPELLE A",
@@ -608,7 +608,7 @@
     {
       "code": "410304",
       "date": "2026-03-29",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "ALL. FLEMALLE E",
       "team2": "HARIMALIA BC E",
       "category": "MM - DIVISION 4 D",
@@ -648,7 +648,7 @@
     {
       "code": "526211",
       "date": "2026-01-25",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "HARIMALIA BC B",
       "team2": "PRAYON TROOZ A",
       "category": "U 10 - MM G",
@@ -658,7 +658,7 @@
     {
       "code": "526231",
       "date": "2026-02-08",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "HARIMALIA BC B",
       "team2": "ALL. FLEMALLE D",
       "category": "U 10 - MM G",
@@ -678,7 +678,7 @@
     {
       "code": "526291",
       "date": "2026-03-22",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "HARIMALIA BC B",
       "team2": "CRISTAL SGH F",
       "category": "U 10 - MM G",
@@ -688,7 +688,7 @@
     {
       "code": "526306",
       "date": "2026-03-28",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "ROYAL BC NINANE B",
       "team2": "HARIMALIA BC B",
       "category": "U 10 - MM G",
@@ -708,7 +708,7 @@
     {
       "code": "526331",
       "date": "2026-04-19",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "HARIMALIA BC B",
       "team2": "RB TILFF B",
       "category": "U 10 - MM G",
@@ -718,7 +718,7 @@
     {
       "code": "531211",
       "date": "2026-01-25",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "HARIMALIA BC A",
       "team2": "UN HUY BASKET C",
       "category": "U 10 - MM L",
@@ -738,7 +738,7 @@
     {
       "code": "531231",
       "date": "2026-02-08",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "HARIMALIA BC A",
       "team2": "RBC ALLEUR C",
       "category": "U 10 - MM L",
@@ -748,7 +748,7 @@
     {
       "code": "531291",
       "date": "2026-03-22",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "HARIMALIA BC A",
       "team2": "RBC HANEFFE B",
       "category": "U 10 - MM L",
@@ -818,7 +818,7 @@
     {
       "code": "504326",
       "date": "2026-04-11",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "ROYAL BC NINANE B",
       "team2": "HARIMALIA BC A",
       "category": "U 12 - MM E",
@@ -838,7 +838,7 @@
     {
       "code": "505211",
       "date": "2026-01-25",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "HARIMALIA BC B",
       "team2": "PRAYON TROOZ B",
       "category": "U 12 - MM F",
@@ -858,7 +858,7 @@
     {
       "code": "505231",
       "date": "2026-02-08",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "HARIMALIA BC B",
       "team2": "HENRI-CHAPELLE B",
       "category": "U 12 - MM F",
@@ -888,7 +888,7 @@
     {
       "code": "505331",
       "date": "2026-04-19",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "HARIMALIA BC B",
       "team2": "ROYAL MOSA AC 1941 B",
       "category": "U 12 - MM F",
@@ -968,7 +968,7 @@
     {
       "code": "493231",
       "date": "2026-02-08",
-      "time": "15:00",
+      "time": "17:00",
       "team1": "HARIMALIA BC B",
       "team2": "ALL. FLEMALLE B",
       "category": "U 14 - PROV MM D",
@@ -1043,6 +1043,16 @@
       "team2": "LA VILLERSOISE B",
       "category": "U 16 - ELITES MM B",
       "location": "HARIMALIA BC A",
+      "other": ""
+    },
+    {
+      "code": "451225",
+      "date": "2026-02-15",
+      "time": "13:00",
+      "team1": "BC VERVIERS A",
+      "team2": "HARIMALIA BC A",
+      "category": "U 16 - ELITES MM B",
+      "location": "BC VERVIERS A",
       "other": ""
     },
     {
@@ -1148,7 +1158,7 @@
     {
       "code": "471323",
       "date": "2026-04-11",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "THEUX BC",
       "team2": "HARIMALIA BC B",
       "category": "U 16 - PROV MM B",
@@ -1197,22 +1207,12 @@
     },
     {
       "code": "420331",
-      "date": "2026-04-18",
-      "time": "16:30",
+      "date": "2026-04-19",
+      "time": "11:00",
       "team1": "HENRI-CHAPELLE",
       "team2": "HARIMALIA BC",
       "category": "U 21 - MM A",
       "location": "HENRI-CHAPELLE",
-      "other": ""
-    },
-    {
-      "code": "552214",
-      "date": "2026-01-24",
-      "time": "11:00",
-      "team1": "RBC HANEFFE",
-      "team2": "HARIMALIA BC",
-      "category": "U 7 - MM C",
-      "location": "RBC HANEFFE",
       "other": ""
     },
     {
@@ -1258,7 +1258,7 @@
     {
       "code": "552273",
       "date": "2026-03-08",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "RBC VISE",
       "team2": "HARIMALIA BC",
       "category": "U 7 - MM C",
@@ -1268,7 +1268,7 @@
     {
       "code": "552294",
       "date": "2026-03-21",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "LA VILLERSOISE B",
       "team2": "HARIMALIA BC",
       "category": "U 7 - MM C",
@@ -1286,6 +1286,16 @@
       "other": ""
     },
     {
+      "code": "552214",
+      "date": "2026-04-04",
+      "time": "12:30",
+      "team1": "RBC HANEFFE",
+      "team2": "HARIMALIA BC",
+      "category": "U 7 - MM C",
+      "location": "RBC HANEFFE",
+      "other": ""
+    },
+    {
       "code": "552321",
       "date": "2026-04-11",
       "time": "13:00",
@@ -1298,7 +1308,7 @@
     {
       "code": "552335",
       "date": "2026-04-18",
-      "time": "09:30",
+      "time": "9:30",
       "team1": "CRISTAL SGH A",
       "team2": "HARIMALIA BC",
       "category": "U 7 - MM C",
@@ -1328,7 +1338,7 @@
     {
       "code": "541231",
       "date": "2026-02-07",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "ROYAL SPA BC B",
       "team2": "HARIMALIA BC",
       "category": "U 8 - MM B",
@@ -1338,7 +1348,7 @@
     {
       "code": "541192",
       "date": "2026-02-14",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "PEPINSTER EAST BELG A",
       "team2": "HARIMALIA BC",
       "category": "U 8 - MM B",
@@ -1358,7 +1368,7 @@
     {
       "code": "541273",
       "date": "2026-03-14",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "BCM HERSTAL",
       "team2": "HARIMALIA BC",
       "category": "U 8 - MM B",

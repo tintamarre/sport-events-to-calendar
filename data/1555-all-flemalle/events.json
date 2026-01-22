@@ -416,16 +416,6 @@
       "other": ""
     },
     {
-      "code": "404192",
-      "date": "2026-02-07",
-      "time": "19:00",
-      "team1": "ROYAL HERVE-BATTICE B",
-      "team2": "ALL. FLEMALLE B",
-      "category": "MM - DIVISION 3 A",
-      "location": "ROYAL HERVE-BATTICE B",
-      "other": ""
-    },
-    {
       "code": "404246",
       "date": "2026-02-15",
       "time": "15:00",
@@ -453,6 +443,16 @@
       "team2": "ALL. FLEMALLE B",
       "category": "MM - DIVISION 3 A",
       "location": "AVENIR JUPILLE A",
+      "other": ""
+    },
+    {
+      "code": "404192",
+      "date": "2026-03-15",
+      "time": "17:00",
+      "team1": "ROYAL HERVE-BATTICE B",
+      "team2": "ALL. FLEMALLE B",
+      "category": "MM - DIVISION 3 A",
+      "location": "ROYAL HERVE-BATTICE B",
       "other": ""
     },
     {
@@ -613,7 +613,7 @@
       "team2": "ALL. FLEMALLE C",
       "category": "MM - DIVISION 4 C",
       "location": "ROYAL BC NINANE E",
-      "other": ""
+      "other": "(Hall de Sprimont)"
     },
     {
       "code": "409226",
@@ -627,8 +627,8 @@
     },
     {
       "code": "409195",
-      "date": "2026-02-07",
-      "time": "17:00",
+      "date": "2026-02-06",
+      "time": "20:00",
       "team1": "RBC DISON-ANDRIMONT C",
       "team2": "ALL. FLEMALLE C",
       "category": "MM - DIVISION 4 C",
@@ -1158,7 +1158,7 @@
     {
       "code": "610191",
       "date": "2026-02-14",
-      "time": "12:45",
+      "time": "11:00",
       "team1": "ALL. FLEMALLE",
       "team2": "RABC ENSIVAL",
       "category": "U 12 - DD",
@@ -1437,8 +1437,8 @@
     },
     {
       "code": "507214",
-      "date": "2026-01-25",
-      "time": "16:00",
+      "date": "2026-01-24",
+      "time": "15:30",
       "team1": "RBC HANEFFE",
       "team2": "ALL. FLEMALLE E",
       "category": "U 12 - MM H",
@@ -1708,7 +1708,7 @@
     {
       "code": "AW180030",
       "date": "2026-03-07",
-      "time": "11:00",
+      "time": "13:00",
       "team1": "NAMUR CAPITALE",
       "team2": "ALL. FLEMALLE",
       "category": "U 14 - GOLD REGIONALES B",
@@ -1768,7 +1768,7 @@
     {
       "code": "493231",
       "date": "2026-02-08",
-      "time": "15:00",
+      "time": "17:00",
       "team1": "HARIMALIA BC B",
       "team2": "ALL. FLEMALLE B",
       "category": "U 14 - PROV MM D",

@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "415212",
-      "date": "2026-01-24",
-      "time": "19:00",
-      "team1": "AVENIR JUPILLE B",
-      "team2": "ROYAL ANS BC",
-      "category": "DD - DIVISION 2 B",
-      "location": "AVENIR JUPILLE B",
-      "other": ""
-    },
-    {
       "code": "415227",
       "date": "2026-02-01",
       "time": "13:00",
@@ -246,16 +236,6 @@
       "other": ""
     },
     {
-      "code": "410197",
-      "date": "2026-02-07",
-      "time": "18:30",
-      "team1": "BCM HERSTAL C",
-      "team2": "ROYAL ANS BC A",
-      "category": "MM - DIVISION 4 D",
-      "location": "BCM HERSTAL C",
-      "other": ""
-    },
-    {
       "code": "410113",
       "date": "2026-02-08",
       "time": "16:00",
@@ -293,6 +273,16 @@
       "team2": "ROYAL ANS BC A",
       "category": "MM - DIVISION 4 D",
       "location": "BC TORES LIEGE",
+      "other": ""
+    },
+    {
+      "code": "410197",
+      "date": "2026-03-18",
+      "time": "21:00",
+      "team1": "BCM HERSTAL C",
+      "team2": "ROYAL ANS BC A",
+      "category": "MM - DIVISION 4 D",
+      "location": "BCM HERSTAL C",
       "other": ""
     },
     {
@@ -881,6 +871,16 @@
       "time": "10:45",
       "team1": "ROYAL ANS BC B",
       "team2": "BCM HERSTAL",
+      "category": "U 18 - PROV MM",
+      "location": "ROYAL ANS BC B",
+      "other": ""
+    },
+    {
+      "code": "440183",
+      "date": "2026-04-11",
+      "time": "9:00",
+      "team1": "ROYAL ANS BC B",
+      "team2": "RBC ALLEUR B",
       "category": "U 18 - PROV MM",
       "location": "ROYAL ANS BC B",
       "other": ""

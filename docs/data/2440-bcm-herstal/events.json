@@ -96,16 +96,6 @@
       "other": ""
     },
     {
-      "code": "405197",
-      "date": "2026-02-07",
-      "time": "20:30",
-      "team1": "BCM HERSTAL A",
-      "team2": "BC OLNE",
-      "category": "MM - DIVISION 3 B",
-      "location": "BCM HERSTAL A",
-      "other": ""
-    },
-    {
       "code": "405247",
       "date": "2026-02-14",
       "time": "20:30",
@@ -131,6 +121,16 @@
       "time": "20:30",
       "team1": "BCM HERSTAL A",
       "team2": "CRISTAL SGH C",
+      "category": "MM - DIVISION 3 B",
+      "location": "BCM HERSTAL A",
+      "other": ""
+    },
+    {
+      "code": "405197",
+      "date": "2026-03-11",
+      "time": "20:00",
+      "team1": "BCM HERSTAL A",
+      "team2": "BC OLNE",
       "category": "MM - DIVISION 3 B",
       "location": "BCM HERSTAL A",
       "other": ""
@@ -306,16 +306,6 @@
       "other": ""
     },
     {
-      "code": "410197",
-      "date": "2026-02-07",
-      "time": "18:30",
-      "team1": "BCM HERSTAL C",
-      "team2": "ROYAL ANS BC A",
-      "category": "MM - DIVISION 4 D",
-      "location": "BCM HERSTAL C",
-      "other": ""
-    },
-    {
       "code": "410247",
       "date": "2026-02-14",
       "time": "18:30",
@@ -361,6 +351,16 @@
       "time": "18:30",
       "team1": "BCM HERSTAL C",
       "team2": "CRISTAL SGH E",
+      "category": "MM - DIVISION 4 D",
+      "location": "BCM HERSTAL C",
+      "other": ""
+    },
+    {
+      "code": "410197",
+      "date": "2026-03-18",
+      "time": "21:00",
+      "team1": "BCM HERSTAL C",
+      "team2": "ROYAL ANS BC A",
       "category": "MM - DIVISION 4 D",
       "location": "BCM HERSTAL C",
       "other": ""
@@ -656,16 +656,6 @@
       "other": ""
     },
     {
-      "code": "600276",
-      "date": "2026-03-07",
-      "time": "12:30",
-      "team1": "BCM HERSTAL",
-      "team2": "PRAYON TROOZ",
-      "category": "U 14 - DD A",
-      "location": "BCM HERSTAL",
-      "other": ""
-    },
-    {
       "code": "600116",
       "date": "2026-03-14",
       "time": "12:30",
@@ -706,6 +696,16 @@
       "other": ""
     },
     {
+      "code": "600236",
+      "date": "2026-04-05",
+      "time": "14:00",
+      "team1": "BCM HERSTAL",
+      "team2": "HENRI-CHAPELLE",
+      "category": "U 14 - DD A",
+      "location": "BCM HERSTAL",
+      "other": ""
+    },
+    {
       "code": "600321",
       "date": "2026-04-11",
       "time": "17:00",
@@ -713,6 +713,16 @@
       "team2": "BCM HERSTAL",
       "category": "U 14 - DD A",
       "location": "RBC BLEGNY",
+      "other": ""
+    },
+    {
+      "code": "600276",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "team1": "BCM HERSTAL",
+      "team2": "PRAYON TROOZ",
+      "category": "U 14 - DD A",
+      "location": "BCM HERSTAL",
       "other": ""
     },
     {
@@ -738,7 +748,7 @@
     {
       "code": "493196",
       "date": "2026-02-14",
-      "time": "13:00",
+      "time": "9:00",
       "team1": "ORP JAUCHE",
       "team2": "BCM HERSTAL",
       "category": "U 14 - PROV MM D",
@@ -886,6 +896,16 @@
       "other": ""
     },
     {
+      "code": "591223",
+      "date": "2026-04-18",
+      "time": "14:30",
+      "team1": "BCM HERSTAL",
+      "team2": "ORP JAUCHE",
+      "category": "U 16 - DD B",
+      "location": "BCM HERSTAL",
+      "other": ""
+    },
+    {
       "code": "591332",
       "date": "2026-04-19",
       "time": "14:00",
@@ -923,16 +943,6 @@
       "team2": "BCM HERSTAL",
       "category": "U 16 - PROV MM A",
       "location": "R HT-PRE OUGREE",
-      "other": ""
-    },
-    {
-      "code": "470113",
-      "date": "2026-02-21",
-      "time": "14:30",
-      "team1": "BCM HERSTAL",
-      "team2": "RBC DISON-ANDRIMONT",
-      "category": "U 16 - PROV MM A",
-      "location": "BCM HERSTAL",
       "other": ""
     },
     {
@@ -983,6 +993,16 @@
       "team2": "BCM HERSTAL",
       "category": "U 16 - PROV MM A",
       "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "470113",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "team1": "BCM HERSTAL",
+      "team2": "RBC DISON-ANDRIMONT",
+      "category": "U 16 - PROV MM A",
+      "location": "BCM HERSTAL",
       "other": ""
     },
     {

@@ -27,8 +27,8 @@
     },
     {
       "code": "414196",
-      "date": "2026-02-07",
-      "time": "19:00",
+      "date": "2026-02-19",
+      "time": "20:30",
       "team1": "ATLAS A JUPILLE",
       "team2": "RBC HANEFFE B",
       "category": "DD - DIVISION 2 A",
@@ -416,16 +416,6 @@
       "other": ""
     },
     {
-      "code": "401196",
-      "date": "2026-02-07",
-      "time": "20:00",
-      "team1": "MAIL. COMBLAIN B",
-      "team2": "RBC HANEFFE A",
-      "category": "MM - DIVISION 1",
-      "location": "MAIL. COMBLAIN B",
-      "other": ""
-    },
-    {
       "code": "401243",
       "date": "2026-02-13",
       "time": "21:00",
@@ -726,16 +716,6 @@
       "other": ""
     },
     {
-      "code": "530194",
-      "date": "2026-02-14",
-      "time": "11:00",
-      "team1": "RBC HANEFFE A",
-      "team2": "UN HUY BASKET B",
-      "category": "U 10 - MM K",
-      "location": "RBC HANEFFE A",
-      "other": ""
-    },
-    {
       "code": "530264",
       "date": "2026-02-28",
       "time": "14:00",
@@ -766,6 +746,16 @@
       "other": ""
     },
     {
+      "code": "530194",
+      "date": "2026-04-04",
+      "time": "15:30",
+      "team1": "RBC HANEFFE A",
+      "team2": "UN HUY BASKET B",
+      "category": "U 10 - MM K",
+      "location": "RBC HANEFFE A",
+      "other": ""
+    },
+    {
       "code": "530324",
       "date": "2026-04-11",
       "time": "14:00",
@@ -791,16 +781,6 @@
       "time": "12:30",
       "team1": "RBC HANEFFE B",
       "team2": "RBC ALLEUR C",
-      "category": "U 10 - MM L",
-      "location": "RBC HANEFFE B",
-      "other": ""
-    },
-    {
-      "code": "531194",
-      "date": "2026-02-14",
-      "time": "12:30",
-      "team1": "RBC HANEFFE B",
-      "team2": "UN HUY BASKET C",
       "category": "U 10 - MM L",
       "location": "RBC HANEFFE B",
       "other": ""
@@ -846,9 +826,19 @@
       "other": ""
     },
     {
+      "code": "531194",
+      "date": "2026-04-04",
+      "time": "14:00",
+      "team1": "RBC HANEFFE B",
+      "team2": "UN HUY BASKET C",
+      "category": "U 10 - MM L",
+      "location": "RBC HANEFFE B",
+      "other": ""
+    },
+    {
       "code": "507214",
-      "date": "2026-01-25",
-      "time": "16:00",
+      "date": "2026-01-24",
+      "time": "15:30",
       "team1": "RBC HANEFFE",
       "team2": "ALL. FLEMALLE E",
       "category": "U 12 - MM H",
@@ -1336,16 +1326,6 @@
       "other": ""
     },
     {
-      "code": "552214",
-      "date": "2026-01-24",
-      "time": "11:00",
-      "team1": "RBC HANEFFE",
-      "team2": "HARIMALIA BC",
-      "category": "U 7 - MM C",
-      "location": "RBC HANEFFE",
-      "other": ""
-    },
-    {
       "code": "552222",
       "date": "2026-01-31",
       "time": "13:00",
@@ -1401,6 +1381,16 @@
       "time": "12:30",
       "team1": "RBC HANEFFE",
       "team2": "BC SPRIMONT B",
+      "category": "U 7 - MM C",
+      "location": "RBC HANEFFE",
+      "other": ""
+    },
+    {
+      "code": "552214",
+      "date": "2026-04-04",
+      "time": "12:30",
+      "team1": "RBC HANEFFE",
+      "team2": "HARIMALIA BC",
       "category": "U 7 - MM C",
       "location": "RBC HANEFFE",
       "other": ""

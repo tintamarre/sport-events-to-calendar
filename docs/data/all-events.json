@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-19T20:51:12.395678Z",
+  "lastUpdated": "2026-01-22T22:07:53.930344Z",
   "events": [
     {
       "code": "772114",
@@ -454,7 +454,7 @@
     {
       "code": "529233",
       "date": "2026-02-07",
-      "time": "12:00",
+      "time": "12:30",
       "team1": "RBC ESNEUX C",
       "team2": "BC COINTE C",
       "category": "U 10 - MM J",
@@ -464,12 +464,12 @@
     {
       "code": "529196",
       "date": "2026-02-14",
-      "time": "13:00",
+      "time": "9:00",
       "team1": "GIANTS BRAIVES B",
       "team2": "RBC ESNEUX C",
       "category": "U 10 - MM J",
       "location": "GIANTS BRAIVES B",
-      "other": "(Pôle Ballons)"
+      "other": "(HO Fallais)"
     },
     {
       "code": "529264",
@@ -1012,16 +1012,6 @@
       "other": ""
     },
     {
-      "code": "580221",
-      "date": "2026-02-01",
-      "time": "10:00",
-      "team1": "RBC AUBEL",
-      "team2": "RBC ESNEUX",
-      "category": "U 19 - DD A",
-      "location": "RBC AUBEL",
-      "other": ""
-    },
-    {
       "code": "580193",
       "date": "2026-02-14",
       "time": "15:00",
@@ -1049,6 +1039,16 @@
       "team2": "RBC ESNEUX",
       "category": "U 19 - DD A",
       "location": "ABC WAREMME B",
+      "other": ""
+    },
+    {
+      "code": "580221",
+      "date": "2026-03-08",
+      "time": "17:00",
+      "team1": "RBC AUBEL",
+      "team2": "RBC ESNEUX",
+      "category": "U 19 - DD A",
+      "location": "RBC AUBEL",
       "other": ""
     },
     {
@@ -1814,7 +1814,7 @@
     {
       "code": "610191",
       "date": "2026-02-14",
-      "time": "12:45",
+      "time": "11:00",
       "team1": "ALL. FLEMALLE",
       "team2": "RABC ENSIVAL",
       "category": "U 12 - DD",
@@ -2424,7 +2424,7 @@
     {
       "code": "529214",
       "date": "2026-01-24",
-      "time": "10:45",
+      "time": "9:00",
       "team1": "R REN. MONTEGNEE",
       "team2": "RBC ALLEUR B",
       "category": "U 10 - MM J",
@@ -2444,7 +2444,7 @@
     {
       "code": "529194",
       "date": "2026-02-14",
-      "time": "10:45",
+      "time": "9:00",
       "team1": "R REN. MONTEGNEE",
       "team2": "BC COINTE C",
       "category": "U 10 - MM J",
@@ -3252,16 +3252,6 @@
       "other": ""
     },
     {
-      "code": "405197",
-      "date": "2026-02-07",
-      "time": "20:30",
-      "team1": "BCM HERSTAL A",
-      "team2": "BC OLNE",
-      "category": "MM - DIVISION 3 B",
-      "location": "BCM HERSTAL A",
-      "other": ""
-    },
-    {
       "code": "405243",
       "date": "2026-02-12",
       "time": "21:00",
@@ -3289,6 +3279,16 @@
       "team2": "LA VILLERSOISE B",
       "category": "MM - DIVISION 3 B",
       "location": "BC OLNE",
+      "other": ""
+    },
+    {
+      "code": "405197",
+      "date": "2026-03-11",
+      "time": "20:00",
+      "team1": "BCM HERSTAL A",
+      "team2": "BC OLNE",
+      "category": "MM - DIVISION 3 B",
+      "location": "BCM HERSTAL A",
       "other": ""
     },
     {
@@ -3369,6 +3369,16 @@
       "team2": "PEPINSTER EAST BELG B",
       "category": "DD - DIVISION 1",
       "location": "RBC ALLEUR C",
+      "other": ""
+    },
+    {
+      "code": "413076",
+      "date": "2026-02-19",
+      "time": "21:00",
+      "team1": "HENRI-CHAPELLE",
+      "team2": "PEPINSTER EAST BELG B",
+      "category": "DD - DIVISION 1",
+      "location": "HENRI-CHAPELLE",
       "other": ""
     },
     {
@@ -3923,8 +3933,8 @@
     },
     {
       "code": "AW103128",
-      "date": "2026-02-13",
-      "time": "20:30",
+      "date": "2026-02-11",
+      "time": "21:00",
       "team1": "PEPINSTER EAST BELG B",
       "team2": "ROYAL BC NINANE B",
       "category": "MM - REGIONALE 2 B",
@@ -4939,7 +4949,7 @@
       "team2": "PEPINSTER EAST BELG",
       "category": "U 19 - DD A",
       "location": "ROYAL BC NINANE",
-      "other": ""
+      "other": "(HO Sprimont)"
     },
     {
       "code": "580222",
@@ -4962,9 +4972,19 @@
       "other": ""
     },
     {
-      "code": "580192",
+      "code": "580102",
       "date": "2026-02-14",
       "time": "13:00",
+      "team1": "PEPINSTER EAST BELG",
+      "team2": "ABC WAREMME B",
+      "category": "U 19 - DD A",
+      "location": "PEPINSTER EAST BELG",
+      "other": ""
+    },
+    {
+      "code": "580192",
+      "date": "2026-02-21",
+      "time": "15:00",
       "team1": "PEPINSTER EAST BELG",
       "team2": "RBC WELKENRAEDT",
       "category": "U 19 - DD A",
@@ -5602,6 +5622,16 @@
       "other": ""
     },
     {
+      "code": "415244",
+      "date": "2026-02-15",
+      "time": "9:30",
+      "team1": "R 4A AYWAILLE-HAMOIR A",
+      "team2": "VAIL. JUPILLE",
+      "category": "DD - DIVISION 2 B",
+      "location": "R 4A AYWAILLE-HAMOIR A",
+      "other": ""
+    },
+    {
       "code": "415272",
       "date": "2026-03-07",
       "time": "17:00",
@@ -5963,8 +5993,8 @@
     },
     {
       "code": "406194",
-      "date": "2026-02-07",
-      "time": "17:00",
+      "date": "2026-02-06",
+      "time": "20:00",
       "team1": "BC COINTE C",
       "team2": "R 4A AYWAILLE-HAMOIR B",
       "category": "MM - DIVISION 3 C",
@@ -6329,7 +6359,7 @@
       "team2": "R 4A AYWAILLE-HAMOIR",
       "category": "U 12 - MM B",
       "location": "ROYAL BC NINANE A",
-      "other": ""
+      "other": "(HO sprimont)"
     },
     {
       "code": "501225",
@@ -7403,7 +7433,7 @@
     },
     {
       "code": "401151",
-      "date": "2026-02-10",
+      "date": "2026-02-11",
       "time": "20:30",
       "team1": "HARIMALIA BC A",
       "team2": "HENRI-CHAPELLE A",
@@ -7754,7 +7784,7 @@
     {
       "code": "524202",
       "date": "2026-03-14",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "THEUX BC B",
       "team2": "HENRI-CHAPELLE B",
       "category": "U 10 - MM E",
@@ -7874,7 +7904,7 @@
     {
       "code": "500323",
       "date": "2026-04-12",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "RBC VISE A",
       "team2": "HENRI-CHAPELLE A",
       "category": "U 12 - MM A",
@@ -7884,7 +7914,7 @@
     {
       "code": "505221",
       "date": "2026-02-01",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "HENRI-CHAPELLE B",
       "team2": "ROYAL MOSA AC 1941 B",
       "category": "U 12 - MM F",
@@ -7894,21 +7924,11 @@
     {
       "code": "505231",
       "date": "2026-02-08",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "HARIMALIA BC B",
       "team2": "HENRI-CHAPELLE B",
       "category": "U 12 - MM F",
       "location": "HARIMALIA BC B",
-      "other": ""
-    },
-    {
-      "code": "505261",
-      "date": "2026-03-01",
-      "time": "09:00",
-      "team1": "HENRI-CHAPELLE B",
-      "team2": "PEPINSTER EAST BELG A",
-      "category": "U 12 - MM F",
-      "location": "HENRI-CHAPELLE B",
       "other": ""
     },
     {
@@ -7924,7 +7944,7 @@
     {
       "code": "505301",
       "date": "2026-03-29",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "HENRI-CHAPELLE B",
       "team2": "R HT-PRE OUGREE B",
       "category": "U 12 - MM F",
@@ -7954,7 +7974,7 @@
     {
       "code": "506214",
       "date": "2026-01-25",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "BC BELLEFLAMME C",
       "team2": "HENRI-CHAPELLE C",
       "category": "U 12 - MM G",
@@ -8034,7 +8054,7 @@
     {
       "code": "600215",
       "date": "2026-02-21",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "RBC DISON-ANDRIMONT",
       "team2": "HENRI-CHAPELLE",
       "category": "U 14 - DD A",
@@ -8069,6 +8089,16 @@
       "team2": "HENRI-CHAPELLE",
       "category": "U 14 - DD A",
       "location": "RBC BLEGNY",
+      "other": ""
+    },
+    {
+      "code": "600236",
+      "date": "2026-04-05",
+      "time": "14:00",
+      "team1": "BCM HERSTAL",
+      "team2": "HENRI-CHAPELLE",
+      "category": "U 14 - DD A",
+      "location": "BCM HERSTAL",
       "other": ""
     },
     {
@@ -8162,16 +8192,6 @@
       "other": ""
     },
     {
-      "code": "450236",
-      "date": "2026-02-08",
-      "time": "13:00",
-      "team1": "HENRI-CHAPELLE",
-      "team2": "GIANTS BRAIVES A",
-      "category": "U 16 - ELITES MM A",
-      "location": "HENRI-CHAPELLE",
-      "other": ""
-    },
-    {
       "code": "450265",
       "date": "2026-03-01",
       "time": "11:30",
@@ -8179,6 +8199,16 @@
       "team2": "HENRI-CHAPELLE",
       "category": "U 16 - ELITES MM A",
       "location": "ROYAL MOSA AC 1941",
+      "other": ""
+    },
+    {
+      "code": "450236",
+      "date": "2026-03-07",
+      "time": "12:30",
+      "team1": "HENRI-CHAPELLE",
+      "team2": "GIANTS BRAIVES A",
+      "category": "U 16 - ELITES MM A",
+      "location": "HENRI-CHAPELLE",
       "other": ""
     },
     {
@@ -8343,8 +8373,8 @@
     },
     {
       "code": "420331",
-      "date": "2026-04-18",
-      "time": "16:30",
+      "date": "2026-04-19",
+      "time": "11:00",
       "team1": "HENRI-CHAPELLE",
       "team2": "HARIMALIA BC",
       "category": "U 21 - MM A",
@@ -8352,19 +8382,9 @@
       "other": ""
     },
     {
-      "code": "550216",
-      "date": "2026-01-25",
-      "time": "09:00",
-      "team1": "HENRI-CHAPELLE",
-      "team2": "R 4A AYWAILLE-HAMOIR A",
-      "category": "U 7 - MM A",
-      "location": "HENRI-CHAPELLE",
-      "other": ""
-    },
-    {
       "code": "550236",
       "date": "2026-02-08",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "HENRI-CHAPELLE",
       "team2": "ALL. FLEMALLE B",
       "category": "U 7 - MM A",
@@ -8374,7 +8394,7 @@
     {
       "code": "550265",
       "date": "2026-03-01",
-      "time": "09:30",
+      "time": "9:30",
       "team1": "RB TILFF A",
       "team2": "HENRI-CHAPELLE",
       "category": "U 7 - MM A",
@@ -8382,29 +8402,9 @@
       "other": ""
     },
     {
-      "code": "550276",
-      "date": "2026-03-08",
-      "time": "09:00",
-      "team1": "HENRI-CHAPELLE",
-      "team2": "RBC ESNEUX",
-      "category": "U 7 - MM A",
-      "location": "HENRI-CHAPELLE",
-      "other": ""
-    },
-    {
-      "code": "550296",
-      "date": "2026-03-22",
-      "time": "09:00",
-      "team1": "HENRI-CHAPELLE",
-      "team2": "PEPINSTER EAST BELG A",
-      "category": "U 7 - MM A",
-      "location": "HENRI-CHAPELLE",
-      "other": ""
-    },
-    {
       "code": "550306",
       "date": "2026-03-29",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "HENRI-CHAPELLE",
       "team2": "ROYAL SPA BC",
       "category": "U 7 - MM A",
@@ -8414,7 +8414,7 @@
     {
       "code": "550321",
       "date": "2026-04-11",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "ROYAL HERVE-BATTICE A",
       "team2": "HENRI-CHAPELLE",
       "category": "U 7 - MM A",
@@ -8424,7 +8424,7 @@
     {
       "code": "550334",
       "date": "2026-04-18",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "BC BELLEFLAMME",
       "team2": "HENRI-CHAPELLE",
       "category": "U 7 - MM A",
@@ -8432,19 +8432,9 @@
       "other": ""
     },
     {
-      "code": "542225",
-      "date": "2026-01-31",
-      "time": "09:00",
-      "team1": "R 4A AYWAILLE-HAMOIR B",
-      "team2": "HENRI-CHAPELLE",
-      "category": "U 8 - MM C",
-      "location": "R 4A AYWAILLE-HAMOIR B",
-      "other": ""
-    },
-    {
       "code": "542231",
       "date": "2026-02-08",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "HENRI-CHAPELLE",
       "team2": "RBC ALLEUR",
       "category": "U 8 - MM C",
@@ -8454,7 +8444,7 @@
     {
       "code": "542271",
       "date": "2026-03-08",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "HENRI-CHAPELLE",
       "team2": "VAIL. JUPILLE",
       "category": "U 8 - MM C",
@@ -8464,7 +8454,7 @@
     {
       "code": "542291",
       "date": "2026-03-22",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "HENRI-CHAPELLE",
       "team2": "BC COINTE",
       "category": "U 8 - MM C",
@@ -8484,7 +8474,7 @@
     {
       "code": "542331",
       "date": "2026-04-19",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "HENRI-CHAPELLE",
       "team2": "ABC WAREMME A",
       "category": "U 8 - MM C",
@@ -8732,16 +8722,6 @@
       "other": ""
     },
     {
-      "code": "410197",
-      "date": "2026-02-07",
-      "time": "18:30",
-      "team1": "BCM HERSTAL C",
-      "team2": "ROYAL ANS BC A",
-      "category": "MM - DIVISION 4 D",
-      "location": "BCM HERSTAL C",
-      "other": ""
-    },
-    {
       "code": "410247",
       "date": "2026-02-14",
       "time": "18:30",
@@ -8787,6 +8767,16 @@
       "time": "18:30",
       "team1": "BCM HERSTAL C",
       "team2": "CRISTAL SGH E",
+      "category": "MM - DIVISION 4 D",
+      "location": "BCM HERSTAL C",
+      "other": ""
+    },
+    {
+      "code": "410197",
+      "date": "2026-03-18",
+      "time": "21:00",
+      "team1": "BCM HERSTAL C",
+      "team2": "ROYAL ANS BC A",
       "category": "MM - DIVISION 4 D",
       "location": "BCM HERSTAL C",
       "other": ""
@@ -9002,16 +8992,6 @@
       "other": ""
     },
     {
-      "code": "600276",
-      "date": "2026-03-07",
-      "time": "12:30",
-      "team1": "BCM HERSTAL",
-      "team2": "PRAYON TROOZ",
-      "category": "U 14 - DD A",
-      "location": "BCM HERSTAL",
-      "other": ""
-    },
-    {
       "code": "600116",
       "date": "2026-03-14",
       "time": "12:30",
@@ -9062,6 +9042,16 @@
       "other": ""
     },
     {
+      "code": "600276",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "team1": "BCM HERSTAL",
+      "team2": "PRAYON TROOZ",
+      "category": "U 14 - DD A",
+      "location": "BCM HERSTAL",
+      "other": ""
+    },
+    {
       "code": "493212",
       "date": "2026-01-25",
       "time": "13:00",
@@ -9084,7 +9074,7 @@
     {
       "code": "493196",
       "date": "2026-02-14",
-      "time": "13:00",
+      "time": "9:00",
       "team1": "ORP JAUCHE",
       "team2": "BCM HERSTAL",
       "category": "U 14 - PROV MM D",
@@ -9202,6 +9192,16 @@
       "other": ""
     },
     {
+      "code": "591223",
+      "date": "2026-04-18",
+      "time": "14:30",
+      "team1": "BCM HERSTAL",
+      "team2": "ORP JAUCHE",
+      "category": "U 16 - DD B",
+      "location": "BCM HERSTAL",
+      "other": ""
+    },
+    {
       "code": "591332",
       "date": "2026-04-19",
       "time": "14:00",
@@ -9229,16 +9229,6 @@
       "team2": "BCM HERSTAL",
       "category": "U 16 - PROV MM A",
       "location": "R HT-PRE OUGREE",
-      "other": ""
-    },
-    {
-      "code": "470113",
-      "date": "2026-02-21",
-      "time": "14:30",
-      "team1": "BCM HERSTAL",
-      "team2": "RBC DISON-ANDRIMONT",
-      "category": "U 16 - PROV MM A",
-      "location": "BCM HERSTAL",
       "other": ""
     },
     {
@@ -9279,6 +9269,16 @@
       "team2": "BCM HERSTAL",
       "category": "U 16 - PROV MM A",
       "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "470113",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "team1": "BCM HERSTAL",
+      "team2": "RBC DISON-ANDRIMONT",
+      "category": "U 16 - PROV MM A",
+      "location": "BCM HERSTAL",
       "other": ""
     },
     {
@@ -10472,16 +10472,6 @@
       "other": "(Salle BBC Brainois)"
     },
     {
-      "code": "414216",
-      "date": "2026-01-24",
-      "time": "19:00",
-      "team1": "ATLAS A JUPILLE",
-      "team2": "ROYAL BC NINANE A",
-      "category": "DD - DIVISION 2 A",
-      "location": "ATLAS A JUPILLE",
-      "other": ""
-    },
-    {
       "code": "414223",
       "date": "2026-02-01",
       "time": "17:00",
@@ -10502,21 +10492,21 @@
       "other": ""
     },
     {
-      "code": "414196",
-      "date": "2026-02-07",
-      "time": "19:00",
-      "team1": "ATLAS A JUPILLE",
-      "team2": "RBC HANEFFE B",
-      "category": "DD - DIVISION 2 A",
-      "location": "ATLAS A JUPILLE",
-      "other": ""
-    },
-    {
       "code": "414246",
       "date": "2026-02-14",
       "time": "19:00",
       "team1": "ATLAS A JUPILLE",
       "team2": "LA VILLERSOISE A",
+      "category": "DD - DIVISION 2 A",
+      "location": "ATLAS A JUPILLE",
+      "other": ""
+    },
+    {
+      "code": "414196",
+      "date": "2026-02-19",
+      "time": "20:30",
+      "team1": "ATLAS A JUPILLE",
+      "team2": "RBC HANEFFE B",
       "category": "DD - DIVISION 2 A",
       "location": "ATLAS A JUPILLE",
       "other": ""
@@ -10723,8 +10713,8 @@
     },
     {
       "code": "406263",
-      "date": "2026-03-01",
-      "time": "15:00",
+      "date": "2026-02-27",
+      "time": "20:30",
       "team1": "ATLAS A JUPILLE C",
       "team2": "THEUX BC B",
       "category": "MM - DIVISION 3 C",
@@ -11699,6 +11689,16 @@
       "team2": "ATLAS A JUPILLE",
       "category": "U 18 - SILVER REGIONAUX A",
       "location": "BC COINTE",
+      "other": ""
+    },
+    {
+      "code": "AW152004",
+      "date": "2026-02-21",
+      "time": "13:30",
+      "team1": "ROYAL NIVELLES",
+      "team2": "ATLAS A JUPILLE",
+      "category": "U 18 - SILVER REGIONAUX A",
+      "location": "ROYAL NIVELLES",
       "other": ""
     },
     {
@@ -13072,16 +13072,6 @@
       "other": ""
     },
     {
-      "code": "552236",
-      "date": "2026-02-08",
-      "time": "12:00",
-      "team1": "ROYAL BC WANZE",
-      "team2": "GIANTS BRAIVES",
-      "category": "U 7 - MM C",
-      "location": "ROYAL BC WANZE",
-      "other": ""
-    },
-    {
       "code": "552265",
       "date": "2026-02-28",
       "time": "9:00",
@@ -13097,6 +13087,16 @@
       "time": "12:00",
       "team1": "ROYAL BC WANZE",
       "team2": "RBC HANEFFE",
+      "category": "U 7 - MM C",
+      "location": "ROYAL BC WANZE",
+      "other": ""
+    },
+    {
+      "code": "552236",
+      "date": "2026-03-15",
+      "time": "13:00",
+      "team1": "ROYAL BC WANZE",
+      "team2": "GIANTS BRAIVES",
       "category": "U 7 - MM C",
       "location": "ROYAL BC WANZE",
       "other": ""
@@ -13359,7 +13359,7 @@
       "team2": "RBC AUBEL B",
       "category": "U 10 - MM G",
       "location": "ROYAL BC NINANE B",
-      "other": ""
+      "other": "(Voie du Herdier Jupille)"
     },
     {
       "code": "526225",
@@ -13542,16 +13542,6 @@
       "other": ""
     },
     {
-      "code": "491226",
-      "date": "2026-01-31",
-      "time": "14:30",
-      "team1": "RBC AUBEL",
-      "team2": "R.UN.BELLAIRE",
-      "category": "U 14 - PROV MM B",
-      "location": "RBC AUBEL",
-      "other": ""
-    },
-    {
       "code": "491236",
       "date": "2026-02-07",
       "time": "12:45",
@@ -13559,6 +13549,16 @@
       "team2": "RBC AUBEL",
       "category": "U 14 - PROV MM B",
       "location": "ROYAL BC NINANE B",
+      "other": ""
+    },
+    {
+      "code": "491226",
+      "date": "2026-02-15",
+      "time": "12:30",
+      "team1": "RBC AUBEL",
+      "team2": "R.UN.BELLAIRE",
+      "category": "U 14 - PROV MM B",
+      "location": "RBC AUBEL",
       "other": ""
     },
     {
@@ -13709,7 +13709,7 @@
       "team2": "RBC AUBEL",
       "category": "U 8 - MM A",
       "location": "ROYAL BC NINANE",
-      "other": ""
+      "other": "(Voie du Herdier Jupille)"
     },
     {
       "code": "540232",
@@ -13892,6 +13892,16 @@
       "other": ""
     },
     {
+      "code": "524326",
+      "date": "2026-04-11",
+      "time": "11:00",
+      "team1": "BBC EUPEN",
+      "team2": "ROYAL HERVE-BATTICE D",
+      "category": "U 10 - MM E",
+      "location": "BBC EUPEN",
+      "other": ""
+    },
+    {
       "code": "504214",
       "date": "2026-01-24",
       "time": "10:00",
@@ -13977,6 +13987,16 @@
       "time": "10:00",
       "team1": "BBC EUPEN",
       "team2": "DF BC MALMEDY",
+      "category": "U 14 - PROV MM A",
+      "location": "BBC EUPEN",
+      "other": ""
+    },
+    {
+      "code": "490326",
+      "date": "2026-02-21",
+      "time": "11:00",
+      "team1": "BBC EUPEN",
+      "team2": "RBC WELKENRAEDT",
       "category": "U 14 - PROV MM A",
       "location": "BBC EUPEN",
       "other": ""
@@ -15052,6 +15072,16 @@
       "other": ""
     },
     {
+      "code": "413186",
+      "date": "2026-03-10",
+      "time": "20:00",
+      "team1": "R HT-PRE OUGREE A",
+      "team2": "R.UN.BELLAIRE A",
+      "category": "DD - DIVISION 1",
+      "location": "R HT-PRE OUGREE A",
+      "other": ""
+    },
+    {
       "code": "413292",
       "date": "2026-03-21",
       "time": "17:00",
@@ -15509,16 +15539,6 @@
       "team2": "R HT-PRE OUGREE B",
       "category": "U 12 - MM F",
       "location": "PRAYON TROOZ B",
-      "other": ""
-    },
-    {
-      "code": "505301",
-      "date": "2026-03-29",
-      "time": "9:00",
-      "team1": "HENRI-CHAPELLE B",
-      "team2": "R HT-PRE OUGREE B",
-      "category": "U 12 - MM F",
-      "location": "HENRI-CHAPELLE B",
       "other": ""
     },
     {
@@ -16542,6 +16562,16 @@
       "other": ""
     },
     {
+      "code": "AW167020",
+      "date": "2026-04-04",
+      "time": "12:45",
+      "team1": "BBC BRAINOIS",
+      "team2": "GIANTS BRAIVES",
+      "category": "U 14 - SILVER REGIONAUX E",
+      "location": "BBC BRAINOIS",
+      "other": ""
+    },
+    {
       "code": "AW167017",
       "date": "2026-04-11",
       "time": "15:00",
@@ -16654,12 +16684,12 @@
     {
       "code": "472196",
       "date": "2026-02-14",
-      "time": "16:00",
+      "time": "11:00",
       "team1": "GIANTS BRAIVES",
       "team2": "R.UN.BELLAIRE",
       "category": "U 16 - PROV MM C",
       "location": "GIANTS BRAIVES",
-      "other": "(IPES Waremme)"
+      "other": "(HO Fallais)"
     },
     {
       "code": "472276",
@@ -18032,16 +18062,6 @@
       "other": ""
     },
     {
-      "code": "414192",
-      "date": "2026-02-07",
-      "time": "21:00",
-      "team1": "LA VILLERSOISE A",
-      "team2": "RBC STAVELOT",
-      "category": "DD - DIVISION 2 A",
-      "location": "LA VILLERSOISE A",
-      "other": ""
-    },
-    {
       "code": "414245",
       "date": "2026-02-15",
       "time": "12:00",
@@ -18050,6 +18070,16 @@
       "category": "DD - DIVISION 2 A",
       "location": "ABC WAREMME A",
       "other": "(Hall d'Oreye)"
+    },
+    {
+      "code": "414192",
+      "date": "2026-02-22",
+      "time": "17:00",
+      "team1": "LA VILLERSOISE A",
+      "team2": "RBC STAVELOT",
+      "category": "DD - DIVISION 2 A",
+      "location": "LA VILLERSOISE A",
+      "other": ""
     },
     {
       "code": "414291",
@@ -19364,7 +19394,7 @@
     {
       "code": "407264",
       "date": "2026-03-01",
-      "time": "10:00",
+      "time": "18:00",
       "team1": "RBC DISON-ANDRIMONT D",
       "team2": "RBC ALLEUR D",
       "category": "MM - DIVISION 4 A",
@@ -20322,6 +20352,16 @@
       "other": ""
     },
     {
+      "code": "440183",
+      "date": "2026-04-11",
+      "time": "9:00",
+      "team1": "ROYAL ANS BC B",
+      "team2": "RBC ALLEUR B",
+      "category": "U 18 - PROV MM",
+      "location": "ROYAL ANS BC B",
+      "other": ""
+    },
+    {
       "code": "440327",
       "date": "2026-04-12",
       "time": "9:00",
@@ -20599,16 +20639,6 @@
       "team2": "ABC WAREMME A",
       "category": "U 8 - MM C",
       "location": "RBC ALLEUR",
-      "other": ""
-    },
-    {
-      "code": "542231",
-      "date": "2026-02-08",
-      "time": "9:00",
-      "team1": "HENRI-CHAPELLE",
-      "team2": "RBC ALLEUR",
-      "category": "U 8 - MM C",
-      "location": "HENRI-CHAPELLE",
       "other": ""
     },
     {
@@ -21082,6 +21112,16 @@
       "other": ""
     },
     {
+      "code": "522292",
+      "date": "2026-02-14",
+      "time": "9:00",
+      "team1": "UN HUY BASKET A",
+      "team2": "LA VILLERSOISE B",
+      "category": "U 10 - MM C",
+      "location": "UN HUY BASKET A",
+      "other": ""
+    },
+    {
       "code": "522261",
       "date": "2026-03-01",
       "time": "13:00",
@@ -21097,16 +21137,6 @@
       "time": "9:00",
       "team1": "UN HUY BASKET A",
       "team2": "RB TILFF A",
-      "category": "U 10 - MM C",
-      "location": "UN HUY BASKET A",
-      "other": ""
-    },
-    {
-      "code": "522292",
-      "date": "2026-03-22",
-      "time": "9:00",
-      "team1": "UN HUY BASKET A",
-      "team2": "LA VILLERSOISE B",
       "category": "U 10 - MM C",
       "location": "UN HUY BASKET A",
       "other": ""
@@ -21142,16 +21172,6 @@
       "other": ""
     },
     {
-      "code": "530194",
-      "date": "2026-02-14",
-      "time": "11:00",
-      "team1": "RBC HANEFFE A",
-      "team2": "UN HUY BASKET B",
-      "category": "U 10 - MM K",
-      "location": "RBC HANEFFE A",
-      "other": ""
-    },
-    {
       "code": "530294",
       "date": "2026-03-21",
       "time": "9:00",
@@ -21159,6 +21179,16 @@
       "team2": "ABC WAREMME B",
       "category": "U 10 - MM K",
       "location": "UN HUY BASKET B",
+      "other": ""
+    },
+    {
+      "code": "530194",
+      "date": "2026-04-04",
+      "time": "15:30",
+      "team1": "RBC HANEFFE A",
+      "team2": "UN HUY BASKET B",
+      "category": "U 10 - MM K",
+      "location": "RBC HANEFFE A",
       "other": ""
     },
     {
@@ -21203,8 +21233,8 @@
     },
     {
       "code": "531194",
-      "date": "2026-02-14",
-      "time": "12:30",
+      "date": "2026-04-04",
+      "time": "14:00",
       "team1": "RBC HANEFFE B",
       "team2": "UN HUY BASKET C",
       "category": "U 10 - MM L",
@@ -22072,6 +22102,16 @@
       "other": ""
     },
     {
+      "code": "508332",
+      "date": "2026-02-15",
+      "time": "9:00",
+      "team1": "RJS GRIVEGNEE",
+      "team2": "VAIL. JUPILLE",
+      "category": "U 12 - MM I",
+      "location": "RJS GRIVEGNEE",
+      "other": ""
+    },
+    {
       "code": "508295",
       "date": "2026-03-21",
       "time": "9:00",
@@ -22079,16 +22119,6 @@
       "team2": "VAIL. JUPILLE",
       "category": "U 12 - MM I",
       "location": "ABC WAREMME C",
-      "other": ""
-    },
-    {
-      "code": "508332",
-      "date": "2026-04-19",
-      "time": "9:15",
-      "team1": "RJS GRIVEGNEE",
-      "team2": "VAIL. JUPILLE",
-      "category": "U 12 - MM I",
-      "location": "RJS GRIVEGNEE",
       "other": ""
     },
     {
@@ -22279,16 +22309,6 @@
       "team2": "VAIL. JUPILLE",
       "category": "U 8 - MM C",
       "location": "BC COINTE",
-      "other": ""
-    },
-    {
-      "code": "542271",
-      "date": "2026-03-08",
-      "time": "9:00",
-      "team1": "HENRI-CHAPELLE",
-      "team2": "VAIL. JUPILLE",
-      "category": "U 8 - MM C",
-      "location": "HENRI-CHAPELLE",
       "other": ""
     },
     {
@@ -22619,6 +22639,16 @@
       "team2": "ABC WAREMME C",
       "category": "MM - DIVISION 4 C",
       "location": "ALL. FLEMALLE C",
+      "other": ""
+    },
+    {
+      "code": "409035",
+      "date": "2026-02-08",
+      "time": "14:00",
+      "team1": "RBC CROATIA OUPEYE",
+      "team2": "ABC WAREMME C",
+      "category": "MM - DIVISION 4 C",
+      "location": "RBC CROATIA OUPEYE",
       "other": ""
     },
     {
@@ -23102,16 +23132,6 @@
       "other": ""
     },
     {
-      "code": "481224",
-      "date": "2026-01-31",
-      "time": "9:00",
-      "team1": "ABC WAREMME",
-      "team2": "BC SPRIMONT",
-      "category": "U 14 - ELITES MM B",
-      "location": "ABC WAREMME",
-      "other": ""
-    },
-    {
       "code": "481194",
       "date": "2026-02-14",
       "time": "13:00",
@@ -23119,6 +23139,16 @@
       "team2": "ABC WAREMME",
       "category": "U 14 - ELITES MM B",
       "location": "BC COINTE",
+      "other": ""
+    },
+    {
+      "code": "481224",
+      "date": "2026-02-21",
+      "time": "9:00",
+      "team1": "ABC WAREMME",
+      "team2": "BC SPRIMONT",
+      "category": "U 14 - ELITES MM B",
+      "location": "ABC WAREMME",
       "other": ""
     },
     {
@@ -23499,7 +23529,7 @@
       "team2": "ABC WAREMME A",
       "category": "U 18 - ELITES MM C",
       "location": "ROYAL BC NINANE A",
-      "other": ""
+      "other": "(HO sprimont)"
     },
     {
       "code": "432266",
@@ -23789,16 +23819,6 @@
       "team2": "ABC WAREMME A",
       "category": "U 8 - MM C",
       "location": "BC COINTE",
-      "other": ""
-    },
-    {
-      "code": "542331",
-      "date": "2026-04-19",
-      "time": "9:00",
-      "team1": "HENRI-CHAPELLE",
-      "team2": "ABC WAREMME A",
-      "category": "U 8 - MM C",
-      "location": "HENRI-CHAPELLE",
       "other": ""
     },
     {
@@ -24112,16 +24132,6 @@
       "other": ""
     },
     {
-      "code": "404192",
-      "date": "2026-02-07",
-      "time": "19:00",
-      "team1": "ROYAL HERVE-BATTICE B",
-      "team2": "ALL. FLEMALLE B",
-      "category": "MM - DIVISION 3 A",
-      "location": "ROYAL HERVE-BATTICE B",
-      "other": ""
-    },
-    {
       "code": "404261",
       "date": "2026-02-28",
       "time": "21:00",
@@ -24139,6 +24149,16 @@
       "team2": "ALL. FLEMALLE B",
       "category": "MM - DIVISION 3 A",
       "location": "AVENIR JUPILLE A",
+      "other": ""
+    },
+    {
+      "code": "404192",
+      "date": "2026-03-15",
+      "time": "17:00",
+      "team1": "ROYAL HERVE-BATTICE B",
+      "team2": "ALL. FLEMALLE B",
+      "category": "MM - DIVISION 3 A",
+      "location": "ROYAL HERVE-BATTICE B",
       "other": ""
     },
     {
@@ -24249,12 +24269,12 @@
       "team2": "ALL. FLEMALLE C",
       "category": "MM - DIVISION 4 C",
       "location": "ROYAL BC NINANE E",
-      "other": ""
+      "other": "(Hall de Sprimont)"
     },
     {
       "code": "409195",
-      "date": "2026-02-07",
-      "time": "17:00",
+      "date": "2026-02-06",
+      "time": "20:00",
       "team1": "RBC DISON-ANDRIMONT C",
       "team2": "ALL. FLEMALLE C",
       "category": "MM - DIVISION 4 C",
@@ -24783,8 +24803,8 @@
     },
     {
       "code": "507214",
-      "date": "2026-01-25",
-      "time": "16:00",
+      "date": "2026-01-24",
+      "time": "15:30",
       "team1": "RBC HANEFFE",
       "team2": "ALL. FLEMALLE E",
       "category": "U 12 - MM H",
@@ -24934,7 +24954,7 @@
     {
       "code": "AW180030",
       "date": "2026-03-07",
-      "time": "11:00",
+      "time": "13:00",
       "team1": "NAMUR CAPITALE",
       "team2": "ALL. FLEMALLE",
       "category": "U 14 - GOLD REGIONALES B",
@@ -24974,7 +24994,7 @@
     {
       "code": "493231",
       "date": "2026-02-08",
-      "time": "15:00",
+      "time": "17:00",
       "team1": "HARIMALIA BC B",
       "team2": "ALL. FLEMALLE B",
       "category": "U 14 - PROV MM D",
@@ -25352,16 +25372,6 @@
       "other": ""
     },
     {
-      "code": "550236",
-      "date": "2026-02-08",
-      "time": "9:00",
-      "team1": "HENRI-CHAPELLE",
-      "team2": "ALL. FLEMALLE B",
-      "category": "U 7 - MM A",
-      "location": "HENRI-CHAPELLE",
-      "other": ""
-    },
-    {
       "code": "550193",
       "date": "2026-02-14",
       "time": "15:00",
@@ -25623,8 +25633,8 @@
     },
     {
       "code": "416267",
-      "date": "2026-02-28",
-      "time": "21:00",
+      "date": "2026-03-13",
+      "time": "19:00",
       "team1": "RBC BLEGNY C",
       "team2": "LA VILLERSOISE B",
       "category": "DD - DIVISION 3 A",
@@ -25672,16 +25682,6 @@
       "other": ""
     },
     {
-      "code": "404191",
-      "date": "2026-02-08",
-      "time": "17:00",
-      "team1": "LA VILLERSOISE A",
-      "team2": "RJS GRIVEGNEE",
-      "category": "MM - DIVISION 3 A",
-      "location": "LA VILLERSOISE A",
-      "other": ""
-    },
-    {
       "code": "404267",
       "date": "2026-02-28",
       "time": "21:00",
@@ -25697,6 +25697,16 @@
       "time": "17:00",
       "team1": "LA VILLERSOISE A",
       "team2": "ROYALE US AWANS A",
+      "category": "MM - DIVISION 3 A",
+      "location": "LA VILLERSOISE A",
+      "other": ""
+    },
+    {
+      "code": "404191",
+      "date": "2026-03-14",
+      "time": "19:00",
+      "team1": "LA VILLERSOISE A",
+      "team2": "RJS GRIVEGNEE",
       "category": "MM - DIVISION 3 A",
       "location": "LA VILLERSOISE A",
       "other": ""
@@ -27802,23 +27812,23 @@
       "other": ""
     },
     {
-      "code": "421231",
-      "date": "2026-02-07",
-      "time": "15:00",
-      "team1": "ROYAL SPA BC",
-      "team2": "BC SPRIMONT",
-      "category": "U 21 - MM B",
-      "location": "ROYAL SPA BC",
-      "other": ""
-    },
-    {
       "code": "421192",
-      "date": "2026-02-14",
-      "time": "13:00",
+      "date": "2026-02-15",
+      "time": "15:00",
       "team1": "BC SPRIMONT",
       "team2": "ROYAL SPA BC",
       "category": "U 21 - MM B",
       "location": "BC SPRIMONT",
+      "other": ""
+    },
+    {
+      "code": "421231",
+      "date": "2026-02-22",
+      "time": "10:00",
+      "team1": "ROYAL SPA BC",
+      "team2": "BC SPRIMONT",
+      "category": "U 21 - MM B",
+      "location": "ROYAL SPA BC",
       "other": ""
     },
     {
@@ -27869,16 +27879,6 @@
       "team2": "BC VERVIERS",
       "category": "U 7 - MM A",
       "location": "ROYAL SPA BC",
-      "other": ""
-    },
-    {
-      "code": "550306",
-      "date": "2026-03-29",
-      "time": "9:00",
-      "team1": "HENRI-CHAPELLE",
-      "team2": "ROYAL SPA BC",
-      "category": "U 7 - MM A",
-      "location": "HENRI-CHAPELLE",
       "other": ""
     },
     {
@@ -28022,16 +28022,6 @@
       "other": "(Salle de Grivegnée)"
     },
     {
-      "code": "413191",
-      "date": "2026-02-07",
-      "time": "21:00",
-      "team1": "ROYAL HERVE-BATTICE C",
-      "team2": "BC SPRIMONT A",
-      "category": "DD - DIVISION 1",
-      "location": "ROYAL HERVE-BATTICE C",
-      "other": ""
-    },
-    {
       "code": "413242",
       "date": "2026-02-15",
       "time": "13:00",
@@ -28059,6 +28049,16 @@
       "team2": "BC SPRIMONT A",
       "category": "DD - DIVISION 1",
       "location": "BC BELLEFLAMME B",
+      "other": ""
+    },
+    {
+      "code": "413191",
+      "date": "2026-04-01",
+      "time": "21:00",
+      "team1": "ROYAL HERVE-BATTICE C",
+      "team2": "BC SPRIMONT A",
+      "category": "DD - DIVISION 1",
+      "location": "ROYAL HERVE-BATTICE C",
       "other": ""
     },
     {
@@ -29573,8 +29573,8 @@
     },
     {
       "code": "413035",
-      "date": "2026-02-07",
-      "time": "21:00",
+      "date": "2026-02-08",
+      "time": "16:00",
       "team1": "RBC CROATIA OUPEYE",
       "team2": "RBC BLEGNY A",
       "category": "DD - DIVISION 1",
@@ -30324,7 +30324,7 @@
     {
       "code": "403195",
       "date": "2026-02-07",
-      "time": "21:00",
+      "time": "17:00",
       "team1": "RB TILFF B",
       "team2": "RBC DISON-ANDRIMONT A",
       "category": "MM - DIVISION 2 B",
@@ -30533,22 +30533,12 @@
     },
     {
       "code": "411314",
-      "date": "2026-02-06",
-      "time": "19:00",
+      "date": "2026-02-04",
+      "time": "19:30",
       "team1": "RB TILFF E",
       "team2": "R.UN.BELLAIRE B",
       "category": "MM - DIVISION 4 E",
       "location": "RB TILFF E",
-      "other": ""
-    },
-    {
-      "code": "411196",
-      "date": "2026-02-07",
-      "time": "18:00",
-      "team1": "MAIL. COMBLAIN C",
-      "team2": "RB TILFF E",
-      "category": "MM - DIVISION 4 E",
-      "location": "MAIL. COMBLAIN C",
       "other": ""
     },
     {
@@ -30569,6 +30559,16 @@
       "team2": "DF BC MALMEDY",
       "category": "MM - DIVISION 4 E",
       "location": "RB TILFF E",
+      "other": ""
+    },
+    {
+      "code": "411196",
+      "date": "2026-03-19",
+      "time": "20:30",
+      "team1": "MAIL. COMBLAIN C",
+      "team2": "RB TILFF E",
+      "category": "MM - DIVISION 4 E",
+      "location": "MAIL. COMBLAIN C",
       "other": ""
     },
     {
@@ -30892,16 +30892,6 @@
       "other": ""
     },
     {
-      "code": "550265",
-      "date": "2026-03-01",
-      "time": "9:30",
-      "team1": "RB TILFF A",
-      "team2": "HENRI-CHAPELLE",
-      "category": "U 7 - MM A",
-      "location": "RB TILFF A",
-      "other": ""
-    },
-    {
       "code": "550272",
       "date": "2026-03-07",
       "time": "9:00",
@@ -31102,16 +31092,6 @@
       "other": ""
     },
     {
-      "code": "417217",
-      "date": "2026-01-24",
-      "time": "20:00",
-      "team1": "ORP JAUCHE",
-      "team2": "REBOND NEUVILLE",
-      "category": "DD - DIVISION 3 B",
-      "location": "ORP JAUCHE",
-      "other": ""
-    },
-    {
       "code": "417275",
       "date": "2026-03-08",
       "time": "11:00",
@@ -31139,16 +31119,6 @@
       "team2": "BC VERLAINE B",
       "category": "DD - DIVISION 3 B",
       "location": "REBOND NEUVILLE",
-      "other": ""
-    },
-    {
-      "code": "418217",
-      "date": "2026-01-24",
-      "time": "19:00",
-      "team1": "RBC VISE B",
-      "team2": "DF BC MALMEDY",
-      "category": "DD - DIVISION 3 C",
-      "location": "RBC VISE B",
       "other": ""
     },
     {
@@ -31382,16 +31352,6 @@
       "other": ""
     },
     {
-      "code": "403293",
-      "date": "2026-03-13",
-      "time": "20:15",
-      "team1": "R.UN.BELLAIRE A",
-      "team2": "ROYAL MOSA AC 1941 A",
-      "category": "MM - DIVISION 2 B",
-      "location": "R.UN.BELLAIRE A",
-      "other": ""
-    },
-    {
       "code": "403307",
       "date": "2026-03-29",
       "time": "11:00",
@@ -31399,6 +31359,16 @@
       "team2": "ROYAL MOSA AC 1941 A",
       "category": "MM - DIVISION 2 B",
       "location": "RBC VISE B",
+      "other": ""
+    },
+    {
+      "code": "403293",
+      "date": "2026-04-09",
+      "time": "20:00",
+      "team1": "R.UN.BELLAIRE A",
+      "team2": "ROYAL MOSA AC 1941 A",
+      "category": "MM - DIVISION 2 B",
+      "location": "R.UN.BELLAIRE A",
       "other": ""
     },
     {
@@ -31522,16 +31492,6 @@
       "other": ""
     },
     {
-      "code": "505221",
-      "date": "2026-02-01",
-      "time": "9:00",
-      "team1": "HENRI-CHAPELLE B",
-      "team2": "ROYAL MOSA AC 1941 B",
-      "category": "U 12 - MM F",
-      "location": "HENRI-CHAPELLE B",
-      "other": ""
-    },
-    {
       "code": "505331",
       "date": "2026-04-19",
       "time": "9:00",
@@ -31544,11 +31504,11 @@
     {
       "code": "491216",
       "date": "2026-01-24",
-      "time": "12:45",
-      "team1": "ROYAL BC NINANE B",
-      "team2": "ROYAL MOSA AC 1941",
+      "time": "11:30",
+      "team1": "ROYAL MOSA AC 1941",
+      "team2": "ROYAL BC NINANE B",
       "category": "U 14 - PROV MM B",
-      "location": "ROYAL BC NINANE B",
+      "location": "ROYAL MOSA AC 1941",
       "other": ""
     },
     {
@@ -31734,7 +31694,7 @@
     {
       "code": "417197",
       "date": "2026-02-07",
-      "time": "17:00",
+      "time": "21:00",
       "team1": "ORP JAUCHE",
       "team2": "RBC AWANS",
       "category": "DD - DIVISION 3 B",
@@ -32859,6 +32819,16 @@
       "team2": "BC VERVIERS B",
       "category": "U 16 - ELITES MM A",
       "location": "ROYAL ANS BC",
+      "other": ""
+    },
+    {
+      "code": "451225",
+      "date": "2026-02-15",
+      "time": "13:00",
+      "team1": "BC VERVIERS A",
+      "team2": "HARIMALIA BC A",
+      "category": "U 16 - ELITES MM B",
+      "location": "BC VERVIERS A",
       "other": ""
     },
     {
@@ -34302,16 +34272,6 @@
       "other": ""
     },
     {
-      "code": "415212",
-      "date": "2026-01-24",
-      "time": "19:00",
-      "team1": "AVENIR JUPILLE B",
-      "team2": "ROYAL ANS BC",
-      "category": "DD - DIVISION 2 B",
-      "location": "AVENIR JUPILLE B",
-      "other": ""
-    },
-    {
       "code": "415224",
       "date": "2026-02-01",
       "time": "15:00",
@@ -34639,16 +34599,6 @@
       "team2": "THEUX BC A",
       "category": "MM - DIVISION 1",
       "location": "RBC HANEFFE A",
-      "other": ""
-    },
-    {
-      "code": "401196",
-      "date": "2026-02-07",
-      "time": "20:00",
-      "team1": "MAIL. COMBLAIN B",
-      "team2": "RBC HANEFFE A",
-      "category": "MM - DIVISION 1",
-      "location": "MAIL. COMBLAIN B",
       "other": ""
     },
     {
@@ -35042,21 +34992,21 @@
       "other": ""
     },
     {
-      "code": "552214",
-      "date": "2026-01-24",
-      "time": "11:00",
-      "team1": "RBC HANEFFE",
-      "team2": "HARIMALIA BC",
-      "category": "U 7 - MM C",
-      "location": "RBC HANEFFE",
-      "other": ""
-    },
-    {
       "code": "552264",
       "date": "2026-02-28",
       "time": "12:30",
       "team1": "RBC HANEFFE",
       "team2": "RBC VISE",
+      "category": "U 7 - MM C",
+      "location": "RBC HANEFFE",
+      "other": ""
+    },
+    {
+      "code": "552214",
+      "date": "2026-04-04",
+      "time": "12:30",
+      "team1": "RBC HANEFFE",
+      "team2": "HARIMALIA BC",
       "category": "U 7 - MM C",
       "location": "RBC HANEFFE",
       "other": ""
@@ -35090,16 +35040,6 @@
       "category": "CPE PROV MESSIEURS",
       "location": "ROYAL HERVE-BATTICE A (+",
       "other": "(Salle de Sprimont)"
-    },
-    {
-      "code": "413211",
-      "date": "2026-01-24",
-      "time": "19:00",
-      "team1": "ROYAL HERVE-BATTICE C",
-      "team2": "BC BELLEFLAMME B",
-      "category": "DD - DIVISION 1",
-      "location": "ROYAL HERVE-BATTICE C",
-      "other": ""
     },
     {
       "code": "413267",
@@ -35152,6 +35092,16 @@
       "other": ""
     },
     {
+      "code": "AW104156",
+      "date": "2026-03-04",
+      "time": "20:45",
+      "team1": "NAMUR CAPITALE",
+      "team2": "HERVE-BATTICE A",
+      "category": "DD - REGIONALE 1",
+      "location": "NAMUR CAPITALE",
+      "other": ""
+    },
+    {
       "code": "AW104137",
       "date": "2026-03-22",
       "time": "15:00",
@@ -35169,16 +35119,6 @@
       "team2": "HERVE-BATTICE A",
       "category": "DD - REGIONALE 1",
       "location": "BCCA NEUFCHATEAU",
-      "other": ""
-    },
-    {
-      "code": "AW104156",
-      "date": "2026-04-05",
-      "time": "15:00",
-      "team1": "NAMUR CAPITALE",
-      "team2": "HERVE-BATTICE A",
-      "category": "DD - REGIONALE 1",
-      "location": "NAMUR CAPITALE",
       "other": ""
     },
     {
@@ -35462,16 +35402,6 @@
       "other": ""
     },
     {
-      "code": "525195",
-      "date": "2026-02-14",
-      "time": "17:00",
-      "team1": "ROYAL HERVE-BATTICE E",
-      "team2": "RBC DISON-ANDRIMONT A",
-      "category": "U 10 - MM F",
-      "location": "ROYAL HERVE-BATTICE E",
-      "other": ""
-    },
-    {
       "code": "525272",
       "date": "2026-03-08",
       "time": "15:00",
@@ -35487,6 +35417,16 @@
       "time": "17:00",
       "team1": "ROYAL HERVE-BATTICE E",
       "team2": "BC BELLEFLAMME C",
+      "category": "U 10 - MM F",
+      "location": "ROYAL HERVE-BATTICE E",
+      "other": ""
+    },
+    {
+      "code": "525195",
+      "date": "2026-04-12",
+      "time": "11:00",
+      "team1": "ROYAL HERVE-BATTICE E",
+      "team2": "RBC DISON-ANDRIMONT A",
       "category": "U 10 - MM F",
       "location": "ROYAL HERVE-BATTICE E",
       "other": ""
@@ -35752,16 +35692,6 @@
       "other": ""
     },
     {
-      "code": "550321",
-      "date": "2026-04-11",
-      "time": "9:00",
-      "team1": "ROYAL HERVE-BATTICE A",
-      "team2": "HENRI-CHAPELLE",
-      "category": "U 7 - MM A",
-      "location": "ROYAL HERVE-BATTICE A",
-      "other": ""
-    },
-    {
       "code": "551215",
       "date": "2026-01-24",
       "time": "9:30",
@@ -35912,6 +35842,16 @@
       "other": ""
     },
     {
+      "code": "407184",
+      "date": "2026-02-21",
+      "time": "21:00",
+      "team1": "RBC DISON-ANDRIMONT D",
+      "team2": "BC VERLAINE",
+      "category": "MM - DIVISION 4 A",
+      "location": "RBC DISON-ANDRIMONT D",
+      "other": ""
+    },
+    {
       "code": "407331",
       "date": "2026-03-14",
       "time": "21:00",
@@ -36029,7 +35969,7 @@
       "team2": "BC VERLAINE B",
       "category": "U 7 - MM B",
       "location": "ROYAL BC NINANE",
-      "other": ""
+      "other": "(Voie du Herdier Jupille)"
     },
     {
       "code": "551194",
@@ -36742,16 +36682,6 @@
       "other": ""
     },
     {
-      "code": "506214",
-      "date": "2026-01-25",
-      "time": "9:00",
-      "team1": "BC BELLEFLAMME C",
-      "team2": "HENRI-CHAPELLE C",
-      "category": "U 12 - MM G",
-      "location": "BC BELLEFLAMME C",
-      "other": ""
-    },
-    {
       "code": "506276",
       "date": "2026-03-01",
       "time": "12:00",
@@ -37049,6 +36979,16 @@
       "team2": "ROYAL BC CINEY",
       "category": "U 16 - SILVER REGIONALES B",
       "location": "BC BELLEFLAMME",
+      "other": ""
+    },
+    {
+      "code": "AW178004",
+      "date": "2026-02-14",
+      "time": "13:00",
+      "team1": "CASTORS BRAINE",
+      "team2": "BC BELLEFLAMME",
+      "category": "U 16 - SILVER REGIONALES B",
+      "location": "CASTORS BRAINE",
       "other": ""
     },
     {
@@ -37367,16 +37307,6 @@
       "time": "9:00",
       "team1": "BC BELLEFLAMME",
       "team2": "THEUX BC",
-      "category": "U 7 - MM A",
-      "location": "BC BELLEFLAMME",
-      "other": ""
-    },
-    {
-      "code": "550334",
-      "date": "2026-04-18",
-      "time": "9:00",
-      "team1": "BC BELLEFLAMME",
-      "team2": "HENRI-CHAPELLE",
       "category": "U 7 - MM A",
       "location": "BC BELLEFLAMME",
       "other": ""
@@ -38539,7 +38469,7 @@
       "team2": "RBC DISON-ANDRIMONT B",
       "category": "MM - DIVISION 3 B",
       "location": "ROYAL BC NINANE C",
-      "other": ""
+      "other": "(Salle de Sprimont)"
     },
     {
       "code": "405265",
@@ -38589,7 +38519,7 @@
       "team2": "CRISTAL SGH D",
       "category": "MM - DIVISION 4 B",
       "location": "ROYAL BC NINANE F",
-      "other": ""
+      "other": "(Hall de Sprimont)"
     },
     {
       "code": "408276",
@@ -38819,7 +38749,7 @@
       "team2": "FLERON BBC",
       "category": "U 10 - MM A",
       "location": "ROYAL BC NINANE A",
-      "other": ""
+      "other": "(Voie du Herdier Jupille)"
     },
     {
       "code": "526276",
@@ -39202,16 +39132,6 @@
       "other": ""
     },
     {
-      "code": "524202",
-      "date": "2026-03-14",
-      "time": "9:00",
-      "team1": "THEUX BC B",
-      "team2": "HENRI-CHAPELLE B",
-      "category": "U 10 - MM E",
-      "location": "THEUX BC B",
-      "other": ""
-    },
-    {
       "code": "525232",
       "date": "2026-02-08",
       "time": "15:00",
@@ -39263,8 +39183,8 @@
     },
     {
       "code": "480191",
-      "date": "2026-02-14",
-      "time": "15:00",
+      "date": "2026-03-15",
+      "time": "13:00",
       "team1": "RBC VISE A",
       "team2": "THEUX BC A",
       "category": "U 14 - ELITES MM A",
@@ -39619,6 +39539,16 @@
       "team2": "CRISTAL SGH A",
       "category": "U 10 - MM L",
       "location": "ROYAL ANS BC B",
+      "other": ""
+    },
+    {
+      "code": "610324",
+      "date": "2026-04-04",
+      "time": "9:00",
+      "team1": "RBC DISON-ANDRIMONT",
+      "team2": "CRISTAL SGH",
+      "category": "U 12 - DD",
+      "location": "RBC DISON-ANDRIMONT",
       "other": ""
     },
     {
@@ -40222,16 +40152,6 @@
       "other": ""
     },
     {
-      "code": "600215",
-      "date": "2026-02-21",
-      "time": "9:00",
-      "team1": "RBC DISON-ANDRIMONT",
-      "team2": "HENRI-CHAPELLE",
-      "category": "U 14 - DD A",
-      "location": "RBC DISON-ANDRIMONT",
-      "other": ""
-    },
-    {
       "code": "590215",
       "date": "2026-03-14",
       "time": "15:00",
@@ -40392,96 +40312,6 @@
       "other": ""
     },
     {
-      "code": "410304",
-      "date": "2026-03-29",
-      "time": "09:00",
-      "team1": "ALL. FLEMALLE E",
-      "team2": "HARIMALIA BC E",
-      "category": "MM - DIVISION 4 D",
-      "location": "ALL. FLEMALLE E",
-      "other": ""
-    },
-    {
-      "code": "526211",
-      "date": "2026-01-25",
-      "time": "09:00",
-      "team1": "HARIMALIA BC B",
-      "team2": "PRAYON TROOZ A",
-      "category": "U 10 - MM G",
-      "location": "HARIMALIA BC B",
-      "other": ""
-    },
-    {
-      "code": "526231",
-      "date": "2026-02-08",
-      "time": "09:00",
-      "team1": "HARIMALIA BC B",
-      "team2": "ALL. FLEMALLE D",
-      "category": "U 10 - MM G",
-      "location": "HARIMALIA BC B",
-      "other": ""
-    },
-    {
-      "code": "526291",
-      "date": "2026-03-22",
-      "time": "09:00",
-      "team1": "HARIMALIA BC B",
-      "team2": "CRISTAL SGH F",
-      "category": "U 10 - MM G",
-      "location": "HARIMALIA BC B",
-      "other": ""
-    },
-    {
-      "code": "526306",
-      "date": "2026-03-28",
-      "time": "09:00",
-      "team1": "ROYAL BC NINANE B",
-      "team2": "HARIMALIA BC B",
-      "category": "U 10 - MM G",
-      "location": "ROYAL BC NINANE B",
-      "other": ""
-    },
-    {
-      "code": "526331",
-      "date": "2026-04-19",
-      "time": "09:00",
-      "team1": "HARIMALIA BC B",
-      "team2": "RB TILFF B",
-      "category": "U 10 - MM G",
-      "location": "HARIMALIA BC B",
-      "other": ""
-    },
-    {
-      "code": "531211",
-      "date": "2026-01-25",
-      "time": "09:00",
-      "team1": "HARIMALIA BC A",
-      "team2": "UN HUY BASKET C",
-      "category": "U 10 - MM L",
-      "location": "HARIMALIA BC A",
-      "other": ""
-    },
-    {
-      "code": "531231",
-      "date": "2026-02-08",
-      "time": "09:00",
-      "team1": "HARIMALIA BC A",
-      "team2": "RBC ALLEUR C",
-      "category": "U 10 - MM L",
-      "location": "HARIMALIA BC A",
-      "other": ""
-    },
-    {
-      "code": "531291",
-      "date": "2026-03-22",
-      "time": "09:00",
-      "team1": "HARIMALIA BC A",
-      "team2": "RBC HANEFFE B",
-      "category": "U 10 - MM L",
-      "location": "HARIMALIA BC A",
-      "other": ""
-    },
-    {
       "code": "531306",
       "date": "2026-03-28",
       "time": "14:00",
@@ -40489,36 +40319,6 @@
       "team2": "HARIMALIA BC A",
       "category": "U 10 - MM L",
       "location": "HANNUT BC",
-      "other": ""
-    },
-    {
-      "code": "504326",
-      "date": "2026-04-11",
-      "time": "09:00",
-      "team1": "ROYAL BC NINANE B",
-      "team2": "HARIMALIA BC A",
-      "category": "U 12 - MM E",
-      "location": "ROYAL BC NINANE B",
-      "other": ""
-    },
-    {
-      "code": "505211",
-      "date": "2026-01-25",
-      "time": "09:00",
-      "team1": "HARIMALIA BC B",
-      "team2": "PRAYON TROOZ B",
-      "category": "U 12 - MM F",
-      "location": "HARIMALIA BC B",
-      "other": ""
-    },
-    {
-      "code": "505331",
-      "date": "2026-04-19",
-      "time": "09:00",
-      "team1": "HARIMALIA BC B",
-      "team2": "ROYAL MOSA AC 1941 B",
-      "category": "U 12 - MM F",
-      "location": "HARIMALIA BC B",
       "other": ""
     },
     {
@@ -40552,63 +40352,13 @@
       "other": ""
     },
     {
-      "code": "471323",
-      "date": "2026-04-11",
-      "time": "09:00",
-      "team1": "THEUX BC",
-      "team2": "HARIMALIA BC B",
-      "category": "U 16 - PROV MM B",
-      "location": "THEUX BC",
-      "other": ""
-    },
-    {
       "code": "552273",
       "date": "2026-03-08",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "RBC VISE",
       "team2": "HARIMALIA BC",
       "category": "U 7 - MM C",
       "location": "RBC VISE",
-      "other": ""
-    },
-    {
-      "code": "552294",
-      "date": "2026-03-21",
-      "time": "09:00",
-      "team1": "LA VILLERSOISE B",
-      "team2": "HARIMALIA BC",
-      "category": "U 7 - MM C",
-      "location": "LA VILLERSOISE B",
-      "other": ""
-    },
-    {
-      "code": "552335",
-      "date": "2026-04-18",
-      "time": "09:30",
-      "team1": "CRISTAL SGH A",
-      "team2": "HARIMALIA BC",
-      "category": "U 7 - MM C",
-      "location": "CRISTAL SGH A",
-      "other": ""
-    },
-    {
-      "code": "541231",
-      "date": "2026-02-07",
-      "time": "09:00",
-      "team1": "ROYAL SPA BC B",
-      "team2": "HARIMALIA BC",
-      "category": "U 8 - MM B",
-      "location": "ROYAL SPA BC B",
-      "other": ""
-    },
-    {
-      "code": "541192",
-      "date": "2026-02-14",
-      "time": "09:00",
-      "team1": "PEPINSTER EAST BELG A",
-      "team2": "HARIMALIA BC",
-      "category": "U 8 - MM B",
-      "location": "PEPINSTER EAST BELG A",
       "other": ""
     },
     {
@@ -40619,16 +40369,6 @@
       "team2": "RBC VISE A",
       "category": "U 8 - MM B",
       "location": "HARIMALIA BC",
-      "other": ""
-    },
-    {
-      "code": "541273",
-      "date": "2026-03-14",
-      "time": "09:00",
-      "team1": "BCM HERSTAL",
-      "team2": "HARIMALIA BC",
-      "category": "U 8 - MM B",
-      "location": "BCM HERSTAL",
       "other": ""
     },
     {
@@ -41142,6 +40882,16 @@
       "other": ""
     },
     {
+      "code": "500323",
+      "date": "2026-04-12",
+      "time": "09:00",
+      "team1": "RBC VISE A",
+      "team2": "HENRI-CHAPELLE A",
+      "category": "U 12 - MM A",
+      "location": "RBC VISE A",
+      "other": ""
+    },
+    {
       "code": "506191",
       "date": "2026-02-14",
       "time": "09:00",
@@ -41597,6 +41347,16 @@
       "time": "09:00",
       "team1": "RBC VISE",
       "team2": "LA VILLERSOISE B",
+      "category": "U 7 - MM C",
+      "location": "RBC VISE",
+      "other": ""
+    },
+    {
+      "code": "552273",
+      "date": "2026-03-08",
+      "time": "09:00",
+      "team1": "RBC VISE",
+      "team2": "HARIMALIA BC",
       "category": "U 7 - MM C",
       "location": "RBC VISE",
       "other": ""
@@ -42249,16 +42009,6 @@
       "team2": "R LINTHOUT BC",
       "category": "U 18 - SILVER REGIONAUX A",
       "location": "BC COINTE",
-      "other": ""
-    },
-    {
-      "code": "542291",
-      "date": "2026-03-22",
-      "time": "9:00",
-      "team1": "HENRI-CHAPELLE",
-      "team2": "BC COINTE",
-      "category": "U 8 - MM C",
-      "location": "HENRI-CHAPELLE",
       "other": ""
     }
   ]

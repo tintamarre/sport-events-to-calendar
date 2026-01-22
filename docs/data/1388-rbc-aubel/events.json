@@ -203,7 +203,7 @@
       "team2": "RBC AUBEL B",
       "category": "U 10 - MM G",
       "location": "ROYAL BC NINANE B",
-      "other": ""
+      "other": "(Voie du Herdier Jupille)"
     },
     {
       "code": "526232",
@@ -426,16 +426,6 @@
       "other": ""
     },
     {
-      "code": "491226",
-      "date": "2026-01-31",
-      "time": "14:30",
-      "team1": "RBC AUBEL",
-      "team2": "R.UN.BELLAIRE",
-      "category": "U 14 - PROV MM B",
-      "location": "RBC AUBEL",
-      "other": ""
-    },
-    {
       "code": "491236",
       "date": "2026-02-07",
       "time": "12:45",
@@ -443,6 +433,16 @@
       "team2": "RBC AUBEL",
       "category": "U 14 - PROV MM B",
       "location": "ROYAL BC NINANE B",
+      "other": ""
+    },
+    {
+      "code": "491226",
+      "date": "2026-02-15",
+      "time": "12:30",
+      "team1": "RBC AUBEL",
+      "team2": "R.UN.BELLAIRE",
+      "category": "U 14 - PROV MM B",
+      "location": "RBC AUBEL",
       "other": ""
     },
     {
@@ -586,16 +586,6 @@
       "other": ""
     },
     {
-      "code": "580221",
-      "date": "2026-02-01",
-      "time": "10:00",
-      "team1": "RBC AUBEL",
-      "team2": "RBC ESNEUX",
-      "category": "U 19 - DD A",
-      "location": "RBC AUBEL",
-      "other": ""
-    },
-    {
       "code": "580232",
       "date": "2026-02-07",
       "time": "17:00",
@@ -611,6 +601,16 @@
       "time": "9:00",
       "team1": "RBC AUBEL",
       "team2": "PEPINSTER EAST BELG",
+      "category": "U 19 - DD A",
+      "location": "RBC AUBEL",
+      "other": ""
+    },
+    {
+      "code": "580221",
+      "date": "2026-03-08",
+      "time": "17:00",
+      "team1": "RBC AUBEL",
+      "team2": "RBC ESNEUX",
       "category": "U 19 - DD A",
       "location": "RBC AUBEL",
       "other": ""
@@ -653,7 +653,7 @@
       "team2": "RBC AUBEL",
       "category": "U 8 - MM A",
       "location": "ROYAL BC NINANE",
-      "other": ""
+      "other": "(Voie du Herdier Jupille)"
     },
     {
       "code": "540232",

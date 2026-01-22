@@ -26,16 +26,6 @@
       "other": "(Salle de Grivegnée)"
     },
     {
-      "code": "413191",
-      "date": "2026-02-07",
-      "time": "21:00",
-      "team1": "ROYAL HERVE-BATTICE C",
-      "team2": "BC SPRIMONT A",
-      "category": "DD - DIVISION 1",
-      "location": "ROYAL HERVE-BATTICE C",
-      "other": ""
-    },
-    {
       "code": "413242",
       "date": "2026-02-15",
       "time": "13:00",
@@ -103,6 +93,16 @@
       "team2": "RBC ALLEUR C",
       "category": "DD - DIVISION 1",
       "location": "BC SPRIMONT A",
+      "other": ""
+    },
+    {
+      "code": "413191",
+      "date": "2026-04-01",
+      "time": "21:00",
+      "team1": "ROYAL HERVE-BATTICE C",
+      "team2": "BC SPRIMONT A",
+      "category": "DD - DIVISION 1",
+      "location": "ROYAL HERVE-BATTICE C",
       "other": ""
     },
     {
@@ -1276,16 +1276,6 @@
       "other": ""
     },
     {
-      "code": "481224",
-      "date": "2026-01-31",
-      "time": "9:00",
-      "team1": "ABC WAREMME",
-      "team2": "BC SPRIMONT",
-      "category": "U 14 - ELITES MM B",
-      "location": "ABC WAREMME",
-      "other": ""
-    },
-    {
       "code": "481232",
       "date": "2026-02-15",
       "time": "9:00",
@@ -1293,6 +1283,16 @@
       "team2": "ATLAS A JUPILLE",
       "category": "U 14 - ELITES MM B",
       "location": "BC SPRIMONT",
+      "other": ""
+    },
+    {
+      "code": "481224",
+      "date": "2026-02-21",
+      "time": "9:00",
+      "team1": "ABC WAREMME",
+      "team2": "BC SPRIMONT",
+      "category": "U 14 - ELITES MM B",
+      "location": "ABC WAREMME",
       "other": ""
     },
     {
@@ -1966,23 +1966,23 @@
       "other": ""
     },
     {
-      "code": "421231",
-      "date": "2026-02-07",
-      "time": "15:00",
-      "team1": "ROYAL SPA BC",
-      "team2": "BC SPRIMONT",
-      "category": "U 21 - MM B",
-      "location": "ROYAL SPA BC",
-      "other": ""
-    },
-    {
       "code": "421192",
-      "date": "2026-02-14",
-      "time": "13:00",
+      "date": "2026-02-15",
+      "time": "15:00",
       "team1": "BC SPRIMONT",
       "team2": "ROYAL SPA BC",
       "category": "U 21 - MM B",
       "location": "BC SPRIMONT",
+      "other": ""
+    },
+    {
+      "code": "421231",
+      "date": "2026-02-22",
+      "time": "10:00",
+      "team1": "ROYAL SPA BC",
+      "team2": "BC SPRIMONT",
+      "category": "U 21 - MM B",
+      "location": "ROYAL SPA BC",
       "other": ""
     },
     {

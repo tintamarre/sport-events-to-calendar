@@ -26,16 +26,6 @@
       "other": "(Salle de Grivegnée)"
     },
     {
-      "code": "413211",
-      "date": "2026-01-24",
-      "time": "19:00",
-      "team1": "ROYAL HERVE-BATTICE C",
-      "team2": "BC BELLEFLAMME B",
-      "category": "DD - DIVISION 1",
-      "location": "ROYAL HERVE-BATTICE C",
-      "other": ""
-    },
-    {
       "code": "413225",
       "date": "2026-01-31",
       "time": "21:00",
@@ -43,16 +33,6 @@
       "team2": "ROYAL HERVE-BATTICE C",
       "category": "DD - DIVISION 1",
       "location": "RBC CROATIA OUPEYE",
-      "other": ""
-    },
-    {
-      "code": "413191",
-      "date": "2026-02-07",
-      "time": "21:00",
-      "team1": "ROYAL HERVE-BATTICE C",
-      "team2": "BC SPRIMONT A",
-      "category": "DD - DIVISION 1",
-      "location": "ROYAL HERVE-BATTICE C",
       "other": ""
     },
     {
@@ -103,6 +83,16 @@
       "team2": "ROYAL HERVE-BATTICE C",
       "category": "DD - DIVISION 1",
       "location": "RBC ESNEUX B",
+      "other": ""
+    },
+    {
+      "code": "413191",
+      "date": "2026-04-01",
+      "time": "21:00",
+      "team1": "ROYAL HERVE-BATTICE C",
+      "team2": "BC SPRIMONT A",
+      "category": "DD - DIVISION 1",
+      "location": "ROYAL HERVE-BATTICE C",
       "other": ""
     },
     {
@@ -256,6 +246,16 @@
       "other": ""
     },
     {
+      "code": "AW104156",
+      "date": "2026-03-04",
+      "time": "20:45",
+      "team1": "NAMUR CAPITALE",
+      "team2": "HERVE-BATTICE A",
+      "category": "DD - REGIONALE 1",
+      "location": "NAMUR CAPITALE",
+      "other": ""
+    },
+    {
       "code": "AW104137",
       "date": "2026-03-22",
       "time": "15:00",
@@ -273,16 +273,6 @@
       "team2": "HERVE-BATTICE A",
       "category": "DD - REGIONALE 1",
       "location": "BCCA NEUFCHATEAU",
-      "other": ""
-    },
-    {
-      "code": "AW104156",
-      "date": "2026-04-05",
-      "time": "15:00",
-      "team1": "NAMUR CAPITALE",
-      "team2": "HERVE-BATTICE A",
-      "category": "DD - REGIONALE 1",
-      "location": "NAMUR CAPITALE",
       "other": ""
     },
     {
@@ -576,16 +566,6 @@
       "other": ""
     },
     {
-      "code": "404192",
-      "date": "2026-02-07",
-      "time": "19:00",
-      "team1": "ROYAL HERVE-BATTICE B",
-      "team2": "ALL. FLEMALLE B",
-      "category": "MM - DIVISION 3 A",
-      "location": "ROYAL HERVE-BATTICE B",
-      "other": ""
-    },
-    {
       "code": "404245",
       "date": "2026-02-14",
       "time": "20:30",
@@ -613,6 +593,16 @@
       "team2": "ROYAL HERVE-BATTICE B",
       "category": "MM - DIVISION 3 A",
       "location": "FLERON BBC B",
+      "other": ""
+    },
+    {
+      "code": "404192",
+      "date": "2026-03-15",
+      "time": "17:00",
+      "team1": "ROYAL HERVE-BATTICE B",
+      "team2": "ALL. FLEMALLE B",
+      "category": "MM - DIVISION 3 A",
+      "location": "ROYAL HERVE-BATTICE B",
       "other": ""
     },
     {
@@ -956,6 +946,16 @@
       "other": ""
     },
     {
+      "code": "524326",
+      "date": "2026-04-11",
+      "time": "11:00",
+      "team1": "BBC EUPEN",
+      "team2": "ROYAL HERVE-BATTICE D",
+      "category": "U 10 - MM E",
+      "location": "BBC EUPEN",
+      "other": ""
+    },
+    {
       "code": "524331",
       "date": "2026-04-18",
       "time": "11:00",
@@ -983,16 +983,6 @@
       "team2": "ROYAL HERVE-BATTICE E",
       "category": "U 10 - MM F",
       "location": "ALL. FLEMALLE C",
-      "other": ""
-    },
-    {
-      "code": "525195",
-      "date": "2026-02-14",
-      "time": "17:00",
-      "team1": "ROYAL HERVE-BATTICE E",
-      "team2": "RBC DISON-ANDRIMONT A",
-      "category": "U 10 - MM F",
-      "location": "ROYAL HERVE-BATTICE E",
       "other": ""
     },
     {
@@ -1031,6 +1021,16 @@
       "time": "17:00",
       "team1": "ROYAL HERVE-BATTICE E",
       "team2": "PEPINSTER EAST BELG B",
+      "category": "U 10 - MM F",
+      "location": "ROYAL HERVE-BATTICE E",
+      "other": ""
+    },
+    {
+      "code": "525195",
+      "date": "2026-04-12",
+      "time": "11:00",
+      "team1": "ROYAL HERVE-BATTICE E",
+      "team2": "RBC DISON-ANDRIMONT A",
       "category": "U 10 - MM F",
       "location": "ROYAL HERVE-BATTICE E",
       "other": ""
