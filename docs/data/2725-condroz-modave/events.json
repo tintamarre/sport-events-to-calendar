@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "523212",
-      "date": "2026-01-24",
-      "time": "13:15",
-      "team1": "CONDROZ MODAVE BB A",
-      "team2": "RBC AWANS A",
-      "category": "U 10 - MM D",
-      "location": "CONDROZ MODAVE BB A",
-      "other": ""
-    },
-    {
       "code": "523224",
       "date": "2026-01-31",
       "time": "12:00",
@@ -46,16 +36,6 @@
       "other": ""
     },
     {
-      "code": "523292",
-      "date": "2026-03-21",
-      "time": "13:15",
-      "team1": "CONDROZ MODAVE BB A",
-      "team2": "ALL. FLEMALLE A",
-      "category": "U 10 - MM D",
-      "location": "CONDROZ MODAVE BB A",
-      "other": ""
-    },
-    {
       "code": "523304",
       "date": "2026-03-28",
       "time": "9:00",
@@ -66,6 +46,16 @@
       "other": ""
     },
     {
+      "code": "523292",
+      "date": "2026-04-04",
+      "time": "13:30",
+      "team1": "CONDROZ MODAVE BB A",
+      "team2": "ALL. FLEMALLE A",
+      "category": "U 10 - MM D",
+      "location": "CONDROZ MODAVE BB A",
+      "other": ""
+    },
+    {
       "code": "523322",
       "date": "2026-04-12",
       "time": "9:00",
@@ -73,16 +63,6 @@
       "team2": "CONDROZ MODAVE BB A",
       "category": "U 10 - MM D",
       "location": "BC SPRIMONT C",
-      "other": ""
-    },
-    {
-      "code": "531212",
-      "date": "2026-01-24",
-      "time": "14:45",
-      "team1": "CONDROZ MODAVE BB B",
-      "team2": "ROYAL ANS BC B",
-      "category": "U 10 - MM L",
-      "location": "CONDROZ MODAVE BB B",
       "other": ""
     },
     {
@@ -107,8 +87,8 @@
     },
     {
       "code": "531261",
-      "date": "2026-02-28",
-      "time": "16:30",
+      "date": "2026-03-15",
+      "time": "9:00",
       "team1": "RBC ALLEUR C",
       "team2": "CONDROZ MODAVE BB B",
       "category": "U 10 - MM L",
@@ -123,16 +103,6 @@
       "team2": "CONDROZ MODAVE BB B",
       "category": "U 10 - MM L",
       "location": "RBC HANEFFE B",
-      "other": ""
-    },
-    {
-      "code": "509212",
-      "date": "2026-01-24",
-      "time": "11:30",
-      "team1": "CONDROZ MODAVE BB",
-      "team2": "ROYAL ANS BC B",
-      "category": "U 12 - MM J",
-      "location": "CONDROZ MODAVE BB",
       "other": ""
     },
     {
@@ -193,16 +163,6 @@
       "team2": "CONDROZ MODAVE BB",
       "category": "U 12 - MM J",
       "location": "BC SPRIMONT C",
-      "other": ""
-    },
-    {
-      "code": "ING1412BBE",
-      "date": "2026-01-25",
-      "time": "13:15",
-      "team1": "CONDROZ MODAVE BB",
-      "team2": "OKAPI AALST",
-      "category": "U 14 MM - NATIONAUX B",
-      "location": "CONDROZ MODAVE BB",
       "other": ""
     },
     {
@@ -283,16 +243,6 @@
       "team2": "CONDROZ MODAVE BB",
       "category": "U 14 MM - NATIONAUX B",
       "location": "UNITED B WOLUWE",
-      "other": ""
-    },
-    {
-      "code": "AW155022",
-      "date": "2026-01-25",
-      "time": "15:15",
-      "team1": "CONDROZ MODAVE BB",
-      "team2": "ECOLE EUROPEENNE",
-      "category": "U 16 - GOLD REGIONAUX A",
-      "location": "CONDROZ MODAVE BB",
       "other": ""
     },
     {
@@ -386,16 +336,6 @@
       "other": ""
     },
     {
-      "code": "472212",
-      "date": "2026-01-24",
-      "time": "9:30",
-      "team1": "CONDROZ MODAVE BB",
-      "team2": "R.UN.BELLAIRE",
-      "category": "U 16 - PROV MM C",
-      "location": "CONDROZ MODAVE BB",
-      "other": ""
-    },
-    {
       "code": "472224",
       "date": "2026-02-01",
       "time": "12:00",
@@ -466,16 +406,6 @@
       "other": ""
     },
     {
-      "code": "553212",
-      "date": "2026-01-24",
-      "time": "14:45",
-      "team1": "CONDROZ MODAVE BB",
-      "team2": "RBC AWANS",
-      "category": "U 7 - MM D",
-      "location": "CONDROZ MODAVE BB",
-      "other": ""
-    },
-    {
       "code": "553224",
       "date": "2026-01-31",
       "time": "9:00",
@@ -496,16 +426,6 @@
       "other": ""
     },
     {
-      "code": "553191",
-      "date": "2026-02-14",
-      "time": "10:15",
-      "team1": "BC COINTE B",
-      "team2": "CONDROZ MODAVE BB",
-      "category": "U 7 - MM D",
-      "location": "BC COINTE B",
-      "other": ""
-    },
-    {
       "code": "553261",
       "date": "2026-02-28",
       "time": "9:00",
@@ -523,6 +443,16 @@
       "team2": "ABC WAREMME A",
       "category": "U 7 - MM D",
       "location": "CONDROZ MODAVE BB",
+      "other": ""
+    },
+    {
+      "code": "553191",
+      "date": "2026-03-14",
+      "time": "14:00",
+      "team1": "BC COINTE B",
+      "team2": "CONDROZ MODAVE BB",
+      "category": "U 7 - MM D",
+      "location": "BC COINTE B",
       "other": ""
     },
     {
@@ -552,16 +482,6 @@
       "team1": "CONDROZ MODAVE BB",
       "team2": "ROYAL ANS BC",
       "category": "U 7 - MM D",
-      "location": "CONDROZ MODAVE BB",
-      "other": ""
-    },
-    {
-      "code": "545212",
-      "date": "2026-01-24",
-      "time": "13:15",
-      "team1": "CONDROZ MODAVE BB",
-      "team2": "RBC HANEFFE",
-      "category": "U 8 - MM F",
       "location": "CONDROZ MODAVE BB",
       "other": ""
     },

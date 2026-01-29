@@ -6,26 +6,6 @@
   },
   "events": [
     {
-      "code": "411217",
-      "date": "2026-01-24",
-      "time": "18:30",
-      "team1": "HENRI-CHAPELLE C",
-      "team2": "RBC AUBEL",
-      "category": "MM - DIVISION 4 E",
-      "location": "HENRI-CHAPELLE C",
-      "other": ""
-    },
-    {
-      "code": "411225",
-      "date": "2026-02-01",
-      "time": "12:00",
-      "team1": "RBC AUBEL",
-      "team2": "RBC WELKENRAEDT B",
-      "category": "MM - DIVISION 4 E",
-      "location": "RBC AUBEL",
-      "other": ""
-    },
-    {
       "code": "411194",
       "date": "2026-02-06",
       "time": "19:00",
@@ -43,6 +23,16 @@
       "team2": "RBC AUBEL",
       "category": "MM - DIVISION 4 E",
       "location": "RABC ENSIVAL C",
+      "other": ""
+    },
+    {
+      "code": "411225",
+      "date": "2026-02-21",
+      "time": "19:00",
+      "team1": "RBC AUBEL",
+      "team2": "RBC WELKENRAEDT B",
+      "category": "MM - DIVISION 4 E",
+      "location": "RBC AUBEL",
       "other": ""
     },
     {
@@ -116,16 +106,6 @@
       "other": ""
     },
     {
-      "code": "524216",
-      "date": "2026-01-25",
-      "time": "11:00",
-      "team1": "HENRI-CHAPELLE B",
-      "team2": "RBC AUBEL A",
-      "category": "U 10 - MM E",
-      "location": "HENRI-CHAPELLE B",
-      "other": ""
-    },
-    {
       "code": "524232",
       "date": "2026-02-08",
       "time": "9:00",
@@ -196,16 +176,6 @@
       "other": ""
     },
     {
-      "code": "526216",
-      "date": "2026-01-24",
-      "time": "9:00",
-      "team1": "ROYAL BC NINANE B",
-      "team2": "RBC AUBEL B",
-      "category": "U 10 - MM G",
-      "location": "ROYAL BC NINANE B",
-      "other": "(Voie du Herdier Jupille)"
-    },
-    {
       "code": "526232",
       "date": "2026-02-07",
       "time": "11:00",
@@ -266,16 +236,6 @@
       "other": ""
     },
     {
-      "code": "500215",
-      "date": "2026-01-25",
-      "time": "13:00",
-      "team1": "ROYAL HERVE-BATTICE A",
-      "team2": "RBC AUBEL",
-      "category": "U 12 - MM A",
-      "location": "ROYAL HERVE-BATTICE A",
-      "other": ""
-    },
-    {
       "code": "500236",
       "date": "2026-02-07",
       "time": "9:00",
@@ -317,8 +277,8 @@
     },
     {
       "code": "500226",
-      "date": "2026-03-14",
-      "time": "12:00",
+      "date": "2026-03-15",
+      "time": "10:00",
       "team1": "RBC AUBEL",
       "team2": "HENRI-CHAPELLE A",
       "category": "U 12 - MM A",
@@ -343,16 +303,6 @@
       "team2": "BC COINTE A",
       "category": "U 12 - MM A",
       "location": "RBC AUBEL",
-      "other": ""
-    },
-    {
-      "code": "504232",
-      "date": "2026-02-07",
-      "time": "9:00",
-      "team1": "THEUX BC A",
-      "team2": "RBC AUBEL B",
-      "category": "U 12 - MM E",
-      "location": "THEUX BC A",
       "other": ""
     },
     {
@@ -406,6 +356,16 @@
       "other": ""
     },
     {
+      "code": "504232",
+      "date": "2026-04-12",
+      "time": "9:00",
+      "team1": "THEUX BC A",
+      "team2": "RBC AUBEL B",
+      "category": "U 12 - MM E",
+      "location": "THEUX BC A",
+      "other": ""
+    },
+    {
       "code": "504335",
       "date": "2026-04-18",
       "time": "10:00",
@@ -413,16 +373,6 @@
       "team2": "BBC EUPEN",
       "category": "U 12 - MM E",
       "location": "RBC AUBEL B",
-      "other": ""
-    },
-    {
-      "code": "491215",
-      "date": "2026-01-24",
-      "time": "15:00",
-      "team1": "CRISTAL SGH B",
-      "team2": "RBC AUBEL",
-      "category": "U 14 - PROV MM B",
-      "location": "CRISTAL SGH B",
       "other": ""
     },
     {
@@ -486,26 +436,6 @@
       "other": ""
     },
     {
-      "code": "590216",
-      "date": "2026-01-25",
-      "time": "11:00",
-      "team1": "ROYAL BC WANZE",
-      "team2": "RBC AUBEL",
-      "category": "U 16 - DD A",
-      "location": "ROYAL BC WANZE",
-      "other": ""
-    },
-    {
-      "code": "590225",
-      "date": "2026-01-31",
-      "time": "16:30",
-      "team1": "RBC AUBEL",
-      "team2": "ROYAL SPA BC",
-      "category": "U 16 - DD A",
-      "location": "RBC AUBEL",
-      "other": ""
-    },
-    {
       "code": "590195",
       "date": "2026-02-14",
       "time": "9:00",
@@ -546,6 +476,16 @@
       "other": ""
     },
     {
+      "code": "590225",
+      "date": "2026-03-27",
+      "time": "20:00",
+      "team1": "RBC AUBEL",
+      "team2": "ROYAL SPA BC",
+      "category": "U 16 - DD A",
+      "location": "RBC AUBEL",
+      "other": ""
+    },
+    {
       "code": "590303",
       "date": "2026-03-28",
       "time": "15:00",
@@ -573,16 +513,6 @@
       "team2": "ROYAL HERVE-BATTICE",
       "category": "U 16 - DD A",
       "location": "RBC AUBEL",
-      "other": ""
-    },
-    {
-      "code": "580214",
-      "date": "2026-01-24",
-      "time": "11:00",
-      "team1": "RBC ESNEUX",
-      "team2": "RBC AUBEL",
-      "category": "U 19 - DD A",
-      "location": "RBC ESNEUX",
       "other": ""
     },
     {
@@ -644,16 +574,6 @@
       "category": "U 19 - DD A",
       "location": "ROYAL BC NINANE",
       "other": ""
-    },
-    {
-      "code": "540216",
-      "date": "2026-01-24",
-      "time": "10:45",
-      "team1": "ROYAL BC NINANE",
-      "team2": "RBC AUBEL",
-      "category": "U 8 - MM A",
-      "location": "ROYAL BC NINANE",
-      "other": "(Voie du Herdier Jupille)"
     },
     {
       "code": "540232",

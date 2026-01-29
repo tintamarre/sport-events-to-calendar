@@ -16,16 +16,6 @@
       "other": "(Salle de Grivegnée)"
     },
     {
-      "code": "413215",
-      "date": "2026-01-25",
-      "time": "15:00",
-      "team1": "RBC ALLEUR C",
-      "team2": "HANNUT BC",
-      "category": "DD - DIVISION 1",
-      "location": "RBC ALLEUR C",
-      "other": ""
-    },
-    {
       "code": "413227",
       "date": "2026-01-31",
       "time": "19:00",
@@ -126,16 +116,6 @@
       "other": ""
     },
     {
-      "code": "401215",
-      "date": "2026-01-24",
-      "time": "18:30",
-      "team1": "RB UNION LIEGE A",
-      "team2": "HANNUT BC A",
-      "category": "MM - DIVISION 1",
-      "location": "RB UNION LIEGE A",
-      "other": ""
-    },
-    {
       "code": "401227",
       "date": "2026-01-30",
       "time": "21:00",
@@ -153,6 +133,16 @@
       "team2": "HENRI-CHAPELLE A",
       "category": "MM - DIVISION 1",
       "location": "HANNUT BC A",
+      "other": ""
+    },
+    {
+      "code": "401193",
+      "date": "2026-02-20",
+      "time": "19:00",
+      "team1": "BC BELLEFLAMME B",
+      "team2": "HANNUT BC A",
+      "category": "MM - DIVISION 1",
+      "location": "BC BELLEFLAMME B",
       "other": ""
     },
     {
@@ -223,16 +213,6 @@
       "team2": "BC COINTE B",
       "category": "MM - DIVISION 1",
       "location": "HANNUT BC A",
-      "other": ""
-    },
-    {
-      "code": "404215",
-      "date": "2026-01-24",
-      "time": "20:30",
-      "team1": "RB UNION LIEGE B",
-      "team2": "HANNUT BC B",
-      "category": "MM - DIVISION 3 A",
-      "location": "RB UNION LIEGE B",
       "other": ""
     },
     {
@@ -326,16 +306,6 @@
       "other": ""
     },
     {
-      "code": "408215",
-      "date": "2026-01-24",
-      "time": "21:00",
-      "team1": "R HT-PRE OUGREE A",
-      "team2": "HANNUT BC C",
-      "category": "MM - DIVISION 4 B",
-      "location": "R HT-PRE OUGREE A",
-      "other": ""
-    },
-    {
       "code": "408227",
       "date": "2026-01-31",
       "time": "17:00",
@@ -373,7 +343,7 @@
       "team2": "HANNUT BC C",
       "category": "MM - DIVISION 4 B",
       "location": "ROYAL BC NINANE F",
-      "other": ""
+      "other": "(Vaux/Chèvremont)"
     },
     {
       "code": "408294",
@@ -426,16 +396,6 @@
       "other": ""
     },
     {
-      "code": "531216",
-      "date": "2026-01-24",
-      "time": "14:00",
-      "team1": "HANNUT BC",
-      "team2": "CRISTAL SGH A",
-      "category": "U 10 - MM L",
-      "location": "HANNUT BC",
-      "other": ""
-    },
-    {
       "code": "531196",
       "date": "2026-02-14",
       "time": "14:00",
@@ -448,7 +408,7 @@
     {
       "code": "531276",
       "date": "2026-03-07",
-      "time": "14:00",
+      "time": "13:00",
       "team1": "HANNUT BC",
       "team2": "RBC HANEFFE B",
       "category": "U 10 - MM L",
@@ -483,16 +443,6 @@
       "team2": "HANNUT BC",
       "category": "U 10 - MM L",
       "location": "UN HUY BASKET C",
-      "other": ""
-    },
-    {
-      "code": "508215",
-      "date": "2026-01-24",
-      "time": "9:00",
-      "team1": "ABC WAREMME C",
-      "team2": "HANNUT BC",
-      "category": "U 12 - MM I",
-      "location": "ABC WAREMME C",
       "other": ""
     },
     {
@@ -576,6 +526,16 @@
       "other": ""
     },
     {
+      "code": "493053",
+      "date": "2026-03-01",
+      "time": "10:00",
+      "team1": "BCM HERSTAL",
+      "team2": "HANNUT BC",
+      "category": "U 14 - PROV MM D",
+      "location": "BCM HERSTAL",
+      "other": ""
+    },
+    {
       "code": "493066",
       "date": "2026-03-14",
       "time": "11:00",
@@ -633,16 +593,6 @@
       "team2": "RBC ESNEUX A",
       "category": "U 14 - PROV MM D",
       "location": "HANNUT BC",
-      "other": ""
-    },
-    {
-      "code": "471216",
-      "date": "2026-01-25",
-      "time": "9:00",
-      "team1": "ROYAL BC WANZE",
-      "team2": "HANNUT BC",
-      "category": "U 16 - PROV MM B",
-      "location": "ROYAL BC WANZE",
       "other": ""
     },
     {
@@ -736,16 +686,6 @@
       "other": ""
     },
     {
-      "code": "553216",
-      "date": "2026-01-24",
-      "time": "12:00",
-      "team1": "HANNUT BC",
-      "team2": "BC VERLAINE A",
-      "category": "U 7 - MM D",
-      "location": "HANNUT BC",
-      "other": ""
-    },
-    {
       "code": "553223",
       "date": "2026-01-31",
       "time": "9:00",
@@ -808,7 +748,7 @@
     {
       "code": "553321",
       "date": "2026-04-11",
-      "time": "16:30",
+      "time": "10:45",
       "team1": "RBC ALLEUR",
       "team2": "HANNUT BC",
       "category": "U 7 - MM D",

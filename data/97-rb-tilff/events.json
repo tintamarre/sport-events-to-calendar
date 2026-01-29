@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "403215",
-      "date": "2026-01-24",
-      "time": "19:00",
-      "team1": "RB TILFF B",
-      "team2": "RBC VISE B",
-      "category": "MM - DIVISION 2 B",
-      "location": "RB TILFF B",
-      "other": ""
-    },
-    {
       "code": "403221",
       "date": "2026-01-31",
       "time": "19:00",
@@ -123,16 +113,6 @@
       "team2": "RB TILFF B",
       "category": "MM - DIVISION 2 B",
       "location": "HARIMALIA BC B",
-      "other": ""
-    },
-    {
-      "code": "404211",
-      "date": "2026-01-25",
-      "time": "17:00",
-      "team1": "LA VILLERSOISE A",
-      "team2": "RB TILFF C",
-      "category": "MM - DIVISION 3 A",
-      "location": "LA VILLERSOISE A",
       "other": ""
     },
     {
@@ -256,16 +236,6 @@
       "other": ""
     },
     {
-      "code": "410215",
-      "date": "2026-01-24",
-      "time": "17:00",
-      "team1": "RB TILFF D",
-      "team2": "ORP JAUCHE B",
-      "category": "MM - DIVISION 4 D",
-      "location": "RB TILFF D",
-      "other": ""
-    },
-    {
       "code": "410221",
       "date": "2026-02-01",
       "time": "15:30",
@@ -306,16 +276,6 @@
       "other": ""
     },
     {
-      "code": "410277",
-      "date": "2026-03-07",
-      "time": "18:30",
-      "team1": "BCM HERSTAL C",
-      "team2": "RB TILFF D",
-      "category": "MM - DIVISION 4 D",
-      "location": "BCM HERSTAL C",
-      "other": ""
-    },
-    {
       "code": "410295",
       "date": "2026-03-22",
       "time": "20:00",
@@ -323,6 +283,16 @@
       "team2": "RBC AWANS C",
       "category": "MM - DIVISION 4 D",
       "location": "RB TILFF D",
+      "other": ""
+    },
+    {
+      "code": "410277",
+      "date": "2026-03-25",
+      "time": "21:00",
+      "team1": "BCM HERSTAL C",
+      "team2": "RB TILFF D",
+      "category": "MM - DIVISION 4 D",
+      "location": "BCM HERSTAL C",
       "other": ""
     },
     {
@@ -363,16 +333,6 @@
       "team2": "RB TILFF D",
       "category": "MM - DIVISION 4 D",
       "location": "HARIMALIA BC E",
-      "other": ""
-    },
-    {
-      "code": "411211",
-      "date": "2026-01-24",
-      "time": "21:00",
-      "team1": "RBC WELKENRAEDT B",
-      "team2": "RB TILFF E",
-      "category": "MM - DIVISION 4 E",
-      "location": "RBC WELKENRAEDT B",
       "other": ""
     },
     {
@@ -486,16 +446,6 @@
       "other": ""
     },
     {
-      "code": "AW103110",
-      "date": "2026-01-24",
-      "time": "21:00",
-      "team1": "RB TILFF A",
-      "team2": "ROYAL GALLIA BEEZ",
-      "category": "MM - REGIONALE 2 B",
-      "location": "RB TILFF A",
-      "other": ""
-    },
-    {
       "code": "AW103113",
       "date": "2026-01-31",
       "time": "19:00",
@@ -586,16 +536,6 @@
       "other": ""
     },
     {
-      "code": "522215",
-      "date": "2026-01-24",
-      "time": "9:30",
-      "team1": "RB TILFF A",
-      "team2": "LA VILLERSOISE B",
-      "category": "U 10 - MM C",
-      "location": "RB TILFF A",
-      "other": ""
-    },
-    {
       "code": "522221",
       "date": "2026-02-01",
       "time": "13:00",
@@ -656,26 +596,6 @@
       "other": ""
     },
     {
-      "code": "523215",
-      "date": "2026-01-24",
-      "time": "13:00",
-      "team1": "RB TILFF C",
-      "team2": "ALL. FLEMALLE A",
-      "category": "U 10 - MM D",
-      "location": "RB TILFF C",
-      "other": ""
-    },
-    {
-      "code": "523221",
-      "date": "2026-01-31",
-      "time": "9:00",
-      "team1": "ABC WAREMME A",
-      "team2": "RB TILFF C",
-      "category": "U 10 - MM D",
-      "location": "ABC WAREMME A",
-      "other": ""
-    },
-    {
       "code": "523235",
       "date": "2026-02-07",
       "time": "11:00",
@@ -683,6 +603,16 @@
       "team2": "BC SPRIMONT C",
       "category": "U 10 - MM D",
       "location": "RB TILFF C",
+      "other": ""
+    },
+    {
+      "code": "523221",
+      "date": "2026-02-21",
+      "time": "9:00",
+      "team1": "ABC WAREMME A",
+      "team2": "RB TILFF C",
+      "category": "U 10 - MM D",
+      "location": "ABC WAREMME A",
       "other": ""
     },
     {
@@ -723,16 +653,6 @@
       "team2": "RB TILFF C",
       "category": "U 10 - MM D",
       "location": "BC COINTE A",
-      "other": ""
-    },
-    {
-      "code": "526215",
-      "date": "2026-01-24",
-      "time": "13:00",
-      "team1": "RB TILFF B",
-      "team2": "R 4A AYWAILLE-HAMOIR B",
-      "category": "U 10 - MM G",
-      "location": "RB TILFF B",
       "other": ""
     },
     {
@@ -796,16 +716,6 @@
       "other": ""
     },
     {
-      "code": "529215",
-      "date": "2026-01-24",
-      "time": "11:00",
-      "team1": "RB TILFF D",
-      "team2": "LA VILLERSOISE C",
-      "category": "U 10 - MM J",
-      "location": "RB TILFF D",
-      "other": ""
-    },
-    {
       "code": "529221",
       "date": "2026-01-31",
       "time": "12:45",
@@ -856,16 +766,6 @@
       "other": ""
     },
     {
-      "code": "501221",
-      "date": "2026-01-31",
-      "time": "13:00",
-      "team1": "ABC WAREMME A",
-      "team2": "RB TILFF A",
-      "category": "U 12 - MM B",
-      "location": "ABC WAREMME A",
-      "other": ""
-    },
-    {
       "code": "501195",
       "date": "2026-02-14",
       "time": "9:00",
@@ -873,6 +773,16 @@
       "team2": "R 4A AYWAILLE-HAMOIR",
       "category": "U 12 - MM B",
       "location": "RB TILFF A",
+      "other": ""
+    },
+    {
+      "code": "501221",
+      "date": "2026-02-21",
+      "time": "9:00",
+      "team1": "ABC WAREMME A",
+      "team2": "RB TILFF A",
+      "category": "U 12 - MM B",
+      "location": "ABC WAREMME A",
       "other": ""
     },
     {
@@ -1006,16 +916,6 @@
       "other": ""
     },
     {
-      "code": "480211",
-      "date": "2026-01-24",
-      "time": "15:00",
-      "team1": "RBC VISE A",
-      "team2": "RB TILFF A",
-      "category": "U 14 - ELITES MM A",
-      "location": "RBC VISE A",
-      "other": ""
-    },
-    {
       "code": "480224",
       "date": "2026-01-31",
       "time": "9:30",
@@ -1073,16 +973,6 @@
       "team2": "HENRI-CHAPELLE",
       "category": "U 14 - ELITES MM A",
       "location": "RB TILFF A",
-      "other": ""
-    },
-    {
-      "code": "421211",
-      "date": "2026-01-24",
-      "time": "15:00",
-      "team1": "ROYAL SPA BC",
-      "team2": "RB TILFF",
-      "category": "U 21 - MM B",
-      "location": "ROYAL SPA BC",
       "other": ""
     },
     {
@@ -1176,16 +1066,6 @@
       "other": ""
     },
     {
-      "code": "550215",
-      "date": "2026-01-24",
-      "time": "9:30",
-      "team1": "RB TILFF A",
-      "team2": "ALL. FLEMALLE B",
-      "category": "U 7 - MM A",
-      "location": "RB TILFF A",
-      "other": ""
-    },
-    {
       "code": "550221",
       "date": "2026-01-31",
       "time": "9:00",
@@ -1256,19 +1136,9 @@
       "other": ""
     },
     {
-      "code": "552211",
-      "date": "2026-01-24",
-      "time": "15:00",
-      "team1": "RB TILFF B",
-      "team2": "LA VILLERSOISE B",
-      "category": "U 7 - MM C",
-      "location": "RB TILFF B",
-      "other": ""
-    },
-    {
       "code": "552225",
       "date": "2026-01-31",
-      "time": "9:30",
+      "time": "17:00",
       "team1": "CRISTAL SGH A",
       "team2": "RB TILFF B",
       "category": "U 7 - MM C",
@@ -1346,16 +1216,6 @@
       "other": ""
     },
     {
-      "code": "541214",
-      "date": "2026-01-24",
-      "time": "15:00",
-      "team1": "RB TILFF B",
-      "team2": "HARIMALIA BC",
-      "category": "U 8 - MM B",
-      "location": "RB TILFF B",
-      "other": ""
-    },
-    {
       "code": "541222",
       "date": "2026-02-22",
       "time": "11:00",
@@ -1413,16 +1273,6 @@
       "team2": "RB TILFF B",
       "category": "U 8 - MM B",
       "location": "ATLAS A JUPILLE",
-      "other": ""
-    },
-    {
-      "code": "545214",
-      "date": "2026-01-24",
-      "time": "11:00",
-      "team1": "RB TILFF A",
-      "team2": "LA VILLERSOISE",
-      "category": "U 8 - MM F",
-      "location": "RB TILFF A",
       "other": ""
     },
     {

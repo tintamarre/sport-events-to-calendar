@@ -36,16 +36,6 @@
       "other": "(Salle de Grivegnée)"
     },
     {
-      "code": "414215",
-      "date": "2026-01-24",
-      "time": "18:00",
-      "team1": "ABC WAREMME A",
-      "team2": "COLLEGE S LOUIS",
-      "category": "DD - DIVISION 2 A",
-      "location": "ABC WAREMME A",
-      "other": ""
-    },
-    {
       "code": "414221",
       "date": "2026-02-01",
       "time": "13:00",
@@ -136,26 +126,6 @@
       "other": ""
     },
     {
-      "code": "415217",
-      "date": "2026-01-24",
-      "time": "20:00",
-      "team1": "ABC WAREMME B",
-      "team2": "CRISTAL SGH A",
-      "category": "DD - DIVISION 2 B",
-      "location": "ABC WAREMME B",
-      "other": ""
-    },
-    {
-      "code": "415202",
-      "date": "2026-01-27",
-      "time": "19:00",
-      "team1": "AVENIR JUPILLE B",
-      "team2": "ABC WAREMME B",
-      "category": "DD - DIVISION 2 B",
-      "location": "AVENIR JUPILLE B",
-      "other": ""
-    },
-    {
       "code": "415226",
       "date": "2026-02-04",
       "time": "21:00",
@@ -163,7 +133,7 @@
       "team2": "ABC WAREMME B",
       "category": "DD - DIVISION 2 B",
       "location": "ROYAL BC NINANE B",
-      "other": ""
+      "other": "(Vaux/Chèvremont)"
     },
     {
       "code": "415197",
@@ -256,16 +226,6 @@
       "other": ""
     },
     {
-      "code": "416217",
-      "date": "2026-01-24",
-      "time": "19:00",
-      "team1": "ABC WAREMME C",
-      "team2": "R 4A AYWAILLE-HAMOIR B",
-      "category": "DD - DIVISION 3 A",
-      "location": "ABC WAREMME C",
-      "other": ""
-    },
-    {
       "code": "416197",
       "date": "2026-02-07",
       "time": "19:00",
@@ -336,16 +296,6 @@
       "other": ""
     },
     {
-      "code": "402214",
-      "date": "2026-01-24",
-      "time": "17:30",
-      "team1": "BC VERVIERS B",
-      "team2": "ABC WAREMME B",
-      "category": "MM - DIVISION 2 A",
-      "location": "BC VERVIERS B",
-      "other": ""
-    },
-    {
       "code": "402221",
       "date": "2026-01-30",
       "time": "20:30",
@@ -366,16 +316,6 @@
       "other": ""
     },
     {
-      "code": "402246",
-      "date": "2026-02-15",
-      "time": "15:00",
-      "team1": "ROYAL BC WANZE B",
-      "team2": "ABC WAREMME B",
-      "category": "MM - DIVISION 2 A",
-      "location": "ROYAL BC WANZE B",
-      "other": ""
-    },
-    {
       "code": "402261",
       "date": "2026-02-28",
       "time": "17:00",
@@ -393,6 +333,16 @@
       "team2": "ABC WAREMME B",
       "category": "MM - DIVISION 2 A",
       "location": "RBC AWANS A",
+      "other": ""
+    },
+    {
+      "code": "402246",
+      "date": "2026-03-12",
+      "time": "19:00",
+      "team1": "ROYAL BC WANZE B",
+      "team2": "ABC WAREMME B",
+      "category": "MM - DIVISION 2 A",
+      "location": "ROYAL BC WANZE B",
       "other": ""
     },
     {
@@ -443,16 +393,6 @@
       "team2": "ABC WAREMME B",
       "category": "MM - DIVISION 2 A",
       "location": "FLERON BBC A",
-      "other": ""
-    },
-    {
-      "code": "409217",
-      "date": "2026-01-24",
-      "time": "21:00",
-      "team1": "ABC WAREMME C",
-      "team2": "RBC CROATIA OUPEYE",
-      "category": "MM - DIVISION 4 C",
-      "location": "ABC WAREMME C",
       "other": ""
     },
     {
@@ -543,7 +483,7 @@
       "team2": "ABC WAREMME C",
       "category": "MM - DIVISION 4 C",
       "location": "ROYAL BC NINANE E",
-      "other": ""
+      "other": "(Vaux/Chèvremont)"
     },
     {
       "code": "409317",
@@ -573,16 +513,6 @@
       "team2": "ABC WAREMME C",
       "category": "MM - DIVISION 4 C",
       "location": "R REN. MONTEGNEE",
-      "other": ""
-    },
-    {
-      "code": "AW102112",
-      "date": "2026-01-24",
-      "time": "17:00",
-      "team1": "ABC WAREMME A",
-      "team2": "BCJS ESTAIMPUIS",
-      "category": "MM - REGIONALE 2 A",
-      "location": "ABC WAREMME A",
       "other": ""
     },
     {
@@ -686,26 +616,6 @@
       "other": ""
     },
     {
-      "code": "523214",
-      "date": "2026-01-24",
-      "time": "9:00",
-      "team1": "BC COINTE A",
-      "team2": "ABC WAREMME A",
-      "category": "U 10 - MM D",
-      "location": "BC COINTE A",
-      "other": ""
-    },
-    {
-      "code": "523221",
-      "date": "2026-01-31",
-      "time": "9:00",
-      "team1": "ABC WAREMME A",
-      "team2": "RB TILFF C",
-      "category": "U 10 - MM D",
-      "location": "ABC WAREMME A",
-      "other": ""
-    },
-    {
       "code": "523192",
       "date": "2026-02-14",
       "time": "13:30",
@@ -713,6 +623,16 @@
       "team2": "ABC WAREMME A",
       "category": "U 10 - MM D",
       "location": "BC SPRIMONT C",
+      "other": ""
+    },
+    {
+      "code": "523221",
+      "date": "2026-02-21",
+      "time": "9:00",
+      "team1": "ABC WAREMME A",
+      "team2": "RB TILFF C",
+      "category": "U 10 - MM D",
+      "location": "ABC WAREMME A",
       "other": ""
     },
     {
@@ -763,26 +683,6 @@
       "team2": "ORP JAUCHE",
       "category": "U 10 - MM D",
       "location": "ABC WAREMME A",
-      "other": ""
-    },
-    {
-      "code": "530214",
-      "date": "2026-01-24",
-      "time": "14:00",
-      "team1": "RBC HANEFFE A",
-      "team2": "ABC WAREMME B",
-      "category": "U 10 - MM K",
-      "location": "RBC HANEFFE A",
-      "other": ""
-    },
-    {
-      "code": "530221",
-      "date": "2026-01-31",
-      "time": "11:00",
-      "team1": "ABC WAREMME B",
-      "team2": "BC VERLAINE",
-      "category": "U 10 - MM K",
-      "location": "ABC WAREMME B",
       "other": ""
     },
     {
@@ -846,26 +746,6 @@
       "other": ""
     },
     {
-      "code": "501214",
-      "date": "2026-01-24",
-      "time": "11:30",
-      "team1": "BC COINTE B",
-      "team2": "ABC WAREMME A",
-      "category": "U 12 - MM B",
-      "location": "BC COINTE B",
-      "other": ""
-    },
-    {
-      "code": "501221",
-      "date": "2026-01-31",
-      "time": "13:00",
-      "team1": "ABC WAREMME A",
-      "team2": "RB TILFF A",
-      "category": "U 12 - MM B",
-      "location": "ABC WAREMME A",
-      "other": ""
-    },
-    {
       "code": "501231",
       "date": "2026-02-08",
       "time": "11:15",
@@ -873,6 +753,16 @@
       "team2": "ABC WAREMME A",
       "category": "U 12 - MM B",
       "location": "ALL. FLEMALLE C",
+      "other": ""
+    },
+    {
+      "code": "501221",
+      "date": "2026-02-21",
+      "time": "9:00",
+      "team1": "ABC WAREMME A",
+      "team2": "RB TILFF A",
+      "category": "U 12 - MM B",
+      "location": "ABC WAREMME A",
       "other": ""
     },
     {
@@ -923,16 +813,6 @@
       "team2": "ROYAL BC NINANE A",
       "category": "U 12 - MM B",
       "location": "ABC WAREMME A",
-      "other": ""
-    },
-    {
-      "code": "503211",
-      "date": "2026-01-24",
-      "time": "13:00",
-      "team1": "ABC WAREMME D",
-      "team2": "LA VILLERSOISE B",
-      "category": "U 12 - MM D",
-      "location": "ABC WAREMME D",
       "other": ""
     },
     {
@@ -996,16 +876,6 @@
       "other": ""
     },
     {
-      "code": "507215",
-      "date": "2026-01-24",
-      "time": "11:00",
-      "team1": "ABC WAREMME B",
-      "team2": "GIANTS BRAIVES C",
-      "category": "U 12 - MM H",
-      "location": "ABC WAREMME B",
-      "other": ""
-    },
-    {
       "code": "507221",
       "date": "2026-02-01",
       "time": "15:00",
@@ -1063,16 +933,6 @@
       "team2": "ABC WAREMME B",
       "category": "U 12 - MM H",
       "location": "RBC ALLEUR A",
-      "other": ""
-    },
-    {
-      "code": "508215",
-      "date": "2026-01-24",
-      "time": "9:00",
-      "team1": "ABC WAREMME C",
-      "team2": "HANNUT BC",
-      "category": "U 12 - MM I",
-      "location": "ABC WAREMME C",
       "other": ""
     },
     {
@@ -1136,16 +996,6 @@
       "other": ""
     },
     {
-      "code": "481211",
-      "date": "2026-01-25",
-      "time": "15:00",
-      "team1": "HARIMALIA BC A",
-      "team2": "ABC WAREMME",
-      "category": "U 14 - ELITES MM B",
-      "location": "HARIMALIA BC A",
-      "other": ""
-    },
-    {
       "code": "481194",
       "date": "2026-02-14",
       "time": "13:00",
@@ -1203,16 +1053,6 @@
       "team2": "ROYAL BC WANZE",
       "category": "U 14 - ELITES MM B",
       "location": "ABC WAREMME",
-      "other": ""
-    },
-    {
-      "code": "AW182023",
-      "date": "2026-01-24",
-      "time": "11:00",
-      "team1": "CASTORS BRAINE",
-      "team2": "ABC WAREMME",
-      "category": "U 14 - SILVER REGIONALES B",
-      "location": "CASTORS BRAINE",
       "other": ""
     },
     {
@@ -1366,16 +1206,6 @@
       "other": ""
     },
     {
-      "code": "591215",
-      "date": "2026-01-24",
-      "time": "15:00",
-      "team1": "ABC WAREMME",
-      "team2": "ROYAL BC NINANE",
-      "category": "U 16 - DD B",
-      "location": "ABC WAREMME",
-      "other": ""
-    },
-    {
       "code": "591221",
       "date": "2026-01-31",
       "time": "15:00",
@@ -1456,16 +1286,6 @@
       "other": ""
     },
     {
-      "code": "450221",
-      "date": "2026-01-31",
-      "time": "13:00",
-      "team1": "ABC WAREMME A",
-      "team2": "ROYAL MOSA AC 1941",
-      "category": "U 16 - ELITES MM A",
-      "location": "ABC WAREMME A",
-      "other": ""
-    },
-    {
       "code": "450261",
       "date": "2026-02-28",
       "time": "13:00",
@@ -1523,16 +1343,6 @@
       "team2": "ABC WAREMME A",
       "category": "U 16 - ELITES MM A",
       "location": "CRISTAL SGH B",
-      "other": ""
-    },
-    {
-      "code": "472214",
-      "date": "2026-01-24",
-      "time": "15:00",
-      "team1": "BC COINTE",
-      "team2": "ABC WAREMME B",
-      "category": "U 16 - PROV MM C",
-      "location": "BC COINTE",
       "other": ""
     },
     {
@@ -1616,19 +1426,9 @@
       "other": "(Site des 18 Bonniers)"
     },
     {
-      "code": "432216",
-      "date": "2026-01-25",
-      "time": "15:00",
-      "team1": "ROYAL BC NINANE A",
-      "team2": "ABC WAREMME A",
-      "category": "U 18 - ELITES MM C",
-      "location": "ROYAL BC NINANE A",
-      "other": "(HO sprimont)"
-    },
-    {
       "code": "432225",
-      "date": "2026-01-31",
-      "time": "13:00",
+      "date": "2026-02-21",
+      "time": "11:00",
       "team1": "ABC WAREMME A",
       "team2": "RBC ALLEUR A",
       "category": "U 18 - ELITES MM C",
@@ -1696,26 +1496,6 @@
       "other": ""
     },
     {
-      "code": "580212",
-      "date": "2026-01-24",
-      "time": "9:00",
-      "team1": "RBC AWANS",
-      "team2": "ABC WAREMME B",
-      "category": "U 19 - DD A",
-      "location": "RBC AWANS",
-      "other": ""
-    },
-    {
-      "code": "580223",
-      "date": "2026-01-31",
-      "time": "15:00",
-      "team1": "ABC WAREMME B",
-      "team2": "RBC AWANS",
-      "category": "U 19 - DD A",
-      "location": "ABC WAREMME B",
-      "other": ""
-    },
-    {
       "code": "580102",
       "date": "2026-02-14",
       "time": "13:00",
@@ -1756,6 +1536,16 @@
       "other": ""
     },
     {
+      "code": "580223",
+      "date": "2026-04-04",
+      "time": "14:00",
+      "team1": "ABC WAREMME B",
+      "team2": "RBC AWANS",
+      "category": "U 19 - DD A",
+      "location": "ABC WAREMME B",
+      "other": ""
+    },
+    {
       "code": "580323",
       "date": "2026-04-11",
       "time": "15:00",
@@ -1773,16 +1563,6 @@
       "team2": "ABC WAREMME B",
       "category": "U 19 - DD A",
       "location": "RBC WELKENRAEDT",
-      "other": ""
-    },
-    {
-      "code": "581214",
-      "date": "2026-01-24",
-      "time": "13:00",
-      "team1": "ABC WAREMME A",
-      "team2": "RBC BLEGNY",
-      "category": "U 19 - DD B",
-      "location": "ABC WAREMME A",
       "other": ""
     },
     {
@@ -1853,16 +1633,6 @@
       "team2": "ROYAL HERVE-BATTICE",
       "category": "U 19 - DD B",
       "location": "ABC WAREMME A",
-      "other": ""
-    },
-    {
-      "code": "552215",
-      "date": "2026-01-24",
-      "time": "9:00",
-      "team1": "ABC WAREMME B",
-      "team2": "GIANTS BRAIVES",
-      "category": "U 7 - MM C",
-      "location": "ABC WAREMME B",
       "other": ""
     },
     {
@@ -1953,16 +1723,6 @@
       "team2": "ABC WAREMME B",
       "category": "U 7 - MM C",
       "location": "RB TILFF B",
-      "other": ""
-    },
-    {
-      "code": "553215",
-      "date": "2026-01-24",
-      "time": "9:00",
-      "team1": "ABC WAREMME A",
-      "team2": "ALL. FLEMALLE A",
-      "category": "U 7 - MM D",
-      "location": "ABC WAREMME A",
       "other": ""
     },
     {

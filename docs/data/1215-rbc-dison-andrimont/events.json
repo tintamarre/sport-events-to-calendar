@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "414214",
-      "date": "2026-01-23",
-      "time": "20:00",
-      "team1": "RBC DISON-ANDRIMONT A",
-      "team2": "LA VILLERSOISE A",
-      "category": "DD - DIVISION 2 A",
-      "location": "RBC DISON-ANDRIMONT A",
-      "other": ""
-    },
-    {
       "code": "414222",
       "date": "2026-01-31",
       "time": "17:00",
@@ -116,31 +106,11 @@
       "other": ""
     },
     {
-      "code": "418216",
-      "date": "2026-01-25",
-      "time": "12:00",
-      "team1": "MAIL. COMBLAIN",
-      "team2": "RBC DISON-ANDRIMONT B",
-      "category": "DD - DIVISION 3 C",
-      "location": "MAIL. COMBLAIN",
-      "other": ""
-    },
-    {
       "code": "418226",
       "date": "2026-01-31",
       "time": "17:00",
       "team1": "RBC DISON-ANDRIMONT B",
       "team2": "RBC VISE B",
-      "category": "DD - DIVISION 3 C",
-      "location": "RBC DISON-ANDRIMONT B",
-      "other": ""
-    },
-    {
-      "code": "418266",
-      "date": "2026-02-07",
-      "time": "21:00",
-      "team1": "RBC DISON-ANDRIMONT B",
-      "team2": "DF BC MALMEDY",
       "category": "DD - DIVISION 3 C",
       "location": "RBC DISON-ANDRIMONT B",
       "other": ""
@@ -153,6 +123,16 @@
       "team2": "RBC DISON-ANDRIMONT B",
       "category": "DD - DIVISION 3 C",
       "location": "RBC WELKENRAEDT",
+      "other": ""
+    },
+    {
+      "code": "418266",
+      "date": "2026-02-20",
+      "time": "20:00",
+      "team1": "RBC DISON-ANDRIMONT B",
+      "team2": "DF BC MALMEDY",
+      "category": "DD - DIVISION 3 C",
+      "location": "RBC DISON-ANDRIMONT B",
       "other": ""
     },
     {
@@ -193,16 +173,6 @@
       "team2": "HENRI-CHAPELLE C",
       "category": "DD - DIVISION 3 C",
       "location": "RBC DISON-ANDRIMONT B",
-      "other": ""
-    },
-    {
-      "code": "403216",
-      "date": "2026-01-25",
-      "time": "16:00",
-      "team1": "BC VERVIERS C",
-      "team2": "RBC DISON-ANDRIMONT A",
-      "category": "MM - DIVISION 2 B",
-      "location": "BC VERVIERS C",
       "other": ""
     },
     {
@@ -314,16 +284,6 @@
       "category": "MM - DIVISION 2 B",
       "location": "RBC DISON-ANDRIMONT A",
       "other": ""
-    },
-    {
-      "code": "405216",
-      "date": "2026-01-24",
-      "time": "17:00",
-      "team1": "ROYAL BC NINANE C",
-      "team2": "RBC DISON-ANDRIMONT B",
-      "category": "MM - DIVISION 3 B",
-      "location": "ROYAL BC NINANE C",
-      "other": "(Salle de Sprimont)"
     },
     {
       "code": "405226",
@@ -658,7 +618,7 @@
     {
       "code": "525232",
       "date": "2026-02-08",
-      "time": "15:00",
+      "time": "11:00",
       "team1": "THEUX BC A",
       "team2": "RBC DISON-ANDRIMONT A",
       "category": "U 10 - MM F",
@@ -723,16 +683,6 @@
       "team2": "RBC DISON-ANDRIMONT A",
       "category": "U 10 - MM F",
       "location": "ROYAL HERVE-BATTICE E",
-      "other": ""
-    },
-    {
-      "code": "527216",
-      "date": "2026-01-24",
-      "time": "14:00",
-      "team1": "R HT-PRE OUGREE B",
-      "team2": "RBC DISON-ANDRIMONT B",
-      "category": "U 10 - MM H",
-      "location": "R HT-PRE OUGREE B",
       "other": ""
     },
     {
@@ -1233,16 +1183,6 @@
       "team2": "RBC DISON-ANDRIMONT",
       "category": "U 16 - PROV MM A",
       "location": "ATLAS A JUPILLE B",
-      "other": ""
-    },
-    {
-      "code": "541211",
-      "date": "2026-01-24",
-      "time": "9:00",
-      "team1": "ROYAL SPA BC B",
-      "team2": "RBC DISON-ANDRIMONT",
-      "category": "U 8 - MM B",
-      "location": "ROYAL SPA BC B",
       "other": ""
     },
     {

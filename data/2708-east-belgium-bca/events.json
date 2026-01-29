@@ -26,16 +26,6 @@
       "other": "(Salle Waremme)"
     },
     {
-      "code": "AW179022",
-      "date": "2026-01-24",
-      "time": "15:30",
-      "team1": "TOURNAI WAPITI",
-      "team2": "EAST BELGIUM BCA",
-      "category": "U 14 - GOLD REGIONALES A",
-      "location": "TOURNAI WAPITI",
-      "other": ""
-    },
-    {
       "code": "AW179012",
       "date": "2026-02-08",
       "time": "15:30",
@@ -57,8 +47,8 @@
     },
     {
       "code": "AW179029",
-      "date": "2026-03-08",
-      "time": "12:15",
+      "date": "2026-03-07",
+      "time": "15:45",
       "team1": "ROYAL BC CINEY",
       "team2": "EAST BELGIUM BCA",
       "category": "U 14 - GOLD REGIONALES A",
@@ -112,16 +102,6 @@
       "team1": "EAST BELGIUM BCA",
       "team2": "TOURNAI WAPITI",
       "category": "U 14 - GOLD REGIONALES A",
-      "location": "EAST BELGIUM BCA",
-      "other": ""
-    },
-    {
-      "code": "AW167022",
-      "date": "2026-01-24",
-      "time": "14:30",
-      "team1": "EAST BELGIUM BCA",
-      "team2": "R UAA ETTERBEEK",
-      "category": "U 14 - SILVER REGIONAUX E",
       "location": "EAST BELGIUM BCA",
       "other": ""
     },
@@ -296,16 +276,6 @@
       "other": ""
     },
     {
-      "code": "AW176023",
-      "date": "2026-01-24",
-      "time": "13:30",
-      "team1": "TOURNAI WAPITI",
-      "team2": "EAST BELGIUM BCA",
-      "category": "U 16 - GOLD REGIONALES B",
-      "location": "TOURNAI WAPITI",
-      "other": ""
-    },
-    {
       "code": "AW176012",
       "date": "2026-02-08",
       "time": "15:00",
@@ -386,16 +356,6 @@
       "other": ""
     },
     {
-      "code": "AW156022",
-      "date": "2026-01-24",
-      "time": "13:00",
-      "team1": "EAST BELGIUM BCA",
-      "team2": "CASTORS BRAINE",
-      "category": "U 16 - GOLD REGIONAUX B",
-      "location": "EAST BELGIUM BCA",
-      "other": ""
-    },
-    {
       "code": "AW156026",
       "date": "2026-01-31",
       "time": "13:00",
@@ -463,16 +423,6 @@
       "team2": "EAST BELGIUM BCA",
       "category": "U 16 - GOLD REGIONAUX B",
       "location": "CASTORS BRAINE",
-      "other": ""
-    },
-    {
-      "code": "AW158023",
-      "date": "2026-01-24",
-      "time": "12:30",
-      "team1": "EAST BELGIUM BCA",
-      "team2": "AS ST AUGUSTIN",
-      "category": "U 16 - SILVER REGIONAUX B",
-      "location": "EAST BELGIUM BCA",
       "other": ""
     },
     {
@@ -646,16 +596,6 @@
       "other": ""
     },
     {
-      "code": "INJ1812BBA",
-      "date": "2026-01-25",
-      "time": "17:00",
-      "team1": "ATLAS A JUPILLE",
-      "team2": "EAST BELGIUM BCA",
-      "category": "U 18 MM - NATIONAUX B",
-      "location": "ATLAS A JUPILLE",
-      "other": ""
-    },
-    {
       "code": "INJ1812BAD",
       "date": "2026-02-08",
       "time": "11:00",
@@ -693,6 +633,16 @@
       "team2": "EAST BELGIUM BCA",
       "category": "U 18 MM - NATIONAUX B",
       "location": "BC OOSTENDE",
+      "other": ""
+    },
+    {
+      "code": "INJ1812BAF",
+      "date": "2026-03-21",
+      "time": "13:00",
+      "team1": "EAST BELGIUM BCA",
+      "team2": "BC OOSTENDE",
+      "category": "U 18 MM - NATIONAUX B",
+      "location": "EAST BELGIUM BCA",
       "other": ""
     },
     {

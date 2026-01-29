@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "413036",
-      "date": "2026-01-24",
-      "time": "19:00",
-      "team1": "R HT-PRE OUGREE A",
-      "team2": "HENRI-CHAPELLE",
-      "category": "DD - DIVISION 1",
-      "location": "R HT-PRE OUGREE A",
-      "other": ""
-    },
-    {
       "code": "413226",
       "date": "2026-01-31",
       "time": "19:00",
@@ -186,6 +176,16 @@
       "other": ""
     },
     {
+      "code": "417182",
+      "date": "2026-04-07",
+      "time": "19:00",
+      "team1": "ROYAL BASKET OTHEE",
+      "team2": "R HT-PRE OUGREE B",
+      "category": "DD - DIVISION 3 B",
+      "location": "ROYAL BASKET OTHEE",
+      "other": ""
+    },
+    {
       "code": "417326",
       "date": "2026-04-11",
       "time": "19:00",
@@ -203,16 +203,6 @@
       "team2": "R HT-PRE OUGREE B",
       "category": "DD - DIVISION 3 B",
       "location": "RBC AWANS",
-      "other": ""
-    },
-    {
-      "code": "408215",
-      "date": "2026-01-24",
-      "time": "21:00",
-      "team1": "R HT-PRE OUGREE A",
-      "team2": "HANNUT BC C",
-      "category": "MM - DIVISION 4 B",
-      "location": "R HT-PRE OUGREE A",
       "other": ""
     },
     {
@@ -326,16 +316,6 @@
       "other": ""
     },
     {
-      "code": "410216",
-      "date": "2026-01-24",
-      "time": "21:00",
-      "team1": "GIANTS BRAIVES B",
-      "team2": "R HT-PRE OUGREE B",
-      "category": "MM - DIVISION 4 D",
-      "location": "GIANTS BRAIVES B",
-      "other": ""
-    },
-    {
       "code": "410226",
       "date": "2026-01-31",
       "time": "21:00",
@@ -436,16 +416,6 @@
       "other": ""
     },
     {
-      "code": "527216",
-      "date": "2026-01-24",
-      "time": "14:00",
-      "team1": "R HT-PRE OUGREE B",
-      "team2": "RBC DISON-ANDRIMONT B",
-      "category": "U 10 - MM H",
-      "location": "R HT-PRE OUGREE B",
-      "other": ""
-    },
-    {
       "code": "527223",
       "date": "2026-01-31",
       "time": "12:00",
@@ -526,16 +496,6 @@
       "other": ""
     },
     {
-      "code": "610215",
-      "date": "2026-01-24",
-      "time": "13:00",
-      "team1": "CRISTAL SGH",
-      "team2": "R HT-PRE OUGREE",
-      "category": "U 12 - DD",
-      "location": "CRISTAL SGH",
-      "other": ""
-    },
-    {
       "code": "610193",
       "date": "2026-02-14",
       "time": "11:00",
@@ -596,16 +556,6 @@
       "other": ""
     },
     {
-      "code": "505215",
-      "date": "2026-01-24",
-      "time": "9:30",
-      "team1": "ROYAL MOSA AC 1941 B",
-      "team2": "R HT-PRE OUGREE B",
-      "category": "U 12 - MM F",
-      "location": "ROYAL MOSA AC 1941 B",
-      "other": ""
-    },
-    {
       "code": "505226",
       "date": "2026-01-31",
       "time": "14:30",
@@ -663,16 +613,6 @@
       "team2": "HARIMALIA BC B",
       "category": "U 12 - MM F",
       "location": "R HT-PRE OUGREE B",
-      "other": ""
-    },
-    {
-      "code": "470216",
-      "date": "2026-01-24",
-      "time": "12:00",
-      "team1": "R HT-PRE OUGREE",
-      "team2": "BBC EUPEN",
-      "category": "U 16 - PROV MM A",
-      "location": "R HT-PRE OUGREE",
       "other": ""
     },
     {
@@ -766,16 +706,6 @@
       "other": ""
     },
     {
-      "code": "421214",
-      "date": "2026-01-24",
-      "time": "17:00",
-      "team1": "R 4A AYWAILLE-HAMOIR",
-      "team2": "R HT-PRE OUGREE",
-      "category": "U 21 - MM B",
-      "location": "R 4A AYWAILLE-HAMOIR",
-      "other": ""
-    },
-    {
       "code": "421221",
       "date": "2026-01-31",
       "time": "16:30",
@@ -783,16 +713,6 @@
       "team2": "R 4A AYWAILLE-HAMOIR",
       "category": "U 21 - MM B",
       "location": "R HT-PRE OUGREE",
-      "other": ""
-    },
-    {
-      "code": "421232",
-      "date": "2026-02-07",
-      "time": "15:00",
-      "team1": "CRISTAL SGH",
-      "team2": "R HT-PRE OUGREE",
-      "category": "U 21 - MM B",
-      "location": "CRISTAL SGH",
       "other": ""
     },
     {
@@ -804,6 +724,16 @@
       "category": "U 21 - MM B",
       "location": "R HT-PRE OUGREE",
       "other": ""
+    },
+    {
+      "code": "421232",
+      "date": "2026-02-28",
+      "time": "15:00",
+      "team1": "CRISTAL SGH",
+      "team2": "R HT-PRE OUGREE",
+      "category": "U 21 - MM B",
+      "location": "CRISTAL SGH",
+      "other": "(Ho la troque seraing)"
     },
     {
       "code": "421271",
@@ -853,16 +783,6 @@
       "team2": "R HT-PRE OUGREE",
       "category": "U 21 - MM B",
       "location": "ROYAL ANS BC",
-      "other": ""
-    },
-    {
-      "code": "551216",
-      "date": "2026-01-24",
-      "time": "10:00",
-      "team1": "R HT-PRE OUGREE",
-      "team2": "R 4A AYWAILLE-HAMOIR B",
-      "category": "U 7 - MM B",
-      "location": "R HT-PRE OUGREE",
       "other": ""
     },
     {
@@ -933,16 +853,6 @@
       "team2": "R HT-PRE OUGREE",
       "category": "U 7 - MM B",
       "location": "BC VERLAINE B",
-      "other": ""
-    },
-    {
-      "code": "542216",
-      "date": "2026-01-24",
-      "time": "10:00",
-      "team1": "R HT-PRE OUGREE",
-      "team2": "R 4A AYWAILLE-HAMOIR B",
-      "category": "U 8 - MM C",
-      "location": "R HT-PRE OUGREE",
       "other": ""
     },
     {

@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "418211",
-      "date": "2026-01-24",
-      "time": "17:00",
-      "team1": "RBC WELKENRAEDT",
-      "team2": "PRAYON TROOZ C",
-      "category": "DD - DIVISION 3 C",
-      "location": "RBC WELKENRAEDT",
-      "other": ""
-    },
-    {
       "code": "418225",
       "date": "2026-01-31",
       "time": "17:00",
@@ -83,16 +73,6 @@
       "team2": "HENRI-CHAPELLE C",
       "category": "DD - DIVISION 3 C",
       "location": "RBC WELKENRAEDT",
-      "other": ""
-    },
-    {
-      "code": "406211",
-      "date": "2026-01-24",
-      "time": "19:00",
-      "team1": "RBC WELKENRAEDT A",
-      "team2": "BC SANKT VITH",
-      "category": "MM - DIVISION 3 C",
-      "location": "RBC WELKENRAEDT A",
       "other": ""
     },
     {
@@ -196,26 +176,6 @@
       "other": ""
     },
     {
-      "code": "411211",
-      "date": "2026-01-24",
-      "time": "21:00",
-      "team1": "RBC WELKENRAEDT B",
-      "team2": "RB TILFF E",
-      "category": "MM - DIVISION 4 E",
-      "location": "RBC WELKENRAEDT B",
-      "other": ""
-    },
-    {
-      "code": "411225",
-      "date": "2026-02-01",
-      "time": "12:00",
-      "team1": "RBC AUBEL",
-      "team2": "RBC WELKENRAEDT B",
-      "category": "MM - DIVISION 4 E",
-      "location": "RBC AUBEL",
-      "other": ""
-    },
-    {
       "code": "411191",
       "date": "2026-02-08",
       "time": "15:00",
@@ -223,6 +183,16 @@
       "team2": "RABC ENSIVAL C",
       "category": "MM - DIVISION 4 E",
       "location": "RBC WELKENRAEDT B",
+      "other": ""
+    },
+    {
+      "code": "411225",
+      "date": "2026-02-21",
+      "time": "19:00",
+      "team1": "RBC AUBEL",
+      "team2": "RBC WELKENRAEDT B",
+      "category": "MM - DIVISION 4 E",
+      "location": "RBC AUBEL",
       "other": ""
     },
     {
@@ -283,16 +253,6 @@
       "team2": "R 4A AYWAILLE-HAMOIR D",
       "category": "MM - DIVISION 4 E",
       "location": "RBC WELKENRAEDT B",
-      "other": ""
-    },
-    {
-      "code": "490211",
-      "date": "2026-01-25",
-      "time": "9:30",
-      "team1": "RBC WELKENRAEDT",
-      "team2": "BC SANKT VITH",
-      "category": "U 14 - PROV MM A",
-      "location": "RBC WELKENRAEDT",
       "other": ""
     },
     {
@@ -362,16 +322,6 @@
       "team1": "RBC WELKENRAEDT",
       "team2": "RBC BLEGNY A",
       "category": "U 14 - PROV MM A",
-      "location": "RBC WELKENRAEDT",
-      "other": ""
-    },
-    {
-      "code": "470211",
-      "date": "2026-01-25",
-      "time": "11:30",
-      "team1": "RBC WELKENRAEDT",
-      "team2": "PRAYON TROOZ B",
-      "category": "U 16 - PROV MM A",
       "location": "RBC WELKENRAEDT",
       "other": ""
     },
@@ -453,16 +403,6 @@
       "team2": "RBC WELKENRAEDT",
       "category": "U 16 - PROV MM A",
       "location": "ATLAS A JUPILLE B",
-      "other": ""
-    },
-    {
-      "code": "440212",
-      "date": "2026-01-24",
-      "time": "15:00",
-      "team1": "RBC WELKENRAEDT",
-      "team2": "BCM HERSTAL",
-      "category": "U 18 - PROV MM",
-      "location": "RBC WELKENRAEDT",
       "other": ""
     },
     {

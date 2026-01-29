@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "403217",
-      "date": "2026-01-25",
-      "time": "13:00",
-      "team1": "RBC ALLEUR B",
-      "team2": "ROYAL MOSA AC 1941 A",
-      "category": "MM - DIVISION 2 B",
-      "location": "RBC ALLEUR B",
-      "other": ""
-    },
-    {
       "code": "403225",
       "date": "2026-02-01",
       "time": "11:30",
@@ -116,16 +106,6 @@
       "other": ""
     },
     {
-      "code": "407217",
-      "date": "2026-01-24",
-      "time": "18:30",
-      "team1": "RBC ALLEUR D",
-      "team2": "ROYAL MOSA AC 1941 B",
-      "category": "MM - DIVISION 4 A",
-      "location": "RBC ALLEUR D",
-      "other": ""
-    },
-    {
       "code": "407225",
       "date": "2026-02-01",
       "time": "13:30",
@@ -163,7 +143,7 @@
       "team2": "ROYAL MOSA AC 1941 B",
       "category": "MM - DIVISION 4 A",
       "location": "ROYAL BC NINANE D",
-      "other": ""
+      "other": "(Vaux/Chèvremont)"
     },
     {
       "code": "407275",
@@ -223,16 +203,6 @@
       "team2": "LA VILLERSOISE C",
       "category": "MM - DIVISION 4 A",
       "location": "ROYAL MOSA AC 1941 B",
-      "other": ""
-    },
-    {
-      "code": "530216",
-      "date": "2026-01-25",
-      "time": "9:00",
-      "team1": "ROYAL BC WANZE B",
-      "team2": "ROYAL MOSA AC 1941",
-      "category": "U 10 - MM K",
-      "location": "ROYAL BC WANZE B",
       "other": ""
     },
     {
@@ -296,16 +266,6 @@
       "other": ""
     },
     {
-      "code": "500216",
-      "date": "2026-01-24",
-      "time": "10:45",
-      "team1": "RBC BLEGNY",
-      "team2": "ROYAL MOSA AC 1941 A",
-      "category": "U 12 - MM A",
-      "location": "RBC BLEGNY",
-      "other": ""
-    },
-    {
       "code": "500232",
       "date": "2026-02-07",
       "time": "11:00",
@@ -366,16 +326,6 @@
       "other": ""
     },
     {
-      "code": "505215",
-      "date": "2026-01-24",
-      "time": "9:30",
-      "team1": "ROYAL MOSA AC 1941 B",
-      "team2": "R HT-PRE OUGREE B",
-      "category": "U 12 - MM F",
-      "location": "ROYAL MOSA AC 1941 B",
-      "other": ""
-    },
-    {
       "code": "505221",
       "date": "2026-02-01",
       "time": "9:00",
@@ -423,16 +373,6 @@
       "team2": "ROYAL MOSA AC 1941 B",
       "category": "U 12 - MM F",
       "location": "HARIMALIA BC B",
-      "other": ""
-    },
-    {
-      "code": "491216",
-      "date": "2026-01-24",
-      "time": "11:30",
-      "team1": "ROYAL MOSA AC 1941",
-      "team2": "ROYAL BC NINANE B",
-      "category": "U 14 - PROV MM B",
-      "location": "ROYAL MOSA AC 1941",
       "other": ""
     },
     {
@@ -503,26 +443,6 @@
       "team2": "RBC VISE B",
       "category": "U 14 - PROV MM B",
       "location": "ROYAL MOSA AC 1941",
-      "other": ""
-    },
-    {
-      "code": "450215",
-      "date": "2026-01-24",
-      "time": "13:30",
-      "team1": "ROYAL MOSA AC 1941",
-      "team2": "GIANTS BRAIVES A",
-      "category": "U 16 - ELITES MM A",
-      "location": "ROYAL MOSA AC 1941",
-      "other": ""
-    },
-    {
-      "code": "450221",
-      "date": "2026-01-31",
-      "time": "13:00",
-      "team1": "ABC WAREMME A",
-      "team2": "ROYAL MOSA AC 1941",
-      "category": "U 16 - ELITES MM A",
-      "location": "ABC WAREMME A",
       "other": ""
     },
     {

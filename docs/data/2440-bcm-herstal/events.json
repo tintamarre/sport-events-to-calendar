@@ -66,6 +66,16 @@
       "other": ""
     },
     {
+      "code": "416152",
+      "date": "2026-03-25",
+      "time": "20:00",
+      "team1": "BCM HERSTAL",
+      "team2": "ROYAL BC WANZE",
+      "category": "DD - DIVISION 3 A",
+      "location": "BCM HERSTAL",
+      "other": ""
+    },
+    {
       "code": "416305",
       "date": "2026-03-28",
       "time": "17:00",
@@ -163,7 +173,7 @@
       "team2": "BCM HERSTAL A",
       "category": "MM - DIVISION 3 B",
       "location": "ROYAL BC NINANE C",
-      "other": ""
+      "other": "(Vaux/Chèvremont)"
     },
     {
       "code": "405317",
@@ -273,7 +283,7 @@
       "team2": "BCM HERSTAL B",
       "category": "MM - DIVISION 4 B",
       "location": "ROYAL BC NINANE F",
-      "other": ""
+      "other": "(Vaux/Chèvremont)"
     },
     {
       "code": "408317",
@@ -336,16 +346,6 @@
       "other": ""
     },
     {
-      "code": "410277",
-      "date": "2026-03-07",
-      "time": "18:30",
-      "team1": "BCM HERSTAL C",
-      "team2": "RB TILFF D",
-      "category": "MM - DIVISION 4 D",
-      "location": "BCM HERSTAL C",
-      "other": ""
-    },
-    {
       "code": "410217",
       "date": "2026-03-14",
       "time": "18:30",
@@ -371,6 +371,16 @@
       "time": "18:30",
       "team1": "BCM HERSTAL C",
       "team2": "BC TORES LIEGE",
+      "category": "MM - DIVISION 4 D",
+      "location": "BCM HERSTAL C",
+      "other": ""
+    },
+    {
+      "code": "410277",
+      "date": "2026-03-25",
+      "time": "21:00",
+      "team1": "BCM HERSTAL C",
+      "team2": "RB TILFF D",
       "category": "MM - DIVISION 4 D",
       "location": "BCM HERSTAL C",
       "other": ""
@@ -413,16 +423,6 @@
       "team2": "BCM HERSTAL C",
       "category": "MM - DIVISION 4 D",
       "location": "BC COINTE D",
-      "other": ""
-    },
-    {
-      "code": "526212",
-      "date": "2026-01-24",
-      "time": "11:00",
-      "team1": "PEPINSTER EAST BELG C",
-      "team2": "BCM HERSTAL",
-      "category": "U 10 - MM G",
-      "location": "PEPINSTER EAST BELG C",
       "other": ""
     },
     {
@@ -486,13 +486,13 @@
       "other": ""
     },
     {
-      "code": "505212",
-      "date": "2026-01-24",
-      "time": "11:00",
-      "team1": "PEPINSTER EAST BELG A",
-      "team2": "BCM HERSTAL A",
-      "category": "U 12 - MM F",
-      "location": "PEPINSTER EAST BELG A",
+      "code": "526233",
+      "date": "2026-04-18",
+      "time": "9:00",
+      "team1": "BCM HERSTAL",
+      "team2": "PRAYON TROOZ A",
+      "category": "U 10 - MM G",
+      "location": "BCM HERSTAL",
       "other": ""
     },
     {
@@ -553,16 +553,6 @@
       "team2": "RABC ENSIVAL A",
       "category": "U 12 - MM F",
       "location": "BCM HERSTAL A",
-      "other": ""
-    },
-    {
-      "code": "506212",
-      "date": "2026-01-24",
-      "time": "9:00",
-      "team1": "PEPINSTER EAST BELG B",
-      "team2": "BCM HERSTAL B",
-      "category": "U 12 - MM G",
-      "location": "PEPINSTER EAST BELG B",
       "other": ""
     },
     {
@@ -726,16 +716,6 @@
       "other": ""
     },
     {
-      "code": "493212",
-      "date": "2026-01-25",
-      "time": "13:00",
-      "team1": "ROYAL ANS BC",
-      "team2": "BCM HERSTAL",
-      "category": "U 14 - PROV MM D",
-      "location": "ROYAL ANS BC",
-      "other": ""
-    },
-    {
       "code": "493226",
       "date": "2026-01-31",
       "time": "11:00",
@@ -763,6 +743,16 @@
       "team2": "BCM HERSTAL",
       "category": "U 14 - PROV MM D",
       "location": "RBC ESNEUX A",
+      "other": ""
+    },
+    {
+      "code": "493053",
+      "date": "2026-03-01",
+      "time": "10:00",
+      "team1": "BCM HERSTAL",
+      "team2": "HANNUT BC",
+      "category": "U 14 - PROV MM D",
+      "location": "BCM HERSTAL",
       "other": ""
     },
     {
@@ -916,16 +906,6 @@
       "other": "(Salle de Fourons)"
     },
     {
-      "code": "470212",
-      "date": "2026-01-25",
-      "time": "9:00",
-      "team1": "PEPINSTER EAST BELG B",
-      "team2": "BCM HERSTAL",
-      "category": "U 16 - PROV MM A",
-      "location": "PEPINSTER EAST BELG B",
-      "other": ""
-    },
-    {
       "code": "470226",
       "date": "2026-01-31",
       "time": "13:00",
@@ -986,6 +966,16 @@
       "other": ""
     },
     {
+      "code": "470233",
+      "date": "2026-04-05",
+      "time": "14:00",
+      "team1": "BCM HERSTAL",
+      "team2": "PRAYON TROOZ B",
+      "category": "U 16 - PROV MM A",
+      "location": "BCM HERSTAL",
+      "other": ""
+    },
+    {
       "code": "470323",
       "date": "2026-04-11",
       "time": "15:00",
@@ -1016,16 +1006,6 @@
       "other": ""
     },
     {
-      "code": "440212",
-      "date": "2026-01-24",
-      "time": "15:00",
-      "team1": "RBC WELKENRAEDT",
-      "team2": "BCM HERSTAL",
-      "category": "U 18 - PROV MM",
-      "location": "RBC WELKENRAEDT",
-      "other": ""
-    },
-    {
       "code": "440227",
       "date": "2026-02-01",
       "time": "13:00",
@@ -1033,16 +1013,6 @@
       "team2": "BCM HERSTAL",
       "category": "U 18 - PROV MM",
       "location": "ROYAL BC NINANE B",
-      "other": ""
-    },
-    {
-      "code": "440113",
-      "date": "2026-02-21",
-      "time": "16:30",
-      "team1": "BCM HERSTAL",
-      "team2": "RBC AWANS B",
-      "category": "U 18 - PROV MM",
-      "location": "BCM HERSTAL",
       "other": ""
     },
     {
@@ -1061,6 +1031,16 @@
       "time": "16:30",
       "team1": "BCM HERSTAL",
       "team2": "RBC WELKENRAEDT",
+      "category": "U 18 - PROV MM",
+      "location": "BCM HERSTAL",
+      "other": ""
+    },
+    {
+      "code": "440243",
+      "date": "2026-03-18",
+      "time": "18:30",
+      "team1": "BCM HERSTAL",
+      "team2": "MARCHIN BASKET",
       "category": "U 18 - PROV MM",
       "location": "BCM HERSTAL",
       "other": ""
@@ -1116,13 +1096,13 @@
       "other": ""
     },
     {
-      "code": "541212",
-      "date": "2026-01-25",
-      "time": "9:00",
-      "team1": "RBC VISE A",
-      "team2": "BCM HERSTAL",
-      "category": "U 8 - MM B",
-      "location": "RBC VISE A",
+      "code": "440113",
+      "date": "2026-04-19",
+      "time": "10:00",
+      "team1": "BCM HERSTAL",
+      "team2": "RBC AWANS B",
+      "category": "U 18 - PROV MM",
+      "location": "BCM HERSTAL",
       "other": ""
     },
     {

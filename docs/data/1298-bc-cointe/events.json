@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "AW106112",
-      "date": "2026-01-23",
-      "time": "20:30",
-      "team1": "RBC ALLEUR B",
-      "team2": "BC COINTE A",
-      "category": "DD - REGIONALE 2 B",
-      "location": "RBC ALLEUR B",
-      "other": ""
-    },
-    {
       "code": "AW106117",
       "date": "2026-01-31",
       "time": "17:00",
@@ -56,11 +46,31 @@
       "other": ""
     },
     {
+      "code": "AW106047",
+      "date": "2026-03-04",
+      "time": "21:00",
+      "team1": "BC COINTE A",
+      "team2": "REBOND OTTIGNIES",
+      "category": "DD - REGIONALE 2 B",
+      "location": "BC COINTE A",
+      "other": ""
+    },
+    {
       "code": "AW106152",
       "date": "2026-03-07",
       "time": "17:00",
       "team1": "BC COINTE A",
       "team2": "NAMUR CAPITALE",
+      "category": "DD - REGIONALE 2 B",
+      "location": "BC COINTE A",
+      "other": ""
+    },
+    {
+      "code": "AW106068",
+      "date": "2026-03-11",
+      "time": "21:00",
+      "team1": "BC COINTE A",
+      "team2": "RCS NATOYE",
       "category": "DD - REGIONALE 2 B",
       "location": "BC COINTE A",
       "other": ""
@@ -116,16 +126,6 @@
       "other": ""
     },
     {
-      "code": "401214",
-      "date": "2026-01-24",
-      "time": "21:00",
-      "team1": "BC COINTE B",
-      "team2": "ALL. FLEMALLE A",
-      "category": "MM - DIVISION 1",
-      "location": "BC COINTE B",
-      "other": ""
-    },
-    {
       "code": "401222",
       "date": "2026-02-01",
       "time": "10:00",
@@ -133,16 +133,6 @@
       "team2": "BC COINTE B",
       "category": "MM - DIVISION 1",
       "location": "RABC ENSIVAL A",
-      "other": ""
-    },
-    {
-      "code": "401194",
-      "date": "2026-02-07",
-      "time": "21:00",
-      "team1": "BC COINTE B",
-      "team2": "CRISTAL SGH A",
-      "category": "MM - DIVISION 1",
-      "location": "BC COINTE B",
       "other": ""
     },
     {
@@ -173,6 +163,16 @@
       "team2": "BC COINTE B",
       "category": "MM - DIVISION 1",
       "location": "THEUX BC A",
+      "other": ""
+    },
+    {
+      "code": "401194",
+      "date": "2026-03-14",
+      "time": "21:00",
+      "team1": "BC COINTE B",
+      "team2": "CRISTAL SGH A",
+      "category": "MM - DIVISION 1",
+      "location": "BC COINTE B",
       "other": ""
     },
     {
@@ -223,16 +223,6 @@
       "team2": "BC COINTE B",
       "category": "MM - DIVISION 1",
       "location": "HANNUT BC A",
-      "other": ""
-    },
-    {
-      "code": "406214",
-      "date": "2026-01-24",
-      "time": "17:00",
-      "team1": "BC COINTE C",
-      "team2": "RBC VISE C",
-      "category": "MM - DIVISION 3 C",
-      "location": "BC COINTE C",
       "other": ""
     },
     {
@@ -346,16 +336,6 @@
       "other": ""
     },
     {
-      "code": "410211",
-      "date": "2026-01-25",
-      "time": "11:00",
-      "team1": "HARIMALIA BC E",
-      "team2": "BC COINTE D",
-      "category": "MM - DIVISION 4 D",
-      "location": "HARIMALIA BC E",
-      "other": ""
-    },
-    {
       "code": "410224",
       "date": "2026-01-31",
       "time": "19:00",
@@ -443,16 +423,6 @@
       "team2": "BCM HERSTAL C",
       "category": "MM - DIVISION 4 D",
       "location": "BC COINTE D",
-      "other": ""
-    },
-    {
-      "code": "NAHSE21AGB",
-      "date": "2026-01-24",
-      "time": "19:00",
-      "team1": "BC COINTE A",
-      "team2": "K ST-TRUIDENSE BB",
-      "category": "TOP DIVISION MEN 2 A",
-      "location": "BC COINTE A",
       "other": ""
     },
     {
@@ -553,16 +523,6 @@
       "team2": "BC COINTE A",
       "category": "TOP DIVISION MEN 2 A",
       "location": "BASKET SIJSELE",
-      "other": ""
-    },
-    {
-      "code": "523214",
-      "date": "2026-01-24",
-      "time": "9:00",
-      "team1": "BC COINTE A",
-      "team2": "ABC WAREMME A",
-      "category": "U 10 - MM D",
-      "location": "BC COINTE A",
       "other": ""
     },
     {
@@ -766,16 +726,6 @@
       "other": ""
     },
     {
-      "code": "610211",
-      "date": "2026-01-24",
-      "time": "12:45",
-      "team1": "ALL. FLEMALLE",
-      "team2": "BC COINTE",
-      "category": "U 12 - DD",
-      "location": "ALL. FLEMALLE",
-      "other": ""
-    },
-    {
       "code": "610224",
       "date": "2026-01-31",
       "time": "9:00",
@@ -906,16 +856,6 @@
       "other": ""
     },
     {
-      "code": "501214",
-      "date": "2026-01-24",
-      "time": "11:30",
-      "team1": "BC COINTE B",
-      "team2": "ABC WAREMME A",
-      "category": "U 12 - MM B",
-      "location": "BC COINTE B",
-      "other": ""
-    },
-    {
       "code": "501234",
       "date": "2026-02-07",
       "time": "11:30",
@@ -973,16 +913,6 @@
       "team2": "RB TILFF A",
       "category": "U 12 - MM B",
       "location": "BC COINTE B",
-      "other": ""
-    },
-    {
-      "code": "481132",
-      "date": "2026-01-24",
-      "time": "11:00",
-      "team1": "BC SPRIMONT",
-      "team2": "BC COINTE",
-      "category": "U 14 - ELITES MM B",
-      "location": "BC SPRIMONT",
       "other": ""
     },
     {
@@ -1066,16 +996,6 @@
       "other": ""
     },
     {
-      "code": "590211",
-      "date": "2026-01-24",
-      "time": "11:00",
-      "team1": "ROYAL SPA BC",
-      "team2": "BC COINTE",
-      "category": "U 16 - DD A",
-      "location": "ROYAL SPA BC",
-      "other": ""
-    },
-    {
       "code": "590233",
       "date": "2026-02-07",
       "time": "17:00",
@@ -1142,16 +1062,6 @@
       "team1": "BC COINTE",
       "team2": "ROYAL BC WANZE",
       "category": "U 16 - DD A",
-      "location": "BC COINTE",
-      "other": ""
-    },
-    {
-      "code": "472214",
-      "date": "2026-01-24",
-      "time": "15:00",
-      "team1": "BC COINTE",
-      "team2": "ABC WAREMME B",
-      "category": "U 16 - PROV MM C",
       "location": "BC COINTE",
       "other": ""
     },
@@ -1236,16 +1146,6 @@
       "other": ""
     },
     {
-      "code": "430211",
-      "date": "2026-01-25",
-      "time": "10:00",
-      "team1": "ATLAS A JUPILLE",
-      "team2": "BC COINTE",
-      "category": "U 18 - ELITES MM A",
-      "location": "ATLAS A JUPILLE",
-      "other": ""
-    },
-    {
       "code": "430224",
       "date": "2026-01-31",
       "time": "13:00",
@@ -1313,16 +1213,6 @@
       "team2": "BC VERVIERS",
       "category": "U 18 - ELITES MM A",
       "location": "BC COINTE",
-      "other": ""
-    },
-    {
-      "code": "AW152024",
-      "date": "2026-01-24",
-      "time": "12:00",
-      "team1": "R LINTHOUT BC",
-      "team2": "BC COINTE",
-      "category": "U 18 - SILVER REGIONAUX A",
-      "location": "R LINTHOUT BC",
       "other": ""
     },
     {
@@ -1406,16 +1296,6 @@
       "other": ""
     },
     {
-      "code": "551214",
-      "date": "2026-01-24",
-      "time": "13:00",
-      "team1": "BC COINTE",
-      "team2": "RBC BLEGNY",
-      "category": "U 7 - MM B",
-      "location": "BC COINTE",
-      "other": ""
-    },
-    {
       "code": "551222",
       "date": "2026-01-31",
       "time": "11:00",
@@ -1486,16 +1366,6 @@
       "other": ""
     },
     {
-      "code": "553211",
-      "date": "2026-01-24",
-      "time": "10:15",
-      "team1": "BC COINTE B",
-      "team2": "LA VILLERSOISE A",
-      "category": "U 7 - MM D",
-      "location": "BC COINTE B",
-      "other": ""
-    },
-    {
       "code": "553225",
       "date": "2026-01-31",
       "time": "11:00",
@@ -1516,21 +1386,21 @@
       "other": ""
     },
     {
-      "code": "553191",
-      "date": "2026-02-14",
-      "time": "10:15",
-      "team1": "BC COINTE B",
-      "team2": "CONDROZ MODAVE BB",
-      "category": "U 7 - MM D",
-      "location": "BC COINTE B",
-      "other": ""
-    },
-    {
       "code": "553271",
       "date": "2026-03-07",
       "time": "10:15",
       "team1": "BC COINTE B",
       "team2": "ROYAL ANS BC",
+      "category": "U 7 - MM D",
+      "location": "BC COINTE B",
+      "other": ""
+    },
+    {
+      "code": "553191",
+      "date": "2026-03-14",
+      "time": "14:00",
+      "team1": "BC COINTE B",
+      "team2": "CONDROZ MODAVE BB",
       "category": "U 7 - MM D",
       "location": "BC COINTE B",
       "other": ""
@@ -1573,16 +1443,6 @@
       "team2": "ABC WAREMME A",
       "category": "U 7 - MM D",
       "location": "BC COINTE B",
-      "other": ""
-    },
-    {
-      "code": "542214",
-      "date": "2026-01-24",
-      "time": "13:00",
-      "team1": "BC COINTE",
-      "team2": "RBC ALLEUR",
-      "category": "U 8 - MM C",
-      "location": "BC COINTE",
       "other": ""
     },
     {

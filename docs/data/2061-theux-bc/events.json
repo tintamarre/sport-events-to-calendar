@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "401212",
-      "date": "2026-01-25",
-      "time": "13:00",
-      "team1": "THEUX BC A",
-      "team2": "ETOILE JUPILLE A",
-      "category": "MM - DIVISION 1",
-      "location": "THEUX BC A",
-      "other": ""
-    },
-    {
       "code": "401224",
       "date": "2026-01-31",
       "time": "21:00",
@@ -106,16 +96,6 @@
       "other": ""
     },
     {
-      "code": "406212",
-      "date": "2026-01-24",
-      "time": "20:00",
-      "team1": "UN HUY BASKET A",
-      "team2": "THEUX BC B",
-      "category": "MM - DIVISION 3 C",
-      "location": "UN HUY BASKET A",
-      "other": ""
-    },
-    {
       "code": "406224",
       "date": "2026-01-30",
       "time": "21:00",
@@ -153,6 +133,16 @@
       "team2": "R 4A AYWAILLE-HAMOIR B",
       "category": "MM - DIVISION 3 C",
       "location": "THEUX BC B",
+      "other": ""
+    },
+    {
+      "code": "406162",
+      "date": "2026-02-20",
+      "time": "19:30",
+      "team1": "RBC STAVELOT B",
+      "team2": "THEUX BC B",
+      "category": "MM - DIVISION 3 C",
+      "location": "RBC STAVELOT B",
       "other": ""
     },
     {
@@ -233,16 +223,6 @@
       "team2": "RBC STAVELOT B",
       "category": "MM - DIVISION 3 C",
       "location": "THEUX BC B",
-      "other": ""
-    },
-    {
-      "code": "407212",
-      "date": "2026-01-25",
-      "time": "15:00",
-      "team1": "THEUX BC C",
-      "team2": "ETOILE JUPILLE B",
-      "category": "MM - DIVISION 4 A",
-      "location": "THEUX BC C",
       "other": ""
     },
     {
@@ -336,16 +316,6 @@
       "other": ""
     },
     {
-      "code": "408212",
-      "date": "2026-01-25",
-      "time": "17:00",
-      "team1": "THEUX BC D",
-      "team2": "ROYAL ANS BC B",
-      "category": "MM - DIVISION 4 B",
-      "location": "THEUX BC D",
-      "other": ""
-    },
-    {
       "code": "408224",
       "date": "2026-01-31",
       "time": "19:00",
@@ -433,7 +403,7 @@
       "team2": "THEUX BC D",
       "category": "MM - DIVISION 4 B",
       "location": "ROYAL BC NINANE F",
-      "other": ""
+      "other": "(Vaux/Chèvremont)"
     },
     {
       "code": "408332",
@@ -526,16 +496,6 @@
       "other": ""
     },
     {
-      "code": "525212",
-      "date": "2026-01-25",
-      "time": "15:00",
-      "team1": "THEUX BC A",
-      "team2": "PEPINSTER EAST BELG B",
-      "category": "U 10 - MM F",
-      "location": "THEUX BC A",
-      "other": ""
-    },
-    {
       "code": "525224",
       "date": "2026-01-31",
       "time": "11:00",
@@ -548,7 +508,7 @@
     {
       "code": "525232",
       "date": "2026-02-08",
-      "time": "15:00",
+      "time": "11:00",
       "team1": "THEUX BC A",
       "team2": "RBC DISON-ANDRIMONT A",
       "category": "U 10 - MM F",
@@ -603,16 +563,6 @@
       "team2": "BC BELLEFLAMME C",
       "category": "U 10 - MM F",
       "location": "THEUX BC A",
-      "other": ""
-    },
-    {
-      "code": "500212",
-      "date": "2026-01-24",
-      "time": "11:00",
-      "team1": "THEUX BC B",
-      "team2": "HENRI-CHAPELLE A",
-      "category": "U 12 - MM A",
-      "location": "THEUX BC B",
       "other": ""
     },
     {
@@ -676,26 +626,6 @@
       "other": ""
     },
     {
-      "code": "504212",
-      "date": "2026-01-24",
-      "time": "9:00",
-      "team1": "THEUX BC A",
-      "team2": "DF BC MALMEDY",
-      "category": "U 12 - MM E",
-      "location": "THEUX BC A",
-      "other": ""
-    },
-    {
-      "code": "504232",
-      "date": "2026-02-07",
-      "time": "9:00",
-      "team1": "THEUX BC A",
-      "team2": "RBC AUBEL B",
-      "category": "U 12 - MM E",
-      "location": "THEUX BC A",
-      "other": ""
-    },
-    {
       "code": "504191",
       "date": "2026-02-14",
       "time": "13:00",
@@ -756,12 +686,12 @@
       "other": ""
     },
     {
-      "code": "480212",
-      "date": "2026-01-25",
-      "time": "11:00",
+      "code": "504232",
+      "date": "2026-04-12",
+      "time": "9:00",
       "team1": "THEUX BC A",
-      "team2": "ETOILE JUPILLE",
-      "category": "U 14 - ELITES MM A",
+      "team2": "RBC AUBEL B",
+      "category": "U 12 - MM E",
       "location": "THEUX BC A",
       "other": ""
     },
@@ -836,16 +766,6 @@
       "other": ""
     },
     {
-      "code": "490212",
-      "date": "2026-01-25",
-      "time": "13:00",
-      "team1": "THEUX BC B",
-      "team2": "DF BC MALMEDY",
-      "category": "U 14 - PROV MM A",
-      "location": "THEUX BC B",
-      "other": ""
-    },
-    {
       "code": "490224",
       "date": "2026-01-31",
       "time": "13:00",
@@ -913,16 +833,6 @@
       "team2": "THEUX BC B",
       "category": "U 14 - PROV MM A",
       "location": "RBC STAVELOT",
-      "other": ""
-    },
-    {
-      "code": "471213",
-      "date": "2026-01-24",
-      "time": "9:00",
-      "team1": "THEUX BC",
-      "team2": "RBC STAVELOT",
-      "category": "U 16 - PROV MM B",
-      "location": "THEUX BC",
       "other": ""
     },
     {
@@ -1126,16 +1036,6 @@
       "other": ""
     },
     {
-      "code": "550212",
-      "date": "2026-01-24",
-      "time": "10:30",
-      "team1": "THEUX BC",
-      "team2": "BC SPRIMONT C",
-      "category": "U 7 - MM A",
-      "location": "THEUX BC",
-      "other": ""
-    },
-    {
       "code": "550224",
       "date": "2026-01-31",
       "time": "9:00",
@@ -1212,16 +1112,6 @@
       "team1": "THEUX BC",
       "team2": "BC VERVIERS",
       "category": "U 7 - MM A",
-      "location": "THEUX BC",
-      "other": ""
-    },
-    {
-      "code": "540212",
-      "date": "2026-01-25",
-      "time": "9:00",
-      "team1": "THEUX BC",
-      "team2": "RBC VISE B",
-      "category": "U 8 - MM A",
       "location": "THEUX BC",
       "other": ""
     },

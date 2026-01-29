@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "414217",
-      "date": "2026-01-23",
-      "time": "21:00",
-      "team1": "RBC BLEGNY B",
-      "team2": "PRAYON TROOZ B",
-      "category": "DD - DIVISION 2 A",
-      "location": "RBC BLEGNY B",
-      "other": ""
-    },
-    {
       "code": "414225",
       "date": "2026-01-31",
       "time": "17:00",
@@ -63,7 +53,7 @@
       "team2": "PRAYON TROOZ B",
       "category": "DD - DIVISION 2 A",
       "location": "ROYAL BC NINANE A",
-      "other": ""
+      "other": "(Vaux/Chèvremont)"
     },
     {
       "code": "414275",
@@ -123,16 +113,6 @@
       "team2": "PRAYON TROOZ B",
       "category": "DD - DIVISION 2 A",
       "location": "LA VILLERSOISE A",
-      "other": ""
-    },
-    {
-      "code": "418211",
-      "date": "2026-01-24",
-      "time": "17:00",
-      "team1": "RBC WELKENRAEDT",
-      "team2": "PRAYON TROOZ C",
-      "category": "DD - DIVISION 3 C",
-      "location": "RBC WELKENRAEDT",
       "other": ""
     },
     {
@@ -196,13 +176,13 @@
       "other": "(Salle de Fourons)"
     },
     {
-      "code": "AW105106",
-      "date": "2026-01-24",
-      "time": "19:00",
-      "team1": "PROFONDEVILLE SHARKS",
+      "code": "AW105097",
+      "date": "2026-02-04",
+      "time": "20:15",
+      "team1": "BC CENTRE GAUME",
       "team2": "PRAYON TROOZ A",
       "category": "DD - REGIONALE 2 A",
-      "location": "PROFONDEVILLE SHARKS",
+      "location": "BC CENTRE GAUME",
       "other": ""
     },
     {
@@ -293,16 +273,6 @@
       "team2": "RB ALLIANCE ARLON",
       "category": "DD - REGIONALE 2 A",
       "location": "PRAYON TROOZ A",
-      "other": ""
-    },
-    {
-      "code": "403211",
-      "date": "2026-01-25",
-      "time": "15:00",
-      "team1": "HARIMALIA BC B",
-      "team2": "PRAYON TROOZ A",
-      "category": "MM - DIVISION 2 B",
-      "location": "HARIMALIA BC B",
       "other": ""
     },
     {
@@ -506,16 +476,6 @@
       "other": ""
     },
     {
-      "code": "526211",
-      "date": "2026-01-25",
-      "time": "9:00",
-      "team1": "HARIMALIA BC B",
-      "team2": "PRAYON TROOZ A",
-      "category": "U 10 - MM G",
-      "location": "HARIMALIA BC B",
-      "other": ""
-    },
-    {
       "code": "526224",
       "date": "2026-02-01",
       "time": "9:00",
@@ -576,13 +536,13 @@
       "other": ""
     },
     {
-      "code": "527211",
-      "date": "2026-01-24",
+      "code": "526233",
+      "date": "2026-04-18",
       "time": "9:00",
-      "team1": "RBC BLEGNY A",
-      "team2": "PRAYON TROOZ B",
-      "category": "U 10 - MM H",
-      "location": "RBC BLEGNY A",
+      "team1": "BCM HERSTAL",
+      "team2": "PRAYON TROOZ A",
+      "category": "U 10 - MM G",
+      "location": "BCM HERSTAL",
       "other": ""
     },
     {
@@ -608,7 +568,7 @@
     {
       "code": "527194",
       "date": "2026-02-14",
-      "time": "9:00",
+      "time": "11:00",
       "team1": "RABC ENSIVAL A",
       "team2": "PRAYON TROOZ B",
       "category": "U 10 - MM H",
@@ -723,16 +683,6 @@
       "team2": "PRAYON TROOZ A",
       "category": "U 12 - MM A",
       "location": "ROYAL MOSA AC 1941 A",
-      "other": ""
-    },
-    {
-      "code": "505211",
-      "date": "2026-01-25",
-      "time": "9:00",
-      "team1": "HARIMALIA BC B",
-      "team2": "PRAYON TROOZ B",
-      "category": "U 12 - MM F",
-      "location": "HARIMALIA BC B",
       "other": ""
     },
     {
@@ -976,16 +926,6 @@
       "other": ""
     },
     {
-      "code": "591211",
-      "date": "2026-01-24",
-      "time": "15:00",
-      "team1": "ALL. FLEMALLE C",
-      "team2": "PRAYON TROOZ",
-      "category": "U 16 - DD B",
-      "location": "ALL. FLEMALLE C",
-      "other": ""
-    },
-    {
       "code": "591224",
       "date": "2026-01-31",
       "time": "13:00",
@@ -993,16 +933,6 @@
       "team2": "RBC VISE A",
       "category": "U 16 - DD B",
       "location": "PRAYON TROOZ",
-      "other": ""
-    },
-    {
-      "code": "591233",
-      "date": "2026-02-07",
-      "time": "15:00",
-      "team1": "RBC AWANS A",
-      "team2": "PRAYON TROOZ",
-      "category": "U 16 - DD B",
-      "location": "RBC AWANS A",
       "other": ""
     },
     {
@@ -1086,13 +1016,13 @@
       "other": ""
     },
     {
-      "code": "470211",
-      "date": "2026-01-25",
-      "time": "11:30",
-      "team1": "RBC WELKENRAEDT",
-      "team2": "PRAYON TROOZ B",
-      "category": "U 16 - PROV MM A",
-      "location": "RBC WELKENRAEDT",
+      "code": "591233",
+      "date": "2026-04-18",
+      "time": "11:00",
+      "team1": "RBC AWANS A",
+      "team2": "PRAYON TROOZ",
+      "category": "U 16 - DD B",
+      "location": "RBC AWANS A",
       "other": ""
     },
     {
@@ -1166,6 +1096,16 @@
       "other": ""
     },
     {
+      "code": "470233",
+      "date": "2026-04-05",
+      "time": "14:00",
+      "team1": "BCM HERSTAL",
+      "team2": "PRAYON TROOZ B",
+      "category": "U 16 - PROV MM A",
+      "location": "BCM HERSTAL",
+      "other": ""
+    },
+    {
       "code": "470126",
       "date": "2026-04-18",
       "time": "14:30",
@@ -1173,16 +1113,6 @@
       "team2": "PRAYON TROOZ B",
       "category": "U 16 - PROV MM A",
       "location": "R HT-PRE OUGREE",
-      "other": ""
-    },
-    {
-      "code": "471211",
-      "date": "2026-01-24",
-      "time": "11:00",
-      "team1": "ROYAL SPA BC",
-      "team2": "PRAYON TROOZ A",
-      "category": "U 16 - PROV MM B",
-      "location": "ROYAL SPA BC",
       "other": ""
     },
     {
