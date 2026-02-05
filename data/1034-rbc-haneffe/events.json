@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "414224",
-      "date": "2026-02-01",
-      "time": "11:00",
-      "team1": "RBC HANEFFE B",
-      "team2": "BC SPRIMONT B",
-      "category": "DD - DIVISION 2 A",
-      "location": "RBC HANEFFE B",
-      "other": ""
-    },
-    {
       "code": "414196",
       "date": "2026-02-19",
       "time": "20:30",
@@ -93,16 +83,6 @@
       "team2": "RBC BLEGNY B",
       "category": "DD - DIVISION 2 A",
       "location": "RBC HANEFFE B",
-      "other": ""
-    },
-    {
-      "code": "415224",
-      "date": "2026-02-01",
-      "time": "15:00",
-      "team1": "RBC HANEFFE C",
-      "team2": "AVENIR JUPILLE B",
-      "category": "DD - DIVISION 2 B",
-      "location": "RBC HANEFFE C",
       "other": ""
     },
     {
@@ -186,16 +166,6 @@
       "other": ""
     },
     {
-      "code": "417224",
-      "date": "2026-02-01",
-      "time": "13:00",
-      "team1": "RBC HANEFFE D",
-      "team2": "UN HUY BASKET C",
-      "category": "DD - DIVISION 3 B",
-      "location": "RBC HANEFFE D",
-      "other": ""
-    },
-    {
       "code": "417196",
       "date": "2026-02-07",
       "time": "19:00",
@@ -246,16 +216,6 @@
       "other": ""
     },
     {
-      "code": "AW106116",
-      "date": "2026-01-31",
-      "time": "19:00",
-      "team1": "RBC HANEFFE A",
-      "team2": "PEPINSTER EAST BELG A",
-      "category": "DD - REGIONALE 2 B",
-      "location": "RBC HANEFFE A",
-      "other": ""
-    },
-    {
       "code": "AW106122",
       "date": "2026-02-08",
       "time": "15:00",
@@ -263,16 +223,6 @@
       "team2": "RBC HANEFFE A",
       "category": "DD - REGIONALE 2 B",
       "location": "REBOND OTTIGNIES",
-      "other": ""
-    },
-    {
-      "code": "AW106131",
-      "date": "2026-02-20",
-      "time": "20:30",
-      "team1": "BC COINTE A",
-      "team2": "RBC HANEFFE A",
-      "category": "DD - REGIONALE 2 B",
-      "location": "BC COINTE A",
       "other": ""
     },
     {
@@ -316,6 +266,16 @@
       "other": ""
     },
     {
+      "code": "AW106131",
+      "date": "2026-04-08",
+      "time": "21:00",
+      "team1": "BC COINTE A",
+      "team2": "RBC HANEFFE A",
+      "category": "DD - REGIONALE 2 B",
+      "location": "BC COINTE A",
+      "other": ""
+    },
+    {
       "code": "AW106172",
       "date": "2026-04-12",
       "time": "11:00",
@@ -352,16 +312,6 @@
       "team1": "RBC HANEFFE A",
       "team2": "UN HUY BASKET B",
       "category": "DD - REGIONALE 2 B",
-      "location": "RBC HANEFFE A",
-      "other": ""
-    },
-    {
-      "code": "401224",
-      "date": "2026-01-31",
-      "time": "21:00",
-      "team1": "RBC HANEFFE A",
-      "team2": "THEUX BC A",
-      "category": "MM - DIVISION 1",
       "location": "RBC HANEFFE A",
       "other": ""
     },
@@ -443,16 +393,6 @@
       "team2": "HENRI-CHAPELLE A",
       "category": "MM - DIVISION 1",
       "location": "RBC HANEFFE A",
-      "other": ""
-    },
-    {
-      "code": "405222",
-      "date": "2026-02-01",
-      "time": "9:00",
-      "team1": "RBC HANEFFE B",
-      "team2": "BC SPRIMONT D",
-      "category": "MM - DIVISION 3 B",
-      "location": "RBC HANEFFE B",
       "other": ""
     },
     {
@@ -543,16 +483,6 @@
       "team2": "RBC HANEFFE B",
       "category": "MM - DIVISION 3 B",
       "location": "RBC BLEGNY B",
-      "other": ""
-    },
-    {
-      "code": "407224",
-      "date": "2026-01-31",
-      "time": "17:00",
-      "team1": "RBC HANEFFE C",
-      "team2": "THEUX BC C",
-      "category": "MM - DIVISION 4 A",
-      "location": "RBC HANEFFE C",
       "other": ""
     },
     {
@@ -806,16 +736,6 @@
       "other": ""
     },
     {
-      "code": "601224",
-      "date": "2026-01-31",
-      "time": "15:00",
-      "team1": "RBC HANEFFE",
-      "team2": "UN HUY BASKET",
-      "category": "U 14 - DD B",
-      "location": "RBC HANEFFE",
-      "other": ""
-    },
-    {
       "code": "601233",
       "date": "2026-02-08",
       "time": "13:00",
@@ -872,16 +792,6 @@
       "team1": "RBC HANEFFE",
       "team2": "MAIL. COMBLAIN",
       "category": "U 14 - DD B",
-      "location": "RBC HANEFFE",
-      "other": ""
-    },
-    {
-      "code": "AW161012",
-      "date": "2026-01-31",
-      "time": "11:00",
-      "team1": "RBC HANEFFE",
-      "team2": "ESL UNITED",
-      "category": "U 14 - GOLD REGIONAUX A",
       "location": "RBC HANEFFE",
       "other": ""
     },
@@ -1036,16 +946,6 @@
       "other": ""
     },
     {
-      "code": "431222",
-      "date": "2026-02-01",
-      "time": "15:00",
-      "team1": "RSW LIEGE BASKET A",
-      "team2": "RBC HANEFFE",
-      "category": "U 18 - ELITES MM B",
-      "location": "RSW LIEGE BASKET A",
-      "other": ""
-    },
-    {
       "code": "431234",
       "date": "2026-02-08",
       "time": "10:00",
@@ -1126,16 +1026,6 @@
       "other": ""
     },
     {
-      "code": "AW150012",
-      "date": "2026-01-31",
-      "time": "13:00",
-      "team1": "RBC HANEFFE",
-      "team2": "ESL UNITED",
-      "category": "U 18 - GOLD REGIONAUX A",
-      "location": "RBC HANEFFE",
-      "other": ""
-    },
-    {
       "code": "AW150014",
       "date": "2026-02-14",
       "time": "14:30",
@@ -1203,16 +1093,6 @@
       "team2": "RBC HANEFFE",
       "category": "U 18 - GOLD REGIONAUX A",
       "location": "RCS NATOYE",
-      "other": ""
-    },
-    {
-      "code": "552222",
-      "date": "2026-01-31",
-      "time": "13:00",
-      "team1": "PEPINSTER EAST BELG C",
-      "team2": "RBC HANEFFE",
-      "category": "U 7 - MM C",
-      "location": "PEPINSTER EAST BELG C",
       "other": ""
     },
     {
@@ -1292,16 +1172,6 @@
       "team1": "GIANTS BRAIVES",
       "team2": "RBC HANEFFE",
       "category": "U 7 - MM C",
-      "location": "GIANTS BRAIVES",
-      "other": ""
-    },
-    {
-      "code": "545226",
-      "date": "2026-02-01",
-      "time": "9:00",
-      "team1": "GIANTS BRAIVES",
-      "team2": "RBC HANEFFE",
-      "category": "U 8 - MM F",
       "location": "GIANTS BRAIVES",
       "other": ""
     },

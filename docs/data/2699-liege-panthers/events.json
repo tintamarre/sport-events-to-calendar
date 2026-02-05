@@ -6,36 +6,6 @@
   },
   "events": [
     {
-      "code": "AW247062",
-      "date": "2026-02-01",
-      "time": "15:00",
-      "team1": "LIEGE PANTHERS A",
-      "team2": "RCS NATOYE",
-      "category": "COUPE AWBB U16 - FILLES",
-      "location": "LIEGE PANTHERS A",
-      "other": "(Salle BBC Brainois)"
-    },
-    {
-      "code": "AW246062",
-      "date": "2026-02-01",
-      "time": "13:00",
-      "team1": "LIEGE PANTHERS A",
-      "team2": "CASTORS BRAINE A",
-      "category": "COUPE AWBB U19 - FILLES",
-      "location": "LIEGE PANTHERS A",
-      "other": "(Salle BBC Brainois)"
-    },
-    {
-      "code": "AW104113",
-      "date": "2026-02-01",
-      "time": "17:00",
-      "team1": "LIEGE PANTHERS B",
-      "team2": "ROYAL BC CINEY",
-      "category": "DD - REGIONALE 1",
-      "location": "LIEGE PANTHERS B",
-      "other": ""
-    },
-    {
       "code": "AW104125",
       "date": "2026-02-06",
       "time": "20:00",
@@ -51,6 +21,16 @@
       "time": "18:30",
       "team1": "LIEGE PANTHERS B",
       "team2": "CASTORS BRAINE",
+      "category": "DD - REGIONALE 1",
+      "location": "LIEGE PANTHERS B",
+      "other": ""
+    },
+    {
+      "code": "AW104113",
+      "date": "2026-02-18",
+      "time": "19:15",
+      "team1": "LIEGE PANTHERS B",
+      "team2": "ROYAL BC CINEY",
       "category": "DD - REGIONALE 1",
       "location": "LIEGE PANTHERS B",
       "other": ""
@@ -103,16 +83,6 @@
       "team2": "LIEGE PANTHERS B",
       "category": "DD - REGIONALE 1",
       "location": "BCCA NEUFCHATEAU",
-      "other": ""
-    },
-    {
-      "code": "AW105113",
-      "date": "2026-01-31",
-      "time": "20:30",
-      "team1": "LIEGE PANTHERS C",
-      "team2": "BC BELLEFLAMME A",
-      "category": "DD - REGIONALE 2 A",
-      "location": "LIEGE PANTHERS C",
       "other": ""
     },
     {
@@ -196,16 +166,6 @@
       "other": ""
     },
     {
-      "code": "NADSE11ABI",
-      "date": "2026-01-31",
-      "time": "18:15",
-      "team1": "LIEGE PANTHERS",
-      "team2": "LDP DONZA",
-      "category": "TOP DIVISION WOMEN 1",
-      "location": "LIEGE PANTHERS",
-      "other": ""
-    },
-    {
       "code": "NADSE11AHB",
       "date": "2026-02-07",
       "time": "20:15",
@@ -266,16 +226,6 @@
       "other": ""
     },
     {
-      "code": "INM1412BDE",
-      "date": "2026-01-31",
-      "time": "13:30",
-      "team1": "LIEGE PANTHERS",
-      "team2": "LA VILLERSOISE",
-      "category": "U 14 DD - NATIONALES B",
-      "location": "LIEGE PANTHERS",
-      "other": ""
-    },
-    {
       "code": "INM1412BAD",
       "date": "2026-02-08",
       "time": "13:45",
@@ -283,6 +233,16 @@
       "team2": "LIEGE PANTHERS",
       "category": "U 14 DD - NATIONALES B",
       "location": "KORTRIJK SPURS",
+      "other": ""
+    },
+    {
+      "code": "INM1412BDC",
+      "date": "2026-02-22",
+      "time": "13:00",
+      "team1": "LIEGE PANTHERS",
+      "team2": "BERCHEM BBC",
+      "category": "U 14 DD - NATIONALES B",
+      "location": "LIEGE PANTHERS",
       "other": ""
     },
     {
@@ -517,8 +477,8 @@
     },
     {
       "code": "AW171024",
-      "date": "2026-02-22",
-      "time": "13:15",
+      "date": "2026-02-21",
+      "time": "17:00",
       "team1": "LADIES CHARLEROI",
       "team2": "LIEGE PANTHERS",
       "category": "U 19 - GOLD REGIONALES B",

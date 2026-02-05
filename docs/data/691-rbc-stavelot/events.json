@@ -6,46 +6,6 @@
   },
   "events": [
     {
-      "code": "414222",
-      "date": "2026-01-31",
-      "time": "17:00",
-      "team1": "RBC STAVELOT",
-      "team2": "RBC DISON-ANDRIMONT A",
-      "category": "DD - DIVISION 2 A",
-      "location": "RBC STAVELOT",
-      "other": ""
-    },
-    {
-      "code": "414182",
-      "date": "2026-02-04",
-      "time": "20:30",
-      "team1": "RBC STAVELOT",
-      "team2": "ATLAS A JUPILLE",
-      "category": "DD - DIVISION 2 A",
-      "location": "RBC STAVELOT",
-      "other": ""
-    },
-    {
-      "code": "414245",
-      "date": "2026-02-15",
-      "time": "12:00",
-      "team1": "ABC WAREMME A",
-      "team2": "RBC STAVELOT",
-      "category": "DD - DIVISION 2 A",
-      "location": "ABC WAREMME A",
-      "other": "(Hall d'Oreye)"
-    },
-    {
-      "code": "414192",
-      "date": "2026-02-22",
-      "time": "17:00",
-      "team1": "LA VILLERSOISE A",
-      "team2": "RBC STAVELOT",
-      "category": "DD - DIVISION 2 A",
-      "location": "LA VILLERSOISE A",
-      "other": ""
-    },
-    {
       "code": "414275",
       "date": "2026-03-07",
       "time": "17:00",
@@ -76,6 +36,16 @@
       "other": ""
     },
     {
+      "code": "414192",
+      "date": "2026-04-01",
+      "time": "20:00",
+      "team1": "LA VILLERSOISE A",
+      "team2": "RBC STAVELOT",
+      "category": "DD - DIVISION 2 A",
+      "location": "LA VILLERSOISE A",
+      "other": ""
+    },
+    {
       "code": "414317",
       "date": "2026-04-03",
       "time": "21:00",
@@ -84,6 +54,16 @@
       "category": "DD - DIVISION 2 A",
       "location": "RBC BLEGNY B",
       "other": ""
+    },
+    {
+      "code": "414245",
+      "date": "2026-04-09",
+      "time": "21:00",
+      "team1": "ABC WAREMME A",
+      "team2": "RBC STAVELOT",
+      "category": "DD - DIVISION 2 A",
+      "location": "ABC WAREMME A",
+      "other": "(Hall d'Oreye)"
     },
     {
       "code": "414322",
@@ -103,16 +83,6 @@
       "team2": "RBC STAVELOT",
       "category": "DD - DIVISION 2 A",
       "location": "BC SPRIMONT B",
-      "other": ""
-    },
-    {
-      "code": "402222",
-      "date": "2026-01-31",
-      "time": "19:00",
-      "team1": "RBC STAVELOT A",
-      "team2": "BC VERVIERS B",
-      "category": "MM - DIVISION 2 A",
-      "location": "RBC STAVELOT A",
       "other": ""
     },
     {
@@ -198,7 +168,7 @@
     {
       "code": "402322",
       "date": "2026-04-12",
-      "time": "09:30",
+      "time": "9:30",
       "team1": "RBC STAVELOT A",
       "team2": "ESL UNITED E",
       "category": "MM - DIVISION 2 A",
@@ -213,16 +183,6 @@
       "team2": "RBC STAVELOT A",
       "category": "MM - DIVISION 2 A",
       "location": "BC SPRIMONT C",
-      "other": ""
-    },
-    {
-      "code": "406222",
-      "date": "2026-01-31",
-      "time": "21:00",
-      "team1": "RBC STAVELOT B",
-      "team2": "BC COINTE C",
-      "category": "MM - DIVISION 3 C",
-      "location": "RBC STAVELOT B",
       "other": ""
     },
     {
@@ -326,16 +286,6 @@
       "other": ""
     },
     {
-      "code": "411222",
-      "date": "2026-02-01",
-      "time": "11:30",
-      "team1": "RBC STAVELOT C",
-      "team2": "BC REVEIL B",
-      "category": "MM - DIVISION 4 E",
-      "location": "RBC STAVELOT C",
-      "other": ""
-    },
-    {
       "code": "411245",
       "date": "2026-02-06",
       "time": "20:30",
@@ -428,7 +378,7 @@
     {
       "code": "520262",
       "date": "2026-02-28",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "RBC STAVELOT A",
       "team2": "ROYAL HERVE-BATTICE A",
       "category": "U 10 - MM A",
@@ -458,7 +408,7 @@
     {
       "code": "520322",
       "date": "2026-04-11",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "RBC STAVELOT A",
       "team2": "PEPINSTER EAST BELG D",
       "category": "U 10 - MM A",
@@ -536,16 +486,6 @@
       "other": ""
     },
     {
-      "code": "610222",
-      "date": "2026-01-31",
-      "time": "12:30",
-      "team1": "RBC STAVELOT",
-      "team2": "RBC DISON-ANDRIMONT",
-      "category": "U 12 - DD",
-      "location": "RBC STAVELOT",
-      "other": ""
-    },
-    {
       "code": "610235",
       "date": "2026-02-07",
       "time": "13:00",
@@ -603,16 +543,6 @@
       "team2": "RBC STAVELOT",
       "category": "U 12 - DD",
       "location": "ROYAL HERVE-BATTICE",
-      "other": ""
-    },
-    {
-      "code": "504222",
-      "date": "2026-01-31",
-      "time": "10:30",
-      "team1": "RBC STAVELOT A",
-      "team2": "BC BELLEFLAMME C",
-      "category": "U 12 - MM E",
-      "location": "RBC STAVELOT A",
       "other": ""
     },
     {
@@ -676,16 +606,6 @@
       "other": ""
     },
     {
-      "code": "490222",
-      "date": "2026-01-31",
-      "time": "14:30",
-      "team1": "RBC STAVELOT",
-      "team2": "PRAYON TROOZ",
-      "category": "U 14 - PROV MM A",
-      "location": "RBC STAVELOT",
-      "other": ""
-    },
-    {
       "code": "490235",
       "date": "2026-02-07",
       "time": "12:45",
@@ -718,7 +638,7 @@
     {
       "code": "490302",
       "date": "2026-03-29",
-      "time": "09:30",
+      "time": "9:30",
       "team1": "RBC STAVELOT",
       "team2": "BC SANKT VITH",
       "category": "U 14 - PROV MM A",
@@ -778,7 +698,7 @@
     {
       "code": "471296",
       "date": "2026-03-22",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "ROYAL BC WANZE",
       "team2": "RBC STAVELOT",
       "category": "U 16 - PROV MM B",
@@ -816,16 +736,6 @@
       "other": ""
     },
     {
-      "code": "440225",
-      "date": "2026-02-01",
-      "time": "09:30",
-      "team1": "RBC STAVELOT",
-      "team2": "ALL. FLEMALLE B",
-      "category": "U 18 - PROV MM",
-      "location": "RBC STAVELOT",
-      "other": ""
-    },
-    {
       "code": "440242",
       "date": "2026-02-14",
       "time": "15:00",
@@ -838,7 +748,7 @@
     {
       "code": "440266",
       "date": "2026-03-01",
-      "time": "09:30",
+      "time": "9:30",
       "team1": "RBC STAVELOT",
       "team2": "BBC EUPEN B",
       "category": "U 18 - PROV MM",
@@ -918,7 +828,7 @@
     {
       "code": "540262",
       "date": "2026-02-28",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "RBC STAVELOT",
       "team2": "ROYAL SPA BC A",
       "category": "U 8 - MM A",
@@ -958,7 +868,7 @@
     {
       "code": "540302",
       "date": "2026-03-28",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "RBC STAVELOT",
       "team2": "RABC ENSIVAL",
       "category": "U 8 - MM A",
@@ -968,7 +878,7 @@
     {
       "code": "540322",
       "date": "2026-04-11",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "RBC STAVELOT",
       "team2": "THEUX BC",
       "category": "U 8 - MM A",

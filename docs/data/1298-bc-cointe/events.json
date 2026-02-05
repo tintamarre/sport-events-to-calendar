@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "AW106117",
-      "date": "2026-01-31",
-      "time": "17:00",
-      "team1": "BC COINTE A",
-      "team2": "LADIES CHARLEROI",
-      "category": "DD - REGIONALE 2 B",
-      "location": "BC COINTE A",
-      "other": ""
-    },
-    {
       "code": "AW106121",
       "date": "2026-02-07",
       "time": "19:00",
@@ -23,16 +13,6 @@
       "team2": "BC COINTE A",
       "category": "DD - REGIONALE 2 B",
       "location": "PEPINSTER EAST BELG A",
-      "other": ""
-    },
-    {
-      "code": "AW106131",
-      "date": "2026-02-20",
-      "time": "20:30",
-      "team1": "BC COINTE A",
-      "team2": "RBC HANEFFE A",
-      "category": "DD - REGIONALE 2 B",
-      "location": "BC COINTE A",
       "other": ""
     },
     {
@@ -96,6 +76,16 @@
       "other": ""
     },
     {
+      "code": "AW106131",
+      "date": "2026-04-08",
+      "time": "21:00",
+      "team1": "BC COINTE A",
+      "team2": "RBC HANEFFE A",
+      "category": "DD - REGIONALE 2 B",
+      "location": "BC COINTE A",
+      "other": ""
+    },
+    {
       "code": "AW106171",
       "date": "2026-04-11",
       "time": "20:00",
@@ -123,16 +113,6 @@
       "team2": "ROYAL BC CINEY",
       "category": "DD - REGIONALE 2 B",
       "location": "BC COINTE A",
-      "other": ""
-    },
-    {
-      "code": "401222",
-      "date": "2026-02-01",
-      "time": "10:00",
-      "team1": "RABC ENSIVAL A",
-      "team2": "BC COINTE B",
-      "category": "MM - DIVISION 1",
-      "location": "RABC ENSIVAL A",
       "other": ""
     },
     {
@@ -223,16 +203,6 @@
       "team2": "BC COINTE B",
       "category": "MM - DIVISION 1",
       "location": "HANNUT BC A",
-      "other": ""
-    },
-    {
-      "code": "406222",
-      "date": "2026-01-31",
-      "time": "21:00",
-      "team1": "RBC STAVELOT B",
-      "team2": "BC COINTE C",
-      "category": "MM - DIVISION 3 C",
-      "location": "RBC STAVELOT B",
       "other": ""
     },
     {
@@ -336,16 +306,6 @@
       "other": ""
     },
     {
-      "code": "410224",
-      "date": "2026-01-31",
-      "time": "19:00",
-      "team1": "BC COINTE D",
-      "team2": "UN HUY BASKET B",
-      "category": "MM - DIVISION 4 D",
-      "location": "BC COINTE D",
-      "other": ""
-    },
-    {
       "code": "410243",
       "date": "2026-02-15",
       "time": "15:00",
@@ -423,16 +383,6 @@
       "team2": "BCM HERSTAL C",
       "category": "MM - DIVISION 4 D",
       "location": "BC COINTE D",
-      "other": ""
-    },
-    {
-      "code": "NAHSE21ADG",
-      "date": "2026-02-01",
-      "time": "15:00",
-      "team1": "BAVI VILVOORDE",
-      "team2": "BC COINTE A",
-      "category": "TOP DIVISION MEN 2 A",
-      "location": "BAVI VILVOORDE",
       "other": ""
     },
     {
@@ -523,16 +473,6 @@
       "team2": "BC COINTE A",
       "category": "TOP DIVISION MEN 2 A",
       "location": "BASKET SIJSELE",
-      "other": ""
-    },
-    {
-      "code": "523222",
-      "date": "2026-02-01",
-      "time": "9:00",
-      "team1": "BC SPRIMONT C",
-      "team2": "BC COINTE A",
-      "category": "U 10 - MM D",
-      "location": "BC SPRIMONT C",
       "other": ""
     },
     {
@@ -723,16 +663,6 @@
       "team2": "GIANTS BRAIVES B",
       "category": "U 10 - MM J",
       "location": "BC COINTE C",
-      "other": ""
-    },
-    {
-      "code": "610224",
-      "date": "2026-01-31",
-      "time": "9:00",
-      "team1": "BC COINTE",
-      "team2": "RABC ENSIVAL",
-      "category": "U 12 - DD",
-      "location": "BC COINTE",
       "other": ""
     },
     {
@@ -1066,16 +996,6 @@
       "other": ""
     },
     {
-      "code": "472222",
-      "date": "2026-01-31",
-      "time": "15:00",
-      "team1": "PEPINSTER EAST BELG A",
-      "team2": "BC COINTE",
-      "category": "U 16 - PROV MM C",
-      "location": "PEPINSTER EAST BELG A",
-      "other": ""
-    },
-    {
       "code": "472234",
       "date": "2026-02-07",
       "time": "15:00",
@@ -1143,16 +1063,6 @@
       "team2": "BC COINTE",
       "category": "U 16 - PROV MM C",
       "location": "ORP JAUCHE",
-      "other": ""
-    },
-    {
-      "code": "430224",
-      "date": "2026-01-31",
-      "time": "13:00",
-      "team1": "BC COINTE",
-      "team2": "THEUX BC",
-      "category": "U 18 - ELITES MM A",
-      "location": "BC COINTE",
       "other": ""
     },
     {
@@ -1296,16 +1206,6 @@
       "other": ""
     },
     {
-      "code": "551222",
-      "date": "2026-01-31",
-      "time": "11:00",
-      "team1": "PEPINSTER EAST BELG B",
-      "team2": "BC COINTE",
-      "category": "U 7 - MM B",
-      "location": "PEPINSTER EAST BELG B",
-      "other": ""
-    },
-    {
       "code": "551194",
       "date": "2026-02-14",
       "time": "10:15",
@@ -1363,16 +1263,6 @@
       "team2": "BC COINTE",
       "category": "U 7 - MM B",
       "location": "ROYAL HERVE-BATTICE B",
-      "other": ""
-    },
-    {
-      "code": "553225",
-      "date": "2026-01-31",
-      "time": "11:00",
-      "team1": "BC VERLAINE A",
-      "team2": "BC COINTE B",
-      "category": "U 7 - MM D",
-      "location": "BC VERLAINE A",
       "other": ""
     },
     {
@@ -1443,16 +1333,6 @@
       "team2": "ABC WAREMME A",
       "category": "U 7 - MM D",
       "location": "BC COINTE B",
-      "other": ""
-    },
-    {
-      "code": "542222",
-      "date": "2026-01-31",
-      "time": "11:00",
-      "team1": "PEPINSTER EAST BELG B",
-      "team2": "BC COINTE",
-      "category": "U 8 - MM C",
-      "location": "PEPINSTER EAST BELG B",
       "other": ""
     },
     {

@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "415227",
-      "date": "2026-02-01",
-      "time": "13:00",
-      "team1": "RBC ALLEUR D",
-      "team2": "ROYAL ANS BC",
-      "category": "DD - DIVISION 2 B",
-      "location": "RBC ALLEUR D",
-      "other": ""
-    },
-    {
       "code": "415197",
       "date": "2026-02-07",
       "time": "20:00",
@@ -116,16 +106,6 @@
       "other": ""
     },
     {
-      "code": "408227",
-      "date": "2026-01-31",
-      "time": "17:00",
-      "team1": "HANNUT BC C",
-      "team2": "ROYAL ANS BC B",
-      "category": "MM - DIVISION 4 B",
-      "location": "HANNUT BC C",
-      "other": ""
-    },
-    {
       "code": "408243",
       "date": "2026-02-15",
       "time": "17:00",
@@ -203,16 +183,6 @@
       "team2": "ROYAL BC NINANE F",
       "category": "MM - DIVISION 4 B",
       "location": "ROYAL ANS BC B",
-      "other": ""
-    },
-    {
-      "code": "410227",
-      "date": "2026-01-31",
-      "time": "19:00",
-      "team1": "ORP JAUCHE B",
-      "team2": "ROYAL ANS BC A",
-      "category": "MM - DIVISION 4 D",
-      "location": "ORP JAUCHE B",
       "other": ""
     },
     {
@@ -316,16 +286,6 @@
       "other": ""
     },
     {
-      "code": "522226",
-      "date": "2026-01-31",
-      "time": "10:30",
-      "team1": "LA VILLERSOISE B",
-      "team2": "ROYAL ANS BC A",
-      "category": "U 10 - MM C",
-      "location": "LA VILLERSOISE B",
-      "other": ""
-    },
-    {
       "code": "522233",
       "date": "2026-02-07",
       "time": "9:00",
@@ -426,16 +386,6 @@
       "other": ""
     },
     {
-      "code": "502223",
-      "date": "2026-01-31",
-      "time": "9:00",
-      "team1": "ROYAL ANS BC",
-      "team2": "GIANTS BRAIVES A",
-      "category": "U 12 - MM C",
-      "location": "ROYAL ANS BC",
-      "other": ""
-    },
-    {
       "code": "502234",
       "date": "2026-02-07",
       "time": "9:15",
@@ -493,16 +443,6 @@
       "team2": "ROYAL ANS BC",
       "category": "U 12 - MM C",
       "location": "BC SPRIMONT B",
-      "other": ""
-    },
-    {
-      "code": "509226",
-      "date": "2026-01-31",
-      "time": "15:00",
-      "team1": "ORP JAUCHE",
-      "team2": "ROYAL ANS BC B",
-      "category": "U 12 - MM J",
-      "location": "ORP JAUCHE",
       "other": ""
     },
     {
@@ -586,16 +526,6 @@
       "other": ""
     },
     {
-      "code": "450223",
-      "date": "2026-02-01",
-      "time": "17:00",
-      "team1": "ROYAL ANS BC",
-      "team2": "HENRI-CHAPELLE",
-      "category": "U 16 - ELITES MM A",
-      "location": "ROYAL ANS BC",
-      "other": ""
-    },
-    {
       "code": "450271",
       "date": "2026-03-07",
       "time": "17:00",
@@ -646,26 +576,6 @@
       "other": ""
     },
     {
-      "code": "432223",
-      "date": "2026-02-01",
-      "time": "15:00",
-      "team1": "ROYAL ANS BC A",
-      "team2": "ROYAL BC NINANE A",
-      "category": "U 18 - ELITES MM C",
-      "location": "ROYAL ANS BC A",
-      "other": ""
-    },
-    {
-      "code": "432234",
-      "date": "2026-02-07",
-      "time": "11:00",
-      "team1": "UN HUY BASKET A",
-      "team2": "ROYAL ANS BC A",
-      "category": "U 18 - ELITES MM C",
-      "location": "UN HUY BASKET A",
-      "other": ""
-    },
-    {
       "code": "432263",
       "date": "2026-03-01",
       "time": "13:00",
@@ -703,16 +613,6 @@
       "team2": "RBC AWANS A",
       "category": "U 18 - ELITES MM C",
       "location": "ROYAL ANS BC A",
-      "other": ""
-    },
-    {
-      "code": "440223",
-      "date": "2026-02-01",
-      "time": "13:00",
-      "team1": "ROYAL ANS BC B",
-      "team2": "RBC VISE B",
-      "category": "U 18 - PROV MM",
-      "location": "ROYAL ANS BC B",
       "other": ""
     },
     {
@@ -816,16 +716,6 @@
       "other": ""
     },
     {
-      "code": "421222",
-      "date": "2026-02-01",
-      "time": "17:00",
-      "team1": "BC SPRIMONT",
-      "team2": "ROYAL ANS BC",
-      "category": "U 21 - MM B",
-      "location": "BC SPRIMONT",
-      "other": ""
-    },
-    {
       "code": "421234",
       "date": "2026-02-14",
       "time": "17:00",
@@ -882,16 +772,6 @@
       "team1": "ROYAL ANS BC",
       "team2": "R HT-PRE OUGREE",
       "category": "U 21 - MM B",
-      "location": "ROYAL ANS BC",
-      "other": ""
-    },
-    {
-      "code": "553223",
-      "date": "2026-01-31",
-      "time": "9:00",
-      "team1": "ROYAL ANS BC",
-      "team2": "HANNUT BC",
-      "category": "U 7 - MM D",
       "location": "ROYAL ANS BC",
       "other": ""
     },
@@ -973,16 +853,6 @@
       "team2": "ROYAL ANS BC",
       "category": "U 7 - MM D",
       "location": "CONDROZ MODAVE BB",
-      "other": ""
-    },
-    {
-      "code": "544223",
-      "date": "2026-01-31",
-      "time": "10:45",
-      "team1": "ROYAL ANS BC",
-      "team2": "ROYAL BC WANZE",
-      "category": "U 8 - MM E",
-      "location": "ROYAL ANS BC",
       "other": ""
     },
     {

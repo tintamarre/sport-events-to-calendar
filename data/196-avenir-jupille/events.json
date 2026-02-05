@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "415224",
-      "date": "2026-02-01",
-      "time": "15:00",
-      "team1": "RBC HANEFFE C",
-      "team2": "AVENIR JUPILLE B",
-      "category": "DD - DIVISION 2 B",
-      "location": "RBC HANEFFE C",
-      "other": ""
-    },
-    {
       "code": "415191",
       "date": "2026-02-07",
       "time": "19:00",
@@ -56,6 +46,16 @@
       "other": ""
     },
     {
+      "code": "415162",
+      "date": "2026-03-09",
+      "time": "20:00",
+      "team1": "PEPINSTER EAST BELG C",
+      "team2": "AVENIR JUPILLE B",
+      "category": "DD - DIVISION 2 B",
+      "location": "PEPINSTER EAST BELG C",
+      "other": ""
+    },
+    {
       "code": "415146",
       "date": "2026-03-14",
       "time": "21:00",
@@ -66,6 +66,16 @@
       "other": "(Vaux/Chèvremont)"
     },
     {
+      "code": "415305",
+      "date": "2026-03-18",
+      "time": "19:30",
+      "team1": "BC VERLAINE A",
+      "team2": "AVENIR JUPILLE B",
+      "category": "DD - DIVISION 2 B",
+      "location": "BC VERLAINE A",
+      "other": ""
+    },
+    {
       "code": "415292",
       "date": "2026-03-21",
       "time": "19:00",
@@ -73,16 +83,6 @@
       "team2": "ROYAL BC NINANE B",
       "category": "DD - DIVISION 2 B",
       "location": "AVENIR JUPILLE B",
-      "other": ""
-    },
-    {
-      "code": "415305",
-      "date": "2026-03-28",
-      "time": "20:45",
-      "team1": "BC VERLAINE A",
-      "team2": "AVENIR JUPILLE B",
-      "category": "DD - DIVISION 2 B",
-      "location": "BC VERLAINE A",
       "other": ""
     },
     {
@@ -113,16 +113,6 @@
       "team2": "PEPINSTER EAST BELG C",
       "category": "DD - DIVISION 2 B",
       "location": "AVENIR JUPILLE B",
-      "other": ""
-    },
-    {
-      "code": "404227",
-      "date": "2026-01-31",
-      "time": "21:00",
-      "team1": "HANNUT BC B",
-      "team2": "AVENIR JUPILLE A",
-      "category": "MM - DIVISION 3 A",
-      "location": "HANNUT BC B",
       "other": ""
     },
     {
@@ -213,16 +203,6 @@
       "team2": "ROYAL BC WANZE C",
       "category": "MM - DIVISION 3 A",
       "location": "AVENIR JUPILLE A",
-      "other": ""
-    },
-    {
-      "code": "411227",
-      "date": "2026-01-31",
-      "time": "19:00",
-      "team1": "RBC BLEGNY C",
-      "team2": "AVENIR JUPILLE B",
-      "category": "MM - DIVISION 4 E",
-      "location": "RBC BLEGNY C",
       "other": ""
     },
     {

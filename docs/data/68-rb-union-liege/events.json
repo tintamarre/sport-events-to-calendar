@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "401221",
-      "date": "2026-01-31",
-      "time": "19:00",
-      "team1": "ALL. FLEMALLE A",
-      "team2": "RB UNION LIEGE A",
-      "category": "MM - DIVISION 1",
-      "location": "ALL. FLEMALLE A",
-      "other": ""
-    },
-    {
       "code": "401195",
       "date": "2026-02-07",
       "time": "17:30",
@@ -106,16 +96,6 @@
       "other": ""
     },
     {
-      "code": "404221",
-      "date": "2026-01-31",
-      "time": "21:00",
-      "team1": "ALL. FLEMALLE B",
-      "team2": "RB UNION LIEGE B",
-      "category": "MM - DIVISION 3 A",
-      "location": "ALL. FLEMALLE B",
-      "other": ""
-    },
-    {
       "code": "404195",
       "date": "2026-02-07",
       "time": "19:30",
@@ -164,6 +144,16 @@
       "category": "MM - DIVISION 3 A",
       "location": "HENRI-CHAPELLE B",
       "other": ""
+    },
+    {
+      "code": "404026",
+      "date": "2026-03-14",
+      "time": "19:00",
+      "team1": "R 4A AYWAILLE-HAMOIR C",
+      "team2": "RB UNION LIEGE B",
+      "category": "MM - DIVISION 3 A",
+      "location": "R 4A AYWAILLE-HAMOIR C",
+      "other": "(Hall de Hamoir)"
     },
     {
       "code": "404295",

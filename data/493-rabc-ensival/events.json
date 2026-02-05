@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "413223",
-      "date": "2026-01-31",
-      "time": "18:00",
-      "team1": "RABC ENSIVAL A",
-      "team2": "HENRI-CHAPELLE",
-      "category": "DD - DIVISION 1",
-      "location": "RABC ENSIVAL A",
-      "other": ""
-    },
-    {
       "code": "413244",
       "date": "2026-02-13",
       "time": "19:00",
@@ -96,16 +86,6 @@
       "other": ""
     },
     {
-      "code": "401222",
-      "date": "2026-02-01",
-      "time": "10:00",
-      "team1": "RABC ENSIVAL A",
-      "team2": "BC COINTE B",
-      "category": "MM - DIVISION 1",
-      "location": "RABC ENSIVAL A",
-      "other": ""
-    },
-    {
       "code": "401245",
       "date": "2026-02-14",
       "time": "18:30",
@@ -183,16 +163,6 @@
       "team2": "RABC ENSIVAL A",
       "category": "MM - DIVISION 1",
       "location": "THEUX BC A",
-      "other": ""
-    },
-    {
-      "code": "405224",
-      "date": "2026-01-31",
-      "time": "19:00",
-      "team1": "BC BELLEFLAMME D",
-      "team2": "RABC ENSIVAL B",
-      "category": "MM - DIVISION 3 B",
-      "location": "BC BELLEFLAMME D",
       "other": ""
     },
     {
@@ -286,16 +256,6 @@
       "other": ""
     },
     {
-      "code": "411224",
-      "date": "2026-01-31",
-      "time": "17:00",
-      "team1": "RB TILFF E",
-      "team2": "RABC ENSIVAL C",
-      "category": "MM - DIVISION 4 E",
-      "location": "RB TILFF E",
-      "other": ""
-    },
-    {
       "code": "411191",
       "date": "2026-02-08",
       "time": "15:00",
@@ -383,16 +343,6 @@
       "team2": "RBC STAVELOT C",
       "category": "MM - DIVISION 4 E",
       "location": "RABC ENSIVAL C",
-      "other": ""
-    },
-    {
-      "code": "525224",
-      "date": "2026-01-31",
-      "time": "11:00",
-      "team1": "RABC ENSIVAL B",
-      "team2": "THEUX BC A",
-      "category": "U 10 - MM F",
-      "location": "RABC ENSIVAL B",
       "other": ""
     },
     {
@@ -536,16 +486,6 @@
       "other": ""
     },
     {
-      "code": "610224",
-      "date": "2026-01-31",
-      "time": "9:00",
-      "team1": "BC COINTE",
-      "team2": "RABC ENSIVAL",
-      "category": "U 12 - DD",
-      "location": "BC COINTE",
-      "other": ""
-    },
-    {
       "code": "610191",
       "date": "2026-02-14",
       "time": "11:00",
@@ -676,16 +616,6 @@
       "other": ""
     },
     {
-      "code": "507224",
-      "date": "2026-01-31",
-      "time": "10:30",
-      "team1": "RBC ESNEUX B",
-      "team2": "RABC ENSIVAL B",
-      "category": "U 12 - MM H",
-      "location": "RBC ESNEUX B",
-      "other": ""
-    },
-    {
       "code": "507232",
       "date": "2026-02-07",
       "time": "11:00",
@@ -756,16 +686,6 @@
       "other": ""
     },
     {
-      "code": "492224",
-      "date": "2026-02-01",
-      "time": "10:00",
-      "team1": "RBC ESNEUX B",
-      "team2": "RABC ENSIVAL B",
-      "category": "U 14 - PROV MM C",
-      "location": "RBC ESNEUX B",
-      "other": ""
-    },
-    {
       "code": "492232",
       "date": "2026-02-07",
       "time": "13:00",
@@ -826,16 +746,6 @@
       "other": ""
     },
     {
-      "code": "493222",
-      "date": "2026-01-31",
-      "time": "13:00",
-      "team1": "RABC ENSIVAL A",
-      "team2": "RBC ESNEUX A",
-      "category": "U 14 - PROV MM D",
-      "location": "RABC ENSIVAL A",
-      "other": ""
-    },
-    {
       "code": "493262",
       "date": "2026-02-28",
       "time": "13:00",
@@ -873,16 +783,6 @@
       "team2": "RABC ENSIVAL A",
       "category": "U 14 - PROV MM D",
       "location": "BCM HERSTAL",
-      "other": ""
-    },
-    {
-      "code": "470222",
-      "date": "2026-01-31",
-      "time": "15:00",
-      "team1": "RABC ENSIVAL",
-      "team2": "RBC DISON-ANDRIMONT",
-      "category": "U 16 - PROV MM A",
-      "location": "RABC ENSIVAL",
       "other": ""
     },
     {
@@ -953,16 +853,6 @@
       "team2": "RABC ENSIVAL",
       "category": "U 16 - PROV MM A",
       "location": "BCM HERSTAL",
-      "other": ""
-    },
-    {
-      "code": "540224",
-      "date": "2026-01-31",
-      "time": "11:00",
-      "team1": "RABC ENSIVAL",
-      "team2": "THEUX BC",
-      "category": "U 8 - MM A",
-      "location": "RABC ENSIVAL",
       "other": ""
     },
     {

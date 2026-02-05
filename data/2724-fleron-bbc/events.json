@@ -6,26 +6,6 @@
   },
   "events": [
     {
-      "code": "402225",
-      "date": "2026-02-01",
-      "time": "11:00",
-      "team1": "FLERON BBC A",
-      "team2": "HARIMALIA BC C",
-      "category": "MM - DIVISION 2 A",
-      "location": "FLERON BBC A",
-      "other": ""
-    },
-    {
-      "code": "402194",
-      "date": "2026-02-04",
-      "time": "20:30",
-      "team1": "BC VERVIERS B",
-      "team2": "FLERON BBC A",
-      "category": "MM - DIVISION 2 A",
-      "location": "BC VERVIERS B",
-      "other": ""
-    },
-    {
       "code": "402016",
       "date": "2026-02-08",
       "time": "15:00",
@@ -61,6 +41,16 @@
       "time": "13:00",
       "team1": "FLERON BBC A",
       "team2": "RBC STAVELOT A",
+      "category": "MM - DIVISION 2 A",
+      "location": "FLERON BBC A",
+      "other": ""
+    },
+    {
+      "code": "402225",
+      "date": "2026-03-12",
+      "time": "21:00",
+      "team1": "FLERON BBC A",
+      "team2": "HARIMALIA BC C",
       "category": "MM - DIVISION 2 A",
       "location": "FLERON BBC A",
       "other": ""
@@ -123,16 +113,6 @@
       "team2": "ABC WAREMME B",
       "category": "MM - DIVISION 2 A",
       "location": "FLERON BBC A",
-      "other": ""
-    },
-    {
-      "code": "404225",
-      "date": "2026-02-01",
-      "time": "13:00",
-      "team1": "FLERON BBC B",
-      "team2": "LA VILLERSOISE A",
-      "category": "MM - DIVISION 3 A",
-      "location": "FLERON BBC B",
       "other": ""
     },
     {
@@ -236,16 +216,6 @@
       "other": ""
     },
     {
-      "code": "520225",
-      "date": "2026-02-01",
-      "time": "10:00",
-      "team1": "FLERON BBC",
-      "team2": "ROYAL HERVE-BATTICE A",
-      "category": "U 10 - MM A",
-      "location": "FLERON BBC",
-      "other": ""
-    },
-    {
       "code": "520232",
       "date": "2026-02-07",
       "time": "13:00",
@@ -312,16 +282,6 @@
       "team1": "FLERON BBC",
       "team2": "ROYAL SPA BC C",
       "category": "U 10 - MM A",
-      "location": "FLERON BBC",
-      "other": ""
-    },
-    {
-      "code": "507225",
-      "date": "2026-02-01",
-      "time": "11:30",
-      "team1": "FLERON BBC",
-      "team2": "RBC ALLEUR A",
-      "category": "U 12 - MM H",
       "location": "FLERON BBC",
       "other": ""
     },
@@ -402,16 +362,6 @@
       "team1": "FLERON BBC",
       "team2": "ALL. FLEMALLE E",
       "category": "U 12 - MM H",
-      "location": "FLERON BBC",
-      "other": ""
-    },
-    {
-      "code": "541225",
-      "date": "2026-02-01",
-      "time": "13:00",
-      "team1": "FLERON BBC",
-      "team2": "ROYAL SPA BC B",
-      "category": "U 8 - MM B",
       "location": "FLERON BBC",
       "other": ""
     },

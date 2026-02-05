@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "401224",
-      "date": "2026-01-31",
-      "time": "21:00",
-      "team1": "RBC HANEFFE A",
-      "team2": "THEUX BC A",
-      "category": "MM - DIVISION 1",
-      "location": "RBC HANEFFE A",
-      "other": ""
-    },
-    {
       "code": "401242",
       "date": "2026-02-15",
       "time": "13:00",
@@ -93,16 +83,6 @@
       "team2": "RABC ENSIVAL A",
       "category": "MM - DIVISION 1",
       "location": "THEUX BC A",
-      "other": ""
-    },
-    {
-      "code": "406224",
-      "date": "2026-01-30",
-      "time": "21:00",
-      "team1": "BC SANKT VITH",
-      "team2": "THEUX BC B",
-      "category": "MM - DIVISION 3 C",
-      "location": "BC SANKT VITH",
       "other": ""
     },
     {
@@ -226,16 +206,6 @@
       "other": ""
     },
     {
-      "code": "407224",
-      "date": "2026-01-31",
-      "time": "17:00",
-      "team1": "RBC HANEFFE C",
-      "team2": "THEUX BC C",
-      "category": "MM - DIVISION 4 A",
-      "location": "RBC HANEFFE C",
-      "other": ""
-    },
-    {
       "code": "407242",
       "date": "2026-02-14",
       "time": "21:00",
@@ -313,16 +283,6 @@
       "team2": "RSW LIEGE BASKET C",
       "category": "MM - DIVISION 4 A",
       "location": "THEUX BC C",
-      "other": ""
-    },
-    {
-      "code": "408224",
-      "date": "2026-01-31",
-      "time": "19:00",
-      "team1": "PRAYON TROOZ B",
-      "team2": "THEUX BC D",
-      "category": "MM - DIVISION 4 B",
-      "location": "PRAYON TROOZ B",
       "other": ""
     },
     {
@@ -416,16 +376,6 @@
       "other": ""
     },
     {
-      "code": "524224",
-      "date": "2026-01-31",
-      "time": "11:00",
-      "team1": "BC SANKT VITH",
-      "team2": "THEUX BC B",
-      "category": "U 10 - MM E",
-      "location": "BC SANKT VITH",
-      "other": ""
-    },
-    {
       "code": "524232",
       "date": "2026-02-08",
       "time": "9:00",
@@ -496,16 +446,6 @@
       "other": ""
     },
     {
-      "code": "525224",
-      "date": "2026-01-31",
-      "time": "11:00",
-      "team1": "RABC ENSIVAL B",
-      "team2": "THEUX BC A",
-      "category": "U 10 - MM F",
-      "location": "RABC ENSIVAL B",
-      "other": ""
-    },
-    {
       "code": "525232",
       "date": "2026-02-08",
       "time": "11:00",
@@ -563,16 +503,6 @@
       "team2": "BC BELLEFLAMME C",
       "category": "U 10 - MM F",
       "location": "THEUX BC A",
-      "other": ""
-    },
-    {
-      "code": "500224",
-      "date": "2026-02-01",
-      "time": "9:00",
-      "team1": "PRAYON TROOZ A",
-      "team2": "THEUX BC B",
-      "category": "U 12 - MM A",
-      "location": "PRAYON TROOZ A",
       "other": ""
     },
     {
@@ -696,16 +626,6 @@
       "other": ""
     },
     {
-      "code": "480224",
-      "date": "2026-01-31",
-      "time": "9:30",
-      "team1": "RB TILFF A",
-      "team2": "THEUX BC A",
-      "category": "U 14 - ELITES MM A",
-      "location": "RB TILFF A",
-      "other": ""
-    },
-    {
       "code": "480132",
       "date": "2026-02-08",
       "time": "11:00",
@@ -763,16 +683,6 @@
       "team2": "THEUX BC A",
       "category": "U 14 - ELITES MM A",
       "location": "COLLEGE S LOUIS A",
-      "other": ""
-    },
-    {
-      "code": "490224",
-      "date": "2026-01-31",
-      "time": "13:00",
-      "team1": "BC SANKT VITH",
-      "team2": "THEUX BC B",
-      "category": "U 14 - PROV MM A",
-      "location": "BC SANKT VITH",
       "other": ""
     },
     {
@@ -836,16 +746,6 @@
       "other": ""
     },
     {
-      "code": "471223",
-      "date": "2026-01-31",
-      "time": "9:00",
-      "team1": "THEUX BC",
-      "team2": "ROYAL BC WANZE",
-      "category": "U 16 - PROV MM B",
-      "location": "THEUX BC",
-      "other": ""
-    },
-    {
       "code": "471193",
       "date": "2026-02-14",
       "time": "9:00",
@@ -903,16 +803,6 @@
       "team2": "THEUX BC",
       "category": "U 16 - PROV MM B",
       "location": "RBC BLEGNY",
-      "other": ""
-    },
-    {
-      "code": "430224",
-      "date": "2026-01-31",
-      "time": "13:00",
-      "team1": "BC COINTE",
-      "team2": "THEUX BC",
-      "category": "U 18 - ELITES MM A",
-      "location": "BC COINTE",
       "other": ""
     },
     {
@@ -1036,16 +926,6 @@
       "other": ""
     },
     {
-      "code": "550224",
-      "date": "2026-01-31",
-      "time": "9:00",
-      "team1": "BC BELLEFLAMME",
-      "team2": "THEUX BC",
-      "category": "U 7 - MM A",
-      "location": "BC BELLEFLAMME",
-      "other": ""
-    },
-    {
       "code": "550232",
       "date": "2026-02-07",
       "time": "9:00",
@@ -1113,16 +993,6 @@
       "team2": "BC VERVIERS",
       "category": "U 7 - MM A",
       "location": "THEUX BC",
-      "other": ""
-    },
-    {
-      "code": "540224",
-      "date": "2026-01-31",
-      "time": "11:00",
-      "team1": "RABC ENSIVAL",
-      "team2": "THEUX BC",
-      "category": "U 8 - MM A",
-      "location": "RABC ENSIVAL",
       "other": ""
     },
     {

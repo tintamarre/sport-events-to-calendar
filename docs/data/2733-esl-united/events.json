@@ -6,26 +6,6 @@
   },
   "events": [
     {
-      "code": "182",
-      "date": "2026-02-01",
-      "time": "17:00",
-      "team1": "BCCA NEUFCHATEAU B",
-      "team2": "ESL UNITED A",
-      "category": "COUPE AWBB MESSIEURS",
-      "location": "BCCA NEUFCHATEAU B",
-      "other": "(Salle BBC Brainois)"
-    },
-    {
-      "code": "401226",
-      "date": "2026-01-30",
-      "time": "19:00",
-      "team1": "ESL UNITED C",
-      "team2": "HENRI-CHAPELLE A",
-      "category": "MM - DIVISION 1",
-      "location": "ESL UNITED C",
-      "other": ""
-    },
-    {
       "code": "401195",
       "date": "2026-02-07",
       "time": "17:30",
@@ -123,16 +103,6 @@
       "team2": "BC BELLEFLAMME B",
       "category": "MM - DIVISION 1",
       "location": "ESL UNITED C",
-      "other": ""
-    },
-    {
-      "code": "402226",
-      "date": "2026-01-31",
-      "time": "19:00",
-      "team1": "ESL UNITED E",
-      "team2": "RBC ALLEUR C",
-      "category": "MM - DIVISION 2 A",
-      "location": "ESL UNITED E",
       "other": ""
     },
     {
@@ -236,26 +206,6 @@
       "other": ""
     },
     {
-      "code": "403222",
-      "date": "2026-01-31",
-      "time": "19:00",
-      "team1": "PEPINSTER EAST BELG C",
-      "team2": "ESL UNITED D",
-      "category": "MM - DIVISION 2 B",
-      "location": "PEPINSTER EAST BELG C",
-      "other": ""
-    },
-    {
-      "code": "403184",
-      "date": "2026-02-04",
-      "time": "20:30",
-      "team1": "ESL UNITED D",
-      "team2": "RB TILFF B",
-      "category": "MM - DIVISION 2 B",
-      "location": "ESL UNITED D",
-      "other": ""
-    },
-    {
       "code": "403244",
       "date": "2026-02-14",
       "time": "19:00",
@@ -333,16 +283,6 @@
       "team2": "PRAYON TROOZ A",
       "category": "MM - DIVISION 2 B",
       "location": "ESL UNITED D",
-      "other": ""
-    },
-    {
-      "code": "406226",
-      "date": "2026-02-01",
-      "time": "14:00",
-      "team1": "BBC EUPEN",
-      "team2": "ESL UNITED F",
-      "category": "MM - DIVISION 3 C",
-      "location": "BBC EUPEN",
       "other": ""
     },
     {
@@ -536,16 +476,6 @@
       "other": ""
     },
     {
-      "code": "NAHSE21BDG",
-      "date": "2026-01-31",
-      "time": "19:00",
-      "team1": "ANDENNE BASKET",
-      "team2": "ESL UNITED A",
-      "category": "TOP DIVISION MEN 2 B",
-      "location": "ANDENNE BASKET",
-      "other": ""
-    },
-    {
       "code": "NAHSE21BGE",
       "date": "2026-02-08",
       "time": "16:00",
@@ -633,16 +563,6 @@
       "team2": "ESL UNITED A",
       "category": "TOP DIVISION MEN 2 B",
       "location": "STEVOORT BBC",
-      "other": ""
-    },
-    {
-      "code": "AW161012",
-      "date": "2026-01-31",
-      "time": "11:00",
-      "team1": "RBC HANEFFE",
-      "team2": "ESL UNITED",
-      "category": "U 14 - GOLD REGIONAUX A",
-      "location": "RBC HANEFFE",
       "other": ""
     },
     {
@@ -786,16 +706,6 @@
       "other": ""
     },
     {
-      "code": "AW150012",
-      "date": "2026-01-31",
-      "time": "13:00",
-      "team1": "RBC HANEFFE",
-      "team2": "ESL UNITED",
-      "category": "U 18 - GOLD REGIONAUX A",
-      "location": "RBC HANEFFE",
-      "other": ""
-    },
-    {
       "code": "AW150006",
       "date": "2026-02-15",
       "time": "14:00",
@@ -863,16 +773,6 @@
       "team2": "DPK CARNIERES",
       "category": "U 18 - GOLD REGIONAUX A",
       "location": "ESL UNITED",
-      "other": ""
-    },
-    {
-      "code": "INJ2112BAF",
-      "date": "2026-02-04",
-      "time": "20:30",
-      "team1": "BBC FALCO GENT",
-      "team2": "ESL UNITED",
-      "category": "U 21 MM - NATIONAUX B",
-      "location": "BBC FALCO GENT",
       "other": ""
     },
     {

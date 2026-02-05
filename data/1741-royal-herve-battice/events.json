@@ -26,16 +26,6 @@
       "other": "(Salle de Grivegnée)"
     },
     {
-      "code": "413225",
-      "date": "2026-01-31",
-      "time": "21:00",
-      "team1": "RBC CROATIA OUPEYE",
-      "team2": "ROYAL HERVE-BATTICE C",
-      "category": "DD - DIVISION 1",
-      "location": "RBC CROATIA OUPEYE",
-      "other": ""
-    },
-    {
       "code": "413241",
       "date": "2026-02-15",
       "time": "17:00",
@@ -71,6 +61,16 @@
       "time": "19:00",
       "team1": "ROYAL HERVE-BATTICE C",
       "team2": "PEPINSTER EAST BELG B",
+      "category": "DD - DIVISION 1",
+      "location": "ROYAL HERVE-BATTICE C",
+      "other": ""
+    },
+    {
+      "code": "413211",
+      "date": "2026-03-26",
+      "time": "20:30",
+      "team1": "ROYAL HERVE-BATTICE C",
+      "team2": "BC BELLEFLAMME B",
       "category": "DD - DIVISION 1",
       "location": "ROYAL HERVE-BATTICE C",
       "other": ""
@@ -126,16 +126,6 @@
       "other": ""
     },
     {
-      "code": "416227",
-      "date": "2026-01-31",
-      "time": "21:00",
-      "team1": "RBC BLEGNY C",
-      "team2": "ROYAL HERVE-BATTICE D",
-      "category": "DD - DIVISION 3 A",
-      "location": "RBC BLEGNY C",
-      "other": ""
-    },
-    {
       "code": "416197",
       "date": "2026-02-07",
       "time": "19:00",
@@ -147,8 +137,8 @@
     },
     {
       "code": "416243",
-      "date": "2026-02-15",
-      "time": "13:00",
+      "date": "2026-03-07",
+      "time": "19:00",
       "team1": "ROYAL HERVE-BATTICE D",
       "team2": "RBC ESNEUX C",
       "category": "DD - DIVISION 3 A",
@@ -203,16 +193,6 @@
       "team2": "ROYAL BC WANZE",
       "category": "DD - DIVISION 3 A",
       "location": "ROYAL HERVE-BATTICE D",
-      "other": ""
-    },
-    {
-      "code": "AW104067",
-      "date": "2026-02-04",
-      "time": "21:00",
-      "team1": "HERVE-BATTICE A",
-      "team2": "NAMUR CAPITALE",
-      "category": "DD - REGIONALE 1",
-      "location": "HERVE-BATTICE A",
       "other": ""
     },
     {
@@ -293,16 +273,6 @@
       "team2": "UN HUY BASKET A",
       "category": "DD - REGIONALE 1",
       "location": "HERVE-BATTICE A",
-      "other": ""
-    },
-    {
-      "code": "AW106114",
-      "date": "2026-02-01",
-      "time": "15:00",
-      "team1": "NAMUR CAPITALE",
-      "team2": "HERVE-BATTICE B",
-      "category": "DD - REGIONALE 2 B",
-      "location": "NAMUR CAPITALE",
       "other": ""
     },
     {
@@ -406,16 +376,6 @@
       "other": ""
     },
     {
-      "code": "403187",
-      "date": "2026-01-29",
-      "time": "21:00",
-      "team1": "RBC VISE B",
-      "team2": "ROYAL HERVE-BATTICE A",
-      "category": "MM - DIVISION 2 B",
-      "location": "RBC VISE B",
-      "other": ""
-    },
-    {
       "code": "403242",
       "date": "2026-02-15",
       "time": "11:00",
@@ -503,16 +463,6 @@
       "team2": "PEPINSTER EAST BELG C",
       "category": "MM - DIVISION 2 B",
       "location": "ROYAL HERVE-BATTICE A",
-      "other": ""
-    },
-    {
-      "code": "404222",
-      "date": "2026-01-31",
-      "time": "19:00",
-      "team1": "ROYAL HERVE-BATTICE B",
-      "team2": "BC BELLEFLAMME E",
-      "category": "MM - DIVISION 3 A",
-      "location": "ROYAL HERVE-BATTICE B",
       "other": ""
     },
     {
@@ -716,16 +666,6 @@
       "other": ""
     },
     {
-      "code": "520225",
-      "date": "2026-02-01",
-      "time": "10:00",
-      "team1": "FLERON BBC",
-      "team2": "ROYAL HERVE-BATTICE A",
-      "category": "U 10 - MM A",
-      "location": "FLERON BBC",
-      "other": ""
-    },
-    {
       "code": "520191",
       "date": "2026-02-14",
       "time": "9:00",
@@ -773,16 +713,6 @@
       "team2": "ROYAL HERVE-BATTICE A",
       "category": "U 10 - MM A",
       "location": "HENRI-CHAPELLE A",
-      "other": ""
-    },
-    {
-      "code": "521225",
-      "date": "2026-01-31",
-      "time": "11:00",
-      "team1": "ROYAL HERVE-BATTICE B",
-      "team2": "RBC VISE A",
-      "category": "U 10 - MM B",
-      "location": "ROYAL HERVE-BATTICE B",
       "other": ""
     },
     {
@@ -896,16 +826,6 @@
       "other": ""
     },
     {
-      "code": "525221",
-      "date": "2026-02-01",
-      "time": "9:00",
-      "team1": "ALL. FLEMALLE C",
-      "team2": "ROYAL HERVE-BATTICE E",
-      "category": "U 10 - MM F",
-      "location": "ALL. FLEMALLE C",
-      "other": ""
-    },
-    {
       "code": "525235",
       "date": "2026-02-15",
       "time": "15:00",
@@ -956,16 +876,6 @@
       "other": ""
     },
     {
-      "code": "528225",
-      "date": "2026-01-31",
-      "time": "9:00",
-      "team1": "ROYAL HERVE-BATTICE C",
-      "team2": "RBC VISE B",
-      "category": "U 10 - MM I",
-      "location": "ROYAL HERVE-BATTICE C",
-      "other": ""
-    },
-    {
       "code": "528195",
       "date": "2026-02-14",
       "time": "9:30",
@@ -1013,16 +923,6 @@
       "team2": "COLLEGE S LOUIS B",
       "category": "U 10 - MM I",
       "location": "ROYAL HERVE-BATTICE C",
-      "other": ""
-    },
-    {
-      "code": "610221",
-      "date": "2026-01-31",
-      "time": "15:00",
-      "team1": "ROYAL HERVE-BATTICE",
-      "team2": "CRISTAL SGH",
-      "category": "U 12 - DD",
-      "location": "ROYAL HERVE-BATTICE",
       "other": ""
     },
     {
@@ -1136,16 +1036,6 @@
       "other": ""
     },
     {
-      "code": "503225",
-      "date": "2026-01-31",
-      "time": "11:00",
-      "team1": "ROYAL HERVE-BATTICE B",
-      "team2": "ABC WAREMME D",
-      "category": "U 12 - MM D",
-      "location": "ROYAL HERVE-BATTICE B",
-      "other": ""
-    },
-    {
       "code": "503195",
       "date": "2026-02-14",
       "time": "13:00",
@@ -1206,16 +1096,6 @@
       "other": ""
     },
     {
-      "code": "506225",
-      "date": "2026-01-31",
-      "time": "17:00",
-      "team1": "ROYAL HERVE-BATTICE D",
-      "team2": "RBC VISE B",
-      "category": "U 12 - MM G",
-      "location": "ROYAL HERVE-BATTICE D",
-      "other": ""
-    },
-    {
       "code": "506232",
       "date": "2026-02-07",
       "time": "13:00",
@@ -1263,16 +1143,6 @@
       "team2": "HENRI-CHAPELLE C",
       "category": "U 12 - MM G",
       "location": "ROYAL HERVE-BATTICE D",
-      "other": ""
-    },
-    {
-      "code": "600225",
-      "date": "2026-01-31",
-      "time": "11:00",
-      "team1": "CRISTAL SGH",
-      "team2": "ROYAL HERVE-BATTICE",
-      "category": "U 14 - DD A",
-      "location": "CRISTAL SGH",
       "other": ""
     },
     {
@@ -1366,16 +1236,6 @@
       "other": ""
     },
     {
-      "code": "480221",
-      "date": "2026-01-31",
-      "time": "15:45",
-      "team1": "ALL. FLEMALLE A",
-      "team2": "ROYAL HERVE-BATTICE",
-      "category": "U 14 - ELITES MM A",
-      "location": "ALL. FLEMALLE A",
-      "other": ""
-    },
-    {
       "code": "480272",
       "date": "2026-03-08",
       "time": "11:00",
@@ -1414,16 +1274,6 @@
       "category": "U 14 - ELITES MM A",
       "location": "RBC VISE A",
       "other": "(Salle de Fourons)"
-    },
-    {
-      "code": "590221",
-      "date": "2026-01-31",
-      "time": "15:00",
-      "team1": "ROYAL HERVE-BATTICE",
-      "team2": "RBC DISON-ANDRIMONT",
-      "category": "U 16 - DD A",
-      "location": "ROYAL HERVE-BATTICE",
-      "other": ""
     },
     {
       "code": "590231",
@@ -1553,16 +1403,6 @@
       "team2": "ROYAL HERVE-BATTICE",
       "category": "U 19 - DD B",
       "location": "ABC WAREMME A",
-      "other": ""
-    },
-    {
-      "code": "550221",
-      "date": "2026-01-31",
-      "time": "9:00",
-      "team1": "ROYAL HERVE-BATTICE A",
-      "team2": "RB TILFF A",
-      "category": "U 7 - MM A",
-      "location": "ROYAL HERVE-BATTICE A",
       "other": ""
     },
     {
@@ -1713,16 +1553,6 @@
       "team2": "BC COINTE",
       "category": "U 7 - MM B",
       "location": "ROYAL HERVE-BATTICE B",
-      "other": ""
-    },
-    {
-      "code": "543225",
-      "date": "2026-01-31",
-      "time": "15:00",
-      "team1": "CRISTAL SGH A",
-      "team2": "ROYAL HERVE-BATTICE A",
-      "category": "U 8 - MM D",
-      "location": "CRISTAL SGH A",
       "other": ""
     },
     {
