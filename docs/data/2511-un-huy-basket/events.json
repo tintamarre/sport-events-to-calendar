@@ -66,16 +66,6 @@
       "other": ""
     },
     {
-      "code": "AW104123",
-      "date": "2026-02-08",
-      "time": "11:00",
-      "team1": "BC CENTRE GAUME",
-      "team2": "UN HUY BASKET A",
-      "category": "DD - REGIONALE 1",
-      "location": "BC CENTRE GAUME",
-      "other": ""
-    },
-    {
       "code": "AW104129",
       "date": "2026-02-14",
       "time": "18:00",
@@ -166,16 +156,6 @@
       "other": ""
     },
     {
-      "code": "AW106031",
-      "date": "2026-02-08",
-      "time": "15:00",
-      "team1": "UN HUY BASKET B",
-      "team2": "HERVE-BATTICE B",
-      "category": "DD - REGIONALE 2 B",
-      "location": "UN HUY BASKET B",
-      "other": ""
-    },
-    {
       "code": "AW106129",
       "date": "2026-02-14",
       "time": "20:00",
@@ -263,16 +243,6 @@
       "team2": "UN HUY BASKET B",
       "category": "DD - REGIONALE 2 B",
       "location": "RBC HANEFFE A",
-      "other": ""
-    },
-    {
-      "code": "406197",
-      "date": "2026-02-07",
-      "time": "15:00",
-      "team1": "ESL UNITED F",
-      "team2": "UN HUY BASKET A",
-      "category": "MM - DIVISION 3 C",
-      "location": "ESL UNITED F",
       "other": ""
     },
     {
@@ -486,16 +456,6 @@
       "other": ""
     },
     {
-      "code": "530233",
-      "date": "2026-02-08",
-      "time": "13:00",
-      "team1": "RBC AWANS B",
-      "team2": "UN HUY BASKET B",
-      "category": "U 10 - MM K",
-      "location": "RBC AWANS B",
-      "other": ""
-    },
-    {
       "code": "530274",
       "date": "2026-03-07",
       "time": "9:00",
@@ -543,16 +503,6 @@
       "team2": "ROYAL BC WANZE B",
       "category": "U 10 - MM K",
       "location": "UN HUY BASKET B",
-      "other": ""
-    },
-    {
-      "code": "531233",
-      "date": "2026-02-07",
-      "time": "10:45",
-      "team1": "ROYAL ANS BC B",
-      "team2": "UN HUY BASKET C",
-      "category": "U 10 - MM L",
-      "location": "ROYAL ANS BC B",
       "other": ""
     },
     {
@@ -626,16 +576,6 @@
       "other": ""
     },
     {
-      "code": "509233",
-      "date": "2026-02-07",
-      "time": "10:45",
-      "team1": "ROYAL ANS BC B",
-      "team2": "UN HUY BASKET B",
-      "category": "U 12 - MM J",
-      "location": "ROYAL ANS BC B",
-      "other": ""
-    },
-    {
       "code": "509274",
       "date": "2026-03-07",
       "time": "11:00",
@@ -678,7 +618,7 @@
     {
       "code": "601261",
       "date": "2026-03-01",
-      "time": "9:00",
+      "time": "11:00",
       "team1": "RBC VISE",
       "team2": "UN HUY BASKET",
       "category": "U 14 - DD B",
@@ -726,16 +666,6 @@
       "other": ""
     },
     {
-      "code": "492233",
-      "date": "2026-02-07",
-      "time": "13:00",
-      "team1": "UN HUY BASKET",
-      "team2": "RBC ESNEUX B",
-      "category": "U 14 - PROV MM C",
-      "location": "UN HUY BASKET",
-      "other": ""
-    },
-    {
       "code": "492264",
       "date": "2026-02-15",
       "time": "13:00",
@@ -773,16 +703,6 @@
       "team2": "UN HUY BASKET",
       "category": "U 14 - PROV MM C",
       "location": "BC VERLAINE",
-      "other": ""
-    },
-    {
-      "code": "472234",
-      "date": "2026-02-07",
-      "time": "15:00",
-      "team1": "BC COINTE",
-      "team2": "UN HUY BASKET",
-      "category": "U 16 - PROV MM C",
-      "location": "BC COINTE",
       "other": ""
     },
     {
@@ -846,16 +766,6 @@
       "other": ""
     },
     {
-      "code": "431234",
-      "date": "2026-02-08",
-      "time": "10:00",
-      "team1": "RBC HANEFFE",
-      "team2": "UN HUY BASKET B",
-      "category": "U 18 - ELITES MM B",
-      "location": "RBC HANEFFE",
-      "other": ""
-    },
-    {
       "code": "431193",
       "date": "2026-02-14",
       "time": "15:00",
@@ -906,16 +816,6 @@
       "other": ""
     },
     {
-      "code": "553234",
-      "date": "2026-02-07",
-      "time": "9:00",
-      "team1": "UN HUY BASKET",
-      "team2": "ROYAL ANS BC",
-      "category": "U 7 - MM D",
-      "location": "UN HUY BASKET",
-      "other": ""
-    },
-    {
       "code": "553194",
       "date": "2026-02-14",
       "time": "9:00",
@@ -928,7 +828,7 @@
     {
       "code": "553276",
       "date": "2026-03-07",
-      "time": "12:00",
+      "time": "11:00",
       "team1": "HANNUT BC",
       "team2": "UN HUY BASKET",
       "category": "U 7 - MM D",
@@ -938,7 +838,7 @@
     {
       "code": "553264",
       "date": "2026-03-14",
-      "time": "9:00",
+      "time": "13:00",
       "team1": "UN HUY BASKET",
       "team2": "RBC AWANS",
       "category": "U 7 - MM D",
@@ -983,16 +883,6 @@
       "team2": "UN HUY BASKET",
       "category": "U 7 - MM D",
       "location": "ALL. FLEMALLE A",
-      "other": ""
-    },
-    {
-      "code": "545233",
-      "date": "2026-02-07",
-      "time": "11:00",
-      "team1": "RBC HANEFFE",
-      "team2": "UN HUY BASKET",
-      "category": "U 8 - MM F",
-      "location": "RBC HANEFFE",
       "other": ""
     },
     {

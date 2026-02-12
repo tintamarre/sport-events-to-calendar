@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "416191",
-      "date": "2026-02-08",
-      "time": "15:00",
-      "team1": "LA VILLERSOISE B",
-      "team2": "BCM HERSTAL",
-      "category": "DD - DIVISION 3 A",
-      "location": "LA VILLERSOISE B",
-      "other": ""
-    },
-    {
       "code": "416242",
       "date": "2026-02-14",
       "time": "18:30",
@@ -216,16 +206,6 @@
       "other": ""
     },
     {
-      "code": "408277",
-      "date": "2026-03-08",
-      "time": "10:00",
-      "team1": "BCM HERSTAL B",
-      "team2": "R HT-PRE OUGREE A",
-      "category": "MM - DIVISION 4 B",
-      "location": "BCM HERSTAL B",
-      "other": ""
-    },
-    {
       "code": "408217",
       "date": "2026-03-15",
       "time": "10:00",
@@ -254,6 +234,16 @@
       "category": "MM - DIVISION 4 B",
       "location": "ROYAL BC NINANE F",
       "other": "(Vaux/Chèvremont)"
+    },
+    {
+      "code": "408277",
+      "date": "2026-04-01",
+      "time": "20:00",
+      "team1": "BCM HERSTAL B",
+      "team2": "R HT-PRE OUGREE A",
+      "category": "MM - DIVISION 4 B",
+      "location": "BCM HERSTAL B",
+      "other": ""
     },
     {
       "code": "408317",
@@ -343,6 +333,16 @@
       "team2": "BCM HERSTAL C",
       "category": "MM - DIVISION 4 D",
       "location": "GIANTS BRAIVES B",
+      "other": ""
+    },
+    {
+      "code": "410151",
+      "date": "2026-04-01",
+      "time": "20:00",
+      "team1": "HARIMALIA BC E",
+      "team2": "BCM HERSTAL C",
+      "category": "MM - DIVISION 4 D",
+      "location": "HARIMALIA BC E",
       "other": ""
     },
     {
@@ -566,16 +566,6 @@
       "other": ""
     },
     {
-      "code": "600023",
-      "date": "2026-02-07",
-      "time": "17:00",
-      "team1": "DF BC MALMEDY",
-      "team2": "BCM HERSTAL",
-      "category": "U 14 - DD A",
-      "location": "DF BC MALMEDY",
-      "other": ""
-    },
-    {
       "code": "600196",
       "date": "2026-02-14",
       "time": "12:30",
@@ -733,16 +723,6 @@
       "team2": "RABC ENSIVAL A",
       "category": "U 14 - PROV MM D",
       "location": "BCM HERSTAL",
-      "other": ""
-    },
-    {
-      "code": "591234",
-      "date": "2026-02-07",
-      "time": "9:00",
-      "team1": "LA VILLERSOISE",
-      "team2": "BCM HERSTAL",
-      "category": "U 16 - DD B",
-      "location": "LA VILLERSOISE",
       "other": ""
     },
     {

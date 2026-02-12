@@ -6,26 +6,6 @@
   },
   "events": [
     {
-      "code": "762134",
-      "date": "2026-02-08",
-      "time": "16:45",
-      "team1": "PEPINSTER EAST BELG",
-      "team2": "BBC EUPEN A",
-      "category": "CPE PROV CADETS",
-      "location": "PEPINSTER EAST BELG",
-      "other": "(Salle de Sprimont)"
-    },
-    {
-      "code": "406195",
-      "date": "2026-02-07",
-      "time": "17:00",
-      "team1": "CRISTAL SGH B",
-      "team2": "BBC EUPEN",
-      "category": "MM - DIVISION 3 C",
-      "location": "CRISTAL SGH B",
-      "other": ""
-    },
-    {
       "code": "406241",
       "date": "2026-02-14",
       "time": "19:00",
@@ -106,16 +86,6 @@
       "other": ""
     },
     {
-      "code": "524193",
-      "date": "2026-02-07",
-      "time": "13:00",
-      "team1": "DF BC MALMEDY",
-      "team2": "BBC EUPEN",
-      "category": "U 10 - MM E",
-      "location": "DF BC MALMEDY",
-      "other": ""
-    },
-    {
       "code": "524266",
       "date": "2026-02-28",
       "time": "9:30",
@@ -163,16 +133,6 @@
       "team2": "ROYAL HERVE-BATTICE D",
       "category": "U 10 - MM E",
       "location": "BBC EUPEN",
-      "other": ""
-    },
-    {
-      "code": "504231",
-      "date": "2026-02-08",
-      "time": "13:00",
-      "team1": "HARIMALIA BC A",
-      "team2": "BBC EUPEN",
-      "category": "U 12 - MM E",
-      "location": "HARIMALIA BC A",
       "other": ""
     },
     {
@@ -226,16 +186,6 @@
       "other": ""
     },
     {
-      "code": "490236",
-      "date": "2026-02-07",
-      "time": "13:00",
-      "team1": "ATLAS A JUPILLE B",
-      "team2": "BBC EUPEN",
-      "category": "U 14 - PROV MM A",
-      "location": "ATLAS A JUPILLE B",
-      "other": ""
-    },
-    {
       "code": "490326",
       "date": "2026-02-21",
       "time": "11:00",
@@ -273,16 +223,6 @@
       "team2": "PRAYON TROOZ",
       "category": "U 14 - PROV MM A",
       "location": "BBC EUPEN",
-      "other": ""
-    },
-    {
-      "code": "470232",
-      "date": "2026-02-08",
-      "time": "11:00",
-      "team1": "PEPINSTER EAST BELG B",
-      "team2": "BBC EUPEN",
-      "category": "U 16 - PROV MM A",
-      "location": "PEPINSTER EAST BELG B",
       "other": ""
     },
     {
@@ -336,16 +276,6 @@
       "other": ""
     },
     {
-      "code": "430236",
-      "date": "2026-02-07",
-      "time": "17:00",
-      "team1": "BC VERVIERS",
-      "team2": "BBC EUPEN A",
-      "category": "U 18 - ELITES MM A",
-      "location": "BC VERVIERS",
-      "other": ""
-    },
-    {
       "code": "430193",
       "date": "2026-02-14",
       "time": "13:00",
@@ -353,6 +283,16 @@
       "team2": "BBC EUPEN A",
       "category": "U 18 - ELITES MM A",
       "location": "RSW LIEGE BASKET B",
+      "other": ""
+    },
+    {
+      "code": "430215",
+      "date": "2026-02-22",
+      "time": "9:30",
+      "team1": "ROYAL MOSA AC 1941",
+      "team2": "BBC EUPEN A",
+      "category": "U 18 - ELITES MM A",
+      "location": "ROYAL MOSA AC 1941",
       "other": ""
     },
     {
@@ -393,16 +333,6 @@
       "team2": "BBC EUPEN A",
       "category": "U 18 - ELITES MM A",
       "location": "RBC VISE A",
-      "other": ""
-    },
-    {
-      "code": "430215",
-      "date": "2026-04-05",
-      "time": "9:30",
-      "team1": "ROYAL MOSA AC 1941",
-      "team2": "BBC EUPEN A",
-      "category": "U 18 - ELITES MM A",
-      "location": "ROYAL MOSA AC 1941",
       "other": ""
     },
     {

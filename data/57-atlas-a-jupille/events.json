@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "760561",
-      "date": "2026-02-08",
-      "time": "14:30",
-      "team1": "ATLAS A JUPILLE (+ 5)",
-      "team2": "RBC ESNEUX A",
-      "category": "CPE PROV DAMES",
-      "location": "ATLAS A JUPILLE (+ 5)",
-      "other": "(Salle de Sprimont)"
-    },
-    {
       "code": "414246",
       "date": "2026-02-14",
       "time": "19:00",
@@ -43,6 +33,16 @@
       "team2": "ATLAS A JUPILLE",
       "category": "DD - DIVISION 2 A",
       "location": "ABC WAREMME A",
+      "other": ""
+    },
+    {
+      "code": "414216",
+      "date": "2026-03-03",
+      "time": "20:00",
+      "team1": "ATLAS A JUPILLE",
+      "team2": "ROYAL BC NINANE A",
+      "category": "DD - DIVISION 2 A",
+      "location": "ATLAS A JUPILLE",
       "other": ""
     },
     {
@@ -93,26 +93,6 @@
       "team2": "BC SPRIMONT B",
       "category": "DD - DIVISION 2 A",
       "location": "ATLAS A JUPILLE",
-      "other": ""
-    },
-    {
-      "code": "402195",
-      "date": "2026-02-08",
-      "time": "17:00",
-      "team1": "ATLAS A JUPILLE B",
-      "team2": "ESL UNITED E",
-      "category": "MM - DIVISION 2 A",
-      "location": "ATLAS A JUPILLE B",
-      "other": ""
-    },
-    {
-      "code": "402215",
-      "date": "2026-02-11",
-      "time": "20:00",
-      "team1": "ATLAS A JUPILLE B",
-      "team2": "RBC VISE A",
-      "category": "MM - DIVISION 2 A",
-      "location": "ATLAS A JUPILLE B",
       "other": ""
     },
     {
@@ -276,16 +256,6 @@
       "other": ""
     },
     {
-      "code": "AW102032",
-      "date": "2026-02-07",
-      "time": "19:00",
-      "team1": "BC FRAIRE",
-      "team2": "ATLAS A JUPILLE A",
-      "category": "MM - REGIONALE 2 A",
-      "location": "BC FRAIRE",
-      "other": ""
-    },
-    {
       "code": "AW102132",
       "date": "2026-02-14",
       "time": "20:30",
@@ -406,16 +376,6 @@
       "other": ""
     },
     {
-      "code": "528236",
-      "date": "2026-02-08",
-      "time": "14:00",
-      "team1": "MAIL. COMBLAIN",
-      "team2": "ATLAS A JUPILLE B",
-      "category": "U 10 - MM I",
-      "location": "MAIL. COMBLAIN",
-      "other": ""
-    },
-    {
       "code": "528193",
       "date": "2026-02-14",
       "time": "11:30",
@@ -513,16 +473,6 @@
       "team2": "ATLAS A JUPILLE",
       "category": "U 12 - MM I",
       "location": "VAIL. JUPILLE",
-      "other": ""
-    },
-    {
-      "code": "601233",
-      "date": "2026-02-08",
-      "time": "13:00",
-      "team1": "ATLAS A JUPILLE",
-      "team2": "RBC HANEFFE",
-      "category": "U 14 - DD B",
-      "location": "ATLAS A JUPILLE",
       "other": ""
     },
     {
@@ -626,16 +576,6 @@
       "other": ""
     },
     {
-      "code": "490236",
-      "date": "2026-02-07",
-      "time": "13:00",
-      "team1": "ATLAS A JUPILLE B",
-      "team2": "BBC EUPEN",
-      "category": "U 14 - PROV MM A",
-      "location": "ATLAS A JUPILLE B",
-      "other": ""
-    },
-    {
       "code": "490196",
       "date": "2026-02-14",
       "time": "13:00",
@@ -706,16 +646,6 @@
       "other": ""
     },
     {
-      "code": "590233",
-      "date": "2026-02-07",
-      "time": "17:00",
-      "team1": "ATLAS A JUPILLE",
-      "team2": "BC COINTE",
-      "category": "U 16 - DD A",
-      "location": "ATLAS A JUPILLE",
-      "other": ""
-    },
-    {
       "code": "590264",
       "date": "2026-03-01",
       "time": "10:00",
@@ -776,16 +706,6 @@
       "other": ""
     },
     {
-      "code": "451236",
-      "date": "2026-02-07",
-      "time": "15:00",
-      "team1": "ATLAS A JUPILLE A",
-      "team2": "COLLEGE S LOUIS A",
-      "category": "U 16 - ELITES MM B",
-      "location": "ATLAS A JUPILLE A",
-      "other": ""
-    },
-    {
       "code": "451196",
       "date": "2026-02-14",
       "time": "15:00",
@@ -843,16 +763,6 @@
       "team2": "ATLAS A JUPILLE A",
       "category": "U 16 - ELITES MM B",
       "location": "RBC ESNEUX",
-      "other": ""
-    },
-    {
-      "code": "470236",
-      "date": "2026-02-07",
-      "time": "12:00",
-      "team1": "R HT-PRE OUGREE",
-      "team2": "ATLAS A JUPILLE B",
-      "category": "U 16 - PROV MM A",
-      "location": "R HT-PRE OUGREE",
       "other": ""
     },
     {
@@ -926,16 +836,6 @@
       "other": ""
     },
     {
-      "code": "AW160012",
-      "date": "2026-02-08",
-      "time": "11:00",
-      "team1": "ATLAS A JUPILLE",
-      "team2": "CANTER SCHAERBEEK",
-      "category": "U 16 - SILVER REGIONAUX D",
-      "location": "ATLAS A JUPILLE",
-      "other": ""
-    },
-    {
       "code": "AW160014",
       "date": "2026-02-15",
       "time": "9:30",
@@ -996,16 +896,6 @@
       "other": ""
     },
     {
-      "code": "430231",
-      "date": "2026-02-08",
-      "time": "15:00",
-      "team1": "ATLAS A JUPILLE",
-      "team2": "RBC VISE A",
-      "category": "U 18 - ELITES MM A",
-      "location": "ATLAS A JUPILLE",
-      "other": ""
-    },
-    {
       "code": "430262",
       "date": "2026-03-01",
       "time": "15:00",
@@ -1046,16 +936,6 @@
       "other": ""
     },
     {
-      "code": "AW152012",
-      "date": "2026-02-07",
-      "time": "11:00",
-      "team1": "ATLAS A JUPILLE",
-      "team2": "BC CENTRE GAUME",
-      "category": "U 18 - SILVER REGIONAUX A",
-      "location": "ATLAS A JUPILLE",
-      "other": ""
-    },
-    {
       "code": "AW152014",
       "date": "2026-02-15",
       "time": "13:00",
@@ -1063,16 +943,6 @@
       "team2": "ATLAS A JUPILLE",
       "category": "U 18 - SILVER REGIONAUX A",
       "location": "BC COINTE",
-      "other": ""
-    },
-    {
-      "code": "AW152004",
-      "date": "2026-02-21",
-      "time": "13:30",
-      "team1": "ROYAL NIVELLES",
-      "team2": "ATLAS A JUPILLE",
-      "category": "U 18 - SILVER REGIONAUX A",
-      "location": "ROYAL NIVELLES",
       "other": ""
     },
     {
@@ -1113,6 +983,16 @@
       "team2": "ROYAL NIVELLES",
       "category": "U 18 - SILVER REGIONAUX A",
       "location": "ATLAS A JUPILLE",
+      "other": ""
+    },
+    {
+      "code": "AW152004",
+      "date": "2026-04-04",
+      "time": "14:30",
+      "team1": "ROYAL NIVELLES",
+      "team2": "ATLAS A JUPILLE",
+      "category": "U 18 - SILVER REGIONAUX A",
+      "location": "ROYAL NIVELLES",
       "other": ""
     },
     {
@@ -1206,16 +1086,6 @@
       "other": ""
     },
     {
-      "code": "581234",
-      "date": "2026-02-07",
-      "time": "13:00",
-      "team1": "ABC WAREMME A",
-      "team2": "ATLAS A JUPILLE",
-      "category": "U 19 - DD B",
-      "location": "ABC WAREMME A",
-      "other": ""
-    },
-    {
       "code": "581193",
       "date": "2026-02-14",
       "time": "11:00",
@@ -1263,16 +1133,6 @@
       "team2": "RBC BLEGNY",
       "category": "U 19 - DD B",
       "location": "ATLAS A JUPILLE",
-      "other": ""
-    },
-    {
-      "code": "541236",
-      "date": "2026-02-07",
-      "time": "14:30",
-      "team1": "BC VERVIERS",
-      "team2": "ATLAS A JUPILLE",
-      "category": "U 8 - MM B",
-      "location": "BC VERVIERS",
       "other": ""
     },
     {

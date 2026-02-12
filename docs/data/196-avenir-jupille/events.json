@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "415191",
-      "date": "2026-02-07",
-      "time": "19:00",
-      "team1": "RBC VISE A",
-      "team2": "AVENIR JUPILLE B",
-      "category": "DD - DIVISION 2 B",
-      "location": "RBC VISE A",
-      "other": ""
-    },
-    {
       "code": "415242",
       "date": "2026-02-14",
       "time": "21:00",
@@ -43,16 +33,6 @@
       "team2": "R 4A AYWAILLE-HAMOIR A",
       "category": "DD - DIVISION 2 B",
       "location": "AVENIR JUPILLE B",
-      "other": ""
-    },
-    {
-      "code": "415162",
-      "date": "2026-03-09",
-      "time": "20:00",
-      "team1": "PEPINSTER EAST BELG C",
-      "team2": "AVENIR JUPILLE B",
-      "category": "DD - DIVISION 2 B",
-      "location": "PEPINSTER EAST BELG C",
       "other": ""
     },
     {
@@ -233,6 +213,16 @@
       "team2": "ROYAL SPA BC E",
       "category": "MM - DIVISION 4 E",
       "location": "AVENIR JUPILLE B",
+      "other": ""
+    },
+    {
+      "code": "411186",
+      "date": "2026-03-10",
+      "time": "19:00",
+      "team1": "DF BC MALMEDY",
+      "team2": "AVENIR JUPILLE B",
+      "category": "MM - DIVISION 4 E",
+      "location": "DF BC MALMEDY",
       "other": ""
     },
     {

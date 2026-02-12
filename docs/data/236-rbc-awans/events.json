@@ -6,36 +6,6 @@
   },
   "events": [
     {
-      "code": "772113",
-      "date": "2026-02-08",
-      "time": "10:00",
-      "team1": "RBC AWANS",
-      "team2": "ABC WAREMME A",
-      "category": "CPE PROV CADETTES",
-      "location": "RBC AWANS",
-      "other": "(Salle de Sprimont)"
-    },
-    {
-      "code": "773117",
-      "date": "2026-02-07",
-      "time": "15:00",
-      "team1": "RBC AWANS A",
-      "team2": "ROYAL BC WANZE",
-      "category": "CPE PROV MINIMES DD",
-      "location": "RBC AWANS A",
-      "other": "(Salle de Sprimont)"
-    },
-    {
-      "code": "417197",
-      "date": "2026-02-07",
-      "time": "21:00",
-      "team1": "ORP JAUCHE",
-      "team2": "RBC AWANS",
-      "category": "DD - DIVISION 3 B",
-      "location": "ORP JAUCHE",
-      "other": ""
-    },
-    {
       "code": "417166",
       "date": "2026-02-14",
       "time": "19:00",
@@ -206,16 +176,6 @@
       "other": ""
     },
     {
-      "code": "408193",
-      "date": "2026-02-07",
-      "time": "19:00",
-      "team1": "RBC AWANS B",
-      "team2": "HANNUT BC C",
-      "category": "MM - DIVISION 4 B",
-      "location": "RBC AWANS B",
-      "other": ""
-    },
-    {
       "code": "408244",
       "date": "2026-02-15",
       "time": "14:30",
@@ -294,16 +254,6 @@
       "category": "MM - DIVISION 4 B",
       "location": "CRISTAL SGH D",
       "other": "(Ecole de la Troque)"
-    },
-    {
-      "code": "410193",
-      "date": "2026-02-07",
-      "time": "21:00",
-      "team1": "RBC AWANS C",
-      "team2": "ORP JAUCHE B",
-      "category": "MM - DIVISION 4 D",
-      "location": "RBC AWANS C",
-      "other": ""
     },
     {
       "code": "410244",
@@ -386,16 +336,6 @@
       "other": ""
     },
     {
-      "code": "523233",
-      "date": "2026-02-08",
-      "time": "11:00",
-      "team1": "RBC AWANS A",
-      "team2": "RBC ESNEUX B",
-      "category": "U 10 - MM D",
-      "location": "RBC AWANS A",
-      "other": ""
-    },
-    {
       "code": "523196",
       "date": "2026-02-14",
       "time": "11:00",
@@ -446,16 +386,6 @@
       "other": ""
     },
     {
-      "code": "530233",
-      "date": "2026-02-08",
-      "time": "13:00",
-      "team1": "RBC AWANS B",
-      "team2": "UN HUY BASKET B",
-      "category": "U 10 - MM K",
-      "location": "RBC AWANS B",
-      "other": ""
-    },
-    {
       "code": "530264",
       "date": "2026-02-28",
       "time": "14:00",
@@ -493,16 +423,6 @@
       "team2": "RBC AWANS B",
       "category": "U 10 - MM K",
       "location": "BC VERLAINE",
-      "other": ""
-    },
-    {
-      "code": "610234",
-      "date": "2026-02-07",
-      "time": "9:00",
-      "team1": "RBC DISON-ANDRIMONT",
-      "team2": "RBC AWANS",
-      "category": "U 12 - DD",
-      "location": "RBC DISON-ANDRIMONT",
       "other": ""
     },
     {
@@ -566,16 +486,6 @@
       "other": ""
     },
     {
-      "code": "501233",
-      "date": "2026-02-08",
-      "time": "9:00",
-      "team1": "RBC AWANS A",
-      "team2": "LA VILLERSOISE C",
-      "category": "U 12 - MM B",
-      "location": "RBC AWANS A",
-      "other": ""
-    },
-    {
       "code": "501264",
       "date": "2026-02-21",
       "time": "11:30",
@@ -626,16 +536,6 @@
       "other": ""
     },
     {
-      "code": "601234",
-      "date": "2026-02-07",
-      "time": "10:45",
-      "team1": "R REN. MONTEGNEE",
-      "team2": "RBC AWANS",
-      "category": "U 14 - DD B",
-      "location": "R REN. MONTEGNEE",
-      "other": ""
-    },
-    {
       "code": "601193",
       "date": "2026-02-14",
       "time": "13:00",
@@ -676,6 +576,16 @@
       "other": ""
     },
     {
+      "code": "601223",
+      "date": "2026-04-04",
+      "time": "17:00",
+      "team1": "RBC AWANS",
+      "team2": "MAIL. COMBLAIN",
+      "category": "U 14 - DD B",
+      "location": "RBC AWANS",
+      "other": ""
+    },
+    {
       "code": "601323",
       "date": "2026-04-11",
       "time": "13:00",
@@ -693,16 +603,6 @@
       "team2": "RBC AWANS",
       "category": "U 14 - DD B",
       "location": "UN HUY BASKET",
-      "other": ""
-    },
-    {
-      "code": "493234",
-      "date": "2026-02-07",
-      "time": "10:30",
-      "team1": "RBC ESNEUX A",
-      "team2": "RBC AWANS",
-      "category": "U 14 - PROV MM D",
-      "location": "RBC ESNEUX A",
       "other": ""
     },
     {
@@ -753,16 +653,6 @@
       "team2": "RBC AWANS",
       "category": "U 14 - PROV MM D",
       "location": "ROYAL ANS BC",
-      "other": ""
-    },
-    {
-      "code": "590234",
-      "date": "2026-02-08",
-      "time": "10:00",
-      "team1": "MAIL. COMBLAIN",
-      "team2": "RBC AWANS B",
-      "category": "U 16 - DD A",
-      "location": "MAIL. COMBLAIN",
       "other": ""
     },
     {
@@ -896,16 +786,6 @@
       "other": ""
     },
     {
-      "code": "451233",
-      "date": "2026-02-07",
-      "time": "13:00",
-      "team1": "RBC AWANS",
-      "team2": "RBC ESNEUX",
-      "category": "U 16 - ELITES MM B",
-      "location": "RBC AWANS",
-      "other": ""
-    },
-    {
       "code": "451196",
       "date": "2026-02-14",
       "time": "15:00",
@@ -963,16 +843,6 @@
       "team2": "RBC AWANS",
       "category": "U 16 - ELITES MM B",
       "location": "VAIL. JUPILLE",
-      "other": ""
-    },
-    {
-      "code": "432233",
-      "date": "2026-02-07",
-      "time": "11:00",
-      "team1": "RBC AWANS A",
-      "team2": "RBC ESNEUX",
-      "category": "U 18 - ELITES MM C",
-      "location": "RBC AWANS A",
       "other": ""
     },
     {
@@ -1096,16 +966,6 @@
       "other": ""
     },
     {
-      "code": "580232",
-      "date": "2026-02-07",
-      "time": "17:00",
-      "team1": "RBC AWANS",
-      "team2": "RBC AUBEL",
-      "category": "U 19 - DD A",
-      "location": "RBC AWANS",
-      "other": ""
-    },
-    {
       "code": "580272",
       "date": "2026-03-07",
       "time": "17:00",
@@ -1156,16 +1016,6 @@
       "other": ""
     },
     {
-      "code": "553233",
-      "date": "2026-02-08",
-      "time": "15:00",
-      "team1": "RBC AWANS",
-      "team2": "LA VILLERSOISE A",
-      "category": "U 7 - MM D",
-      "location": "RBC AWANS",
-      "other": ""
-    },
-    {
       "code": "553196",
       "date": "2026-02-14",
       "time": "12:00",
@@ -1188,7 +1038,7 @@
     {
       "code": "553264",
       "date": "2026-03-14",
-      "time": "9:00",
+      "time": "13:00",
       "team1": "UN HUY BASKET",
       "team2": "RBC AWANS",
       "category": "U 7 - MM D",

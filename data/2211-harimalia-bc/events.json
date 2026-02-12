@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "401151",
-      "date": "2026-02-11",
-      "time": "20:30",
-      "team1": "HARIMALIA BC A",
-      "team2": "HENRI-CHAPELLE A",
-      "category": "MM - DIVISION 1",
-      "location": "HARIMALIA BC A",
-      "other": ""
-    },
-    {
       "code": "401241",
       "date": "2026-02-15",
       "time": "13:00",
@@ -133,6 +123,16 @@
       "team2": "HARIMALIA BC C",
       "category": "MM - DIVISION 2 A",
       "location": "FLERON BBC A",
+      "other": ""
+    },
+    {
+      "code": "402181",
+      "date": "2026-03-18",
+      "time": "20:00",
+      "team1": "ABC WAREMME B",
+      "team2": "HARIMALIA BC C",
+      "category": "MM - DIVISION 2 A",
+      "location": "ABC WAREMME B",
       "other": ""
     },
     {
@@ -276,16 +276,6 @@
       "other": ""
     },
     {
-      "code": "405191",
-      "date": "2026-02-07",
-      "time": "19:00",
-      "team1": "HARIMALIA BC D",
-      "team2": "RABC ENSIVAL B",
-      "category": "MM - DIVISION 3 B",
-      "location": "HARIMALIA BC D",
-      "other": ""
-    },
-    {
       "code": "405241",
       "date": "2026-02-14",
       "time": "21:00",
@@ -396,6 +386,16 @@
       "other": ""
     },
     {
+      "code": "409034",
+      "date": "2026-03-05",
+      "time": "20:00",
+      "team1": "R REN. MONTEGNEE",
+      "team2": "HARIMALIA BC F",
+      "category": "MM - DIVISION 4 C",
+      "location": "R REN. MONTEGNEE",
+      "other": ""
+    },
+    {
       "code": "409271",
       "date": "2026-03-07",
       "time": "19:00",
@@ -466,16 +466,6 @@
       "other": ""
     },
     {
-      "code": "410225",
-      "date": "2026-02-08",
-      "time": "15:00",
-      "team1": "CRISTAL SGH E",
-      "team2": "HARIMALIA BC E",
-      "category": "MM - DIVISION 4 D",
-      "location": "CRISTAL SGH E",
-      "other": "(Salle de la Troque)"
-    },
-    {
       "code": "410241",
       "date": "2026-02-15",
       "time": "15:00",
@@ -536,6 +526,16 @@
       "other": ""
     },
     {
+      "code": "410151",
+      "date": "2026-04-01",
+      "time": "20:00",
+      "team1": "HARIMALIA BC E",
+      "team2": "BCM HERSTAL C",
+      "category": "MM - DIVISION 4 D",
+      "location": "HARIMALIA BC E",
+      "other": ""
+    },
+    {
       "code": "410311",
       "date": "2026-04-05",
       "time": "11:00",
@@ -563,16 +563,6 @@
       "team2": "RB TILFF D",
       "category": "MM - DIVISION 4 D",
       "location": "HARIMALIA BC E",
-      "other": ""
-    },
-    {
-      "code": "526231",
-      "date": "2026-02-08",
-      "time": "9:00",
-      "team1": "HARIMALIA BC B",
-      "team2": "ALL. FLEMALLE D",
-      "category": "U 10 - MM G",
-      "location": "HARIMALIA BC B",
       "other": ""
     },
     {
@@ -626,16 +616,6 @@
       "other": ""
     },
     {
-      "code": "531231",
-      "date": "2026-02-08",
-      "time": "9:00",
-      "team1": "HARIMALIA BC A",
-      "team2": "RBC ALLEUR C",
-      "category": "U 10 - MM L",
-      "location": "HARIMALIA BC A",
-      "other": ""
-    },
-    {
       "code": "531291",
       "date": "2026-03-22",
       "time": "9:00",
@@ -653,16 +633,6 @@
       "team2": "HARIMALIA BC A",
       "category": "U 10 - MM L",
       "location": "HANNUT BC",
-      "other": ""
-    },
-    {
-      "code": "504231",
-      "date": "2026-02-08",
-      "time": "13:00",
-      "team1": "HARIMALIA BC A",
-      "team2": "BBC EUPEN",
-      "category": "U 12 - MM E",
-      "location": "HARIMALIA BC A",
       "other": ""
     },
     {
@@ -723,16 +693,6 @@
       "team2": "CRISTAL SGH C",
       "category": "U 12 - MM E",
       "location": "HARIMALIA BC A",
-      "other": ""
-    },
-    {
-      "code": "505231",
-      "date": "2026-02-08",
-      "time": "9:00",
-      "team1": "HARIMALIA BC B",
-      "team2": "HENRI-CHAPELLE B",
-      "category": "U 12 - MM F",
-      "location": "HARIMALIA BC B",
       "other": ""
     },
     {
@@ -816,16 +776,6 @@
       "other": ""
     },
     {
-      "code": "493231",
-      "date": "2026-02-08",
-      "time": "17:00",
-      "team1": "HARIMALIA BC B",
-      "team2": "ALL. FLEMALLE B",
-      "category": "U 14 - PROV MM D",
-      "location": "HARIMALIA BC B",
-      "other": ""
-    },
-    {
       "code": "493262",
       "date": "2026-02-28",
       "time": "13:00",
@@ -873,16 +823,6 @@
       "team2": "HARIMALIA BC B",
       "category": "U 14 - PROV MM D",
       "location": "HANNUT BC",
-      "other": ""
-    },
-    {
-      "code": "451231",
-      "date": "2026-02-08",
-      "time": "11:00",
-      "team1": "HARIMALIA BC A",
-      "team2": "LA VILLERSOISE B",
-      "category": "U 16 - ELITES MM B",
-      "location": "HARIMALIA BC A",
       "other": ""
     },
     {
@@ -943,16 +883,6 @@
       "team2": "R 4A AYWAILLE-HAMOIR",
       "category": "U 16 - ELITES MM B",
       "location": "HARIMALIA BC A",
-      "other": ""
-    },
-    {
-      "code": "471233",
-      "date": "2026-02-08",
-      "time": "15:00",
-      "team1": "HARIMALIA BC B",
-      "team2": "PRAYON TROOZ A",
-      "category": "U 16 - PROV MM B",
-      "location": "HARIMALIA BC B",
       "other": ""
     },
     {
@@ -1036,16 +966,6 @@
       "other": ""
     },
     {
-      "code": "552231",
-      "date": "2026-02-07",
-      "time": "12:30",
-      "team1": "RB TILFF B",
-      "team2": "HARIMALIA BC",
-      "category": "U 7 - MM C",
-      "location": "RB TILFF B",
-      "other": ""
-    },
-    {
       "code": "552192",
       "date": "2026-02-14",
       "time": "11:00",
@@ -1123,16 +1043,6 @@
       "team2": "HARIMALIA BC",
       "category": "U 7 - MM C",
       "location": "CRISTAL SGH A",
-      "other": ""
-    },
-    {
-      "code": "541231",
-      "date": "2026-02-07",
-      "time": "9:00",
-      "team1": "ROYAL SPA BC B",
-      "team2": "HARIMALIA BC",
-      "category": "U 8 - MM B",
-      "location": "ROYAL SPA BC B",
       "other": ""
     },
     {

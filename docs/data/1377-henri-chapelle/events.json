@@ -6,36 +6,6 @@
   },
   "events": [
     {
-      "code": "763145",
-      "date": "2026-02-08",
-      "time": "12:15",
-      "team1": "BC VERVIERS",
-      "team2": "HENRI-CHAPELLE",
-      "category": "CPE PROV MINIMES MM",
-      "location": "BC VERVIERS",
-      "other": "(Salle de Grivegnée)"
-    },
-    {
-      "code": "774117",
-      "date": "2026-02-08",
-      "time": "10:00",
-      "team1": "BC VERLAINE",
-      "team2": "HENRI-CHAPELLE",
-      "category": "CPE PROV PUPILLES DD",
-      "location": "BC VERLAINE",
-      "other": "(Salle de Grivegnée)"
-    },
-    {
-      "code": "413196",
-      "date": "2026-02-08",
-      "time": "11:00",
-      "team1": "HENRI-CHAPELLE",
-      "team2": "BC BELLEFLAMME B",
-      "category": "DD - DIVISION 1",
-      "location": "HENRI-CHAPELLE",
-      "other": ""
-    },
-    {
       "code": "413246",
       "date": "2026-02-15",
       "time": "11:00",
@@ -306,16 +276,6 @@
       "other": ""
     },
     {
-      "code": "401151",
-      "date": "2026-02-11",
-      "time": "20:30",
-      "team1": "HARIMALIA BC A",
-      "team2": "HENRI-CHAPELLE A",
-      "category": "MM - DIVISION 1",
-      "location": "HARIMALIA BC A",
-      "other": ""
-    },
-    {
       "code": "401067",
       "date": "2026-02-13",
       "time": "21:00",
@@ -353,6 +313,16 @@
       "team2": "ETOILE JUPILLE A",
       "category": "MM - DIVISION 1",
       "location": "HENRI-CHAPELLE A",
+      "other": ""
+    },
+    {
+      "code": "401035",
+      "date": "2026-03-17",
+      "time": "20:00",
+      "team1": "CRISTAL SGH A",
+      "team2": "HENRI-CHAPELLE A",
+      "category": "MM - DIVISION 1",
+      "location": "CRISTAL SGH A",
       "other": ""
     },
     {
@@ -576,16 +546,6 @@
       "other": ""
     },
     {
-      "code": "520236",
-      "date": "2026-02-07",
-      "time": "10:45",
-      "team1": "ROYAL BC NINANE A",
-      "team2": "HENRI-CHAPELLE A",
-      "category": "U 10 - MM A",
-      "location": "ROYAL BC NINANE A",
-      "other": ""
-    },
-    {
       "code": "520266",
       "date": "2026-03-01",
       "time": "11:00",
@@ -686,16 +646,6 @@
       "other": ""
     },
     {
-      "code": "500233",
-      "date": "2026-02-07",
-      "time": "12:30",
-      "team1": "HENRI-CHAPELLE A",
-      "team2": "PRAYON TROOZ A",
-      "category": "U 12 - MM A",
-      "location": "HENRI-CHAPELLE A",
-      "other": ""
-    },
-    {
       "code": "500196",
       "date": "2026-02-14",
       "time": "10:45",
@@ -756,16 +706,6 @@
       "other": ""
     },
     {
-      "code": "505231",
-      "date": "2026-02-08",
-      "time": "9:00",
-      "team1": "HARIMALIA BC B",
-      "team2": "HENRI-CHAPELLE B",
-      "category": "U 12 - MM F",
-      "location": "HARIMALIA BC B",
-      "other": ""
-    },
-    {
       "code": "505261",
       "date": "2026-03-01",
       "time": "9:00",
@@ -813,16 +753,6 @@
       "team2": "HENRI-CHAPELLE B",
       "category": "U 12 - MM F",
       "location": "RBC DISON-ANDRIMONT B",
-      "other": ""
-    },
-    {
-      "code": "506231",
-      "date": "2026-02-08",
-      "time": "13:15",
-      "team1": "RBC VISE B",
-      "team2": "HENRI-CHAPELLE C",
-      "category": "U 12 - MM G",
-      "location": "RBC VISE B",
       "other": ""
     },
     {
@@ -952,16 +882,6 @@
       "team1": "HENRI-CHAPELLE",
       "team2": "PRAYON TROOZ",
       "category": "U 14 - DD A",
-      "location": "HENRI-CHAPELLE",
-      "other": ""
-    },
-    {
-      "code": "480236",
-      "date": "2026-02-07",
-      "time": "10:30",
-      "team1": "HENRI-CHAPELLE",
-      "team2": "RBC ALLEUR",
-      "category": "U 14 - ELITES MM A",
       "location": "HENRI-CHAPELLE",
       "other": ""
     },
@@ -1146,16 +1066,6 @@
       "other": ""
     },
     {
-      "code": "420231",
-      "date": "2026-02-07",
-      "time": "16:30",
-      "team1": "HENRI-CHAPELLE",
-      "team2": "THEUX BC",
-      "category": "U 21 - MM A",
-      "location": "HENRI-CHAPELLE",
-      "other": ""
-    },
-    {
       "code": "420192",
       "date": "2026-02-14",
       "time": "11:00",
@@ -1192,16 +1102,6 @@
       "team1": "HENRI-CHAPELLE",
       "team2": "HARIMALIA BC",
       "category": "U 21 - MM A",
-      "location": "HENRI-CHAPELLE",
-      "other": ""
-    },
-    {
-      "code": "550236",
-      "date": "2026-02-08",
-      "time": "9:00",
-      "team1": "HENRI-CHAPELLE",
-      "team2": "ALL. FLEMALLE B",
-      "category": "U 7 - MM A",
       "location": "HENRI-CHAPELLE",
       "other": ""
     },
@@ -1263,16 +1163,6 @@
       "team2": "HENRI-CHAPELLE",
       "category": "U 7 - MM A",
       "location": "BC BELLEFLAMME",
-      "other": ""
-    },
-    {
-      "code": "542231",
-      "date": "2026-02-08",
-      "time": "9:00",
-      "team1": "HENRI-CHAPELLE",
-      "team2": "RBC ALLEUR",
-      "category": "U 8 - MM C",
-      "location": "HENRI-CHAPELLE",
       "other": ""
     },
     {

@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "415191",
-      "date": "2026-02-07",
-      "time": "19:00",
-      "team1": "RBC VISE A",
-      "team2": "AVENIR JUPILLE B",
-      "category": "DD - DIVISION 2 B",
-      "location": "RBC VISE A",
-      "other": ""
-    },
-    {
       "code": "415241",
       "date": "2026-02-14",
       "time": "21:00",
@@ -96,16 +86,6 @@
       "other": "(Salle de Fourons)"
     },
     {
-      "code": "418197",
-      "date": "2026-02-07",
-      "time": "17:00",
-      "team1": "RBC VISE B",
-      "team2": "ETOILE JUPILLE",
-      "category": "DD - DIVISION 3 C",
-      "location": "RBC VISE B",
-      "other": ""
-    },
-    {
       "code": "418247",
       "date": "2026-02-14",
       "time": "19:00",
@@ -154,16 +134,6 @@
       "category": "DD - DIVISION 3 C",
       "location": "RBC VISE B",
       "other": "(Salle de Fourons)"
-    },
-    {
-      "code": "402215",
-      "date": "2026-02-11",
-      "time": "20:00",
-      "team1": "ATLAS A JUPILLE B",
-      "team2": "RBC VISE A",
-      "category": "MM - DIVISION 2 A",
-      "location": "ATLAS A JUPILLE B",
-      "other": ""
     },
     {
       "code": "402247",
@@ -416,16 +386,6 @@
       "other": ""
     },
     {
-      "code": "407126",
-      "date": "2026-02-07",
-      "time": "21:00",
-      "team1": "GIANTS BRAIVES A",
-      "team2": "RBC VISE D",
-      "category": "MM - DIVISION 4 A",
-      "location": "GIANTS BRAIVES A",
-      "other": ""
-    },
-    {
       "code": "407241",
       "date": "2026-02-14",
       "time": "17:00",
@@ -506,16 +466,6 @@
       "other": ""
     },
     {
-      "code": "521231",
-      "date": "2026-02-07",
-      "time": "13:00",
-      "team1": "RBC VISE A",
-      "team2": "RBC BLEGNY B",
-      "category": "U 10 - MM B",
-      "location": "RBC VISE A",
-      "other": ""
-    },
-    {
       "code": "521262",
       "date": "2026-03-01",
       "time": "9:00",
@@ -543,16 +493,6 @@
       "team2": "RBC VISE A",
       "category": "U 10 - MM B",
       "location": "LA VILLERSOISE A",
-      "other": ""
-    },
-    {
-      "code": "527232",
-      "date": "2026-02-08",
-      "time": "11:30",
-      "team1": "RBC VISE C",
-      "team2": "RBC DISON-ANDRIMONT B",
-      "category": "U 10 - MM H",
-      "location": "RBC VISE C",
       "other": ""
     },
     {
@@ -664,16 +604,6 @@
       "category": "U 10 - MM I",
       "location": "RBC VISE B",
       "other": "(Salle de Fourons)"
-    },
-    {
-      "code": "AW401093",
-      "date": "2026-02-07",
-      "time": "10:45",
-      "team1": "REBOND OTTIGNIES",
-      "team2": "RBC VISE",
-      "category": "U 12 - INTERPROVINCIAL",
-      "location": "REBOND OTTIGNIES",
-      "other": ""
     },
     {
       "code": "AW401130",
@@ -836,16 +766,6 @@
       "other": ""
     },
     {
-      "code": "506231",
-      "date": "2026-02-08",
-      "time": "13:15",
-      "team1": "RBC VISE B",
-      "team2": "HENRI-CHAPELLE C",
-      "category": "U 12 - MM G",
-      "location": "RBC VISE B",
-      "other": ""
-    },
-    {
       "code": "506191",
       "date": "2026-02-14",
       "time": "9:00",
@@ -886,19 +806,9 @@
       "other": "(Hall de Hamoir)"
     },
     {
-      "code": "601231",
-      "date": "2026-02-07",
-      "time": "13:00",
-      "team1": "ALL. FLEMALLE",
-      "team2": "RBC VISE",
-      "category": "U 14 - DD B",
-      "location": "ALL. FLEMALLE",
-      "other": ""
-    },
-    {
       "code": "601261",
       "date": "2026-03-01",
-      "time": "9:00",
+      "time": "11:00",
       "team1": "RBC VISE",
       "team2": "UN HUY BASKET",
       "category": "U 14 - DD B",
@@ -956,16 +866,6 @@
       "other": ""
     },
     {
-      "code": "480231",
-      "date": "2026-02-07",
-      "time": "15:00",
-      "team1": "RBC VISE A",
-      "team2": "ALL. FLEMALLE A",
-      "category": "U 14 - ELITES MM A",
-      "location": "RBC VISE A",
-      "other": ""
-    },
-    {
       "code": "480191",
       "date": "2026-03-15",
       "time": "13:00",
@@ -1014,16 +914,6 @@
       "category": "U 14 - ELITES MM A",
       "location": "RBC VISE A",
       "other": "(Salle de Fourons)"
-    },
-    {
-      "code": "AW162010",
-      "date": "2026-02-08",
-      "time": "15:00",
-      "team1": "BC GENAPPE",
-      "team2": "RBC VISE",
-      "category": "U 14 - GOLD REGIONAUX B",
-      "location": "BC GENAPPE",
-      "other": ""
     },
     {
       "code": "AW162014",
@@ -1083,16 +973,6 @@
       "team2": "UNION MONS-HAINAUT",
       "category": "U 14 - GOLD REGIONAUX B",
       "location": "RBC VISE",
-      "other": ""
-    },
-    {
-      "code": "491231",
-      "date": "2026-02-07",
-      "time": "9:00",
-      "team1": "ROYAL SPA BC",
-      "team2": "RBC VISE B",
-      "category": "U 14 - PROV MM B",
-      "location": "ROYAL SPA BC",
       "other": ""
     },
     {
@@ -1306,16 +1186,6 @@
       "other": "(Salle de Fourons)"
     },
     {
-      "code": "450231",
-      "date": "2026-02-08",
-      "time": "13:00",
-      "team1": "RBC VISE A",
-      "team2": "ABC WAREMME A",
-      "category": "U 16 - ELITES MM A",
-      "location": "RBC VISE A",
-      "other": ""
-    },
-    {
       "code": "450306",
       "date": "2026-02-14",
       "time": "16:30",
@@ -1346,6 +1216,16 @@
       "other": ""
     },
     {
+      "code": "450231",
+      "date": "2026-03-22",
+      "time": "13:00",
+      "team1": "RBC VISE A",
+      "team2": "ABC WAREMME A",
+      "category": "U 16 - ELITES MM A",
+      "location": "RBC VISE A",
+      "other": ""
+    },
+    {
       "code": "450326",
       "date": "2026-04-11",
       "time": "9:00",
@@ -1364,16 +1244,6 @@
       "category": "U 16 - ELITES MM A",
       "location": "RBC VISE A",
       "other": "(Salle de Fourons)"
-    },
-    {
-      "code": "470231",
-      "date": "2026-02-07",
-      "time": "9:00",
-      "team1": "RBC WELKENRAEDT",
-      "team2": "RBC VISE B",
-      "category": "U 16 - PROV MM A",
-      "location": "RBC WELKENRAEDT",
-      "other": ""
     },
     {
       "code": "470192",
@@ -1453,16 +1323,6 @@
       "team2": "RBC VISE B",
       "category": "U 16 - PROV MM A",
       "location": "BBC EUPEN",
-      "other": ""
-    },
-    {
-      "code": "430231",
-      "date": "2026-02-08",
-      "time": "15:00",
-      "team1": "ATLAS A JUPILLE",
-      "team2": "RBC VISE A",
-      "category": "U 18 - ELITES MM A",
-      "location": "ATLAS A JUPILLE",
       "other": ""
     },
     {
@@ -1596,16 +1456,6 @@
       "other": ""
     },
     {
-      "code": "AW154011",
-      "date": "2026-02-07",
-      "time": "11:00",
-      "team1": "B.C.BOUSSU",
-      "team2": "RBC VISE",
-      "category": "U 18 - SILVER REGIONAUX C",
-      "location": "B.C.BOUSSU",
-      "other": ""
-    },
-    {
       "code": "AW154015",
       "date": "2026-02-15",
       "time": "11:00",
@@ -1724,16 +1574,6 @@
       "category": "U 19 - DD B",
       "location": "RBC VISE",
       "other": "(Salle de Fourons)"
-    },
-    {
-      "code": "AW174026",
-      "date": "2026-02-08",
-      "time": "17:15",
-      "team1": "RBC VISE",
-      "team2": "EAST BELGIUM BCA",
-      "category": "U 19 - SILVER REGIONALES C",
-      "location": "RBC VISE",
-      "other": ""
     },
     {
       "code": "AW174014",
@@ -1886,16 +1726,6 @@
       "other": ""
     },
     {
-      "code": "552233",
-      "date": "2026-02-08",
-      "time": "9:00",
-      "team1": "RBC VISE",
-      "team2": "LA VILLERSOISE B",
-      "category": "U 7 - MM C",
-      "location": "RBC VISE",
-      "other": ""
-    },
-    {
       "code": "552264",
       "date": "2026-02-28",
       "time": "12:30",
@@ -1956,16 +1786,6 @@
       "other": "(Salle de Fourons)"
     },
     {
-      "code": "540233",
-      "date": "2026-02-08",
-      "time": "9:00",
-      "team1": "RBC VISE B",
-      "team2": "RABC ENSIVAL",
-      "category": "U 8 - MM A",
-      "location": "RBC VISE B",
-      "other": ""
-    },
-    {
       "code": "540196",
       "date": "2026-02-14",
       "time": "9:00",
@@ -2024,16 +1844,6 @@
       "category": "U 8 - MM A",
       "location": "RBC VISE B",
       "other": "(Salle de Fourons)"
-    },
-    {
-      "code": "541232",
-      "date": "2026-02-08",
-      "time": "10:15",
-      "team1": "RBC VISE A",
-      "team2": "FLERON BBC",
-      "category": "U 8 - MM B",
-      "location": "RBC VISE A",
-      "other": ""
     },
     {
       "code": "541261",
