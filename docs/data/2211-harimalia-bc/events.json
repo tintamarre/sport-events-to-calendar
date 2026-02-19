@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "401241",
-      "date": "2026-02-15",
-      "time": "13:00",
-      "team1": "HARIMALIA BC A",
-      "team2": "ESL UNITED C",
-      "category": "MM - DIVISION 1",
-      "location": "HARIMALIA BC A",
-      "other": ""
-    },
-    {
       "code": "401267",
       "date": "2026-02-27",
       "time": "21:00",
@@ -83,16 +73,6 @@
       "team2": "RB UNION LIEGE A",
       "category": "MM - DIVISION 1",
       "location": "HARIMALIA BC A",
-      "other": ""
-    },
-    {
-      "code": "402241",
-      "date": "2026-02-15",
-      "time": "11:00",
-      "team1": "HARIMALIA BC C",
-      "team2": "ESL UNITED E",
-      "category": "MM - DIVISION 2 A",
-      "location": "HARIMALIA BC C",
       "other": ""
     },
     {
@@ -186,16 +166,6 @@
       "other": ""
     },
     {
-      "code": "403241",
-      "date": "2026-02-15",
-      "time": "17:00",
-      "team1": "HARIMALIA BC B",
-      "team2": "RBC DISON-ANDRIMONT A",
-      "category": "MM - DIVISION 2 B",
-      "location": "HARIMALIA BC B",
-      "other": ""
-    },
-    {
       "code": "403267",
       "date": "2026-02-28",
       "time": "19:00",
@@ -273,16 +243,6 @@
       "team2": "RB TILFF B",
       "category": "MM - DIVISION 2 B",
       "location": "HARIMALIA BC B",
-      "other": ""
-    },
-    {
-      "code": "405241",
-      "date": "2026-02-14",
-      "time": "21:00",
-      "team1": "HARIMALIA BC D",
-      "team2": "RBC DISON-ANDRIMONT B",
-      "category": "MM - DIVISION 3 B",
-      "location": "HARIMALIA BC D",
       "other": ""
     },
     {
@@ -366,16 +326,6 @@
       "other": ""
     },
     {
-      "code": "409241",
-      "date": "2026-02-14",
-      "time": "19:00",
-      "team1": "HARIMALIA BC F",
-      "team2": "ALL. FLEMALLE C",
-      "category": "MM - DIVISION 4 C",
-      "location": "HARIMALIA BC F",
-      "other": ""
-    },
-    {
       "code": "409267",
       "date": "2026-02-27",
       "time": "20:30",
@@ -387,7 +337,7 @@
     },
     {
       "code": "409034",
-      "date": "2026-03-05",
+      "date": "2026-03-04",
       "time": "20:00",
       "team1": "R REN. MONTEGNEE",
       "team2": "HARIMALIA BC F",
@@ -463,16 +413,6 @@
       "team2": "RBC DISON-ANDRIMONT C",
       "category": "MM - DIVISION 4 C",
       "location": "HARIMALIA BC F",
-      "other": ""
-    },
-    {
-      "code": "410241",
-      "date": "2026-02-15",
-      "time": "15:00",
-      "team1": "HARIMALIA BC E",
-      "team2": "R HT-PRE OUGREE B",
-      "category": "MM - DIVISION 4 D",
-      "location": "HARIMALIA BC E",
       "other": ""
     },
     {
@@ -566,16 +506,6 @@
       "other": ""
     },
     {
-      "code": "526225",
-      "date": "2026-02-14",
-      "time": "11:00",
-      "team1": "RBC AUBEL B",
-      "team2": "HARIMALIA BC B",
-      "category": "U 10 - MM G",
-      "location": "RBC AUBEL B",
-      "other": ""
-    },
-    {
       "code": "526291",
       "date": "2026-03-22",
       "time": "9:00",
@@ -633,16 +563,6 @@
       "team2": "HARIMALIA BC A",
       "category": "U 10 - MM L",
       "location": "HANNUT BC",
-      "other": ""
-    },
-    {
-      "code": "504191",
-      "date": "2026-02-14",
-      "time": "13:00",
-      "team1": "HARIMALIA BC A",
-      "team2": "THEUX BC A",
-      "category": "U 12 - MM E",
-      "location": "HARIMALIA BC A",
       "other": ""
     },
     {
@@ -826,16 +746,6 @@
       "other": ""
     },
     {
-      "code": "451225",
-      "date": "2026-02-15",
-      "time": "13:00",
-      "team1": "BC VERVIERS A",
-      "team2": "HARIMALIA BC A",
-      "category": "U 16 - ELITES MM B",
-      "location": "BC VERVIERS A",
-      "other": ""
-    },
-    {
       "code": "451271",
       "date": "2026-03-08",
       "time": "11:00",
@@ -966,16 +876,6 @@
       "other": ""
     },
     {
-      "code": "552192",
-      "date": "2026-02-14",
-      "time": "11:00",
-      "team1": "PEPINSTER EAST BELG C",
-      "team2": "HARIMALIA BC",
-      "category": "U 7 - MM C",
-      "location": "PEPINSTER EAST BELG C",
-      "other": ""
-    },
-    {
       "code": "552261",
       "date": "2026-02-28",
       "time": "13:00",
@@ -1046,16 +946,6 @@
       "other": ""
     },
     {
-      "code": "541192",
-      "date": "2026-02-14",
-      "time": "9:00",
-      "team1": "PEPINSTER EAST BELG A",
-      "team2": "HARIMALIA BC",
-      "category": "U 8 - MM B",
-      "location": "PEPINSTER EAST BELG A",
-      "other": ""
-    },
-    {
       "code": "541261",
       "date": "2026-02-28",
       "time": "13:00",
@@ -1063,16 +953,6 @@
       "team2": "RBC VISE A",
       "category": "U 8 - MM B",
       "location": "HARIMALIA BC",
-      "other": ""
-    },
-    {
-      "code": "541273",
-      "date": "2026-03-14",
-      "time": "9:00",
-      "team1": "BCM HERSTAL",
-      "team2": "HARIMALIA BC",
-      "category": "U 8 - MM B",
-      "location": "BCM HERSTAL",
       "other": ""
     },
     {

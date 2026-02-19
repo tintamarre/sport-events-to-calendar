@@ -8,7 +8,7 @@ Les agendas sont mis à jour automatiquement toutes semaines.
 
 [L'agenda global](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/CPLi%C3%A8ge.ics) est également disponible.
 
-Dernière mise à jour: 12/02/2026 22:10:04
+Dernière mise à jour: 19/02/2026 22:09:40
 
 ## [44 RBC ESNEUX](http://www.cpliege.be/clubs/club0044.asp)
 
@@ -167,7 +167,6 @@ Dernière mise à jour: 12/02/2026 22:10:04
 * [U 16 - DD B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2440-bcm-herstal/u-16-dd-b.ics)
 * [U 16 - PROV MM A](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2440-bcm-herstal/u-16-prov-mm-a.ics)
 * [U 18 - PROV MM](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2440-bcm-herstal/u-18-prov-mm.ics)
-* [U 8 - MM B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/2440-bcm-herstal/u-8-mm-b.ics)
 
 ## [2733 ESL UNITED](http://www.cpliege.be/clubs/club2733.asp)
 

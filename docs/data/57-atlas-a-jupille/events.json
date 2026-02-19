@@ -6,26 +6,6 @@
   },
   "events": [
     {
-      "code": "414246",
-      "date": "2026-02-14",
-      "time": "19:00",
-      "team1": "ATLAS A JUPILLE",
-      "team2": "LA VILLERSOISE A",
-      "category": "DD - DIVISION 2 A",
-      "location": "ATLAS A JUPILLE",
-      "other": ""
-    },
-    {
-      "code": "414196",
-      "date": "2026-02-19",
-      "time": "20:30",
-      "team1": "ATLAS A JUPILLE",
-      "team2": "RBC HANEFFE B",
-      "category": "DD - DIVISION 2 A",
-      "location": "ATLAS A JUPILLE",
-      "other": ""
-    },
-    {
       "code": "414265",
       "date": "2026-02-28",
       "time": "19:00",
@@ -46,6 +26,16 @@
       "other": ""
     },
     {
+      "code": "414196",
+      "date": "2026-03-05",
+      "time": "20:30",
+      "team1": "ATLAS A JUPILLE",
+      "team2": "RBC HANEFFE B",
+      "category": "DD - DIVISION 2 A",
+      "location": "ATLAS A JUPILLE",
+      "other": ""
+    },
+    {
       "code": "414276",
       "date": "2026-03-07",
       "time": "19:00",
@@ -53,6 +43,16 @@
       "team2": "COLLEGE S LOUIS",
       "category": "DD - DIVISION 2 A",
       "location": "ATLAS A JUPILLE",
+      "other": ""
+    },
+    {
+      "code": "414223",
+      "date": "2026-03-11",
+      "time": "21:00",
+      "team1": "ROYALE US AWANS",
+      "team2": "ATLAS A JUPILLE",
+      "category": "DD - DIVISION 2 A",
+      "location": "ROYALE US AWANS",
       "other": ""
     },
     {
@@ -93,16 +93,6 @@
       "team2": "BC SPRIMONT B",
       "category": "DD - DIVISION 2 A",
       "location": "ATLAS A JUPILLE",
-      "other": ""
-    },
-    {
-      "code": "402245",
-      "date": "2026-02-14",
-      "time": "21:00",
-      "team1": "ATLAS A JUPILLE B",
-      "team2": "RBC STAVELOT A",
-      "category": "MM - DIVISION 2 A",
-      "location": "ATLAS A JUPILLE B",
       "other": ""
     },
     {
@@ -176,16 +166,6 @@
       "other": ""
     },
     {
-      "code": "406244",
-      "date": "2026-02-15",
-      "time": "11:00",
-      "team1": "BC COINTE C",
-      "team2": "ATLAS A JUPILLE C",
-      "category": "MM - DIVISION 3 C",
-      "location": "BC COINTE C",
-      "other": ""
-    },
-    {
       "code": "406263",
       "date": "2026-02-27",
       "time": "20:30",
@@ -256,26 +236,6 @@
       "other": ""
     },
     {
-      "code": "AW102132",
-      "date": "2026-02-14",
-      "time": "20:30",
-      "team1": "R LINTHOUT BC",
-      "team2": "ATLAS A JUPILLE A",
-      "category": "MM - REGIONALE 2 A",
-      "location": "R LINTHOUT BC",
-      "other": ""
-    },
-    {
-      "code": "AW102142",
-      "date": "2026-02-27",
-      "time": "21:00",
-      "team1": "UNITED B WOLUWE",
-      "team2": "ATLAS A JUPILLE A",
-      "category": "MM - REGIONALE 2 A",
-      "location": "UNITED B WOLUWE",
-      "other": ""
-    },
-    {
       "code": "AW102150",
       "date": "2026-03-07",
       "time": "21:00",
@@ -303,6 +263,16 @@
       "team2": "BCJS ESTAIMPUIS",
       "category": "MM - REGIONALE 2 A",
       "location": "ATLAS A JUPILLE A",
+      "other": ""
+    },
+    {
+      "code": "AW102142",
+      "date": "2026-04-05",
+      "time": "15:00",
+      "team1": "UNITED B WOLUWE",
+      "team2": "ATLAS A JUPILLE A",
+      "category": "MM - REGIONALE 2 A",
+      "location": "UNITED B WOLUWE",
       "other": ""
     },
     {
@@ -376,16 +346,6 @@
       "other": ""
     },
     {
-      "code": "528193",
-      "date": "2026-02-14",
-      "time": "11:30",
-      "team1": "VAIL. JUPILLE B",
-      "team2": "ATLAS A JUPILLE B",
-      "category": "U 10 - MM I",
-      "location": "VAIL. JUPILLE B",
-      "other": ""
-    },
-    {
       "code": "528266",
       "date": "2026-02-28",
       "time": "11:00",
@@ -423,16 +383,6 @@
       "team2": "BC COINTE B",
       "category": "U 10 - MM I",
       "location": "ATLAS A JUPILLE B",
-      "other": ""
-    },
-    {
-      "code": "508195",
-      "date": "2026-02-14",
-      "time": "9:00",
-      "team1": "ABC WAREMME C",
-      "team2": "ATLAS A JUPILLE",
-      "category": "U 12 - MM I",
-      "location": "ABC WAREMME C",
       "other": ""
     },
     {
@@ -476,16 +426,6 @@
       "other": ""
     },
     {
-      "code": "601196",
-      "date": "2026-02-14",
-      "time": "14:00",
-      "team1": "MAIL. COMBLAIN",
-      "team2": "ATLAS A JUPILLE",
-      "category": "U 14 - DD B",
-      "location": "MAIL. COMBLAIN",
-      "other": ""
-    },
-    {
       "code": "601264",
       "date": "2026-02-28",
       "time": "10:45",
@@ -526,26 +466,6 @@
       "other": ""
     },
     {
-      "code": "481195",
-      "date": "2026-02-14",
-      "time": "17:00",
-      "team1": "CRISTAL SGH A",
-      "team2": "ATLAS A JUPILLE",
-      "category": "U 14 - ELITES MM B",
-      "location": "CRISTAL SGH A",
-      "other": ""
-    },
-    {
-      "code": "481232",
-      "date": "2026-02-15",
-      "time": "9:00",
-      "team1": "BC SPRIMONT",
-      "team2": "ATLAS A JUPILLE",
-      "category": "U 14 - ELITES MM B",
-      "location": "BC SPRIMONT",
-      "other": ""
-    },
-    {
       "code": "481266",
       "date": "2026-03-14",
       "time": "9:00",
@@ -573,16 +493,6 @@
       "team2": "ABC WAREMME",
       "category": "U 14 - ELITES MM B",
       "location": "ATLAS A JUPILLE",
-      "other": ""
-    },
-    {
-      "code": "490196",
-      "date": "2026-02-14",
-      "time": "13:00",
-      "team1": "ATLAS A JUPILLE B",
-      "team2": "DF BC MALMEDY",
-      "category": "U 14 - PROV MM A",
-      "location": "ATLAS A JUPILLE B",
       "other": ""
     },
     {
@@ -706,16 +616,6 @@
       "other": ""
     },
     {
-      "code": "451196",
-      "date": "2026-02-14",
-      "time": "15:00",
-      "team1": "ATLAS A JUPILLE A",
-      "team2": "RBC AWANS",
-      "category": "U 16 - ELITES MM B",
-      "location": "ATLAS A JUPILLE A",
-      "other": ""
-    },
-    {
       "code": "451265",
       "date": "2026-02-28",
       "time": "13:00",
@@ -836,16 +736,6 @@
       "other": ""
     },
     {
-      "code": "AW160014",
-      "date": "2026-02-15",
-      "time": "9:30",
-      "team1": "FRIENDLY BULLS XL",
-      "team2": "ATLAS A JUPILLE",
-      "category": "U 16 - SILVER REGIONAUX D",
-      "location": "FRIENDLY BULLS XL",
-      "other": ""
-    },
-    {
       "code": "AW160030",
       "date": "2026-03-08",
       "time": "11:00",
@@ -936,16 +826,6 @@
       "other": ""
     },
     {
-      "code": "AW152014",
-      "date": "2026-02-15",
-      "time": "13:00",
-      "team1": "BC COINTE",
-      "team2": "ATLAS A JUPILLE",
-      "category": "U 18 - SILVER REGIONAUX A",
-      "location": "BC COINTE",
-      "other": ""
-    },
-    {
       "code": "AW152023",
       "date": "2026-03-01",
       "time": "15:00",
@@ -1017,8 +897,8 @@
     },
     {
       "code": "INJ1812BFB",
-      "date": "2026-02-22",
-      "time": "14:30",
+      "date": "2026-02-21",
+      "time": "13:00",
       "team1": "BC OOSTENDE",
       "team2": "ATLAS A JUPILLE",
       "category": "U 18 MM - NATIONAUX B",
@@ -1083,16 +963,6 @@
       "team2": "ATLAS A JUPILLE",
       "category": "U 18 MM - NATIONAUX B",
       "location": "SOBABEE ANTWERPEN",
-      "other": ""
-    },
-    {
-      "code": "581193",
-      "date": "2026-02-14",
-      "time": "11:00",
-      "team1": "ATLAS A JUPILLE",
-      "team2": "ABC WAREMME A",
-      "category": "U 19 - DD B",
-      "location": "ATLAS A JUPILLE",
       "other": ""
     },
     {

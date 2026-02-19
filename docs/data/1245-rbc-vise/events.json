@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "415241",
-      "date": "2026-02-14",
-      "time": "21:00",
-      "team1": "RBC VISE A",
-      "team2": "ROYAL BC NINANE B",
-      "category": "DD - DIVISION 2 B",
-      "location": "RBC VISE A",
-      "other": ""
-    },
-    {
       "code": "415267",
       "date": "2026-03-01",
       "time": "15:00",
@@ -86,16 +76,6 @@
       "other": "(Salle de Fourons)"
     },
     {
-      "code": "418247",
-      "date": "2026-02-14",
-      "time": "19:00",
-      "team1": "RBC VISE B",
-      "team2": "HENRI-CHAPELLE C",
-      "category": "DD - DIVISION 3 C",
-      "location": "RBC VISE B",
-      "other": ""
-    },
-    {
       "code": "418297",
       "date": "2026-03-21",
       "time": "19:00",
@@ -134,16 +114,6 @@
       "category": "DD - DIVISION 3 C",
       "location": "RBC VISE B",
       "other": "(Salle de Fourons)"
-    },
-    {
-      "code": "402247",
-      "date": "2026-02-15",
-      "time": "11:00",
-      "team1": "RBC ALLEUR C",
-      "team2": "RBC VISE A",
-      "category": "MM - DIVISION 2 A",
-      "location": "RBC ALLEUR C",
-      "other": ""
     },
     {
       "code": "402337",
@@ -216,16 +186,6 @@
       "other": ""
     },
     {
-      "code": "403247",
-      "date": "2026-02-15",
-      "time": "13:00",
-      "team1": "RBC ALLEUR B",
-      "team2": "RBC VISE B",
-      "category": "MM - DIVISION 2 B",
-      "location": "RBC ALLEUR B",
-      "other": ""
-    },
-    {
       "code": "403267",
       "date": "2026-02-28",
       "time": "19:00",
@@ -293,16 +253,6 @@
       "team2": "RBC VISE B",
       "category": "MM - DIVISION 2 B",
       "location": "ROYAL SPA BC B",
-      "other": ""
-    },
-    {
-      "code": "406246",
-      "date": "2026-02-13",
-      "time": "21:00",
-      "team1": "BC REVEIL A",
-      "team2": "RBC VISE C",
-      "category": "MM - DIVISION 3 C",
-      "location": "BC REVEIL A",
       "other": ""
     },
     {
@@ -383,16 +333,6 @@
       "team2": "RBC VISE C",
       "category": "MM - DIVISION 3 C",
       "location": "R 4A AYWAILLE-HAMOIR B",
-      "other": ""
-    },
-    {
-      "code": "407241",
-      "date": "2026-02-14",
-      "time": "17:00",
-      "team1": "RBC VISE D",
-      "team2": "ROYAL BC NINANE D",
-      "category": "MM - DIVISION 4 A",
-      "location": "RBC VISE D",
       "other": ""
     },
     {
@@ -496,16 +436,6 @@
       "other": ""
     },
     {
-      "code": "527191",
-      "date": "2026-02-14",
-      "time": "9:00",
-      "team1": "RBC BLEGNY A",
-      "team2": "RBC VISE C",
-      "category": "U 10 - MM H",
-      "location": "RBC BLEGNY A",
-      "other": ""
-    },
-    {
       "code": "527202",
       "date": "2026-03-01",
       "time": "15:00",
@@ -606,16 +536,6 @@
       "other": "(Salle de Fourons)"
     },
     {
-      "code": "AW401130",
-      "date": "2026-02-14",
-      "time": "11:00",
-      "team1": "RBC VISE",
-      "team2": "ROYAL NIVELLES",
-      "category": "U 12 - INTERPROVINCIAL",
-      "location": "RBC VISE",
-      "other": ""
-    },
-    {
       "code": "AW401111",
       "date": "2026-03-01",
       "time": "9:00",
@@ -676,16 +596,6 @@
       "other": ""
     },
     {
-      "code": "500143",
-      "date": "2026-02-15",
-      "time": "9:00",
-      "team1": "RBC VISE A",
-      "team2": "ROYAL HERVE-BATTICE A",
-      "category": "U 12 - MM A",
-      "location": "RBC VISE A",
-      "other": ""
-    },
-    {
       "code": "500263",
       "date": "2026-02-28",
       "time": "11:00",
@@ -728,7 +638,7 @@
     {
       "code": "500303",
       "date": "2026-03-28",
-      "time": "17:00",
+      "time": "9:00",
       "team1": "RBC VISE A",
       "team2": "ROYAL MOSA AC 1941 A",
       "category": "U 12 - MM A",
@@ -763,16 +673,6 @@
       "team2": "RBC VISE A",
       "category": "U 12 - MM A",
       "location": "THEUX BC B",
-      "other": ""
-    },
-    {
-      "code": "506191",
-      "date": "2026-02-14",
-      "time": "9:00",
-      "team1": "RBC VISE B",
-      "team2": "PEPINSTER EAST BELG B",
-      "category": "U 12 - MM G",
-      "location": "RBC VISE B",
       "other": ""
     },
     {
@@ -916,16 +816,6 @@
       "other": "(Salle de Fourons)"
     },
     {
-      "code": "AW162014",
-      "date": "2026-02-14",
-      "time": "15:00",
-      "team1": "RBC VISE",
-      "team2": "FRESH AIR",
-      "category": "U 14 - GOLD REGIONAUX B",
-      "location": "RBC VISE",
-      "other": ""
-    },
-    {
       "code": "AW162030",
       "date": "2026-03-07",
       "time": "15:00",
@@ -1026,26 +916,6 @@
       "other": ""
     },
     {
-      "code": "590193",
-      "date": "2026-02-14",
-      "time": "9:00",
-      "team1": "RBC AWANS B",
-      "team2": "RBC VISE B",
-      "category": "U 16 - DD A",
-      "location": "RBC AWANS B",
-      "other": ""
-    },
-    {
-      "code": "590266",
-      "date": "2026-02-15",
-      "time": "15:00",
-      "team1": "RBC VISE B",
-      "team2": "RBC AUBEL",
-      "category": "U 16 - DD A",
-      "location": "RBC VISE B",
-      "other": ""
-    },
-    {
       "code": "590236",
       "date": "2026-03-07",
       "time": "16:00",
@@ -1104,16 +974,6 @@
       "category": "U 16 - DD A",
       "location": "RBC VISE B",
       "other": "(Salle de Fourons)"
-    },
-    {
-      "code": "591191",
-      "date": "2026-02-14",
-      "time": "15:00",
-      "team1": "ALL. FLEMALLE C",
-      "team2": "RBC VISE A",
-      "category": "U 16 - DD B",
-      "location": "ALL. FLEMALLE C",
-      "other": ""
     },
     {
       "code": "591232",
@@ -1186,16 +1046,6 @@
       "other": "(Salle de Fourons)"
     },
     {
-      "code": "450306",
-      "date": "2026-02-14",
-      "time": "16:30",
-      "team1": "HENRI-CHAPELLE",
-      "team2": "RBC VISE A",
-      "category": "U 16 - ELITES MM A",
-      "location": "HENRI-CHAPELLE",
-      "other": ""
-    },
-    {
       "code": "450191",
       "date": "2026-03-01",
       "time": "17:00",
@@ -1244,16 +1094,6 @@
       "category": "U 16 - ELITES MM A",
       "location": "RBC VISE A",
       "other": "(Salle de Fourons)"
-    },
-    {
-      "code": "470192",
-      "date": "2026-02-14",
-      "time": "13:00",
-      "team1": "RABC ENSIVAL",
-      "team2": "RBC VISE B",
-      "category": "U 16 - PROV MM A",
-      "location": "RABC ENSIVAL",
-      "other": ""
     },
     {
       "code": "470261",
@@ -1326,16 +1166,6 @@
       "other": ""
     },
     {
-      "code": "430321",
-      "date": "2026-02-15",
-      "time": "13:00",
-      "team1": "RBC VISE A",
-      "team2": "BC VERVIERS",
-      "category": "U 18 - ELITES MM A",
-      "location": "RBC VISE A",
-      "other": ""
-    },
-    {
       "code": "430261",
       "date": "2026-03-01",
       "time": "13:00",
@@ -1376,16 +1206,6 @@
       "other": ""
     },
     {
-      "code": "440196",
-      "date": "2026-02-14",
-      "time": "13:00",
-      "team1": "RBC VISE B",
-      "team2": "MARCHIN BASKET",
-      "category": "U 18 - PROV MM",
-      "location": "RBC VISE B",
-      "other": ""
-    },
-    {
       "code": "440265",
       "date": "2026-03-01",
       "time": "15:00",
@@ -1398,7 +1218,7 @@
     {
       "code": "440276",
       "date": "2026-03-08",
-      "time": "17:30",
+      "time": "15:30",
       "team1": "RBC VISE B",
       "team2": "ROYAL BC NINANE B",
       "category": "U 18 - PROV MM",
@@ -1453,16 +1273,6 @@
       "team2": "RBC VISE B",
       "category": "U 18 - PROV MM",
       "location": "BCM HERSTAL",
-      "other": ""
-    },
-    {
-      "code": "AW154015",
-      "date": "2026-02-15",
-      "time": "11:00",
-      "team1": "RBC VISE",
-      "team2": "LA LOUVIERE AM",
-      "category": "U 18 - SILVER REGIONAUX C",
-      "location": "RBC VISE",
       "other": ""
     },
     {
@@ -1576,19 +1386,9 @@
       "other": "(Salle de Fourons)"
     },
     {
-      "code": "AW174014",
-      "date": "2026-02-15",
-      "time": "17:00",
-      "team1": "RBC VISE",
-      "team2": "BC MALONNE",
-      "category": "U 19 - SILVER REGIONALES C",
-      "location": "RBC VISE",
-      "other": ""
-    },
-    {
       "code": "AW174024",
       "date": "2026-02-22",
-      "time": "9:00",
+      "time": "11:00",
       "team1": "PDL CHARLEROI",
       "team2": "RBC VISE",
       "category": "U 19 - SILVER REGIONALES C",
@@ -1653,16 +1453,6 @@
       "team2": "PDL CHARLEROI",
       "category": "U 19 - SILVER REGIONALES C",
       "location": "RBC VISE",
-      "other": ""
-    },
-    {
-      "code": "AW149015",
-      "date": "2026-02-14",
-      "time": "11:00",
-      "team1": "RSW LIEGE BASKET",
-      "team2": "RBC VISE",
-      "category": "U 21 - SILVER REGIONAUX B",
-      "location": "RSW LIEGE BASKET",
       "other": ""
     },
     {
@@ -1784,16 +1574,6 @@
       "category": "U 7 - MM C",
       "location": "RBC VISE",
       "other": "(Salle de Fourons)"
-    },
-    {
-      "code": "540196",
-      "date": "2026-02-14",
-      "time": "9:00",
-      "team1": "ROYAL BC NINANE",
-      "team2": "RBC VISE B",
-      "category": "U 8 - MM A",
-      "location": "ROYAL BC NINANE",
-      "other": ""
     },
     {
       "code": "540273",

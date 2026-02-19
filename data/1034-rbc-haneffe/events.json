@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "414196",
-      "date": "2026-02-19",
-      "time": "20:30",
-      "team1": "ATLAS A JUPILLE",
-      "team2": "RBC HANEFFE B",
-      "category": "DD - DIVISION 2 A",
-      "location": "ATLAS A JUPILLE",
-      "other": ""
-    },
-    {
       "code": "414261",
       "date": "2026-03-01",
       "time": "17:00",
@@ -23,6 +13,16 @@
       "team2": "RBC HANEFFE B",
       "category": "DD - DIVISION 2 A",
       "location": "LA VILLERSOISE A",
+      "other": ""
+    },
+    {
+      "code": "414196",
+      "date": "2026-03-05",
+      "time": "20:30",
+      "team1": "ATLAS A JUPILLE",
+      "team2": "RBC HANEFFE B",
+      "category": "DD - DIVISION 2 A",
+      "location": "ATLAS A JUPILLE",
       "other": ""
     },
     {
@@ -83,16 +83,6 @@
       "team2": "RBC BLEGNY B",
       "category": "DD - DIVISION 2 A",
       "location": "RBC HANEFFE B",
-      "other": ""
-    },
-    {
-      "code": "415243",
-      "date": "2026-02-15",
-      "time": "13:00",
-      "team1": "ROYAL ANS BC",
-      "team2": "RBC HANEFFE C",
-      "category": "DD - DIVISION 2 B",
-      "location": "ROYAL ANS BC",
       "other": ""
     },
     {
@@ -296,16 +286,6 @@
       "other": ""
     },
     {
-      "code": "401243",
-      "date": "2026-02-13",
-      "time": "21:00",
-      "team1": "ETOILE JUPILLE A",
-      "team2": "RBC HANEFFE A",
-      "category": "MM - DIVISION 1",
-      "location": "ETOILE JUPILLE A",
-      "other": ""
-    },
-    {
       "code": "401274",
       "date": "2026-03-07",
       "time": "17:00",
@@ -463,16 +443,6 @@
       "team2": "RBC HANEFFE B",
       "category": "MM - DIVISION 3 B",
       "location": "RBC BLEGNY B",
-      "other": ""
-    },
-    {
-      "code": "407243",
-      "date": "2026-02-13",
-      "time": "19:00",
-      "team1": "ETOILE JUPILLE B",
-      "team2": "RBC HANEFFE C",
-      "category": "MM - DIVISION 4 A",
-      "location": "ETOILE JUPILLE B",
       "other": ""
     },
     {
@@ -716,16 +686,6 @@
       "other": ""
     },
     {
-      "code": "601194",
-      "date": "2026-02-14",
-      "time": "10:45",
-      "team1": "R REN. MONTEGNEE",
-      "team2": "RBC HANEFFE",
-      "category": "U 14 - DD B",
-      "location": "R REN. MONTEGNEE",
-      "other": ""
-    },
-    {
       "code": "601263",
       "date": "2026-02-28",
       "time": "13:00",
@@ -766,19 +726,9 @@
       "other": ""
     },
     {
-      "code": "AW161014",
-      "date": "2026-02-15",
-      "time": "9:00",
-      "team1": "BC SPRIMONT",
-      "team2": "RBC HANEFFE",
-      "category": "U 14 - GOLD REGIONAUX A",
-      "location": "BC SPRIMONT",
-      "other": ""
-    },
-    {
       "code": "AW161030",
       "date": "2026-03-01",
-      "time": "10:00",
+      "time": "9:00",
       "team1": "RBC HANEFFE",
       "team2": "BC SPRIMONT",
       "category": "U 14 - GOLD REGIONAUX A",
@@ -906,16 +856,6 @@
       "other": ""
     },
     {
-      "code": "431276",
-      "date": "2026-02-14",
-      "time": "16:00",
-      "team1": "MAIL. COMBLAIN",
-      "team2": "RBC HANEFFE",
-      "category": "U 18 - ELITES MM B",
-      "location": "MAIL. COMBLAIN",
-      "other": ""
-    },
-    {
       "code": "431214",
       "date": "2026-03-15",
       "time": "12:00",
@@ -973,16 +913,6 @@
       "team2": "RBC HANEFFE",
       "category": "U 18 - ELITES MM B",
       "location": "GIANTS BRAIVES",
-      "other": ""
-    },
-    {
-      "code": "AW150014",
-      "date": "2026-02-14",
-      "time": "14:30",
-      "team1": "CANTER SCHAERBEEK",
-      "team2": "RBC HANEFFE",
-      "category": "U 18 - GOLD REGIONAUX A",
-      "location": "CANTER SCHAERBEEK",
       "other": ""
     },
     {
@@ -1113,16 +1043,6 @@
       "team2": "RBC HANEFFE",
       "category": "U 7 - MM C",
       "location": "GIANTS BRAIVES",
-      "other": ""
-    },
-    {
-      "code": "545196",
-      "date": "2026-02-14",
-      "time": "11:00",
-      "team1": "ORP JAUCHE",
-      "team2": "RBC HANEFFE",
-      "category": "U 8 - MM F",
-      "location": "ORP JAUCHE",
       "other": ""
     },
     {

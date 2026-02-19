@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "415242",
-      "date": "2026-02-14",
-      "time": "21:00",
-      "team1": "AVENIR JUPILLE B",
-      "team2": "CRISTAL SGH A",
-      "category": "DD - DIVISION 2 B",
-      "location": "AVENIR JUPILLE B",
-      "other": ""
-    },
-    {
       "code": "415263",
       "date": "2026-02-28",
       "time": "21:00",
@@ -31,6 +21,16 @@
       "time": "17:00",
       "team1": "AVENIR JUPILLE B",
       "team2": "R 4A AYWAILLE-HAMOIR A",
+      "category": "DD - DIVISION 2 B",
+      "location": "AVENIR JUPILLE B",
+      "other": ""
+    },
+    {
+      "code": "415212",
+      "date": "2026-03-10",
+      "time": "19:00",
+      "team1": "AVENIR JUPILLE B",
+      "team2": "ROYAL ANS BC",
       "category": "DD - DIVISION 2 B",
       "location": "AVENIR JUPILLE B",
       "other": ""
@@ -76,6 +76,16 @@
       "other": ""
     },
     {
+      "code": "415162",
+      "date": "2026-04-06",
+      "time": "20:00",
+      "team1": "PEPINSTER EAST BELG C",
+      "team2": "AVENIR JUPILLE B",
+      "category": "DD - DIVISION 2 B",
+      "location": "PEPINSTER EAST BELG C",
+      "other": ""
+    },
+    {
       "code": "415326",
       "date": "2026-04-12",
       "time": "11:00",
@@ -93,16 +103,6 @@
       "team2": "PEPINSTER EAST BELG C",
       "category": "DD - DIVISION 2 B",
       "location": "AVENIR JUPILLE B",
-      "other": ""
-    },
-    {
-      "code": "404243",
-      "date": "2026-02-14",
-      "time": "19:00",
-      "team1": "AVENIR JUPILLE A",
-      "team2": "RB TILFF C",
-      "category": "MM - DIVISION 3 A",
-      "location": "AVENIR JUPILLE A",
       "other": ""
     },
     {
@@ -183,16 +183,6 @@
       "team2": "ROYAL BC WANZE C",
       "category": "MM - DIVISION 3 A",
       "location": "AVENIR JUPILLE A",
-      "other": ""
-    },
-    {
-      "code": "411243",
-      "date": "2026-02-14",
-      "time": "17:00",
-      "team1": "AVENIR JUPILLE B",
-      "team2": "RB TILFF E",
-      "category": "MM - DIVISION 4 E",
-      "location": "AVENIR JUPILLE B",
       "other": ""
     },
     {

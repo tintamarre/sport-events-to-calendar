@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "417166",
-      "date": "2026-02-14",
-      "time": "19:00",
-      "team1": "R HT-PRE OUGREE B",
-      "team2": "RBC AWANS",
-      "category": "DD - DIVISION 3 B",
-      "location": "R HT-PRE OUGREE B",
-      "other": ""
-    },
-    {
       "code": "417262",
       "date": "2026-03-01",
       "time": "11:45",
@@ -67,8 +57,8 @@
     },
     {
       "code": "417325",
-      "date": "2026-04-11",
-      "time": "18:45",
+      "date": "2026-04-12",
+      "time": "9:00",
       "team1": "BC VERLAINE B",
       "team2": "RBC AWANS",
       "category": "DD - DIVISION 3 B",
@@ -83,16 +73,6 @@
       "team2": "R HT-PRE OUGREE B",
       "category": "DD - DIVISION 3 B",
       "location": "RBC AWANS",
-      "other": ""
-    },
-    {
-      "code": "402243",
-      "date": "2026-02-14",
-      "time": "21:00",
-      "team1": "RBC AWANS A",
-      "team2": "BC BELLEFLAMME C",
-      "category": "MM - DIVISION 2 A",
-      "location": "RBC AWANS A",
       "other": ""
     },
     {
@@ -176,16 +156,6 @@
       "other": ""
     },
     {
-      "code": "408244",
-      "date": "2026-02-15",
-      "time": "14:30",
-      "team1": "CS OUTREMEUSE",
-      "team2": "RBC AWANS B",
-      "category": "MM - DIVISION 4 B",
-      "location": "CS OUTREMEUSE",
-      "other": ""
-    },
-    {
       "code": "408077",
       "date": "2026-02-23",
       "time": "20:00",
@@ -256,16 +226,6 @@
       "other": "(Ecole de la Troque)"
     },
     {
-      "code": "410244",
-      "date": "2026-02-15",
-      "time": "9:00",
-      "team1": "ALL. FLEMALLE E",
-      "team2": "RBC AWANS C",
-      "category": "MM - DIVISION 4 D",
-      "location": "ALL. FLEMALLE E",
-      "other": ""
-    },
-    {
       "code": "410263",
       "date": "2026-02-28",
       "time": "21:00",
@@ -333,16 +293,6 @@
       "team2": "RBC AWANS C",
       "category": "MM - DIVISION 4 D",
       "location": "R HT-PRE OUGREE B",
-      "other": ""
-    },
-    {
-      "code": "523196",
-      "date": "2026-02-14",
-      "time": "11:00",
-      "team1": "ORP JAUCHE",
-      "team2": "RBC AWANS A",
-      "category": "U 10 - MM D",
-      "location": "ORP JAUCHE",
       "other": ""
     },
     {
@@ -423,16 +373,6 @@
       "team2": "RBC AWANS B",
       "category": "U 10 - MM K",
       "location": "BC VERLAINE",
-      "other": ""
-    },
-    {
-      "code": "610193",
-      "date": "2026-02-14",
-      "time": "11:00",
-      "team1": "RBC AWANS",
-      "team2": "R HT-PRE OUGREE",
-      "category": "U 12 - DD",
-      "location": "RBC AWANS",
       "other": ""
     },
     {
@@ -536,16 +476,6 @@
       "other": ""
     },
     {
-      "code": "601193",
-      "date": "2026-02-14",
-      "time": "13:00",
-      "team1": "RBC AWANS",
-      "team2": "RBC ALLEUR",
-      "category": "U 14 - DD B",
-      "location": "RBC AWANS",
-      "other": ""
-    },
-    {
       "code": "601263",
       "date": "2026-02-28",
       "time": "13:00",
@@ -606,16 +536,6 @@
       "other": ""
     },
     {
-      "code": "493193",
-      "date": "2026-02-14",
-      "time": "15:00",
-      "team1": "RBC AWANS",
-      "team2": "HANNUT BC",
-      "category": "U 14 - PROV MM D",
-      "location": "RBC AWANS",
-      "other": ""
-    },
-    {
       "code": "493223",
       "date": "2026-02-28",
       "time": "9:00",
@@ -653,16 +573,6 @@
       "team2": "RBC AWANS",
       "category": "U 14 - PROV MM D",
       "location": "ROYAL ANS BC",
-      "other": ""
-    },
-    {
-      "code": "590193",
-      "date": "2026-02-14",
-      "time": "9:00",
-      "team1": "RBC AWANS B",
-      "team2": "RBC VISE B",
-      "category": "U 16 - DD A",
-      "location": "RBC AWANS B",
       "other": ""
     },
     {
@@ -713,16 +623,6 @@
       "team2": "ATLAS A JUPILLE",
       "category": "U 16 - DD A",
       "location": "RBC AWANS B",
-      "other": ""
-    },
-    {
-      "code": "591196",
-      "date": "2026-02-15",
-      "time": "11:00",
-      "team1": "ORP JAUCHE",
-      "team2": "RBC AWANS A",
-      "category": "U 16 - DD B",
-      "location": "ORP JAUCHE",
       "other": ""
     },
     {
@@ -783,16 +683,6 @@
       "team2": "PRAYON TROOZ",
       "category": "U 16 - DD B",
       "location": "RBC AWANS A",
-      "other": ""
-    },
-    {
-      "code": "451196",
-      "date": "2026-02-14",
-      "time": "15:00",
-      "team1": "ATLAS A JUPILLE A",
-      "team2": "RBC AWANS",
-      "category": "U 16 - ELITES MM B",
-      "location": "ATLAS A JUPILLE A",
       "other": ""
     },
     {
@@ -883,16 +773,6 @@
       "team2": "BC SPRIMONT",
       "category": "U 18 - ELITES MM C",
       "location": "RBC AWANS A",
-      "other": ""
-    },
-    {
-      "code": "440245",
-      "date": "2026-02-14",
-      "time": "15:00",
-      "team1": "CRISTAL SGH C",
-      "team2": "RBC AWANS B",
-      "category": "U 18 - PROV MM",
-      "location": "CRISTAL SGH C",
       "other": ""
     },
     {
@@ -1013,16 +893,6 @@
       "team2": "RBC AWANS",
       "category": "U 19 - DD A",
       "location": "PEPINSTER EAST BELG",
-      "other": ""
-    },
-    {
-      "code": "553196",
-      "date": "2026-02-14",
-      "time": "12:00",
-      "team1": "HANNUT BC",
-      "team2": "RBC AWANS",
-      "category": "U 7 - MM D",
-      "location": "HANNUT BC",
       "other": ""
     },
     {
