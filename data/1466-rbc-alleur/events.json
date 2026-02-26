@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "413125",
-      "date": "2026-02-25",
-      "time": "20:00",
-      "team1": "RBC ALLEUR C",
-      "team2": "RBC CROATIA OUPEYE",
-      "category": "DD - DIVISION 1",
-      "location": "RBC ALLEUR C",
-      "other": ""
-    },
-    {
       "code": "413116",
       "date": "2026-03-01",
       "time": "11:00",
@@ -267,8 +257,8 @@
     },
     {
       "code": "AW106154",
-      "date": "2026-03-08",
-      "time": "15:00",
+      "date": "2026-03-05",
+      "time": "20:30",
       "team1": "RBC ALLEUR B",
       "team2": "ROYAL BC CINEY",
       "category": "DD - REGIONALE 2 B",
@@ -287,8 +277,8 @@
     },
     {
       "code": "AW106140",
-      "date": "2026-03-21",
-      "time": "20:30",
+      "date": "2026-03-29",
+      "time": "17:00",
       "team1": "RBC ALLEUR B",
       "team2": "CANTER SCHAERBEEK",
       "category": "DD - REGIONALE 2 B",
@@ -323,16 +313,6 @@
       "team2": "NAMUR CAPITALE",
       "category": "DD - REGIONALE 2 B",
       "location": "RBC ALLEUR B",
-      "other": ""
-    },
-    {
-      "code": "402202",
-      "date": "2026-02-21",
-      "time": "17:00",
-      "team1": "BC SPRIMONT C",
-      "team2": "RBC ALLEUR C",
-      "category": "MM - DIVISION 2 A",
-      "location": "BC SPRIMONT C",
       "other": ""
     },
     {
@@ -406,16 +386,6 @@
       "other": ""
     },
     {
-      "code": "403334",
-      "date": "2026-02-21",
-      "time": "17:00",
-      "team1": "PRAYON TROOZ A",
-      "team2": "RBC ALLEUR B",
-      "category": "MM - DIVISION 2 B",
-      "location": "PRAYON TROOZ A",
-      "other": ""
-    },
-    {
       "code": "403264",
       "date": "2026-03-01",
       "time": "14:00",
@@ -483,16 +453,6 @@
       "team2": "PRAYON TROOZ A",
       "category": "MM - DIVISION 2 B",
       "location": "RBC ALLEUR B",
-      "other": ""
-    },
-    {
-      "code": "407197",
-      "date": "2026-02-20",
-      "time": "20:30",
-      "team1": "RBC ALLEUR D",
-      "team2": "ETOILE JUPILLE B",
-      "category": "MM - DIVISION 4 A",
-      "location": "RBC ALLEUR D",
       "other": ""
     },
     {
@@ -786,6 +746,16 @@
       "other": ""
     },
     {
+      "code": "530331",
+      "date": "2026-03-07",
+      "time": "9:00",
+      "team1": "RBC ALLEUR A",
+      "team2": "BC VERLAINE",
+      "category": "U 10 - MM K",
+      "location": "RBC ALLEUR A",
+      "other": ""
+    },
+    {
       "code": "530291",
       "date": "2026-03-21",
       "time": "9:00",
@@ -813,16 +783,6 @@
       "team2": "RBC ALLEUR A",
       "category": "U 10 - MM K",
       "location": "GIANTS BRAIVES C",
-      "other": ""
-    },
-    {
-      "code": "530331",
-      "date": "2026-04-18",
-      "time": "14:45",
-      "team1": "RBC ALLEUR A",
-      "team2": "BC VERLAINE",
-      "category": "U 10 - MM K",
-      "location": "RBC ALLEUR A",
       "other": ""
     },
     {
@@ -1366,16 +1326,6 @@
       "other": ""
     },
     {
-      "code": "AW170006",
-      "date": "2026-02-28",
-      "time": "11:30",
-      "team1": "ROYAL NIVELLES",
-      "team2": "RBC ALLEUR",
-      "category": "U 19 - GOLD REGIONALES A",
-      "location": "ROYAL NIVELLES",
-      "other": ""
-    },
-    {
       "code": "AW170025",
       "date": "2026-03-14",
       "time": "12:15",
@@ -1393,6 +1343,16 @@
       "team2": "ROYAL NIVELLES",
       "category": "U 19 - GOLD REGIONALES A",
       "location": "RBC ALLEUR",
+      "other": ""
+    },
+    {
+      "code": "AW170006",
+      "date": "2026-03-25",
+      "time": "20:30",
+      "team1": "ROYAL NIVELLES",
+      "team2": "RBC ALLEUR",
+      "category": "U 19 - GOLD REGIONALES A",
+      "location": "ROYAL NIVELLES",
       "other": ""
     },
     {
@@ -1423,16 +1383,6 @@
       "team2": "BC BONINNE",
       "category": "U 19 - GOLD REGIONALES A",
       "location": "RBC ALLEUR",
-      "other": ""
-    },
-    {
-      "code": "AW149022",
-      "date": "2026-02-22",
-      "time": "13:00",
-      "team1": "RBC VISE",
-      "team2": "RBC ALLEUR",
-      "category": "U 21 - SILVER REGIONAUX B",
-      "location": "RBC VISE",
       "other": ""
     },
     {

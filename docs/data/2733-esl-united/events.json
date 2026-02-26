@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "401186",
-      "date": "2026-02-20",
-      "time": "19:00",
-      "team1": "ESL UNITED C",
-      "team2": "ETOILE JUPILLE A",
-      "category": "MM - DIVISION 1",
-      "location": "ESL UNITED C",
-      "other": ""
-    },
-    {
       "code": "401266",
       "date": "2026-02-27",
       "time": "19:00",
@@ -83,16 +73,6 @@
       "team2": "BC BELLEFLAMME B",
       "category": "MM - DIVISION 1",
       "location": "ESL UNITED C",
-      "other": ""
-    },
-    {
-      "code": "402163",
-      "date": "2026-02-21",
-      "time": "20:00",
-      "team1": "ROYAL SPA BC C",
-      "team2": "ESL UNITED E",
-      "category": "MM - DIVISION 2 A",
-      "location": "ROYAL SPA BC C",
       "other": ""
     },
     {
@@ -236,16 +216,6 @@
       "other": ""
     },
     {
-      "code": "406264",
-      "date": "2026-02-21",
-      "time": "17:00",
-      "team1": "BC COINTE C",
-      "team2": "ESL UNITED F",
-      "category": "MM - DIVISION 3 C",
-      "location": "BC COINTE C",
-      "other": ""
-    },
-    {
       "code": "406277",
       "date": "2026-03-08",
       "time": "11:00",
@@ -256,6 +226,16 @@
       "other": ""
     },
     {
+      "code": "406306",
+      "date": "2026-03-13",
+      "time": "19:00",
+      "team1": "BC REVEIL A",
+      "team2": "ESL UNITED F",
+      "category": "MM - DIVISION 3 C",
+      "location": "BC REVEIL A",
+      "other": ""
+    },
+    {
       "code": "406297",
       "date": "2026-03-22",
       "time": "11:00",
@@ -263,16 +243,6 @@
       "team2": "RBC VISE C",
       "category": "MM - DIVISION 3 C",
       "location": "ESL UNITED F",
-      "other": ""
-    },
-    {
-      "code": "406306",
-      "date": "2026-03-28",
-      "time": "21:00",
-      "team1": "BC REVEIL A",
-      "team2": "ESL UNITED F",
-      "category": "MM - DIVISION 3 C",
-      "location": "BC REVEIL A",
       "other": ""
     },
     {
@@ -303,16 +273,6 @@
       "team2": "ESL UNITED F",
       "category": "MM - DIVISION 3 C",
       "location": "BC SANKT VITH",
-      "other": ""
-    },
-    {
-      "code": "AW101137",
-      "date": "2026-02-20",
-      "time": "21:00",
-      "team1": "ESL UNITED B",
-      "team2": "RCS NATOYE",
-      "category": "MM - REGIONALE 1",
-      "location": "ESL UNITED B",
       "other": ""
     },
     {
@@ -586,16 +546,6 @@
       "other": ""
     },
     {
-      "code": "AW150013",
-      "date": "2026-02-22",
-      "time": "13:00",
-      "team1": "ESL UNITED",
-      "team2": "BC SPRIMONT",
-      "category": "U 18 - GOLD REGIONAUX A",
-      "location": "ESL UNITED",
-      "other": ""
-    },
-    {
       "code": "AW150029",
       "date": "2026-03-07",
       "time": "11:00",
@@ -643,16 +593,6 @@
       "team2": "DPK CARNIERES",
       "category": "U 18 - GOLD REGIONAUX A",
       "location": "ESL UNITED",
-      "other": ""
-    },
-    {
-      "code": "INJ2112BDF",
-      "date": "2026-02-21",
-      "time": "11:00",
-      "team1": "BC SAINT-HUBERT",
-      "team2": "ESL UNITED",
-      "category": "U 21 MM - NATIONAUX B",
-      "location": "BC SAINT-HUBERT",
       "other": ""
     },
     {
