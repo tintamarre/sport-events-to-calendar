@@ -6,26 +6,6 @@
   },
   "events": [
     {
-      "code": "413261",
-      "date": "2026-02-28",
-      "time": "17:00",
-      "team1": "ROYAL SPA BC A",
-      "team2": "BC BELLEFLAMME B",
-      "category": "DD - DIVISION 1",
-      "location": "ROYAL SPA BC A",
-      "other": ""
-    },
-    {
-      "code": "413192",
-      "date": "2026-03-02",
-      "time": "20:00",
-      "team1": "PEPINSTER EAST BELG B",
-      "team2": "ROYAL SPA BC A",
-      "category": "DD - DIVISION 1",
-      "location": "PEPINSTER EAST BELG B",
-      "other": ""
-    },
-    {
       "code": "413273",
       "date": "2026-03-07",
       "time": "18:00",
@@ -96,16 +76,6 @@
       "other": ""
     },
     {
-      "code": "418261",
-      "date": "2026-03-01",
-      "time": "12:00",
-      "team1": "ROYAL SPA BC B",
-      "team2": "PRAYON TROOZ C",
-      "category": "DD - DIVISION 3 C",
-      "location": "ROYAL SPA BC B",
-      "other": ""
-    },
-    {
       "code": "418273",
       "date": "2026-03-08",
       "time": "15:00",
@@ -113,16 +83,6 @@
       "team2": "ROYAL SPA BC B",
       "category": "DD - DIVISION 3 C",
       "location": "ETOILE JUPILLE",
-      "other": ""
-    },
-    {
-      "code": "418335",
-      "date": "2026-03-14",
-      "time": "17:00",
-      "team1": "DF BC MALMEDY",
-      "team2": "ROYAL SPA BC B",
-      "category": "DD - DIVISION 3 C",
-      "location": "DF BC MALMEDY",
       "other": ""
     },
     {
@@ -163,16 +123,6 @@
       "team2": "HENRI-CHAPELLE C",
       "category": "DD - DIVISION 3 C",
       "location": "ROYAL SPA BC B",
-      "other": ""
-    },
-    {
-      "code": "402263",
-      "date": "2026-02-28",
-      "time": "21:00",
-      "team1": "ROYAL SPA BC C",
-      "team2": "BC SPRIMONT C",
-      "category": "MM - DIVISION 2 A",
-      "location": "ROYAL SPA BC C",
       "other": ""
     },
     {
@@ -246,16 +196,6 @@
       "other": ""
     },
     {
-      "code": "403261",
-      "date": "2026-02-28",
-      "time": "19:00",
-      "team1": "ROYAL SPA BC B",
-      "team2": "PRAYON TROOZ A",
-      "category": "MM - DIVISION 2 B",
-      "location": "ROYAL SPA BC B",
-      "other": ""
-    },
-    {
       "code": "403273",
       "date": "2026-03-06",
       "time": "20:15",
@@ -326,16 +266,6 @@
       "other": ""
     },
     {
-      "code": "409261",
-      "date": "2026-02-28",
-      "time": "17:00",
-      "team1": "ROYAL SPA BC D",
-      "team2": "R REN. MONTEGNEE",
-      "category": "MM - DIVISION 4 C",
-      "location": "ROYAL SPA BC D",
-      "other": ""
-    },
-    {
       "code": "409273",
       "date": "2026-03-08",
       "time": "13:00",
@@ -393,16 +323,6 @@
       "team2": "ROYAL SPA BC D",
       "category": "MM - DIVISION 4 C",
       "location": "RBC CROATIA OUPEYE",
-      "other": ""
-    },
-    {
-      "code": "411261",
-      "date": "2026-03-01",
-      "time": "10:00",
-      "team1": "ROYAL SPA BC E",
-      "team2": "RB TILFF E",
-      "category": "MM - DIVISION 4 E",
-      "location": "ROYAL SPA BC E",
       "other": ""
     },
     {
@@ -546,16 +466,6 @@
       "other": ""
     },
     {
-      "code": "520261",
-      "date": "2026-02-28",
-      "time": "11:00",
-      "team1": "ROYAL SPA BC C",
-      "team2": "PEPINSTER EAST BELG D",
-      "category": "U 10 - MM A",
-      "location": "ROYAL SPA BC C",
-      "other": ""
-    },
-    {
       "code": "520273",
       "date": "2026-03-07",
       "time": "11:30",
@@ -596,16 +506,6 @@
       "other": ""
     },
     {
-      "code": "525333",
-      "date": "2026-02-28",
-      "time": "13:00",
-      "team1": "PEPINSTER EAST BELG B",
-      "team2": "ROYAL SPA BC A",
-      "category": "U 10 - MM F",
-      "location": "PEPINSTER EAST BELG B",
-      "other": ""
-    },
-    {
       "code": "525275",
       "date": "2026-03-07",
       "time": "11:00",
@@ -643,16 +543,6 @@
       "team2": "THEUX BC A",
       "category": "U 10 - MM F",
       "location": "ROYAL SPA BC A",
-      "other": ""
-    },
-    {
-      "code": "502261",
-      "date": "2026-02-28",
-      "time": "9:00",
-      "team1": "ROYAL SPA BC",
-      "team2": "BC SPRIMONT B",
-      "category": "U 12 - MM C",
-      "location": "ROYAL SPA BC",
       "other": ""
     },
     {
@@ -703,16 +593,6 @@
       "team2": "ROYAL SPA BC",
       "category": "U 12 - MM C",
       "location": "CRISTAL SGH B",
-      "other": ""
-    },
-    {
-      "code": "600262",
-      "date": "2026-02-28",
-      "time": "13:00",
-      "team1": "ROYAL SPA BC",
-      "team2": "ROYAL HERVE-BATTICE",
-      "category": "U 14 - DD A",
-      "location": "ROYAL SPA BC",
       "other": ""
     },
     {
@@ -876,26 +756,6 @@
       "other": ""
     },
     {
-      "code": "450261",
-      "date": "2026-02-28",
-      "time": "13:00",
-      "team1": "ABC WAREMME A",
-      "team2": "ROYAL SPA BC B",
-      "category": "U 16 - ELITES MM A",
-      "location": "ABC WAREMME A",
-      "other": ""
-    },
-    {
-      "code": "450191",
-      "date": "2026-03-01",
-      "time": "17:00",
-      "team1": "RBC VISE A",
-      "team2": "ROYAL SPA BC B",
-      "category": "U 16 - ELITES MM A",
-      "location": "RBC VISE A",
-      "other": ""
-    },
-    {
       "code": "450272",
       "date": "2026-03-07",
       "time": "9:00",
@@ -933,16 +793,6 @@
       "team2": "ROYAL ANS BC",
       "category": "U 16 - ELITES MM A",
       "location": "ROYAL SPA BC B",
-      "other": ""
-    },
-    {
-      "code": "471262",
-      "date": "2026-03-01",
-      "time": "13:30",
-      "team1": "RBC STAVELOT",
-      "team2": "ROYAL SPA BC",
-      "category": "U 16 - PROV MM B",
-      "location": "RBC STAVELOT",
       "other": ""
     },
     {
@@ -1036,16 +886,6 @@
       "other": ""
     },
     {
-      "code": "550262",
-      "date": "2026-02-28",
-      "time": "9:00",
-      "team1": "PEPINSTER EAST BELG A",
-      "team2": "ROYAL SPA BC",
-      "category": "U 7 - MM A",
-      "location": "PEPINSTER EAST BELG A",
-      "other": ""
-    },
-    {
       "code": "550271",
       "date": "2026-03-07",
       "time": "10:00",
@@ -1096,16 +936,6 @@
       "other": ""
     },
     {
-      "code": "540262",
-      "date": "2026-02-28",
-      "time": "9:00",
-      "team1": "RBC STAVELOT",
-      "team2": "ROYAL SPA BC A",
-      "category": "U 8 - MM A",
-      "location": "RBC STAVELOT",
-      "other": ""
-    },
-    {
       "code": "540271",
       "date": "2026-03-07",
       "time": "10:00",
@@ -1143,16 +973,6 @@
       "team2": "ROYAL MOSA AC 1941",
       "category": "U 8 - MM A",
       "location": "ROYAL SPA BC A",
-      "other": ""
-    },
-    {
-      "code": "541262",
-      "date": "2026-02-28",
-      "time": "9:00",
-      "team1": "PEPINSTER EAST BELG A",
-      "team2": "ROYAL SPA BC B",
-      "category": "U 8 - MM B",
-      "location": "PEPINSTER EAST BELG A",
       "other": ""
     },
     {

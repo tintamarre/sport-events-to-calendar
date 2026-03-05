@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "415265",
-      "date": "2026-02-28",
-      "time": "20:45",
-      "team1": "BC VERLAINE A",
-      "team2": "HENRI-CHAPELLE B",
-      "category": "DD - DIVISION 2 B",
-      "location": "BC VERLAINE A",
-      "other": ""
-    },
-    {
       "code": "415277",
       "date": "2026-03-07",
       "time": "20:00",
@@ -68,7 +58,7 @@
     {
       "code": "415325",
       "date": "2026-04-11",
-      "time": "20:45",
+      "time": "19:00",
       "team1": "BC VERLAINE A",
       "team2": "ROYAL ANS BC",
       "category": "DD - DIVISION 2 B",
@@ -84,16 +74,6 @@
       "category": "DD - DIVISION 2 B",
       "location": "RBC VISE A",
       "other": "(Salle de Fourons)"
-    },
-    {
-      "code": "417265",
-      "date": "2026-02-28",
-      "time": "18:45",
-      "team1": "BC VERLAINE B",
-      "team2": "R HT-PRE OUGREE B",
-      "category": "DD - DIVISION 3 B",
-      "location": "BC VERLAINE B",
-      "other": ""
     },
     {
       "code": "417277",
@@ -153,16 +133,6 @@
       "team2": "BC VERLAINE B",
       "category": "DD - DIVISION 3 B",
       "location": "ALL. FLEMALLE B",
-      "other": ""
-    },
-    {
-      "code": "407265",
-      "date": "2026-03-01",
-      "time": "11:00",
-      "team1": "BC VERLAINE",
-      "team2": "GIANTS BRAIVES A",
-      "category": "MM - DIVISION 4 A",
-      "location": "BC VERLAINE",
       "other": ""
     },
     {
@@ -226,16 +196,6 @@
       "other": ""
     },
     {
-      "code": "530265",
-      "date": "2026-02-28",
-      "time": "11:00",
-      "team1": "BC VERLAINE",
-      "team2": "ROYAL BC WANZE B",
-      "category": "U 10 - MM K",
-      "location": "BC VERLAINE",
-      "other": ""
-    },
-    {
       "code": "530331",
       "date": "2026-03-07",
       "time": "9:00",
@@ -276,16 +236,6 @@
       "other": ""
     },
     {
-      "code": "503265",
-      "date": "2026-02-28",
-      "time": "13:00",
-      "team1": "BC VERLAINE A",
-      "team2": "GIANTS BRAIVES B",
-      "category": "U 12 - MM D",
-      "location": "BC VERLAINE A",
-      "other": ""
-    },
-    {
       "code": "503295",
       "date": "2026-03-14",
       "time": "13:00",
@@ -316,16 +266,6 @@
       "other": ""
     },
     {
-      "code": "509265",
-      "date": "2026-02-28",
-      "time": "13:00",
-      "team1": "BC VERLAINE B",
-      "team2": "ROYAL BC WANZE B",
-      "category": "U 12 - MM J",
-      "location": "BC VERLAINE B",
-      "other": ""
-    },
-    {
       "code": "509272",
       "date": "2026-03-07",
       "time": "11:30",
@@ -353,16 +293,6 @@
       "team2": "ROYAL ANS BC B",
       "category": "U 12 - MM J",
       "location": "BC VERLAINE B",
-      "other": ""
-    },
-    {
-      "code": "601265",
-      "date": "2026-03-01",
-      "time": "13:00",
-      "team1": "BC VERLAINE",
-      "team2": "MAIL. COMBLAIN",
-      "category": "U 14 - DD B",
-      "location": "BC VERLAINE",
       "other": ""
     },
     {
@@ -413,16 +343,6 @@
       "team2": "BC VERLAINE",
       "category": "U 14 - DD B",
       "location": "ALL. FLEMALLE",
-      "other": ""
-    },
-    {
-      "code": "492265",
-      "date": "2026-03-01",
-      "time": "15:00",
-      "team1": "BC VERLAINE",
-      "team2": "MAIL. COMBLAIN",
-      "category": "U 14 - PROV MM C",
-      "location": "BC VERLAINE",
       "other": ""
     },
     {
@@ -506,16 +426,6 @@
       "other": ""
     },
     {
-      "code": "553266",
-      "date": "2026-02-28",
-      "time": "12:15",
-      "team1": "ALL. FLEMALLE A",
-      "team2": "BC VERLAINE A",
-      "category": "U 7 - MM D",
-      "location": "ALL. FLEMALLE A",
-      "other": ""
-    },
-    {
       "code": "553293",
       "date": "2026-03-22",
       "time": "15:00",
@@ -552,16 +462,6 @@
       "team1": "BC VERLAINE A",
       "team2": "RBC ALLEUR",
       "category": "U 7 - MM D",
-      "location": "BC VERLAINE A",
-      "other": ""
-    },
-    {
-      "code": "544265",
-      "date": "2026-02-28",
-      "time": "9:15",
-      "team1": "BC VERLAINE A",
-      "team2": "ROYAL BC WANZE",
-      "category": "U 8 - MM E",
       "location": "BC VERLAINE A",
       "other": ""
     },
@@ -603,16 +503,6 @@
       "team2": "BC VERLAINE A",
       "category": "U 8 - MM E",
       "location": "ROYAL HERVE-BATTICE B",
-      "other": ""
-    },
-    {
-      "code": "545265",
-      "date": "2026-02-28",
-      "time": "9:15",
-      "team1": "BC VERLAINE B",
-      "team2": "ORP JAUCHE",
-      "category": "U 8 - MM F",
-      "location": "BC VERLAINE B",
       "other": ""
     },
     {

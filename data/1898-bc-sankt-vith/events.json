@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "406261",
-      "date": "2026-02-28",
-      "time": "17:00",
-      "team1": "RBC VISE C",
-      "team2": "BC SANKT VITH",
-      "category": "MM - DIVISION 3 C",
-      "location": "RBC VISE C",
-      "other": ""
-    },
-    {
       "code": "406274",
       "date": "2026-03-06",
       "time": "21:00",
@@ -86,21 +76,21 @@
       "other": ""
     },
     {
-      "code": "524263",
-      "date": "2026-02-28",
-      "time": "13:00",
-      "team1": "DF BC MALMEDY",
-      "team2": "BC SANKT VITH",
-      "category": "U 10 - MM E",
-      "location": "DF BC MALMEDY",
-      "other": ""
-    },
-    {
       "code": "524274",
       "date": "2026-03-07",
       "time": "11:00",
       "team1": "BC SANKT VITH",
       "team2": "BBC EUPEN",
+      "category": "U 10 - MM E",
+      "location": "BC SANKT VITH",
+      "other": ""
+    },
+    {
+      "code": "524204",
+      "date": "2026-03-14",
+      "time": "11:00",
+      "team1": "BC SANKT VITH",
+      "team2": "CRISTAL SGH B",
       "category": "U 10 - MM E",
       "location": "BC SANKT VITH",
       "other": ""

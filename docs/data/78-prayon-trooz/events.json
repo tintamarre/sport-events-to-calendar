@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "414266",
-      "date": "2026-03-01",
-      "time": "17:00",
-      "team1": "ROYAL BC NINANE A",
-      "team2": "PRAYON TROOZ B",
-      "category": "DD - DIVISION 2 A",
-      "location": "ROYAL BC NINANE A",
-      "other": "(Vaux/Chèvremont)"
-    },
-    {
       "code": "414275",
       "date": "2026-03-07",
       "time": "17:00",
@@ -76,16 +66,6 @@
       "other": ""
     },
     {
-      "code": "418261",
-      "date": "2026-03-01",
-      "time": "12:00",
-      "team1": "ROYAL SPA BC B",
-      "team2": "PRAYON TROOZ C",
-      "category": "DD - DIVISION 3 C",
-      "location": "ROYAL SPA BC B",
-      "other": ""
-    },
-    {
       "code": "418274",
       "date": "2026-03-08",
       "time": "12:00",
@@ -124,16 +104,6 @@
       "category": "DD - DIVISION 3 C",
       "location": "RBC VISE B",
       "other": "(Salle de Fourons)"
-    },
-    {
-      "code": "AW105141",
-      "date": "2026-03-01",
-      "time": "19:00",
-      "team1": "LIEGE PANTHERS C",
-      "team2": "PRAYON TROOZ A",
-      "category": "DD - REGIONALE 2 A",
-      "location": "LIEGE PANTHERS C",
-      "other": ""
     },
     {
       "code": "AW105151",
@@ -183,16 +153,6 @@
       "team2": "RB ALLIANCE ARLON",
       "category": "DD - REGIONALE 2 A",
       "location": "PRAYON TROOZ A",
-      "other": ""
-    },
-    {
-      "code": "403261",
-      "date": "2026-02-28",
-      "time": "19:00",
-      "team1": "ROYAL SPA BC B",
-      "team2": "PRAYON TROOZ A",
-      "category": "MM - DIVISION 2 B",
-      "location": "ROYAL SPA BC B",
       "other": ""
     },
     {
@@ -263,16 +223,6 @@
       "team2": "PRAYON TROOZ A",
       "category": "MM - DIVISION 2 B",
       "location": "RBC ALLEUR B",
-      "other": ""
-    },
-    {
-      "code": "408261",
-      "date": "2026-02-28",
-      "time": "17:00",
-      "team1": "ALL. FLEMALLE D",
-      "team2": "PRAYON TROOZ B",
-      "category": "MM - DIVISION 4 B",
-      "location": "ALL. FLEMALLE D",
       "other": ""
     },
     {
@@ -386,16 +336,6 @@
       "other": ""
     },
     {
-      "code": "527263",
-      "date": "2026-02-28",
-      "time": "12:00",
-      "team1": "R.UN.BELLAIRE",
-      "team2": "PRAYON TROOZ B",
-      "category": "U 10 - MM H",
-      "location": "R.UN.BELLAIRE",
-      "other": ""
-    },
-    {
       "code": "527274",
       "date": "2026-03-08",
       "time": "10:30",
@@ -423,16 +363,6 @@
       "team2": "R HT-PRE OUGREE B",
       "category": "U 10 - MM H",
       "location": "PRAYON TROOZ B",
-      "other": ""
-    },
-    {
-      "code": "500263",
-      "date": "2026-02-28",
-      "time": "11:00",
-      "team1": "RBC VISE A",
-      "team2": "PRAYON TROOZ A",
-      "category": "U 12 - MM A",
-      "location": "RBC VISE A",
       "other": ""
     },
     {
@@ -646,16 +576,6 @@
       "other": ""
     },
     {
-      "code": "591263",
-      "date": "2026-02-28",
-      "time": "10:30",
-      "team1": "BCM HERSTAL",
-      "team2": "PRAYON TROOZ",
-      "category": "U 16 - DD B",
-      "location": "BCM HERSTAL",
-      "other": ""
-    },
-    {
       "code": "591274",
       "date": "2026-03-07",
       "time": "11:00",
@@ -726,16 +646,6 @@
       "other": ""
     },
     {
-      "code": "470263",
-      "date": "2026-02-28",
-      "time": "15:00",
-      "team1": "DF BC MALMEDY",
-      "team2": "PRAYON TROOZ B",
-      "category": "U 16 - PROV MM A",
-      "location": "DF BC MALMEDY",
-      "other": ""
-    },
-    {
       "code": "470274",
       "date": "2026-03-07",
       "time": "9:00",
@@ -793,16 +703,6 @@
       "team2": "PRAYON TROOZ B",
       "category": "U 16 - PROV MM A",
       "location": "R HT-PRE OUGREE",
-      "other": ""
-    },
-    {
-      "code": "471263",
-      "date": "2026-02-28",
-      "time": "9:00",
-      "team1": "THEUX BC",
-      "team2": "PRAYON TROOZ A",
-      "category": "U 16 - PROV MM B",
-      "location": "THEUX BC",
       "other": ""
     },
     {

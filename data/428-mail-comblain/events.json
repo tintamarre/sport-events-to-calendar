@@ -6,6 +6,16 @@
   },
   "events": [
     {
+      "code": "760115",
+      "date": "2026-03-14",
+      "time": "20:30",
+      "team1": "ETOILE JUPILLE B (+ 15)",
+      "team2": "MAIL. COMBLAIN A",
+      "category": "CPE PROV MESSIEURS",
+      "location": "ETOILE JUPILLE B (+ 15)",
+      "other": ""
+    },
+    {
       "code": "418276",
       "date": "2026-03-08",
       "time": "12:00",
@@ -56,16 +66,6 @@
       "other": ""
     },
     {
-      "code": "401265",
-      "date": "2026-02-28",
-      "time": "18:30",
-      "team1": "RB UNION LIEGE A",
-      "team2": "MAIL. COMBLAIN B",
-      "category": "MM - DIVISION 1",
-      "location": "RB UNION LIEGE A",
-      "other": ""
-    },
-    {
       "code": "401276",
       "date": "2026-03-07",
       "time": "20:00",
@@ -81,6 +81,16 @@
       "time": "20:00",
       "team1": "MAIL. COMBLAIN B",
       "team2": "BC COINTE B",
+      "category": "MM - DIVISION 1",
+      "location": "MAIL. COMBLAIN B",
+      "other": ""
+    },
+    {
+      "code": "401306",
+      "date": "2026-03-24",
+      "time": "20:30",
+      "team1": "MAIL. COMBLAIN B",
+      "team2": "HENRI-CHAPELLE A",
       "category": "MM - DIVISION 1",
       "location": "MAIL. COMBLAIN B",
       "other": ""
@@ -143,16 +153,6 @@
       "team2": "MAIL. COMBLAIN B",
       "category": "MM - DIVISION 1",
       "location": "ETOILE JUPILLE A",
-      "other": ""
-    },
-    {
-      "code": "411265",
-      "date": "2026-02-28",
-      "time": "21:00",
-      "team1": "R 4A AYWAILLE-HAMOIR D",
-      "team2": "MAIL. COMBLAIN C",
-      "category": "MM - DIVISION 4 E",
-      "location": "R 4A AYWAILLE-HAMOIR D",
       "other": ""
     },
     {
@@ -236,16 +236,6 @@
       "other": ""
     },
     {
-      "code": "NAHSE11APC",
-      "date": "2026-02-28",
-      "time": "21:00",
-      "team1": "CB LIEGE",
-      "team2": "UNITED B WOLUWE",
-      "category": "TOP DIVISION MEN 1",
-      "location": "CB LIEGE",
-      "other": ""
-    },
-    {
       "code": "NAHSE11AKP",
       "date": "2026-03-06",
       "time": "21:00",
@@ -326,16 +316,6 @@
       "other": ""
     },
     {
-      "code": "528265",
-      "date": "2026-02-28",
-      "time": "9:30",
-      "team1": "CRISTAL SGH D",
-      "team2": "MAIL. COMBLAIN",
-      "category": "U 10 - MM I",
-      "location": "CRISTAL SGH D",
-      "other": ""
-    },
-    {
       "code": "528276",
       "date": "2026-03-08",
       "time": "14:00",
@@ -363,16 +343,6 @@
       "team2": "MAIL. COMBLAIN",
       "category": "U 10 - MM I",
       "location": "COLLEGE S LOUIS B",
-      "other": ""
-    },
-    {
-      "code": "506276",
-      "date": "2026-03-01",
-      "time": "12:00",
-      "team1": "MAIL. COMBLAIN",
-      "team2": "BC BELLEFLAMME C",
-      "category": "U 12 - MM G",
-      "location": "MAIL. COMBLAIN",
       "other": ""
     },
     {
@@ -413,16 +383,6 @@
       "team2": "MAIL. COMBLAIN",
       "category": "U 12 - MM G",
       "location": "COLLEGE S LOUIS B",
-      "other": ""
-    },
-    {
-      "code": "601265",
-      "date": "2026-03-01",
-      "time": "13:00",
-      "team1": "BC VERLAINE",
-      "team2": "MAIL. COMBLAIN",
-      "category": "U 14 - DD B",
-      "location": "BC VERLAINE",
       "other": ""
     },
     {
@@ -476,16 +436,6 @@
       "other": ""
     },
     {
-      "code": "492265",
-      "date": "2026-03-01",
-      "time": "15:00",
-      "team1": "BC VERLAINE",
-      "team2": "MAIL. COMBLAIN",
-      "category": "U 14 - PROV MM C",
-      "location": "BC VERLAINE",
-      "other": ""
-    },
-    {
       "code": "492276",
       "date": "2026-03-08",
       "time": "14:00",
@@ -526,19 +476,9 @@
       "other": ""
     },
     {
-      "code": "590264",
-      "date": "2026-03-01",
-      "time": "10:00",
-      "team1": "MAIL. COMBLAIN",
-      "team2": "ATLAS A JUPILLE",
-      "category": "U 16 - DD A",
-      "location": "MAIL. COMBLAIN",
-      "other": ""
-    },
-    {
       "code": "590276",
-      "date": "2026-03-07",
-      "time": "16:00",
+      "date": "2026-03-08",
+      "time": "11:00",
       "team1": "ROYAL BC WANZE",
       "team2": "MAIL. COMBLAIN",
       "category": "U 16 - DD A",
@@ -623,16 +563,6 @@
       "team2": "MAIL. COMBLAIN",
       "category": "U 18 - ELITES MM B",
       "location": "R 4A AYWAILLE-HAMOIR",
-      "other": ""
-    },
-    {
-      "code": "543265",
-      "date": "2026-02-28",
-      "time": "11:00",
-      "team1": "ABC WAREMME B",
-      "team2": "MAIL. COMBLAIN",
-      "category": "U 8 - MM D",
-      "location": "ABC WAREMME B",
       "other": ""
     },
     {

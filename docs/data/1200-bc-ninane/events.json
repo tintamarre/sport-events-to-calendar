@@ -6,23 +6,13 @@
   },
   "events": [
     {
-      "code": "414266",
-      "date": "2026-03-01",
-      "time": "17:00",
+      "code": "764153",
+      "date": "2026-03-14",
+      "time": "12:30",
       "team1": "ROYAL BC NINANE A",
-      "team2": "PRAYON TROOZ B",
-      "category": "DD - DIVISION 2 A",
+      "team2": "ROYAL BC WANZE A",
+      "category": "CPE PROV PUPILLES MM",
       "location": "ROYAL BC NINANE A",
-      "other": "(Vaux/Chèvremont)"
-    },
-    {
-      "code": "414216",
-      "date": "2026-03-03",
-      "time": "20:00",
-      "team1": "ATLAS A JUPILLE",
-      "team2": "ROYAL BC NINANE A",
-      "category": "DD - DIVISION 2 A",
-      "location": "ATLAS A JUPILLE",
       "other": ""
     },
     {
@@ -33,6 +23,16 @@
       "team2": "ROYAL BC NINANE A",
       "category": "DD - DIVISION 2 A",
       "location": "RBC HANEFFE B",
+      "other": ""
+    },
+    {
+      "code": "414216",
+      "date": "2026-03-16",
+      "time": "20:00",
+      "team1": "ATLAS A JUPILLE",
+      "team2": "ROYAL BC NINANE A",
+      "category": "DD - DIVISION 2 A",
+      "location": "ATLAS A JUPILLE",
       "other": ""
     },
     {
@@ -96,16 +96,6 @@
       "other": "(Vaux/Chèvremont)"
     },
     {
-      "code": "415266",
-      "date": "2026-02-28",
-      "time": "19:00",
-      "team1": "ROYAL BC NINANE B",
-      "team2": "CRISTAL SGH A",
-      "category": "DD - DIVISION 2 B",
-      "location": "ROYAL BC NINANE B",
-      "other": "(Salle de Belleflamme)"
-    },
-    {
       "code": "415274",
       "date": "2026-03-08",
       "time": "18:00",
@@ -133,7 +123,7 @@
       "team2": "AVENIR JUPILLE B",
       "category": "DD - DIVISION 2 B",
       "location": "ROYAL BC NINANE B",
-      "other": "(Salle Liège Atlas)"
+      "other": "(Athénée de Jupille)"
     },
     {
       "code": "415292",
@@ -174,16 +164,6 @@
       "category": "DD - DIVISION 2 B",
       "location": "ROYAL BC NINANE B",
       "other": "(Vaux/Chèvremont)"
-    },
-    {
-      "code": "405265",
-      "date": "2026-03-01",
-      "time": "15:00",
-      "team1": "CRISTAL SGH C",
-      "team2": "ROYAL BC NINANE C",
-      "category": "MM - DIVISION 3 B",
-      "location": "CRISTAL SGH C",
-      "other": ""
     },
     {
       "code": "405276",
@@ -243,26 +223,6 @@
       "team2": "ROYAL BC NINANE C",
       "category": "MM - DIVISION 3 B",
       "location": "BC OLNE",
-      "other": ""
-    },
-    {
-      "code": "407266",
-      "date": "2026-03-01",
-      "time": "15:00",
-      "team1": "ROYAL BC NINANE D",
-      "team2": "ROYAL MOSA AC 1941 B",
-      "category": "MM - DIVISION 4 A",
-      "location": "ROYAL BC NINANE D",
-      "other": "(Vaux/Chèvremont)"
-    },
-    {
-      "code": "407127",
-      "date": "2026-03-04",
-      "time": "19:30",
-      "team1": "ORP JAUCHE A",
-      "team2": "ROYAL BC NINANE D",
-      "category": "MM - DIVISION 4 A",
-      "location": "ORP JAUCHE A",
       "other": ""
     },
     {
@@ -336,16 +296,6 @@
       "other": "(Vaux/Chèvremont)"
     },
     {
-      "code": "408265",
-      "date": "2026-02-28",
-      "time": "21:00",
-      "team1": "R HT-PRE OUGREE A",
-      "team2": "ROYAL BC NINANE F",
-      "category": "MM - DIVISION 4 B",
-      "location": "R HT-PRE OUGREE A",
-      "other": ""
-    },
-    {
       "code": "408276",
       "date": "2026-03-08",
       "time": "14:00",
@@ -393,16 +343,6 @@
       "team2": "ROYAL BC NINANE F",
       "category": "MM - DIVISION 4 B",
       "location": "ROYAL ANS BC B",
-      "other": ""
-    },
-    {
-      "code": "409265",
-      "date": "2026-02-28",
-      "time": "17:00",
-      "team1": "RBC DISON-ANDRIMONT C",
-      "team2": "ROYAL BC NINANE E",
-      "category": "MM - DIVISION 4 C",
-      "location": "RBC DISON-ANDRIMONT C",
       "other": ""
     },
     {
@@ -476,16 +416,6 @@
       "other": ""
     },
     {
-      "code": "AW101145",
-      "date": "2026-02-28",
-      "time": "20:00",
-      "team1": "ROYAL IV BRUSSELS",
-      "team2": "ROYAL BC NINANE A",
-      "category": "MM - REGIONALE 1",
-      "location": "ROYAL IV BRUSSELS",
-      "other": ""
-    },
-    {
       "code": "AW101153",
       "date": "2026-03-07",
       "time": "21:00",
@@ -543,16 +473,6 @@
       "team2": "ROYAL BC NINANE A",
       "category": "MM - REGIONALE 1",
       "location": "UNION MONS-HAINAUT",
-      "other": ""
-    },
-    {
-      "code": "AW103145",
-      "date": "2026-02-28",
-      "time": "21:00",
-      "team1": "RB TILFF A",
-      "team2": "ROYAL BC NINANE B",
-      "category": "MM - REGIONALE 2 B",
-      "location": "RB TILFF A",
       "other": ""
     },
     {
@@ -633,16 +553,6 @@
       "team2": "ROYAL BC NINANE A",
       "category": "U 10 - MM A",
       "location": "ROYAL SPA BC C",
-      "other": ""
-    },
-    {
-      "code": "526265",
-      "date": "2026-03-01",
-      "time": "11:00",
-      "team1": "RB TILFF B",
-      "team2": "ROYAL BC NINANE B",
-      "category": "U 10 - MM G",
-      "location": "RB TILFF B",
       "other": ""
     },
     {
@@ -736,16 +646,6 @@
       "other": ""
     },
     {
-      "code": "504266",
-      "date": "2026-02-28",
-      "time": "9:00",
-      "team1": "ROYAL BC NINANE B",
-      "team2": "RBC AUBEL B",
-      "category": "U 12 - MM E",
-      "location": "ROYAL BC NINANE B",
-      "other": ""
-    },
-    {
       "code": "504292",
       "date": "2026-03-21",
       "time": "9:00",
@@ -796,16 +696,6 @@
       "other": ""
     },
     {
-      "code": "481266",
-      "date": "2026-03-14",
-      "time": "9:00",
-      "team1": "ROYAL BC NINANE A",
-      "team2": "ATLAS A JUPILLE",
-      "category": "U 14 - ELITES MM B",
-      "location": "ROYAL BC NINANE A",
-      "other": ""
-    },
-    {
       "code": "481292",
       "date": "2026-03-21",
       "time": "9:00",
@@ -836,6 +726,16 @@
       "other": ""
     },
     {
+      "code": "481266",
+      "date": "2026-04-12",
+      "time": "9:00",
+      "team1": "ROYAL BC NINANE A",
+      "team2": "ATLAS A JUPILLE",
+      "category": "U 14 - ELITES MM B",
+      "location": "ROYAL BC NINANE A",
+      "other": ""
+    },
+    {
       "code": "481336",
       "date": "2026-04-18",
       "time": "11:00",
@@ -843,16 +743,6 @@
       "team2": "BC COINTE",
       "category": "U 14 - ELITES MM B",
       "location": "ROYAL BC NINANE A",
-      "other": ""
-    },
-    {
-      "code": "491265",
-      "date": "2026-03-01",
-      "time": "13:00",
-      "team1": "CRISTAL SGH B",
-      "team2": "ROYAL BC NINANE B",
-      "category": "U 14 - PROV MM B",
-      "location": "CRISTAL SGH B",
       "other": ""
     },
     {
@@ -873,16 +763,6 @@
       "team2": "ROYAL BC NINANE B",
       "category": "U 14 - PROV MM B",
       "location": "RBC VISE B",
-      "other": ""
-    },
-    {
-      "code": "591266",
-      "date": "2026-03-01",
-      "time": "9:00",
-      "team1": "ROYAL BC NINANE",
-      "team2": "ALL. FLEMALLE A",
-      "category": "U 16 - DD B",
-      "location": "ROYAL BC NINANE",
       "other": ""
     },
     {
@@ -932,16 +812,6 @@
       "team1": "ROYAL BC NINANE",
       "team2": "LA VILLERSOISE",
       "category": "U 16 - DD B",
-      "location": "ROYAL BC NINANE",
-      "other": ""
-    },
-    {
-      "code": "471266",
-      "date": "2026-03-01",
-      "time": "11:00",
-      "team1": "ROYAL BC NINANE",
-      "team2": "HANNUT BC",
-      "category": "U 16 - PROV MM B",
       "location": "ROYAL BC NINANE",
       "other": ""
     },
@@ -1046,16 +916,6 @@
       "other": ""
     },
     {
-      "code": "440267",
-      "date": "2026-03-01",
-      "time": "13:00",
-      "team1": "ROYAL BC NINANE B",
-      "team2": "ALL. FLEMALLE B",
-      "category": "U 18 - PROV MM",
-      "location": "ROYAL BC NINANE B",
-      "other": ""
-    },
-    {
       "code": "440276",
       "date": "2026-03-08",
       "time": "15:30",
@@ -1106,16 +966,6 @@
       "other": ""
     },
     {
-      "code": "580234",
-      "date": "2026-03-01",
-      "time": "10:00",
-      "team1": "RBC ESNEUX",
-      "team2": "ROYAL BC NINANE",
-      "category": "U 19 - DD A",
-      "location": "RBC ESNEUX",
-      "other": ""
-    },
-    {
       "code": "580291",
       "date": "2026-03-21",
       "time": "15:00",
@@ -1156,16 +1006,6 @@
       "other": ""
     },
     {
-      "code": "551262",
-      "date": "2026-02-28",
-      "time": "11:00",
-      "team1": "PEPINSTER EAST BELG B",
-      "team2": "ROYAL BC NINANE",
-      "category": "U 7 - MM B",
-      "location": "PEPINSTER EAST BELG B",
-      "other": ""
-    },
-    {
       "code": "551291",
       "date": "2026-03-21",
       "time": "9:00",
@@ -1203,16 +1043,6 @@
       "team2": "CRISTAL SGH B",
       "category": "U 7 - MM B",
       "location": "ROYAL BC NINANE",
-      "other": ""
-    },
-    {
-      "code": "540265",
-      "date": "2026-02-28",
-      "time": "11:30",
-      "team1": "ROYAL MOSA AC 1941",
-      "team2": "ROYAL BC NINANE",
-      "category": "U 8 - MM A",
-      "location": "ROYAL MOSA AC 1941",
       "other": ""
     },
     {

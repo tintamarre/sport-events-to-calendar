@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "AW104141",
-      "date": "2026-03-01",
-      "time": "17:00",
-      "team1": "LIEGE PANTHERS B",
-      "team2": "HERVE-BATTICE A",
-      "category": "DD - REGIONALE 1",
-      "location": "LIEGE PANTHERS B",
-      "other": ""
-    },
-    {
       "code": "AW104150",
       "date": "2026-03-07",
       "time": "18:30",
@@ -53,16 +43,6 @@
       "team2": "LIEGE PANTHERS B",
       "category": "DD - REGIONALE 1",
       "location": "BCCA NEUFCHATEAU",
-      "other": ""
-    },
-    {
-      "code": "AW105141",
-      "date": "2026-03-01",
-      "time": "19:00",
-      "team1": "LIEGE PANTHERS C",
-      "team2": "PRAYON TROOZ A",
-      "category": "DD - REGIONALE 2 A",
-      "location": "LIEGE PANTHERS C",
       "other": ""
     },
     {
@@ -116,16 +96,6 @@
       "other": ""
     },
     {
-      "code": "NADSE11ABC",
-      "date": "2026-02-28",
-      "time": "18:15",
-      "team1": "LIEGE PANTHERS",
-      "team2": "LADIES CHARLEROI",
-      "category": "TOP DIVISION WOMEN 1",
-      "location": "LIEGE PANTHERS",
-      "other": ""
-    },
-    {
       "code": "NADSE11ABL",
       "date": "2026-03-28",
       "time": "18:15",
@@ -143,16 +113,6 @@
       "team2": "LIEGE PANTHERS",
       "category": "TOP DIVISION WOMEN 1",
       "location": "PHANTOMS BOOM",
-      "other": ""
-    },
-    {
-      "code": "INM1412BDF",
-      "date": "2026-02-28",
-      "time": "13:30",
-      "team1": "LIEGE PANTHERS",
-      "team2": "BASKET WAREGEM",
-      "category": "U 14 DD - NATIONALES B",
-      "location": "LIEGE PANTHERS",
       "other": ""
     },
     {
@@ -216,21 +176,21 @@
       "other": ""
     },
     {
-      "code": "AW175025",
-      "date": "2026-03-15",
-      "time": "11:00",
+      "code": "AW175019",
+      "date": "2026-03-11",
+      "time": "19:00",
       "team1": "LIEGE PANTHERS",
-      "team2": "RB ALLIANCE ARLON",
+      "team2": "NAMUR CAPITALE",
       "category": "U 16 - GOLD REGIONALES A",
       "location": "LIEGE PANTHERS",
       "other": ""
     },
     {
-      "code": "AW175019",
-      "date": "2026-03-22",
+      "code": "AW175025",
+      "date": "2026-03-15",
       "time": "11:00",
       "team1": "LIEGE PANTHERS",
-      "team2": "NAMUR CAPITALE",
+      "team2": "RB ALLIANCE ARLON",
       "category": "U 16 - GOLD REGIONALES A",
       "location": "LIEGE PANTHERS",
       "other": ""
@@ -252,16 +212,6 @@
       "team1": "LIEGE PANTHERS",
       "team2": "ROYAL NIVELLES",
       "category": "U 16 - GOLD REGIONALES A",
-      "location": "LIEGE PANTHERS",
-      "other": ""
-    },
-    {
-      "code": "INM1612BBC",
-      "date": "2026-03-01",
-      "time": "15:00",
-      "team1": "LIEGE PANTHERS",
-      "team2": "BASKET WAREGEM",
-      "category": "U 16 DD - NATIONALES B",
       "location": "LIEGE PANTHERS",
       "other": ""
     },
@@ -336,6 +286,16 @@
       "other": ""
     },
     {
+      "code": "AW171005",
+      "date": "2026-03-21",
+      "time": "11:00",
+      "team1": "LIEGE PANTHERS",
+      "team2": "GANSHOREN DAMES",
+      "category": "U 19 - GOLD REGIONALES B",
+      "location": "LIEGE PANTHERS",
+      "other": ""
+    },
+    {
       "code": "AW171020",
       "date": "2026-03-22",
       "time": "15:00",
@@ -343,16 +303,6 @@
       "team2": "LIEGE PANTHERS",
       "category": "U 19 - GOLD REGIONALES B",
       "location": "GANSHOREN DAMES",
-      "other": ""
-    },
-    {
-      "code": "AW171005",
-      "date": "2026-04-04",
-      "time": "10:00",
-      "team1": "LIEGE PANTHERS",
-      "team2": "GANSHOREN DAMES",
-      "category": "U 19 - GOLD REGIONALES B",
-      "location": "LIEGE PANTHERS",
       "other": ""
     },
     {
@@ -372,16 +322,6 @@
       "team1": "LIEGE PANTHERS",
       "team2": "LADIES CHARLEROI",
       "category": "U 19 - GOLD REGIONALES B",
-      "location": "LIEGE PANTHERS",
-      "other": ""
-    },
-    {
-      "code": "INM1912BBC",
-      "date": "2026-02-28",
-      "time": "11:30",
-      "team1": "LIEGE PANTHERS",
-      "team2": "KANG. MECHELEN",
-      "category": "U 19 DD - NATIONALES B",
       "location": "LIEGE PANTHERS",
       "other": ""
     },
@@ -427,8 +367,8 @@
     },
     {
       "code": "INM1912BAB",
-      "date": "2026-04-11",
-      "time": "12:00",
+      "date": "2026-04-05",
+      "time": "11:30",
       "team1": "KORTRIJK SPURS",
       "team2": "LIEGE PANTHERS",
       "category": "U 19 DD - NATIONALES B",
