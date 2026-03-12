@@ -6,13 +6,13 @@
   },
   "events": [
     {
-      "code": "401274",
-      "date": "2026-03-07",
-      "time": "17:00",
-      "team1": "RBC HANEFFE A",
-      "team2": "ESL UNITED C",
-      "category": "MM - DIVISION 1",
-      "location": "RBC HANEFFE A",
+      "code": "183",
+      "date": "2026-03-28",
+      "time": "20:45",
+      "team1": "MAIL. COMBLAIN (+  10)",
+      "team2": "ESL UNITED A",
+      "category": "COUPE AWBB MESSIEURS",
+      "location": "MAIL. COMBLAIN (+  10)",
       "other": ""
     },
     {
@@ -66,16 +66,6 @@
       "other": ""
     },
     {
-      "code": "402274",
-      "date": "2026-03-07",
-      "time": "21:00",
-      "team1": "BC BELLEFLAMME C",
-      "team2": "ESL UNITED E",
-      "category": "MM - DIVISION 2 A",
-      "location": "BC BELLEFLAMME C",
-      "other": ""
-    },
-    {
       "code": "402292",
       "date": "2026-03-21",
       "time": "21:00",
@@ -123,16 +113,6 @@
       "team2": "ROYAL SPA BC C",
       "category": "MM - DIVISION 2 A",
       "location": "ESL UNITED E",
-      "other": ""
-    },
-    {
-      "code": "403272",
-      "date": "2026-03-08",
-      "time": "11:00",
-      "team1": "ROYAL HERVE-BATTICE A",
-      "team2": "ESL UNITED D",
-      "category": "MM - DIVISION 2 B",
-      "location": "ROYAL HERVE-BATTICE A",
       "other": ""
     },
     {
@@ -186,16 +166,6 @@
       "other": ""
     },
     {
-      "code": "406277",
-      "date": "2026-03-08",
-      "time": "11:00",
-      "team1": "ESL UNITED F",
-      "team2": "CRISTAL SGH B",
-      "category": "MM - DIVISION 3 C",
-      "location": "ESL UNITED F",
-      "other": ""
-    },
-    {
       "code": "406306",
       "date": "2026-03-13",
       "time": "19:00",
@@ -246,26 +216,6 @@
       "other": ""
     },
     {
-      "code": "AW101151",
-      "date": "2026-03-06",
-      "time": "21:00",
-      "team1": "ESL UNITED B",
-      "team2": "ASTE KAIN",
-      "category": "MM - REGIONALE 1",
-      "location": "ESL UNITED B",
-      "other": ""
-    },
-    {
-      "code": "AW101116",
-      "date": "2026-03-09",
-      "time": "20:30",
-      "team1": "ESL UNITED B",
-      "team2": "RBC LOYERS",
-      "category": "MM - REGIONALE 1",
-      "location": "ESL UNITED B",
-      "other": ""
-    },
-    {
       "code": "AW101156",
       "date": "2026-03-15",
       "time": "11:00",
@@ -276,16 +226,6 @@
       "other": ""
     },
     {
-      "code": "AW101122",
-      "date": "2026-03-29",
-      "time": "15:00",
-      "team1": "RPC ANDERLECHT",
-      "team2": "ESL UNITED B",
-      "category": "MM - REGIONALE 1",
-      "location": "RPC ANDERLECHT",
-      "other": ""
-    },
-    {
       "code": "AW101172",
       "date": "2026-04-11",
       "time": "19:30",
@@ -293,6 +233,16 @@
       "team2": "ESL UNITED B",
       "category": "MM - REGIONALE 1",
       "location": "BC VERVIERS A",
+      "other": ""
+    },
+    {
+      "code": "AW101122",
+      "date": "2026-04-15",
+      "time": "20:30",
+      "team1": "RPC ANDERLECHT",
+      "team2": "ESL UNITED B",
+      "category": "MM - REGIONALE 1",
+      "location": "RPC ANDERLECHT",
       "other": ""
     },
     {
@@ -313,16 +263,6 @@
       "team2": "RSW LIEGE BASKET A",
       "category": "MM - REGIONALE 1",
       "location": "ESL UNITED B",
-      "other": ""
-    },
-    {
-      "code": "NAHSE21BCG",
-      "date": "2026-03-07",
-      "time": "19:00",
-      "team1": "BC SPRIMONT A",
-      "team2": "ESL UNITED A",
-      "category": "TOP DIVISION MEN 2 B",
-      "location": "BC SPRIMONT A",
       "other": ""
     },
     {
@@ -376,16 +316,6 @@
       "other": ""
     },
     {
-      "code": "AW161029",
-      "date": "2026-03-07",
-      "time": "17:00",
-      "team1": "BC FRAIRE",
-      "team2": "ESL UNITED",
-      "category": "U 14 - GOLD REGIONAUX A",
-      "location": "BC FRAIRE",
-      "other": ""
-    },
-    {
       "code": "AW161025",
       "date": "2026-03-15",
       "time": "13:00",
@@ -436,16 +366,6 @@
       "other": ""
     },
     {
-      "code": "INJ1612ABE",
-      "date": "2026-03-08",
-      "time": "13:00",
-      "team1": "ESL UNITED",
-      "team2": "LAURENTY ACADEMY",
-      "category": "U 16 MM - NATIONAUX A",
-      "location": "ESL UNITED",
-      "other": ""
-    },
-    {
       "code": "INJ1612ADB",
       "date": "2026-03-14",
       "time": "16:00",
@@ -486,16 +406,6 @@
       "other": ""
     },
     {
-      "code": "AW150029",
-      "date": "2026-03-07",
-      "time": "11:00",
-      "team1": "BC SPRIMONT",
-      "team2": "ESL UNITED",
-      "category": "U 18 - GOLD REGIONAUX A",
-      "location": "BC SPRIMONT",
-      "other": ""
-    },
-    {
       "code": "AW150025",
       "date": "2026-03-15",
       "time": "11:00",
@@ -533,26 +443,6 @@
       "team2": "DPK CARNIERES",
       "category": "U 18 - GOLD REGIONAUX A",
       "location": "ESL UNITED",
-      "other": ""
-    },
-    {
-      "code": "INJ2112BFB",
-      "date": "2026-03-07",
-      "time": "13:00",
-      "team1": "ESL UNITED",
-      "team2": "ANTWERP GIANTS",
-      "category": "U 21 MM - NATIONAUX B",
-      "location": "ESL UNITED",
-      "other": ""
-    },
-    {
-      "code": "INJ2112BBF",
-      "date": "2026-03-08",
-      "time": "11:00",
-      "team1": "ANTWERP GIANTS",
-      "team2": "ESL UNITED",
-      "category": "U 21 MM - NATIONAUX B",
-      "location": "ANTWERP GIANTS",
       "other": ""
     },
     {

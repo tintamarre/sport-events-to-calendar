@@ -6,13 +6,23 @@
   },
   "events": [
     {
-      "code": "AW104150",
-      "date": "2026-03-07",
+      "code": "AW247063",
+      "date": "2026-03-29",
+      "time": "14:00",
+      "team1": "ROYAL BC CINEY A",
+      "team2": "LIEGE PANTHERS A",
+      "category": "COUPE AWBB U16 - FILLES",
+      "location": "ROYAL BC CINEY A",
+      "other": ""
+    },
+    {
+      "code": "AW246063",
+      "date": "2026-03-29",
       "time": "18:30",
-      "team1": "REBOND OTTIGNIES",
-      "team2": "LIEGE PANTHERS B",
-      "category": "DD - REGIONALE 1",
-      "location": "REBOND OTTIGNIES",
+      "team1": "LAURENTY ACADEMY B",
+      "team2": "LIEGE PANTHERS A",
+      "category": "COUPE AWBB U19 - FILLES",
+      "location": "LAURENTY ACADEMY B",
       "other": ""
     },
     {
@@ -43,16 +53,6 @@
       "team2": "LIEGE PANTHERS B",
       "category": "DD - REGIONALE 1",
       "location": "BCCA NEUFCHATEAU",
-      "other": ""
-    },
-    {
-      "code": "AW105150",
-      "date": "2026-03-08",
-      "time": "17:00",
-      "team1": "REBOND OTTIGNIES",
-      "team2": "LIEGE PANTHERS C",
-      "category": "DD - REGIONALE 2 A",
-      "location": "REBOND OTTIGNIES",
       "other": ""
     },
     {
@@ -116,16 +116,6 @@
       "other": ""
     },
     {
-      "code": "INM1412BCD",
-      "date": "2026-03-07",
-      "time": "11:00",
-      "team1": "BERCHEM BBC",
-      "team2": "LIEGE PANTHERS",
-      "category": "U 14 DD - NATIONALES B",
-      "location": "BERCHEM BBC",
-      "other": ""
-    },
-    {
       "code": "INM1412BDB",
       "date": "2026-03-14",
       "time": "13:30",
@@ -166,26 +156,6 @@
       "other": ""
     },
     {
-      "code": "AW175029",
-      "date": "2026-03-08",
-      "time": "18:00",
-      "team1": "PDL CHARLEROI",
-      "team2": "LIEGE PANTHERS",
-      "category": "U 16 - GOLD REGIONALES A",
-      "location": "PDL CHARLEROI",
-      "other": ""
-    },
-    {
-      "code": "AW175019",
-      "date": "2026-03-11",
-      "time": "19:00",
-      "team1": "LIEGE PANTHERS",
-      "team2": "NAMUR CAPITALE",
-      "category": "U 16 - GOLD REGIONALES A",
-      "location": "LIEGE PANTHERS",
-      "other": ""
-    },
-    {
       "code": "AW175025",
       "date": "2026-03-15",
       "time": "11:00",
@@ -198,7 +168,7 @@
     {
       "code": "AW175017",
       "date": "2026-04-11",
-      "time": "9:00",
+      "time": "12:30",
       "team1": "MONS CAPITALE",
       "team2": "LIEGE PANTHERS",
       "category": "U 16 - GOLD REGIONALES A",
@@ -212,16 +182,6 @@
       "team1": "LIEGE PANTHERS",
       "team2": "ROYAL NIVELLES",
       "category": "U 16 - GOLD REGIONALES A",
-      "location": "LIEGE PANTHERS",
-      "other": ""
-    },
-    {
-      "code": "INM1612BBE",
-      "date": "2026-03-08",
-      "time": "15:00",
-      "team1": "LIEGE PANTHERS",
-      "team2": "EAST BELGIUM BCA",
-      "category": "U 16 DD - NATIONALES B",
       "location": "LIEGE PANTHERS",
       "other": ""
     },
@@ -263,16 +223,6 @@
       "team2": "LIEGE PANTHERS",
       "category": "U 16 DD - NATIONALES B",
       "location": "BASKET WAREGEM",
-      "other": ""
-    },
-    {
-      "code": "AW171030",
-      "date": "2026-03-07",
-      "time": "16:00",
-      "team1": "REBOND OTTIGNIES",
-      "team2": "LIEGE PANTHERS",
-      "category": "U 19 - GOLD REGIONALES B",
-      "location": "REBOND OTTIGNIES",
       "other": ""
     },
     {
@@ -326,16 +276,6 @@
       "other": ""
     },
     {
-      "code": "INM1912BFB",
-      "date": "2026-03-07",
-      "time": "13:00",
-      "team1": "CASTORS BRAINE",
-      "team2": "LIEGE PANTHERS",
-      "category": "U 19 DD - NATIONALES B",
-      "location": "CASTORS BRAINE",
-      "other": ""
-    },
-    {
       "code": "INM1912BBA",
       "date": "2026-03-14",
       "time": "11:30",
@@ -356,16 +296,6 @@
       "other": ""
     },
     {
-      "code": "INM1912BBE",
-      "date": "2026-03-29",
-      "time": "15:00",
-      "team1": "LIEGE PANTHERS",
-      "team2": "LDP DONZA",
-      "category": "U 19 DD - NATIONALES B",
-      "location": "LIEGE PANTHERS",
-      "other": ""
-    },
-    {
       "code": "INM1912BAB",
       "date": "2026-04-05",
       "time": "11:30",
@@ -373,6 +303,16 @@
       "team2": "LIEGE PANTHERS",
       "category": "U 19 DD - NATIONALES B",
       "location": "KORTRIJK SPURS",
+      "other": ""
+    },
+    {
+      "code": "INM1912BBE",
+      "date": "2026-04-06",
+      "time": "11:00",
+      "team1": "LIEGE PANTHERS",
+      "team2": "LDP DONZA",
+      "category": "U 19 DD - NATIONALES B",
+      "location": "LIEGE PANTHERS",
       "other": ""
     },
     {

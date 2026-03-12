@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "418191",
-      "date": "2026-03-07",
-      "time": "17:00",
-      "team1": "RBC WELKENRAEDT",
-      "team2": "ALL. FLEMALLE C",
-      "category": "DD - DIVISION 3 C",
-      "location": "RBC WELKENRAEDT",
-      "other": ""
-    },
-    {
       "code": "418267",
       "date": "2026-03-13",
       "time": "20:30",
@@ -53,16 +43,6 @@
       "team2": "HENRI-CHAPELLE C",
       "category": "DD - DIVISION 3 C",
       "location": "RBC WELKENRAEDT",
-      "other": ""
-    },
-    {
-      "code": "406271",
-      "date": "2026-03-07",
-      "time": "21:00",
-      "team1": "RBC WELKENRAEDT A",
-      "team2": "ATLAS A JUPILLE C",
-      "category": "MM - DIVISION 3 C",
-      "location": "RBC WELKENRAEDT A",
       "other": ""
     },
     {
@@ -116,26 +96,6 @@
       "other": ""
     },
     {
-      "code": "411271",
-      "date": "2026-03-07",
-      "time": "19:00",
-      "team1": "RBC WELKENRAEDT B",
-      "team2": "R.UN.BELLAIRE B",
-      "category": "MM - DIVISION 4 E",
-      "location": "RBC WELKENRAEDT B",
-      "other": ""
-    },
-    {
-      "code": "411241",
-      "date": "2026-03-11",
-      "time": "21:00",
-      "team1": "RBC WELKENRAEDT B",
-      "team2": "DF BC MALMEDY",
-      "category": "MM - DIVISION 4 E",
-      "location": "RBC WELKENRAEDT B",
-      "other": ""
-    },
-    {
       "code": "411291",
       "date": "2026-03-21",
       "time": "19:00",
@@ -176,16 +136,6 @@
       "other": ""
     },
     {
-      "code": "490203",
-      "date": "2026-03-07",
-      "time": "13:00",
-      "team1": "DF BC MALMEDY",
-      "team2": "RBC WELKENRAEDT",
-      "category": "U 14 - PROV MM A",
-      "location": "DF BC MALMEDY",
-      "other": ""
-    },
-    {
       "code": "490291",
       "date": "2026-03-21",
       "time": "9:00",
@@ -212,16 +162,6 @@
       "team1": "RBC WELKENRAEDT",
       "team2": "RBC BLEGNY A",
       "category": "U 14 - PROV MM A",
-      "location": "RBC WELKENRAEDT",
-      "other": ""
-    },
-    {
-      "code": "470271",
-      "date": "2026-03-07",
-      "time": "13:00",
-      "team1": "RBC WELKENRAEDT",
-      "team2": "DF BC MALMEDY",
-      "category": "U 16 - PROV MM A",
       "location": "RBC WELKENRAEDT",
       "other": ""
     },
@@ -253,16 +193,6 @@
       "team2": "RBC WELKENRAEDT",
       "category": "U 16 - PROV MM A",
       "location": "ATLAS A JUPILLE B",
-      "other": ""
-    },
-    {
-      "code": "440272",
-      "date": "2026-03-07",
-      "time": "15:00",
-      "team1": "RBC WELKENRAEDT",
-      "team2": "BC BELLEFLAMME B",
-      "category": "U 18 - PROV MM",
-      "location": "RBC WELKENRAEDT",
       "other": ""
     },
     {
@@ -313,16 +243,6 @@
       "team2": "RBC AWANS B",
       "category": "U 18 - PROV MM",
       "location": "RBC WELKENRAEDT",
-      "other": ""
-    },
-    {
-      "code": "580272",
-      "date": "2026-03-07",
-      "time": "17:00",
-      "team1": "RBC AWANS",
-      "team2": "RBC WELKENRAEDT",
-      "category": "U 19 - DD A",
-      "location": "RBC AWANS",
       "other": ""
     },
     {

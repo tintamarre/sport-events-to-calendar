@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "413273",
-      "date": "2026-03-07",
-      "time": "18:00",
-      "team1": "R.UN.BELLAIRE A",
-      "team2": "ROYAL SPA BC A",
-      "category": "DD - DIVISION 1",
-      "location": "R.UN.BELLAIRE A",
-      "other": ""
-    },
-    {
       "code": "413221",
       "date": "2026-03-14",
       "time": "17:00",
@@ -76,16 +66,6 @@
       "other": ""
     },
     {
-      "code": "418273",
-      "date": "2026-03-08",
-      "time": "15:00",
-      "team1": "ETOILE JUPILLE",
-      "team2": "ROYAL SPA BC B",
-      "category": "DD - DIVISION 3 C",
-      "location": "ETOILE JUPILLE",
-      "other": ""
-    },
-    {
       "code": "418297",
       "date": "2026-03-21",
       "time": "19:00",
@@ -123,16 +103,6 @@
       "team2": "HENRI-CHAPELLE C",
       "category": "DD - DIVISION 3 C",
       "location": "ROYAL SPA BC B",
-      "other": ""
-    },
-    {
-      "code": "402271",
-      "date": "2026-03-08",
-      "time": "17:00",
-      "team1": "HARIMALIA BC C",
-      "team2": "ROYAL SPA BC C",
-      "category": "MM - DIVISION 2 A",
-      "location": "HARIMALIA BC C",
       "other": ""
     },
     {
@@ -196,16 +166,6 @@
       "other": ""
     },
     {
-      "code": "403273",
-      "date": "2026-03-06",
-      "time": "20:15",
-      "team1": "R.UN.BELLAIRE A",
-      "team2": "ROYAL SPA BC B",
-      "category": "MM - DIVISION 2 B",
-      "location": "R.UN.BELLAIRE A",
-      "other": ""
-    },
-    {
       "code": "403021",
       "date": "2026-03-14",
       "time": "19:00",
@@ -266,19 +226,9 @@
       "other": ""
     },
     {
-      "code": "409273",
-      "date": "2026-03-08",
-      "time": "13:00",
-      "team1": "ETOILE JUPILLE C",
-      "team2": "ROYAL SPA BC D",
-      "category": "MM - DIVISION 4 C",
-      "location": "ETOILE JUPILLE C",
-      "other": ""
-    },
-    {
       "code": "409297",
       "date": "2026-03-21",
-      "time": "21:00",
+      "time": "19:00",
       "team1": "ABC WAREMME C",
       "team2": "ROYAL SPA BC D",
       "category": "MM - DIVISION 4 C",
@@ -323,16 +273,6 @@
       "team2": "ROYAL SPA BC D",
       "category": "MM - DIVISION 4 C",
       "location": "RBC CROATIA OUPEYE",
-      "other": ""
-    },
-    {
-      "code": "411273",
-      "date": "2026-03-07",
-      "time": "19:00",
-      "team1": "AVENIR JUPILLE B",
-      "team2": "ROYAL SPA BC E",
-      "category": "MM - DIVISION 4 E",
-      "location": "AVENIR JUPILLE B",
       "other": ""
     },
     {
@@ -396,16 +336,6 @@
       "other": ""
     },
     {
-      "code": "AW103150",
-      "date": "2026-03-06",
-      "time": "21:00",
-      "team1": "UCCLE EUROPE",
-      "team2": "ROYAL SPA BC A",
-      "category": "MM - REGIONALE 2 B",
-      "location": "UCCLE EUROPE",
-      "other": ""
-    },
-    {
       "code": "AW103140",
       "date": "2026-03-22",
       "time": "15:30",
@@ -466,16 +396,6 @@
       "other": ""
     },
     {
-      "code": "520273",
-      "date": "2026-03-07",
-      "time": "11:30",
-      "team1": "RSW LIEGE BASKET",
-      "team2": "ROYAL SPA BC C",
-      "category": "U 10 - MM A",
-      "location": "RSW LIEGE BASKET",
-      "other": ""
-    },
-    {
       "code": "520301",
       "date": "2026-03-29",
       "time": "11:00",
@@ -503,16 +423,6 @@
       "team2": "ROYAL SPA BC C",
       "category": "U 10 - MM A",
       "location": "FLERON BBC",
-      "other": ""
-    },
-    {
-      "code": "525275",
-      "date": "2026-03-07",
-      "time": "11:00",
-      "team1": "RBC DISON-ANDRIMONT A",
-      "team2": "ROYAL SPA BC A",
-      "category": "U 10 - MM F",
-      "location": "RBC DISON-ANDRIMONT A",
       "other": ""
     },
     {
@@ -596,16 +506,6 @@
       "other": ""
     },
     {
-      "code": "600275",
-      "date": "2026-03-07",
-      "time": "11:00",
-      "team1": "CRISTAL SGH",
-      "team2": "ROYAL SPA BC",
-      "category": "U 14 - DD A",
-      "location": "CRISTAL SGH",
-      "other": ""
-    },
-    {
       "code": "600333",
       "date": "2026-03-14",
       "time": "15:00",
@@ -632,16 +532,6 @@
       "team1": "ROYAL SPA BC",
       "team2": "RJS GRIVEGNEE",
       "category": "U 14 - DD A",
-      "location": "ROYAL SPA BC",
-      "other": ""
-    },
-    {
-      "code": "491271",
-      "date": "2026-03-07",
-      "time": "13:00",
-      "team1": "ROYAL SPA BC",
-      "team2": "VAIL. JUPILLE",
-      "category": "U 14 - PROV MM B",
       "location": "ROYAL SPA BC",
       "other": ""
     },
@@ -682,16 +572,6 @@
       "team1": "ROYAL SPA BC",
       "team2": "CRISTAL SGH B",
       "category": "U 14 - PROV MM B",
-      "location": "ROYAL SPA BC",
-      "other": ""
-    },
-    {
-      "code": "590271",
-      "date": "2026-03-07",
-      "time": "11:00",
-      "team1": "ROYAL SPA BC",
-      "team2": "RBC AWANS B",
-      "category": "U 16 - DD A",
       "location": "ROYAL SPA BC",
       "other": ""
     },
@@ -756,16 +636,6 @@
       "other": ""
     },
     {
-      "code": "450272",
-      "date": "2026-03-07",
-      "time": "9:00",
-      "team1": "ROYAL SPA BC B",
-      "team2": "ROYAL MOSA AC 1941",
-      "category": "U 16 - ELITES MM A",
-      "location": "ROYAL SPA BC B",
-      "other": ""
-    },
-    {
       "code": "450292",
       "date": "2026-03-14",
       "time": "11:00",
@@ -796,16 +666,6 @@
       "other": ""
     },
     {
-      "code": "471271",
-      "date": "2026-03-07",
-      "time": "11:00",
-      "team1": "ROYAL SPA BC",
-      "team2": "THEUX BC",
-      "category": "U 16 - PROV MM B",
-      "location": "ROYAL SPA BC",
-      "other": ""
-    },
-    {
       "code": "471306",
       "date": "2026-03-29",
       "time": "9:00",
@@ -823,16 +683,6 @@
       "team2": "ROYAL SPA BC",
       "category": "U 16 - PROV MM B",
       "location": "ROYAL BC NINANE",
-      "other": ""
-    },
-    {
-      "code": "421272",
-      "date": "2026-03-07",
-      "time": "13:00",
-      "team1": "CRISTAL SGH",
-      "team2": "ROYAL SPA BC",
-      "category": "U 21 - MM B",
-      "location": "CRISTAL SGH",
       "other": ""
     },
     {
@@ -886,16 +736,6 @@
       "other": ""
     },
     {
-      "code": "550271",
-      "date": "2026-03-07",
-      "time": "10:00",
-      "team1": "ROYAL SPA BC",
-      "team2": "BC VERVIERS",
-      "category": "U 7 - MM A",
-      "location": "ROYAL SPA BC",
-      "other": ""
-    },
-    {
       "code": "550291",
       "date": "2026-03-14",
       "time": "10:00",
@@ -933,16 +773,6 @@
       "team2": "RB TILFF A",
       "category": "U 7 - MM A",
       "location": "ROYAL SPA BC",
-      "other": ""
-    },
-    {
-      "code": "540271",
-      "date": "2026-03-07",
-      "time": "10:00",
-      "team1": "ROYAL SPA BC A",
-      "team2": "R.UN.BELLAIRE",
-      "category": "U 8 - MM A",
-      "location": "ROYAL SPA BC A",
       "other": ""
     },
     {

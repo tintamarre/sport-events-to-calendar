@@ -6,26 +6,6 @@
   },
   "events": [
     {
-      "code": "415277",
-      "date": "2026-03-07",
-      "time": "20:00",
-      "team1": "ABC WAREMME B",
-      "team2": "BC VERLAINE A",
-      "category": "DD - DIVISION 2 B",
-      "location": "ABC WAREMME B",
-      "other": ""
-    },
-    {
-      "code": "415195",
-      "date": "2026-03-11",
-      "time": "19:30",
-      "team1": "BC VERLAINE A",
-      "team2": "ROYAL BC NINANE B",
-      "category": "DD - DIVISION 2 B",
-      "location": "BC VERLAINE A",
-      "other": ""
-    },
-    {
       "code": "415305",
       "date": "2026-03-18",
       "time": "19:30",
@@ -74,16 +54,6 @@
       "category": "DD - DIVISION 2 B",
       "location": "RBC VISE A",
       "other": "(Salle de Fourons)"
-    },
-    {
-      "code": "417277",
-      "date": "2026-03-07",
-      "time": "17:00",
-      "team1": "ORP JAUCHE",
-      "team2": "BC VERLAINE B",
-      "category": "DD - DIVISION 3 B",
-      "location": "ORP JAUCHE",
-      "other": ""
     },
     {
       "code": "417305",
@@ -136,16 +106,6 @@
       "other": ""
     },
     {
-      "code": "407277",
-      "date": "2026-03-06",
-      "time": "20:30",
-      "team1": "RBC ALLEUR D",
-      "team2": "BC VERLAINE",
-      "category": "MM - DIVISION 4 A",
-      "location": "RBC ALLEUR D",
-      "other": ""
-    },
-    {
       "code": "407331",
       "date": "2026-03-14",
       "time": "21:00",
@@ -193,16 +153,6 @@
       "team2": "ETOILE JUPILLE B",
       "category": "MM - DIVISION 4 A",
       "location": "BC VERLAINE",
-      "other": ""
-    },
-    {
-      "code": "530331",
-      "date": "2026-03-07",
-      "time": "9:00",
-      "team1": "RBC ALLEUR A",
-      "team2": "BC VERLAINE",
-      "category": "U 10 - MM K",
-      "location": "RBC ALLEUR A",
       "other": ""
     },
     {
@@ -266,16 +216,6 @@
       "other": ""
     },
     {
-      "code": "509272",
-      "date": "2026-03-07",
-      "time": "11:30",
-      "team1": "CONDROZ MODAVE BB",
-      "team2": "BC VERLAINE B",
-      "category": "U 12 - MM J",
-      "location": "CONDROZ MODAVE BB",
-      "other": ""
-    },
-    {
       "code": "509331",
       "date": "2026-03-22",
       "time": "9:00",
@@ -293,16 +233,6 @@
       "team2": "ROYAL ANS BC B",
       "category": "U 12 - MM J",
       "location": "BC VERLAINE B",
-      "other": ""
-    },
-    {
-      "code": "601272",
-      "date": "2026-03-08",
-      "time": "13:00",
-      "team1": "UN HUY BASKET",
-      "team2": "BC VERLAINE",
-      "category": "U 14 - DD B",
-      "location": "UN HUY BASKET",
       "other": ""
     },
     {
@@ -346,16 +276,6 @@
       "other": ""
     },
     {
-      "code": "492272",
-      "date": "2026-03-07",
-      "time": "15:00",
-      "team1": "RABC ENSIVAL B",
-      "team2": "BC VERLAINE",
-      "category": "U 14 - PROV MM C",
-      "location": "RABC ENSIVAL B",
-      "other": ""
-    },
-    {
       "code": "492305",
       "date": "2026-03-29",
       "time": "15:00",
@@ -383,16 +303,6 @@
       "team2": "BC VERLAINE",
       "category": "U 14 - PROV MM C",
       "location": "RBC BLEGNY B",
-      "other": ""
-    },
-    {
-      "code": "551274",
-      "date": "2026-03-07",
-      "time": "11:00",
-      "team1": "BC VERLAINE B",
-      "team2": "ROYAL HERVE-BATTICE B",
-      "category": "U 7 - MM B",
-      "location": "BC VERLAINE B",
       "other": ""
     },
     {
@@ -466,16 +376,6 @@
       "other": ""
     },
     {
-      "code": "544272",
-      "date": "2026-03-07",
-      "time": "11:45",
-      "team1": "BC SPRIMONT C",
-      "team2": "BC VERLAINE A",
-      "category": "U 8 - MM E",
-      "location": "BC SPRIMONT C",
-      "other": ""
-    },
-    {
       "code": "544295",
       "date": "2026-03-22",
       "time": "9:00",
@@ -503,16 +403,6 @@
       "team2": "BC VERLAINE A",
       "category": "U 8 - MM E",
       "location": "ROYAL HERVE-BATTICE B",
-      "other": ""
-    },
-    {
-      "code": "545272",
-      "date": "2026-03-07",
-      "time": "13:15",
-      "team1": "CONDROZ MODAVE BB",
-      "team2": "BC VERLAINE B",
-      "category": "U 8 - MM F",
-      "location": "CONDROZ MODAVE BB",
       "other": ""
     },
     {

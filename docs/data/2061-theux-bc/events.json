@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "401272",
-      "date": "2026-03-08",
-      "time": "13:00",
-      "team1": "THEUX BC A",
-      "team2": "BC COINTE B",
-      "category": "MM - DIVISION 1",
-      "location": "THEUX BC A",
-      "other": ""
-    },
-    {
       "code": "401263",
       "date": "2026-03-14",
       "time": "21:00",
@@ -73,16 +63,6 @@
       "team2": "RABC ENSIVAL A",
       "category": "MM - DIVISION 1",
       "location": "THEUX BC A",
-      "other": ""
-    },
-    {
-      "code": "406272",
-      "date": "2026-03-08",
-      "time": "11:00",
-      "team1": "THEUX BC B",
-      "team2": "BC COINTE C",
-      "category": "MM - DIVISION 3 C",
-      "location": "THEUX BC B",
       "other": ""
     },
     {
@@ -146,16 +126,6 @@
       "other": ""
     },
     {
-      "code": "407272",
-      "date": "2026-03-07",
-      "time": "21:00",
-      "team1": "THEUX BC C",
-      "team2": "RBC DISON-ANDRIMONT D",
-      "category": "MM - DIVISION 4 A",
-      "location": "THEUX BC C",
-      "other": ""
-    },
-    {
       "code": "407292",
       "date": "2026-03-22",
       "time": "15:00",
@@ -203,16 +173,6 @@
       "team2": "RSW LIEGE BASKET C",
       "category": "MM - DIVISION 4 A",
       "location": "THEUX BC C",
-      "other": ""
-    },
-    {
-      "code": "408272",
-      "date": "2026-03-07",
-      "time": "19:00",
-      "team1": "THEUX BC D",
-      "team2": "CS OUTREMEUSE",
-      "category": "MM - DIVISION 4 B",
-      "location": "THEUX BC D",
       "other": ""
     },
     {
@@ -266,16 +226,6 @@
       "other": ""
     },
     {
-      "code": "524272",
-      "date": "2026-03-08",
-      "time": "9:00",
-      "team1": "THEUX BC B",
-      "team2": "CRISTAL SGH B",
-      "category": "U 10 - MM E",
-      "location": "THEUX BC B",
-      "other": ""
-    },
-    {
       "code": "524202",
       "date": "2026-03-14",
       "time": "9:00",
@@ -326,16 +276,6 @@
       "other": ""
     },
     {
-      "code": "525272",
-      "date": "2026-03-08",
-      "time": "15:00",
-      "team1": "THEUX BC A",
-      "team2": "ROYAL HERVE-BATTICE E",
-      "category": "U 10 - MM F",
-      "location": "THEUX BC A",
-      "other": ""
-    },
-    {
       "code": "525292",
       "date": "2026-03-22",
       "time": "15:00",
@@ -366,16 +306,6 @@
       "other": ""
     },
     {
-      "code": "500272",
-      "date": "2026-03-07",
-      "time": "11:00",
-      "team1": "THEUX BC B",
-      "team2": "ROYAL HERVE-BATTICE A",
-      "category": "U 12 - MM A",
-      "location": "THEUX BC B",
-      "other": ""
-    },
-    {
       "code": "500292",
       "date": "2026-03-21",
       "time": "11:00",
@@ -403,16 +333,6 @@
       "team2": "RBC VISE A",
       "category": "U 12 - MM A",
       "location": "THEUX BC B",
-      "other": ""
-    },
-    {
-      "code": "504272",
-      "date": "2026-03-07",
-      "time": "9:00",
-      "team1": "THEUX BC A",
-      "team2": "CRISTAL SGH C",
-      "category": "U 12 - MM E",
-      "location": "THEUX BC A",
       "other": ""
     },
     {
@@ -456,16 +376,6 @@
       "other": ""
     },
     {
-      "code": "480272",
-      "date": "2026-03-08",
-      "time": "11:00",
-      "team1": "THEUX BC A",
-      "team2": "ROYAL HERVE-BATTICE",
-      "category": "U 14 - ELITES MM A",
-      "location": "THEUX BC A",
-      "other": ""
-    },
-    {
       "code": "480191",
       "date": "2026-03-15",
       "time": "13:00",
@@ -493,16 +403,6 @@
       "team2": "THEUX BC A",
       "category": "U 14 - ELITES MM A",
       "location": "COLLEGE S LOUIS A",
-      "other": ""
-    },
-    {
-      "code": "490272",
-      "date": "2026-03-08",
-      "time": "13:00",
-      "team1": "THEUX BC B",
-      "team2": "RBC BLEGNY A",
-      "category": "U 14 - PROV MM A",
-      "location": "THEUX BC B",
       "other": ""
     },
     {
@@ -536,16 +436,6 @@
       "other": ""
     },
     {
-      "code": "471271",
-      "date": "2026-03-07",
-      "time": "11:00",
-      "team1": "ROYAL SPA BC",
-      "team2": "THEUX BC",
-      "category": "U 16 - PROV MM B",
-      "location": "ROYAL SPA BC",
-      "other": ""
-    },
-    {
       "code": "471303",
       "date": "2026-03-28",
       "time": "9:00",
@@ -573,16 +463,6 @@
       "team2": "THEUX BC",
       "category": "U 16 - PROV MM B",
       "location": "RBC BLEGNY",
-      "other": ""
-    },
-    {
-      "code": "430272",
-      "date": "2026-03-07",
-      "time": "11:00",
-      "team1": "THEUX BC",
-      "team2": "ROYAL MOSA AC 1941",
-      "category": "U 18 - ELITES MM A",
-      "location": "THEUX BC",
       "other": ""
     },
     {
@@ -616,16 +496,6 @@
       "other": ""
     },
     {
-      "code": "420271",
-      "date": "2026-03-08",
-      "time": "10:00",
-      "team1": "BBC EUPEN",
-      "team2": "THEUX BC",
-      "category": "U 21 - MM A",
-      "location": "BBC EUPEN",
-      "other": ""
-    },
-    {
       "code": "420302",
       "date": "2026-03-28",
       "time": "11:00",
@@ -652,16 +522,6 @@
       "team1": "THEUX BC",
       "team2": "BBC EUPEN",
       "category": "U 21 - MM A",
-      "location": "THEUX BC",
-      "other": ""
-    },
-    {
-      "code": "550272",
-      "date": "2026-03-07",
-      "time": "9:00",
-      "team1": "THEUX BC",
-      "team2": "RB TILFF A",
-      "category": "U 7 - MM A",
       "location": "THEUX BC",
       "other": ""
     },
@@ -702,16 +562,6 @@
       "team1": "THEUX BC",
       "team2": "BC VERVIERS",
       "category": "U 7 - MM A",
-      "location": "THEUX BC",
-      "other": ""
-    },
-    {
-      "code": "540272",
-      "date": "2026-03-08",
-      "time": "9:00",
-      "team1": "THEUX BC",
-      "team2": "ROYAL MOSA AC 1941",
-      "category": "U 8 - MM A",
       "location": "THEUX BC",
       "other": ""
     },
