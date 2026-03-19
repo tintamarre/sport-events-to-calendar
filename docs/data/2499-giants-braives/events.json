@@ -6,26 +6,6 @@
   },
   "events": [
     {
-      "code": "417194",
-      "date": "2026-03-12",
-      "time": "19:00",
-      "team1": "GIANTS BRAIVES",
-      "team2": "REBOND NEUVILLE",
-      "category": "DD - DIVISION 3 B",
-      "location": "GIANTS BRAIVES",
-      "other": ""
-    },
-    {
-      "code": "417124",
-      "date": "2026-03-15",
-      "time": "11:00",
-      "team1": "GIANTS BRAIVES",
-      "team2": "RBC AWANS",
-      "category": "DD - DIVISION 3 B",
-      "location": "GIANTS BRAIVES",
-      "other": ""
-    },
-    {
       "code": "417296",
       "date": "2026-03-21",
       "time": "19:00",
@@ -56,16 +36,6 @@
       "other": ""
     },
     {
-      "code": "407137",
-      "date": "2026-03-15",
-      "time": "11:00",
-      "team1": "RBC ALLEUR D",
-      "team2": "GIANTS BRAIVES A",
-      "category": "MM - DIVISION 4 A",
-      "location": "RBC ALLEUR D",
-      "other": ""
-    },
-    {
       "code": "407296",
       "date": "2026-03-21",
       "time": "21:00",
@@ -88,7 +58,7 @@
     {
       "code": "407311",
       "date": "2026-04-04",
-      "time": "19:00",
+      "time": "21:00",
       "team1": "RBC VISE D",
       "team2": "GIANTS BRAIVES A",
       "category": "MM - DIVISION 4 A",
@@ -113,16 +83,6 @@
       "team2": "GIANTS BRAIVES A",
       "category": "MM - DIVISION 4 A",
       "location": "ETOILE JUPILLE B",
-      "other": ""
-    },
-    {
-      "code": "410126",
-      "date": "2026-03-15",
-      "time": "13:00",
-      "team1": "GIANTS BRAIVES B",
-      "team2": "HARIMALIA BC E",
-      "category": "MM - DIVISION 4 D",
-      "location": "GIANTS BRAIVES B",
       "other": ""
     },
     {
@@ -276,16 +236,6 @@
       "other": ""
     },
     {
-      "code": "502321",
-      "date": "2026-03-14",
-      "time": "9:00",
-      "team1": "ROYAL SPA BC",
-      "team2": "GIANTS BRAIVES A",
-      "category": "U 12 - MM C",
-      "location": "ROYAL SPA BC",
-      "other": ""
-    },
-    {
       "code": "502296",
       "date": "2026-03-22",
       "time": "11:00",
@@ -323,16 +273,6 @@
       "team2": "GIANTS BRAIVES A",
       "category": "U 12 - MM C",
       "location": "RBC ESNEUX",
-      "other": ""
-    },
-    {
-      "code": "503196",
-      "date": "2026-03-14",
-      "time": "11:00",
-      "team1": "GIANTS BRAIVES B",
-      "team2": "ETOILE JUPILLE",
-      "category": "U 12 - MM D",
-      "location": "GIANTS BRAIVES B",
       "other": ""
     },
     {
@@ -446,21 +386,21 @@
       "other": ""
     },
     {
-      "code": "AW167026",
-      "date": "2026-03-14",
-      "time": "13:00",
-      "team1": "GIANTS BRAIVES",
-      "team2": "EAST BELGIUM BCA",
-      "category": "U 14 - SILVER REGIONAUX E",
-      "location": "GIANTS BRAIVES",
-      "other": ""
-    },
-    {
       "code": "AW167005",
       "date": "2026-03-21",
       "time": "13:00",
       "team1": "GIANTS BRAIVES",
       "team2": "BBC BRAINOIS",
+      "category": "U 14 - SILVER REGIONAUX E",
+      "location": "GIANTS BRAIVES",
+      "other": ""
+    },
+    {
+      "code": "AW167026",
+      "date": "2026-03-22",
+      "time": "9:00",
+      "team1": "GIANTS BRAIVES",
+      "team2": "EAST BELGIUM BCA",
       "category": "U 14 - SILVER REGIONAUX E",
       "location": "GIANTS BRAIVES",
       "other": ""
@@ -493,16 +433,6 @@
       "team2": "GIANTS BRAIVES",
       "category": "U 14 - SILVER REGIONAUX E",
       "location": "FRIENDLY BULLS XL",
-      "other": ""
-    },
-    {
-      "code": "450292",
-      "date": "2026-03-14",
-      "time": "11:00",
-      "team1": "ROYAL SPA BC B",
-      "team2": "GIANTS BRAIVES A",
-      "category": "U 16 - ELITES MM A",
-      "location": "ROYAL SPA BC B",
       "other": ""
     },
     {
@@ -613,16 +543,6 @@
       "team2": "RBC HANEFFE",
       "category": "U 18 - ELITES MM B",
       "location": "GIANTS BRAIVES",
-      "other": ""
-    },
-    {
-      "code": "552236",
-      "date": "2026-03-15",
-      "time": "13:00",
-      "team1": "ROYAL BC WANZE",
-      "team2": "GIANTS BRAIVES",
-      "category": "U 7 - MM C",
-      "location": "ROYAL BC WANZE",
       "other": ""
     },
     {

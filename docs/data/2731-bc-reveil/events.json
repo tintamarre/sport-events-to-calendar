@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "406306",
-      "date": "2026-03-13",
-      "time": "19:00",
-      "team1": "BC REVEIL A",
-      "team2": "ESL UNITED F",
-      "category": "MM - DIVISION 3 C",
-      "location": "BC REVEIL A",
-      "other": ""
-    },
-    {
       "code": "406296",
       "date": "2026-03-20",
       "time": "20:00",
@@ -47,23 +37,13 @@
     },
     {
       "code": "406333",
-      "date": "2026-04-19",
-      "time": "17:00",
+      "date": "2026-04-18",
+      "time": "21:00",
       "team1": "UN HUY BASKET A",
       "team2": "BC REVEIL A",
       "category": "MM - DIVISION 3 C",
       "location": "UN HUY BASKET A",
-      "other": ""
-    },
-    {
-      "code": "411184",
-      "date": "2026-03-13",
-      "time": "21:00",
-      "team1": "BC REVEIL B",
-      "team2": "R 4A AYWAILLE-HAMOIR D",
-      "category": "MM - DIVISION 4 E",
-      "location": "BC REVEIL B",
-      "other": ""
+      "other": "(Hall de Villers)"
     },
     {
       "code": "411296",
@@ -83,6 +63,16 @@
       "team2": "RBC WELKENRAEDT B",
       "category": "MM - DIVISION 4 E",
       "location": "BC REVEIL B",
+      "other": ""
+    },
+    {
+      "code": "411272",
+      "date": "2026-04-01",
+      "time": "19:00",
+      "team1": "RABC ENSIVAL C",
+      "team2": "BC REVEIL B",
+      "category": "MM - DIVISION 4 E",
+      "location": "RABC ENSIVAL C",
       "other": ""
     },
     {

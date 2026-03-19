@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "726135",
-      "date": "2026-03-15",
-      "time": "12:15",
-      "team1": "PEPINSTER EAST BELG",
-      "team2": "R 4A AYWAILLE-HAMOIR",
-      "category": "CPE PROV CADETS",
-      "location": "PEPINSTER EAST BELG",
-      "other": ""
-    },
-    {
       "code": "413291",
       "date": "2026-03-21",
       "time": "19:00",
@@ -126,16 +116,6 @@
       "other": ""
     },
     {
-      "code": "AW106159",
-      "date": "2026-03-14",
-      "time": "18:45",
-      "team1": "ROYAL BC CINEY",
-      "team2": "PEPINSTER EAST BELG A",
-      "category": "DD - REGIONALE 2 B",
-      "location": "ROYAL BC CINEY",
-      "other": ""
-    },
-    {
       "code": "AW106135",
       "date": "2026-03-22",
       "time": "15:00",
@@ -167,22 +147,12 @@
     },
     {
       "code": "AW106163",
-      "date": "2026-04-25",
-      "time": "19:00",
+      "date": "2026-04-23",
+      "time": "20:30",
       "team1": "PEPINSTER EAST BELG A",
       "team2": "CANTER SCHAERBEEK",
       "category": "DD - REGIONALE 2 B",
       "location": "PEPINSTER EAST BELG A",
-      "other": ""
-    },
-    {
-      "code": "403021",
-      "date": "2026-03-14",
-      "time": "19:00",
-      "team1": "ROYAL SPA BC B",
-      "team2": "PEPINSTER EAST BELG C",
-      "category": "MM - DIVISION 2 B",
-      "location": "ROYAL SPA BC B",
       "other": ""
     },
     {
@@ -207,8 +177,8 @@
     },
     {
       "code": "403302",
-      "date": "2026-03-29",
-      "time": "17:00",
+      "date": "2026-03-28",
+      "time": "19:00",
       "team1": "PEPINSTER EAST BELG C",
       "team2": "PRAYON TROOZ A",
       "category": "MM - DIVISION 2 B",
@@ -276,16 +246,6 @@
       "other": ""
     },
     {
-      "code": "AW103156",
-      "date": "2026-03-13",
-      "time": "20:00",
-      "team1": "PEPINSTER EAST BELG B",
-      "team2": "BC CENTRE GAUME",
-      "category": "MM - REGIONALE 2 B",
-      "location": "PEPINSTER EAST BELG B",
-      "other": ""
-    },
-    {
       "code": "AW103134",
       "date": "2026-03-21",
       "time": "21:00",
@@ -313,16 +273,6 @@
       "team2": "PEPINSTER EAST BELG B",
       "category": "MM - REGIONALE 2 B",
       "location": "BC ATHUS",
-      "other": ""
-    },
-    {
-      "code": "NAHSE21AIC",
-      "date": "2026-03-13",
-      "time": "21:00",
-      "team1": "CEP FLEURUS",
-      "team2": "PEPINSTER EAST BELG A",
-      "category": "TOP DIVISION MEN 2 A",
-      "location": "CEP FLEURUS",
       "other": ""
     },
     {
@@ -363,16 +313,6 @@
       "team2": "BAVI VILVOORDE",
       "category": "TOP DIVISION MEN 2 A",
       "location": "PEPINSTER EAST BELG A",
-      "other": ""
-    },
-    {
-      "code": "520065",
-      "date": "2026-03-15",
-      "time": "10:00",
-      "team1": "FLERON BBC",
-      "team2": "PEPINSTER EAST BELG D",
-      "category": "U 10 - MM A",
-      "location": "FLERON BBC",
       "other": ""
     },
     {
@@ -496,16 +436,6 @@
       "other": ""
     },
     {
-      "code": "491191",
-      "date": "2026-03-14",
-      "time": "9:00",
-      "team1": "ROYAL SPA BC",
-      "team2": "PEPINSTER EAST BELG",
-      "category": "U 14 - PROV MM B",
-      "location": "ROYAL SPA BC",
-      "other": ""
-    },
-    {
       "code": "491292",
       "date": "2026-04-04",
       "time": "15:00",
@@ -526,16 +456,6 @@
       "other": ""
     },
     {
-      "code": "AW169027",
-      "date": "2026-03-14",
-      "time": "11:30",
-      "team1": "RCS NATOYE",
-      "team2": "PEPINSTER EAST BELG",
-      "category": "U 14 - SILVER REGIONAUX G",
-      "location": "RCS NATOYE",
-      "other": ""
-    },
-    {
       "code": "AW169016",
       "date": "2026-04-11",
       "time": "11:00",
@@ -553,16 +473,6 @@
       "team2": "PEPINSTER EAST BELG",
       "category": "U 14 - SILVER REGIONAUX G",
       "location": "PROFONDEVILLE SHARKS",
-      "other": ""
-    },
-    {
-      "code": "470033",
-      "date": "2026-03-14",
-      "time": "14:30",
-      "team1": "BCM HERSTAL",
-      "team2": "PEPINSTER EAST BELG B",
-      "category": "U 16 - PROV MM A",
-      "location": "BCM HERSTAL",
       "other": ""
     },
     {
@@ -703,16 +613,6 @@
       "team2": "RBC ESNEUX",
       "category": "U 19 - DD A",
       "location": "PEPINSTER EAST BELG",
-      "other": ""
-    },
-    {
-      "code": "AW170027",
-      "date": "2026-03-14",
-      "time": "15:00",
-      "team1": "ROYAL NIVELLES",
-      "team2": "PEPINSTER EAST BELG",
-      "category": "U 19 - GOLD REGIONALES A",
-      "location": "ROYAL NIVELLES",
       "other": ""
     },
     {

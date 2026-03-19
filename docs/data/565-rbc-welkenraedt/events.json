@@ -6,21 +6,21 @@
   },
   "events": [
     {
-      "code": "418267",
-      "date": "2026-03-13",
-      "time": "20:30",
-      "team1": "HENRI-CHAPELLE C",
-      "team2": "RBC WELKENRAEDT",
-      "category": "DD - DIVISION 3 C",
-      "location": "HENRI-CHAPELLE C",
-      "other": ""
-    },
-    {
       "code": "418311",
       "date": "2026-04-04",
       "time": "17:00",
       "team1": "RBC WELKENRAEDT",
       "team2": "MAIL. COMBLAIN",
+      "category": "DD - DIVISION 3 C",
+      "location": "RBC WELKENRAEDT",
+      "other": ""
+    },
+    {
+      "code": "418191",
+      "date": "2026-04-08",
+      "time": "20:30",
+      "team1": "RBC WELKENRAEDT",
+      "team2": "ALL. FLEMALLE C",
       "category": "DD - DIVISION 3 C",
       "location": "RBC WELKENRAEDT",
       "other": ""
@@ -193,16 +193,6 @@
       "team2": "RBC WELKENRAEDT",
       "category": "U 16 - PROV MM A",
       "location": "ATLAS A JUPILLE B",
-      "other": ""
-    },
-    {
-      "code": "440033",
-      "date": "2026-03-14",
-      "time": "16:30",
-      "team1": "BCM HERSTAL",
-      "team2": "RBC WELKENRAEDT",
-      "category": "U 18 - PROV MM",
-      "location": "BCM HERSTAL",
       "other": ""
     },
     {

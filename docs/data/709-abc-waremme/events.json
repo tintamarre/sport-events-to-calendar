@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "772115",
-      "date": "2026-03-15",
-      "time": "16:45",
-      "team1": "RBC ESNEUX",
-      "team2": "ABC WAREMME A",
-      "category": "CPE PROV CADETTES",
-      "location": "RBC ESNEUX",
-      "other": ""
-    },
-    {
       "code": "414295",
       "date": "2026-03-21",
       "time": "18:00",
@@ -66,16 +56,6 @@
       "other": ""
     },
     {
-      "code": "415264",
-      "date": "2026-03-14",
-      "time": "19:00",
-      "team1": "R 4A AYWAILLE-HAMOIR A",
-      "team2": "ABC WAREMME B",
-      "category": "DD - DIVISION 2 B",
-      "location": "R 4A AYWAILLE-HAMOIR A",
-      "other": ""
-    },
-    {
       "code": "415297",
       "date": "2026-03-21",
       "time": "20:00",
@@ -93,6 +73,16 @@
       "team2": "ABC WAREMME B",
       "category": "DD - DIVISION 2 B",
       "location": "HENRI-CHAPELLE B",
+      "other": ""
+    },
+    {
+      "code": "415247",
+      "date": "2026-04-02",
+      "time": "21:00",
+      "team1": "ABC WAREMME B",
+      "team2": "RBC ALLEUR D",
+      "category": "DD - DIVISION 2 B",
+      "location": "ABC WAREMME B",
       "other": ""
     },
     {
@@ -147,33 +137,13 @@
     },
     {
       "code": "416334",
-      "date": "2026-04-19",
-      "time": "14:00",
+      "date": "2026-04-17",
+      "time": "21:00",
       "team1": "RBC ESNEUX C",
       "team2": "ABC WAREMME C",
       "category": "DD - DIVISION 3 A",
       "location": "RBC ESNEUX C",
       "other": ""
-    },
-    {
-      "code": "402246",
-      "date": "2026-03-12",
-      "time": "20:00",
-      "team1": "ROYAL BC WANZE B",
-      "team2": "ABC WAREMME B",
-      "category": "MM - DIVISION 2 A",
-      "location": "ROYAL BC WANZE B",
-      "other": ""
-    },
-    {
-      "code": "402181",
-      "date": "2026-03-18",
-      "time": "20:30",
-      "team1": "ABC WAREMME B",
-      "team2": "HARIMALIA BC C",
-      "category": "MM - DIVISION 2 A",
-      "location": "ABC WAREMME B",
-      "other": "(IPES)"
     },
     {
       "code": "402297",
@@ -273,16 +243,6 @@
       "team2": "ABC WAREMME C",
       "category": "MM - DIVISION 4 C",
       "location": "R REN. MONTEGNEE",
-      "other": ""
-    },
-    {
-      "code": "AW102160",
-      "date": "2026-03-15",
-      "time": "17:30",
-      "team1": "ROYAL BC WANZE A",
-      "team2": "ABC WAREMME A",
-      "category": "MM - REGIONALE 2 A",
-      "location": "ROYAL BC WANZE A",
       "other": ""
     },
     {
@@ -386,16 +346,6 @@
       "other": ""
     },
     {
-      "code": "530221",
-      "date": "2026-03-14",
-      "time": "9:30",
-      "team1": "ABC WAREMME B",
-      "team2": "BC VERLAINE",
-      "category": "U 10 - MM K",
-      "location": "ABC WAREMME B",
-      "other": ""
-    },
-    {
       "code": "530294",
       "date": "2026-03-21",
       "time": "9:00",
@@ -433,26 +383,6 @@
       "team2": "ABC WAREMME B",
       "category": "U 10 - MM K",
       "location": "ROYAL MOSA AC 1941",
-      "other": ""
-    },
-    {
-      "code": "501076",
-      "date": "2026-03-14",
-      "time": "11:00",
-      "team1": "ROYAL BC NINANE A",
-      "team2": "ABC WAREMME A",
-      "category": "U 12 - MM B",
-      "location": "ROYAL BC NINANE A",
-      "other": ""
-    },
-    {
-      "code": "501335",
-      "date": "2026-03-14",
-      "time": "13:00",
-      "team1": "R 4A AYWAILLE-HAMOIR",
-      "team2": "ABC WAREMME A",
-      "category": "U 12 - MM B",
-      "location": "R 4A AYWAILLE-HAMOIR",
       "other": ""
     },
     {
@@ -586,16 +516,6 @@
       "other": ""
     },
     {
-      "code": "AW182025",
-      "date": "2026-03-14",
-      "time": "11:00",
-      "team1": "BC COLFONTAINE",
-      "team2": "ABC WAREMME",
-      "category": "U 14 - SILVER REGIONALES B",
-      "location": "BC COLFONTAINE",
-      "other": ""
-    },
-    {
       "code": "AW182021",
       "date": "2026-03-21",
       "time": "13:00",
@@ -633,16 +553,6 @@
       "team2": "ABC WAREMME",
       "category": "U 14 - SILVER REGIONALES B",
       "location": "BC BONINNE",
-      "other": ""
-    },
-    {
-      "code": "AW163026",
-      "date": "2026-03-14",
-      "time": "16:15",
-      "team1": "R.B.C. BELGRADE",
-      "team2": "ABC WAREMME",
-      "category": "U 14 - SILVER REGIONAUX A",
-      "location": "R.B.C. BELGRADE",
       "other": ""
     },
     {
@@ -713,16 +623,6 @@
       "team2": "ABC WAREMME",
       "category": "U 16 - DD B",
       "location": "ALL. FLEMALLE C",
-      "other": ""
-    },
-    {
-      "code": "450221",
-      "date": "2026-03-14",
-      "time": "11:00",
-      "team1": "ABC WAREMME A",
-      "team2": "ROYAL MOSA AC 1941",
-      "category": "U 16 - ELITES MM A",
-      "location": "ABC WAREMME A",
       "other": ""
     },
     {
@@ -933,16 +833,6 @@
       "team2": "ROYAL HERVE-BATTICE",
       "category": "U 19 - DD B",
       "location": "ABC WAREMME A",
-      "other": ""
-    },
-    {
-      "code": "552272",
-      "date": "2026-03-15",
-      "time": "9:00",
-      "team1": "BC SPRIMONT B",
-      "team2": "ABC WAREMME B",
-      "category": "U 7 - MM C",
-      "location": "BC SPRIMONT B",
       "other": ""
     },
     {

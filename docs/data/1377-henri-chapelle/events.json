@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "774119",
-      "date": "2026-03-14",
-      "time": "15:00",
-      "team1": "HENRI-CHAPELLE",
-      "team2": "ROYAL HERVE-BATTICE",
-      "category": "CPE PROV PUPILLES DD",
-      "location": "HENRI-CHAPELLE",
-      "other": ""
-    },
-    {
       "code": "413296",
       "date": "2026-03-22",
       "time": "14:00",
@@ -33,6 +23,16 @@
       "team2": "RBC BLEGNY A",
       "category": "DD - DIVISION 1",
       "location": "HENRI-CHAPELLE",
+      "other": ""
+    },
+    {
+      "code": "413276",
+      "date": "2026-04-02",
+      "time": "20:30",
+      "team1": "HANNUT BC",
+      "team2": "HENRI-CHAPELLE",
+      "category": "DD - DIVISION 1",
+      "location": "HANNUT BC",
       "other": ""
     },
     {
@@ -63,16 +63,6 @@
       "team2": "HENRI-CHAPELLE",
       "category": "DD - DIVISION 1",
       "location": "R.UN.BELLAIRE A",
-      "other": ""
-    },
-    {
-      "code": "415311",
-      "date": "2026-03-14",
-      "time": "19:00",
-      "team1": "RBC VISE A",
-      "team2": "HENRI-CHAPELLE B",
-      "category": "DD - DIVISION 2 B",
-      "location": "RBC VISE A",
       "other": ""
     },
     {
@@ -113,16 +103,6 @@
       "team2": "HENRI-CHAPELLE B",
       "category": "DD - DIVISION 2 B",
       "location": "ROYAL ANS BC",
-      "other": ""
-    },
-    {
-      "code": "418267",
-      "date": "2026-03-13",
-      "time": "20:30",
-      "team1": "HENRI-CHAPELLE C",
-      "team2": "RBC WELKENRAEDT",
-      "category": "DD - DIVISION 3 C",
-      "location": "HENRI-CHAPELLE C",
       "other": ""
     },
     {
@@ -176,26 +156,6 @@
       "other": ""
     },
     {
-      "code": "401197",
-      "date": "2026-03-12",
-      "time": "21:00",
-      "team1": "HENRI-CHAPELLE A",
-      "team2": "ETOILE JUPILLE A",
-      "category": "MM - DIVISION 1",
-      "location": "HENRI-CHAPELLE A",
-      "other": ""
-    },
-    {
-      "code": "401035",
-      "date": "2026-03-17",
-      "time": "20:00",
-      "team1": "CRISTAL SGH A",
-      "team2": "HENRI-CHAPELLE A",
-      "category": "MM - DIVISION 1",
-      "location": "CRISTAL SGH A",
-      "other": ""
-    },
-    {
       "code": "401297",
       "date": "2026-03-21",
       "time": "20:30",
@@ -246,26 +206,6 @@
       "other": ""
     },
     {
-      "code": "404197",
-      "date": "2026-03-14",
-      "time": "18:30",
-      "team1": "HENRI-CHAPELLE B",
-      "team2": "AVENIR JUPILLE A",
-      "category": "MM - DIVISION 3 A",
-      "location": "HENRI-CHAPELLE B",
-      "other": ""
-    },
-    {
-      "code": "404067",
-      "date": "2026-03-18",
-      "time": "20:30",
-      "team1": "HANNUT BC B",
-      "team2": "HENRI-CHAPELLE B",
-      "category": "MM - DIVISION 3 A",
-      "location": "HANNUT BC B",
-      "other": ""
-    },
-    {
       "code": "404297",
       "date": "2026-03-21",
       "time": "18:30",
@@ -313,16 +253,6 @@
       "team2": "HENRI-CHAPELLE B",
       "category": "MM - DIVISION 3 A",
       "location": "RB TILFF C",
-      "other": ""
-    },
-    {
-      "code": "411197",
-      "date": "2026-03-14",
-      "time": "18:30",
-      "team1": "HENRI-CHAPELLE C",
-      "team2": "AVENIR JUPILLE B",
-      "category": "MM - DIVISION 4 E",
-      "location": "HENRI-CHAPELLE C",
       "other": ""
     },
     {
@@ -386,16 +316,6 @@
       "other": ""
     },
     {
-      "code": "524202",
-      "date": "2026-03-14",
-      "time": "9:00",
-      "team1": "THEUX BC B",
-      "team2": "HENRI-CHAPELLE B",
-      "category": "U 10 - MM E",
-      "location": "THEUX BC B",
-      "other": ""
-    },
-    {
       "code": "524296",
       "date": "2026-03-21",
       "time": "10:30",
@@ -433,16 +353,6 @@
       "team2": "HENRI-CHAPELLE B",
       "category": "U 10 - MM E",
       "location": "BC SANKT VITH",
-      "other": ""
-    },
-    {
-      "code": "500226",
-      "date": "2026-03-15",
-      "time": "10:00",
-      "team1": "RBC AUBEL",
-      "team2": "HENRI-CHAPELLE A",
-      "category": "U 12 - MM A",
-      "location": "RBC AUBEL",
       "other": ""
     },
     {
@@ -616,16 +526,6 @@
       "other": ""
     },
     {
-      "code": "480196",
-      "date": "2026-03-14",
-      "time": "10:30",
-      "team1": "HENRI-CHAPELLE",
-      "team2": "ETOILE JUPILLE",
-      "category": "U 14 - ELITES MM A",
-      "location": "HENRI-CHAPELLE",
-      "other": ""
-    },
-    {
       "code": "480306",
       "date": "2026-03-28",
       "time": "10:30",
@@ -682,16 +582,6 @@
       "team1": "HENRI-CHAPELLE",
       "team2": "BC VERVIERS B",
       "category": "U 16 - ELITES MM A",
-      "location": "HENRI-CHAPELLE",
-      "other": ""
-    },
-    {
-      "code": "AW172027",
-      "date": "2026-03-14",
-      "time": "14:30",
-      "team1": "HENRI-CHAPELLE",
-      "team2": "PRAYON TROOZ",
-      "category": "U 19 - SILVER REGIONALES A",
       "location": "HENRI-CHAPELLE",
       "other": ""
     },

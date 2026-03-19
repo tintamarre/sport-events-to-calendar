@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "413067",
-      "date": "2026-03-14",
-      "time": "19:00",
-      "team1": "HANNUT BC",
-      "team2": "RBC BLEGNY A",
-      "category": "DD - DIVISION 1",
-      "location": "HANNUT BC",
-      "other": ""
-    },
-    {
       "code": "413294",
       "date": "2026-03-22",
       "time": "17:00",
@@ -31,6 +21,16 @@
       "time": "19:00",
       "team1": "HANNUT BC",
       "team2": "RBC CROATIA OUPEYE",
+      "category": "DD - DIVISION 1",
+      "location": "HANNUT BC",
+      "other": ""
+    },
+    {
+      "code": "413276",
+      "date": "2026-04-02",
+      "time": "20:30",
+      "team1": "HANNUT BC",
+      "team2": "HENRI-CHAPELLE",
       "category": "DD - DIVISION 1",
       "location": "HANNUT BC",
       "other": ""
@@ -113,16 +113,6 @@
       "team2": "BC COINTE B",
       "category": "MM - DIVISION 1",
       "location": "HANNUT BC A",
-      "other": ""
-    },
-    {
-      "code": "404067",
-      "date": "2026-03-18",
-      "time": "20:30",
-      "team1": "HANNUT BC B",
-      "team2": "HENRI-CHAPELLE B",
-      "category": "MM - DIVISION 3 A",
-      "location": "HANNUT BC B",
       "other": ""
     },
     {
@@ -256,16 +246,6 @@
       "other": ""
     },
     {
-      "code": "508066",
-      "date": "2026-03-14",
-      "time": "13:00",
-      "team1": "HANNUT BC",
-      "team2": "ROYAL BC WANZE A",
-      "category": "U 12 - MM I",
-      "location": "HANNUT BC",
-      "other": ""
-    },
-    {
       "code": "508292",
       "date": "2026-03-22",
       "time": "9:15",
@@ -282,16 +262,6 @@
       "team1": "HANNUT BC",
       "team2": "RBC ALLEUR B",
       "category": "U 12 - MM I",
-      "location": "HANNUT BC",
-      "other": ""
-    },
-    {
-      "code": "493066",
-      "date": "2026-03-14",
-      "time": "11:00",
-      "team1": "HANNUT BC",
-      "team2": "ORP JAUCHE",
-      "category": "U 14 - PROV MM D",
       "location": "HANNUT BC",
       "other": ""
     },
@@ -342,16 +312,6 @@
       "team1": "HANNUT BC",
       "team2": "RBC ESNEUX A",
       "category": "U 14 - PROV MM D",
-      "location": "HANNUT BC",
-      "other": ""
-    },
-    {
-      "code": "471065",
-      "date": "2026-03-14",
-      "time": "15:00",
-      "team1": "HANNUT BC",
-      "team2": "RBC BLEGNY",
-      "category": "U 16 - PROV MM B",
       "location": "HANNUT BC",
       "other": ""
     },
