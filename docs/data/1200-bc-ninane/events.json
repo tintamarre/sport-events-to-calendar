@@ -6,26 +6,6 @@
   },
   "events": [
     {
-      "code": "414292",
-      "date": "2026-03-21",
-      "time": "19:00",
-      "team1": "BC SPRIMONT B",
-      "team2": "ROYAL BC NINANE A",
-      "category": "DD - DIVISION 2 A",
-      "location": "BC SPRIMONT B",
-      "other": ""
-    },
-    {
-      "code": "414206",
-      "date": "2026-03-25",
-      "time": "19:00",
-      "team1": "ROYAL BC NINANE A",
-      "team2": "RBC DISON-ANDRIMONT A",
-      "category": "DD - DIVISION 2 A",
-      "location": "ROYAL BC NINANE A",
-      "other": "(Vaux/Chèvremont)"
-    },
-    {
       "code": "414301",
       "date": "2026-03-29",
       "time": "14:00",
@@ -66,16 +46,6 @@
       "other": "(Vaux/Chèvremont)"
     },
     {
-      "code": "415292",
-      "date": "2026-03-21",
-      "time": "19:00",
-      "team1": "AVENIR JUPILLE B",
-      "team2": "ROYAL BC NINANE B",
-      "category": "DD - DIVISION 2 B",
-      "location": "AVENIR JUPILLE B",
-      "other": ""
-    },
-    {
       "code": "415301",
       "date": "2026-03-27",
       "time": "20:15",
@@ -103,16 +73,6 @@
       "team2": "VAIL. JUPILLE",
       "category": "DD - DIVISION 2 B",
       "location": "ROYAL BC NINANE B",
-      "other": "(Vaux/Chèvremont)"
-    },
-    {
-      "code": "405296",
-      "date": "2026-03-21",
-      "time": "17:00",
-      "team1": "ROYAL BC NINANE C",
-      "team2": "RBC HANEFFE B",
-      "category": "MM - DIVISION 3 B",
-      "location": "ROYAL BC NINANE C",
       "other": "(Vaux/Chèvremont)"
     },
     {
@@ -156,26 +116,6 @@
       "other": ""
     },
     {
-      "code": "407292",
-      "date": "2026-03-22",
-      "time": "15:00",
-      "team1": "THEUX BC C",
-      "team2": "ROYAL BC NINANE D",
-      "category": "MM - DIVISION 4 A",
-      "location": "THEUX BC C",
-      "other": ""
-    },
-    {
-      "code": "407206",
-      "date": "2026-03-25",
-      "time": "21:00",
-      "team1": "ROYAL BC NINANE D",
-      "team2": "RBC DISON-ANDRIMONT D",
-      "category": "MM - DIVISION 4 A",
-      "location": "ROYAL BC NINANE D",
-      "other": "(Vaux/Chèvremont)"
-    },
-    {
       "code": "407301",
       "date": "2026-03-28",
       "time": "19:00",
@@ -216,16 +156,6 @@
       "other": "(Vaux/Chèvremont)"
     },
     {
-      "code": "408296",
-      "date": "2026-03-22",
-      "time": "16:00",
-      "team1": "ROYAL BC NINANE F",
-      "team2": "CS OUTREMEUSE",
-      "category": "MM - DIVISION 4 B",
-      "location": "ROYAL BC NINANE F",
-      "other": "(Vaux/Chèvremont)"
-    },
-    {
       "code": "408306",
       "date": "2026-03-29",
       "time": "16:00",
@@ -253,26 +183,6 @@
       "team2": "ROYAL BC NINANE F",
       "category": "MM - DIVISION 4 B",
       "location": "ROYAL ANS BC B",
-      "other": ""
-    },
-    {
-      "code": "409296",
-      "date": "2026-03-22",
-      "time": "11:00",
-      "team1": "ROYAL BC NINANE E",
-      "team2": "BC BELLEFLAMME F",
-      "category": "MM - DIVISION 4 C",
-      "location": "ROYAL BC NINANE E",
-      "other": "(Vaux/Chèvremont)"
-    },
-    {
-      "code": "409223",
-      "date": "2026-03-25",
-      "time": "21:00",
-      "team1": "ROYALE US AWANS B",
-      "team2": "ROYAL BC NINANE E",
-      "category": "MM - DIVISION 4 C",
-      "location": "ROYALE US AWANS B",
       "other": ""
     },
     {
@@ -316,16 +226,6 @@
       "other": ""
     },
     {
-      "code": "AW101139",
-      "date": "2026-03-20",
-      "time": "21:00",
-      "team1": "ROYAL BC NINANE A",
-      "team2": "BC VERVIERS A",
-      "category": "MM - REGIONALE 1",
-      "location": "ROYAL BC NINANE A",
-      "other": ""
-    },
-    {
       "code": "AW101013",
       "date": "2026-03-27",
       "time": "21:00",
@@ -366,16 +266,6 @@
       "other": ""
     },
     {
-      "code": "AW103139",
-      "date": "2026-03-21",
-      "time": "19:00",
-      "team1": "ROYAL BC NINANE B",
-      "team2": "R.B.C. BELGRADE",
-      "category": "MM - REGIONALE 2 B",
-      "location": "ROYAL BC NINANE B",
-      "other": ""
-    },
-    {
       "code": "AW103178",
       "date": "2026-04-19",
       "time": "17:00",
@@ -393,16 +283,6 @@
       "team2": "ROYAL BC NINANE B",
       "category": "MM - REGIONALE 2 B",
       "location": "CHALET WOL ST PIERRE",
-      "other": ""
-    },
-    {
-      "code": "520296",
-      "date": "2026-03-21",
-      "time": "10:45",
-      "team1": "ROYAL BC NINANE A",
-      "team2": "RBC STAVELOT A",
-      "category": "U 10 - MM A",
-      "location": "ROYAL BC NINANE A",
       "other": ""
     },
     {
@@ -486,16 +366,6 @@
       "other": ""
     },
     {
-      "code": "504292",
-      "date": "2026-03-21",
-      "time": "9:00",
-      "team1": "THEUX BC A",
-      "team2": "ROYAL BC NINANE B",
-      "category": "U 12 - MM E",
-      "location": "THEUX BC A",
-      "other": ""
-    },
-    {
       "code": "504301",
       "date": "2026-03-28",
       "time": "11:00",
@@ -523,16 +393,6 @@
       "team2": "BC BELLEFLAMME C",
       "category": "U 12 - MM E",
       "location": "ROYAL BC NINANE B",
-      "other": ""
-    },
-    {
-      "code": "481292",
-      "date": "2026-03-21",
-      "time": "9:00",
-      "team1": "BC SPRIMONT",
-      "team2": "ROYAL BC NINANE A",
-      "category": "U 14 - ELITES MM B",
-      "location": "BC SPRIMONT",
       "other": ""
     },
     {
@@ -596,16 +456,6 @@
       "other": ""
     },
     {
-      "code": "591292",
-      "date": "2026-03-21",
-      "time": "13:00",
-      "team1": "RBC VISE A",
-      "team2": "ROYAL BC NINANE",
-      "category": "U 16 - DD B",
-      "location": "RBC VISE A",
-      "other": ""
-    },
-    {
       "code": "591301",
       "date": "2026-03-28",
       "time": "15:00",
@@ -636,16 +486,6 @@
       "other": ""
     },
     {
-      "code": "471292",
-      "date": "2026-03-21",
-      "time": "16:30",
-      "team1": "RBC BLEGNY",
-      "team2": "ROYAL BC NINANE",
-      "category": "U 16 - PROV MM B",
-      "location": "RBC BLEGNY",
-      "other": ""
-    },
-    {
       "code": "471301",
       "date": "2026-03-28",
       "time": "13:00",
@@ -663,16 +503,6 @@
       "team2": "ROYAL SPA BC",
       "category": "U 16 - PROV MM B",
       "location": "ROYAL BC NINANE",
-      "other": ""
-    },
-    {
-      "code": "432296",
-      "date": "2026-03-22",
-      "time": "14:00",
-      "team1": "ROYAL BC NINANE A",
-      "team2": "BC SPRIMONT",
-      "category": "U 18 - ELITES MM C",
-      "location": "ROYAL BC NINANE A",
       "other": ""
     },
     {
@@ -716,16 +546,6 @@
       "other": ""
     },
     {
-      "code": "440294",
-      "date": "2026-03-22",
-      "time": "12:00",
-      "team1": "MARCHIN BASKET",
-      "team2": "ROYAL BC NINANE B",
-      "category": "U 18 - PROV MM",
-      "location": "MARCHIN BASKET",
-      "other": ""
-    },
-    {
       "code": "440307",
       "date": "2026-03-28",
       "time": "14:30",
@@ -753,16 +573,6 @@
       "team2": "BC BELLEFLAMME B",
       "category": "U 18 - PROV MM",
       "location": "ROYAL BC NINANE B",
-      "other": ""
-    },
-    {
-      "code": "580291",
-      "date": "2026-03-21",
-      "time": "15:00",
-      "team1": "RBC WELKENRAEDT",
-      "team2": "ROYAL BC NINANE",
-      "category": "U 19 - DD A",
-      "location": "RBC WELKENRAEDT",
       "other": ""
     },
     {
@@ -796,16 +606,6 @@
       "other": ""
     },
     {
-      "code": "551291",
-      "date": "2026-03-21",
-      "time": "9:00",
-      "team1": "ROYAL BC NINANE",
-      "team2": "BC COINTE",
-      "category": "U 7 - MM B",
-      "location": "ROYAL BC NINANE",
-      "other": ""
-    },
-    {
       "code": "551306",
       "date": "2026-03-28",
       "time": "10:00",
@@ -832,16 +632,6 @@
       "team1": "ROYAL BC NINANE",
       "team2": "CRISTAL SGH B",
       "category": "U 7 - MM B",
-      "location": "ROYAL BC NINANE",
-      "other": ""
-    },
-    {
-      "code": "540296",
-      "date": "2026-03-21",
-      "time": "10:45",
-      "team1": "ROYAL BC NINANE",
-      "team2": "RBC STAVELOT",
-      "category": "U 8 - MM A",
       "location": "ROYAL BC NINANE",
       "other": ""
     },

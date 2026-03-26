@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "413292",
-      "date": "2026-03-21",
-      "time": "17:00",
-      "team1": "BC SPRIMONT A",
-      "team2": "R HT-PRE OUGREE A",
-      "category": "DD - DIVISION 1",
-      "location": "BC SPRIMONT A",
-      "other": ""
-    },
-    {
       "code": "413301",
       "date": "2026-03-29",
       "time": "17:00",
@@ -53,16 +43,6 @@
       "team2": "RABC ENSIVAL A",
       "category": "DD - DIVISION 1",
       "location": "R HT-PRE OUGREE A",
-      "other": ""
-    },
-    {
-      "code": "417296",
-      "date": "2026-03-21",
-      "time": "19:00",
-      "team1": "R HT-PRE OUGREE B",
-      "team2": "GIANTS BRAIVES",
-      "category": "DD - DIVISION 3 B",
-      "location": "R HT-PRE OUGREE B",
       "other": ""
     },
     {
@@ -116,16 +96,6 @@
       "other": ""
     },
     {
-      "code": "408295",
-      "date": "2026-03-21",
-      "time": "21:00",
-      "team1": "R HT-PRE OUGREE A",
-      "team2": "RBC AWANS B",
-      "category": "MM - DIVISION 4 B",
-      "location": "R HT-PRE OUGREE A",
-      "other": ""
-    },
-    {
       "code": "408305",
       "date": "2026-03-28",
       "time": "21:00",
@@ -163,16 +133,6 @@
       "team2": "ROYAL ANS BC B",
       "category": "MM - DIVISION 4 B",
       "location": "R HT-PRE OUGREE A",
-      "other": ""
-    },
-    {
-      "code": "410292",
-      "date": "2026-03-22",
-      "time": "15:00",
-      "team1": "UN HUY BASKET B",
-      "team2": "R HT-PRE OUGREE B",
-      "category": "MM - DIVISION 4 D",
-      "location": "UN HUY BASKET B",
       "other": ""
     },
     {
@@ -216,16 +176,6 @@
       "other": ""
     },
     {
-      "code": "527334",
-      "date": "2026-03-21",
-      "time": "15:00",
-      "team1": "PRAYON TROOZ B",
-      "team2": "R HT-PRE OUGREE B",
-      "category": "U 10 - MM H",
-      "location": "PRAYON TROOZ B",
-      "other": ""
-    },
-    {
       "code": "527306",
       "date": "2026-03-28",
       "time": "14:00",
@@ -233,16 +183,6 @@
       "team2": "RBC BLEGNY A",
       "category": "U 10 - MM H",
       "location": "R HT-PRE OUGREE B",
-      "other": ""
-    },
-    {
-      "code": "610292",
-      "date": "2026-03-21",
-      "time": "11:00",
-      "team1": "RABC ENSIVAL",
-      "team2": "R HT-PRE OUGREE",
-      "category": "U 12 - DD",
-      "location": "RABC ENSIVAL",
       "other": ""
     },
     {
@@ -306,16 +246,6 @@
       "other": ""
     },
     {
-      "code": "470296",
-      "date": "2026-03-21",
-      "time": "12:00",
-      "team1": "R HT-PRE OUGREE",
-      "team2": "RABC ENSIVAL",
-      "category": "U 16 - PROV MM A",
-      "location": "R HT-PRE OUGREE",
-      "other": ""
-    },
-    {
       "code": "470306",
       "date": "2026-03-28",
       "time": "12:00",
@@ -343,16 +273,6 @@
       "team2": "PRAYON TROOZ B",
       "category": "U 16 - PROV MM A",
       "location": "R HT-PRE OUGREE",
-      "other": ""
-    },
-    {
-      "code": "421293",
-      "date": "2026-03-22",
-      "time": "11:00",
-      "team1": "ROYAL BC WANZE",
-      "team2": "R HT-PRE OUGREE",
-      "category": "U 21 - MM B",
-      "location": "ROYAL BC WANZE",
       "other": ""
     },
     {
@@ -386,16 +306,6 @@
       "other": ""
     },
     {
-      "code": "551296",
-      "date": "2026-03-21",
-      "time": "10:00",
-      "team1": "R HT-PRE OUGREE",
-      "team2": "PEPINSTER EAST BELG B",
-      "category": "U 7 - MM B",
-      "location": "R HT-PRE OUGREE",
-      "other": ""
-    },
-    {
       "code": "551306",
       "date": "2026-03-28",
       "time": "10:00",
@@ -408,7 +318,7 @@
     {
       "code": "551321",
       "date": "2026-04-11",
-      "time": "9:30",
+      "time": "13:00",
       "team1": "RBC BLEGNY",
       "team2": "R HT-PRE OUGREE",
       "category": "U 7 - MM B",
@@ -426,16 +336,6 @@
       "other": ""
     },
     {
-      "code": "542296",
-      "date": "2026-03-21",
-      "time": "10:00",
-      "team1": "R HT-PRE OUGREE",
-      "team2": "PEPINSTER EAST BELG B",
-      "category": "U 8 - MM C",
-      "location": "R HT-PRE OUGREE",
-      "other": ""
-    },
-    {
       "code": "542306",
       "date": "2026-03-28",
       "time": "10:00",
@@ -448,7 +348,7 @@
     {
       "code": "542321",
       "date": "2026-04-11",
-      "time": "16:30",
+      "time": "14:45",
       "team1": "RBC ALLEUR",
       "team2": "R HT-PRE OUGREE",
       "category": "U 8 - MM C",

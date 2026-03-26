@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "401292",
-      "date": "2026-03-22",
-      "time": "13:00",
-      "team1": "THEUX BC A",
-      "team2": "ESL UNITED C",
-      "category": "MM - DIVISION 1",
-      "location": "THEUX BC A",
-      "other": ""
-    },
-    {
       "code": "401305",
       "date": "2026-03-28",
       "time": "18:30",
@@ -56,26 +46,6 @@
       "other": ""
     },
     {
-      "code": "406292",
-      "date": "2026-03-22",
-      "time": "11:00",
-      "team1": "THEUX BC B",
-      "team2": "BBC EUPEN",
-      "category": "MM - DIVISION 3 C",
-      "location": "THEUX BC B",
-      "other": ""
-    },
-    {
-      "code": "406305",
-      "date": "2026-03-28",
-      "time": "19:00",
-      "team1": "CRISTAL SGH B",
-      "team2": "THEUX BC B",
-      "category": "MM - DIVISION 3 C",
-      "location": "CRISTAL SGH B",
-      "other": "(Site des 18 Bonniers)"
-    },
-    {
       "code": "406312",
       "date": "2026-04-05",
       "time": "11:00",
@@ -103,16 +73,6 @@
       "team2": "RBC STAVELOT B",
       "category": "MM - DIVISION 3 C",
       "location": "THEUX BC B",
-      "other": ""
-    },
-    {
-      "code": "407292",
-      "date": "2026-03-22",
-      "time": "15:00",
-      "team1": "THEUX BC C",
-      "team2": "ROYAL BC NINANE D",
-      "category": "MM - DIVISION 4 A",
-      "location": "THEUX BC C",
       "other": ""
     },
     {
@@ -156,16 +116,6 @@
       "other": ""
     },
     {
-      "code": "408292",
-      "date": "2026-03-22",
-      "time": "17:00",
-      "team1": "THEUX BC D",
-      "team2": "CRISTAL SGH D",
-      "category": "MM - DIVISION 4 B",
-      "location": "THEUX BC D",
-      "other": ""
-    },
-    {
       "code": "408305",
       "date": "2026-03-28",
       "time": "21:00",
@@ -206,16 +156,6 @@
       "other": ""
     },
     {
-      "code": "524292",
-      "date": "2026-03-22",
-      "time": "9:00",
-      "team1": "THEUX BC B",
-      "team2": "BBC EUPEN",
-      "category": "U 10 - MM E",
-      "location": "THEUX BC B",
-      "other": ""
-    },
-    {
       "code": "524191",
       "date": "2026-04-04",
       "time": "11:00",
@@ -246,16 +186,6 @@
       "other": ""
     },
     {
-      "code": "525292",
-      "date": "2026-03-22",
-      "time": "15:00",
-      "team1": "THEUX BC A",
-      "team2": "ATLAS A JUPILLE A",
-      "category": "U 10 - MM F",
-      "location": "THEUX BC A",
-      "other": ""
-    },
-    {
       "code": "525322",
       "date": "2026-04-11",
       "time": "9:00",
@@ -276,16 +206,6 @@
       "other": ""
     },
     {
-      "code": "500292",
-      "date": "2026-03-21",
-      "time": "11:00",
-      "team1": "THEUX BC B",
-      "team2": "RBC AUBEL",
-      "category": "U 12 - MM A",
-      "location": "THEUX BC B",
-      "other": ""
-    },
-    {
       "code": "500304",
       "date": "2026-03-28",
       "time": "11:30",
@@ -303,16 +223,6 @@
       "team2": "RBC VISE A",
       "category": "U 12 - MM A",
       "location": "THEUX BC B",
-      "other": ""
-    },
-    {
-      "code": "504292",
-      "date": "2026-03-21",
-      "time": "9:00",
-      "team1": "THEUX BC A",
-      "team2": "ROYAL BC NINANE B",
-      "category": "U 12 - MM E",
-      "location": "THEUX BC A",
       "other": ""
     },
     {
@@ -346,16 +256,6 @@
       "other": ""
     },
     {
-      "code": "480292",
-      "date": "2026-03-22",
-      "time": "17:00",
-      "team1": "THEUX BC A",
-      "team2": "RBC ALLEUR",
-      "category": "U 14 - ELITES MM A",
-      "location": "THEUX BC A",
-      "other": ""
-    },
-    {
       "code": "480304",
       "date": "2026-04-04",
       "time": "13:00",
@@ -363,16 +263,6 @@
       "team2": "THEUX BC A",
       "category": "U 14 - ELITES MM A",
       "location": "COLLEGE S LOUIS A",
-      "other": ""
-    },
-    {
-      "code": "490292",
-      "date": "2026-03-21",
-      "time": "11:00",
-      "team1": "THEUX BC B",
-      "team2": "BBC EUPEN",
-      "category": "U 14 - PROV MM A",
-      "location": "THEUX BC B",
       "other": ""
     },
     {
@@ -426,16 +316,6 @@
       "other": ""
     },
     {
-      "code": "430292",
-      "date": "2026-03-22",
-      "time": "13:00",
-      "team1": "THEUX BC",
-      "team2": "BBC EUPEN A",
-      "category": "U 18 - ELITES MM A",
-      "location": "THEUX BC",
-      "other": ""
-    },
-    {
       "code": "430322",
       "date": "2026-04-11",
       "time": "17:00",
@@ -482,16 +362,6 @@
       "team1": "THEUX BC",
       "team2": "BBC EUPEN",
       "category": "U 21 - MM A",
-      "location": "THEUX BC",
-      "other": ""
-    },
-    {
-      "code": "550292",
-      "date": "2026-03-21",
-      "time": "9:00",
-      "team1": "THEUX BC",
-      "team2": "ALL. FLEMALLE B",
-      "category": "U 7 - MM A",
       "location": "THEUX BC",
       "other": ""
     },

@@ -6,26 +6,6 @@
   },
   "events": [
     {
-      "code": "413295",
-      "date": "2026-03-21",
-      "time": "18:30",
-      "team1": "RBC ALLEUR C",
-      "team2": "RABC ENSIVAL A",
-      "category": "DD - DIVISION 1",
-      "location": "RBC ALLEUR C",
-      "other": ""
-    },
-    {
-      "code": "413303",
-      "date": "2026-03-28",
-      "time": "17:00",
-      "team1": "RABC ENSIVAL A",
-      "team2": "R.UN.BELLAIRE A",
-      "category": "DD - DIVISION 1",
-      "location": "RABC ENSIVAL A",
-      "other": ""
-    },
-    {
       "code": "413314",
       "date": "2026-04-05",
       "time": "17:00",
@@ -53,16 +33,6 @@
       "team2": "RABC ENSIVAL A",
       "category": "DD - DIVISION 1",
       "location": "R HT-PRE OUGREE A",
-      "other": ""
-    },
-    {
-      "code": "401291",
-      "date": "2026-03-22",
-      "time": "13:00",
-      "team1": "HARIMALIA BC A",
-      "team2": "RABC ENSIVAL A",
-      "category": "MM - DIVISION 1",
-      "location": "HARIMALIA BC A",
       "other": ""
     },
     {
@@ -146,16 +116,6 @@
       "other": ""
     },
     {
-      "code": "411292",
-      "date": "2026-03-21",
-      "time": "18:00",
-      "team1": "RABC ENSIVAL C",
-      "team2": "DF BC MALMEDY",
-      "category": "MM - DIVISION 4 E",
-      "location": "RABC ENSIVAL C",
-      "other": ""
-    },
-    {
       "code": "411305",
       "date": "2026-03-28",
       "time": "19:00",
@@ -206,16 +166,6 @@
       "other": ""
     },
     {
-      "code": "525294",
-      "date": "2026-03-21",
-      "time": "9:00",
-      "team1": "RABC ENSIVAL B",
-      "team2": "ALL. FLEMALLE C",
-      "category": "U 10 - MM F",
-      "location": "RABC ENSIVAL B",
-      "other": ""
-    },
-    {
       "code": "525302",
       "date": "2026-03-29",
       "time": "9:00",
@@ -223,16 +173,6 @@
       "team2": "RABC ENSIVAL B",
       "category": "U 10 - MM F",
       "location": "ROYAL SPA BC A",
-      "other": ""
-    },
-    {
-      "code": "527291",
-      "date": "2026-03-21",
-      "time": "9:00",
-      "team1": "RBC BLEGNY A",
-      "team2": "RABC ENSIVAL A",
-      "category": "U 10 - MM H",
-      "location": "RBC BLEGNY A",
       "other": ""
     },
     {
@@ -253,16 +193,6 @@
       "team2": "CRISTAL SGH C",
       "category": "U 10 - MM H",
       "location": "RABC ENSIVAL A",
-      "other": ""
-    },
-    {
-      "code": "610292",
-      "date": "2026-03-21",
-      "time": "11:00",
-      "team1": "RABC ENSIVAL",
-      "team2": "R HT-PRE OUGREE",
-      "category": "U 12 - DD",
-      "location": "RABC ENSIVAL",
       "other": ""
     },
     {
@@ -326,16 +256,6 @@
       "other": ""
     },
     {
-      "code": "507292",
-      "date": "2026-03-21",
-      "time": "11:00",
-      "team1": "RABC ENSIVAL B",
-      "team2": "GIANTS BRAIVES C",
-      "category": "U 12 - MM H",
-      "location": "RABC ENSIVAL B",
-      "other": ""
-    },
-    {
       "code": "507304",
       "date": "2026-03-28",
       "time": "14:00",
@@ -346,12 +266,12 @@
       "other": ""
     },
     {
-      "code": "492292",
-      "date": "2026-03-21",
-      "time": "15:00",
+      "code": "507292",
+      "date": "2026-04-04",
+      "time": "11:00",
       "team1": "RABC ENSIVAL B",
-      "team2": "GIANTS BRAIVES",
-      "category": "U 14 - PROV MM C",
+      "team2": "GIANTS BRAIVES C",
+      "category": "U 12 - MM H",
       "location": "RABC ENSIVAL B",
       "other": ""
     },
@@ -363,16 +283,6 @@
       "team2": "RABC ENSIVAL B",
       "category": "U 14 - PROV MM C",
       "location": "ROYAL BC WANZE",
-      "other": ""
-    },
-    {
-      "code": "493296",
-      "date": "2026-03-21",
-      "time": "13:00",
-      "team1": "ORP JAUCHE",
-      "team2": "RABC ENSIVAL A",
-      "category": "U 14 - PROV MM D",
-      "location": "ORP JAUCHE",
       "other": ""
     },
     {
@@ -393,16 +303,6 @@
       "team2": "RABC ENSIVAL A",
       "category": "U 14 - PROV MM D",
       "location": "BCM HERSTAL",
-      "other": ""
-    },
-    {
-      "code": "470296",
-      "date": "2026-03-21",
-      "time": "12:00",
-      "team1": "R HT-PRE OUGREE",
-      "team2": "RABC ENSIVAL",
-      "category": "U 16 - PROV MM A",
-      "location": "R HT-PRE OUGREE",
       "other": ""
     },
     {
@@ -433,16 +333,6 @@
       "team2": "RABC ENSIVAL",
       "category": "U 16 - PROV MM A",
       "location": "BCM HERSTAL",
-      "other": ""
-    },
-    {
-      "code": "540294",
-      "date": "2026-03-21",
-      "time": "9:00",
-      "team1": "RABC ENSIVAL",
-      "team2": "RBC BLEGNY",
-      "category": "U 8 - MM A",
-      "location": "RABC ENSIVAL",
       "other": ""
     },
     {

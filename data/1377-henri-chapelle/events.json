@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "413296",
-      "date": "2026-03-22",
-      "time": "14:00",
-      "team1": "RBC ESNEUX B",
-      "team2": "HENRI-CHAPELLE",
-      "category": "DD - DIVISION 1",
-      "location": "RBC ESNEUX B",
-      "other": ""
-    },
-    {
       "code": "413306",
       "date": "2026-03-29",
       "time": "15:00",
@@ -66,16 +56,6 @@
       "other": ""
     },
     {
-      "code": "415296",
-      "date": "2026-03-22",
-      "time": "11:00",
-      "team1": "HENRI-CHAPELLE B",
-      "team2": "R 4A AYWAILLE-HAMOIR A",
-      "category": "DD - DIVISION 2 B",
-      "location": "HENRI-CHAPELLE B",
-      "other": ""
-    },
-    {
       "code": "415306",
       "date": "2026-03-29",
       "time": "11:00",
@@ -103,26 +83,6 @@
       "team2": "HENRI-CHAPELLE B",
       "category": "DD - DIVISION 2 B",
       "location": "ROYAL ANS BC",
-      "other": ""
-    },
-    {
-      "code": "418294",
-      "date": "2026-03-22",
-      "time": "12:00",
-      "team1": "PRAYON TROOZ C",
-      "team2": "HENRI-CHAPELLE C",
-      "category": "DD - DIVISION 3 C",
-      "location": "PRAYON TROOZ C",
-      "other": ""
-    },
-    {
-      "code": "418307",
-      "date": "2026-03-28",
-      "time": "18:30",
-      "team1": "HENRI-CHAPELLE C",
-      "team2": "DF BC MALMEDY",
-      "category": "DD - DIVISION 3 C",
-      "location": "HENRI-CHAPELLE C",
       "other": ""
     },
     {
@@ -156,26 +116,6 @@
       "other": ""
     },
     {
-      "code": "401297",
-      "date": "2026-03-21",
-      "time": "20:30",
-      "team1": "HENRI-CHAPELLE A",
-      "team2": "ALL. FLEMALLE A",
-      "category": "MM - DIVISION 1",
-      "location": "HENRI-CHAPELLE A",
-      "other": ""
-    },
-    {
-      "code": "401306",
-      "date": "2026-03-24",
-      "time": "20:30",
-      "team1": "MAIL. COMBLAIN B",
-      "team2": "HENRI-CHAPELLE A",
-      "category": "MM - DIVISION 1",
-      "location": "MAIL. COMBLAIN B",
-      "other": ""
-    },
-    {
       "code": "401317",
       "date": "2026-04-05",
       "time": "13:00",
@@ -203,16 +143,6 @@
       "team2": "HENRI-CHAPELLE A",
       "category": "MM - DIVISION 1",
       "location": "RBC HANEFFE A",
-      "other": ""
-    },
-    {
-      "code": "404297",
-      "date": "2026-03-21",
-      "time": "18:30",
-      "team1": "HENRI-CHAPELLE B",
-      "team2": "ALL. FLEMALLE B",
-      "category": "MM - DIVISION 3 A",
-      "location": "HENRI-CHAPELLE B",
       "other": ""
     },
     {
@@ -253,16 +183,6 @@
       "team2": "HENRI-CHAPELLE B",
       "category": "MM - DIVISION 3 A",
       "location": "RB TILFF C",
-      "other": ""
-    },
-    {
-      "code": "411297",
-      "date": "2026-03-21",
-      "time": "18:30",
-      "team1": "HENRI-CHAPELLE C",
-      "team2": "ROYAL SPA BC E",
-      "category": "MM - DIVISION 4 E",
-      "location": "HENRI-CHAPELLE C",
       "other": ""
     },
     {
@@ -316,16 +236,6 @@
       "other": ""
     },
     {
-      "code": "524296",
-      "date": "2026-03-21",
-      "time": "10:30",
-      "team1": "HENRI-CHAPELLE B",
-      "team2": "RBC STAVELOT B",
-      "category": "U 10 - MM E",
-      "location": "HENRI-CHAPELLE B",
-      "other": ""
-    },
-    {
       "code": "524306",
       "date": "2026-03-29",
       "time": "11:00",
@@ -356,19 +266,9 @@
       "other": ""
     },
     {
-      "code": "500293",
-      "date": "2026-03-21",
-      "time": "14:30",
-      "team1": "HENRI-CHAPELLE A",
-      "team2": "ROYAL MOSA AC 1941 A",
-      "category": "U 12 - MM A",
-      "location": "HENRI-CHAPELLE A",
-      "other": ""
-    },
-    {
       "code": "500305",
-      "date": "2026-03-29",
-      "time": "13:00",
+      "date": "2026-04-05",
+      "time": "9:00",
       "team1": "ROYAL HERVE-BATTICE A",
       "team2": "HENRI-CHAPELLE A",
       "category": "U 12 - MM A",
@@ -426,16 +326,6 @@
       "other": ""
     },
     {
-      "code": "506294",
-      "date": "2026-03-21",
-      "time": "11:15",
-      "team1": "COLLEGE S LOUIS B",
-      "team2": "HENRI-CHAPELLE C",
-      "category": "U 12 - MM G",
-      "location": "COLLEGE S LOUIS B",
-      "other": ""
-    },
-    {
       "code": "506301",
       "date": "2026-03-28",
       "time": "16:30",
@@ -476,16 +366,6 @@
       "other": ""
     },
     {
-      "code": "600292",
-      "date": "2026-03-22",
-      "time": "10:45",
-      "team1": "RJS GRIVEGNEE",
-      "team2": "HENRI-CHAPELLE",
-      "category": "U 14 - DD A",
-      "location": "RJS GRIVEGNEE",
-      "other": ""
-    },
-    {
       "code": "600301",
       "date": "2026-03-28",
       "time": "17:00",
@@ -498,7 +378,7 @@
     {
       "code": "600236",
       "date": "2026-04-05",
-      "time": "14:00",
+      "time": "16:00",
       "team1": "BCM HERSTAL",
       "team2": "HENRI-CHAPELLE",
       "category": "U 14 - DD A",
@@ -586,16 +466,6 @@
       "other": ""
     },
     {
-      "code": "AW172019",
-      "date": "2026-03-21",
-      "time": "15:15",
-      "team1": "NAMUR CAPITALE",
-      "team2": "HENRI-CHAPELLE",
-      "category": "U 19 - SILVER REGIONALES A",
-      "location": "NAMUR CAPITALE",
-      "other": ""
-    },
-    {
       "code": "AW172011",
       "date": "2026-03-28",
       "time": "16:30",
@@ -646,16 +516,6 @@
       "other": ""
     },
     {
-      "code": "550296",
-      "date": "2026-03-22",
-      "time": "9:00",
-      "team1": "HENRI-CHAPELLE",
-      "team2": "PEPINSTER EAST BELG A",
-      "category": "U 7 - MM A",
-      "location": "HENRI-CHAPELLE",
-      "other": ""
-    },
-    {
       "code": "550306",
       "date": "2026-03-29",
       "time": "9:00",
@@ -683,16 +543,6 @@
       "team2": "HENRI-CHAPELLE",
       "category": "U 7 - MM A",
       "location": "BC BELLEFLAMME",
-      "other": ""
-    },
-    {
-      "code": "542291",
-      "date": "2026-03-22",
-      "time": "9:00",
-      "team1": "HENRI-CHAPELLE",
-      "team2": "BC COINTE",
-      "category": "U 8 - MM C",
-      "location": "HENRI-CHAPELLE",
       "other": ""
     },
     {

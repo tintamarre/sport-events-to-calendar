@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "416152",
-      "date": "2026-03-25",
-      "time": "20:00",
-      "team1": "BCM HERSTAL",
-      "team2": "ROYAL BC WANZE",
-      "category": "DD - DIVISION 3 A",
-      "location": "BCM HERSTAL",
-      "other": ""
-    },
-    {
       "code": "416305",
       "date": "2026-03-28",
       "time": "17:00",
@@ -33,16 +23,6 @@
       "team2": "BCM HERSTAL",
       "category": "DD - DIVISION 3 A",
       "location": "ROYAL BC WANZE",
-      "other": ""
-    },
-    {
-      "code": "405297",
-      "date": "2026-03-21",
-      "time": "20:30",
-      "team1": "BCM HERSTAL A",
-      "team2": "LA VILLERSOISE B",
-      "category": "MM - DIVISION 3 B",
-      "location": "BCM HERSTAL A",
       "other": ""
     },
     {
@@ -96,16 +76,6 @@
       "other": ""
     },
     {
-      "code": "408297",
-      "date": "2026-03-22",
-      "time": "10:00",
-      "team1": "BCM HERSTAL B",
-      "team2": "ALL. FLEMALLE D",
-      "category": "MM - DIVISION 4 B",
-      "location": "BCM HERSTAL B",
-      "other": ""
-    },
-    {
       "code": "408306",
       "date": "2026-03-29",
       "time": "16:00",
@@ -143,26 +113,6 @@
       "team2": "PRAYON TROOZ B",
       "category": "MM - DIVISION 4 B",
       "location": "BCM HERSTAL B",
-      "other": ""
-    },
-    {
-      "code": "410297",
-      "date": "2026-03-21",
-      "time": "18:30",
-      "team1": "BCM HERSTAL C",
-      "team2": "BC TORES LIEGE",
-      "category": "MM - DIVISION 4 D",
-      "location": "BCM HERSTAL C",
-      "other": ""
-    },
-    {
-      "code": "410277",
-      "date": "2026-03-25",
-      "time": "21:00",
-      "team1": "BCM HERSTAL C",
-      "team2": "RB TILFF D",
-      "category": "MM - DIVISION 4 D",
-      "location": "BCM HERSTAL C",
       "other": ""
     },
     {
@@ -226,16 +176,6 @@
       "other": ""
     },
     {
-      "code": "526293",
-      "date": "2026-03-21",
-      "time": "9:00",
-      "team1": "BCM HERSTAL",
-      "team2": "RBC AUBEL B",
-      "category": "U 10 - MM G",
-      "location": "BCM HERSTAL",
-      "other": ""
-    },
-    {
       "code": "526305",
       "date": "2026-03-28",
       "time": "14:00",
@@ -253,16 +193,6 @@
       "team2": "PRAYON TROOZ A",
       "category": "U 10 - MM G",
       "location": "BCM HERSTAL",
-      "other": ""
-    },
-    {
-      "code": "505293",
-      "date": "2026-03-21",
-      "time": "10:30",
-      "team1": "BCM HERSTAL A",
-      "team2": "RBC DISON-ANDRIMONT B",
-      "category": "U 12 - MM F",
-      "location": "BCM HERSTAL A",
       "other": ""
     },
     {
@@ -296,16 +226,6 @@
       "other": ""
     },
     {
-      "code": "506293",
-      "date": "2026-03-21",
-      "time": "14:30",
-      "team1": "BCM HERSTAL B",
-      "team2": "ROYAL HERVE-BATTICE D",
-      "category": "U 12 - MM G",
-      "location": "BCM HERSTAL B",
-      "other": ""
-    },
-    {
       "code": "506233",
       "date": "2026-03-28",
       "time": "10:30",
@@ -336,16 +256,6 @@
       "other": ""
     },
     {
-      "code": "600296",
-      "date": "2026-03-21",
-      "time": "12:30",
-      "team1": "BCM HERSTAL",
-      "team2": "ROYAL SPA BC",
-      "category": "U 14 - DD A",
-      "location": "BCM HERSTAL",
-      "other": ""
-    },
-    {
       "code": "600306",
       "date": "2026-03-28",
       "time": "12:30",
@@ -368,7 +278,7 @@
     {
       "code": "600236",
       "date": "2026-04-05",
-      "time": "14:00",
+      "time": "16:00",
       "team1": "BCM HERSTAL",
       "team2": "HENRI-CHAPELLE",
       "category": "U 14 - DD A",
@@ -426,16 +336,6 @@
       "other": ""
     },
     {
-      "code": "591295",
-      "date": "2026-03-21",
-      "time": "9:00",
-      "team1": "ABC WAREMME",
-      "team2": "BCM HERSTAL",
-      "category": "U 16 - DD B",
-      "location": "ABC WAREMME",
-      "other": ""
-    },
-    {
       "code": "591303",
       "date": "2026-03-28",
       "time": "14:30",
@@ -486,16 +386,6 @@
       "other": "(Salle de Fourons)"
     },
     {
-      "code": "470293",
-      "date": "2026-03-21",
-      "time": "14:30",
-      "team1": "BCM HERSTAL",
-      "team2": "BBC EUPEN",
-      "category": "U 16 - PROV MM A",
-      "location": "BCM HERSTAL",
-      "other": ""
-    },
-    {
       "code": "470273",
       "date": "2026-04-04",
       "time": "14:30",
@@ -542,16 +432,6 @@
       "team1": "BCM HERSTAL",
       "team2": "RABC ENSIVAL",
       "category": "U 16 - PROV MM A",
-      "location": "BCM HERSTAL",
-      "other": ""
-    },
-    {
-      "code": "440293",
-      "date": "2026-03-21",
-      "time": "16:30",
-      "team1": "BCM HERSTAL",
-      "team2": "RBC STAVELOT",
-      "category": "U 18 - PROV MM",
       "location": "BCM HERSTAL",
       "other": ""
     },
