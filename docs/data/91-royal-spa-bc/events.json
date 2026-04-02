@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "413301",
-      "date": "2026-03-29",
-      "time": "17:00",
-      "team1": "ROYAL SPA BC A",
-      "team2": "R HT-PRE OUGREE A",
-      "category": "DD - DIVISION 1",
-      "location": "ROYAL SPA BC A",
-      "other": ""
-    },
-    {
       "code": "413312",
       "date": "2026-04-03",
       "time": "21:00",
@@ -46,16 +36,6 @@
       "other": ""
     },
     {
-      "code": "418301",
-      "date": "2026-03-29",
-      "time": "13:00",
-      "team1": "ROYAL SPA BC B",
-      "team2": "RBC DISON-ANDRIMONT B",
-      "category": "DD - DIVISION 3 C",
-      "location": "ROYAL SPA BC B",
-      "other": ""
-    },
-    {
       "code": "418312",
       "date": "2026-04-05",
       "time": "11:00",
@@ -73,16 +53,6 @@
       "team2": "HENRI-CHAPELLE C",
       "category": "DD - DIVISION 3 C",
       "location": "ROYAL SPA BC B",
-      "other": ""
-    },
-    {
-      "code": "402303",
-      "date": "2026-03-29",
-      "time": "17:00",
-      "team1": "ROYAL SPA BC C",
-      "team2": "RBC AWANS A",
-      "category": "MM - DIVISION 2 A",
-      "location": "ROYAL SPA BC C",
       "other": ""
     },
     {
@@ -116,16 +86,6 @@
       "other": ""
     },
     {
-      "code": "403301",
-      "date": "2026-03-29",
-      "time": "15:00",
-      "team1": "ROYAL SPA BC B",
-      "team2": "RBC DISON-ANDRIMONT A",
-      "category": "MM - DIVISION 2 B",
-      "location": "ROYAL SPA BC B",
-      "other": ""
-    },
-    {
       "code": "403312",
       "date": "2026-04-05",
       "time": "11:00",
@@ -153,16 +113,6 @@
       "team2": "ROYAL SPA BC B",
       "category": "MM - DIVISION 2 B",
       "location": "ROYAL MOSA AC 1941 A",
-      "other": ""
-    },
-    {
-      "code": "409301",
-      "date": "2026-03-29",
-      "time": "15:00",
-      "team1": "ROYAL SPA BC D",
-      "team2": "ALL. FLEMALLE C",
-      "category": "MM - DIVISION 4 C",
-      "location": "ROYAL SPA BC D",
       "other": ""
     },
     {
@@ -196,16 +146,6 @@
       "other": ""
     },
     {
-      "code": "411301",
-      "date": "2026-03-29",
-      "time": "13:00",
-      "team1": "ROYAL SPA BC E",
-      "team2": "DF BC MALMEDY",
-      "category": "MM - DIVISION 4 E",
-      "location": "ROYAL SPA BC E",
-      "other": ""
-    },
-    {
       "code": "411312",
       "date": "2026-04-04",
       "time": "18:00",
@@ -233,16 +173,6 @@
       "team2": "ROYAL SPA BC E",
       "category": "MM - DIVISION 4 E",
       "location": "RBC AUBEL",
-      "other": ""
-    },
-    {
-      "code": "AW103155",
-      "date": "2026-03-29",
-      "time": "11:00",
-      "team1": "ROYAL SPA BC A",
-      "team2": "OLYMPIC MSM",
-      "category": "MM - REGIONALE 2 B",
-      "location": "ROYAL SPA BC A",
       "other": ""
     },
     {
@@ -276,16 +206,6 @@
       "other": ""
     },
     {
-      "code": "520301",
-      "date": "2026-03-29",
-      "time": "11:00",
-      "team1": "ROYAL SPA BC C",
-      "team2": "HENRI-CHAPELLE A",
-      "category": "U 10 - MM A",
-      "location": "ROYAL SPA BC C",
-      "other": ""
-    },
-    {
       "code": "520321",
       "date": "2026-04-11",
       "time": "11:00",
@@ -303,16 +223,6 @@
       "team2": "ROYAL SPA BC C",
       "category": "U 10 - MM A",
       "location": "FLERON BBC",
-      "other": ""
-    },
-    {
-      "code": "525302",
-      "date": "2026-03-29",
-      "time": "9:00",
-      "team1": "ROYAL SPA BC A",
-      "team2": "RABC ENSIVAL B",
-      "category": "U 10 - MM F",
-      "location": "ROYAL SPA BC A",
       "other": ""
     },
     {
@@ -366,16 +276,6 @@
       "other": ""
     },
     {
-      "code": "491306",
-      "date": "2026-03-28",
-      "time": "12:45",
-      "team1": "ROYAL BC NINANE B",
-      "team2": "ROYAL SPA BC",
-      "category": "U 14 - PROV MM B",
-      "location": "ROYAL BC NINANE B",
-      "other": ""
-    },
-    {
       "code": "491326",
       "date": "2026-04-11",
       "time": "14:30",
@@ -393,26 +293,6 @@
       "team2": "CRISTAL SGH B",
       "category": "U 14 - PROV MM B",
       "location": "ROYAL SPA BC",
-      "other": ""
-    },
-    {
-      "code": "590225",
-      "date": "2026-03-27",
-      "time": "20:00",
-      "team1": "RBC AUBEL",
-      "team2": "ROYAL SPA BC",
-      "category": "U 16 - DD A",
-      "location": "RBC AUBEL",
-      "other": ""
-    },
-    {
-      "code": "590306",
-      "date": "2026-03-29",
-      "time": "11:00",
-      "team1": "ROYAL BC WANZE",
-      "team2": "ROYAL SPA BC",
-      "category": "U 16 - DD A",
-      "location": "ROYAL BC WANZE",
       "other": ""
     },
     {
@@ -466,16 +346,6 @@
       "other": ""
     },
     {
-      "code": "471306",
-      "date": "2026-03-29",
-      "time": "9:00",
-      "team1": "ROYAL BC WANZE",
-      "team2": "ROYAL SPA BC",
-      "category": "U 16 - PROV MM B",
-      "location": "ROYAL BC WANZE",
-      "other": ""
-    },
-    {
       "code": "471326",
       "date": "2026-04-12",
       "time": "14:00",
@@ -483,16 +353,6 @@
       "team2": "ROYAL SPA BC",
       "category": "U 16 - PROV MM B",
       "location": "ROYAL BC NINANE",
-      "other": ""
-    },
-    {
-      "code": "421304",
-      "date": "2026-03-28",
-      "time": "17:00",
-      "team1": "R 4A AYWAILLE-HAMOIR",
-      "team2": "ROYAL SPA BC",
-      "category": "U 21 - MM B",
-      "location": "R 4A AYWAILLE-HAMOIR",
       "other": ""
     },
     {
@@ -526,16 +386,6 @@
       "other": ""
     },
     {
-      "code": "550306",
-      "date": "2026-03-29",
-      "time": "9:00",
-      "team1": "HENRI-CHAPELLE",
-      "team2": "ROYAL SPA BC",
-      "category": "U 7 - MM A",
-      "location": "HENRI-CHAPELLE",
-      "other": ""
-    },
-    {
       "code": "550326",
       "date": "2026-04-11",
       "time": "10:30",
@@ -556,16 +406,6 @@
       "other": ""
     },
     {
-      "code": "540306",
-      "date": "2026-03-28",
-      "time": "10:45",
-      "team1": "ROYAL BC NINANE",
-      "team2": "ROYAL SPA BC A",
-      "category": "U 8 - MM A",
-      "location": "ROYAL BC NINANE",
-      "other": ""
-    },
-    {
       "code": "540331",
       "date": "2026-04-18",
       "time": "10:00",
@@ -573,16 +413,6 @@
       "team2": "ROYAL MOSA AC 1941",
       "category": "U 8 - MM A",
       "location": "ROYAL SPA BC A",
-      "other": ""
-    },
-    {
-      "code": "541306",
-      "date": "2026-03-28",
-      "time": "13:00",
-      "team1": "BC VERVIERS",
-      "team2": "ROYAL SPA BC B",
-      "category": "U 8 - MM B",
-      "location": "BC VERVIERS",
       "other": ""
     },
     {

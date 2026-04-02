@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "401305",
-      "date": "2026-03-28",
-      "time": "18:30",
-      "team1": "RB UNION LIEGE A",
-      "team2": "THEUX BC A",
-      "category": "MM - DIVISION 1",
-      "location": "RB UNION LIEGE A",
-      "other": ""
-    },
-    {
       "code": "401312",
       "date": "2026-04-05",
       "time": "13:00",
@@ -66,6 +56,16 @@
       "other": ""
     },
     {
+      "code": "406305",
+      "date": "2026-04-14",
+      "time": "20:30",
+      "team1": "CRISTAL SGH B",
+      "team2": "THEUX BC B",
+      "category": "MM - DIVISION 3 C",
+      "location": "CRISTAL SGH B",
+      "other": "(Site des 18 Bonniers)"
+    },
+    {
       "code": "406332",
       "date": "2026-04-19",
       "time": "11:00",
@@ -73,16 +73,6 @@
       "team2": "RBC STAVELOT B",
       "category": "MM - DIVISION 3 C",
       "location": "THEUX BC B",
-      "other": ""
-    },
-    {
-      "code": "407305",
-      "date": "2026-03-29",
-      "time": "11:00",
-      "team1": "BC VERLAINE",
-      "team2": "THEUX BC C",
-      "category": "MM - DIVISION 4 A",
-      "location": "BC VERLAINE",
       "other": ""
     },
     {
@@ -113,16 +103,6 @@
       "team2": "RSW LIEGE BASKET C",
       "category": "MM - DIVISION 4 A",
       "location": "THEUX BC C",
-      "other": ""
-    },
-    {
-      "code": "408305",
-      "date": "2026-03-28",
-      "time": "21:00",
-      "team1": "R HT-PRE OUGREE A",
-      "team2": "THEUX BC D",
-      "category": "MM - DIVISION 4 B",
-      "location": "R HT-PRE OUGREE A",
       "other": ""
     },
     {
@@ -206,16 +186,6 @@
       "other": ""
     },
     {
-      "code": "500304",
-      "date": "2026-03-28",
-      "time": "11:30",
-      "team1": "BC COINTE A",
-      "team2": "THEUX BC B",
-      "category": "U 12 - MM A",
-      "location": "BC COINTE A",
-      "other": ""
-    },
-    {
       "code": "500332",
       "date": "2026-04-18",
       "time": "11:00",
@@ -223,16 +193,6 @@
       "team2": "RBC VISE A",
       "category": "U 12 - MM A",
       "location": "THEUX BC B",
-      "other": ""
-    },
-    {
-      "code": "504304",
-      "date": "2026-03-28",
-      "time": "12:00",
-      "team1": "BC BELLEFLAMME C",
-      "team2": "THEUX BC A",
-      "category": "U 12 - MM E",
-      "location": "BC BELLEFLAMME C",
       "other": ""
     },
     {
@@ -266,16 +226,6 @@
       "other": ""
     },
     {
-      "code": "490304",
-      "date": "2026-03-28",
-      "time": "12:30",
-      "team1": "PRAYON TROOZ",
-      "team2": "THEUX BC B",
-      "category": "U 14 - PROV MM A",
-      "location": "PRAYON TROOZ",
-      "other": ""
-    },
-    {
       "code": "490322",
       "date": "2026-04-11",
       "time": "14:30",
@@ -283,16 +233,6 @@
       "team2": "THEUX BC B",
       "category": "U 14 - PROV MM A",
       "location": "RBC STAVELOT",
-      "other": ""
-    },
-    {
-      "code": "471303",
-      "date": "2026-03-28",
-      "time": "9:00",
-      "team1": "THEUX BC",
-      "team2": "HANNUT BC",
-      "category": "U 16 - PROV MM B",
-      "location": "THEUX BC",
       "other": ""
     },
     {
@@ -336,16 +276,6 @@
       "other": ""
     },
     {
-      "code": "420302",
-      "date": "2026-03-28",
-      "time": "11:00",
-      "team1": "THEUX BC",
-      "team2": "HARIMALIA BC",
-      "category": "U 21 - MM A",
-      "location": "THEUX BC",
-      "other": ""
-    },
-    {
       "code": "420322",
       "date": "2026-04-11",
       "time": "11:00",
@@ -363,16 +293,6 @@
       "team2": "BBC EUPEN",
       "category": "U 21 - MM A",
       "location": "THEUX BC",
-      "other": ""
-    },
-    {
-      "code": "550304",
-      "date": "2026-03-28",
-      "time": "9:00",
-      "team1": "RBC ESNEUX",
-      "team2": "THEUX BC",
-      "category": "U 7 - MM A",
-      "location": "RBC ESNEUX",
       "other": ""
     },
     {

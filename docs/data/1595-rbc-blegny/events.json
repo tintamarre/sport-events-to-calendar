@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "413306",
-      "date": "2026-03-29",
-      "time": "15:00",
-      "team1": "HENRI-CHAPELLE",
-      "team2": "RBC BLEGNY A",
-      "category": "DD - DIVISION 1",
-      "location": "HENRI-CHAPELLE",
-      "other": ""
-    },
-    {
       "code": "413317",
       "date": "2026-04-03",
       "time": "19:00",
@@ -43,16 +33,6 @@
       "team2": "RBC BLEGNY A",
       "category": "DD - DIVISION 1",
       "location": "BC BELLEFLAMME B",
-      "other": ""
-    },
-    {
-      "code": "414306",
-      "date": "2026-03-26",
-      "time": "20:00",
-      "team1": "ATLAS A JUPILLE",
-      "team2": "RBC BLEGNY B",
-      "category": "DD - DIVISION 2 A",
-      "location": "ATLAS A JUPILLE",
       "other": ""
     },
     {
@@ -86,16 +66,6 @@
       "other": ""
     },
     {
-      "code": "416307",
-      "date": "2026-03-28",
-      "time": "21:00",
-      "team1": "RBC BLEGNY C",
-      "team2": "R 4A AYWAILLE-HAMOIR B",
-      "category": "DD - DIVISION 3 A",
-      "location": "RBC BLEGNY C",
-      "other": ""
-    },
-    {
       "code": "416337",
       "date": "2026-04-18",
       "time": "21:00",
@@ -103,16 +73,6 @@
       "team2": "CS OUTREMEUSE",
       "category": "DD - DIVISION 3 A",
       "location": "RBC BLEGNY C",
-      "other": ""
-    },
-    {
-      "code": "405307",
-      "date": "2026-03-27",
-      "time": "21:00",
-      "team1": "RBC BLEGNY B",
-      "team2": "R 4A AYWAILLE-HAMOIR A",
-      "category": "MM - DIVISION 3 B",
-      "location": "RBC BLEGNY B",
       "other": ""
     },
     {
@@ -146,16 +106,6 @@
       "other": ""
     },
     {
-      "code": "406307",
-      "date": "2026-03-27",
-      "time": "19:00",
-      "team1": "RBC BLEGNY A",
-      "team2": "R 4A AYWAILLE-HAMOIR B",
-      "category": "MM - DIVISION 3 C",
-      "location": "RBC BLEGNY A",
-      "other": ""
-    },
-    {
       "code": "406316",
       "date": "2026-04-03",
       "time": "21:00",
@@ -183,16 +133,6 @@
       "team2": "BC COINTE C",
       "category": "MM - DIVISION 3 C",
       "location": "RBC BLEGNY A",
-      "other": ""
-    },
-    {
-      "code": "411307",
-      "date": "2026-03-28",
-      "time": "19:00",
-      "team1": "RBC BLEGNY C",
-      "team2": "RBC AUBEL",
-      "category": "MM - DIVISION 4 E",
-      "location": "RBC BLEGNY C",
       "other": ""
     },
     {
@@ -226,16 +166,6 @@
       "other": ""
     },
     {
-      "code": "521301",
-      "date": "2026-03-28",
-      "time": "11:00",
-      "team1": "RBC BLEGNY B",
-      "team2": "LA VILLERSOISE A",
-      "category": "U 10 - MM B",
-      "location": "RBC BLEGNY B",
-      "other": ""
-    },
-    {
       "code": "521192",
       "date": "2026-04-04",
       "time": "12:00",
@@ -266,16 +196,6 @@
       "other": ""
     },
     {
-      "code": "527306",
-      "date": "2026-03-28",
-      "time": "14:00",
-      "team1": "R HT-PRE OUGREE B",
-      "team2": "RBC BLEGNY A",
-      "category": "U 10 - MM H",
-      "location": "R HT-PRE OUGREE B",
-      "other": ""
-    },
-    {
       "code": "527326",
       "date": "2026-04-11",
       "time": "9:00",
@@ -293,26 +213,6 @@
       "team2": "CRISTAL SGH C",
       "category": "U 10 - MM H",
       "location": "RBC BLEGNY A",
-      "other": ""
-    },
-    {
-      "code": "500334",
-      "date": "2026-03-28",
-      "time": "14:30",
-      "team1": "PRAYON TROOZ A",
-      "team2": "RBC BLEGNY",
-      "category": "U 12 - MM A",
-      "location": "PRAYON TROOZ A",
-      "other": ""
-    },
-    {
-      "code": "600301",
-      "date": "2026-03-28",
-      "time": "17:00",
-      "team1": "RBC BLEGNY",
-      "team2": "HENRI-CHAPELLE",
-      "category": "U 14 - DD A",
-      "location": "RBC BLEGNY",
       "other": ""
     },
     {
@@ -356,16 +256,6 @@
       "other": ""
     },
     {
-      "code": "492306",
-      "date": "2026-03-29",
-      "time": "14:00",
-      "team1": "MAIL. COMBLAIN",
-      "team2": "RBC BLEGNY B",
-      "category": "U 14 - PROV MM C",
-      "location": "MAIL. COMBLAIN",
-      "other": ""
-    },
-    {
       "code": "492326",
       "date": "2026-04-11",
       "time": "13:00",
@@ -383,16 +273,6 @@
       "team2": "BC VERLAINE",
       "category": "U 14 - PROV MM C",
       "location": "RBC BLEGNY B",
-      "other": ""
-    },
-    {
-      "code": "591301",
-      "date": "2026-03-28",
-      "time": "15:00",
-      "team1": "RBC BLEGNY",
-      "team2": "ROYAL BC NINANE",
-      "category": "U 16 - DD B",
-      "location": "RBC BLEGNY",
       "other": ""
     },
     {
@@ -436,16 +316,6 @@
       "other": ""
     },
     {
-      "code": "581301",
-      "date": "2026-03-28",
-      "time": "13:00",
-      "team1": "RBC BLEGNY",
-      "team2": "ROYAL HERVE-BATTICE",
-      "category": "U 19 - DD B",
-      "location": "RBC BLEGNY",
-      "other": ""
-    },
-    {
       "code": "581333",
       "date": "2026-04-19",
       "time": "11:00",
@@ -453,16 +323,6 @@
       "team2": "RBC BLEGNY",
       "category": "U 19 - DD B",
       "location": "ATLAS A JUPILLE",
-      "other": ""
-    },
-    {
-      "code": "551301",
-      "date": "2026-03-28",
-      "time": "9:30",
-      "team1": "RBC BLEGNY",
-      "team2": "ROYAL HERVE-BATTICE B",
-      "category": "U 7 - MM B",
-      "location": "RBC BLEGNY",
       "other": ""
     },
     {

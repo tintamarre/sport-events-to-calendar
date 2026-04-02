@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "AW245063",
-      "date": "2026-03-28",
-      "time": "16:00",
-      "team1": "COLLEGE S LOUIS",
-      "team2": "R.B.C. BELGRADE",
-      "category": "COUPE AWBB U12 -GARCONS",
-      "location": "COLLEGE S LOUIS",
-      "other": ""
-    },
-    {
       "code": "414316",
       "date": "2026-04-05",
       "time": "17:00",
@@ -24,6 +14,16 @@
       "category": "DD - DIVISION 2 A",
       "location": "ROYAL BC NINANE A",
       "other": "(Vaux/Chèvremont)"
+    },
+    {
+      "code": "414307",
+      "date": "2026-04-09",
+      "time": "21:00",
+      "team1": "COLLEGE S LOUIS",
+      "team2": "PRAYON TROOZ B",
+      "category": "DD - DIVISION 2 A",
+      "location": "COLLEGE S LOUIS",
+      "other": ""
     },
     {
       "code": "414321",
@@ -43,16 +43,6 @@
       "team2": "RBC DISON-ANDRIMONT A",
       "category": "DD - DIVISION 2 A",
       "location": "COLLEGE S LOUIS",
-      "other": ""
-    },
-    {
-      "code": "522304",
-      "date": "2026-03-28",
-      "time": "9:00",
-      "team1": "COLLEGE S LOUIS A",
-      "team2": "UN HUY BASKET A",
-      "category": "U 10 - MM C",
-      "location": "COLLEGE S LOUIS A",
       "other": ""
     },
     {
@@ -106,16 +96,6 @@
       "other": ""
     },
     {
-      "code": "502304",
-      "date": "2026-03-29",
-      "time": "9:00",
-      "team1": "COLLEGE S LOUIS A",
-      "team2": "BC SPRIMONT B",
-      "category": "U 12 - MM C",
-      "location": "COLLEGE S LOUIS A",
-      "other": ""
-    },
-    {
       "code": "502324",
       "date": "2026-04-12",
       "time": "10:30",
@@ -123,16 +103,6 @@
       "team2": "RB TILFF B",
       "category": "U 12 - MM C",
       "location": "COLLEGE S LOUIS A",
-      "other": ""
-    },
-    {
-      "code": "506233",
-      "date": "2026-03-28",
-      "time": "10:30",
-      "team1": "BCM HERSTAL B",
-      "team2": "COLLEGE S LOUIS B",
-      "category": "U 12 - MM G",
-      "location": "BCM HERSTAL B",
       "other": ""
     },
     {
@@ -236,16 +206,6 @@
       "other": ""
     },
     {
-      "code": "472306",
-      "date": "2026-03-28",
-      "time": "11:00",
-      "team1": "GIANTS BRAIVES",
-      "team2": "COLLEGE S LOUIS",
-      "category": "U 16 - PROV MM C",
-      "location": "GIANTS BRAIVES",
-      "other": ""
-    },
-    {
       "code": "472326",
       "date": "2026-04-11",
       "time": "13:00",
@@ -253,16 +213,6 @@
       "team2": "COLLEGE S LOUIS",
       "category": "U 16 - PROV MM C",
       "location": "ORP JAUCHE",
-      "other": ""
-    },
-    {
-      "code": "431306",
-      "date": "2026-03-28",
-      "time": "16:00",
-      "team1": "MAIL. COMBLAIN",
-      "team2": "COLLEGE S LOUIS",
-      "category": "U 18 - ELITES MM B",
-      "location": "MAIL. COMBLAIN",
       "other": ""
     },
     {
@@ -283,16 +233,6 @@
       "team2": "R 4A AYWAILLE-HAMOIR",
       "category": "U 18 - ELITES MM B",
       "location": "COLLEGE S LOUIS",
-      "other": ""
-    },
-    {
-      "code": "544302",
-      "date": "2026-03-28",
-      "time": "10:45",
-      "team1": "BC CRISNEE B",
-      "team2": "COLLEGE S LOUIS",
-      "category": "U 8 - MM E",
-      "location": "BC CRISNEE B",
       "other": ""
     }
   ]

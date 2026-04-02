@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-26T22:09:34.959Z",
+  "lastUpdated": "2026-04-02T22:14:03.554Z",
   "clubs": [
     {
       "id": "709",
@@ -11,6 +11,7 @@
         "DD - DIVISION 2 A",
         "DD - DIVISION 2 B",
         "DD - DIVISION 3 A",
+        "Forfait visité",
         "MM - DIVISION 2 A",
         "MM - DIVISION 4 C",
         "MM - REGIONALE 2 A",
@@ -42,6 +43,7 @@
         "DD - DIVISION 2 A": "/data/709-abc-waremme/dd-division-2-a.ics",
         "DD - DIVISION 2 B": "/data/709-abc-waremme/dd-division-2-b.ics",
         "DD - DIVISION 3 A": "/data/709-abc-waremme/dd-division-3-a.ics",
+        "Forfait visité": "/data/709-abc-waremme/forfait-visite.ics",
         "MM - DIVISION 2 A": "/data/709-abc-waremme/mm-division-2-a.ics",
         "MM - DIVISION 4 C": "/data/709-abc-waremme/mm-division-4-c.ics",
         "MM - REGIONALE 2 A": "/data/709-abc-waremme/mm-regionale-2-a.ics",
@@ -967,6 +969,7 @@
       "slug": "2499-giants-braives",
       "categories": [
         "DD - DIVISION 3 B",
+        "Forfait visité",
         "MM - DIVISION 4 A",
         "MM - DIVISION 4 D",
         "U 10 - MM B",
@@ -987,6 +990,7 @@
       "csvPath": "/data/2499-giants-braives/2499-giants-braives.csv",
       "icsFiles": {
         "DD - DIVISION 3 B": "/data/2499-giants-braives/dd-division-3-b.ics",
+        "Forfait visité": "/data/2499-giants-braives/forfait-visite.ics",
         "MM - DIVISION 4 A": "/data/2499-giants-braives/mm-division-4-a.ics",
         "MM - DIVISION 4 D": "/data/2499-giants-braives/mm-division-4-d.ics",
         "U 10 - MM B": "/data/2499-giants-braives/u-10-mm-b.ics",
