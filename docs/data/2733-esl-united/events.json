@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "401316",
-      "date": "2026-04-04",
-      "time": "21:00",
-      "team1": "ESL UNITED C",
-      "team2": "HANNUT BC A",
-      "category": "MM - DIVISION 1",
-      "location": "ESL UNITED C",
-      "other": ""
-    },
-    {
       "code": "401322",
       "date": "2026-04-11",
       "time": "20:30",
@@ -33,16 +23,6 @@
       "team2": "BC BELLEFLAMME B",
       "category": "MM - DIVISION 1",
       "location": "ESL UNITED C",
-      "other": ""
-    },
-    {
-      "code": "402316",
-      "date": "2026-04-04",
-      "time": "19:00",
-      "team1": "ESL UNITED E",
-      "team2": "RBC VISE A",
-      "category": "MM - DIVISION 2 A",
-      "location": "ESL UNITED E",
       "other": ""
     },
     {
@@ -66,16 +46,6 @@
       "other": ""
     },
     {
-      "code": "403313",
-      "date": "2026-04-03",
-      "time": "20:15",
-      "team1": "R.UN.BELLAIRE A",
-      "team2": "ESL UNITED D",
-      "category": "MM - DIVISION 2 B",
-      "location": "R.UN.BELLAIRE A",
-      "other": ""
-    },
-    {
       "code": "403324",
       "date": "2026-04-12",
       "time": "14:00",
@@ -83,16 +53,6 @@
       "team2": "PRAYON TROOZ A",
       "category": "MM - DIVISION 2 B",
       "location": "ESL UNITED D",
-      "other": ""
-    },
-    {
-      "code": "406317",
-      "date": "2026-04-04",
-      "time": "17:00",
-      "team1": "ESL UNITED F",
-      "team2": "RBC STAVELOT B",
-      "category": "MM - DIVISION 3 C",
-      "location": "ESL UNITED F",
       "other": ""
     },
     {
@@ -176,16 +136,6 @@
       "other": ""
     },
     {
-      "code": "AW161006",
-      "date": "2026-04-04",
-      "time": "17:00",
-      "team1": "BC GENAPPE",
-      "team2": "ESL UNITED",
-      "category": "U 14 - GOLD REGIONAUX A",
-      "location": "BC GENAPPE",
-      "other": ""
-    },
-    {
       "code": "AW161017",
       "date": "2026-04-12",
       "time": "9:00",
@@ -206,16 +156,6 @@
       "other": ""
     },
     {
-      "code": "INJ1612ABF",
-      "date": "2026-04-12",
-      "time": "16:30",
-      "team1": "ESL UNITED",
-      "team2": "BBC FALCO GENT",
-      "category": "U 16 MM - NATIONAUX A",
-      "location": "ESL UNITED",
-      "other": ""
-    },
-    {
       "code": "INJ1612ACB",
       "date": "2026-04-18",
       "time": "11:00",
@@ -223,6 +163,16 @@
       "team2": "ESL UNITED",
       "category": "U 16 MM - NATIONAUX A",
       "location": "GUCO LIER",
+      "other": ""
+    },
+    {
+      "code": "INJ1612ABF",
+      "date": "2026-04-26",
+      "time": "12:00",
+      "team1": "ESL UNITED",
+      "team2": "BBC FALCO GENT",
+      "category": "U 16 MM - NATIONAUX A",
+      "location": "ESL UNITED",
       "other": ""
     },
     {

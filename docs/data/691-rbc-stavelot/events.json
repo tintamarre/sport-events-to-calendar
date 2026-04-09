@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "414317",
-      "date": "2026-04-03",
-      "time": "21:00",
-      "team1": "RBC BLEGNY B",
-      "team2": "RBC STAVELOT",
-      "category": "DD - DIVISION 2 A",
-      "location": "RBC BLEGNY B",
-      "other": ""
-    },
-    {
       "code": "414245",
       "date": "2026-04-09",
       "time": "21:00",
@@ -24,16 +14,6 @@
       "category": "DD - DIVISION 2 A",
       "location": "ABC WAREMME A",
       "other": "(Pôle Ballons)"
-    },
-    {
-      "code": "414322",
-      "date": "2026-04-11",
-      "time": "17:00",
-      "team1": "RBC STAVELOT",
-      "team2": "ROYAL BC NINANE A",
-      "category": "DD - DIVISION 2 A",
-      "location": "RBC STAVELOT",
-      "other": ""
     },
     {
       "code": "414291",
@@ -46,6 +26,16 @@
       "other": ""
     },
     {
+      "code": "414322",
+      "date": "2026-04-15",
+      "time": "19:00",
+      "team1": "RBC STAVELOT",
+      "team2": "ROYAL BC NINANE A",
+      "category": "DD - DIVISION 2 A",
+      "location": "RBC STAVELOT",
+      "other": ""
+    },
+    {
       "code": "414332",
       "date": "2026-04-18",
       "time": "19:00",
@@ -53,16 +43,6 @@
       "team2": "RBC STAVELOT",
       "category": "DD - DIVISION 2 A",
       "location": "BC SPRIMONT B",
-      "other": ""
-    },
-    {
-      "code": "402317",
-      "date": "2026-04-05",
-      "time": "11:00",
-      "team1": "RBC ALLEUR C",
-      "team2": "RBC STAVELOT A",
-      "category": "MM - DIVISION 2 A",
-      "location": "RBC ALLEUR C",
       "other": ""
     },
     {
@@ -86,18 +66,8 @@
       "other": ""
     },
     {
-      "code": "406317",
-      "date": "2026-04-04",
-      "time": "17:00",
-      "team1": "ESL UNITED F",
-      "team2": "RBC STAVELOT B",
-      "category": "MM - DIVISION 3 C",
-      "location": "ESL UNITED F",
-      "other": ""
-    },
-    {
       "code": "406322",
-      "date": "2026-04-11",
+      "date": "2026-04-15",
       "time": "21:00",
       "team1": "RBC STAVELOT B",
       "team2": "BBC EUPEN",
@@ -116,19 +86,9 @@
       "other": ""
     },
     {
-      "code": "411317",
-      "date": "2026-04-04",
-      "time": "18:30",
-      "team1": "HENRI-CHAPELLE C",
-      "team2": "RBC STAVELOT C",
-      "category": "MM - DIVISION 4 E",
-      "location": "HENRI-CHAPELLE C",
-      "other": ""
-    },
-    {
       "code": "411322",
-      "date": "2026-04-11",
-      "time": "19:00",
+      "date": "2026-04-13",
+      "time": "21:00",
       "team1": "RBC STAVELOT C",
       "team2": "DF BC MALMEDY",
       "category": "MM - DIVISION 4 E",
@@ -176,16 +136,6 @@
       "other": ""
     },
     {
-      "code": "610213",
-      "date": "2026-04-04",
-      "time": "11:00",
-      "team1": "RBC AWANS",
-      "team2": "RBC STAVELOT",
-      "category": "U 12 - DD",
-      "location": "RBC AWANS",
-      "other": ""
-    },
-    {
       "code": "610322",
       "date": "2026-04-11",
       "time": "12:30",
@@ -206,16 +156,6 @@
       "other": ""
     },
     {
-      "code": "504333",
-      "date": "2026-04-04",
-      "time": "13:00",
-      "team1": "DF BC MALMEDY",
-      "team2": "RBC STAVELOT A",
-      "category": "U 12 - MM E",
-      "location": "DF BC MALMEDY",
-      "other": ""
-    },
-    {
       "code": "504322",
       "date": "2026-04-11",
       "time": "10:30",
@@ -223,16 +163,6 @@
       "team2": "THEUX BC A",
       "category": "U 12 - MM E",
       "location": "RBC STAVELOT A",
-      "other": ""
-    },
-    {
-      "code": "490333",
-      "date": "2026-04-04",
-      "time": "15:00",
-      "team1": "DF BC MALMEDY",
-      "team2": "RBC STAVELOT",
-      "category": "U 14 - PROV MM A",
-      "location": "DF BC MALMEDY",
       "other": ""
     },
     {
@@ -263,16 +193,6 @@
       "team2": "RBC STAVELOT",
       "category": "U 16 - PROV MM B",
       "location": "HARIMALIA BC B",
-      "other": ""
-    },
-    {
-      "code": "440315",
-      "date": "2026-04-04",
-      "time": "15:00",
-      "team1": "CRISTAL SGH C",
-      "team2": "RBC STAVELOT",
-      "category": "U 18 - PROV MM",
-      "location": "CRISTAL SGH C",
       "other": ""
     },
     {

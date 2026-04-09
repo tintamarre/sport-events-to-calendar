@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "414312",
-      "date": "2026-04-04",
-      "time": "19:00",
-      "team1": "BC SPRIMONT B",
-      "team2": "LA VILLERSOISE A",
-      "category": "DD - DIVISION 2 A",
-      "location": "BC SPRIMONT B",
-      "other": ""
-    },
-    {
       "code": "414321",
       "date": "2026-04-12",
       "time": "17:00",
@@ -36,16 +26,6 @@
       "other": ""
     },
     {
-      "code": "416311",
-      "date": "2026-04-05",
-      "time": "15:00",
-      "team1": "LA VILLERSOISE B",
-      "team2": "ROYAL BC WANZE",
-      "category": "DD - DIVISION 3 A",
-      "location": "LA VILLERSOISE B",
-      "other": ""
-    },
-    {
       "code": "416327",
       "date": "2026-04-11",
       "time": "21:00",
@@ -63,16 +43,6 @@
       "team2": "CRISTAL SGH B",
       "category": "DD - DIVISION 3 A",
       "location": "LA VILLERSOISE B",
-      "other": ""
-    },
-    {
-      "code": "404311",
-      "date": "2026-04-05",
-      "time": "17:00",
-      "team1": "LA VILLERSOISE A",
-      "team2": "ROYAL BC WANZE C",
-      "category": "MM - DIVISION 3 A",
-      "location": "LA VILLERSOISE A",
       "other": ""
     },
     {
@@ -116,16 +86,6 @@
       "other": ""
     },
     {
-      "code": "407312",
-      "date": "2026-04-05",
-      "time": "15:00",
-      "team1": "THEUX BC C",
-      "team2": "LA VILLERSOISE C",
-      "category": "MM - DIVISION 4 A",
-      "location": "THEUX BC C",
-      "other": ""
-    },
-    {
       "code": "407321",
       "date": "2026-04-11",
       "time": "19:00",
@@ -148,7 +108,7 @@
     {
       "code": "521326",
       "date": "2026-04-12",
-      "time": "11:00",
+      "time": "9:00",
       "team1": "LA VILLERSOISE A",
       "team2": "RBC VISE A",
       "category": "U 10 - MM B",
@@ -236,16 +196,6 @@
       "other": ""
     },
     {
-      "code": "AW182019",
-      "date": "2026-04-04",
-      "time": "11:00",
-      "team1": "BC COLFONTAINE",
-      "team2": "LA VILLERSOISE",
-      "category": "U 14 - SILVER REGIONALES B",
-      "location": "BC COLFONTAINE",
-      "other": ""
-    },
-    {
       "code": "AW182018",
       "date": "2026-04-11",
       "time": "13:00",
@@ -263,26 +213,6 @@
       "team2": "LA VILLERSOISE",
       "category": "U 14 - SILVER REGIONALES B",
       "location": "BBC LIBRAMONT",
-      "other": ""
-    },
-    {
-      "code": "AW168024",
-      "date": "2026-04-04",
-      "time": "11:00",
-      "team1": "PDL CHARLEROI",
-      "team2": "LA VILLERSOISE",
-      "category": "U 14 - SILVER REGIONAUX F",
-      "location": "PDL CHARLEROI",
-      "other": ""
-    },
-    {
-      "code": "AW168026",
-      "date": "2026-04-05",
-      "time": "13:00",
-      "team1": "LA VILLERSOISE",
-      "team2": "LA LOUVIERE AM",
-      "category": "U 14 - SILVER REGIONAUX F",
-      "location": "LA VILLERSOISE",
       "other": ""
     },
     {
@@ -316,16 +246,6 @@
       "other": ""
     },
     {
-      "code": "INM1412BEC",
-      "date": "2026-04-04",
-      "time": "11:00",
-      "team1": "LA VILLERSOISE",
-      "team2": "BERCHEM BBC",
-      "category": "U 14 DD - NATIONALES B",
-      "location": "LA VILLERSOISE",
-      "other": ""
-    },
-    {
       "code": "INM1412BEB",
       "date": "2026-04-11",
       "time": "15:00",
@@ -346,16 +266,6 @@
       "other": ""
     },
     {
-      "code": "591194",
-      "date": "2026-04-04",
-      "time": "13:00",
-      "team1": "LA VILLERSOISE",
-      "team2": "PRAYON TROOZ",
-      "category": "U 16 - DD B",
-      "location": "LA VILLERSOISE",
-      "other": ""
-    },
-    {
       "code": "591324",
       "date": "2026-04-11",
       "time": "9:00",
@@ -373,16 +283,6 @@
       "team2": "LA VILLERSOISE",
       "category": "U 16 - DD B",
       "location": "ROYAL BC NINANE",
-      "other": ""
-    },
-    {
-      "code": "451301",
-      "date": "2026-04-05",
-      "time": "11:00",
-      "team1": "LA VILLERSOISE B",
-      "team2": "COLLEGE S LOUIS A",
-      "category": "U 16 - ELITES MM B",
-      "location": "LA VILLERSOISE B",
       "other": ""
     },
     {
@@ -493,16 +393,6 @@
       "team2": "PEPINSTER EAST BELG",
       "category": "U 19 - GOLD REGIONALES A",
       "location": "LA VILLERSOISE",
-      "other": ""
-    },
-    {
-      "code": "552334",
-      "date": "2026-04-05",
-      "time": "9:00",
-      "team1": "LA VILLERSOISE B",
-      "team2": "ROYAL BC WANZE",
-      "category": "U 7 - MM C",
-      "location": "LA VILLERSOISE B",
       "other": ""
     },
     {

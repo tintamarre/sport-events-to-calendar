@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "414315",
-      "date": "2026-04-04",
-      "time": "21:00",
-      "team1": "PRAYON TROOZ B",
-      "team2": "ABC WAREMME A",
-      "category": "DD - DIVISION 2 A",
-      "location": "PRAYON TROOZ B",
-      "other": ""
-    },
-    {
       "code": "414307",
       "date": "2026-04-09",
       "time": "21:00",
@@ -46,16 +36,6 @@
       "other": ""
     },
     {
-      "code": "418185",
-      "date": "2026-04-04",
-      "time": "17:00",
-      "team1": "DF BC MALMEDY",
-      "team2": "PRAYON TROOZ C",
-      "category": "DD - DIVISION 3 C",
-      "location": "DF BC MALMEDY",
-      "other": ""
-    },
-    {
       "code": "418167",
       "date": "2026-04-18",
       "time": "19:00",
@@ -64,26 +44,6 @@
       "category": "DD - DIVISION 3 C",
       "location": "RBC VISE B",
       "other": "(Salle de Fourons)"
-    },
-    {
-      "code": "AW105165",
-      "date": "2026-04-03",
-      "time": "20:30",
-      "team1": "PRAYON TROOZ A",
-      "team2": "RB ALLIANCE ARLON",
-      "category": "DD - REGIONALE 2 A",
-      "location": "PRAYON TROOZ A",
-      "other": ""
-    },
-    {
-      "code": "403314",
-      "date": "2026-04-04",
-      "time": "17:00",
-      "team1": "PRAYON TROOZ A",
-      "team2": "VAIL. JUPILLE A",
-      "category": "MM - DIVISION 2 B",
-      "location": "PRAYON TROOZ A",
-      "other": ""
     },
     {
       "code": "403324",
@@ -106,16 +66,6 @@
       "other": ""
     },
     {
-      "code": "408314",
-      "date": "2026-04-04",
-      "time": "19:00",
-      "team1": "PRAYON TROOZ B",
-      "team2": "RBC AWANS B",
-      "category": "MM - DIVISION 4 B",
-      "location": "PRAYON TROOZ B",
-      "other": ""
-    },
-    {
       "code": "408324",
       "date": "2026-04-12",
       "time": "14:30",
@@ -133,16 +83,6 @@
       "team2": "PRAYON TROOZ B",
       "category": "MM - DIVISION 4 B",
       "location": "BCM HERSTAL B",
-      "other": ""
-    },
-    {
-      "code": "526334",
-      "date": "2026-04-04",
-      "time": "11:00",
-      "team1": "PRAYON TROOZ A",
-      "team2": "ROYAL BC NINANE B",
-      "category": "U 10 - MM G",
-      "location": "PRAYON TROOZ A",
       "other": ""
     },
     {
@@ -176,16 +116,6 @@
       "other": ""
     },
     {
-      "code": "505325",
-      "date": "2026-04-04",
-      "time": "13:00",
-      "team1": "RBC DISON-ANDRIMONT B",
-      "team2": "PRAYON TROOZ B",
-      "category": "U 12 - MM F",
-      "location": "RBC DISON-ANDRIMONT B",
-      "other": ""
-    },
-    {
       "code": "505294",
       "date": "2026-04-11",
       "time": "15:30",
@@ -193,16 +123,6 @@
       "team2": "HENRI-CHAPELLE B",
       "category": "U 12 - MM F",
       "location": "PRAYON TROOZ B",
-      "other": ""
-    },
-    {
-      "code": "600324",
-      "date": "2026-04-04",
-      "time": "15:00",
-      "team1": "PRAYON TROOZ",
-      "team2": "RBC DISON-ANDRIMONT",
-      "category": "U 14 - DD A",
-      "location": "PRAYON TROOZ",
       "other": ""
     },
     {
@@ -226,16 +146,6 @@
       "other": ""
     },
     {
-      "code": "490324",
-      "date": "2026-04-04",
-      "time": "13:00",
-      "team1": "PRAYON TROOZ",
-      "team2": "RBC BLEGNY A",
-      "category": "U 14 - PROV MM A",
-      "location": "PRAYON TROOZ",
-      "other": ""
-    },
-    {
       "code": "490194",
       "date": "2026-04-11",
       "time": "13:30",
@@ -256,16 +166,6 @@
       "other": ""
     },
     {
-      "code": "591194",
-      "date": "2026-04-04",
-      "time": "13:00",
-      "team1": "LA VILLERSOISE",
-      "team2": "PRAYON TROOZ",
-      "category": "U 16 - DD B",
-      "location": "LA VILLERSOISE",
-      "other": ""
-    },
-    {
       "code": "591325",
       "date": "2026-04-12",
       "time": "9:00",
@@ -283,16 +183,6 @@
       "team2": "PRAYON TROOZ",
       "category": "U 16 - DD B",
       "location": "RBC AWANS A",
-      "other": ""
-    },
-    {
-      "code": "470233",
-      "date": "2026-04-05",
-      "time": "14:00",
-      "team1": "BCM HERSTAL",
-      "team2": "PRAYON TROOZ B",
-      "category": "U 16 - PROV MM A",
-      "location": "BCM HERSTAL",
       "other": ""
     },
     {
@@ -318,7 +208,7 @@
     {
       "code": "AW172009",
       "date": "2026-04-18",
-      "time": "15:45",
+      "time": "13:30",
       "team1": "BCCA NEUFCHATEAU",
       "team2": "PRAYON TROOZ",
       "category": "U 19 - SILVER REGIONALES A",

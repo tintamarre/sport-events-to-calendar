@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "417326",
-      "date": "2026-04-11",
-      "time": "19:00",
-      "team1": "R HT-PRE OUGREE B",
-      "team2": "UN HUY BASKET C",
-      "category": "DD - DIVISION 3 B",
-      "location": "R HT-PRE OUGREE B",
-      "other": ""
-    },
-    {
       "code": "417332",
       "date": "2026-04-19",
       "time": "11:45",
@@ -23,26 +13,6 @@
       "team2": "UN HUY BASKET C",
       "category": "DD - DIVISION 3 B",
       "location": "ROYAL BASKET OTHEE",
-      "other": ""
-    },
-    {
-      "code": "AW104066",
-      "date": "2026-04-02",
-      "time": "20:30",
-      "team1": "REBOND OTTIGNIES",
-      "team2": "UN HUY BASKET A",
-      "category": "DD - REGIONALE 1",
-      "location": "REBOND OTTIGNIES",
-      "other": ""
-    },
-    {
-      "code": "AW104115",
-      "date": "2026-04-05",
-      "time": "17:00",
-      "team1": "UN HUY BASKET A",
-      "team2": "GANSHOREN DAMES",
-      "category": "DD - REGIONALE 1",
-      "location": "UN HUY BASKET A",
       "other": ""
     },
     {
@@ -96,16 +66,6 @@
       "other": ""
     },
     {
-      "code": "406313",
-      "date": "2026-04-04",
-      "time": "20:00",
-      "team1": "UN HUY BASKET A",
-      "team2": "BC COINTE C",
-      "category": "MM - DIVISION 3 C",
-      "location": "UN HUY BASKET A",
-      "other": "(Hall de Villers-le-B.)"
-    },
-    {
       "code": "406325",
       "date": "2026-04-11",
       "time": "19:00",
@@ -124,16 +84,6 @@
       "category": "MM - DIVISION 3 C",
       "location": "UN HUY BASKET A",
       "other": "(Hall de Villers)"
-    },
-    {
-      "code": "410312",
-      "date": "2026-04-05",
-      "time": "15:30",
-      "team1": "BC TORES LIEGE",
-      "team2": "UN HUY BASKET B",
-      "category": "MM - DIVISION 4 D",
-      "location": "BC TORES LIEGE",
-      "other": ""
     },
     {
       "code": "410326",
@@ -166,16 +116,6 @@
       "other": ""
     },
     {
-      "code": "530194",
-      "date": "2026-04-04",
-      "time": "15:30",
-      "team1": "RBC HANEFFE A",
-      "team2": "UN HUY BASKET B",
-      "category": "U 10 - MM K",
-      "location": "RBC HANEFFE A",
-      "other": ""
-    },
-    {
       "code": "530325",
       "date": "2026-04-11",
       "time": "13:30",
@@ -187,22 +127,12 @@
     },
     {
       "code": "530334",
-      "date": "2026-04-18",
-      "time": "9:00",
+      "date": "2026-04-19",
+      "time": "15:00",
       "team1": "UN HUY BASKET B",
       "team2": "ROYAL BC WANZE B",
       "category": "U 10 - MM K",
       "location": "UN HUY BASKET B",
-      "other": ""
-    },
-    {
-      "code": "531194",
-      "date": "2026-04-04",
-      "time": "14:00",
-      "team1": "RBC HANEFFE B",
-      "team2": "UN HUY BASKET C",
-      "category": "U 10 - MM L",
-      "location": "RBC HANEFFE B",
       "other": ""
     },
     {

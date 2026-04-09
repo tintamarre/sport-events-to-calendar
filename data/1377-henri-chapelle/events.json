@@ -6,26 +6,6 @@
   },
   "events": [
     {
-      "code": "413276",
-      "date": "2026-04-02",
-      "time": "20:30",
-      "team1": "HANNUT BC",
-      "team2": "HENRI-CHAPELLE",
-      "category": "DD - DIVISION 1",
-      "location": "HANNUT BC",
-      "other": ""
-    },
-    {
-      "code": "413126",
-      "date": "2026-04-05",
-      "time": "11:00",
-      "team1": "HENRI-CHAPELLE",
-      "team2": "ROYAL HERVE-BATTICE C",
-      "category": "DD - DIVISION 1",
-      "location": "HENRI-CHAPELLE",
-      "other": ""
-    },
-    {
       "code": "413152",
       "date": "2026-04-12",
       "time": "15:00",
@@ -66,16 +46,6 @@
       "other": ""
     },
     {
-      "code": "418316",
-      "date": "2026-04-04",
-      "time": "17:00",
-      "team1": "RBC DISON-ANDRIMONT B",
-      "team2": "HENRI-CHAPELLE C",
-      "category": "DD - DIVISION 3 C",
-      "location": "RBC DISON-ANDRIMONT B",
-      "other": ""
-    },
-    {
       "code": "418321",
       "date": "2026-04-12",
       "time": "12:00",
@@ -87,8 +57,8 @@
     },
     {
       "code": "418307",
-      "date": "2026-04-14",
-      "time": "20:00",
+      "date": "2026-04-17",
+      "time": "20:30",
       "team1": "HENRI-CHAPELLE C",
       "team2": "DF BC MALMEDY",
       "category": "DD - DIVISION 3 C",
@@ -103,16 +73,6 @@
       "team2": "HENRI-CHAPELLE C",
       "category": "DD - DIVISION 3 C",
       "location": "RBC WELKENRAEDT",
-      "other": ""
-    },
-    {
-      "code": "401317",
-      "date": "2026-04-05",
-      "time": "13:00",
-      "team1": "HENRI-CHAPELLE A",
-      "team2": "RABC ENSIVAL A",
-      "category": "MM - DIVISION 1",
-      "location": "HENRI-CHAPELLE A",
       "other": ""
     },
     {
@@ -136,16 +96,6 @@
       "other": ""
     },
     {
-      "code": "404317",
-      "date": "2026-04-04",
-      "time": "18:30",
-      "team1": "HENRI-CHAPELLE B",
-      "team2": "ROYAL HERVE-BATTICE B",
-      "category": "MM - DIVISION 3 A",
-      "location": "HENRI-CHAPELLE B",
-      "other": ""
-    },
-    {
       "code": "404327",
       "date": "2026-04-11",
       "time": "18:30",
@@ -163,16 +113,6 @@
       "team2": "HENRI-CHAPELLE B",
       "category": "MM - DIVISION 3 A",
       "location": "RB TILFF C",
-      "other": ""
-    },
-    {
-      "code": "411317",
-      "date": "2026-04-04",
-      "time": "18:30",
-      "team1": "HENRI-CHAPELLE C",
-      "team2": "RBC STAVELOT C",
-      "category": "MM - DIVISION 4 E",
-      "location": "HENRI-CHAPELLE C",
       "other": ""
     },
     {
@@ -196,16 +136,6 @@
       "other": ""
     },
     {
-      "code": "524236",
-      "date": "2026-04-04",
-      "time": "10:30",
-      "team1": "HENRI-CHAPELLE B",
-      "team2": "BBC EUPEN",
-      "category": "U 10 - MM E",
-      "location": "HENRI-CHAPELLE B",
-      "other": ""
-    },
-    {
       "code": "524334",
       "date": "2026-04-19",
       "time": "15:30",
@@ -216,16 +146,6 @@
       "other": ""
     },
     {
-      "code": "500305",
-      "date": "2026-04-05",
-      "time": "9:00",
-      "team1": "ROYAL HERVE-BATTICE A",
-      "team2": "HENRI-CHAPELLE A",
-      "category": "U 12 - MM A",
-      "location": "ROYAL HERVE-BATTICE A",
-      "other": ""
-    },
-    {
       "code": "500323",
       "date": "2026-04-12",
       "time": "9:00",
@@ -233,16 +153,6 @@
       "team2": "HENRI-CHAPELLE A",
       "category": "U 12 - MM A",
       "location": "RBC VISE A",
-      "other": ""
-    },
-    {
-      "code": "505273",
-      "date": "2026-04-04",
-      "time": "10:30",
-      "team1": "BCM HERSTAL A",
-      "team2": "HENRI-CHAPELLE B",
-      "category": "U 12 - MM F",
-      "location": "BCM HERSTAL A",
       "other": ""
     },
     {
@@ -286,16 +196,6 @@
       "other": ""
     },
     {
-      "code": "600236",
-      "date": "2026-04-05",
-      "time": "16:00",
-      "team1": "BCM HERSTAL",
-      "team2": "HENRI-CHAPELLE",
-      "category": "U 14 - DD A",
-      "location": "BCM HERSTAL",
-      "other": ""
-    },
-    {
       "code": "600326",
       "date": "2026-04-11",
       "time": "10:30",
@@ -336,16 +236,6 @@
       "other": ""
     },
     {
-      "code": "450116",
-      "date": "2026-04-04",
-      "time": "14:30",
-      "team1": "HENRI-CHAPELLE",
-      "team2": "ROYAL MOSA AC 1941",
-      "category": "U 16 - ELITES MM A",
-      "location": "HENRI-CHAPELLE",
-      "other": ""
-    },
-    {
       "code": "450321",
       "date": "2026-04-11",
       "time": "13:00",
@@ -362,16 +252,6 @@
       "team1": "HENRI-CHAPELLE",
       "team2": "BC VERVIERS B",
       "category": "U 16 - ELITES MM A",
-      "location": "HENRI-CHAPELLE",
-      "other": ""
-    },
-    {
-      "code": "AW172006",
-      "date": "2026-04-04",
-      "time": "12:30",
-      "team1": "HENRI-CHAPELLE",
-      "team2": "NAMUR CAPITALE",
-      "category": "U 19 - SILVER REGIONALES A",
       "location": "HENRI-CHAPELLE",
       "other": ""
     },

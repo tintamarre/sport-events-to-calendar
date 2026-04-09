@@ -6,19 +6,9 @@
   },
   "events": [
     {
-      "code": "414316",
-      "date": "2026-04-05",
-      "time": "17:00",
-      "team1": "ROYAL BC NINANE A",
-      "team2": "COLLEGE S LOUIS",
-      "category": "DD - DIVISION 2 A",
-      "location": "ROYAL BC NINANE A",
-      "other": "(Vaux/Chèvremont)"
-    },
-    {
       "code": "414322",
-      "date": "2026-04-11",
-      "time": "17:00",
+      "date": "2026-04-15",
+      "time": "19:00",
       "team1": "RBC STAVELOT",
       "team2": "ROYAL BC NINANE A",
       "category": "DD - DIVISION 2 A",
@@ -36,16 +26,6 @@
       "other": "(Vaux/Chèvremont)"
     },
     {
-      "code": "415316",
-      "date": "2026-04-05",
-      "time": "13:00",
-      "team1": "ROYAL BC NINANE B",
-      "team2": "RBC ALLEUR D",
-      "category": "DD - DIVISION 2 B",
-      "location": "ROYAL BC NINANE B",
-      "other": "(Vaux/Chèvremont)"
-    },
-    {
       "code": "415336",
       "date": "2026-04-18",
       "time": "19:00",
@@ -54,16 +34,6 @@
       "category": "DD - DIVISION 2 B",
       "location": "ROYAL BC NINANE B",
       "other": "(Vaux/Chèvremont)"
-    },
-    {
-      "code": "405311",
-      "date": "2026-04-04",
-      "time": "21:00",
-      "team1": "HARIMALIA BC D",
-      "team2": "ROYAL BC NINANE C",
-      "category": "MM - DIVISION 3 B",
-      "location": "HARIMALIA BC D",
-      "other": ""
     },
     {
       "code": "405326",
@@ -84,16 +54,6 @@
       "category": "MM - DIVISION 3 B",
       "location": "BC OLNE",
       "other": ""
-    },
-    {
-      "code": "407316",
-      "date": "2026-04-05",
-      "time": "15:00",
-      "team1": "ROYAL BC NINANE D",
-      "team2": "ORP JAUCHE A",
-      "category": "MM - DIVISION 4 A",
-      "location": "ROYAL BC NINANE D",
-      "other": "(Vaux/Chèvremont)"
     },
     {
       "code": "407322",
@@ -133,16 +93,6 @@
       "team2": "ROYAL BC NINANE F",
       "category": "MM - DIVISION 4 B",
       "location": "ROYAL ANS BC B",
-      "other": ""
-    },
-    {
-      "code": "409311",
-      "date": "2026-04-04",
-      "time": "19:00",
-      "team1": "HARIMALIA BC F",
-      "team2": "ROYAL BC NINANE E",
-      "category": "MM - DIVISION 4 C",
-      "location": "HARIMALIA BC F",
       "other": ""
     },
     {
@@ -226,16 +176,6 @@
       "other": ""
     },
     {
-      "code": "526334",
-      "date": "2026-04-04",
-      "time": "11:00",
-      "team1": "PRAYON TROOZ A",
-      "team2": "ROYAL BC NINANE B",
-      "category": "U 10 - MM G",
-      "location": "PRAYON TROOZ A",
-      "other": ""
-    },
-    {
       "code": "526321",
       "date": "2026-04-12",
       "time": "11:00",
@@ -283,16 +223,6 @@
       "team2": "BC BELLEFLAMME C",
       "category": "U 12 - MM E",
       "location": "ROYAL BC NINANE B",
-      "other": ""
-    },
-    {
-      "code": "481236",
-      "date": "2026-04-04",
-      "time": "16:00",
-      "team1": "ROYAL BC WANZE",
-      "team2": "ROYAL BC NINANE A",
-      "category": "U 14 - ELITES MM B",
-      "location": "ROYAL BC WANZE",
       "other": ""
     },
     {
@@ -366,16 +296,6 @@
       "other": ""
     },
     {
-      "code": "432066",
-      "date": "2026-04-04",
-      "time": "17:00",
-      "team1": "ORP JAUCHE",
-      "team2": "ROYAL BC NINANE A",
-      "category": "U 18 - ELITES MM C",
-      "location": "ORP JAUCHE",
-      "other": ""
-    },
-    {
       "code": "432321",
       "date": "2026-04-12",
       "time": "15:00",
@@ -388,22 +308,12 @@
     {
       "code": "432334",
       "date": "2026-04-19",
-      "time": "16:00",
+      "time": "16:45",
       "team1": "RBC ESNEUX",
       "team2": "ROYAL BC NINANE A",
       "category": "U 18 - ELITES MM C",
       "location": "RBC ESNEUX",
-      "other": ""
-    },
-    {
-      "code": "440316",
-      "date": "2026-04-04",
-      "time": "10:00",
-      "team1": "BBC EUPEN B",
-      "team2": "ROYAL BC NINANE B",
-      "category": "U 18 - PROV MM",
-      "location": "BBC EUPEN B",
-      "other": ""
+      "other": "(collège st louis)"
     },
     {
       "code": "440337",

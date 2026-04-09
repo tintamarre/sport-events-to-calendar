@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "413317",
-      "date": "2026-04-03",
-      "time": "19:00",
-      "team1": "RBC BLEGNY A",
-      "team2": "PEPINSTER EAST BELG B",
-      "category": "DD - DIVISION 1",
-      "location": "RBC BLEGNY A",
-      "other": ""
-    },
-    {
       "code": "413322",
       "date": "2026-04-11",
       "time": "17:00",
@@ -33,26 +23,6 @@
       "team2": "PEPINSTER EAST BELG B",
       "category": "DD - DIVISION 1",
       "location": "BC SPRIMONT A",
-      "other": ""
-    },
-    {
-      "code": "415317",
-      "date": "2026-04-04",
-      "time": "17:00",
-      "team1": "ABC WAREMME B",
-      "team2": "PEPINSTER EAST BELG C",
-      "category": "DD - DIVISION 2 B",
-      "location": "ABC WAREMME B",
-      "other": ""
-    },
-    {
-      "code": "415162",
-      "date": "2026-04-06",
-      "time": "20:00",
-      "team1": "PEPINSTER EAST BELG C",
-      "team2": "AVENIR JUPILLE B",
-      "category": "DD - DIVISION 2 B",
-      "location": "PEPINSTER EAST BELG C",
       "other": ""
     },
     {
@@ -106,16 +76,6 @@
       "other": ""
     },
     {
-      "code": "403317",
-      "date": "2026-04-05",
-      "time": "13:00",
-      "team1": "RBC ALLEUR B",
-      "team2": "PEPINSTER EAST BELG C",
-      "category": "MM - DIVISION 2 B",
-      "location": "RBC ALLEUR B",
-      "other": ""
-    },
-    {
       "code": "403322",
       "date": "2026-04-11",
       "time": "19:00",
@@ -136,16 +96,6 @@
       "other": ""
     },
     {
-      "code": "408317",
-      "date": "2026-04-05",
-      "time": "10:00",
-      "team1": "BCM HERSTAL B",
-      "team2": "PEPINSTER EAST BELG D",
-      "category": "MM - DIVISION 4 B",
-      "location": "BCM HERSTAL B",
-      "other": ""
-    },
-    {
       "code": "408332",
       "date": "2026-04-19",
       "time": "17:00",
@@ -153,16 +103,6 @@
       "team2": "PEPINSTER EAST BELG D",
       "category": "MM - DIVISION 4 B",
       "location": "THEUX BC D",
-      "other": ""
-    },
-    {
-      "code": "AW103170",
-      "date": "2026-04-04",
-      "time": "19:00",
-      "team1": "PEPINSTER EAST BELG B",
-      "team2": "OLYMPIC MSM",
-      "category": "MM - REGIONALE 2 B",
-      "location": "PEPINSTER EAST BELG B",
       "other": ""
     },
     {
@@ -196,16 +136,6 @@
       "other": ""
     },
     {
-      "code": "520332",
-      "date": "2026-04-05",
-      "time": "9:00",
-      "team1": "PEPINSTER EAST BELG D",
-      "team2": "BC BELLEFLAMME A",
-      "category": "U 10 - MM A",
-      "location": "PEPINSTER EAST BELG D",
-      "other": ""
-    },
-    {
       "code": "520322",
       "date": "2026-04-11",
       "time": "9:00",
@@ -226,16 +156,6 @@
       "other": ""
     },
     {
-      "code": "526292",
-      "date": "2026-04-04",
-      "time": "11:00",
-      "team1": "PEPINSTER EAST BELG C",
-      "team2": "R 4A AYWAILLE-HAMOIR B",
-      "category": "U 10 - MM G",
-      "location": "PEPINSTER EAST BELG C",
-      "other": ""
-    },
-    {
       "code": "527323",
       "date": "2026-04-11",
       "time": "12:00",
@@ -246,16 +166,6 @@
       "other": ""
     },
     {
-      "code": "505292",
-      "date": "2026-04-04",
-      "time": "9:00",
-      "team1": "PEPINSTER EAST BELG A",
-      "team2": "R HT-PRE OUGREE B",
-      "category": "U 12 - MM F",
-      "location": "PEPINSTER EAST BELG A",
-      "other": ""
-    },
-    {
       "code": "505322",
       "date": "2026-04-11",
       "time": "11:00",
@@ -263,36 +173,6 @@
       "team2": "PEPINSTER EAST BELG A",
       "category": "U 12 - MM F",
       "location": "RABC ENSIVAL A",
-      "other": ""
-    },
-    {
-      "code": "506292",
-      "date": "2026-04-04",
-      "time": "11:00",
-      "team1": "PEPINSTER EAST BELG B",
-      "team2": "R 4A AYWAILLE-HAMOIR B",
-      "category": "U 12 - MM G",
-      "location": "PEPINSTER EAST BELG B",
-      "other": ""
-    },
-    {
-      "code": "491292",
-      "date": "2026-04-04",
-      "time": "15:00",
-      "team1": "PEPINSTER EAST BELG",
-      "team2": "RBC AUBEL",
-      "category": "U 14 - PROV MM B",
-      "location": "PEPINSTER EAST BELG",
-      "other": ""
-    },
-    {
-      "code": "491332",
-      "date": "2026-04-05",
-      "time": "11:00",
-      "team1": "PEPINSTER EAST BELG",
-      "team2": "VAIL. JUPILLE",
-      "category": "U 14 - PROV MM B",
-      "location": "PEPINSTER EAST BELG",
       "other": ""
     },
     {
@@ -313,16 +193,6 @@
       "team2": "PEPINSTER EAST BELG",
       "category": "U 14 - SILVER REGIONAUX G",
       "location": "PROFONDEVILLE SHARKS",
-      "other": ""
-    },
-    {
-      "code": "470292",
-      "date": "2026-04-04",
-      "time": "13:00",
-      "team1": "PEPINSTER EAST BELG B",
-      "team2": "ATLAS A JUPILLE B",
-      "category": "U 16 - PROV MM A",
-      "location": "PEPINSTER EAST BELG B",
       "other": ""
     },
     {
@@ -382,16 +252,6 @@
       "team1": "PEPINSTER EAST BELG",
       "team2": "UN HUY BASKET B",
       "category": "U 18 - ELITES MM B",
-      "location": "PEPINSTER EAST BELG",
-      "other": ""
-    },
-    {
-      "code": "580332",
-      "date": "2026-04-05",
-      "time": "13:00",
-      "team1": "PEPINSTER EAST BELG",
-      "team2": "RBC AWANS",
-      "category": "U 19 - DD A",
       "location": "PEPINSTER EAST BELG",
       "other": ""
     },
@@ -456,16 +316,6 @@
       "other": ""
     },
     {
-      "code": "552322",
-      "date": "2026-04-04",
-      "time": "9:00",
-      "team1": "PEPINSTER EAST BELG C",
-      "team2": "BC SPRIMONT B",
-      "category": "U 7 - MM C",
-      "location": "PEPINSTER EAST BELG C",
-      "other": ""
-    },
-    {
       "code": "552333",
       "date": "2026-04-19",
       "time": "16:00",
@@ -474,16 +324,6 @@
       "category": "U 7 - MM C",
       "location": "RBC VISE",
       "other": "(Salle de Fourons)"
-    },
-    {
-      "code": "541142",
-      "date": "2026-04-05",
-      "time": "9:00",
-      "team1": "PEPINSTER EAST BELG A",
-      "team2": "BC VERVIERS",
-      "category": "U 8 - MM B",
-      "location": "PEPINSTER EAST BELG A",
-      "other": ""
     },
     {
       "code": "541322",
