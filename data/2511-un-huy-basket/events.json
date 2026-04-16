@@ -6,26 +6,6 @@
   },
   "events": [
     {
-      "code": "417332",
-      "date": "2026-04-19",
-      "time": "11:45",
-      "team1": "ROYAL BASKET OTHEE",
-      "team2": "UN HUY BASKET C",
-      "category": "DD - DIVISION 3 B",
-      "location": "ROYAL BASKET OTHEE",
-      "other": ""
-    },
-    {
-      "code": "AW104171",
-      "date": "2026-04-11",
-      "time": "18:00",
-      "team1": "UN HUY BASKET A",
-      "team2": "BCCA NEUFCHATEAU",
-      "category": "DD - REGIONALE 1",
-      "location": "UN HUY BASKET A",
-      "other": ""
-    },
-    {
       "code": "AW104165",
       "date": "2026-04-25",
       "time": "17:00",
@@ -33,16 +13,6 @@
       "team2": "UN HUY BASKET A",
       "category": "DD - REGIONALE 1",
       "location": "HERVE-BATTICE A",
-      "other": ""
-    },
-    {
-      "code": "AW106171",
-      "date": "2026-04-11",
-      "time": "20:00",
-      "team1": "UN HUY BASKET B",
-      "team2": "BC COINTE A",
-      "category": "DD - REGIONALE 2 B",
-      "location": "UN HUY BASKET B",
       "other": ""
     },
     {
@@ -66,16 +36,6 @@
       "other": ""
     },
     {
-      "code": "406325",
-      "date": "2026-04-11",
-      "time": "19:00",
-      "team1": "CRISTAL SGH B",
-      "team2": "UN HUY BASKET A",
-      "category": "MM - DIVISION 3 C",
-      "location": "CRISTAL SGH B",
-      "other": ""
-    },
-    {
       "code": "406333",
       "date": "2026-04-18",
       "time": "21:00",
@@ -86,16 +46,6 @@
       "other": "(Hall de Villers)"
     },
     {
-      "code": "410326",
-      "date": "2026-04-11",
-      "time": "19:00",
-      "team1": "GIANTS BRAIVES B",
-      "team2": "UN HUY BASKET B",
-      "category": "MM - DIVISION 4 D",
-      "location": "GIANTS BRAIVES B",
-      "other": ""
-    },
-    {
       "code": "410332",
       "date": "2026-04-19",
       "time": "9:45",
@@ -103,26 +53,6 @@
       "team2": "UN HUY BASKET B",
       "category": "MM - DIVISION 4 D",
       "location": "ROYAL BASKET OTHEE",
-      "other": ""
-    },
-    {
-      "code": "522322",
-      "date": "2026-04-12",
-      "time": "10:30",
-      "team1": "BC SPRIMONT B",
-      "team2": "UN HUY BASKET A",
-      "category": "U 10 - MM C",
-      "location": "BC SPRIMONT B",
-      "other": ""
-    },
-    {
-      "code": "530325",
-      "date": "2026-04-11",
-      "time": "13:30",
-      "team1": "ROYAL MOSA AC 1941",
-      "team2": "UN HUY BASKET B",
-      "category": "U 10 - MM K",
-      "location": "ROYAL MOSA AC 1941",
       "other": ""
     },
     {
@@ -136,33 +66,13 @@
       "other": ""
     },
     {
-      "code": "531325",
-      "date": "2026-04-11",
-      "time": "11:00",
-      "team1": "CRISTAL SGH A",
-      "team2": "UN HUY BASKET C",
-      "category": "U 10 - MM L",
-      "location": "CRISTAL SGH A",
-      "other": ""
-    },
-    {
       "code": "531334",
-      "date": "2026-04-18",
-      "time": "11:00",
+      "date": "2026-04-19",
+      "time": "13:00",
       "team1": "UN HUY BASKET C",
       "team2": "HANNUT BC",
       "category": "U 10 - MM L",
       "location": "UN HUY BASKET C",
-      "other": ""
-    },
-    {
-      "code": "508323",
-      "date": "2026-04-12",
-      "time": "12:00",
-      "team1": "VAIL. JUPILLE",
-      "team2": "UN HUY BASKET C",
-      "category": "U 12 - MM I",
-      "location": "VAIL. JUPILLE",
       "other": ""
     },
     {
@@ -182,16 +92,6 @@
       "team1": "UN HUY BASKET",
       "team2": "RBC AWANS",
       "category": "U 14 - DD B",
-      "location": "UN HUY BASKET",
-      "other": ""
-    },
-    {
-      "code": "472323",
-      "date": "2026-04-11",
-      "time": "15:00",
-      "team1": "UN HUY BASKET",
-      "team2": "R.UN.BELLAIRE",
-      "category": "U 16 - PROV MM C",
       "location": "UN HUY BASKET",
       "other": ""
     },
@@ -216,33 +116,13 @@
       "other": ""
     },
     {
-      "code": "553324",
-      "date": "2026-04-11",
-      "time": "9:00",
-      "team1": "UN HUY BASKET",
-      "team2": "ABC WAREMME A",
-      "category": "U 7 - MM D",
-      "location": "UN HUY BASKET",
-      "other": ""
-    },
-    {
       "code": "553336",
       "date": "2026-04-18",
-      "time": "12:15",
+      "time": "10:30",
       "team1": "ALL. FLEMALLE A",
       "team2": "UN HUY BASKET",
       "category": "U 7 - MM D",
       "location": "ALL. FLEMALLE A",
-      "other": ""
-    },
-    {
-      "code": "545325",
-      "date": "2026-04-11",
-      "time": "10:15",
-      "team1": "R 4A AYWAILLE-HAMOIR A",
-      "team2": "UN HUY BASKET",
-      "category": "U 8 - MM F",
-      "location": "R 4A AYWAILLE-HAMOIR A",
       "other": ""
     }
   ]

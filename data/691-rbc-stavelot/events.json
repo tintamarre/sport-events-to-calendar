@@ -6,36 +6,6 @@
   },
   "events": [
     {
-      "code": "414245",
-      "date": "2026-04-09",
-      "time": "21:00",
-      "team1": "ABC WAREMME A",
-      "team2": "RBC STAVELOT",
-      "category": "DD - DIVISION 2 A",
-      "location": "ABC WAREMME A",
-      "other": "(Pôle Ballons)"
-    },
-    {
-      "code": "414291",
-      "date": "2026-04-14",
-      "time": "19:30",
-      "team1": "ALL. FLEMALLE A",
-      "team2": "RBC STAVELOT",
-      "category": "DD - DIVISION 2 A",
-      "location": "ALL. FLEMALLE A",
-      "other": ""
-    },
-    {
-      "code": "414322",
-      "date": "2026-04-15",
-      "time": "19:00",
-      "team1": "RBC STAVELOT",
-      "team2": "ROYAL BC NINANE A",
-      "category": "DD - DIVISION 2 A",
-      "location": "RBC STAVELOT",
-      "other": ""
-    },
-    {
       "code": "414332",
       "date": "2026-04-18",
       "time": "19:00",
@@ -43,16 +13,6 @@
       "team2": "RBC STAVELOT",
       "category": "DD - DIVISION 2 A",
       "location": "BC SPRIMONT B",
-      "other": ""
-    },
-    {
-      "code": "402322",
-      "date": "2026-04-12",
-      "time": "9:30",
-      "team1": "RBC STAVELOT A",
-      "team2": "ESL UNITED E",
-      "category": "MM - DIVISION 2 A",
-      "location": "RBC STAVELOT A",
       "other": ""
     },
     {
@@ -66,16 +26,6 @@
       "other": ""
     },
     {
-      "code": "406322",
-      "date": "2026-04-15",
-      "time": "21:00",
-      "team1": "RBC STAVELOT B",
-      "team2": "BBC EUPEN",
-      "category": "MM - DIVISION 3 C",
-      "location": "RBC STAVELOT B",
-      "other": ""
-    },
-    {
       "code": "406332",
       "date": "2026-04-19",
       "time": "11:00",
@@ -83,16 +33,6 @@
       "team2": "RBC STAVELOT B",
       "category": "MM - DIVISION 3 C",
       "location": "THEUX BC B",
-      "other": ""
-    },
-    {
-      "code": "411322",
-      "date": "2026-04-13",
-      "time": "21:00",
-      "team1": "RBC STAVELOT C",
-      "team2": "DF BC MALMEDY",
-      "category": "MM - DIVISION 4 E",
-      "location": "RBC STAVELOT C",
       "other": ""
     },
     {
@@ -106,16 +46,6 @@
       "other": ""
     },
     {
-      "code": "520322",
-      "date": "2026-04-11",
-      "time": "9:00",
-      "team1": "RBC STAVELOT A",
-      "team2": "PEPINSTER EAST BELG D",
-      "category": "U 10 - MM A",
-      "location": "RBC STAVELOT A",
-      "other": ""
-    },
-    {
       "code": "520333",
       "date": "2026-04-18",
       "time": "10:00",
@@ -123,26 +53,6 @@
       "team2": "RBC STAVELOT A",
       "category": "U 10 - MM A",
       "location": "RSW LIEGE BASKET",
-      "other": ""
-    },
-    {
-      "code": "524322",
-      "date": "2026-04-11",
-      "time": "10:30",
-      "team1": "RBC STAVELOT B",
-      "team2": "THEUX BC B",
-      "category": "U 10 - MM E",
-      "location": "RBC STAVELOT B",
-      "other": ""
-    },
-    {
-      "code": "610322",
-      "date": "2026-04-11",
-      "time": "12:30",
-      "team1": "RBC STAVELOT",
-      "team2": "RABC ENSIVAL",
-      "category": "U 12 - DD",
-      "location": "RBC STAVELOT",
       "other": ""
     },
     {
@@ -156,36 +66,6 @@
       "other": ""
     },
     {
-      "code": "504322",
-      "date": "2026-04-11",
-      "time": "10:30",
-      "team1": "RBC STAVELOT A",
-      "team2": "THEUX BC A",
-      "category": "U 12 - MM E",
-      "location": "RBC STAVELOT A",
-      "other": ""
-    },
-    {
-      "code": "490322",
-      "date": "2026-04-11",
-      "time": "14:30",
-      "team1": "RBC STAVELOT",
-      "team2": "THEUX BC B",
-      "category": "U 14 - PROV MM A",
-      "location": "RBC STAVELOT",
-      "other": ""
-    },
-    {
-      "code": "471322",
-      "date": "2026-04-12",
-      "time": "13:30",
-      "team1": "RBC STAVELOT",
-      "team2": "RBC BLEGNY",
-      "category": "U 16 - PROV MM B",
-      "location": "RBC STAVELOT",
-      "other": ""
-    },
-    {
       "code": "471333",
       "date": "2026-04-19",
       "time": "17:00",
@@ -193,26 +73,6 @@
       "team2": "RBC STAVELOT",
       "category": "U 16 - PROV MM B",
       "location": "HARIMALIA BC B",
-      "other": ""
-    },
-    {
-      "code": "440323",
-      "date": "2026-04-12",
-      "time": "11:30",
-      "team1": "RBC STAVELOT",
-      "team2": "ROYAL ANS BC B",
-      "category": "U 18 - PROV MM",
-      "location": "RBC STAVELOT",
-      "other": ""
-    },
-    {
-      "code": "540322",
-      "date": "2026-04-11",
-      "time": "9:00",
-      "team1": "RBC STAVELOT",
-      "team2": "THEUX BC",
-      "category": "U 8 - MM A",
-      "location": "RBC STAVELOT",
       "other": ""
     },
     {

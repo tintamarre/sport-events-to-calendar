@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "401322",
-      "date": "2026-04-11",
-      "time": "20:30",
-      "team1": "RABC ENSIVAL A",
-      "team2": "ESL UNITED C",
-      "category": "MM - DIVISION 1",
-      "location": "RABC ENSIVAL A",
-      "other": ""
-    },
-    {
       "code": "401336",
       "date": "2026-04-17",
       "time": "19:00",
@@ -23,16 +13,6 @@
       "team2": "BC BELLEFLAMME B",
       "category": "MM - DIVISION 1",
       "location": "ESL UNITED C",
-      "other": ""
-    },
-    {
-      "code": "402322",
-      "date": "2026-04-12",
-      "time": "9:30",
-      "team1": "RBC STAVELOT A",
-      "team2": "ESL UNITED E",
-      "category": "MM - DIVISION 2 A",
-      "location": "RBC STAVELOT A",
       "other": ""
     },
     {
@@ -46,26 +26,6 @@
       "other": ""
     },
     {
-      "code": "403324",
-      "date": "2026-04-12",
-      "time": "14:00",
-      "team1": "ESL UNITED D",
-      "team2": "PRAYON TROOZ A",
-      "category": "MM - DIVISION 2 B",
-      "location": "ESL UNITED D",
-      "other": ""
-    },
-    {
-      "code": "406327",
-      "date": "2026-04-12",
-      "time": "12:30",
-      "team1": "ESL UNITED F",
-      "team2": "RBC WELKENRAEDT A",
-      "category": "MM - DIVISION 3 C",
-      "location": "ESL UNITED F",
-      "other": ""
-    },
-    {
       "code": "406334",
       "date": "2026-04-19",
       "time": "11:30",
@@ -76,29 +36,9 @@
       "other": ""
     },
     {
-      "code": "AW101172",
-      "date": "2026-04-11",
-      "time": "19:30",
-      "team1": "BC VERVIERS A",
-      "team2": "ESL UNITED B",
-      "category": "MM - REGIONALE 1",
-      "location": "BC VERVIERS A",
-      "other": ""
-    },
-    {
-      "code": "AW101122",
-      "date": "2026-04-15",
-      "time": "20:30",
-      "team1": "RPC ANDERLECHT",
-      "team2": "ESL UNITED B",
-      "category": "MM - REGIONALE 1",
-      "location": "RPC ANDERLECHT",
-      "other": ""
-    },
-    {
       "code": "AW101179",
-      "date": "2026-04-17",
-      "time": "21:00",
+      "date": "2026-04-23",
+      "time": "20:00",
       "team1": "ESL UNITED B",
       "team2": "BB GEMBLOUX",
       "category": "MM - REGIONALE 1",
@@ -116,16 +56,6 @@
       "other": ""
     },
     {
-      "code": "NAHSE21BGH",
-      "date": "2026-04-12",
-      "time": "16:00",
-      "team1": "ESL UNITED A",
-      "team2": "R.B.C. BELGRADE",
-      "category": "TOP DIVISION MEN 2 B",
-      "location": "ESL UNITED A",
-      "other": ""
-    },
-    {
       "code": "NAHSE21BNG",
       "date": "2026-04-19",
       "time": "18:00",
@@ -133,16 +63,6 @@
       "team2": "ESL UNITED A",
       "category": "TOP DIVISION MEN 2 B",
       "location": "STEVOORT BBC",
-      "other": ""
-    },
-    {
-      "code": "AW161017",
-      "date": "2026-04-12",
-      "time": "9:00",
-      "team1": "BC SPRIMONT",
-      "team2": "ESL UNITED",
-      "category": "U 14 - GOLD REGIONAUX A",
-      "location": "BC SPRIMONT",
       "other": ""
     },
     {
@@ -176,16 +96,6 @@
       "other": ""
     },
     {
-      "code": "AW150017",
-      "date": "2026-04-11",
-      "time": "16:30",
-      "team1": "CANTER SCHAERBEEK",
-      "team2": "ESL UNITED",
-      "category": "U 18 - GOLD REGIONAUX A",
-      "location": "CANTER SCHAERBEEK",
-      "other": ""
-    },
-    {
       "code": "AW150007",
       "date": "2026-04-19",
       "time": "9:00",
@@ -193,16 +103,6 @@
       "team2": "DPK CARNIERES",
       "category": "U 18 - GOLD REGIONAUX A",
       "location": "ESL UNITED",
-      "other": ""
-    },
-    {
-      "code": "INJ2112BCF",
-      "date": "2026-04-11",
-      "time": "11:00",
-      "team1": "ROYAL IV BRUSSELS",
-      "team2": "ESL UNITED",
-      "category": "U 21 MM - NATIONAUX B",
-      "location": "ROYAL IV BRUSSELS",
       "other": ""
     }
   ]
