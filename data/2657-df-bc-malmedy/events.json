@@ -6,33 +6,1303 @@
   },
   "events": [
     {
-      "code": "418307",
-      "date": "2026-04-17",
-      "time": "20:30",
+      "code": "417012",
+      "date": "2026-09-05",
+      "time": "18:30",
+      "team1": "DF BC MALMEDY",
+      "team2": "RBC AWANS B",
+      "category": "DD - DIVISION 3 B",
+      "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "417023",
+      "date": "2026-09-12",
+      "time": "18:00",
+      "team1": "RBC ESNEUX C",
+      "team2": "DF BC MALMEDY",
+      "category": "DD - DIVISION 3 B",
+      "location": "RBC ESNEUX C",
+      "other": ""
+    },
+    {
+      "code": "417036",
+      "date": "2026-09-19",
+      "time": "17:00",
+      "team1": "R 4A AYWAILLE-HAMOIR B",
+      "team2": "DF BC MALMEDY",
+      "category": "DD - DIVISION 3 B",
+      "location": "R 4A AYWAILLE-HAMOIR B",
+      "other": ""
+    },
+    {
+      "code": "417052",
+      "date": "2026-10-03",
+      "time": "18:30",
+      "team1": "DF BC MALMEDY",
+      "team2": "MAIL. COMBLAIN",
+      "category": "DD - DIVISION 3 B",
+      "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "417062",
+      "date": "2026-10-11",
+      "time": "16:30",
+      "team1": "CS OUTREMEUSE",
+      "team2": "DF BC MALMEDY",
+      "category": "DD - DIVISION 3 B",
+      "location": "CS OUTREMEUSE",
+      "other": ""
+    },
+    {
+      "code": "417105",
+      "date": "2026-11-07",
+      "time": "18:30",
+      "team1": "BCM HERSTAL",
+      "team2": "DF BC MALMEDY",
+      "category": "DD - DIVISION 3 B",
+      "location": "BCM HERSTAL",
+      "other": ""
+    },
+    {
+      "code": "417112",
+      "date": "2026-11-14",
+      "time": "18:30",
+      "team1": "DF BC MALMEDY",
+      "team2": "HENRI-CHAPELLE C",
+      "category": "DD - DIVISION 3 B",
+      "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "417121",
+      "date": "2026-11-21",
+      "time": "18:30",
       "team1": "HENRI-CHAPELLE C",
       "team2": "DF BC MALMEDY",
-      "category": "DD - DIVISION 3 C",
+      "category": "DD - DIVISION 3 B",
       "location": "HENRI-CHAPELLE C",
       "other": ""
     },
     {
-      "code": "524332",
-      "date": "2026-04-19",
+      "code": "417142",
+      "date": "2026-12-05",
+      "time": "18:30",
+      "team1": "DF BC MALMEDY",
+      "team2": "RBC DISON-ANDRIMONT B",
+      "category": "DD - DIVISION 3 B",
+      "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "417152",
+      "date": "2026-12-12",
+      "time": "18:30",
+      "team1": "DF BC MALMEDY",
+      "team2": "CS OUTREMEUSE",
+      "category": "DD - DIVISION 3 B",
+      "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "417163",
+      "date": "2026-12-19",
+      "time": "19:00",
+      "team1": "ATLAS A JUPILLE B",
+      "team2": "DF BC MALMEDY",
+      "category": "DD - DIVISION 3 B",
+      "location": "ATLAS A JUPILLE B",
+      "other": ""
+    },
+    {
+      "code": "417192",
+      "date": "2027-01-09",
+      "time": "18:30",
+      "team1": "DF BC MALMEDY",
+      "team2": "R 4A AYWAILLE-HAMOIR B",
+      "category": "DD - DIVISION 3 B",
+      "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "417201",
+      "date": "2027-01-16",
+      "time": "21:00",
+      "team1": "RBC AWANS B",
+      "team2": "DF BC MALMEDY",
+      "category": "DD - DIVISION 3 B",
+      "location": "RBC AWANS B",
+      "other": ""
+    },
+    {
+      "code": "417215",
+      "date": "2027-01-23",
+      "time": "18:30",
+      "team1": "ABC WAREMME C",
+      "team2": "DF BC MALMEDY",
+      "category": "DD - DIVISION 3 B",
+      "location": "ABC WAREMME C",
+      "other": ""
+    },
+    {
+      "code": "417222",
+      "date": "2027-01-30",
+      "time": "18:30",
+      "team1": "DF BC MALMEDY",
+      "team2": "RBC ESNEUX C",
+      "category": "DD - DIVISION 3 B",
+      "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "417244",
+      "date": "2027-02-12",
+      "time": "20:00",
+      "team1": "MAIL. COMBLAIN",
+      "team2": "DF BC MALMEDY",
+      "category": "DD - DIVISION 3 B",
+      "location": "MAIL. COMBLAIN",
+      "other": ""
+    },
+    {
+      "code": "417256",
+      "date": "2027-02-20",
+      "time": "17:00",
+      "team1": "RBC DISON-ANDRIMONT B",
+      "team2": "DF BC MALMEDY",
+      "category": "DD - DIVISION 3 B",
+      "location": "RBC DISON-ANDRIMONT B",
+      "other": ""
+    },
+    {
+      "code": "417292",
+      "date": "2027-03-20",
+      "time": "18:30",
+      "team1": "DF BC MALMEDY",
+      "team2": "BCM HERSTAL",
+      "category": "DD - DIVISION 3 B",
+      "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "417302",
+      "date": "2027-03-27",
+      "time": "18:30",
+      "team1": "DF BC MALMEDY",
+      "team2": "ABC WAREMME C",
+      "category": "DD - DIVISION 3 B",
+      "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "417322",
+      "date": "2027-04-10",
+      "time": "18:30",
+      "team1": "DF BC MALMEDY",
+      "team2": "ATLAS A JUPILLE B",
+      "category": "DD - DIVISION 3 B",
+      "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "407012",
+      "date": "2026-09-04",
+      "time": "20:30",
+      "team1": "DF BC MALMEDY",
+      "team2": "ROYAL SPA BC D",
+      "category": "MM - DIVISION 4 A",
+      "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "407037",
+      "date": "2026-09-19",
+      "time": "19:00",
+      "team1": "R 4A AYWAILLE-HAMOIR D",
+      "team2": "DF BC MALMEDY",
+      "category": "MM - DIVISION 4 A",
+      "location": "R 4A AYWAILLE-HAMOIR D",
+      "other": "(Hall d'Hamoir)"
+    },
+    {
+      "code": "407052",
+      "date": "2026-10-02",
+      "time": "20:30",
+      "team1": "DF BC MALMEDY",
+      "team2": "RABC ENSIVAL D",
+      "category": "MM - DIVISION 4 A",
+      "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "407065",
+      "date": "2026-10-10",
+      "time": "21:00",
+      "team1": "PRAYON TROOZ B",
+      "team2": "DF BC MALMEDY",
+      "category": "MM - DIVISION 4 A",
+      "location": "PRAYON TROOZ B",
+      "other": ""
+    },
+    {
+      "code": "407072",
+      "date": "2026-10-16",
+      "time": "20:30",
+      "team1": "DF BC MALMEDY",
+      "team2": "HENRI-CHAPELLE D",
+      "category": "MM - DIVISION 4 A",
+      "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "407104",
+      "date": "2026-11-08",
+      "time": "9:30",
+      "team1": "ETOILE JUPILLE D",
+      "team2": "DF BC MALMEDY",
+      "category": "MM - DIVISION 4 A",
+      "location": "ETOILE JUPILLE D",
+      "other": ""
+    },
+    {
+      "code": "407112",
+      "date": "2026-11-13",
+      "time": "20:30",
+      "team1": "DF BC MALMEDY",
+      "team2": "THEUX BC C",
+      "category": "MM - DIVISION 4 A",
+      "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "407121",
+      "date": "2026-11-22",
+      "time": "11:00",
+      "team1": "RBC STAVELOT C",
+      "team2": "DF BC MALMEDY",
+      "category": "MM - DIVISION 4 A",
+      "location": "RBC STAVELOT C",
+      "other": ""
+    },
+    {
+      "code": "407142",
+      "date": "2026-12-04",
+      "time": "20:30",
+      "team1": "DF BC MALMEDY",
+      "team2": "RB TILFF E",
+      "category": "MM - DIVISION 4 A",
+      "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "407152",
+      "date": "2026-12-11",
+      "time": "20:30",
+      "team1": "DF BC MALMEDY",
+      "team2": "BBC EUPEN B",
+      "category": "MM - DIVISION 4 A",
+      "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "407162",
+      "date": "2026-12-19",
+      "time": "17:00",
+      "team1": "ROYAL BC NINANE E",
+      "team2": "DF BC MALMEDY",
+      "category": "MM - DIVISION 4 A",
+      "location": "ROYAL BC NINANE E",
+      "other": ""
+    },
+    {
+      "code": "407192",
+      "date": "2027-01-08",
+      "time": "20:30",
+      "team1": "DF BC MALMEDY",
+      "team2": "R 4A AYWAILLE-HAMOIR D",
+      "category": "MM - DIVISION 4 A",
+      "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "407201",
+      "date": "2027-01-16",
+      "time": "17:00",
+      "team1": "ROYAL SPA BC D",
+      "team2": "DF BC MALMEDY",
+      "category": "MM - DIVISION 4 A",
+      "location": "ROYAL SPA BC D",
+      "other": ""
+    },
+    {
+      "code": "407217",
+      "date": "2027-01-23",
+      "time": "18:30",
+      "team1": "HENRI-CHAPELLE D",
+      "team2": "DF BC MALMEDY",
+      "category": "MM - DIVISION 4 A",
+      "location": "HENRI-CHAPELLE D",
+      "other": ""
+    },
+    {
+      "code": "407244",
+      "date": "2027-02-13",
+      "time": "17:00",
+      "team1": "RABC ENSIVAL D",
+      "team2": "DF BC MALMEDY",
+      "category": "MM - DIVISION 4 A",
+      "location": "RABC ENSIVAL D",
+      "other": ""
+    },
+    {
+      "code": "407253",
+      "date": "2027-02-21",
+      "time": "11:00",
+      "team1": "THEUX BC C",
+      "team2": "DF BC MALMEDY",
+      "category": "MM - DIVISION 4 A",
+      "location": "THEUX BC C",
+      "other": ""
+    },
+    {
+      "code": "407275",
+      "date": "2027-03-06",
+      "time": "18:30",
+      "team1": "RB TILFF E",
+      "team2": "DF BC MALMEDY",
+      "category": "MM - DIVISION 4 A",
+      "location": "RB TILFF E",
+      "other": ""
+    },
+    {
+      "code": "407282",
+      "date": "2027-03-12",
+      "time": "20:30",
+      "team1": "DF BC MALMEDY",
+      "team2": "RBC STAVELOT C",
+      "category": "MM - DIVISION 4 A",
+      "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "407292",
+      "date": "2027-03-19",
+      "time": "20:30",
+      "team1": "DF BC MALMEDY",
+      "team2": "ETOILE JUPILLE D",
+      "category": "MM - DIVISION 4 A",
+      "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "407302",
+      "date": "2027-03-26",
+      "time": "20:30",
+      "team1": "DF BC MALMEDY",
+      "team2": "PRAYON TROOZ B",
+      "category": "MM - DIVISION 4 A",
+      "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "407322",
+      "date": "2027-04-09",
+      "time": "20:30",
+      "team1": "DF BC MALMEDY",
+      "team2": "ROYAL BC NINANE E",
+      "category": "MM - DIVISION 4 A",
+      "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "407336",
+      "date": "2027-04-17",
+      "time": "20:00",
+      "team1": "BBC EUPEN B",
+      "team2": "DF BC MALMEDY",
+      "category": "MM - DIVISION 4 A",
+      "location": "BBC EUPEN B",
+      "other": ""
+    },
+    {
+      "code": "526012",
+      "date": "2026-09-05",
+      "time": "13:30",
+      "team1": "DF BC MALMEDY",
+      "team2": "BC SANKT VITH",
+      "category": "U 10 - MM G",
+      "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "526036",
+      "date": "2026-09-19",
+      "time": "10:30",
+      "team1": "BBC EUPEN",
+      "team2": "DF BC MALMEDY",
+      "category": "U 10 - MM G",
+      "location": "BBC EUPEN",
+      "other": ""
+    },
+    {
+      "code": "526065",
+      "date": "2026-10-11",
       "time": "9:00",
+      "team1": "PRAYON TROOZ",
+      "team2": "DF BC MALMEDY",
+      "category": "U 10 - MM G",
+      "location": "PRAYON TROOZ",
+      "other": ""
+    },
+    {
+      "code": "526105",
+      "date": "2026-11-07",
+      "time": "9:00",
+      "team1": "RBC DISON-ANDRIMONT A",
+      "team2": "DF BC MALMEDY",
+      "category": "U 10 - MM G",
+      "location": "RBC DISON-ANDRIMONT A",
+      "other": ""
+    },
+    {
+      "code": "526112",
+      "date": "2026-11-14",
+      "time": "13:30",
+      "team1": "DF BC MALMEDY",
+      "team2": "HENRI-CHAPELLE B",
+      "category": "U 10 - MM G",
+      "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "526123",
+      "date": "2026-11-22",
+      "time": "11:00",
       "team1": "THEUX BC B",
       "team2": "DF BC MALMEDY",
-      "category": "U 10 - MM E",
+      "category": "U 10 - MM G",
       "location": "THEUX BC B",
       "other": ""
     },
     {
-      "code": "470332",
-      "date": "2026-04-19",
+      "code": "526142",
+      "date": "2026-12-05",
+      "time": "13:30",
+      "team1": "DF BC MALMEDY",
+      "team2": "RBC AUBEL B",
+      "category": "U 10 - MM G",
+      "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "526152",
+      "date": "2026-12-12",
+      "time": "13:30",
+      "team1": "DF BC MALMEDY",
+      "team2": "R.UN.BELLAIRE B",
+      "category": "U 10 - MM G",
+      "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "526166",
+      "date": "2026-12-19",
+      "time": "9:00",
+      "team1": "RABC ENSIVAL A",
+      "team2": "DF BC MALMEDY",
+      "category": "U 10 - MM G",
+      "location": "RABC ENSIVAL A",
+      "other": ""
+    },
+    {
+      "code": "526192",
+      "date": "2027-01-09",
+      "time": "13:30",
+      "team1": "DF BC MALMEDY",
+      "team2": "BBC EUPEN",
+      "category": "U 10 - MM G",
+      "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "526201",
+      "date": "2027-01-16",
       "time": "11:00",
-      "team1": "PEPINSTER EAST BELG B",
+      "team1": "BC SANKT VITH",
+      "team2": "DF BC MALMEDY",
+      "category": "U 10 - MM G",
+      "location": "BC SANKT VITH",
+      "other": ""
+    },
+    {
+      "code": "526212",
+      "date": "2027-01-23",
+      "time": "12:00",
+      "team1": "R.UN.BELLAIRE B",
+      "team2": "DF BC MALMEDY",
+      "category": "U 10 - MM G",
+      "location": "R.UN.BELLAIRE B",
+      "other": ""
+    },
+    {
+      "code": "526231",
+      "date": "2027-02-07",
+      "time": "11:00",
+      "team1": "HENRI-CHAPELLE B",
+      "team2": "DF BC MALMEDY",
+      "category": "U 10 - MM G",
+      "location": "HENRI-CHAPELLE B",
+      "other": ""
+    },
+    {
+      "code": "526282",
+      "date": "2027-03-13",
+      "time": "13:30",
+      "team1": "DF BC MALMEDY",
+      "team2": "RABC ENSIVAL A",
+      "category": "U 10 - MM G",
+      "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "526292",
+      "date": "2027-03-20",
+      "time": "13:30",
+      "team1": "DF BC MALMEDY",
+      "team2": "RBC DISON-ANDRIMONT A",
+      "category": "U 10 - MM G",
+      "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "526302",
+      "date": "2027-03-27",
+      "time": "13:30",
+      "team1": "DF BC MALMEDY",
+      "team2": "PRAYON TROOZ",
+      "category": "U 10 - MM G",
+      "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "526322",
+      "date": "2027-04-10",
+      "time": "13:30",
+      "team1": "DF BC MALMEDY",
+      "team2": "THEUX BC B",
+      "category": "U 10 - MM G",
+      "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "526334",
+      "date": "2027-04-17",
+      "time": "10:00",
+      "team1": "RBC AUBEL B",
+      "team2": "DF BC MALMEDY",
+      "category": "U 10 - MM G",
+      "location": "RBC AUBEL B",
+      "other": ""
+    },
+    {
+      "code": "506011",
+      "date": "2026-09-05",
+      "time": "9:00",
+      "team1": "RBC STAVELOT B",
+      "team2": "DF BC MALMEDY",
+      "category": "U 12 - MM G",
+      "location": "RBC STAVELOT B",
+      "other": ""
+    },
+    {
+      "code": "506022",
+      "date": "2026-09-12",
+      "time": "13:00",
+      "team1": "DF BC MALMEDY",
+      "team2": "RB TILFF B",
+      "category": "U 12 - MM G",
+      "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "506032",
+      "date": "2026-09-19",
+      "time": "13:00",
+      "team1": "DF BC MALMEDY",
+      "team2": "ROYAL HERVE-BATTICE D",
+      "category": "U 12 - MM G",
+      "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "506054",
+      "date": "2026-10-03",
+      "time": "11:00",
+      "team1": "RABC ENSIVAL B",
+      "team2": "DF BC MALMEDY",
+      "category": "U 12 - MM G",
+      "location": "RABC ENSIVAL B",
+      "other": ""
+    },
+    {
+      "code": "506062",
+      "date": "2026-10-10",
+      "time": "13:00",
+      "team1": "DF BC MALMEDY",
+      "team2": "RBC BLEGNY",
+      "category": "U 12 - MM G",
+      "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "506102",
+      "date": "2026-11-07",
+      "time": "13:00",
+      "team1": "DF BC MALMEDY",
+      "team2": "RBC DISON-ANDRIMONT B",
+      "category": "U 12 - MM G",
+      "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "506111",
+      "date": "2026-11-14",
+      "time": "13:00",
+      "team1": "BC SANKT VITH",
+      "team2": "DF BC MALMEDY",
+      "category": "U 12 - MM G",
+      "location": "BC SANKT VITH",
+      "other": ""
+    },
+    {
+      "code": "506122",
+      "date": "2026-11-21",
+      "time": "13:00",
+      "team1": "DF BC MALMEDY",
+      "team2": "THEUX BC B",
+      "category": "U 12 - MM G",
+      "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "506152",
+      "date": "2026-12-12",
+      "time": "14:30",
+      "team1": "HENRI-CHAPELLE C",
+      "team2": "DF BC MALMEDY",
+      "category": "U 12 - MM G",
+      "location": "HENRI-CHAPELLE C",
+      "other": ""
+    },
+    {
+      "code": "506162",
+      "date": "2026-12-19",
+      "time": "13:00",
+      "team1": "DF BC MALMEDY",
+      "team2": "BBC EUPEN",
+      "category": "U 12 - MM G",
+      "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "506196",
+      "date": "2027-01-10",
+      "time": "9:00",
+      "team1": "ROYAL HERVE-BATTICE D",
+      "team2": "DF BC MALMEDY",
+      "category": "U 12 - MM G",
+      "location": "ROYAL HERVE-BATTICE D",
+      "other": ""
+    },
+    {
+      "code": "506202",
+      "date": "2027-01-16",
+      "time": "13:00",
+      "team1": "DF BC MALMEDY",
+      "team2": "RBC STAVELOT B",
+      "category": "U 12 - MM G",
+      "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "506212",
+      "date": "2027-01-23",
+      "time": "13:00",
+      "team1": "DF BC MALMEDY",
+      "team2": "HENRI-CHAPELLE C",
+      "category": "U 12 - MM G",
+      "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "506223",
+      "date": "2027-01-30",
+      "time": "11:00",
+      "team1": "RB TILFF B",
+      "team2": "DF BC MALMEDY",
+      "category": "U 12 - MM G",
+      "location": "RB TILFF B",
+      "other": ""
+    },
+    {
+      "code": "506232",
+      "date": "2027-02-06",
+      "time": "13:00",
+      "team1": "DF BC MALMEDY",
+      "team2": "BC SANKT VITH",
+      "category": "U 12 - MM G",
+      "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "506242",
+      "date": "2027-02-13",
+      "time": "13:00",
+      "team1": "DF BC MALMEDY",
+      "team2": "RABC ENSIVAL B",
+      "category": "U 12 - MM G",
+      "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "506286",
+      "date": "2027-03-13",
+      "time": "12:00",
+      "team1": "BBC EUPEN",
+      "team2": "DF BC MALMEDY",
+      "category": "U 12 - MM G",
+      "location": "BBC EUPEN",
+      "other": ""
+    },
+    {
+      "code": "506295",
+      "date": "2027-03-20",
+      "time": "9:00",
+      "team1": "RBC DISON-ANDRIMONT B",
+      "team2": "DF BC MALMEDY",
+      "category": "U 12 - MM G",
+      "location": "RBC DISON-ANDRIMONT B",
+      "other": ""
+    },
+    {
+      "code": "506305",
+      "date": "2027-03-27",
+      "time": "10:45",
+      "team1": "RBC BLEGNY",
+      "team2": "DF BC MALMEDY",
+      "category": "U 12 - MM G",
+      "location": "RBC BLEGNY",
+      "other": ""
+    },
+    {
+      "code": "506323",
+      "date": "2027-04-10",
+      "time": "11:00",
+      "team1": "THEUX BC B",
+      "team2": "DF BC MALMEDY",
+      "category": "U 12 - MM G",
+      "location": "THEUX BC B",
+      "other": ""
+    },
+    {
+      "code": "492011",
+      "date": "2026-09-06",
+      "time": "9:00",
+      "team1": "RBC STAVELOT",
+      "team2": "DF BC MALMEDY",
+      "category": "U 14 - PROV MM C",
+      "location": "RBC STAVELOT",
+      "other": ""
+    },
+    {
+      "code": "492022",
+      "date": "2026-09-12",
+      "time": "15:30",
+      "team1": "DF BC MALMEDY",
+      "team2": "BCM HERSTAL",
+      "category": "U 14 - PROV MM C",
+      "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "492032",
+      "date": "2026-09-19",
+      "time": "15:30",
+      "team1": "DF BC MALMEDY",
+      "team2": "RBC ALLEUR B",
+      "category": "U 14 - PROV MM C",
+      "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "492054",
+      "date": "2026-10-03",
+      "time": "15:30",
+      "team1": "RBC AUBEL",
+      "team2": "DF BC MALMEDY",
+      "category": "U 14 - PROV MM C",
+      "location": "RBC AUBEL",
+      "other": ""
+    },
+    {
+      "code": "492062",
+      "date": "2026-10-10",
+      "time": "15:30",
+      "team1": "DF BC MALMEDY",
+      "team2": "PRAYON TROOZ",
+      "category": "U 14 - PROV MM C",
+      "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "492111",
+      "date": "2026-11-14",
+      "time": "15:15",
+      "team1": "BC SANKT VITH",
+      "team2": "DF BC MALMEDY",
+      "category": "U 14 - PROV MM C",
+      "location": "BC SANKT VITH",
+      "other": ""
+    },
+    {
+      "code": "492152",
+      "date": "2026-12-13",
+      "time": "10:00",
+      "team1": "ROYAL BC NINANE",
+      "team2": "DF BC MALMEDY",
+      "category": "U 14 - PROV MM C",
+      "location": "ROYAL BC NINANE",
+      "other": ""
+    },
+    {
+      "code": "492162",
+      "date": "2026-12-19",
+      "time": "15:30",
+      "team1": "DF BC MALMEDY",
+      "team2": "BBC EUPEN",
+      "category": "U 14 - PROV MM C",
+      "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "492196",
+      "date": "2027-01-10",
+      "time": "9:00",
+      "team1": "RBC ALLEUR B",
+      "team2": "DF BC MALMEDY",
+      "category": "U 14 - PROV MM C",
+      "location": "RBC ALLEUR B",
+      "other": ""
+    },
+    {
+      "code": "492202",
+      "date": "2027-01-16",
+      "time": "15:30",
+      "team1": "DF BC MALMEDY",
+      "team2": "RBC STAVELOT",
+      "category": "U 14 - PROV MM C",
+      "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "492212",
+      "date": "2027-01-23",
+      "time": "15:30",
+      "team1": "DF BC MALMEDY",
+      "team2": "ROYAL BC NINANE",
+      "category": "U 14 - PROV MM C",
+      "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "492223",
+      "date": "2027-01-30",
+      "time": "12:30",
+      "team1": "BCM HERSTAL",
+      "team2": "DF BC MALMEDY",
+      "category": "U 14 - PROV MM C",
+      "location": "BCM HERSTAL",
+      "other": ""
+    },
+    {
+      "code": "492232",
+      "date": "2027-02-06",
+      "time": "15:30",
+      "team1": "DF BC MALMEDY",
+      "team2": "BC SANKT VITH",
+      "category": "U 14 - PROV MM C",
+      "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "492242",
+      "date": "2027-02-13",
+      "time": "15:30",
+      "team1": "DF BC MALMEDY",
+      "team2": "RBC AUBEL",
+      "category": "U 14 - PROV MM C",
+      "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "492286",
+      "date": "2027-03-14",
+      "time": "10:00",
+      "team1": "BBC EUPEN",
+      "team2": "DF BC MALMEDY",
+      "category": "U 14 - PROV MM C",
+      "location": "BBC EUPEN",
+      "other": ""
+    },
+    {
+      "code": "492305",
+      "date": "2027-03-27",
+      "time": "9:00",
+      "team1": "PRAYON TROOZ",
+      "team2": "DF BC MALMEDY",
+      "category": "U 14 - PROV MM C",
+      "location": "PRAYON TROOZ",
+      "other": ""
+    },
+    {
+      "code": "590012",
+      "date": "2026-09-05",
+      "time": "16:00",
+      "team1": "DF BC MALMEDY",
+      "team2": "ROYAL SPA BC",
+      "category": "U 16 - DD A",
+      "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "590036",
+      "date": "2026-09-19",
+      "time": "11:30",
+      "team1": "ALL. FLEMALLE C",
+      "team2": "DF BC MALMEDY",
+      "category": "U 16 - DD A",
+      "location": "ALL. FLEMALLE C",
+      "other": ""
+    },
+    {
+      "code": "590052",
+      "date": "2026-10-03",
+      "time": "16:00",
+      "team1": "DF BC MALMEDY",
+      "team2": "ABC WAREMME",
+      "category": "U 16 - DD A",
+      "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "590065",
+      "date": "2026-10-10",
+      "time": "9:00",
+      "team1": "PRAYON TROOZ",
+      "team2": "DF BC MALMEDY",
+      "category": "U 16 - DD A",
+      "location": "PRAYON TROOZ",
+      "other": ""
+    },
+    {
+      "code": "590105",
+      "date": "2026-11-07",
+      "time": "15:30",
+      "team1": "CRISTAL SGH",
+      "team2": "DF BC MALMEDY",
+      "category": "U 16 - DD A",
+      "location": "CRISTAL SGH",
+      "other": ""
+    },
+    {
+      "code": "590123",
+      "date": "2026-11-21",
+      "time": "11:00",
+      "team1": "ROYAL HERVE-BATTICE",
+      "team2": "DF BC MALMEDY",
+      "category": "U 16 - DD A",
+      "location": "ROYAL HERVE-BATTICE",
+      "other": ""
+    },
+    {
+      "code": "590142",
+      "date": "2026-12-05",
+      "time": "16:00",
+      "team1": "DF BC MALMEDY",
+      "team2": "BCM HERSTAL",
+      "category": "U 16 - DD A",
+      "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "590166",
+      "date": "2026-12-19",
+      "time": "15:00",
+      "team1": "RBC DISON-ANDRIMONT",
+      "team2": "DF BC MALMEDY",
+      "category": "U 16 - DD A",
+      "location": "RBC DISON-ANDRIMONT",
+      "other": ""
+    },
+    {
+      "code": "590192",
+      "date": "2027-01-09",
+      "time": "16:00",
+      "team1": "DF BC MALMEDY",
+      "team2": "ALL. FLEMALLE C",
+      "category": "U 16 - DD A",
+      "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "590201",
+      "date": "2027-01-16",
+      "time": "13:00",
+      "team1": "ROYAL SPA BC",
+      "team2": "DF BC MALMEDY",
+      "category": "U 16 - DD A",
+      "location": "ROYAL SPA BC",
+      "other": ""
+    },
+    {
+      "code": "590244",
+      "date": "2027-02-13",
+      "time": "11:00",
+      "team1": "ABC WAREMME",
+      "team2": "DF BC MALMEDY",
+      "category": "U 16 - DD A",
+      "location": "ABC WAREMME",
+      "other": ""
+    },
+    {
+      "code": "590282",
+      "date": "2027-03-13",
+      "time": "16:00",
+      "team1": "DF BC MALMEDY",
+      "team2": "RBC DISON-ANDRIMONT",
+      "category": "U 16 - DD A",
+      "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "590292",
+      "date": "2027-03-20",
+      "time": "16:00",
+      "team1": "DF BC MALMEDY",
+      "team2": "CRISTAL SGH",
+      "category": "U 16 - DD A",
+      "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "590302",
+      "date": "2027-03-27",
+      "time": "16:00",
+      "team1": "DF BC MALMEDY",
+      "team2": "PRAYON TROOZ",
+      "category": "U 16 - DD A",
+      "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "590322",
+      "date": "2027-04-10",
+      "time": "16:00",
+      "team1": "DF BC MALMEDY",
+      "team2": "ROYAL HERVE-BATTICE",
+      "category": "U 16 - DD A",
+      "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "590334",
+      "date": "2027-04-17",
+      "time": "14:30",
+      "team1": "BCM HERSTAL",
+      "team2": "DF BC MALMEDY",
+      "category": "U 16 - DD A",
+      "location": "BCM HERSTAL",
+      "other": ""
+    },
+    {
+      "code": "470022",
+      "date": "2026-09-12",
+      "time": "17:00",
+      "team1": "DF BC MALMEDY",
+      "team2": "R HT-PRE OUGREE",
+      "category": "U 16 - PROV MM A",
+      "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "470054",
+      "date": "2026-10-04",
+      "time": "13:30",
+      "team1": "ETOILE JUPILLE",
       "team2": "DF BC MALMEDY",
       "category": "U 16 - PROV MM A",
-      "location": "PEPINSTER EAST BELG B",
+      "location": "ETOILE JUPILLE",
+      "other": ""
+    },
+    {
+      "code": "470062",
+      "date": "2026-10-10",
+      "time": "17:00",
+      "team1": "DF BC MALMEDY",
+      "team2": "PRAYON TROOZ",
+      "category": "U 16 - PROV MM A",
+      "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "470102",
+      "date": "2026-11-07",
+      "time": "17:00",
+      "team1": "DF BC MALMEDY",
+      "team2": "ROYAL MOSA AC 1941",
+      "category": "U 16 - PROV MM A",
+      "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "470111",
+      "date": "2026-11-14",
+      "time": "14:00",
+      "team1": "R.UN.BELLAIRE",
+      "team2": "DF BC MALMEDY",
+      "category": "U 16 - PROV MM A",
+      "location": "R.UN.BELLAIRE",
+      "other": ""
+    },
+    {
+      "code": "470122",
+      "date": "2026-11-21",
+      "time": "17:00",
+      "team1": "DF BC MALMEDY",
+      "team2": "RBC WELKENRAEDT",
+      "category": "U 16 - PROV MM A",
+      "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "470144",
+      "date": "2026-12-05",
+      "time": "9:00",
+      "team1": "ROYAL SPA BC B",
+      "team2": "DF BC MALMEDY",
+      "category": "U 16 - PROV MM A",
+      "location": "ROYAL SPA BC B",
+      "other": ""
+    },
+    {
+      "code": "470152",
+      "date": "2026-12-12",
+      "time": "14:00",
+      "team1": "BBC EUPEN",
+      "team2": "DF BC MALMEDY",
+      "category": "U 16 - PROV MM A",
+      "location": "BBC EUPEN",
+      "other": ""
+    },
+    {
+      "code": "470162",
+      "date": "2026-12-19",
+      "time": "17:00",
+      "team1": "DF BC MALMEDY",
+      "team2": "RBC DISON-ANDRIMONT",
+      "category": "U 16 - PROV MM A",
+      "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "470212",
+      "date": "2027-01-23",
+      "time": "17:00",
+      "team1": "DF BC MALMEDY",
+      "team2": "BBC EUPEN",
+      "category": "U 16 - PROV MM A",
+      "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "470223",
+      "date": "2027-01-30",
+      "time": "10:00",
+      "team1": "R HT-PRE OUGREE",
+      "team2": "DF BC MALMEDY",
+      "category": "U 16 - PROV MM A",
+      "location": "R HT-PRE OUGREE",
+      "other": ""
+    },
+    {
+      "code": "470232",
+      "date": "2027-02-06",
+      "time": "17:00",
+      "team1": "DF BC MALMEDY",
+      "team2": "R.UN.BELLAIRE",
+      "category": "U 16 - PROV MM A",
+      "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "470242",
+      "date": "2027-02-13",
+      "time": "17:00",
+      "team1": "DF BC MALMEDY",
+      "team2": "ETOILE JUPILLE",
+      "category": "U 16 - PROV MM A",
+      "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "470286",
+      "date": "2027-03-13",
+      "time": "11:00",
+      "team1": "RBC DISON-ANDRIMONT",
+      "team2": "DF BC MALMEDY",
+      "category": "U 16 - PROV MM A",
+      "location": "RBC DISON-ANDRIMONT",
+      "other": ""
+    },
+    {
+      "code": "470295",
+      "date": "2027-03-21",
+      "time": "9:30",
+      "team1": "ROYAL MOSA AC 1941",
+      "team2": "DF BC MALMEDY",
+      "category": "U 16 - PROV MM A",
+      "location": "ROYAL MOSA AC 1941",
+      "other": ""
+    },
+    {
+      "code": "470305",
+      "date": "2027-03-27",
+      "time": "11:00",
+      "team1": "PRAYON TROOZ",
+      "team2": "DF BC MALMEDY",
+      "category": "U 16 - PROV MM A",
+      "location": "PRAYON TROOZ",
+      "other": ""
+    },
+    {
+      "code": "470323",
+      "date": "2027-04-10",
+      "time": "11:00",
+      "team1": "RBC WELKENRAEDT",
+      "team2": "DF BC MALMEDY",
+      "category": "U 16 - PROV MM A",
+      "location": "RBC WELKENRAEDT",
+      "other": ""
+    },
+    {
+      "code": "470332",
+      "date": "2027-04-17",
+      "time": "17:00",
+      "team1": "DF BC MALMEDY",
+      "team2": "ROYAL SPA BC B",
+      "category": "U 16 - PROV MM A",
+      "location": "DF BC MALMEDY",
       "other": ""
     }
   ]

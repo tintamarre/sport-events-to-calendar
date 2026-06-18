@@ -6,23 +6,423 @@
   },
   "events": [
     {
-      "code": "416337",
-      "date": "2026-04-18",
-      "time": "21:00",
-      "team1": "RBC BLEGNY C",
+      "code": "417011",
+      "date": "2026-09-05",
+      "time": "18:30",
+      "team1": "HENRI-CHAPELLE C",
       "team2": "CS OUTREMEUSE",
-      "category": "DD - DIVISION 3 A",
-      "location": "RBC BLEGNY C",
+      "category": "DD - DIVISION 3 B",
+      "location": "HENRI-CHAPELLE C",
       "other": ""
     },
     {
-      "code": "408337",
-      "date": "2026-04-18",
+      "code": "417022",
+      "date": "2026-09-13",
+      "time": "16:30",
+      "team1": "CS OUTREMEUSE",
+      "team2": "ATLAS A JUPILLE B",
+      "category": "DD - DIVISION 3 B",
+      "location": "CS OUTREMEUSE",
+      "other": ""
+    },
+    {
+      "code": "417032",
+      "date": "2026-09-20",
+      "time": "16:30",
+      "team1": "CS OUTREMEUSE",
+      "team2": "RBC DISON-ANDRIMONT B",
+      "category": "DD - DIVISION 3 B",
+      "location": "CS OUTREMEUSE",
+      "other": ""
+    },
+    {
+      "code": "417062",
+      "date": "2026-10-11",
+      "time": "16:30",
+      "team1": "CS OUTREMEUSE",
+      "team2": "DF BC MALMEDY",
+      "category": "DD - DIVISION 3 B",
+      "location": "CS OUTREMEUSE",
+      "other": ""
+    },
+    {
+      "code": "417102",
+      "date": "2026-11-08",
+      "time": "16:30",
+      "team1": "CS OUTREMEUSE",
+      "team2": "ABC WAREMME C",
+      "category": "DD - DIVISION 3 B",
+      "location": "CS OUTREMEUSE",
+      "other": ""
+    },
+    {
+      "code": "417111",
+      "date": "2026-11-14",
+      "time": "21:00",
+      "team1": "RBC AWANS B",
+      "team2": "CS OUTREMEUSE",
+      "category": "DD - DIVISION 3 B",
+      "location": "RBC AWANS B",
+      "other": ""
+    },
+    {
+      "code": "417122",
+      "date": "2026-11-22",
+      "time": "16:30",
+      "team1": "CS OUTREMEUSE",
+      "team2": "RBC AWANS B",
+      "category": "DD - DIVISION 3 B",
+      "location": "CS OUTREMEUSE",
+      "other": ""
+    },
+    {
+      "code": "417146",
+      "date": "2026-12-05",
       "time": "17:00",
-      "team1": "HANNUT BC C",
+      "team1": "R 4A AYWAILLE-HAMOIR B",
+      "team2": "CS OUTREMEUSE",
+      "category": "DD - DIVISION 3 B",
+      "location": "R 4A AYWAILLE-HAMOIR B",
+      "other": ""
+    },
+    {
+      "code": "417152",
+      "date": "2026-12-12",
+      "time": "18:30",
+      "team1": "DF BC MALMEDY",
+      "team2": "CS OUTREMEUSE",
+      "category": "DD - DIVISION 3 B",
+      "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "417162",
+      "date": "2026-12-20",
+      "time": "16:30",
+      "team1": "CS OUTREMEUSE",
+      "team2": "RBC ESNEUX C",
+      "category": "DD - DIVISION 3 B",
+      "location": "CS OUTREMEUSE",
+      "other": ""
+    },
+    {
+      "code": "417196",
+      "date": "2027-01-09",
+      "time": "17:00",
+      "team1": "RBC DISON-ANDRIMONT B",
+      "team2": "CS OUTREMEUSE",
+      "category": "DD - DIVISION 3 B",
+      "location": "RBC DISON-ANDRIMONT B",
+      "other": ""
+    },
+    {
+      "code": "417202",
+      "date": "2027-01-17",
+      "time": "16:30",
+      "team1": "CS OUTREMEUSE",
+      "team2": "HENRI-CHAPELLE C",
+      "category": "DD - DIVISION 3 B",
+      "location": "CS OUTREMEUSE",
+      "other": ""
+    },
+    {
+      "code": "417212",
+      "date": "2027-01-24",
+      "time": "16:30",
+      "team1": "CS OUTREMEUSE",
+      "team2": "BCM HERSTAL",
+      "category": "DD - DIVISION 3 B",
+      "location": "CS OUTREMEUSE",
+      "other": ""
+    },
+    {
+      "code": "417223",
+      "date": "2027-01-30",
+      "time": "19:00",
+      "team1": "ATLAS A JUPILLE B",
+      "team2": "CS OUTREMEUSE",
+      "category": "DD - DIVISION 3 B",
+      "location": "ATLAS A JUPILLE B",
+      "other": ""
+    },
+    {
+      "code": "417252",
+      "date": "2027-02-21",
+      "time": "16:30",
+      "team1": "CS OUTREMEUSE",
+      "team2": "R 4A AYWAILLE-HAMOIR B",
+      "category": "DD - DIVISION 3 B",
+      "location": "CS OUTREMEUSE",
+      "other": ""
+    },
+    {
+      "code": "417284",
+      "date": "2027-03-12",
+      "time": "20:00",
+      "team1": "MAIL. COMBLAIN",
+      "team2": "CS OUTREMEUSE",
+      "category": "DD - DIVISION 3 B",
+      "location": "MAIL. COMBLAIN",
+      "other": ""
+    },
+    {
+      "code": "417295",
+      "date": "2027-03-20",
+      "time": "18:30",
+      "team1": "ABC WAREMME C",
+      "team2": "CS OUTREMEUSE",
+      "category": "DD - DIVISION 3 B",
+      "location": "ABC WAREMME C",
+      "other": ""
+    },
+    {
+      "code": "417305",
+      "date": "2027-03-27",
+      "time": "18:30",
+      "team1": "BCM HERSTAL",
+      "team2": "CS OUTREMEUSE",
+      "category": "DD - DIVISION 3 B",
+      "location": "BCM HERSTAL",
+      "other": ""
+    },
+    {
+      "code": "417323",
+      "date": "2027-04-10",
+      "time": "18:00",
+      "team1": "RBC ESNEUX C",
+      "team2": "CS OUTREMEUSE",
+      "category": "DD - DIVISION 3 B",
+      "location": "RBC ESNEUX C",
+      "other": ""
+    },
+    {
+      "code": "417332",
+      "date": "2027-04-18",
+      "time": "16:30",
+      "team1": "CS OUTREMEUSE",
+      "team2": "MAIL. COMBLAIN",
+      "category": "DD - DIVISION 3 B",
+      "location": "CS OUTREMEUSE",
+      "other": ""
+    },
+    {
+      "code": "408011",
+      "date": "2026-09-06",
+      "time": "15:00",
+      "team1": "BC TORES LIEGE",
       "team2": "CS OUTREMEUSE",
       "category": "MM - DIVISION 4 B",
-      "location": "HANNUT BC C",
+      "location": "BC TORES LIEGE",
+      "other": ""
+    },
+    {
+      "code": "408022",
+      "date": "2026-09-13",
+      "time": "14:30",
+      "team1": "CS OUTREMEUSE",
+      "team2": "ROYAL ANS BC A",
+      "category": "MM - DIVISION 4 B",
+      "location": "CS OUTREMEUSE",
+      "other": ""
+    },
+    {
+      "code": "408054",
+      "date": "2026-10-03",
+      "time": "18:00",
+      "team1": "MAIL. COMBLAIN B",
+      "team2": "CS OUTREMEUSE",
+      "category": "MM - DIVISION 4 B",
+      "location": "MAIL. COMBLAIN B",
+      "other": ""
+    },
+    {
+      "code": "408062",
+      "date": "2026-10-11",
+      "time": "14:30",
+      "team1": "CS OUTREMEUSE",
+      "team2": "ROYAL MOSA AC 1941 B",
+      "category": "MM - DIVISION 4 B",
+      "location": "CS OUTREMEUSE",
+      "other": ""
+    },
+    {
+      "code": "408076",
+      "date": "2026-10-18",
+      "time": "17:00",
+      "team1": "RBC DISON-ANDRIMONT C",
+      "team2": "CS OUTREMEUSE",
+      "category": "MM - DIVISION 4 B",
+      "location": "RBC DISON-ANDRIMONT C",
+      "other": ""
+    },
+    {
+      "code": "408082",
+      "date": "2026-10-25",
+      "time": "14:30",
+      "team1": "CS OUTREMEUSE",
+      "team2": "ROYAL BASKET OTHEE",
+      "category": "MM - DIVISION 4 B",
+      "location": "CS OUTREMEUSE",
+      "other": ""
+    },
+    {
+      "code": "408102",
+      "date": "2026-11-08",
+      "time": "14:30",
+      "team1": "CS OUTREMEUSE",
+      "team2": "ORP JAUCHE B",
+      "category": "MM - DIVISION 4 B",
+      "location": "CS OUTREMEUSE",
+      "other": ""
+    },
+    {
+      "code": "408113",
+      "date": "2026-11-14",
+      "time": "21:00",
+      "team1": "UN HUY BASKET",
+      "team2": "CS OUTREMEUSE",
+      "category": "MM - DIVISION 4 B",
+      "location": "UN HUY BASKET",
+      "other": ""
+    },
+    {
+      "code": "408144",
+      "date": "2026-12-05",
+      "time": "19:00",
+      "team1": "RBC CROATIA OUPEYE",
+      "team2": "CS OUTREMEUSE",
+      "category": "MM - DIVISION 4 B",
+      "location": "RBC CROATIA OUPEYE",
+      "other": ""
+    },
+    {
+      "code": "408156",
+      "date": "2026-12-13",
+      "time": "11:00",
+      "team1": "R REN. MONTEGNEE",
+      "team2": "CS OUTREMEUSE",
+      "category": "MM - DIVISION 4 B",
+      "location": "R REN. MONTEGNEE",
+      "other": ""
+    },
+    {
+      "code": "408162",
+      "date": "2026-12-20",
+      "time": "14:30",
+      "team1": "CS OUTREMEUSE",
+      "team2": "HARIMALIA BC D",
+      "category": "MM - DIVISION 4 B",
+      "location": "CS OUTREMEUSE",
+      "other": ""
+    },
+    {
+      "code": "408202",
+      "date": "2027-01-17",
+      "time": "14:30",
+      "team1": "CS OUTREMEUSE",
+      "team2": "BC TORES LIEGE",
+      "category": "MM - DIVISION 4 B",
+      "location": "CS OUTREMEUSE",
+      "other": ""
+    },
+    {
+      "code": "408212",
+      "date": "2027-01-24",
+      "time": "14:30",
+      "team1": "CS OUTREMEUSE",
+      "team2": "RBC DISON-ANDRIMONT C",
+      "category": "MM - DIVISION 4 B",
+      "location": "CS OUTREMEUSE",
+      "other": ""
+    },
+    {
+      "code": "408223",
+      "date": "2027-01-31",
+      "time": "15:00",
+      "team1": "ROYAL ANS BC A",
+      "team2": "CS OUTREMEUSE",
+      "category": "MM - DIVISION 4 B",
+      "location": "ROYAL ANS BC A",
+      "other": ""
+    },
+    {
+      "code": "408242",
+      "date": "2027-02-14",
+      "time": "14:30",
+      "team1": "CS OUTREMEUSE",
+      "team2": "MAIL. COMBLAIN B",
+      "category": "MM - DIVISION 4 B",
+      "location": "CS OUTREMEUSE",
+      "other": ""
+    },
+    {
+      "code": "408252",
+      "date": "2027-02-21",
+      "time": "14:30",
+      "team1": "CS OUTREMEUSE",
+      "team2": "UN HUY BASKET",
+      "category": "MM - DIVISION 4 B",
+      "location": "CS OUTREMEUSE",
+      "other": ""
+    },
+    {
+      "code": "408272",
+      "date": "2027-03-07",
+      "time": "14:30",
+      "team1": "CS OUTREMEUSE",
+      "team2": "RBC CROATIA OUPEYE",
+      "category": "MM - DIVISION 4 B",
+      "location": "CS OUTREMEUSE",
+      "other": ""
+    },
+    {
+      "code": "408295",
+      "date": "2027-03-20",
+      "time": "19:00",
+      "team1": "ORP JAUCHE B",
+      "team2": "CS OUTREMEUSE",
+      "category": "MM - DIVISION 4 B",
+      "location": "ORP JAUCHE B",
+      "other": ""
+    },
+    {
+      "code": "408305",
+      "date": "2027-03-28",
+      "time": "13:30",
+      "team1": "ROYAL MOSA AC 1941 B",
+      "team2": "CS OUTREMEUSE",
+      "category": "MM - DIVISION 4 B",
+      "location": "ROYAL MOSA AC 1941 B",
+      "other": ""
+    },
+    {
+      "code": "408322",
+      "date": "2027-04-11",
+      "time": "15:30",
+      "team1": "HARIMALIA BC D",
+      "team2": "CS OUTREMEUSE",
+      "category": "MM - DIVISION 4 B",
+      "location": "HARIMALIA BC D",
+      "other": ""
+    },
+    {
+      "code": "408332",
+      "date": "2027-04-18",
+      "time": "14:30",
+      "team1": "CS OUTREMEUSE",
+      "team2": "R REN. MONTEGNEE",
+      "category": "MM - DIVISION 4 B",
+      "location": "CS OUTREMEUSE",
+      "other": ""
+    },
+    {
+      "code": "408341",
+      "date": "2027-04-25",
+      "time": "9:45",
+      "team1": "ROYAL BASKET OTHEE",
+      "team2": "CS OUTREMEUSE",
+      "category": "MM - DIVISION 4 B",
+      "location": "ROYAL BASKET OTHEE",
       "other": ""
     }
   ]

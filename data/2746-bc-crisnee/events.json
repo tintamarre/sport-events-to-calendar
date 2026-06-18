@@ -6,13 +6,583 @@
   },
   "events": [
     {
-      "code": "545333",
-      "date": "2026-04-18",
+      "code": "522023",
+      "date": "2026-09-12",
+      "time": "13:30",
+      "team1": "CONDROZ MODAVE BB",
+      "team2": "BC CRISNEE",
+      "category": "U 10 - MM C",
+      "location": "CONDROZ MODAVE BB",
+      "other": ""
+    },
+    {
+      "code": "522036",
+      "date": "2026-09-19",
+      "time": "10:30",
+      "team1": "R 4A AYWAILLE-HAMOIR C",
+      "team2": "BC CRISNEE",
+      "category": "U 10 - MM C",
+      "location": "R 4A AYWAILLE-HAMOIR C",
+      "other": ""
+    },
+    {
+      "code": "522052",
+      "date": "2026-10-03",
+      "time": "10:30",
+      "team1": "BC CRISNEE",
+      "team2": "ROYAL BC WANZE A",
+      "category": "U 10 - MM C",
+      "location": "BC CRISNEE",
+      "other": ""
+    },
+    {
+      "code": "522065",
+      "date": "2026-10-10",
+      "time": "9:00",
+      "team1": "BC COINTE A",
+      "team2": "BC CRISNEE",
+      "category": "U 10 - MM C",
+      "location": "BC COINTE A",
+      "other": ""
+    },
+    {
+      "code": "522105",
+      "date": "2026-11-08",
+      "time": "13:00",
+      "team1": "RB TILFF B",
+      "team2": "BC CRISNEE",
+      "category": "U 10 - MM C",
+      "location": "RB TILFF B",
+      "other": ""
+    },
+    {
+      "code": "522112",
+      "date": "2026-11-14",
+      "time": "10:30",
+      "team1": "BC CRISNEE",
+      "team2": "LA VILLERSOISE A",
+      "category": "U 10 - MM C",
+      "location": "BC CRISNEE",
+      "other": ""
+    },
+    {
+      "code": "522123",
+      "date": "2026-11-21",
+      "time": "10:45",
+      "team1": "ROYAL ANS BC A",
+      "team2": "BC CRISNEE",
+      "category": "U 10 - MM C",
+      "location": "ROYAL ANS BC A",
+      "other": ""
+    },
+    {
+      "code": "522142",
+      "date": "2026-12-05",
+      "time": "10:30",
+      "team1": "BC CRISNEE",
+      "team2": "ABC WAREMME A",
+      "category": "U 10 - MM C",
+      "location": "BC CRISNEE",
+      "other": ""
+    },
+    {
+      "code": "522152",
+      "date": "2026-12-12",
+      "time": "10:30",
+      "team1": "BC CRISNEE",
+      "team2": "BC BELLEFLAMME B",
+      "category": "U 10 - MM C",
+      "location": "BC CRISNEE",
+      "other": ""
+    },
+    {
+      "code": "522166",
+      "date": "2026-12-19",
+      "time": "15:30",
+      "team1": "BC SPRIMONT B",
+      "team2": "BC CRISNEE",
+      "category": "U 10 - MM C",
+      "location": "BC SPRIMONT B",
+      "other": ""
+    },
+    {
+      "code": "522192",
+      "date": "2027-01-09",
+      "time": "10:30",
+      "team1": "BC CRISNEE",
+      "team2": "R 4A AYWAILLE-HAMOIR C",
+      "category": "U 10 - MM C",
+      "location": "BC CRISNEE",
+      "other": ""
+    },
+    {
+      "code": "522212",
+      "date": "2027-01-23",
+      "time": "10:15",
+      "team1": "BC BELLEFLAMME B",
+      "team2": "BC CRISNEE",
+      "category": "U 10 - MM C",
+      "location": "BC BELLEFLAMME B",
+      "other": ""
+    },
+    {
+      "code": "522222",
+      "date": "2027-01-30",
+      "time": "10:30",
+      "team1": "BC CRISNEE",
+      "team2": "CONDROZ MODAVE BB",
+      "category": "U 10 - MM C",
+      "location": "BC CRISNEE",
+      "other": ""
+    },
+    {
+      "code": "522231",
+      "date": "2027-02-07",
+      "time": "9:00",
+      "team1": "LA VILLERSOISE A",
+      "team2": "BC CRISNEE",
+      "category": "U 10 - MM C",
+      "location": "LA VILLERSOISE A",
+      "other": ""
+    },
+    {
+      "code": "522244",
+      "date": "2027-02-14",
+      "time": "9:00",
+      "team1": "ROYAL BC WANZE A",
+      "team2": "BC CRISNEE",
+      "category": "U 10 - MM C",
+      "location": "ROYAL BC WANZE A",
+      "other": ""
+    },
+    {
+      "code": "522282",
+      "date": "2027-03-13",
+      "time": "10:30",
+      "team1": "BC CRISNEE",
+      "team2": "BC SPRIMONT B",
+      "category": "U 10 - MM C",
+      "location": "BC CRISNEE",
+      "other": ""
+    },
+    {
+      "code": "522292",
+      "date": "2027-03-20",
+      "time": "10:30",
+      "team1": "BC CRISNEE",
+      "team2": "RB TILFF B",
+      "category": "U 10 - MM C",
+      "location": "BC CRISNEE",
+      "other": ""
+    },
+    {
+      "code": "522302",
+      "date": "2027-03-27",
+      "time": "10:30",
+      "team1": "BC CRISNEE",
+      "team2": "BC COINTE A",
+      "category": "U 10 - MM C",
+      "location": "BC CRISNEE",
+      "other": ""
+    },
+    {
+      "code": "522322",
+      "date": "2027-04-10",
+      "time": "10:30",
+      "team1": "BC CRISNEE",
+      "team2": "ROYAL ANS BC A",
+      "category": "U 10 - MM C",
+      "location": "BC CRISNEE",
+      "other": ""
+    },
+    {
+      "code": "522334",
+      "date": "2027-04-17",
+      "time": "9:00",
+      "team1": "ABC WAREMME A",
+      "team2": "BC CRISNEE",
+      "category": "U 10 - MM C",
+      "location": "ABC WAREMME A",
+      "other": ""
+    },
+    {
+      "code": "527011",
+      "date": "2026-09-06",
+      "time": "9:00",
+      "team1": "GIANTS BRAIVES A",
+      "team2": "BC CRISNEE",
+      "category": "U 10 - MM H",
+      "location": "GIANTS BRAIVES A",
+      "other": ""
+    },
+    {
+      "code": "527022",
+      "date": "2026-09-12",
+      "time": "10:30",
+      "team1": "BC CRISNEE",
+      "team2": "RBC ALLEUR B",
+      "category": "U 10 - MM H",
+      "location": "BC CRISNEE",
+      "other": ""
+    },
+    {
+      "code": "527032",
+      "date": "2026-09-19",
+      "time": "10:30",
+      "team1": "BC CRISNEE",
+      "team2": "RBC ESNEUX A",
+      "category": "U 10 - MM H",
+      "location": "BC CRISNEE",
+      "other": ""
+    },
+    {
+      "code": "527062",
+      "date": "2026-10-10",
+      "time": "10:30",
+      "team1": "BC CRISNEE",
+      "team2": "ABC WAREMME C",
+      "category": "U 10 - MM H",
+      "location": "BC CRISNEE",
+      "other": ""
+    },
+    {
+      "code": "527102",
+      "date": "2026-11-07",
+      "time": "10:30",
+      "team1": "BC CRISNEE",
+      "team2": "CRISTAL SGH B",
+      "category": "U 10 - MM H",
+      "location": "BC CRISNEE",
+      "other": ""
+    },
+    {
+      "code": "527111",
+      "date": "2026-11-14",
+      "time": "15:00",
+      "team1": "ALL. FLEMALLE C",
+      "team2": "BC CRISNEE",
+      "category": "U 10 - MM H",
+      "location": "ALL. FLEMALLE C",
+      "other": ""
+    },
+    {
+      "code": "527122",
+      "date": "2026-11-21",
+      "time": "10:30",
+      "team1": "BC CRISNEE",
+      "team2": "RBC HANEFFE A",
+      "category": "U 10 - MM H",
+      "location": "BC CRISNEE",
+      "other": ""
+    },
+    {
+      "code": "527144",
+      "date": "2026-12-05",
+      "time": "13:00",
+      "team1": "BC VERLAINE B",
+      "team2": "BC CRISNEE",
+      "category": "U 10 - MM H",
+      "location": "BC VERLAINE B",
+      "other": ""
+    },
+    {
+      "code": "527152",
+      "date": "2026-12-12",
+      "time": "11:30",
+      "team1": "BC COINTE C",
+      "team2": "BC CRISNEE",
+      "category": "U 10 - MM H",
+      "location": "BC COINTE C",
+      "other": ""
+    },
+    {
+      "code": "527162",
+      "date": "2026-12-19",
+      "time": "10:30",
+      "team1": "BC CRISNEE",
+      "team2": "R 4A AYWAILLE-HAMOIR B",
+      "category": "U 10 - MM H",
+      "location": "BC CRISNEE",
+      "other": ""
+    },
+    {
+      "code": "527196",
+      "date": "2027-01-09",
+      "time": "10:30",
+      "team1": "RBC ESNEUX A",
+      "team2": "BC CRISNEE",
+      "category": "U 10 - MM H",
+      "location": "RBC ESNEUX A",
+      "other": ""
+    },
+    {
+      "code": "527202",
+      "date": "2027-01-16",
+      "time": "10:30",
+      "team1": "BC CRISNEE",
+      "team2": "GIANTS BRAIVES A",
+      "category": "U 10 - MM H",
+      "location": "BC CRISNEE",
+      "other": ""
+    },
+    {
+      "code": "527212",
+      "date": "2027-01-23",
+      "time": "10:30",
+      "team1": "BC CRISNEE",
+      "team2": "BC COINTE C",
+      "category": "U 10 - MM H",
+      "location": "BC CRISNEE",
+      "other": ""
+    },
+    {
+      "code": "527223",
+      "date": "2027-01-30",
+      "time": "14:45",
+      "team1": "RBC ALLEUR B",
+      "team2": "BC CRISNEE",
+      "category": "U 10 - MM H",
+      "location": "RBC ALLEUR B",
+      "other": ""
+    },
+    {
+      "code": "527232",
+      "date": "2027-02-06",
+      "time": "10:30",
+      "team1": "BC CRISNEE",
+      "team2": "ALL. FLEMALLE C",
+      "category": "U 10 - MM H",
+      "location": "BC CRISNEE",
+      "other": ""
+    },
+    {
+      "code": "527286",
+      "date": "2027-03-13",
+      "time": "13:00",
+      "team1": "R 4A AYWAILLE-HAMOIR B",
+      "team2": "BC CRISNEE",
+      "category": "U 10 - MM H",
+      "location": "R 4A AYWAILLE-HAMOIR B",
+      "other": ""
+    },
+    {
+      "code": "527295",
+      "date": "2027-03-20",
       "time": "11:00",
-      "team1": "RBC HANEFFE",
-      "team2": "BC CRISNEE A",
-      "category": "U 8 - MM F",
-      "location": "RBC HANEFFE",
+      "team1": "CRISTAL SGH B",
+      "team2": "BC CRISNEE",
+      "category": "U 10 - MM H",
+      "location": "CRISTAL SGH B",
+      "other": ""
+    },
+    {
+      "code": "527305",
+      "date": "2027-03-27",
+      "time": "13:00",
+      "team1": "ABC WAREMME C",
+      "team2": "BC CRISNEE",
+      "category": "U 10 - MM H",
+      "location": "ABC WAREMME C",
+      "other": ""
+    },
+    {
+      "code": "527323",
+      "date": "2027-04-10",
+      "time": "14:00",
+      "team1": "RBC HANEFFE A",
+      "team2": "BC CRISNEE",
+      "category": "U 10 - MM H",
+      "location": "RBC HANEFFE A",
+      "other": ""
+    },
+    {
+      "code": "527332",
+      "date": "2027-04-17",
+      "time": "10:30",
+      "team1": "BC CRISNEE",
+      "team2": "BC VERLAINE B",
+      "category": "U 10 - MM H",
+      "location": "BC CRISNEE",
+      "other": ""
+    },
+    {
+      "code": "542012",
+      "date": "2026-09-05",
+      "time": "9:00",
+      "team1": "BC CRISNEE",
+      "team2": "ROYAL HERVE-BATTICE B",
+      "category": "U 8 - MM C",
+      "location": "BC CRISNEE",
+      "other": ""
+    },
+    {
+      "code": "542023",
+      "date": "2026-09-12",
+      "time": "10:45",
+      "team1": "ROYAL ANS BC",
+      "team2": "BC CRISNEE",
+      "category": "U 8 - MM C",
+      "location": "ROYAL ANS BC",
+      "other": ""
+    },
+    {
+      "code": "542052",
+      "date": "2026-10-03",
+      "time": "9:00",
+      "team1": "BC CRISNEE",
+      "team2": "ABC WAREMME A",
+      "category": "U 8 - MM C",
+      "location": "BC CRISNEE",
+      "other": ""
+    },
+    {
+      "code": "542065",
+      "date": "2026-10-10",
+      "time": "9:30",
+      "team1": "CRISTAL SGH A",
+      "team2": "BC CRISNEE",
+      "category": "U 8 - MM C",
+      "location": "CRISTAL SGH A",
+      "other": ""
+    },
+    {
+      "code": "542105",
+      "date": "2026-11-08",
+      "time": "9:30",
+      "team1": "RB TILFF A",
+      "team2": "BC CRISNEE",
+      "category": "U 8 - MM C",
+      "location": "RB TILFF A",
+      "other": ""
+    },
+    {
+      "code": "542112",
+      "date": "2026-11-14",
+      "time": "9:00",
+      "team1": "BC CRISNEE",
+      "team2": "RBC AWANS",
+      "category": "U 8 - MM C",
+      "location": "BC CRISNEE",
+      "other": ""
+    },
+    {
+      "code": "542142",
+      "date": "2026-12-05",
+      "time": "9:00",
+      "team1": "BC CRISNEE",
+      "team2": "BC BELLEFLAMME",
+      "category": "U 8 - MM C",
+      "location": "BC CRISNEE",
+      "other": ""
+    },
+    {
+      "code": "542152",
+      "date": "2026-12-12",
+      "time": "9:00",
+      "team1": "BC CRISNEE",
+      "team2": "ROYAL BC NINANE",
+      "category": "U 8 - MM C",
+      "location": "BC CRISNEE",
+      "other": ""
+    },
+    {
+      "code": "542166",
+      "date": "2026-12-19",
+      "time": "10:15",
+      "team1": "R 4A AYWAILLE-HAMOIR A",
+      "team2": "BC CRISNEE",
+      "category": "U 8 - MM C",
+      "location": "R 4A AYWAILLE-HAMOIR A",
+      "other": ""
+    },
+    {
+      "code": "542201",
+      "date": "2027-01-16",
+      "time": "9:00",
+      "team1": "ROYAL HERVE-BATTICE B",
+      "team2": "BC CRISNEE",
+      "category": "U 8 - MM C",
+      "location": "ROYAL HERVE-BATTICE B",
+      "other": ""
+    },
+    {
+      "code": "542212",
+      "date": "2027-01-23",
+      "time": "11:00",
+      "team1": "ROYAL BC NINANE",
+      "team2": "BC CRISNEE",
+      "category": "U 8 - MM C",
+      "location": "ROYAL BC NINANE",
+      "other": ""
+    },
+    {
+      "code": "542222",
+      "date": "2027-01-30",
+      "time": "9:00",
+      "team1": "BC CRISNEE",
+      "team2": "ROYAL ANS BC",
+      "category": "U 8 - MM C",
+      "location": "BC CRISNEE",
+      "other": ""
+    },
+    {
+      "code": "542231",
+      "date": "2027-02-07",
+      "time": "9:00",
+      "team1": "RBC AWANS",
+      "team2": "BC CRISNEE",
+      "category": "U 8 - MM C",
+      "location": "RBC AWANS",
+      "other": ""
+    },
+    {
+      "code": "542244",
+      "date": "2027-02-13",
+      "time": "11:00",
+      "team1": "ABC WAREMME A",
+      "team2": "BC CRISNEE",
+      "category": "U 8 - MM C",
+      "location": "ABC WAREMME A",
+      "other": ""
+    },
+    {
+      "code": "542282",
+      "date": "2027-03-13",
+      "time": "9:00",
+      "team1": "BC CRISNEE",
+      "team2": "R 4A AYWAILLE-HAMOIR A",
+      "category": "U 8 - MM C",
+      "location": "BC CRISNEE",
+      "other": ""
+    },
+    {
+      "code": "542292",
+      "date": "2027-03-20",
+      "time": "9:00",
+      "team1": "BC CRISNEE",
+      "team2": "RB TILFF A",
+      "category": "U 8 - MM C",
+      "location": "BC CRISNEE",
+      "other": ""
+    },
+    {
+      "code": "542302",
+      "date": "2027-03-27",
+      "time": "9:00",
+      "team1": "BC CRISNEE",
+      "team2": "CRISTAL SGH A",
+      "category": "U 8 - MM C",
+      "location": "BC CRISNEE",
+      "other": ""
+    },
+    {
+      "code": "542334",
+      "date": "2027-04-17",
+      "time": "9:00",
+      "team1": "BC BELLEFLAMME",
+      "team2": "BC CRISNEE",
+      "category": "U 8 - MM C",
+      "location": "BC BELLEFLAMME",
       "other": ""
     }
   ]

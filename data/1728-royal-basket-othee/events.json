@@ -6,12 +6,482 @@
   },
   "events": [
     {
-      "code": "410332",
-      "date": "2026-04-19",
+      "code": "415012",
+      "date": "2026-09-06",
+      "time": "16:00",
+      "team1": "ROYAL BC NINANE A",
+      "team2": "ROYAL BASKET OTHEE",
+      "category": "DD - DIVISION 2 B",
+      "location": "ROYAL BC NINANE A",
+      "other": ""
+    },
+    {
+      "code": "415024",
+      "date": "2026-09-13",
+      "time": "13:00",
+      "team1": "ROYAL BC WANZE",
+      "team2": "ROYAL BASKET OTHEE",
+      "category": "DD - DIVISION 2 B",
+      "location": "ROYAL BC WANZE",
+      "other": ""
+    },
+    {
+      "code": "415031",
+      "date": "2026-09-20",
+      "time": "11:45",
+      "team1": "ROYAL BASKET OTHEE",
+      "team2": "RBC WELKENRAEDT",
+      "category": "DD - DIVISION 2 B",
+      "location": "ROYAL BASKET OTHEE",
+      "other": ""
+    },
+    {
+      "code": "415051",
+      "date": "2026-10-04",
+      "time": "11:45",
+      "team1": "ROYAL BASKET OTHEE",
+      "team2": "BC VERLAINE A",
+      "category": "DD - DIVISION 2 B",
+      "location": "ROYAL BASKET OTHEE",
+      "other": ""
+    },
+    {
+      "code": "415066",
+      "date": "2026-10-11",
+      "time": "12:00",
+      "team1": "PRAYON TROOZ C",
+      "team2": "ROYAL BASKET OTHEE",
+      "category": "DD - DIVISION 2 B",
+      "location": "PRAYON TROOZ C",
+      "other": ""
+    },
+    {
+      "code": "415071",
+      "date": "2026-10-18",
+      "time": "11:45",
+      "team1": "ROYAL BASKET OTHEE",
+      "team2": "RBC STAVELOT",
+      "category": "DD - DIVISION 2 B",
+      "location": "ROYAL BASKET OTHEE",
+      "other": ""
+    },
+    {
+      "code": "415082",
+      "date": "2026-10-25",
+      "time": "11:00",
+      "team1": "ALL. FLEMALLE B",
+      "team2": "ROYAL BASKET OTHEE",
+      "category": "DD - DIVISION 2 B",
+      "location": "ALL. FLEMALLE B",
+      "other": ""
+    },
+    {
+      "code": "415103",
+      "date": "2026-11-08",
+      "time": "13:00",
+      "team1": "ROYAL ANS BC",
+      "team2": "ROYAL BASKET OTHEE",
+      "category": "DD - DIVISION 2 B",
+      "location": "ROYAL ANS BC",
+      "other": ""
+    },
+    {
+      "code": "415111",
+      "date": "2026-11-15",
+      "time": "11:45",
+      "team1": "ROYAL BASKET OTHEE",
+      "team2": "R 4A AYWAILLE-HAMOIR A",
+      "category": "DD - DIVISION 2 B",
+      "location": "ROYAL BASKET OTHEE",
+      "other": ""
+    },
+    {
+      "code": "415126",
+      "date": "2026-11-22",
+      "time": "11:00",
+      "team1": "HENRI-CHAPELLE B",
+      "team2": "ROYAL BASKET OTHEE",
+      "category": "DD - DIVISION 2 B",
+      "location": "HENRI-CHAPELLE B",
+      "other": ""
+    },
+    {
+      "code": "415141",
+      "date": "2026-12-06",
+      "time": "11:45",
+      "team1": "ROYAL BASKET OTHEE",
+      "team2": "AVENIR JUPILLE",
+      "category": "DD - DIVISION 2 B",
+      "location": "ROYAL BASKET OTHEE",
+      "other": ""
+    },
+    {
+      "code": "415151",
+      "date": "2026-12-13",
+      "time": "11:45",
+      "team1": "ROYAL BASKET OTHEE",
+      "team2": "RBC ALLEUR D",
+      "category": "DD - DIVISION 2 B",
+      "location": "ROYAL BASKET OTHEE",
+      "other": ""
+    },
+    {
+      "code": "415165",
+      "date": "2026-12-20",
+      "time": "12:00",
+      "team1": "RBC HANEFFE C",
+      "team2": "ROYAL BASKET OTHEE",
+      "category": "DD - DIVISION 2 B",
+      "location": "RBC HANEFFE C",
+      "other": ""
+    },
+    {
+      "code": "415193",
+      "date": "2027-01-09",
+      "time": "17:00",
+      "team1": "RBC WELKENRAEDT",
+      "team2": "ROYAL BASKET OTHEE",
+      "category": "DD - DIVISION 2 B",
+      "location": "RBC WELKENRAEDT",
+      "other": ""
+    },
+    {
+      "code": "415201",
+      "date": "2027-01-17",
+      "time": "11:45",
+      "team1": "ROYAL BASKET OTHEE",
+      "team2": "ROYAL BC NINANE A",
+      "category": "DD - DIVISION 2 B",
+      "location": "ROYAL BASKET OTHEE",
+      "other": ""
+    },
+    {
+      "code": "415211",
+      "date": "2027-01-23",
+      "time": "17:00",
+      "team1": "RBC STAVELOT",
+      "team2": "ROYAL BASKET OTHEE",
+      "category": "DD - DIVISION 2 B",
+      "location": "RBC STAVELOT",
+      "other": ""
+    },
+    {
+      "code": "415221",
+      "date": "2027-01-31",
+      "time": "11:45",
+      "team1": "ROYAL BASKET OTHEE",
+      "team2": "ROYAL BC WANZE",
+      "category": "DD - DIVISION 2 B",
+      "location": "ROYAL BASKET OTHEE",
+      "other": ""
+    },
+    {
+      "code": "415245",
+      "date": "2027-02-14",
+      "time": "17:30",
+      "team1": "BC VERLAINE A",
+      "team2": "ROYAL BASKET OTHEE",
+      "category": "DD - DIVISION 2 B",
+      "location": "BC VERLAINE A",
+      "other": ""
+    },
+    {
+      "code": "415257",
+      "date": "2027-02-20",
+      "time": "17:00",
+      "team1": "R 4A AYWAILLE-HAMOIR A",
+      "team2": "ROYAL BASKET OTHEE",
+      "category": "DD - DIVISION 2 B",
+      "location": "R 4A AYWAILLE-HAMOIR A",
+      "other": ""
+    },
+    {
+      "code": "415274",
+      "date": "2027-03-06",
+      "time": "19:00",
+      "team1": "AVENIR JUPILLE",
+      "team2": "ROYAL BASKET OTHEE",
+      "category": "DD - DIVISION 2 B",
+      "location": "AVENIR JUPILLE",
+      "other": ""
+    },
+    {
+      "code": "415281",
+      "date": "2027-03-14",
+      "time": "11:45",
+      "team1": "ROYAL BASKET OTHEE",
+      "team2": "HENRI-CHAPELLE B",
+      "category": "DD - DIVISION 2 B",
+      "location": "ROYAL BASKET OTHEE",
+      "other": ""
+    },
+    {
+      "code": "415291",
+      "date": "2027-03-21",
+      "time": "11:45",
+      "team1": "ROYAL BASKET OTHEE",
+      "team2": "ROYAL ANS BC",
+      "category": "DD - DIVISION 2 B",
+      "location": "ROYAL BASKET OTHEE",
+      "other": ""
+    },
+    {
+      "code": "415301",
+      "date": "2027-03-28",
+      "time": "11:45",
+      "team1": "ROYAL BASKET OTHEE",
+      "team2": "PRAYON TROOZ C",
+      "category": "DD - DIVISION 2 B",
+      "location": "ROYAL BASKET OTHEE",
+      "other": ""
+    },
+    {
+      "code": "415321",
+      "date": "2027-04-11",
+      "time": "11:45",
+      "team1": "ROYAL BASKET OTHEE",
+      "team2": "RBC HANEFFE C",
+      "category": "DD - DIVISION 2 B",
+      "location": "ROYAL BASKET OTHEE",
+      "other": ""
+    },
+    {
+      "code": "415337",
+      "date": "2027-04-18",
+      "time": "15:00",
+      "team1": "RBC ALLEUR D",
+      "team2": "ROYAL BASKET OTHEE",
+      "category": "DD - DIVISION 2 B",
+      "location": "RBC ALLEUR D",
+      "other": ""
+    },
+    {
+      "code": "415341",
+      "date": "2027-04-25",
+      "time": "11:45",
+      "team1": "ROYAL BASKET OTHEE",
+      "team2": "ALL. FLEMALLE B",
+      "category": "DD - DIVISION 2 B",
+      "location": "ROYAL BASKET OTHEE",
+      "other": ""
+    },
+    {
+      "code": "408012",
+      "date": "2026-09-06",
+      "time": "15:30",
+      "team1": "HARIMALIA BC D",
+      "team2": "ROYAL BASKET OTHEE",
+      "category": "MM - DIVISION 4 B",
+      "location": "HARIMALIA BC D",
+      "other": ""
+    },
+    {
+      "code": "408024",
+      "date": "2026-09-12",
+      "time": "19:00",
+      "team1": "RBC CROATIA OUPEYE",
+      "team2": "ROYAL BASKET OTHEE",
+      "category": "MM - DIVISION 4 B",
+      "location": "RBC CROATIA OUPEYE",
+      "other": ""
+    },
+    {
+      "code": "408031",
+      "date": "2026-09-20",
       "time": "9:45",
       "team1": "ROYAL BASKET OTHEE",
-      "team2": "UN HUY BASKET B",
-      "category": "MM - DIVISION 4 D",
+      "team2": "UN HUY BASKET",
+      "category": "MM - DIVISION 4 B",
+      "location": "ROYAL BASKET OTHEE",
+      "other": ""
+    },
+    {
+      "code": "408051",
+      "date": "2026-10-04",
+      "time": "9:45",
+      "team1": "ROYAL BASKET OTHEE",
+      "team2": "ORP JAUCHE B",
+      "category": "MM - DIVISION 4 B",
+      "location": "ROYAL BASKET OTHEE",
+      "other": ""
+    },
+    {
+      "code": "408066",
+      "date": "2026-10-11",
+      "time": "11:00",
+      "team1": "R REN. MONTEGNEE",
+      "team2": "ROYAL BASKET OTHEE",
+      "category": "MM - DIVISION 4 B",
+      "location": "R REN. MONTEGNEE",
+      "other": ""
+    },
+    {
+      "code": "408071",
+      "date": "2026-10-18",
+      "time": "9:45",
+      "team1": "ROYAL BASKET OTHEE",
+      "team2": "BC TORES LIEGE",
+      "category": "MM - DIVISION 4 B",
+      "location": "ROYAL BASKET OTHEE",
+      "other": ""
+    },
+    {
+      "code": "408082",
+      "date": "2026-10-25",
+      "time": "14:30",
+      "team1": "CS OUTREMEUSE",
+      "team2": "ROYAL BASKET OTHEE",
+      "category": "MM - DIVISION 4 B",
+      "location": "CS OUTREMEUSE",
+      "other": ""
+    },
+    {
+      "code": "408103",
+      "date": "2026-11-08",
+      "time": "15:00",
+      "team1": "ROYAL ANS BC A",
+      "team2": "ROYAL BASKET OTHEE",
+      "category": "MM - DIVISION 4 B",
+      "location": "ROYAL ANS BC A",
+      "other": ""
+    },
+    {
+      "code": "408126",
+      "date": "2026-11-21",
+      "time": "21:00",
+      "team1": "RBC DISON-ANDRIMONT C",
+      "team2": "ROYAL BASKET OTHEE",
+      "category": "MM - DIVISION 4 B",
+      "location": "RBC DISON-ANDRIMONT C",
+      "other": ""
+    },
+    {
+      "code": "408141",
+      "date": "2026-12-06",
+      "time": "9:45",
+      "team1": "ROYAL BASKET OTHEE",
+      "team2": "MAIL. COMBLAIN B",
+      "category": "MM - DIVISION 4 B",
+      "location": "ROYAL BASKET OTHEE",
+      "other": ""
+    },
+    {
+      "code": "408165",
+      "date": "2026-12-20",
+      "time": "13:30",
+      "team1": "ROYAL MOSA AC 1941 B",
+      "team2": "ROYAL BASKET OTHEE",
+      "category": "MM - DIVISION 4 B",
+      "location": "ROYAL MOSA AC 1941 B",
+      "other": ""
+    },
+    {
+      "code": "408193",
+      "date": "2027-01-09",
+      "time": "21:00",
+      "team1": "UN HUY BASKET",
+      "team2": "ROYAL BASKET OTHEE",
+      "category": "MM - DIVISION 4 B",
+      "location": "UN HUY BASKET",
+      "other": ""
+    },
+    {
+      "code": "408201",
+      "date": "2027-01-17",
+      "time": "9:45",
+      "team1": "ROYAL BASKET OTHEE",
+      "team2": "HARIMALIA BC D",
+      "category": "MM - DIVISION 4 B",
+      "location": "ROYAL BASKET OTHEE",
+      "other": ""
+    },
+    {
+      "code": "408211",
+      "date": "2027-01-24",
+      "time": "15:00",
+      "team1": "BC TORES LIEGE",
+      "team2": "ROYAL BASKET OTHEE",
+      "category": "MM - DIVISION 4 B",
+      "location": "BC TORES LIEGE",
+      "other": ""
+    },
+    {
+      "code": "408221",
+      "date": "2027-01-31",
+      "time": "9:45",
+      "team1": "ROYAL BASKET OTHEE",
+      "team2": "RBC CROATIA OUPEYE",
+      "category": "MM - DIVISION 4 B",
+      "location": "ROYAL BASKET OTHEE",
+      "other": ""
+    },
+    {
+      "code": "408245",
+      "date": "2027-02-13",
+      "time": "19:00",
+      "team1": "ORP JAUCHE B",
+      "team2": "ROYAL BASKET OTHEE",
+      "category": "MM - DIVISION 4 B",
+      "location": "ORP JAUCHE B",
+      "other": ""
+    },
+    {
+      "code": "408274",
+      "date": "2027-03-06",
+      "time": "18:00",
+      "team1": "MAIL. COMBLAIN B",
+      "team2": "ROYAL BASKET OTHEE",
+      "category": "MM - DIVISION 4 B",
+      "location": "MAIL. COMBLAIN B",
+      "other": ""
+    },
+    {
+      "code": "408281",
+      "date": "2027-03-14",
+      "time": "9:45",
+      "team1": "ROYAL BASKET OTHEE",
+      "team2": "RBC DISON-ANDRIMONT C",
+      "category": "MM - DIVISION 4 B",
+      "location": "ROYAL BASKET OTHEE",
+      "other": ""
+    },
+    {
+      "code": "408291",
+      "date": "2027-03-21",
+      "time": "9:45",
+      "team1": "ROYAL BASKET OTHEE",
+      "team2": "ROYAL ANS BC A",
+      "category": "MM - DIVISION 4 B",
+      "location": "ROYAL BASKET OTHEE",
+      "other": ""
+    },
+    {
+      "code": "408301",
+      "date": "2027-03-28",
+      "time": "9:45",
+      "team1": "ROYAL BASKET OTHEE",
+      "team2": "R REN. MONTEGNEE",
+      "category": "MM - DIVISION 4 B",
+      "location": "ROYAL BASKET OTHEE",
+      "other": ""
+    },
+    {
+      "code": "408321",
+      "date": "2027-04-11",
+      "time": "9:45",
+      "team1": "ROYAL BASKET OTHEE",
+      "team2": "ROYAL MOSA AC 1941 B",
+      "category": "MM - DIVISION 4 B",
+      "location": "ROYAL BASKET OTHEE",
+      "other": ""
+    },
+    {
+      "code": "408341",
+      "date": "2027-04-25",
+      "time": "9:45",
+      "team1": "ROYAL BASKET OTHEE",
+      "team2": "CS OUTREMEUSE",
+      "category": "MM - DIVISION 4 B",
       "location": "ROYAL BASKET OTHEE",
       "other": ""
     }

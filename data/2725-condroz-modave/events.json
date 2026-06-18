@@ -6,53 +6,823 @@
   },
   "events": [
     {
-      "code": "523272",
-      "date": "2026-04-18",
-      "time": "11:30",
-      "team1": "CONDROZ MODAVE BB A",
-      "team2": "RB TILFF C",
-      "category": "U 10 - MM D",
-      "location": "CONDROZ MODAVE BB A",
-      "other": ""
-    },
-    {
-      "code": "ING1412BCB",
-      "date": "2026-04-19",
-      "time": "11:00",
-      "team1": "UNITED B WOLUWE",
-      "team2": "CONDROZ MODAVE BB",
-      "category": "U 14 MM - NATIONAUX B",
-      "location": "UNITED B WOLUWE",
-      "other": ""
-    },
-    {
-      "code": "AW155007",
-      "date": "2026-04-19",
-      "time": "17:45",
-      "team1": "ECOLE EUROPEENNE",
-      "team2": "CONDROZ MODAVE BB",
-      "category": "U 16 - GOLD REGIONAUX A",
-      "location": "ECOLE EUROPEENNE",
-      "other": ""
-    },
-    {
-      "code": "472332",
-      "date": "2026-04-18",
-      "time": "9:30",
+      "code": "522013",
+      "date": "2026-09-05",
+      "time": "13:30",
       "team1": "CONDROZ MODAVE BB",
-      "team2": "UN HUY BASKET",
-      "category": "U 16 - PROV MM C",
+      "team2": "R 4A AYWAILLE-HAMOIR C",
+      "category": "U 10 - MM C",
       "location": "CONDROZ MODAVE BB",
       "other": ""
     },
     {
-      "code": "553332",
-      "date": "2026-04-18",
-      "time": "11:30",
+      "code": "522023",
+      "date": "2026-09-12",
+      "time": "13:30",
+      "team1": "CONDROZ MODAVE BB",
+      "team2": "BC CRISNEE",
+      "category": "U 10 - MM C",
+      "location": "CONDROZ MODAVE BB",
+      "other": ""
+    },
+    {
+      "code": "522053",
+      "date": "2026-10-03",
+      "time": "13:30",
+      "team1": "CONDROZ MODAVE BB",
+      "team2": "BC SPRIMONT B",
+      "category": "U 10 - MM C",
+      "location": "CONDROZ MODAVE BB",
+      "other": ""
+    },
+    {
+      "code": "522064",
+      "date": "2026-10-11",
+      "time": "9:00",
+      "team1": "ROYAL BC WANZE A",
+      "team2": "CONDROZ MODAVE BB",
+      "category": "U 10 - MM C",
+      "location": "ROYAL BC WANZE A",
+      "other": ""
+    },
+    {
+      "code": "522101",
+      "date": "2026-11-08",
+      "time": "9:00",
+      "team1": "LA VILLERSOISE A",
+      "team2": "CONDROZ MODAVE BB",
+      "category": "U 10 - MM C",
+      "location": "LA VILLERSOISE A",
+      "other": ""
+    },
+    {
+      "code": "522113",
+      "date": "2026-11-14",
+      "time": "13:30",
+      "team1": "CONDROZ MODAVE BB",
+      "team2": "ABC WAREMME A",
+      "category": "U 10 - MM C",
+      "location": "CONDROZ MODAVE BB",
+      "other": ""
+    },
+    {
+      "code": "522122",
+      "date": "2026-11-21",
+      "time": "10:15",
+      "team1": "BC BELLEFLAMME B",
+      "team2": "CONDROZ MODAVE BB",
+      "category": "U 10 - MM C",
+      "location": "BC BELLEFLAMME B",
+      "other": ""
+    },
+    {
+      "code": "522143",
+      "date": "2026-12-05",
+      "time": "13:30",
+      "team1": "CONDROZ MODAVE BB",
+      "team2": "RB TILFF B",
+      "category": "U 10 - MM C",
+      "location": "CONDROZ MODAVE BB",
+      "other": ""
+    },
+    {
+      "code": "522153",
+      "date": "2026-12-12",
+      "time": "13:30",
+      "team1": "CONDROZ MODAVE BB",
+      "team2": "ROYAL ANS BC A",
+      "category": "U 10 - MM C",
+      "location": "CONDROZ MODAVE BB",
+      "other": ""
+    },
+    {
+      "code": "522165",
+      "date": "2026-12-19",
+      "time": "9:00",
+      "team1": "BC COINTE A",
+      "team2": "CONDROZ MODAVE BB",
+      "category": "U 10 - MM C",
+      "location": "BC COINTE A",
+      "other": ""
+    },
+    {
+      "code": "522206",
+      "date": "2027-01-16",
+      "time": "10:30",
+      "team1": "R 4A AYWAILLE-HAMOIR C",
+      "team2": "CONDROZ MODAVE BB",
+      "category": "U 10 - MM C",
+      "location": "R 4A AYWAILLE-HAMOIR C",
+      "other": ""
+    },
+    {
+      "code": "522213",
+      "date": "2027-01-23",
+      "time": "10:45",
+      "team1": "ROYAL ANS BC A",
+      "team2": "CONDROZ MODAVE BB",
+      "category": "U 10 - MM C",
+      "location": "ROYAL ANS BC A",
+      "other": ""
+    },
+    {
+      "code": "522222",
+      "date": "2027-01-30",
+      "time": "10:30",
+      "team1": "BC CRISNEE",
+      "team2": "CONDROZ MODAVE BB",
+      "category": "U 10 - MM C",
+      "location": "BC CRISNEE",
+      "other": ""
+    },
+    {
+      "code": "522234",
+      "date": "2027-02-06",
+      "time": "9:00",
+      "team1": "ABC WAREMME A",
+      "team2": "CONDROZ MODAVE BB",
+      "category": "U 10 - MM C",
+      "location": "ABC WAREMME A",
+      "other": ""
+    },
+    {
+      "code": "522246",
+      "date": "2027-02-13",
+      "time": "15:30",
+      "team1": "BC SPRIMONT B",
+      "team2": "CONDROZ MODAVE BB",
+      "category": "U 10 - MM C",
+      "location": "BC SPRIMONT B",
+      "other": ""
+    },
+    {
+      "code": "522283",
+      "date": "2027-03-13",
+      "time": "13:30",
+      "team1": "CONDROZ MODAVE BB",
+      "team2": "BC COINTE A",
+      "category": "U 10 - MM C",
+      "location": "CONDROZ MODAVE BB",
+      "other": ""
+    },
+    {
+      "code": "522293",
+      "date": "2027-03-20",
+      "time": "13:30",
+      "team1": "CONDROZ MODAVE BB",
+      "team2": "LA VILLERSOISE A",
+      "category": "U 10 - MM C",
+      "location": "CONDROZ MODAVE BB",
+      "other": ""
+    },
+    {
+      "code": "522303",
+      "date": "2027-03-27",
+      "time": "13:30",
+      "team1": "CONDROZ MODAVE BB",
+      "team2": "ROYAL BC WANZE A",
+      "category": "U 10 - MM C",
+      "location": "CONDROZ MODAVE BB",
+      "other": ""
+    },
+    {
+      "code": "522323",
+      "date": "2027-04-10",
+      "time": "13:30",
+      "team1": "CONDROZ MODAVE BB",
+      "team2": "BC BELLEFLAMME B",
+      "category": "U 10 - MM C",
+      "location": "CONDROZ MODAVE BB",
+      "other": ""
+    },
+    {
+      "code": "522335",
+      "date": "2027-04-18",
+      "time": "13:00",
+      "team1": "RB TILFF B",
+      "team2": "CONDROZ MODAVE BB",
+      "category": "U 10 - MM C",
+      "location": "RB TILFF B",
+      "other": ""
+    },
+    {
+      "code": "500013",
+      "date": "2026-09-05",
+      "time": "9:00",
+      "team1": "LA VILLERSOISE A",
+      "team2": "CONDROZ MODAVE BB",
+      "category": "U 12 - MM A",
+      "location": "LA VILLERSOISE A",
+      "other": ""
+    },
+    {
+      "code": "500025",
+      "date": "2026-09-12",
+      "time": "13:00",
+      "team1": "CRISTAL SGH A",
+      "team2": "CONDROZ MODAVE BB",
+      "category": "U 12 - MM A",
+      "location": "CRISTAL SGH A",
+      "other": ""
+    },
+    {
+      "code": "500037",
+      "date": "2026-09-19",
+      "time": "9:00",
+      "team1": "CONDROZ MODAVE BB",
+      "team2": "PEPINSTER EAST BELG A",
+      "category": "U 12 - MM A",
+      "location": "CONDROZ MODAVE BB",
+      "other": ""
+    },
+    {
+      "code": "500057",
+      "date": "2026-10-03",
+      "time": "9:00",
+      "team1": "CONDROZ MODAVE BB",
+      "team2": "RBC ESNEUX A",
+      "category": "U 12 - MM A",
+      "location": "CONDROZ MODAVE BB",
+      "other": ""
+    },
+    {
+      "code": "500067",
+      "date": "2026-10-10",
+      "time": "9:00",
+      "team1": "ALL. FLEMALLE A",
+      "team2": "CONDROZ MODAVE BB",
+      "category": "U 12 - MM A",
+      "location": "ALL. FLEMALLE A",
+      "other": ""
+    },
+    {
+      "code": "500081",
+      "date": "2026-10-25",
+      "time": "11:00",
+      "team1": "GIANTS BRAIVES A",
+      "team2": "CONDROZ MODAVE BB",
+      "category": "U 12 - MM A",
+      "location": "GIANTS BRAIVES A",
+      "other": ""
+    },
+    {
+      "code": "500105",
+      "date": "2026-11-08",
+      "time": "9:00",
+      "team1": "RBC VISE A",
+      "team2": "CONDROZ MODAVE BB",
+      "category": "U 12 - MM A",
+      "location": "RBC VISE A",
+      "other": ""
+    },
+    {
+      "code": "500117",
+      "date": "2026-11-14",
+      "time": "9:00",
+      "team1": "CONDROZ MODAVE BB",
+      "team2": "ETOILE JUPILLE",
+      "category": "U 12 - MM A",
+      "location": "CONDROZ MODAVE BB",
+      "other": ""
+    },
+    {
+      "code": "500122",
+      "date": "2026-11-21",
+      "time": "15:00",
+      "team1": "ROYAL HERVE-BATTICE B",
+      "team2": "CONDROZ MODAVE BB",
+      "category": "U 12 - MM A",
+      "location": "ROYAL HERVE-BATTICE B",
+      "other": ""
+    },
+    {
+      "code": "500147",
+      "date": "2026-12-05",
+      "time": "9:00",
+      "team1": "CONDROZ MODAVE BB",
+      "team2": "ROYAL HERVE-BATTICE A",
+      "category": "U 12 - MM A",
+      "location": "CONDROZ MODAVE BB",
+      "other": ""
+    },
+    {
+      "code": "500151",
+      "date": "2026-12-12",
+      "time": "14:00",
+      "team1": "RSW LIEGE BASKET",
+      "team2": "CONDROZ MODAVE BB",
+      "category": "U 12 - MM A",
+      "location": "RSW LIEGE BASKET",
+      "other": ""
+    },
+    {
+      "code": "500167",
+      "date": "2026-12-19",
+      "time": "9:00",
+      "team1": "CONDROZ MODAVE BB",
+      "team2": "BC BELLEFLAMME",
+      "category": "U 12 - MM A",
+      "location": "CONDROZ MODAVE BB",
+      "other": ""
+    },
+    {
+      "code": "500192",
+      "date": "2027-01-09",
+      "time": "11:00",
+      "team1": "PEPINSTER EAST BELG A",
+      "team2": "CONDROZ MODAVE BB",
+      "category": "U 12 - MM A",
+      "location": "PEPINSTER EAST BELG A",
+      "other": ""
+    },
+    {
+      "code": "500207",
+      "date": "2027-01-16",
+      "time": "9:00",
+      "team1": "CONDROZ MODAVE BB",
+      "team2": "LA VILLERSOISE A",
+      "category": "U 12 - MM A",
+      "location": "CONDROZ MODAVE BB",
+      "other": ""
+    },
+    {
+      "code": "500227",
+      "date": "2027-01-30",
+      "time": "9:00",
+      "team1": "CONDROZ MODAVE BB",
+      "team2": "CRISTAL SGH A",
+      "category": "U 12 - MM A",
+      "location": "CONDROZ MODAVE BB",
+      "other": ""
+    },
+    {
+      "code": "500246",
+      "date": "2027-02-13",
+      "time": "9:00",
+      "team1": "RBC ESNEUX A",
+      "team2": "CONDROZ MODAVE BB",
+      "category": "U 12 - MM A",
+      "location": "RBC ESNEUX A",
+      "other": ""
+    },
+    {
+      "code": "500254",
+      "date": "2027-02-20",
+      "time": "13:00",
+      "team1": "ETOILE JUPILLE",
+      "team2": "CONDROZ MODAVE BB",
+      "category": "U 12 - MM A",
+      "location": "ETOILE JUPILLE",
+      "other": ""
+    },
+    {
+      "code": "500276",
+      "date": "2027-03-07",
+      "time": "13:00",
+      "team1": "ROYAL HERVE-BATTICE A",
+      "team2": "CONDROZ MODAVE BB",
+      "category": "U 12 - MM A",
+      "location": "ROYAL HERVE-BATTICE A",
+      "other": ""
+    },
+    {
+      "code": "500287",
+      "date": "2027-03-13",
+      "time": "9:00",
+      "team1": "CONDROZ MODAVE BB",
+      "team2": "ROYAL HERVE-BATTICE B",
+      "category": "U 12 - MM A",
+      "location": "CONDROZ MODAVE BB",
+      "other": ""
+    },
+    {
+      "code": "500297",
+      "date": "2027-03-20",
+      "time": "9:00",
+      "team1": "CONDROZ MODAVE BB",
+      "team2": "RBC VISE A",
+      "category": "U 12 - MM A",
+      "location": "CONDROZ MODAVE BB",
+      "other": ""
+    },
+    {
+      "code": "500307",
+      "date": "2027-03-27",
+      "time": "9:00",
+      "team1": "CONDROZ MODAVE BB",
+      "team2": "ALL. FLEMALLE A",
+      "category": "U 12 - MM A",
+      "location": "CONDROZ MODAVE BB",
+      "other": ""
+    },
+    {
+      "code": "500324",
+      "date": "2027-04-10",
+      "time": "9:00",
+      "team1": "BC BELLEFLAMME",
+      "team2": "CONDROZ MODAVE BB",
+      "category": "U 12 - MM A",
+      "location": "BC BELLEFLAMME",
+      "other": ""
+    },
+    {
+      "code": "500337",
+      "date": "2027-04-17",
+      "time": "9:00",
+      "team1": "CONDROZ MODAVE BB",
+      "team2": "RSW LIEGE BASKET",
+      "category": "U 12 - MM A",
+      "location": "CONDROZ MODAVE BB",
+      "other": ""
+    },
+    {
+      "code": "500347",
+      "date": "2027-04-24",
+      "time": "9:00",
+      "team1": "CONDROZ MODAVE BB",
+      "team2": "GIANTS BRAIVES A",
+      "category": "U 12 - MM A",
+      "location": "CONDROZ MODAVE BB",
+      "other": ""
+    },
+    {
+      "code": "553012",
+      "date": "2026-09-05",
+      "time": "15:00",
+      "team1": "UN HUY BASKET",
+      "team2": "CONDROZ MODAVE BB",
+      "category": "U 7 - MM D",
+      "location": "UN HUY BASKET",
+      "other": ""
+    },
+    {
+      "code": "553024",
+      "date": "2026-09-12",
+      "time": "9:00",
+      "team1": "ABC WAREMME B",
+      "team2": "CONDROZ MODAVE BB",
+      "category": "U 7 - MM D",
+      "location": "ABC WAREMME B",
+      "other": ""
+    },
+    {
+      "code": "553031",
+      "date": "2026-09-19",
+      "time": "15:00",
+      "team1": "CONDROZ MODAVE BB",
+      "team2": "RBC HANEFFE",
+      "category": "U 7 - MM D",
+      "location": "CONDROZ MODAVE BB",
+      "other": ""
+    },
+    {
+      "code": "553051",
+      "date": "2026-10-03",
+      "time": "15:00",
+      "team1": "CONDROZ MODAVE BB",
+      "team2": "RBC ESNEUX",
+      "category": "U 7 - MM D",
+      "location": "CONDROZ MODAVE BB",
+      "other": ""
+    },
+    {
+      "code": "553061",
+      "date": "2026-10-10",
+      "time": "9:00",
+      "team1": "RSW LIEGE BASKET",
+      "team2": "CONDROZ MODAVE BB",
+      "category": "U 7 - MM D",
+      "location": "RSW LIEGE BASKET",
+      "other": ""
+    },
+    {
+      "code": "553103",
+      "date": "2026-11-07",
+      "time": "9:00",
+      "team1": "LA VILLERSOISE",
+      "team2": "CONDROZ MODAVE BB",
+      "category": "U 7 - MM D",
+      "location": "LA VILLERSOISE",
+      "other": ""
+    },
+    {
+      "code": "553111",
+      "date": "2026-11-14",
+      "time": "15:00",
+      "team1": "CONDROZ MODAVE BB",
+      "team2": "ROYAL BC NINANE B",
+      "category": "U 7 - MM D",
+      "location": "CONDROZ MODAVE BB",
+      "other": ""
+    },
+    {
+      "code": "553125",
+      "date": "2026-11-21",
+      "time": "9:00",
+      "team1": "ROYAL ANS BC",
+      "team2": "CONDROZ MODAVE BB",
+      "category": "U 7 - MM D",
+      "location": "ROYAL ANS BC",
+      "other": ""
+    },
+    {
+      "code": "553151",
+      "date": "2026-12-12",
+      "time": "15:00",
+      "team1": "CONDROZ MODAVE BB",
+      "team2": "BC SPRIMONT B",
+      "category": "U 7 - MM D",
+      "location": "CONDROZ MODAVE BB",
+      "other": ""
+    },
+    {
+      "code": "553164",
+      "date": "2026-12-20",
+      "time": "9:30",
+      "team1": "BC VERLAINE",
+      "team2": "CONDROZ MODAVE BB",
+      "category": "U 7 - MM D",
+      "location": "BC VERLAINE",
+      "other": ""
+    },
+    {
+      "code": "553193",
+      "date": "2027-01-09",
+      "time": "11:00",
+      "team1": "RBC HANEFFE",
+      "team2": "CONDROZ MODAVE BB",
+      "category": "U 7 - MM D",
+      "location": "RBC HANEFFE",
+      "other": ""
+    },
+    {
+      "code": "553201",
+      "date": "2027-01-16",
+      "time": "15:00",
+      "team1": "CONDROZ MODAVE BB",
+      "team2": "UN HUY BASKET",
+      "category": "U 7 - MM D",
+      "location": "CONDROZ MODAVE BB",
+      "other": ""
+    },
+    {
+      "code": "553216",
+      "date": "2027-01-24",
+      "time": "10:30",
+      "team1": "BC SPRIMONT B",
+      "team2": "CONDROZ MODAVE BB",
+      "category": "U 7 - MM D",
+      "location": "BC SPRIMONT B",
+      "other": ""
+    },
+    {
+      "code": "553221",
+      "date": "2027-01-30",
+      "time": "15:00",
+      "team1": "CONDROZ MODAVE BB",
+      "team2": "ABC WAREMME B",
+      "category": "U 7 - MM D",
+      "location": "CONDROZ MODAVE BB",
+      "other": ""
+    },
+    {
+      "code": "553232",
+      "date": "2027-02-06",
+      "time": "10:00",
+      "team1": "ROYAL BC NINANE B",
+      "team2": "CONDROZ MODAVE BB",
+      "category": "U 7 - MM D",
+      "location": "ROYAL BC NINANE B",
+      "other": ""
+    },
+    {
+      "code": "553245",
+      "date": "2027-02-13",
+      "time": "13:30",
+      "team1": "RBC ESNEUX",
+      "team2": "CONDROZ MODAVE BB",
+      "category": "U 7 - MM D",
+      "location": "RBC ESNEUX",
+      "other": ""
+    },
+    {
+      "code": "553281",
+      "date": "2027-03-13",
+      "time": "15:00",
+      "team1": "CONDROZ MODAVE BB",
+      "team2": "BC VERLAINE",
+      "category": "U 7 - MM D",
+      "location": "CONDROZ MODAVE BB",
+      "other": ""
+    },
+    {
+      "code": "553291",
+      "date": "2027-03-20",
+      "time": "15:00",
+      "team1": "CONDROZ MODAVE BB",
+      "team2": "LA VILLERSOISE",
+      "category": "U 7 - MM D",
+      "location": "CONDROZ MODAVE BB",
+      "other": ""
+    },
+    {
+      "code": "553301",
+      "date": "2027-03-27",
+      "time": "15:00",
+      "team1": "CONDROZ MODAVE BB",
+      "team2": "RSW LIEGE BASKET",
+      "category": "U 7 - MM D",
+      "location": "CONDROZ MODAVE BB",
+      "other": ""
+    },
+    {
+      "code": "553321",
+      "date": "2027-04-10",
+      "time": "15:00",
       "team1": "CONDROZ MODAVE BB",
       "team2": "ROYAL ANS BC",
       "category": "U 7 - MM D",
       "location": "CONDROZ MODAVE BB",
+      "other": ""
+    },
+    {
+      "code": "545013",
+      "date": "2026-09-05",
+      "time": "13:30",
+      "team1": "CONDROZ MODAVE BB",
+      "team2": "GIANTS BRAIVES B",
+      "category": "U 8 - MM F",
+      "location": "CONDROZ MODAVE BB",
+      "other": ""
+    },
+    {
+      "code": "545023",
+      "date": "2026-09-12",
+      "time": "13:30",
+      "team1": "CONDROZ MODAVE BB",
+      "team2": "HANNUT BC B",
+      "category": "U 8 - MM F",
+      "location": "CONDROZ MODAVE BB",
+      "other": ""
+    },
+    {
+      "code": "545031",
+      "date": "2026-09-19",
+      "time": "9:00",
+      "team1": "LA VILLERSOISE B",
+      "team2": "CONDROZ MODAVE BB",
+      "category": "U 8 - MM F",
+      "location": "LA VILLERSOISE B",
+      "other": ""
+    },
+    {
+      "code": "545053",
+      "date": "2026-10-03",
+      "time": "13:30",
+      "team1": "CONDROZ MODAVE BB",
+      "team2": "R REN. MONTEGNEE",
+      "category": "U 8 - MM F",
+      "location": "CONDROZ MODAVE BB",
+      "other": ""
+    },
+    {
+      "code": "545064",
+      "date": "2026-10-11",
+      "time": "12:00",
+      "team1": "ROYAL BC WANZE",
+      "team2": "CONDROZ MODAVE BB",
+      "category": "U 8 - MM F",
+      "location": "ROYAL BC WANZE",
+      "other": ""
+    },
+    {
+      "code": "545101",
+      "date": "2026-11-07",
+      "time": "11:00",
+      "team1": "ALL. FLEMALLE B",
+      "team2": "CONDROZ MODAVE BB",
+      "category": "U 8 - MM F",
+      "location": "ALL. FLEMALLE B",
+      "other": ""
+    },
+    {
+      "code": "545122",
+      "date": "2026-11-21",
+      "time": "11:30",
+      "team1": "BC COINTE B",
+      "team2": "CONDROZ MODAVE BB",
+      "category": "U 8 - MM F",
+      "location": "BC COINTE B",
+      "other": ""
+    },
+    {
+      "code": "545143",
+      "date": "2026-12-05",
+      "time": "13:30",
+      "team1": "CONDROZ MODAVE BB",
+      "team2": "ORP JAUCHE",
+      "category": "U 8 - MM F",
+      "location": "CONDROZ MODAVE BB",
+      "other": ""
+    },
+    {
+      "code": "545165",
+      "date": "2026-12-19",
+      "time": "12:00",
+      "team1": "RBC ESNEUX A",
+      "team2": "CONDROZ MODAVE BB",
+      "category": "U 8 - MM F",
+      "location": "RBC ESNEUX A",
+      "other": ""
+    },
+    {
+      "code": "545193",
+      "date": "2027-01-09",
+      "time": "13:30",
+      "team1": "CONDROZ MODAVE BB",
+      "team2": "LA VILLERSOISE B",
+      "category": "U 8 - MM F",
+      "location": "CONDROZ MODAVE BB",
+      "other": ""
+    },
+    {
+      "code": "545206",
+      "date": "2027-01-16",
+      "time": "15:00",
+      "team1": "GIANTS BRAIVES B",
+      "team2": "CONDROZ MODAVE BB",
+      "category": "U 8 - MM F",
+      "location": "GIANTS BRAIVES B",
+      "other": ""
+    },
+    {
+      "code": "545222",
+      "date": "2027-01-30",
+      "time": "11:00",
+      "team1": "HANNUT BC B",
+      "team2": "CONDROZ MODAVE BB",
+      "category": "U 8 - MM F",
+      "location": "HANNUT BC B",
+      "other": ""
+    },
+    {
+      "code": "545246",
+      "date": "2027-02-14",
+      "time": "9:00",
+      "team1": "R REN. MONTEGNEE",
+      "team2": "CONDROZ MODAVE BB",
+      "category": "U 8 - MM F",
+      "location": "R REN. MONTEGNEE",
+      "other": ""
+    },
+    {
+      "code": "545283",
+      "date": "2027-03-13",
+      "time": "13:30",
+      "team1": "CONDROZ MODAVE BB",
+      "team2": "RBC ESNEUX A",
+      "category": "U 8 - MM F",
+      "location": "CONDROZ MODAVE BB",
+      "other": ""
+    },
+    {
+      "code": "545293",
+      "date": "2027-03-20",
+      "time": "13:30",
+      "team1": "CONDROZ MODAVE BB",
+      "team2": "ALL. FLEMALLE B",
+      "category": "U 8 - MM F",
+      "location": "CONDROZ MODAVE BB",
+      "other": ""
+    },
+    {
+      "code": "545303",
+      "date": "2027-03-27",
+      "time": "13:30",
+      "team1": "CONDROZ MODAVE BB",
+      "team2": "ROYAL BC WANZE",
+      "category": "U 8 - MM F",
+      "location": "CONDROZ MODAVE BB",
+      "other": ""
+    },
+    {
+      "code": "545323",
+      "date": "2027-04-10",
+      "time": "13:30",
+      "team1": "CONDROZ MODAVE BB",
+      "team2": "BC COINTE B",
+      "category": "U 8 - MM F",
+      "location": "CONDROZ MODAVE BB",
+      "other": ""
+    },
+    {
+      "code": "545335",
+      "date": "2027-04-17",
+      "time": "11:00",
+      "team1": "ORP JAUCHE",
+      "team2": "CONDROZ MODAVE BB",
+      "category": "U 8 - MM F",
+      "location": "ORP JAUCHE",
       "other": ""
     }
   ]

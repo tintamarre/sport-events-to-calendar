@@ -6,23 +6,823 @@
   },
   "events": [
     {
-      "code": "472334",
-      "date": "2026-04-19",
+      "code": "493016",
+      "date": "2026-09-06",
+      "time": "9:00",
+      "team1": "R REN. MONTEGNEE",
+      "team2": "MARCHIN BASKET",
+      "category": "U 14 - PROV MM D",
+      "location": "R REN. MONTEGNEE",
+      "other": ""
+    },
+    {
+      "code": "493033",
+      "date": "2026-09-20",
       "time": "12:00",
       "team1": "MARCHIN BASKET",
-      "team2": "GIANTS BRAIVES",
-      "category": "U 16 - PROV MM C",
+      "team2": "RBC AWANS A",
+      "category": "U 14 - PROV MM D",
       "location": "MARCHIN BASKET",
       "other": ""
     },
     {
-      "code": "440334",
-      "date": "2026-04-19",
+      "code": "493056",
+      "date": "2026-10-03",
+      "time": "16:00",
+      "team1": "R HT-PRE OUGREE",
+      "team2": "MARCHIN BASKET",
+      "category": "U 14 - PROV MM D",
+      "location": "R HT-PRE OUGREE",
+      "other": ""
+    },
+    {
+      "code": "493063",
+      "date": "2026-10-11",
+      "time": "12:00",
+      "team1": "MARCHIN BASKET",
+      "team2": "BC VERLAINE",
+      "category": "U 14 - PROV MM D",
+      "location": "MARCHIN BASKET",
+      "other": ""
+    },
+    {
+      "code": "493114",
+      "date": "2026-11-15",
+      "time": "9:00",
+      "team1": "ROYAL BC WANZE",
+      "team2": "MARCHIN BASKET",
+      "category": "U 14 - PROV MM D",
+      "location": "ROYAL BC WANZE",
+      "other": ""
+    },
+    {
+      "code": "493123",
+      "date": "2026-11-22",
+      "time": "12:00",
+      "team1": "MARCHIN BASKET",
+      "team2": "HANNUT BC",
+      "category": "U 14 - PROV MM D",
+      "location": "MARCHIN BASKET",
+      "other": ""
+    },
+    {
+      "code": "493145",
+      "date": "2026-12-05",
+      "time": "13:00",
+      "team1": "LA VILLERSOISE",
+      "team2": "MARCHIN BASKET",
+      "category": "U 14 - PROV MM D",
+      "location": "LA VILLERSOISE",
+      "other": ""
+    },
+    {
+      "code": "493153",
+      "date": "2026-12-12",
+      "time": "13:00",
+      "team1": "UN HUY BASKET",
+      "team2": "MARCHIN BASKET",
+      "category": "U 14 - PROV MM D",
+      "location": "UN HUY BASKET",
+      "other": ""
+    },
+    {
+      "code": "493163",
+      "date": "2026-12-20",
+      "time": "12:00",
+      "team1": "MARCHIN BASKET",
+      "team2": "ORP JAUCHE",
+      "category": "U 14 - PROV MM D",
+      "location": "MARCHIN BASKET",
+      "other": ""
+    },
+    {
+      "code": "493191",
+      "date": "2027-01-10",
+      "time": "17:00",
+      "team1": "RBC AWANS A",
+      "team2": "MARCHIN BASKET",
+      "category": "U 14 - PROV MM D",
+      "location": "RBC AWANS A",
+      "other": ""
+    },
+    {
+      "code": "493203",
+      "date": "2027-01-17",
+      "time": "12:00",
+      "team1": "MARCHIN BASKET",
+      "team2": "R REN. MONTEGNEE",
+      "category": "U 14 - PROV MM D",
+      "location": "MARCHIN BASKET",
+      "other": ""
+    },
+    {
+      "code": "493213",
+      "date": "2027-01-24",
+      "time": "12:00",
+      "team1": "MARCHIN BASKET",
+      "team2": "UN HUY BASKET",
+      "category": "U 14 - PROV MM D",
+      "location": "MARCHIN BASKET",
+      "other": ""
+    },
+    {
+      "code": "493233",
+      "date": "2027-02-07",
+      "time": "12:00",
+      "team1": "MARCHIN BASKET",
+      "team2": "ROYAL BC WANZE",
+      "category": "U 14 - PROV MM D",
+      "location": "MARCHIN BASKET",
+      "other": ""
+    },
+    {
+      "code": "493243",
+      "date": "2027-02-14",
+      "time": "12:00",
+      "team1": "MARCHIN BASKET",
+      "team2": "R HT-PRE OUGREE",
+      "category": "U 14 - PROV MM D",
+      "location": "MARCHIN BASKET",
+      "other": ""
+    },
+    {
+      "code": "493285",
+      "date": "2027-03-13",
+      "time": "15:00",
+      "team1": "ORP JAUCHE",
+      "team2": "MARCHIN BASKET",
+      "category": "U 14 - PROV MM D",
+      "location": "ORP JAUCHE",
+      "other": ""
+    },
+    {
+      "code": "493304",
+      "date": "2027-03-28",
+      "time": "13:00",
+      "team1": "BC VERLAINE",
+      "team2": "MARCHIN BASKET",
+      "category": "U 14 - PROV MM D",
+      "location": "BC VERLAINE",
+      "other": ""
+    },
+    {
+      "code": "493322",
+      "date": "2027-04-10",
+      "time": "15:00",
+      "team1": "HANNUT BC",
+      "team2": "MARCHIN BASKET",
+      "category": "U 14 - PROV MM D",
+      "location": "HANNUT BC",
+      "other": ""
+    },
+    {
+      "code": "493333",
+      "date": "2027-04-18",
+      "time": "12:00",
+      "team1": "MARCHIN BASKET",
+      "team2": "LA VILLERSOISE",
+      "category": "U 14 - PROV MM D",
+      "location": "MARCHIN BASKET",
+      "other": ""
+    },
+    {
+      "code": "471015",
+      "date": "2026-09-06",
+      "time": "12:00",
+      "team1": "MARCHIN BASKET",
+      "team2": "RBC ESNEUX B",
+      "category": "U 16 - PROV MM B",
+      "location": "MARCHIN BASKET",
+      "other": ""
+    },
+    {
+      "code": "471025",
+      "date": "2026-09-13",
+      "time": "12:00",
+      "team1": "MARCHIN BASKET",
+      "team2": "R 4A AYWAILLE-HAMOIR",
+      "category": "U 16 - PROV MM B",
+      "location": "MARCHIN BASKET",
+      "other": ""
+    },
+    {
+      "code": "471034",
+      "date": "2026-09-19",
+      "time": "14:00",
+      "team1": "MAIL. COMBLAIN",
+      "team2": "MARCHIN BASKET",
+      "category": "U 16 - PROV MM B",
+      "location": "MAIL. COMBLAIN",
+      "other": ""
+    },
+    {
+      "code": "471051",
+      "date": "2026-10-03",
+      "time": "15:00",
+      "team1": "ATLAS A JUPILLE B",
+      "team2": "MARCHIN BASKET",
+      "category": "U 16 - PROV MM B",
+      "location": "ATLAS A JUPILLE B",
+      "other": ""
+    },
+    {
+      "code": "471065",
+      "date": "2026-10-11",
+      "time": "12:00",
+      "team1": "MARCHIN BASKET",
+      "team2": "PEPINSTER EAST BELG B",
+      "category": "U 16 - PROV MM B",
+      "location": "MARCHIN BASKET",
+      "other": ""
+    },
+    {
+      "code": "471145",
+      "date": "2026-12-06",
+      "time": "12:00",
+      "team1": "MARCHIN BASKET",
+      "team2": "UN HUY BASKET",
+      "category": "U 16 - PROV MM B",
+      "location": "MARCHIN BASKET",
+      "other": ""
+    },
+    {
+      "code": "471154",
+      "date": "2026-12-12",
+      "time": "15:00",
+      "team1": "VAIL. JUPILLE",
+      "team2": "MARCHIN BASKET",
+      "category": "U 16 - PROV MM B",
+      "location": "VAIL. JUPILLE",
+      "other": ""
+    },
+    {
+      "code": "471165",
+      "date": "2026-12-20",
+      "time": "12:00",
+      "team1": "MARCHIN BASKET",
+      "team2": "ROYAL ANS BC",
+      "category": "U 16 - PROV MM B",
+      "location": "MARCHIN BASKET",
+      "other": ""
+    },
+    {
+      "code": "471195",
+      "date": "2027-01-10",
+      "time": "12:00",
+      "team1": "MARCHIN BASKET",
+      "team2": "MAIL. COMBLAIN",
+      "category": "U 16 - PROV MM B",
+      "location": "MARCHIN BASKET",
+      "other": ""
+    },
+    {
+      "code": "471205",
+      "date": "2027-01-16",
+      "time": "11:00",
+      "team1": "RBC ESNEUX B",
+      "team2": "MARCHIN BASKET",
+      "category": "U 16 - PROV MM B",
+      "location": "RBC ESNEUX B",
+      "other": ""
+    },
+    {
+      "code": "471215",
+      "date": "2027-01-24",
+      "time": "12:00",
+      "team1": "MARCHIN BASKET",
+      "team2": "VAIL. JUPILLE",
+      "category": "U 16 - PROV MM B",
+      "location": "MARCHIN BASKET",
+      "other": ""
+    },
+    {
+      "code": "471226",
+      "date": "2027-01-30",
+      "time": "17:00",
+      "team1": "R 4A AYWAILLE-HAMOIR",
+      "team2": "MARCHIN BASKET",
+      "category": "U 16 - PROV MM B",
+      "location": "R 4A AYWAILLE-HAMOIR",
+      "other": ""
+    },
+    {
+      "code": "471245",
+      "date": "2027-02-14",
+      "time": "12:00",
+      "team1": "MARCHIN BASKET",
+      "team2": "ATLAS A JUPILLE B",
+      "category": "U 16 - PROV MM B",
+      "location": "MARCHIN BASKET",
+      "other": ""
+    },
+    {
+      "code": "471283",
+      "date": "2027-03-14",
+      "time": "17:00",
+      "team1": "ROYAL ANS BC",
+      "team2": "MARCHIN BASKET",
+      "category": "U 16 - PROV MM B",
+      "location": "ROYAL ANS BC",
+      "other": ""
+    },
+    {
+      "code": "471302",
+      "date": "2027-03-27",
+      "time": "15:00",
+      "team1": "PEPINSTER EAST BELG B",
+      "team2": "MARCHIN BASKET",
+      "category": "U 16 - PROV MM B",
+      "location": "PEPINSTER EAST BELG B",
+      "other": ""
+    },
+    {
+      "code": "471333",
+      "date": "2027-04-17",
+      "time": "11:00",
+      "team1": "UN HUY BASKET",
+      "team2": "MARCHIN BASKET",
+      "category": "U 16 - PROV MM B",
+      "location": "UN HUY BASKET",
+      "other": ""
+    },
+    {
+      "code": "440035",
+      "date": "2026-09-20",
       "time": "16:30",
       "team1": "MARCHIN BASKET",
-      "team2": "RBC ALLEUR B",
-      "category": "U 18 - PROV MM",
+      "team2": "HARIMALIA BC",
+      "category": "U 18 - PROV MM A",
       "location": "MARCHIN BASKET",
+      "other": ""
+    },
+    {
+      "code": "440055",
+      "date": "2026-10-04",
+      "time": "16:30",
+      "team1": "MARCHIN BASKET",
+      "team2": "RBC STAVELOT",
+      "category": "U 18 - PROV MM A",
+      "location": "MARCHIN BASKET",
+      "other": ""
+    },
+    {
+      "code": "440062",
+      "date": "2026-10-10",
+      "time": "17:00",
+      "team1": "LA VILLERSOISE",
+      "team2": "MARCHIN BASKET",
+      "category": "U 18 - PROV MM A",
+      "location": "LA VILLERSOISE",
+      "other": ""
+    },
+    {
+      "code": "440105",
+      "date": "2026-11-08",
+      "time": "16:30",
+      "team1": "MARCHIN BASKET",
+      "team2": "ALL. FLEMALLE C",
+      "category": "U 18 - PROV MM A",
+      "location": "MARCHIN BASKET",
+      "other": ""
+    },
+    {
+      "code": "440116",
+      "date": "2026-11-14",
+      "time": "12:00",
+      "team1": "R HT-PRE OUGREE",
+      "team2": "MARCHIN BASKET",
+      "category": "U 18 - PROV MM A",
+      "location": "R HT-PRE OUGREE",
+      "other": ""
+    },
+    {
+      "code": "440125",
+      "date": "2026-11-22",
+      "time": "16:30",
+      "team1": "MARCHIN BASKET",
+      "team2": "ROYAL SPA BC",
+      "category": "U 18 - PROV MM A",
+      "location": "MARCHIN BASKET",
+      "other": ""
+    },
+    {
+      "code": "440143",
+      "date": "2026-12-06",
+      "time": "13:00",
+      "team1": "ROYAL ANS BC",
+      "team2": "MARCHIN BASKET",
+      "category": "U 18 - PROV MM A",
+      "location": "ROYAL ANS BC",
+      "other": ""
+    },
+    {
+      "code": "440155",
+      "date": "2026-12-13",
+      "time": "16:30",
+      "team1": "MARCHIN BASKET",
+      "team2": "RBC BLEGNY",
+      "category": "U 18 - PROV MM A",
+      "location": "MARCHIN BASKET",
+      "other": ""
+    },
+    {
+      "code": "440163",
+      "date": "2026-12-19",
+      "time": "9:00",
+      "team1": "THEUX BC",
+      "team2": "MARCHIN BASKET",
+      "category": "U 18 - PROV MM A",
+      "location": "THEUX BC",
+      "other": ""
+    },
+    {
+      "code": "440194",
+      "date": "2027-01-10",
+      "time": "13:00",
+      "team1": "HARIMALIA BC",
+      "team2": "MARCHIN BASKET",
+      "category": "U 18 - PROV MM A",
+      "location": "HARIMALIA BC",
+      "other": ""
+    },
+    {
+      "code": "440214",
+      "date": "2027-01-23",
+      "time": "16:30",
+      "team1": "RBC BLEGNY",
+      "team2": "MARCHIN BASKET",
+      "category": "U 18 - PROV MM A",
+      "location": "RBC BLEGNY",
+      "other": ""
+    },
+    {
+      "code": "440235",
+      "date": "2027-02-07",
+      "time": "16:30",
+      "team1": "MARCHIN BASKET",
+      "team2": "R HT-PRE OUGREE",
+      "category": "U 18 - PROV MM A",
+      "location": "MARCHIN BASKET",
+      "other": ""
+    },
+    {
+      "code": "440241",
+      "date": "2027-02-14",
+      "time": "13:00",
+      "team1": "RBC STAVELOT",
+      "team2": "MARCHIN BASKET",
+      "category": "U 18 - PROV MM A",
+      "location": "RBC STAVELOT",
+      "other": ""
+    },
+    {
+      "code": "440285",
+      "date": "2027-03-14",
+      "time": "16:30",
+      "team1": "MARCHIN BASKET",
+      "team2": "THEUX BC",
+      "category": "U 18 - PROV MM A",
+      "location": "MARCHIN BASKET",
+      "other": ""
+    },
+    {
+      "code": "440292",
+      "date": "2027-03-21",
+      "time": "15:00",
+      "team1": "ALL. FLEMALLE C",
+      "team2": "MARCHIN BASKET",
+      "category": "U 18 - PROV MM A",
+      "location": "ALL. FLEMALLE C",
+      "other": ""
+    },
+    {
+      "code": "440305",
+      "date": "2027-03-28",
+      "time": "16:30",
+      "team1": "MARCHIN BASKET",
+      "team2": "LA VILLERSOISE",
+      "category": "U 18 - PROV MM A",
+      "location": "MARCHIN BASKET",
+      "other": ""
+    },
+    {
+      "code": "440321",
+      "date": "2027-04-10",
+      "time": "15:00",
+      "team1": "ROYAL SPA BC",
+      "team2": "MARCHIN BASKET",
+      "category": "U 18 - PROV MM A",
+      "location": "ROYAL SPA BC",
+      "other": ""
+    },
+    {
+      "code": "440335",
+      "date": "2027-04-18",
+      "time": "16:30",
+      "team1": "MARCHIN BASKET",
+      "team2": "ROYAL ANS BC",
+      "category": "U 18 - PROV MM A",
+      "location": "MARCHIN BASKET",
+      "other": ""
+    },
+    {
+      "code": "420015",
+      "date": "2026-09-06",
+      "time": "16:30",
+      "team1": "MARCHIN BASKET",
+      "team2": "RBC DISON-ANDRIMONT",
+      "category": "U 21 - MM",
+      "location": "MARCHIN BASKET",
+      "other": ""
+    },
+    {
+      "code": "420025",
+      "date": "2026-09-13",
+      "time": "16:30",
+      "team1": "MARCHIN BASKET",
+      "team2": "BBC EUPEN",
+      "category": "U 21 - MM",
+      "location": "MARCHIN BASKET",
+      "other": ""
+    },
+    {
+      "code": "420037",
+      "date": "2026-09-19",
+      "time": "15:00",
+      "team1": "R 4A AYWAILLE-HAMOIR",
+      "team2": "MARCHIN BASKET",
+      "category": "U 21 - MM",
+      "location": "R 4A AYWAILLE-HAMOIR",
+      "other": ""
+    },
+    {
+      "code": "420051",
+      "date": "2026-10-03",
+      "time": "15:00",
+      "team1": "ROYAL SPA BC",
+      "team2": "MARCHIN BASKET",
+      "category": "U 21 - MM",
+      "location": "ROYAL SPA BC",
+      "other": ""
+    },
+    {
+      "code": "420065",
+      "date": "2026-10-11",
+      "time": "16:30",
+      "team1": "MARCHIN BASKET",
+      "team2": "ROYAL BC NINANE",
+      "category": "U 21 - MM",
+      "location": "MARCHIN BASKET",
+      "other": ""
+    },
+    {
+      "code": "420074",
+      "date": "2026-10-18",
+      "time": "13:00",
+      "team1": "ROYAL BC WANZE",
+      "team2": "MARCHIN BASKET",
+      "category": "U 21 - MM",
+      "location": "ROYAL BC WANZE",
+      "other": ""
+    },
+    {
+      "code": "420085",
+      "date": "2026-10-25",
+      "time": "16:30",
+      "team1": "MARCHIN BASKET",
+      "team2": "ROYAL ANS BC",
+      "category": "U 21 - MM",
+      "location": "MARCHIN BASKET",
+      "other": ""
+    },
+    {
+      "code": "420095",
+      "date": "2026-11-01",
+      "time": "16:30",
+      "team1": "MARCHIN BASKET",
+      "team2": "RBC ESNEUX",
+      "category": "U 21 - MM",
+      "location": "MARCHIN BASKET",
+      "other": ""
+    },
+    {
+      "code": "420107",
+      "date": "2026-11-07",
+      "time": "16:30",
+      "team1": "HENRI-CHAPELLE",
+      "team2": "MARCHIN BASKET",
+      "category": "U 21 - MM",
+      "location": "HENRI-CHAPELLE",
+      "other": ""
+    },
+    {
+      "code": "420115",
+      "date": "2026-11-15",
+      "time": "16:30",
+      "team1": "MARCHIN BASKET",
+      "team2": "BC SPRIMONT",
+      "category": "U 21 - MM",
+      "location": "MARCHIN BASKET",
+      "other": ""
+    },
+    {
+      "code": "420124",
+      "date": "2026-11-21",
+      "time": "16:00",
+      "team1": "MAIL. COMBLAIN",
+      "team2": "MARCHIN BASKET",
+      "category": "U 21 - MM",
+      "location": "MAIL. COMBLAIN",
+      "other": ""
+    },
+    {
+      "code": "420132",
+      "date": "2026-11-29",
+      "time": "13:00",
+      "team1": "BC COINTE",
+      "team2": "MARCHIN BASKET",
+      "category": "U 21 - MM",
+      "location": "BC COINTE",
+      "other": ""
+    },
+    {
+      "code": "420145",
+      "date": "2026-12-06",
+      "time": "16:30",
+      "team1": "MARCHIN BASKET",
+      "team2": "RBC ALLEUR",
+      "category": "U 21 - MM",
+      "location": "MARCHIN BASKET",
+      "other": ""
+    },
+    {
+      "code": "420155",
+      "date": "2026-12-13",
+      "time": "16:30",
+      "team1": "MARCHIN BASKET",
+      "team2": "THEUX BC",
+      "category": "U 21 - MM",
+      "location": "MARCHIN BASKET",
+      "other": ""
+    },
+    {
+      "code": "420161",
+      "date": "2026-12-19",
+      "time": "17:00",
+      "team1": "RBC AWANS",
+      "team2": "MARCHIN BASKET",
+      "category": "U 21 - MM",
+      "location": "RBC AWANS",
+      "other": ""
+    },
+    {
+      "code": "420195",
+      "date": "2027-01-10",
+      "time": "16:30",
+      "team1": "MARCHIN BASKET",
+      "team2": "R 4A AYWAILLE-HAMOIR",
+      "category": "U 21 - MM",
+      "location": "MARCHIN BASKET",
+      "other": ""
+    },
+    {
+      "code": "420206",
+      "date": "2027-01-16",
+      "time": "15:00",
+      "team1": "RBC DISON-ANDRIMONT",
+      "team2": "MARCHIN BASKET",
+      "category": "U 21 - MM",
+      "location": "RBC DISON-ANDRIMONT",
+      "other": ""
+    },
+    {
+      "code": "420215",
+      "date": "2027-01-24",
+      "time": "16:30",
+      "team1": "MARCHIN BASKET",
+      "team2": "BC COINTE",
+      "category": "U 21 - MM",
+      "location": "MARCHIN BASKET",
+      "other": ""
+    },
+    {
+      "code": "420228",
+      "date": "2027-01-31",
+      "time": "12:00",
+      "team1": "BBC EUPEN",
+      "team2": "MARCHIN BASKET",
+      "category": "U 21 - MM",
+      "location": "BBC EUPEN",
+      "other": ""
+    },
+    {
+      "code": "420235",
+      "date": "2027-02-07",
+      "time": "16:30",
+      "team1": "MARCHIN BASKET",
+      "team2": "ROYAL BC WANZE",
+      "category": "U 21 - MM",
+      "location": "MARCHIN BASKET",
+      "other": ""
+    },
+    {
+      "code": "420245",
+      "date": "2027-02-14",
+      "time": "16:30",
+      "team1": "MARCHIN BASKET",
+      "team2": "ROYAL SPA BC",
+      "category": "U 21 - MM",
+      "location": "MARCHIN BASKET",
+      "other": ""
+    },
+    {
+      "code": "420256",
+      "date": "2027-02-21",
+      "time": "9:00",
+      "team1": "BC SPRIMONT",
+      "team2": "MARCHIN BASKET",
+      "category": "U 21 - MM",
+      "location": "BC SPRIMONT",
+      "other": ""
+    },
+    {
+      "code": "420278",
+      "date": "2027-03-07",
+      "time": "17:00",
+      "team1": "RBC ALLEUR",
+      "team2": "MARCHIN BASKET",
+      "category": "U 21 - MM",
+      "location": "RBC ALLEUR",
+      "other": ""
+    },
+    {
+      "code": "420285",
+      "date": "2027-03-13",
+      "time": "15:00",
+      "team1": "RBC ESNEUX",
+      "team2": "MARCHIN BASKET",
+      "category": "U 21 - MM",
+      "location": "RBC ESNEUX",
+      "other": ""
+    },
+    {
+      "code": "420295",
+      "date": "2027-03-21",
+      "time": "16:30",
+      "team1": "MARCHIN BASKET",
+      "team2": "HENRI-CHAPELLE",
+      "category": "U 21 - MM",
+      "location": "MARCHIN BASKET",
+      "other": ""
+    },
+    {
+      "code": "420305",
+      "date": "2027-03-28",
+      "time": "16:30",
+      "team1": "MARCHIN BASKET",
+      "team2": "MAIL. COMBLAIN",
+      "category": "U 21 - MM",
+      "location": "MARCHIN BASKET",
+      "other": ""
+    },
+    {
+      "code": "420312",
+      "date": "2027-04-04",
+      "time": "12:00",
+      "team1": "ROYAL BC NINANE",
+      "team2": "MARCHIN BASKET",
+      "category": "U 21 - MM",
+      "location": "ROYAL BC NINANE",
+      "other": ""
+    },
+    {
+      "code": "420325",
+      "date": "2027-04-11",
+      "time": "16:30",
+      "team1": "MARCHIN BASKET",
+      "team2": "RBC AWANS",
+      "category": "U 21 - MM",
+      "location": "MARCHIN BASKET",
+      "other": ""
+    },
+    {
+      "code": "420333",
+      "date": "2027-04-18",
+      "time": "13:00",
+      "team1": "THEUX BC",
+      "team2": "MARCHIN BASKET",
+      "category": "U 21 - MM",
+      "location": "THEUX BC",
+      "other": ""
+    },
+    {
+      "code": "420343",
+      "date": "2027-04-25",
+      "time": "15:00",
+      "team1": "ROYAL ANS BC",
+      "team2": "MARCHIN BASKET",
+      "category": "U 21 - MM",
+      "location": "ROYAL ANS BC",
       "other": ""
     }
   ]

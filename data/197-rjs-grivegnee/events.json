@@ -6,23 +6,623 @@
   },
   "events": [
     {
-      "code": "404326",
-      "date": "2026-04-12",
-      "time": "15:00",
-      "team1": "ROYAL BC WANZE C",
+      "code": "405016",
+      "date": "2026-09-05",
+      "time": "17:00",
+      "team1": "ALL. FLEMALLE B",
       "team2": "RJS GRIVEGNEE",
-      "category": "MM - DIVISION 3 A",
-      "location": "ROYAL BC WANZE C",
+      "category": "MM - DIVISION 3 B",
+      "location": "ALL. FLEMALLE B",
       "other": ""
     },
     {
-      "code": "600322",
-      "date": "2026-04-11",
+      "code": "405027",
+      "date": "2026-09-12",
+      "time": "20:30",
+      "team1": "RB UNION LIEGE B",
+      "team2": "RJS GRIVEGNEE",
+      "category": "MM - DIVISION 3 B",
+      "location": "RB UNION LIEGE B",
+      "other": ""
+    },
+    {
+      "code": "405035",
+      "date": "2026-09-20",
+      "time": "13:30",
+      "team1": "RJS GRIVEGNEE",
+      "team2": "ROYAL BC WANZE B",
+      "category": "MM - DIVISION 3 B",
+      "location": "RJS GRIVEGNEE",
+      "other": ""
+    },
+    {
+      "code": "405055",
+      "date": "2026-10-04",
+      "time": "13:30",
+      "team1": "RJS GRIVEGNEE",
+      "team2": "RBC VISE C",
+      "category": "MM - DIVISION 3 B",
+      "location": "RJS GRIVEGNEE",
+      "other": ""
+    },
+    {
+      "code": "405062",
+      "date": "2026-10-10",
+      "time": "19:00",
+      "team1": "LA VILLERSOISE B",
+      "team2": "RJS GRIVEGNEE",
+      "category": "MM - DIVISION 3 B",
+      "location": "LA VILLERSOISE B",
+      "other": ""
+    },
+    {
+      "code": "405075",
+      "date": "2026-10-18",
+      "time": "13:30",
+      "team1": "RJS GRIVEGNEE",
+      "team2": "AVENIR JUPILLE A",
+      "category": "MM - DIVISION 3 B",
+      "location": "RJS GRIVEGNEE",
+      "other": ""
+    },
+    {
+      "code": "405083",
+      "date": "2026-10-24",
+      "time": "21:00",
+      "team1": "BC COINTE B",
+      "team2": "RJS GRIVEGNEE",
+      "category": "MM - DIVISION 3 B",
+      "location": "BC COINTE B",
+      "other": ""
+    },
+    {
+      "code": "405105",
+      "date": "2026-11-08",
+      "time": "13:30",
+      "team1": "RJS GRIVEGNEE",
+      "team2": "BC SPRIMONT D",
+      "category": "MM - DIVISION 3 B",
+      "location": "RJS GRIVEGNEE",
+      "other": ""
+    },
+    {
+      "code": "405116",
+      "date": "2026-11-14",
+      "time": "21:00",
+      "team1": "R HT-PRE OUGREE A",
+      "team2": "RJS GRIVEGNEE",
+      "category": "MM - DIVISION 3 B",
+      "location": "R HT-PRE OUGREE A",
+      "other": ""
+    },
+    {
+      "code": "405125",
+      "date": "2026-11-22",
+      "time": "13:30",
+      "team1": "RJS GRIVEGNEE",
+      "team2": "RBC BLEGNY B",
+      "category": "MM - DIVISION 3 B",
+      "location": "RJS GRIVEGNEE",
+      "other": ""
+    },
+    {
+      "code": "405142",
+      "date": "2026-12-05",
+      "time": "17:00",
+      "team1": "HANNUT BC B",
+      "team2": "RJS GRIVEGNEE",
+      "category": "MM - DIVISION 3 B",
+      "location": "HANNUT BC B",
+      "other": ""
+    },
+    {
+      "code": "405153",
+      "date": "2026-12-12",
+      "time": "21:00",
+      "team1": "HARIMALIA BC C",
+      "team2": "RJS GRIVEGNEE",
+      "category": "MM - DIVISION 3 B",
+      "location": "HARIMALIA BC C",
+      "other": ""
+    },
+    {
+      "code": "405165",
+      "date": "2026-12-20",
+      "time": "13:30",
+      "team1": "RJS GRIVEGNEE",
+      "team2": "ROYALE US AWANS A",
+      "category": "MM - DIVISION 3 B",
+      "location": "RJS GRIVEGNEE",
+      "other": ""
+    },
+    {
+      "code": "405194",
+      "date": "2027-01-10",
       "time": "15:00",
+      "team1": "ROYAL BC WANZE B",
+      "team2": "RJS GRIVEGNEE",
+      "category": "MM - DIVISION 3 B",
+      "location": "ROYAL BC WANZE B",
+      "other": ""
+    },
+    {
+      "code": "405205",
+      "date": "2027-01-17",
+      "time": "13:30",
+      "team1": "RJS GRIVEGNEE",
+      "team2": "ALL. FLEMALLE B",
+      "category": "MM - DIVISION 3 B",
+      "location": "RJS GRIVEGNEE",
+      "other": ""
+    },
+    {
+      "code": "405214",
+      "date": "2027-01-23",
+      "time": "21:00",
+      "team1": "AVENIR JUPILLE A",
+      "team2": "RJS GRIVEGNEE",
+      "category": "MM - DIVISION 3 B",
+      "location": "AVENIR JUPILLE A",
+      "other": ""
+    },
+    {
+      "code": "405225",
+      "date": "2027-01-31",
+      "time": "13:30",
+      "team1": "RJS GRIVEGNEE",
+      "team2": "RB UNION LIEGE B",
+      "category": "MM - DIVISION 3 B",
+      "location": "RJS GRIVEGNEE",
+      "other": ""
+    },
+    {
+      "code": "405241",
+      "date": "2027-02-13",
+      "time": "21:00",
+      "team1": "RBC VISE C",
+      "team2": "RJS GRIVEGNEE",
+      "category": "MM - DIVISION 3 B",
+      "location": "RBC VISE C",
+      "other": ""
+    },
+    {
+      "code": "405255",
+      "date": "2027-02-21",
+      "time": "13:30",
+      "team1": "RJS GRIVEGNEE",
+      "team2": "R HT-PRE OUGREE A",
+      "category": "MM - DIVISION 3 B",
+      "location": "RJS GRIVEGNEE",
+      "other": ""
+    },
+    {
+      "code": "405275",
+      "date": "2027-03-07",
+      "time": "13:30",
+      "team1": "RJS GRIVEGNEE",
+      "team2": "HANNUT BC B",
+      "category": "MM - DIVISION 3 B",
+      "location": "RJS GRIVEGNEE",
+      "other": ""
+    },
+    {
+      "code": "405285",
+      "date": "2027-03-12",
+      "time": "20:00",
+      "team1": "RBC BLEGNY B",
+      "team2": "RJS GRIVEGNEE",
+      "category": "MM - DIVISION 3 B",
+      "location": "RBC BLEGNY B",
+      "other": ""
+    },
+    {
+      "code": "405297",
+      "date": "2027-03-20",
+      "time": "21:00",
+      "team1": "BC SPRIMONT D",
+      "team2": "RJS GRIVEGNEE",
+      "category": "MM - DIVISION 3 B",
+      "location": "BC SPRIMONT D",
+      "other": ""
+    },
+    {
+      "code": "405305",
+      "date": "2027-03-28",
+      "time": "13:30",
+      "team1": "RJS GRIVEGNEE",
+      "team2": "LA VILLERSOISE B",
+      "category": "MM - DIVISION 3 B",
+      "location": "RJS GRIVEGNEE",
+      "other": ""
+    },
+    {
+      "code": "405321",
+      "date": "2027-04-11",
+      "time": "15:00",
+      "team1": "ROYALE US AWANS A",
+      "team2": "RJS GRIVEGNEE",
+      "category": "MM - DIVISION 3 B",
+      "location": "ROYALE US AWANS A",
+      "other": ""
+    },
+    {
+      "code": "405335",
+      "date": "2027-04-18",
+      "time": "13:30",
+      "team1": "RJS GRIVEGNEE",
+      "team2": "HARIMALIA BC C",
+      "category": "MM - DIVISION 3 B",
+      "location": "RJS GRIVEGNEE",
+      "other": ""
+    },
+    {
+      "code": "405345",
+      "date": "2027-04-25",
+      "time": "13:30",
+      "team1": "RJS GRIVEGNEE",
+      "team2": "BC COINTE B",
+      "category": "MM - DIVISION 3 B",
+      "location": "RJS GRIVEGNEE",
+      "other": ""
+    },
+    {
+      "code": "507015",
+      "date": "2026-09-05",
+      "time": "16:00",
+      "team1": "R HT-PRE OUGREE",
+      "team2": "RJS GRIVEGNEE",
+      "category": "U 12 - MM H",
+      "location": "R HT-PRE OUGREE",
+      "other": ""
+    },
+    {
+      "code": "507026",
+      "date": "2026-09-12",
+      "time": "13:00",
+      "team1": "GIANTS BRAIVES C",
+      "team2": "RJS GRIVEGNEE",
+      "category": "U 12 - MM H",
+      "location": "GIANTS BRAIVES C",
+      "other": ""
+    },
+    {
+      "code": "507035",
+      "date": "2026-09-20",
+      "time": "9:30",
+      "team1": "RJS GRIVEGNEE",
+      "team2": "BC VERLAINE B",
+      "category": "U 12 - MM H",
+      "location": "RJS GRIVEGNEE",
+      "other": ""
+    },
+    {
+      "code": "507055",
+      "date": "2026-10-04",
+      "time": "9:30",
+      "team1": "RJS GRIVEGNEE",
+      "team2": "R REN. MONTEGNEE B",
+      "category": "U 12 - MM H",
+      "location": "RJS GRIVEGNEE",
+      "other": ""
+    },
+    {
+      "code": "507062",
+      "date": "2026-10-10",
+      "time": "9:00",
+      "team1": "RBC ALLEUR D",
+      "team2": "RJS GRIVEGNEE",
+      "category": "U 12 - MM H",
+      "location": "RBC ALLEUR D",
+      "other": ""
+    },
+    {
+      "code": "507105",
+      "date": "2026-11-08",
+      "time": "9:30",
+      "team1": "RJS GRIVEGNEE",
+      "team2": "HARIMALIA BC B",
+      "category": "U 12 - MM H",
+      "location": "RJS GRIVEGNEE",
+      "other": ""
+    },
+    {
+      "code": "507116",
+      "date": "2026-11-14",
+      "time": "13:00",
+      "team1": "R 4A AYWAILLE-HAMOIR",
+      "team2": "RJS GRIVEGNEE",
+      "category": "U 12 - MM H",
+      "location": "R 4A AYWAILLE-HAMOIR",
+      "other": ""
+    },
+    {
+      "code": "507143",
+      "date": "2026-12-05",
+      "time": "9:00",
+      "team1": "UN HUY BASKET C",
+      "team2": "RJS GRIVEGNEE",
+      "category": "U 12 - MM H",
+      "location": "UN HUY BASKET C",
+      "other": ""
+    },
+    {
+      "code": "507163",
+      "date": "2026-12-19",
+      "time": "9:00",
+      "team1": "LA VILLERSOISE C",
+      "team2": "RJS GRIVEGNEE",
+      "category": "U 12 - MM H",
+      "location": "LA VILLERSOISE C",
+      "other": ""
+    },
+    {
+      "code": "507194",
+      "date": "2027-01-09",
+      "time": "13:00",
+      "team1": "BC VERLAINE B",
+      "team2": "RJS GRIVEGNEE",
+      "category": "U 12 - MM H",
+      "location": "BC VERLAINE B",
+      "other": ""
+    },
+    {
+      "code": "507205",
+      "date": "2027-01-17",
+      "time": "9:30",
+      "team1": "RJS GRIVEGNEE",
+      "team2": "R HT-PRE OUGREE",
+      "category": "U 12 - MM H",
+      "location": "RJS GRIVEGNEE",
+      "other": ""
+    },
+    {
+      "code": "507225",
+      "date": "2027-01-31",
+      "time": "9:30",
+      "team1": "RJS GRIVEGNEE",
+      "team2": "GIANTS BRAIVES C",
+      "category": "U 12 - MM H",
+      "location": "RJS GRIVEGNEE",
+      "other": ""
+    },
+    {
+      "code": "507235",
+      "date": "2027-02-07",
+      "time": "9:30",
+      "team1": "RJS GRIVEGNEE",
+      "team2": "R 4A AYWAILLE-HAMOIR",
+      "category": "U 12 - MM H",
+      "location": "RJS GRIVEGNEE",
+      "other": ""
+    },
+    {
+      "code": "507241",
+      "date": "2027-02-14",
+      "time": "15:00",
+      "team1": "R REN. MONTEGNEE B",
+      "team2": "RJS GRIVEGNEE",
+      "category": "U 12 - MM H",
+      "location": "R REN. MONTEGNEE B",
+      "other": ""
+    },
+    {
+      "code": "507285",
+      "date": "2027-03-14",
+      "time": "9:30",
+      "team1": "RJS GRIVEGNEE",
+      "team2": "LA VILLERSOISE C",
+      "category": "U 12 - MM H",
+      "location": "RJS GRIVEGNEE",
+      "other": ""
+    },
+    {
+      "code": "507292",
+      "date": "2027-03-21",
+      "time": "9:00",
+      "team1": "HARIMALIA BC B",
+      "team2": "RJS GRIVEGNEE",
+      "category": "U 12 - MM H",
+      "location": "HARIMALIA BC B",
+      "other": ""
+    },
+    {
+      "code": "507305",
+      "date": "2027-03-28",
+      "time": "9:30",
+      "team1": "RJS GRIVEGNEE",
+      "team2": "RBC ALLEUR D",
+      "category": "U 12 - MM H",
+      "location": "RJS GRIVEGNEE",
+      "other": ""
+    },
+    {
+      "code": "507335",
+      "date": "2027-04-18",
+      "time": "9:30",
+      "team1": "RJS GRIVEGNEE",
+      "team2": "UN HUY BASKET C",
+      "category": "U 12 - MM H",
+      "location": "RJS GRIVEGNEE",
+      "other": ""
+    },
+    {
+      "code": "490015",
+      "date": "2026-09-05",
+      "time": "17:00",
+      "team1": "CRISTAL SGH B",
+      "team2": "RJS GRIVEGNEE",
+      "category": "U 14 - PROV MM A",
+      "location": "CRISTAL SGH B",
+      "other": ""
+    },
+    {
+      "code": "490026",
+      "date": "2026-09-12",
+      "time": "13:00",
+      "team1": "ALL. FLEMALLE B",
+      "team2": "RJS GRIVEGNEE",
+      "category": "U 14 - PROV MM A",
+      "location": "ALL. FLEMALLE B",
+      "other": ""
+    },
+    {
+      "code": "490035",
+      "date": "2026-09-20",
+      "time": "11:30",
+      "team1": "RJS GRIVEGNEE",
+      "team2": "VAIL. JUPILLE",
+      "category": "U 14 - PROV MM A",
+      "location": "RJS GRIVEGNEE",
+      "other": ""
+    },
+    {
+      "code": "490105",
+      "date": "2026-11-08",
+      "time": "11:30",
+      "team1": "RJS GRIVEGNEE",
+      "team2": "HARIMALIA BC",
+      "category": "U 14 - PROV MM A",
+      "location": "RJS GRIVEGNEE",
+      "other": ""
+    },
+    {
+      "code": "490116",
+      "date": "2026-11-14",
+      "time": "15:00",
+      "team1": "RABC ENSIVAL B",
+      "team2": "RJS GRIVEGNEE",
+      "category": "U 14 - PROV MM A",
+      "location": "RABC ENSIVAL B",
+      "other": ""
+    },
+    {
+      "code": "490125",
+      "date": "2026-11-22",
+      "time": "11:30",
+      "team1": "RJS GRIVEGNEE",
+      "team2": "ROYAL SPA BC",
+      "category": "U 14 - PROV MM A",
+      "location": "RJS GRIVEGNEE",
+      "other": ""
+    },
+    {
+      "code": "490143",
+      "date": "2026-12-05",
+      "time": "13:00",
+      "team1": "PEPINSTER EAST BELG B",
+      "team2": "RJS GRIVEGNEE",
+      "category": "U 14 - PROV MM A",
+      "location": "PEPINSTER EAST BELG B",
+      "other": ""
+    },
+    {
+      "code": "490155",
+      "date": "2026-12-13",
+      "time": "11:30",
+      "team1": "RJS GRIVEGNEE",
+      "team2": "ABC WAREMME B",
+      "category": "U 14 - PROV MM A",
+      "location": "RJS GRIVEGNEE",
+      "other": ""
+    },
+    {
+      "code": "490163",
+      "date": "2026-12-20",
+      "time": "15:00",
+      "team1": "THEUX BC",
+      "team2": "RJS GRIVEGNEE",
+      "category": "U 14 - PROV MM A",
+      "location": "THEUX BC",
+      "other": ""
+    },
+    {
+      "code": "490194",
+      "date": "2027-01-09",
+      "time": "13:00",
+      "team1": "VAIL. JUPILLE",
+      "team2": "RJS GRIVEGNEE",
+      "category": "U 14 - PROV MM A",
+      "location": "VAIL. JUPILLE",
+      "other": ""
+    },
+    {
+      "code": "490205",
+      "date": "2027-01-17",
+      "time": "11:30",
+      "team1": "RJS GRIVEGNEE",
+      "team2": "CRISTAL SGH B",
+      "category": "U 14 - PROV MM A",
+      "location": "RJS GRIVEGNEE",
+      "other": ""
+    },
+    {
+      "code": "490214",
+      "date": "2027-01-23",
+      "time": "11:00",
+      "team1": "ABC WAREMME B",
+      "team2": "RJS GRIVEGNEE",
+      "category": "U 14 - PROV MM A",
+      "location": "ABC WAREMME B",
+      "other": ""
+    },
+    {
+      "code": "490225",
+      "date": "2027-01-31",
+      "time": "11:30",
+      "team1": "RJS GRIVEGNEE",
+      "team2": "ALL. FLEMALLE B",
+      "category": "U 14 - PROV MM A",
+      "location": "RJS GRIVEGNEE",
+      "other": ""
+    },
+    {
+      "code": "490235",
+      "date": "2027-02-07",
+      "time": "11:30",
+      "team1": "RJS GRIVEGNEE",
+      "team2": "RABC ENSIVAL B",
+      "category": "U 14 - PROV MM A",
+      "location": "RJS GRIVEGNEE",
+      "other": ""
+    },
+    {
+      "code": "490285",
+      "date": "2027-03-14",
+      "time": "11:30",
+      "team1": "RJS GRIVEGNEE",
+      "team2": "THEUX BC",
+      "category": "U 14 - PROV MM A",
+      "location": "RJS GRIVEGNEE",
+      "other": ""
+    },
+    {
+      "code": "490292",
+      "date": "2027-03-21",
+      "time": "11:00",
+      "team1": "HARIMALIA BC",
+      "team2": "RJS GRIVEGNEE",
+      "category": "U 14 - PROV MM A",
+      "location": "HARIMALIA BC",
+      "other": ""
+    },
+    {
+      "code": "490321",
+      "date": "2027-04-10",
+      "time": "13:45",
       "team1": "ROYAL SPA BC",
       "team2": "RJS GRIVEGNEE",
-      "category": "U 14 - DD A",
+      "category": "U 14 - PROV MM A",
       "location": "ROYAL SPA BC",
+      "other": ""
+    },
+    {
+      "code": "490335",
+      "date": "2027-04-18",
+      "time": "11:30",
+      "team1": "RJS GRIVEGNEE",
+      "team2": "PEPINSTER EAST BELG B",
+      "category": "U 14 - PROV MM A",
+      "location": "RJS GRIVEGNEE",
       "other": ""
     }
   ]

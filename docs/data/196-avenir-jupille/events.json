@@ -6,33 +6,743 @@
   },
   "events": [
     {
-      "code": "415332",
-      "date": "2026-04-18",
-      "time": "19:00",
-      "team1": "AVENIR JUPILLE B",
-      "team2": "PEPINSTER EAST BELG C",
+      "code": "415015",
+      "date": "2026-09-06",
+      "time": "17:30",
+      "team1": "BC VERLAINE A",
+      "team2": "AVENIR JUPILLE",
       "category": "DD - DIVISION 2 B",
-      "location": "AVENIR JUPILLE B",
+      "location": "BC VERLAINE A",
       "other": ""
     },
     {
-      "code": "404333",
-      "date": "2026-04-18",
+      "code": "415021",
+      "date": "2026-09-12",
+      "time": "17:00",
+      "team1": "RBC STAVELOT",
+      "team2": "AVENIR JUPILLE",
+      "category": "DD - DIVISION 2 B",
+      "location": "RBC STAVELOT",
+      "other": ""
+    },
+    {
+      "code": "415034",
+      "date": "2026-09-19",
+      "time": "19:00",
+      "team1": "AVENIR JUPILLE",
+      "team2": "PRAYON TROOZ C",
+      "category": "DD - DIVISION 2 B",
+      "location": "AVENIR JUPILLE",
+      "other": ""
+    },
+    {
+      "code": "415054",
+      "date": "2026-10-03",
+      "time": "19:00",
+      "team1": "AVENIR JUPILLE",
+      "team2": "ALL. FLEMALLE B",
+      "category": "DD - DIVISION 2 B",
+      "location": "AVENIR JUPILLE",
+      "other": ""
+    },
+    {
+      "code": "415063",
+      "date": "2026-10-11",
+      "time": "13:00",
+      "team1": "ROYAL ANS BC",
+      "team2": "AVENIR JUPILLE",
+      "category": "DD - DIVISION 2 B",
+      "location": "ROYAL ANS BC",
+      "other": ""
+    },
+    {
+      "code": "415075",
+      "date": "2026-10-18",
+      "time": "12:00",
+      "team1": "RBC HANEFFE C",
+      "team2": "AVENIR JUPILLE",
+      "category": "DD - DIVISION 2 B",
+      "location": "RBC HANEFFE C",
+      "other": ""
+    },
+    {
+      "code": "415084",
+      "date": "2026-10-24",
+      "time": "19:00",
+      "team1": "AVENIR JUPILLE",
+      "team2": "HENRI-CHAPELLE B",
+      "category": "DD - DIVISION 2 B",
+      "location": "AVENIR JUPILLE",
+      "other": ""
+    },
+    {
+      "code": "415104",
+      "date": "2026-11-07",
+      "time": "19:00",
+      "team1": "AVENIR JUPILLE",
+      "team2": "ROYAL BC NINANE A",
+      "category": "DD - DIVISION 2 B",
+      "location": "AVENIR JUPILLE",
+      "other": ""
+    },
+    {
+      "code": "415117",
+      "date": "2026-11-15",
+      "time": "15:00",
+      "team1": "RBC ALLEUR D",
+      "team2": "AVENIR JUPILLE",
+      "category": "DD - DIVISION 2 B",
+      "location": "RBC ALLEUR D",
+      "other": ""
+    },
+    {
+      "code": "415124",
+      "date": "2026-11-21",
+      "time": "19:00",
+      "team1": "AVENIR JUPILLE",
+      "team2": "RBC WELKENRAEDT",
+      "category": "DD - DIVISION 2 B",
+      "location": "AVENIR JUPILLE",
+      "other": ""
+    },
+    {
+      "code": "415141",
+      "date": "2026-12-06",
+      "time": "11:45",
+      "team1": "ROYAL BASKET OTHEE",
+      "team2": "AVENIR JUPILLE",
+      "category": "DD - DIVISION 2 B",
+      "location": "ROYAL BASKET OTHEE",
+      "other": ""
+    },
+    {
+      "code": "415154",
+      "date": "2026-12-13",
+      "time": "13:00",
+      "team1": "ROYAL BC WANZE",
+      "team2": "AVENIR JUPILLE",
+      "category": "DD - DIVISION 2 B",
+      "location": "ROYAL BC WANZE",
+      "other": ""
+    },
+    {
+      "code": "415164",
+      "date": "2026-12-19",
+      "time": "19:00",
+      "team1": "AVENIR JUPILLE",
+      "team2": "R 4A AYWAILLE-HAMOIR A",
+      "category": "DD - DIVISION 2 B",
+      "location": "AVENIR JUPILLE",
+      "other": ""
+    },
+    {
+      "code": "415196",
+      "date": "2027-01-10",
+      "time": "12:00",
+      "team1": "PRAYON TROOZ C",
+      "team2": "AVENIR JUPILLE",
+      "category": "DD - DIVISION 2 B",
+      "location": "PRAYON TROOZ C",
+      "other": ""
+    },
+    {
+      "code": "415204",
+      "date": "2027-01-16",
+      "time": "19:00",
+      "team1": "AVENIR JUPILLE",
+      "team2": "BC VERLAINE A",
+      "category": "DD - DIVISION 2 B",
+      "location": "AVENIR JUPILLE",
+      "other": ""
+    },
+    {
+      "code": "415214",
+      "date": "2027-01-23",
+      "time": "19:00",
+      "team1": "AVENIR JUPILLE",
+      "team2": "RBC HANEFFE C",
+      "category": "DD - DIVISION 2 B",
+      "location": "AVENIR JUPILLE",
+      "other": ""
+    },
+    {
+      "code": "415224",
+      "date": "2027-01-30",
+      "time": "19:00",
+      "team1": "AVENIR JUPILLE",
+      "team2": "RBC STAVELOT",
+      "category": "DD - DIVISION 2 B",
+      "location": "AVENIR JUPILLE",
+      "other": ""
+    },
+    {
+      "code": "415242",
+      "date": "2027-02-14",
+      "time": "11:00",
+      "team1": "ALL. FLEMALLE B",
+      "team2": "AVENIR JUPILLE",
+      "category": "DD - DIVISION 2 B",
+      "location": "ALL. FLEMALLE B",
+      "other": ""
+    },
+    {
+      "code": "415254",
+      "date": "2027-02-20",
+      "time": "19:00",
+      "team1": "AVENIR JUPILLE",
+      "team2": "RBC ALLEUR D",
+      "category": "DD - DIVISION 2 B",
+      "location": "AVENIR JUPILLE",
+      "other": ""
+    },
+    {
+      "code": "415274",
+      "date": "2027-03-06",
+      "time": "19:00",
+      "team1": "AVENIR JUPILLE",
+      "team2": "ROYAL BASKET OTHEE",
+      "category": "DD - DIVISION 2 B",
+      "location": "AVENIR JUPILLE",
+      "other": ""
+    },
+    {
+      "code": "415283",
+      "date": "2027-03-13",
+      "time": "17:00",
+      "team1": "RBC WELKENRAEDT",
+      "team2": "AVENIR JUPILLE",
+      "category": "DD - DIVISION 2 B",
+      "location": "RBC WELKENRAEDT",
+      "other": ""
+    },
+    {
+      "code": "415292",
+      "date": "2027-03-21",
+      "time": "16:00",
+      "team1": "ROYAL BC NINANE A",
+      "team2": "AVENIR JUPILLE",
+      "category": "DD - DIVISION 2 B",
+      "location": "ROYAL BC NINANE A",
+      "other": ""
+    },
+    {
+      "code": "415304",
+      "date": "2027-03-27",
+      "time": "19:00",
+      "team1": "AVENIR JUPILLE",
+      "team2": "ROYAL ANS BC",
+      "category": "DD - DIVISION 2 B",
+      "location": "AVENIR JUPILLE",
+      "other": ""
+    },
+    {
+      "code": "415327",
+      "date": "2027-04-10",
+      "time": "17:00",
+      "team1": "R 4A AYWAILLE-HAMOIR A",
+      "team2": "AVENIR JUPILLE",
+      "category": "DD - DIVISION 2 B",
+      "location": "R 4A AYWAILLE-HAMOIR A",
+      "other": ""
+    },
+    {
+      "code": "415334",
+      "date": "2027-04-17",
+      "time": "19:00",
+      "team1": "AVENIR JUPILLE",
+      "team2": "ROYAL BC WANZE",
+      "category": "DD - DIVISION 2 B",
+      "location": "AVENIR JUPILLE",
+      "other": ""
+    },
+    {
+      "code": "415346",
+      "date": "2027-04-25",
+      "time": "11:00",
+      "team1": "HENRI-CHAPELLE B",
+      "team2": "AVENIR JUPILLE",
+      "category": "DD - DIVISION 2 B",
+      "location": "HENRI-CHAPELLE B",
+      "other": ""
+    },
+    {
+      "code": "405015",
+      "date": "2026-09-04",
+      "time": "20:00",
+      "team1": "RBC BLEGNY B",
+      "team2": "AVENIR JUPILLE A",
+      "category": "MM - DIVISION 3 B",
+      "location": "RBC BLEGNY B",
+      "other": ""
+    },
+    {
+      "code": "405021",
+      "date": "2026-09-12",
+      "time": "21:00",
+      "team1": "RBC VISE C",
+      "team2": "AVENIR JUPILLE A",
+      "category": "MM - DIVISION 3 B",
+      "location": "RBC VISE C",
+      "other": ""
+    },
+    {
+      "code": "405034",
+      "date": "2026-09-19",
       "time": "21:00",
       "team1": "AVENIR JUPILLE A",
-      "team2": "ROYAL BC WANZE C",
-      "category": "MM - DIVISION 3 A",
+      "team2": "ALL. FLEMALLE B",
+      "category": "MM - DIVISION 3 B",
       "location": "AVENIR JUPILLE A",
       "other": ""
     },
     {
-      "code": "411333",
-      "date": "2026-04-18",
+      "code": "405054",
+      "date": "2026-10-03",
+      "time": "21:00",
+      "team1": "AVENIR JUPILLE A",
+      "team2": "LA VILLERSOISE B",
+      "category": "MM - DIVISION 3 B",
+      "location": "AVENIR JUPILLE A",
+      "other": ""
+    },
+    {
+      "code": "405063",
+      "date": "2026-10-10",
+      "time": "21:00",
+      "team1": "BC COINTE B",
+      "team2": "AVENIR JUPILLE A",
+      "category": "MM - DIVISION 3 B",
+      "location": "BC COINTE B",
+      "other": ""
+    },
+    {
+      "code": "405075",
+      "date": "2026-10-18",
+      "time": "13:30",
+      "team1": "RJS GRIVEGNEE",
+      "team2": "AVENIR JUPILLE A",
+      "category": "MM - DIVISION 3 B",
+      "location": "RJS GRIVEGNEE",
+      "other": ""
+    },
+    {
+      "code": "405084",
+      "date": "2026-10-24",
+      "time": "21:00",
+      "team1": "AVENIR JUPILLE A",
+      "team2": "R HT-PRE OUGREE A",
+      "category": "MM - DIVISION 3 B",
+      "location": "AVENIR JUPILLE A",
+      "other": ""
+    },
+    {
+      "code": "405104",
+      "date": "2026-11-07",
+      "time": "21:00",
+      "team1": "AVENIR JUPILLE A",
+      "team2": "HANNUT BC B",
+      "category": "MM - DIVISION 3 B",
+      "location": "AVENIR JUPILLE A",
+      "other": ""
+    },
+    {
+      "code": "405117",
+      "date": "2026-11-14",
+      "time": "21:00",
+      "team1": "BC SPRIMONT D",
+      "team2": "AVENIR JUPILLE A",
+      "category": "MM - DIVISION 3 B",
+      "location": "BC SPRIMONT D",
+      "other": ""
+    },
+    {
+      "code": "405124",
+      "date": "2026-11-21",
+      "time": "21:00",
+      "team1": "AVENIR JUPILLE A",
+      "team2": "HARIMALIA BC C",
+      "category": "MM - DIVISION 3 B",
+      "location": "AVENIR JUPILLE A",
+      "other": ""
+    },
+    {
+      "code": "405141",
+      "date": "2026-12-06",
+      "time": "15:00",
+      "team1": "ROYALE US AWANS A",
+      "team2": "AVENIR JUPILLE A",
+      "category": "MM - DIVISION 3 B",
+      "location": "ROYALE US AWANS A",
+      "other": ""
+    },
+    {
+      "code": "405154",
+      "date": "2026-12-13",
+      "time": "15:00",
+      "team1": "ROYAL BC WANZE B",
+      "team2": "AVENIR JUPILLE A",
+      "category": "MM - DIVISION 3 B",
+      "location": "ROYAL BC WANZE B",
+      "other": ""
+    },
+    {
+      "code": "405164",
+      "date": "2026-12-19",
+      "time": "21:00",
+      "team1": "AVENIR JUPILLE A",
+      "team2": "RB UNION LIEGE B",
+      "category": "MM - DIVISION 3 B",
+      "location": "AVENIR JUPILLE A",
+      "other": ""
+    },
+    {
+      "code": "405196",
+      "date": "2027-01-09",
+      "time": "17:00",
+      "team1": "ALL. FLEMALLE B",
+      "team2": "AVENIR JUPILLE A",
+      "category": "MM - DIVISION 3 B",
+      "location": "ALL. FLEMALLE B",
+      "other": ""
+    },
+    {
+      "code": "405204",
+      "date": "2027-01-16",
+      "time": "21:00",
+      "team1": "AVENIR JUPILLE A",
+      "team2": "RBC BLEGNY B",
+      "category": "MM - DIVISION 3 B",
+      "location": "AVENIR JUPILLE A",
+      "other": ""
+    },
+    {
+      "code": "405214",
+      "date": "2027-01-23",
+      "time": "21:00",
+      "team1": "AVENIR JUPILLE A",
+      "team2": "RJS GRIVEGNEE",
+      "category": "MM - DIVISION 3 B",
+      "location": "AVENIR JUPILLE A",
+      "other": ""
+    },
+    {
+      "code": "405224",
+      "date": "2027-01-30",
+      "time": "21:00",
+      "team1": "AVENIR JUPILLE A",
+      "team2": "RBC VISE C",
+      "category": "MM - DIVISION 3 B",
+      "location": "AVENIR JUPILLE A",
+      "other": ""
+    },
+    {
+      "code": "405242",
+      "date": "2027-02-13",
+      "time": "19:00",
+      "team1": "LA VILLERSOISE B",
+      "team2": "AVENIR JUPILLE A",
+      "category": "MM - DIVISION 3 B",
+      "location": "LA VILLERSOISE B",
+      "other": ""
+    },
+    {
+      "code": "405254",
+      "date": "2027-02-20",
+      "time": "21:00",
+      "team1": "AVENIR JUPILLE A",
+      "team2": "BC SPRIMONT D",
+      "category": "MM - DIVISION 3 B",
+      "location": "AVENIR JUPILLE A",
+      "other": ""
+    },
+    {
+      "code": "405274",
+      "date": "2027-03-06",
+      "time": "21:00",
+      "team1": "AVENIR JUPILLE A",
+      "team2": "ROYALE US AWANS A",
+      "category": "MM - DIVISION 3 B",
+      "location": "AVENIR JUPILLE A",
+      "other": ""
+    },
+    {
+      "code": "405283",
+      "date": "2027-03-13",
+      "time": "21:00",
+      "team1": "HARIMALIA BC C",
+      "team2": "AVENIR JUPILLE A",
+      "category": "MM - DIVISION 3 B",
+      "location": "HARIMALIA BC C",
+      "other": ""
+    },
+    {
+      "code": "405292",
+      "date": "2027-03-20",
+      "time": "17:00",
+      "team1": "HANNUT BC B",
+      "team2": "AVENIR JUPILLE A",
+      "category": "MM - DIVISION 3 B",
+      "location": "HANNUT BC B",
+      "other": ""
+    },
+    {
+      "code": "405304",
+      "date": "2027-03-27",
+      "time": "21:00",
+      "team1": "AVENIR JUPILLE A",
+      "team2": "BC COINTE B",
+      "category": "MM - DIVISION 3 B",
+      "location": "AVENIR JUPILLE A",
+      "other": ""
+    },
+    {
+      "code": "405327",
+      "date": "2027-04-10",
+      "time": "20:30",
+      "team1": "RB UNION LIEGE B",
+      "team2": "AVENIR JUPILLE A",
+      "category": "MM - DIVISION 3 B",
+      "location": "RB UNION LIEGE B",
+      "other": ""
+    },
+    {
+      "code": "405334",
+      "date": "2027-04-17",
+      "time": "21:00",
+      "team1": "AVENIR JUPILLE A",
+      "team2": "ROYAL BC WANZE B",
+      "category": "MM - DIVISION 3 B",
+      "location": "AVENIR JUPILLE A",
+      "other": ""
+    },
+    {
+      "code": "405346",
+      "date": "2027-04-24",
+      "time": "21:00",
+      "team1": "R HT-PRE OUGREE A",
+      "team2": "AVENIR JUPILLE A",
+      "category": "MM - DIVISION 3 B",
+      "location": "R HT-PRE OUGREE A",
+      "other": ""
+    },
+    {
+      "code": "412015",
+      "date": "2026-09-05",
+      "time": "20:00",
+      "team1": "ABC WAREMME C",
+      "team2": "AVENIR JUPILLE B",
+      "category": "MM - DIVISION 4 F",
+      "location": "ABC WAREMME C",
+      "other": ""
+    },
+    {
+      "code": "412021",
+      "date": "2026-09-11",
+      "time": "21:00",
+      "team1": "RBC AWANS B",
+      "team2": "AVENIR JUPILLE B",
+      "category": "MM - DIVISION 4 F",
+      "location": "RBC AWANS B",
+      "other": ""
+    },
+    {
+      "code": "412034",
+      "date": "2026-09-19",
       "time": "17:00",
       "team1": "AVENIR JUPILLE B",
-      "team2": "MAIL. COMBLAIN C",
-      "category": "MM - DIVISION 4 E",
+      "team2": "R HT-PRE OUGREE B",
+      "category": "MM - DIVISION 4 F",
       "location": "AVENIR JUPILLE B",
+      "other": ""
+    },
+    {
+      "code": "412054",
+      "date": "2026-10-03",
+      "time": "17:00",
+      "team1": "AVENIR JUPILLE B",
+      "team2": "ROYAL BC NINANE D",
+      "category": "MM - DIVISION 4 F",
+      "location": "AVENIR JUPILLE B",
+      "other": ""
+    },
+    {
+      "code": "412063",
+      "date": "2026-10-11",
+      "time": "17:00",
+      "team1": "ROYAL ANS BC B",
+      "team2": "AVENIR JUPILLE B",
+      "category": "MM - DIVISION 4 F",
+      "location": "ROYAL ANS BC B",
+      "other": ""
+    },
+    {
+      "code": "412075",
+      "date": "2026-10-17",
+      "time": "18:30",
+      "team1": "BCM HERSTAL C",
+      "team2": "AVENIR JUPILLE B",
+      "category": "MM - DIVISION 4 F",
+      "location": "BCM HERSTAL C",
+      "other": ""
+    },
+    {
+      "code": "412084",
+      "date": "2026-10-24",
+      "time": "17:00",
+      "team1": "AVENIR JUPILLE B",
+      "team2": "ALL. FLEMALLE D",
+      "category": "MM - DIVISION 4 F",
+      "location": "AVENIR JUPILLE B",
+      "other": ""
+    },
+    {
+      "code": "412104",
+      "date": "2026-11-07",
+      "time": "17:00",
+      "team1": "AVENIR JUPILLE B",
+      "team2": "RBC WELKENRAEDT B",
+      "category": "MM - DIVISION 4 F",
+      "location": "AVENIR JUPILLE B",
+      "other": ""
+    },
+    {
+      "code": "412124",
+      "date": "2026-11-21",
+      "time": "17:00",
+      "team1": "AVENIR JUPILLE B",
+      "team2": "LA VILLERSOISE D",
+      "category": "MM - DIVISION 4 F",
+      "location": "AVENIR JUPILLE B",
+      "other": ""
+    },
+    {
+      "code": "412141",
+      "date": "2026-12-06",
+      "time": "10:00",
+      "team1": "ROYAL SPA BC E",
+      "team2": "AVENIR JUPILLE B",
+      "category": "MM - DIVISION 4 F",
+      "location": "ROYAL SPA BC E",
+      "other": ""
+    },
+    {
+      "code": "412154",
+      "date": "2026-12-12",
+      "time": "17:00",
+      "team1": "CRISTAL SGH D",
+      "team2": "AVENIR JUPILLE B",
+      "category": "MM - DIVISION 4 F",
+      "location": "CRISTAL SGH D",
+      "other": ""
+    },
+    {
+      "code": "412196",
+      "date": "2027-01-09",
+      "time": "18:00",
+      "team1": "R HT-PRE OUGREE B",
+      "team2": "AVENIR JUPILLE B",
+      "category": "MM - DIVISION 4 F",
+      "location": "R HT-PRE OUGREE B",
+      "other": ""
+    },
+    {
+      "code": "412204",
+      "date": "2027-01-16",
+      "time": "17:00",
+      "team1": "AVENIR JUPILLE B",
+      "team2": "ABC WAREMME C",
+      "category": "MM - DIVISION 4 F",
+      "location": "AVENIR JUPILLE B",
+      "other": ""
+    },
+    {
+      "code": "412214",
+      "date": "2027-01-23",
+      "time": "17:00",
+      "team1": "AVENIR JUPILLE B",
+      "team2": "BCM HERSTAL C",
+      "category": "MM - DIVISION 4 F",
+      "location": "AVENIR JUPILLE B",
+      "other": ""
+    },
+    {
+      "code": "412224",
+      "date": "2027-01-30",
+      "time": "17:00",
+      "team1": "AVENIR JUPILLE B",
+      "team2": "RBC AWANS B",
+      "category": "MM - DIVISION 4 F",
+      "location": "AVENIR JUPILLE B",
+      "other": ""
+    },
+    {
+      "code": "412242",
+      "date": "2027-02-14",
+      "time": "16:00",
+      "team1": "ROYAL BC NINANE D",
+      "team2": "AVENIR JUPILLE B",
+      "category": "MM - DIVISION 4 F",
+      "location": "ROYAL BC NINANE D",
+      "other": ""
+    },
+    {
+      "code": "412274",
+      "date": "2027-03-06",
+      "time": "17:00",
+      "team1": "AVENIR JUPILLE B",
+      "team2": "ROYAL SPA BC E",
+      "category": "MM - DIVISION 4 F",
+      "location": "AVENIR JUPILLE B",
+      "other": ""
+    },
+    {
+      "code": "412283",
+      "date": "2027-03-14",
+      "time": "11:00",
+      "team1": "LA VILLERSOISE D",
+      "team2": "AVENIR JUPILLE B",
+      "category": "MM - DIVISION 4 F",
+      "location": "LA VILLERSOISE D",
+      "other": ""
+    },
+    {
+      "code": "412292",
+      "date": "2027-03-20",
+      "time": "21:00",
+      "team1": "RBC WELKENRAEDT B",
+      "team2": "AVENIR JUPILLE B",
+      "category": "MM - DIVISION 4 F",
+      "location": "RBC WELKENRAEDT B",
+      "other": ""
+    },
+    {
+      "code": "412304",
+      "date": "2027-03-27",
+      "time": "17:00",
+      "team1": "AVENIR JUPILLE B",
+      "team2": "ROYAL ANS BC B",
+      "category": "MM - DIVISION 4 F",
+      "location": "AVENIR JUPILLE B",
+      "other": ""
+    },
+    {
+      "code": "412334",
+      "date": "2027-04-17",
+      "time": "17:00",
+      "team1": "AVENIR JUPILLE B",
+      "team2": "CRISTAL SGH D",
+      "category": "MM - DIVISION 4 F",
+      "location": "AVENIR JUPILLE B",
+      "other": ""
+    },
+    {
+      "code": "412346",
+      "date": "2027-04-24",
+      "time": "17:00",
+      "team1": "ALL. FLEMALLE D",
+      "team2": "AVENIR JUPILLE B",
+      "category": "MM - DIVISION 4 F",
+      "location": "ALL. FLEMALLE D",
       "other": ""
     }
   ]

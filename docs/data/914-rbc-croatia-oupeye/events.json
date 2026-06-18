@@ -6,23 +6,483 @@
   },
   "events": [
     {
-      "code": "413335",
-      "date": "2026-04-18",
+      "code": "413014",
+      "date": "2026-09-05",
       "time": "21:00",
       "team1": "RBC CROATIA OUPEYE",
-      "team2": "ROYAL SPA BC A",
+      "team2": "ROYAL HERVE-BATTICE C",
       "category": "DD - DIVISION 1",
       "location": "RBC CROATIA OUPEYE",
       "other": ""
     },
     {
-      "code": "409335",
-      "date": "2026-04-18",
+      "code": "413024",
+      "date": "2026-09-12",
+      "time": "21:00",
+      "team1": "RBC CROATIA OUPEYE",
+      "team2": "ATLAS A JUPILLE A",
+      "category": "DD - DIVISION 1",
+      "location": "RBC CROATIA OUPEYE",
+      "other": ""
+    },
+    {
+      "code": "413035",
+      "date": "2026-09-20",
+      "time": "16:00",
+      "team1": "RBC HANEFFE B",
+      "team2": "RBC CROATIA OUPEYE",
+      "category": "DD - DIVISION 1",
+      "location": "RBC HANEFFE B",
+      "other": ""
+    },
+    {
+      "code": "413052",
+      "date": "2026-10-03",
+      "time": "19:00",
+      "team1": "HANNUT BC",
+      "team2": "RBC CROATIA OUPEYE",
+      "category": "DD - DIVISION 1",
+      "location": "HANNUT BC",
+      "other": ""
+    },
+    {
+      "code": "413064",
+      "date": "2026-10-10",
+      "time": "21:00",
+      "team1": "RBC CROATIA OUPEYE",
+      "team2": "RBC ESNEUX B",
+      "category": "DD - DIVISION 1",
+      "location": "RBC CROATIA OUPEYE",
+      "other": ""
+    },
+    {
+      "code": "413074",
+      "date": "2026-10-17",
+      "time": "21:00",
+      "team1": "RBC CROATIA OUPEYE",
+      "team2": "ABC WAREMME A",
+      "category": "DD - DIVISION 1",
+      "location": "RBC CROATIA OUPEYE",
+      "other": ""
+    },
+    {
+      "code": "413087",
+      "date": "2026-10-25",
+      "time": "13:00",
+      "team1": "BC SPRIMONT A",
+      "team2": "RBC CROATIA OUPEYE",
+      "category": "DD - DIVISION 1",
+      "location": "BC SPRIMONT A",
+      "other": ""
+    },
+    {
+      "code": "413106",
+      "date": "2026-11-08",
+      "time": "13:00",
+      "team1": "RBC ALLEUR C",
+      "team2": "RBC CROATIA OUPEYE",
+      "category": "DD - DIVISION 1",
+      "location": "RBC ALLEUR C",
+      "other": ""
+    },
+    {
+      "code": "413114",
+      "date": "2026-11-14",
+      "time": "21:00",
+      "team1": "RBC CROATIA OUPEYE",
+      "team2": "HENRI-CHAPELLE A",
+      "category": "DD - DIVISION 1",
+      "location": "RBC CROATIA OUPEYE",
+      "other": ""
+    },
+    {
+      "code": "413123",
+      "date": "2026-11-21",
+      "time": "18:00",
+      "team1": "R.UN.BELLAIRE A",
+      "team2": "RBC CROATIA OUPEYE",
+      "category": "DD - DIVISION 1",
+      "location": "R.UN.BELLAIRE A",
+      "other": ""
+    },
+    {
+      "code": "413144",
+      "date": "2026-12-05",
+      "time": "21:00",
+      "team1": "RBC CROATIA OUPEYE",
+      "team2": "BC BELLEFLAMME B",
+      "category": "DD - DIVISION 1",
+      "location": "RBC CROATIA OUPEYE",
+      "other": ""
+    },
+    {
+      "code": "413154",
+      "date": "2026-12-12",
+      "time": "21:00",
+      "team1": "RBC CROATIA OUPEYE",
+      "team2": "RABC ENSIVAL",
+      "category": "DD - DIVISION 1",
+      "location": "RBC CROATIA OUPEYE",
+      "other": ""
+    },
+    {
+      "code": "413167",
+      "date": "2026-12-18",
+      "time": "20:00",
+      "team1": "RBC BLEGNY A",
+      "team2": "RBC CROATIA OUPEYE",
+      "category": "DD - DIVISION 1",
+      "location": "RBC BLEGNY A",
+      "other": ""
+    },
+    {
+      "code": "413194",
+      "date": "2027-01-09",
+      "time": "21:00",
+      "team1": "RBC CROATIA OUPEYE",
+      "team2": "RBC HANEFFE B",
+      "category": "DD - DIVISION 1",
+      "location": "RBC CROATIA OUPEYE",
+      "other": ""
+    },
+    {
+      "code": "413206",
+      "date": "2027-01-16",
+      "time": "19:00",
+      "team1": "ROYAL HERVE-BATTICE C",
+      "team2": "RBC CROATIA OUPEYE",
+      "category": "DD - DIVISION 1",
+      "location": "ROYAL HERVE-BATTICE C",
+      "other": ""
+    },
+    {
+      "code": "413215",
+      "date": "2027-01-23",
+      "time": "19:00",
+      "team1": "ABC WAREMME A",
+      "team2": "RBC CROATIA OUPEYE",
+      "category": "DD - DIVISION 1",
+      "location": "ABC WAREMME A",
+      "other": ""
+    },
+    {
+      "code": "413221",
+      "date": "2027-01-30",
+      "time": "19:00",
+      "team1": "ATLAS A JUPILLE A",
+      "team2": "RBC CROATIA OUPEYE",
+      "category": "DD - DIVISION 1",
+      "location": "ATLAS A JUPILLE A",
+      "other": ""
+    },
+    {
+      "code": "413244",
+      "date": "2027-02-13",
+      "time": "21:00",
+      "team1": "RBC CROATIA OUPEYE",
+      "team2": "HANNUT BC",
+      "category": "DD - DIVISION 1",
+      "location": "RBC CROATIA OUPEYE",
+      "other": ""
+    },
+    {
+      "code": "413251",
+      "date": "2027-02-21",
+      "time": "11:00",
+      "team1": "HENRI-CHAPELLE A",
+      "team2": "RBC CROATIA OUPEYE",
+      "category": "DD - DIVISION 1",
+      "location": "HENRI-CHAPELLE A",
+      "other": ""
+    },
+    {
+      "code": "413272",
+      "date": "2027-03-06",
+      "time": "17:00",
+      "team1": "BC BELLEFLAMME B",
+      "team2": "RBC CROATIA OUPEYE",
+      "category": "DD - DIVISION 1",
+      "location": "BC BELLEFLAMME B",
+      "other": ""
+    },
+    {
+      "code": "413284",
+      "date": "2027-03-13",
+      "time": "21:00",
+      "team1": "RBC CROATIA OUPEYE",
+      "team2": "R.UN.BELLAIRE A",
+      "category": "DD - DIVISION 1",
+      "location": "RBC CROATIA OUPEYE",
+      "other": ""
+    },
+    {
+      "code": "413294",
+      "date": "2027-03-20",
+      "time": "21:00",
+      "team1": "RBC CROATIA OUPEYE",
+      "team2": "RBC ALLEUR C",
+      "category": "DD - DIVISION 1",
+      "location": "RBC CROATIA OUPEYE",
+      "other": ""
+    },
+    {
+      "code": "413303",
+      "date": "2027-03-28",
+      "time": "10:00",
+      "team1": "RBC ESNEUX B",
+      "team2": "RBC CROATIA OUPEYE",
+      "category": "DD - DIVISION 1",
+      "location": "RBC ESNEUX B",
+      "other": ""
+    },
+    {
+      "code": "413324",
+      "date": "2027-04-10",
+      "time": "21:00",
+      "team1": "RBC CROATIA OUPEYE",
+      "team2": "RBC BLEGNY A",
+      "category": "DD - DIVISION 1",
+      "location": "RBC CROATIA OUPEYE",
+      "other": ""
+    },
+    {
+      "code": "413334",
+      "date": "2027-04-17",
+      "time": "17:00",
+      "team1": "RABC ENSIVAL",
+      "team2": "RBC CROATIA OUPEYE",
+      "category": "DD - DIVISION 1",
+      "location": "RABC ENSIVAL",
+      "other": ""
+    },
+    {
+      "code": "413344",
+      "date": "2027-04-24",
+      "time": "21:00",
+      "team1": "RBC CROATIA OUPEYE",
+      "team2": "BC SPRIMONT A",
+      "category": "DD - DIVISION 1",
+      "location": "RBC CROATIA OUPEYE",
+      "other": ""
+    },
+    {
+      "code": "408014",
+      "date": "2026-09-05",
       "time": "19:00",
       "team1": "RBC CROATIA OUPEYE",
-      "team2": "ROYAL SPA BC D",
-      "category": "MM - DIVISION 4 C",
+      "team2": "RBC DISON-ANDRIMONT C",
+      "category": "MM - DIVISION 4 B",
       "location": "RBC CROATIA OUPEYE",
+      "other": ""
+    },
+    {
+      "code": "408024",
+      "date": "2026-09-12",
+      "time": "19:00",
+      "team1": "RBC CROATIA OUPEYE",
+      "team2": "ROYAL BASKET OTHEE",
+      "category": "MM - DIVISION 4 B",
+      "location": "RBC CROATIA OUPEYE",
+      "other": ""
+    },
+    {
+      "code": "408035",
+      "date": "2026-09-20",
+      "time": "13:30",
+      "team1": "ROYAL MOSA AC 1941 B",
+      "team2": "RBC CROATIA OUPEYE",
+      "category": "MM - DIVISION 4 B",
+      "location": "ROYAL MOSA AC 1941 B",
+      "other": ""
+    },
+    {
+      "code": "408052",
+      "date": "2026-10-04",
+      "time": "15:30",
+      "team1": "HARIMALIA BC D",
+      "team2": "RBC CROATIA OUPEYE",
+      "category": "MM - DIVISION 4 B",
+      "location": "HARIMALIA BC D",
+      "other": ""
+    },
+    {
+      "code": "408064",
+      "date": "2026-10-10",
+      "time": "19:00",
+      "team1": "RBC CROATIA OUPEYE",
+      "team2": "UN HUY BASKET",
+      "category": "MM - DIVISION 4 B",
+      "location": "RBC CROATIA OUPEYE",
+      "other": ""
+    },
+    {
+      "code": "408074",
+      "date": "2026-10-17",
+      "time": "19:00",
+      "team1": "RBC CROATIA OUPEYE",
+      "team2": "ORP JAUCHE B",
+      "category": "MM - DIVISION 4 B",
+      "location": "RBC CROATIA OUPEYE",
+      "other": ""
+    },
+    {
+      "code": "408106",
+      "date": "2026-11-08",
+      "time": "11:00",
+      "team1": "R REN. MONTEGNEE",
+      "team2": "RBC CROATIA OUPEYE",
+      "category": "MM - DIVISION 4 B",
+      "location": "R REN. MONTEGNEE",
+      "other": ""
+    },
+    {
+      "code": "408114",
+      "date": "2026-11-14",
+      "time": "19:00",
+      "team1": "RBC CROATIA OUPEYE",
+      "team2": "BC TORES LIEGE",
+      "category": "MM - DIVISION 4 B",
+      "location": "RBC CROATIA OUPEYE",
+      "other": ""
+    },
+    {
+      "code": "408123",
+      "date": "2026-11-22",
+      "time": "15:00",
+      "team1": "ROYAL ANS BC A",
+      "team2": "RBC CROATIA OUPEYE",
+      "category": "MM - DIVISION 4 B",
+      "location": "ROYAL ANS BC A",
+      "other": ""
+    },
+    {
+      "code": "408144",
+      "date": "2026-12-05",
+      "time": "19:00",
+      "team1": "RBC CROATIA OUPEYE",
+      "team2": "CS OUTREMEUSE",
+      "category": "MM - DIVISION 4 B",
+      "location": "RBC CROATIA OUPEYE",
+      "other": ""
+    },
+    {
+      "code": "408154",
+      "date": "2026-12-12",
+      "time": "19:00",
+      "team1": "RBC CROATIA OUPEYE",
+      "team2": "MAIL. COMBLAIN B",
+      "category": "MM - DIVISION 4 B",
+      "location": "RBC CROATIA OUPEYE",
+      "other": ""
+    },
+    {
+      "code": "408194",
+      "date": "2027-01-09",
+      "time": "19:00",
+      "team1": "RBC CROATIA OUPEYE",
+      "team2": "ROYAL MOSA AC 1941 B",
+      "category": "MM - DIVISION 4 B",
+      "location": "RBC CROATIA OUPEYE",
+      "other": ""
+    },
+    {
+      "code": "408206",
+      "date": "2027-01-16",
+      "time": "21:00",
+      "team1": "RBC DISON-ANDRIMONT C",
+      "team2": "RBC CROATIA OUPEYE",
+      "category": "MM - DIVISION 4 B",
+      "location": "RBC DISON-ANDRIMONT C",
+      "other": ""
+    },
+    {
+      "code": "408215",
+      "date": "2027-01-23",
+      "time": "19:00",
+      "team1": "ORP JAUCHE B",
+      "team2": "RBC CROATIA OUPEYE",
+      "category": "MM - DIVISION 4 B",
+      "location": "ORP JAUCHE B",
+      "other": ""
+    },
+    {
+      "code": "408221",
+      "date": "2027-01-31",
+      "time": "9:45",
+      "team1": "ROYAL BASKET OTHEE",
+      "team2": "RBC CROATIA OUPEYE",
+      "category": "MM - DIVISION 4 B",
+      "location": "ROYAL BASKET OTHEE",
+      "other": ""
+    },
+    {
+      "code": "408244",
+      "date": "2027-02-13",
+      "time": "19:00",
+      "team1": "RBC CROATIA OUPEYE",
+      "team2": "HARIMALIA BC D",
+      "category": "MM - DIVISION 4 B",
+      "location": "RBC CROATIA OUPEYE",
+      "other": ""
+    },
+    {
+      "code": "408251",
+      "date": "2027-02-21",
+      "time": "15:00",
+      "team1": "BC TORES LIEGE",
+      "team2": "RBC CROATIA OUPEYE",
+      "category": "MM - DIVISION 4 B",
+      "location": "BC TORES LIEGE",
+      "other": ""
+    },
+    {
+      "code": "408272",
+      "date": "2027-03-07",
+      "time": "14:30",
+      "team1": "CS OUTREMEUSE",
+      "team2": "RBC CROATIA OUPEYE",
+      "category": "MM - DIVISION 4 B",
+      "location": "CS OUTREMEUSE",
+      "other": ""
+    },
+    {
+      "code": "408284",
+      "date": "2027-03-13",
+      "time": "19:00",
+      "team1": "RBC CROATIA OUPEYE",
+      "team2": "ROYAL ANS BC A",
+      "category": "MM - DIVISION 4 B",
+      "location": "RBC CROATIA OUPEYE",
+      "other": ""
+    },
+    {
+      "code": "408294",
+      "date": "2027-03-20",
+      "time": "19:00",
+      "team1": "RBC CROATIA OUPEYE",
+      "team2": "R REN. MONTEGNEE",
+      "category": "MM - DIVISION 4 B",
+      "location": "RBC CROATIA OUPEYE",
+      "other": ""
+    },
+    {
+      "code": "408303",
+      "date": "2027-03-27",
+      "time": "21:00",
+      "team1": "UN HUY BASKET",
+      "team2": "RBC CROATIA OUPEYE",
+      "category": "MM - DIVISION 4 B",
+      "location": "UN HUY BASKET",
+      "other": ""
+    },
+    {
+      "code": "408334",
+      "date": "2027-04-17",
+      "time": "18:00",
+      "team1": "MAIL. COMBLAIN B",
+      "team2": "RBC CROATIA OUPEYE",
+      "category": "MM - DIVISION 4 B",
+      "location": "MAIL. COMBLAIN B",
       "other": ""
     }
   ]

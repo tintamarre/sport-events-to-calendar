@@ -6,23 +6,523 @@
   },
   "events": [
     {
-      "code": "401331",
-      "date": "2026-04-19",
-      "time": "13:00",
-      "team1": "HARIMALIA BC A",
-      "team2": "RB UNION LIEGE A",
+      "code": "401017",
+      "date": "2026-09-05",
+      "time": "18:30",
+      "team1": "RB UNION LIEGE A",
+      "team2": "THEUX BC A",
       "category": "MM - DIVISION 1",
-      "location": "HARIMALIA BC A",
+      "location": "RB UNION LIEGE A",
       "other": ""
     },
     {
-      "code": "404331",
-      "date": "2026-04-19",
+      "code": "401027",
+      "date": "2026-09-12",
+      "time": "18:30",
+      "team1": "RB UNION LIEGE A",
+      "team2": "ESL UNITED C",
+      "category": "MM - DIVISION 1",
+      "location": "RB UNION LIEGE A",
+      "other": ""
+    },
+    {
+      "code": "401032",
+      "date": "2026-09-19",
+      "time": "19:00",
+      "team1": "BC COINTE A",
+      "team2": "RB UNION LIEGE A",
+      "category": "MM - DIVISION 1",
+      "location": "BC COINTE A",
+      "other": ""
+    },
+    {
+      "code": "401053",
+      "date": "2026-10-02",
+      "time": "21:00",
+      "team1": "BC BELLEFLAMME B",
+      "team2": "RB UNION LIEGE A",
+      "category": "MM - DIVISION 1",
+      "location": "BC BELLEFLAMME B",
+      "other": ""
+    },
+    {
+      "code": "401067",
+      "date": "2026-10-10",
+      "time": "18:30",
+      "team1": "RB UNION LIEGE A",
+      "team2": "HENRI-CHAPELLE A",
+      "category": "MM - DIVISION 1",
+      "location": "RB UNION LIEGE A",
+      "other": ""
+    },
+    {
+      "code": "401072",
+      "date": "2026-10-16",
+      "time": "21:00",
+      "team1": "HANNUT BC A",
+      "team2": "RB UNION LIEGE A",
+      "category": "MM - DIVISION 1",
+      "location": "HANNUT BC A",
+      "other": ""
+    },
+    {
+      "code": "401087",
+      "date": "2026-10-24",
+      "time": "18:30",
+      "team1": "RB UNION LIEGE A",
+      "team2": "CRISTAL SGH A",
+      "category": "MM - DIVISION 1",
+      "location": "RB UNION LIEGE A",
+      "other": ""
+    },
+    {
+      "code": "401107",
+      "date": "2026-11-07",
+      "time": "18:30",
+      "team1": "RB UNION LIEGE A",
+      "team2": "ROYAL HERVE-BATTICE A",
+      "category": "MM - DIVISION 1",
+      "location": "RB UNION LIEGE A",
+      "other": ""
+    },
+    {
+      "code": "401111",
+      "date": "2026-11-14",
+      "time": "21:00",
+      "team1": "ATLAS A JUPILLE A",
+      "team2": "RB UNION LIEGE A",
+      "category": "MM - DIVISION 1",
+      "location": "ATLAS A JUPILLE A",
+      "other": ""
+    },
+    {
+      "code": "401127",
+      "date": "2026-11-21",
+      "time": "18:30",
+      "team1": "RB UNION LIEGE A",
+      "team2": "ALL. FLEMALLE A",
+      "category": "MM - DIVISION 1",
+      "location": "RB UNION LIEGE A",
+      "other": ""
+    },
+    {
+      "code": "401145",
+      "date": "2026-12-05",
       "time": "17:00",
-      "team1": "LA VILLERSOISE A",
+      "team1": "ABC WAREMME A",
+      "team2": "RB UNION LIEGE A",
+      "category": "MM - DIVISION 1",
+      "location": "ABC WAREMME A",
+      "other": ""
+    },
+    {
+      "code": "401157",
+      "date": "2026-12-12",
+      "time": "18:30",
+      "team1": "RB UNION LIEGE A",
+      "team2": "RBC STAVELOT A",
+      "category": "MM - DIVISION 1",
+      "location": "RB UNION LIEGE A",
+      "other": ""
+    },
+    {
+      "code": "401164",
+      "date": "2026-12-18",
+      "time": "21:00",
+      "team1": "ETOILE JUPILLE A",
+      "team2": "RB UNION LIEGE A",
+      "category": "MM - DIVISION 1",
+      "location": "ETOILE JUPILLE A",
+      "other": ""
+    },
+    {
+      "code": "401197",
+      "date": "2027-01-09",
+      "time": "18:30",
+      "team1": "RB UNION LIEGE A",
+      "team2": "BC COINTE A",
+      "category": "MM - DIVISION 1",
+      "location": "RB UNION LIEGE A",
+      "other": ""
+    },
+    {
+      "code": "401203",
+      "date": "2027-01-17",
+      "time": "13:00",
+      "team1": "THEUX BC A",
+      "team2": "RB UNION LIEGE A",
+      "category": "MM - DIVISION 1",
+      "location": "THEUX BC A",
+      "other": ""
+    },
+    {
+      "code": "401217",
+      "date": "2027-01-23",
+      "time": "18:30",
+      "team1": "RB UNION LIEGE A",
+      "team2": "HANNUT BC A",
+      "category": "MM - DIVISION 1",
+      "location": "RB UNION LIEGE A",
+      "other": ""
+    },
+    {
+      "code": "401225",
+      "date": "2027-01-29",
+      "time": "20:00",
+      "team1": "ESL UNITED C",
+      "team2": "RB UNION LIEGE A",
+      "category": "MM - DIVISION 1",
+      "location": "ESL UNITED C",
+      "other": ""
+    },
+    {
+      "code": "401247",
+      "date": "2027-02-13",
+      "time": "18:30",
+      "team1": "RB UNION LIEGE A",
+      "team2": "BC BELLEFLAMME B",
+      "category": "MM - DIVISION 1",
+      "location": "RB UNION LIEGE A",
+      "other": ""
+    },
+    {
+      "code": "401257",
+      "date": "2027-02-20",
+      "time": "18:30",
+      "team1": "RB UNION LIEGE A",
+      "team2": "ATLAS A JUPILLE A",
+      "category": "MM - DIVISION 1",
+      "location": "RB UNION LIEGE A",
+      "other": ""
+    },
+    {
+      "code": "401277",
+      "date": "2027-03-06",
+      "time": "18:30",
+      "team1": "RB UNION LIEGE A",
+      "team2": "ABC WAREMME A",
+      "category": "MM - DIVISION 1",
+      "location": "RB UNION LIEGE A",
+      "other": ""
+    },
+    {
+      "code": "401286",
+      "date": "2027-03-13",
+      "time": "19:00",
+      "team1": "ALL. FLEMALLE A",
+      "team2": "RB UNION LIEGE A",
+      "category": "MM - DIVISION 1",
+      "location": "ALL. FLEMALLE A",
+      "other": ""
+    },
+    {
+      "code": "401296",
+      "date": "2027-03-21",
+      "time": "13:00",
+      "team1": "ROYAL HERVE-BATTICE A",
+      "team2": "RB UNION LIEGE A",
+      "category": "MM - DIVISION 1",
+      "location": "ROYAL HERVE-BATTICE A",
+      "other": ""
+    },
+    {
+      "code": "401307",
+      "date": "2027-03-27",
+      "time": "20:30",
+      "team1": "HENRI-CHAPELLE A",
+      "team2": "RB UNION LIEGE A",
+      "category": "MM - DIVISION 1",
+      "location": "HENRI-CHAPELLE A",
+      "other": ""
+    },
+    {
+      "code": "401327",
+      "date": "2027-04-10",
+      "time": "18:30",
+      "team1": "RB UNION LIEGE A",
+      "team2": "ETOILE JUPILLE A",
+      "category": "MM - DIVISION 1",
+      "location": "RB UNION LIEGE A",
+      "other": ""
+    },
+    {
+      "code": "401331",
+      "date": "2027-04-17",
+      "time": "19:00",
+      "team1": "RBC STAVELOT A",
+      "team2": "RB UNION LIEGE A",
+      "category": "MM - DIVISION 1",
+      "location": "RBC STAVELOT A",
+      "other": ""
+    },
+    {
+      "code": "401344",
+      "date": "2027-04-25",
+      "time": "15:00",
+      "team1": "CRISTAL SGH A",
+      "team2": "RB UNION LIEGE A",
+      "category": "MM - DIVISION 1",
+      "location": "CRISTAL SGH A",
+      "other": ""
+    },
+    {
+      "code": "405017",
+      "date": "2026-09-05",
+      "time": "20:30",
+      "team1": "RB UNION LIEGE B",
+      "team2": "BC COINTE B",
+      "category": "MM - DIVISION 3 B",
+      "location": "RB UNION LIEGE B",
+      "other": ""
+    },
+    {
+      "code": "405027",
+      "date": "2026-09-12",
+      "time": "20:30",
+      "team1": "RB UNION LIEGE B",
+      "team2": "RJS GRIVEGNEE",
+      "category": "MM - DIVISION 3 B",
+      "location": "RB UNION LIEGE B",
+      "other": ""
+    },
+    {
+      "code": "405032",
+      "date": "2026-09-19",
+      "time": "19:00",
+      "team1": "LA VILLERSOISE B",
       "team2": "RB UNION LIEGE B",
-      "category": "MM - DIVISION 3 A",
-      "location": "LA VILLERSOISE A",
+      "category": "MM - DIVISION 3 B",
+      "location": "LA VILLERSOISE B",
+      "other": ""
+    },
+    {
+      "code": "405053",
+      "date": "2026-10-03",
+      "time": "21:00",
+      "team1": "HARIMALIA BC C",
+      "team2": "RB UNION LIEGE B",
+      "category": "MM - DIVISION 3 B",
+      "location": "HARIMALIA BC C",
+      "other": ""
+    },
+    {
+      "code": "405067",
+      "date": "2026-10-10",
+      "time": "20:30",
+      "team1": "RB UNION LIEGE B",
+      "team2": "BC SPRIMONT D",
+      "category": "MM - DIVISION 3 B",
+      "location": "RB UNION LIEGE B",
+      "other": ""
+    },
+    {
+      "code": "405072",
+      "date": "2026-10-17",
+      "time": "17:00",
+      "team1": "HANNUT BC B",
+      "team2": "RB UNION LIEGE B",
+      "category": "MM - DIVISION 3 B",
+      "location": "HANNUT BC B",
+      "other": ""
+    },
+    {
+      "code": "405087",
+      "date": "2026-10-24",
+      "time": "20:30",
+      "team1": "RB UNION LIEGE B",
+      "team2": "ROYAL BC WANZE B",
+      "category": "MM - DIVISION 3 B",
+      "location": "RB UNION LIEGE B",
+      "other": ""
+    },
+    {
+      "code": "405107",
+      "date": "2026-11-07",
+      "time": "20:30",
+      "team1": "RB UNION LIEGE B",
+      "team2": "R HT-PRE OUGREE A",
+      "category": "MM - DIVISION 3 B",
+      "location": "RB UNION LIEGE B",
+      "other": ""
+    },
+    {
+      "code": "405111",
+      "date": "2026-11-15",
+      "time": "15:00",
+      "team1": "ROYALE US AWANS A",
+      "team2": "RB UNION LIEGE B",
+      "category": "MM - DIVISION 3 B",
+      "location": "ROYALE US AWANS A",
+      "other": ""
+    },
+    {
+      "code": "405127",
+      "date": "2026-11-21",
+      "time": "20:30",
+      "team1": "RB UNION LIEGE B",
+      "team2": "ALL. FLEMALLE B",
+      "category": "MM - DIVISION 3 B",
+      "location": "RB UNION LIEGE B",
+      "other": ""
+    },
+    {
+      "code": "405145",
+      "date": "2026-12-04",
+      "time": "20:00",
+      "team1": "RBC BLEGNY B",
+      "team2": "RB UNION LIEGE B",
+      "category": "MM - DIVISION 3 B",
+      "location": "RBC BLEGNY B",
+      "other": ""
+    },
+    {
+      "code": "405157",
+      "date": "2026-12-12",
+      "time": "20:30",
+      "team1": "RB UNION LIEGE B",
+      "team2": "RBC VISE C",
+      "category": "MM - DIVISION 3 B",
+      "location": "RB UNION LIEGE B",
+      "other": ""
+    },
+    {
+      "code": "405164",
+      "date": "2026-12-19",
+      "time": "21:00",
+      "team1": "AVENIR JUPILLE A",
+      "team2": "RB UNION LIEGE B",
+      "category": "MM - DIVISION 3 B",
+      "location": "AVENIR JUPILLE A",
+      "other": ""
+    },
+    {
+      "code": "405197",
+      "date": "2027-01-09",
+      "time": "20:30",
+      "team1": "RB UNION LIEGE B",
+      "team2": "LA VILLERSOISE B",
+      "category": "MM - DIVISION 3 B",
+      "location": "RB UNION LIEGE B",
+      "other": ""
+    },
+    {
+      "code": "405203",
+      "date": "2027-01-16",
+      "time": "21:00",
+      "team1": "BC COINTE B",
+      "team2": "RB UNION LIEGE B",
+      "category": "MM - DIVISION 3 B",
+      "location": "BC COINTE B",
+      "other": ""
+    },
+    {
+      "code": "405217",
+      "date": "2027-01-23",
+      "time": "20:30",
+      "team1": "RB UNION LIEGE B",
+      "team2": "HANNUT BC B",
+      "category": "MM - DIVISION 3 B",
+      "location": "RB UNION LIEGE B",
+      "other": ""
+    },
+    {
+      "code": "405225",
+      "date": "2027-01-31",
+      "time": "13:30",
+      "team1": "RJS GRIVEGNEE",
+      "team2": "RB UNION LIEGE B",
+      "category": "MM - DIVISION 3 B",
+      "location": "RJS GRIVEGNEE",
+      "other": ""
+    },
+    {
+      "code": "405247",
+      "date": "2027-02-13",
+      "time": "20:30",
+      "team1": "RB UNION LIEGE B",
+      "team2": "HARIMALIA BC C",
+      "category": "MM - DIVISION 3 B",
+      "location": "RB UNION LIEGE B",
+      "other": ""
+    },
+    {
+      "code": "405257",
+      "date": "2027-02-20",
+      "time": "20:30",
+      "team1": "RB UNION LIEGE B",
+      "team2": "ROYALE US AWANS A",
+      "category": "MM - DIVISION 3 B",
+      "location": "RB UNION LIEGE B",
+      "other": ""
+    },
+    {
+      "code": "405277",
+      "date": "2027-03-06",
+      "time": "20:30",
+      "team1": "RB UNION LIEGE B",
+      "team2": "RBC BLEGNY B",
+      "category": "MM - DIVISION 3 B",
+      "location": "RB UNION LIEGE B",
+      "other": ""
+    },
+    {
+      "code": "405286",
+      "date": "2027-03-13",
+      "time": "17:00",
+      "team1": "ALL. FLEMALLE B",
+      "team2": "RB UNION LIEGE B",
+      "category": "MM - DIVISION 3 B",
+      "location": "ALL. FLEMALLE B",
+      "other": ""
+    },
+    {
+      "code": "405296",
+      "date": "2027-03-20",
+      "time": "21:00",
+      "team1": "R HT-PRE OUGREE A",
+      "team2": "RB UNION LIEGE B",
+      "category": "MM - DIVISION 3 B",
+      "location": "R HT-PRE OUGREE A",
+      "other": ""
+    },
+    {
+      "code": "405307",
+      "date": "2027-03-27",
+      "time": "21:00",
+      "team1": "BC SPRIMONT D",
+      "team2": "RB UNION LIEGE B",
+      "category": "MM - DIVISION 3 B",
+      "location": "BC SPRIMONT D",
+      "other": ""
+    },
+    {
+      "code": "405327",
+      "date": "2027-04-10",
+      "time": "20:30",
+      "team1": "RB UNION LIEGE B",
+      "team2": "AVENIR JUPILLE A",
+      "category": "MM - DIVISION 3 B",
+      "location": "RB UNION LIEGE B",
+      "other": ""
+    },
+    {
+      "code": "405331",
+      "date": "2027-04-17",
+      "time": "21:00",
+      "team1": "RBC VISE C",
+      "team2": "RB UNION LIEGE B",
+      "category": "MM - DIVISION 3 B",
+      "location": "RBC VISE C",
+      "other": ""
+    },
+    {
+      "code": "405344",
+      "date": "2027-04-25",
+      "time": "15:00",
+      "team1": "ROYAL BC WANZE B",
+      "team2": "RB UNION LIEGE B",
+      "category": "MM - DIVISION 3 B",
+      "location": "ROYAL BC WANZE B",
       "other": ""
     }
   ]

@@ -6,23 +6,263 @@
   },
   "events": [
     {
-      "code": "406333",
-      "date": "2026-04-18",
-      "time": "21:00",
-      "team1": "UN HUY BASKET A",
-      "team2": "BC REVEIL A",
+      "code": "406016",
+      "date": "2026-09-04",
+      "time": "20:00",
+      "team1": "BC REVEIL",
+      "team2": "RBC BLEGNY A",
       "category": "MM - DIVISION 3 C",
-      "location": "UN HUY BASKET A",
-      "other": "(Hall de Villers)"
+      "location": "BC REVEIL",
+      "other": ""
     },
     {
-      "code": "411337",
-      "date": "2026-04-18",
+      "code": "406026",
+      "date": "2026-09-11",
+      "time": "20:00",
+      "team1": "BC REVEIL",
+      "team2": "BBC EUPEN A",
+      "category": "MM - DIVISION 3 C",
+      "location": "BC REVEIL",
+      "other": ""
+    },
+    {
+      "code": "406034",
+      "date": "2026-09-20",
+      "time": "12:15",
+      "team1": "RBC AUBEL",
+      "team2": "BC REVEIL",
+      "category": "MM - DIVISION 3 C",
+      "location": "RBC AUBEL",
+      "other": ""
+    },
+    {
+      "code": "406057",
+      "date": "2026-10-02",
+      "time": "21:00",
+      "team1": "BC SANKT VITH",
+      "team2": "BC REVEIL",
+      "category": "MM - DIVISION 3 C",
+      "location": "BC SANKT VITH",
+      "other": ""
+    },
+    {
+      "code": "406066",
+      "date": "2026-10-09",
+      "time": "20:00",
+      "team1": "BC REVEIL",
+      "team2": "R.UN.BELLAIRE B",
+      "category": "MM - DIVISION 3 C",
+      "location": "BC REVEIL",
+      "other": ""
+    },
+    {
+      "code": "406073",
+      "date": "2026-10-17",
+      "time": "21:00",
+      "team1": "RABC ENSIVAL C",
+      "team2": "BC REVEIL",
+      "category": "MM - DIVISION 3 C",
+      "location": "RABC ENSIVAL C",
+      "other": ""
+    },
+    {
+      "code": "406086",
+      "date": "2026-10-23",
+      "time": "20:00",
+      "team1": "BC REVEIL",
+      "team2": "RBC WELKENRAEDT A",
+      "category": "MM - DIVISION 3 C",
+      "location": "BC REVEIL",
+      "other": ""
+    },
+    {
+      "code": "406106",
+      "date": "2026-11-06",
+      "time": "20:00",
+      "team1": "BC REVEIL",
+      "team2": "CRISTAL SGH B",
+      "category": "MM - DIVISION 3 C",
+      "location": "BC REVEIL",
+      "other": ""
+    },
+    {
+      "code": "406115",
+      "date": "2026-11-14",
       "time": "17:00",
-      "team1": "RBC BLEGNY C",
-      "team2": "BC REVEIL B",
-      "category": "MM - DIVISION 4 E",
-      "location": "RBC BLEGNY C",
+      "team1": "RB TILFF C",
+      "team2": "BC REVEIL",
+      "category": "MM - DIVISION 3 C",
+      "location": "RB TILFF C",
+      "other": ""
+    },
+    {
+      "code": "406127",
+      "date": "2026-11-22",
+      "time": "13:00",
+      "team1": "FLERON BBC B",
+      "team2": "BC REVEIL",
+      "category": "MM - DIVISION 3 C",
+      "location": "FLERON BBC B",
+      "other": ""
+    },
+    {
+      "code": "406146",
+      "date": "2026-12-04",
+      "time": "20:00",
+      "team1": "BC REVEIL",
+      "team2": "RBC STAVELOT B",
+      "category": "MM - DIVISION 3 C",
+      "location": "BC REVEIL",
+      "other": ""
+    },
+    {
+      "code": "406156",
+      "date": "2026-12-11",
+      "time": "20:00",
+      "team1": "BC REVEIL",
+      "team2": "ROYAL BC NINANE C",
+      "category": "MM - DIVISION 3 C",
+      "location": "BC REVEIL",
+      "other": ""
+    },
+    {
+      "code": "406163",
+      "date": "2026-12-19",
+      "time": "17:00",
+      "team1": "BC VERVIERS D",
+      "team2": "BC REVEIL",
+      "category": "MM - DIVISION 3 C",
+      "location": "BC VERVIERS D",
+      "other": ""
+    },
+    {
+      "code": "406196",
+      "date": "2027-01-08",
+      "time": "20:00",
+      "team1": "BC REVEIL",
+      "team2": "RBC AUBEL",
+      "category": "MM - DIVISION 3 C",
+      "location": "BC REVEIL",
+      "other": ""
+    },
+    {
+      "code": "406205",
+      "date": "2027-01-15",
+      "time": "21:00",
+      "team1": "RBC BLEGNY A",
+      "team2": "BC REVEIL",
+      "category": "MM - DIVISION 3 C",
+      "location": "RBC BLEGNY A",
+      "other": ""
+    },
+    {
+      "code": "406216",
+      "date": "2027-01-22",
+      "time": "20:00",
+      "team1": "BC REVEIL",
+      "team2": "RABC ENSIVAL C",
+      "category": "MM - DIVISION 3 C",
+      "location": "BC REVEIL",
+      "other": ""
+    },
+    {
+      "code": "406226",
+      "date": "2027-01-30",
+      "time": "18:00",
+      "team1": "BBC EUPEN A",
+      "team2": "BC REVEIL",
+      "category": "MM - DIVISION 3 C",
+      "location": "BBC EUPEN A",
+      "other": ""
+    },
+    {
+      "code": "406246",
+      "date": "2027-02-12",
+      "time": "20:00",
+      "team1": "BC REVEIL",
+      "team2": "BC SANKT VITH",
+      "category": "MM - DIVISION 3 C",
+      "location": "BC REVEIL",
+      "other": ""
+    },
+    {
+      "code": "406256",
+      "date": "2027-02-19",
+      "time": "20:00",
+      "team1": "BC REVEIL",
+      "team2": "RB TILFF C",
+      "category": "MM - DIVISION 3 C",
+      "location": "BC REVEIL",
+      "other": ""
+    },
+    {
+      "code": "406271",
+      "date": "2027-03-06",
+      "time": "21:00",
+      "team1": "RBC STAVELOT B",
+      "team2": "BC REVEIL",
+      "category": "MM - DIVISION 3 C",
+      "location": "RBC STAVELOT B",
+      "other": ""
+    },
+    {
+      "code": "406286",
+      "date": "2027-03-12",
+      "time": "20:00",
+      "team1": "BC REVEIL",
+      "team2": "FLERON BBC B",
+      "category": "MM - DIVISION 3 C",
+      "location": "BC REVEIL",
+      "other": ""
+    },
+    {
+      "code": "406294",
+      "date": "2027-03-21",
+      "time": "13:00",
+      "team1": "CRISTAL SGH B",
+      "team2": "BC REVEIL",
+      "category": "MM - DIVISION 3 C",
+      "location": "CRISTAL SGH B",
+      "other": ""
+    },
+    {
+      "code": "406301",
+      "date": "2027-03-27",
+      "time": "20:00",
+      "team1": "R.UN.BELLAIRE B",
+      "team2": "BC REVEIL",
+      "category": "MM - DIVISION 3 C",
+      "location": "R.UN.BELLAIRE B",
+      "other": ""
+    },
+    {
+      "code": "406326",
+      "date": "2027-04-09",
+      "time": "20:00",
+      "team1": "BC REVEIL",
+      "team2": "BC VERVIERS D",
+      "category": "MM - DIVISION 3 C",
+      "location": "BC REVEIL",
+      "other": ""
+    },
+    {
+      "code": "406332",
+      "date": "2027-04-17",
+      "time": "19:00",
+      "team1": "ROYAL BC NINANE C",
+      "team2": "BC REVEIL",
+      "category": "MM - DIVISION 3 C",
+      "location": "ROYAL BC NINANE C",
+      "other": ""
+    },
+    {
+      "code": "406342",
+      "date": "2027-04-24",
+      "time": "19:00",
+      "team1": "RBC WELKENRAEDT A",
+      "team2": "BC REVEIL",
+      "category": "MM - DIVISION 3 C",
+      "location": "RBC WELKENRAEDT A",
       "other": ""
     }
   ]
