@@ -36,16 +36,6 @@
       "other": ""
     },
     {
-      "code": "493063",
-      "date": "2026-10-11",
-      "time": "12:00",
-      "team1": "MARCHIN BASKET",
-      "team2": "BC VERLAINE",
-      "category": "U 14 - PROV MM D",
-      "location": "MARCHIN BASKET",
-      "other": ""
-    },
-    {
       "code": "493114",
       "date": "2026-11-15",
       "time": "9:00",
@@ -61,6 +51,16 @@
       "time": "12:00",
       "team1": "MARCHIN BASKET",
       "team2": "HANNUT BC",
+      "category": "U 14 - PROV MM D",
+      "location": "MARCHIN BASKET",
+      "other": ""
+    },
+    {
+      "code": "493213",
+      "date": "2026-11-29",
+      "time": "12:00",
+      "team1": "MARCHIN BASKET",
+      "team2": "UN HUY BASKET",
       "category": "U 14 - PROV MM D",
       "location": "MARCHIN BASKET",
       "other": ""
@@ -116,16 +116,6 @@
       "other": ""
     },
     {
-      "code": "493213",
-      "date": "2027-01-24",
-      "time": "12:00",
-      "team1": "MARCHIN BASKET",
-      "team2": "UN HUY BASKET",
-      "category": "U 14 - PROV MM D",
-      "location": "MARCHIN BASKET",
-      "other": ""
-    },
-    {
       "code": "493233",
       "date": "2027-02-07",
       "time": "12:00",
@@ -163,6 +153,16 @@
       "team2": "MARCHIN BASKET",
       "category": "U 14 - PROV MM D",
       "location": "BC VERLAINE",
+      "other": ""
+    },
+    {
+      "code": "493063",
+      "date": "2027-04-04",
+      "time": "12:00",
+      "team1": "MARCHIN BASKET",
+      "team2": "BC VERLAINE",
+      "category": "U 14 - PROV MM D",
+      "location": "MARCHIN BASKET",
       "other": ""
     },
     {
@@ -258,7 +258,7 @@
     {
       "code": "471165",
       "date": "2026-12-20",
-      "time": "12:00",
+      "time": "16:30",
       "team1": "MARCHIN BASKET",
       "team2": "ROYAL ANS BC",
       "category": "U 16 - PROV MM B",
@@ -303,17 +303,7 @@
       "team2": "MARCHIN BASKET",
       "category": "U 16 - PROV MM B",
       "location": "R 4A AYWAILLE-HAMOIR",
-      "other": ""
-    },
-    {
-      "code": "471245",
-      "date": "2027-02-14",
-      "time": "12:00",
-      "team1": "MARCHIN BASKET",
-      "team2": "ATLAS A JUPILLE B",
-      "category": "U 16 - PROV MM B",
-      "location": "MARCHIN BASKET",
-      "other": ""
+      "other": "(ho Hamoir rue du mouli"
     },
     {
       "code": "471283",
@@ -333,6 +323,16 @@
       "team2": "MARCHIN BASKET",
       "category": "U 16 - PROV MM B",
       "location": "PEPINSTER EAST BELG B",
+      "other": ""
+    },
+    {
+      "code": "471245",
+      "date": "2027-04-04",
+      "time": "16:30",
+      "team1": "MARCHIN BASKET",
+      "team2": "ATLAS A JUPILLE B",
+      "category": "U 16 - PROV MM B",
+      "location": "MARCHIN BASKET",
       "other": ""
     },
     {
@@ -406,6 +406,16 @@
       "other": ""
     },
     {
+      "code": "440235",
+      "date": "2026-11-29",
+      "time": "17:00",
+      "team1": "MARCHIN BASKET",
+      "team2": "R HT-PRE OUGREE",
+      "category": "U 18 - PROV MM A",
+      "location": "MARCHIN BASKET",
+      "other": ""
+    },
+    {
       "code": "440143",
       "date": "2026-12-06",
       "time": "13:00",
@@ -418,7 +428,7 @@
     {
       "code": "440155",
       "date": "2026-12-13",
-      "time": "16:30",
+      "time": "12:00",
       "team1": "MARCHIN BASKET",
       "team2": "RBC BLEGNY",
       "category": "U 18 - PROV MM A",
@@ -453,16 +463,6 @@
       "team2": "MARCHIN BASKET",
       "category": "U 18 - PROV MM A",
       "location": "RBC BLEGNY",
-      "other": ""
-    },
-    {
-      "code": "440235",
-      "date": "2027-02-07",
-      "time": "16:30",
-      "team1": "MARCHIN BASKET",
-      "team2": "R HT-PRE OUGREE",
-      "category": "U 18 - PROV MM A",
-      "location": "MARCHIN BASKET",
       "other": ""
     },
     {
@@ -548,7 +548,7 @@
     {
       "code": "420037",
       "date": "2026-09-19",
-      "time": "15:00",
+      "time": "13:00",
       "team1": "R 4A AYWAILLE-HAMOIR",
       "team2": "MARCHIN BASKET",
       "category": "U 21 - MM",
@@ -696,6 +696,16 @@
       "other": ""
     },
     {
+      "code": "420305",
+      "date": "2027-01-17",
+      "time": "16:30",
+      "team1": "MARCHIN BASKET",
+      "team2": "MAIL. COMBLAIN",
+      "category": "U 21 - MM",
+      "location": "MARCHIN BASKET",
+      "other": ""
+    },
+    {
       "code": "420215",
       "date": "2027-01-24",
       "time": "16:30",
@@ -768,19 +778,9 @@
     {
       "code": "420295",
       "date": "2027-03-21",
-      "time": "16:30",
+      "time": "12:00",
       "team1": "MARCHIN BASKET",
       "team2": "HENRI-CHAPELLE",
-      "category": "U 21 - MM",
-      "location": "MARCHIN BASKET",
-      "other": ""
-    },
-    {
-      "code": "420305",
-      "date": "2027-03-28",
-      "time": "16:30",
-      "team1": "MARCHIN BASKET",
-      "team2": "MAIL. COMBLAIN",
       "category": "U 21 - MM",
       "location": "MARCHIN BASKET",
       "other": ""

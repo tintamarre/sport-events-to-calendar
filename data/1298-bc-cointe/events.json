@@ -6,6 +6,226 @@
   },
   "events": [
     {
+      "code": "AW104001",
+      "date": "2026-09-04",
+      "time": "20:00",
+      "team1": "GANSHOREN DAMES",
+      "team2": "BC COINTE A",
+      "category": "DD - REGIONALE 1",
+      "location": "GANSHOREN DAMES",
+      "other": ""
+    },
+    {
+      "code": "AW104014",
+      "date": "2026-09-12",
+      "time": "17:00",
+      "team1": "BC COINTE A",
+      "team2": "RBC ALLEUR A",
+      "category": "DD - REGIONALE 1",
+      "location": "BC COINTE A",
+      "other": ""
+    },
+    {
+      "code": "AW104008",
+      "date": "2026-09-19",
+      "time": "17:00",
+      "team1": "BC COINTE A",
+      "team2": "CENTRE GAUME RULLES",
+      "category": "DD - REGIONALE 1",
+      "location": "BC COINTE A",
+      "other": ""
+    },
+    {
+      "code": "AW104022",
+      "date": "2026-10-03",
+      "time": "20:30",
+      "team1": "RE PONT-DE-LOUP",
+      "team2": "BC COINTE A",
+      "category": "DD - REGIONALE 1",
+      "location": "RE PONT-DE-LOUP",
+      "other": ""
+    },
+    {
+      "code": "AW104026",
+      "date": "2026-10-10",
+      "time": "17:00",
+      "team1": "BC COINTE A",
+      "team2": "FLOREAL NEUFCHATEAU",
+      "category": "DD - REGIONALE 1",
+      "location": "BC COINTE A",
+      "other": ""
+    },
+    {
+      "code": "AW104050",
+      "date": "2026-11-07",
+      "time": "17:00",
+      "team1": "BC COINTE A",
+      "team2": "PRAYON TROOZ A",
+      "category": "DD - REGIONALE 1",
+      "location": "BC COINTE A",
+      "other": ""
+    },
+    {
+      "code": "AW104043",
+      "date": "2026-11-14",
+      "time": "20:30",
+      "team1": "LIEGE PANTHERS C",
+      "team2": "BC COINTE A",
+      "category": "DD - REGIONALE 1",
+      "location": "LIEGE PANTHERS C",
+      "other": ""
+    },
+    {
+      "code": "AW104062",
+      "date": "2026-11-21",
+      "time": "17:00",
+      "team1": "BC COINTE A",
+      "team2": "UN HUY BASKET B",
+      "category": "DD - REGIONALE 1",
+      "location": "BC COINTE A",
+      "other": ""
+    },
+    {
+      "code": "AW104058",
+      "date": "2026-12-06",
+      "time": "16:00",
+      "team1": "RCS NATOYE",
+      "team2": "BC COINTE A",
+      "category": "DD - REGIONALE 1",
+      "location": "RCS NATOYE",
+      "other": ""
+    },
+    {
+      "code": "AW104032",
+      "date": "2026-12-13",
+      "time": "13:00",
+      "team1": "PEPINSTER EAST BELG A",
+      "team2": "BC COINTE A",
+      "category": "DD - REGIONALE 1",
+      "location": "PEPINSTER EAST BELG A",
+      "other": ""
+    },
+    {
+      "code": "AW104038",
+      "date": "2026-12-19",
+      "time": "17:00",
+      "team1": "BC COINTE A",
+      "team2": "ROYAL HERVE-BATTICE A",
+      "category": "DD - REGIONALE 1",
+      "location": "BC COINTE A",
+      "other": ""
+    },
+    {
+      "code": "AW104078",
+      "date": "2027-01-10",
+      "time": "11:15",
+      "team1": "CENTRE GAUME RULLES",
+      "team2": "BC COINTE A",
+      "category": "DD - REGIONALE 1",
+      "location": "CENTRE GAUME RULLES",
+      "other": ""
+    },
+    {
+      "code": "AW104068",
+      "date": "2027-01-16",
+      "time": "17:00",
+      "team1": "BC COINTE A",
+      "team2": "GANSHOREN DAMES",
+      "category": "DD - REGIONALE 1",
+      "location": "BC COINTE A",
+      "other": ""
+    },
+    {
+      "code": "AW104081",
+      "date": "2027-01-30",
+      "time": "18:30",
+      "team1": "RBC ALLEUR A",
+      "team2": "BC COINTE A",
+      "category": "DD - REGIONALE 1",
+      "location": "RBC ALLEUR A",
+      "other": ""
+    },
+    {
+      "code": "AW104098",
+      "date": "2027-02-06",
+      "time": "17:00",
+      "team1": "BC COINTE A",
+      "team2": "PEPINSTER EAST BELG A",
+      "category": "DD - REGIONALE 1",
+      "location": "BC COINTE A",
+      "other": ""
+    },
+    {
+      "code": "AW104086",
+      "date": "2027-02-13",
+      "time": "17:00",
+      "team1": "BC COINTE A",
+      "team2": "RE PONT-DE-LOUP",
+      "category": "DD - REGIONALE 1",
+      "location": "BC COINTE A",
+      "other": ""
+    },
+    {
+      "code": "AW104110",
+      "date": "2027-02-20",
+      "time": "17:00",
+      "team1": "BC COINTE A",
+      "team2": "LIEGE PANTHERS C",
+      "category": "DD - REGIONALE 1",
+      "location": "BC COINTE A",
+      "other": ""
+    },
+    {
+      "code": "AW104119",
+      "date": "2027-03-20",
+      "time": "19:00",
+      "team1": "PRAYON TROOZ A",
+      "team2": "BC COINTE A",
+      "category": "DD - REGIONALE 1",
+      "location": "PRAYON TROOZ A",
+      "other": ""
+    },
+    {
+      "code": "AW104095",
+      "date": "2027-04-03",
+      "time": "18:00",
+      "team1": "FLOREAL NEUFCHATEAU",
+      "team2": "BC COINTE A",
+      "category": "DD - REGIONALE 1",
+      "location": "FLOREAL NEUFCHATEAU",
+      "other": ""
+    },
+    {
+      "code": "AW104129",
+      "date": "2027-04-10",
+      "time": "19:00",
+      "team1": "UN HUY BASKET B",
+      "team2": "BC COINTE A",
+      "category": "DD - REGIONALE 1",
+      "location": "UN HUY BASKET B",
+      "other": ""
+    },
+    {
+      "code": "AW104122",
+      "date": "2027-04-17",
+      "time": "17:00",
+      "team1": "BC COINTE A",
+      "team2": "RCS NATOYE",
+      "category": "DD - REGIONALE 1",
+      "location": "BC COINTE A",
+      "other": ""
+    },
+    {
+      "code": "AW104108",
+      "date": "2027-04-24",
+      "time": "17:00",
+      "team1": "ROYAL HERVE-BATTICE A",
+      "team2": "BC COINTE A",
+      "category": "DD - REGIONALE 1",
+      "location": "ROYAL HERVE-BATTICE A",
+      "other": ""
+    },
+    {
       "code": "401011",
       "date": "2026-09-05",
       "time": "19:00",
@@ -57,8 +277,8 @@
     },
     {
       "code": "401076",
-      "date": "2026-10-18",
-      "time": "13:00",
+      "date": "2026-10-17",
+      "time": "17:00",
       "team1": "ROYAL HERVE-BATTICE A",
       "team2": "BC COINTE A",
       "category": "MM - DIVISION 1",
@@ -1148,7 +1368,7 @@
     {
       "code": "527036",
       "date": "2026-09-19",
-      "time": "13:00",
+      "time": "9:00",
       "team1": "R 4A AYWAILLE-HAMOIR B",
       "team2": "BC COINTE C",
       "category": "U 10 - MM H",
@@ -1578,7 +1798,7 @@
     {
       "code": "505022",
       "date": "2026-09-12",
-      "time": "11:30",
+      "time": "10:15",
       "team1": "BC COINTE B",
       "team2": "ROYAL ANS BC B",
       "category": "U 12 - MM F",
@@ -1588,7 +1808,7 @@
     {
       "code": "505032",
       "date": "2026-09-19",
-      "time": "11:30",
+      "time": "9:00",
       "team1": "BC COINTE B",
       "team2": "RBC DISON-ANDRIMONT A",
       "category": "U 12 - MM F",
@@ -1608,7 +1828,7 @@
     {
       "code": "505102",
       "date": "2026-11-07",
-      "time": "11:30",
+      "time": "9:00",
       "team1": "BC COINTE B",
       "team2": "PRAYON TROOZ B",
       "category": "U 12 - MM F",
@@ -1648,7 +1868,7 @@
     {
       "code": "505162",
       "date": "2026-12-19",
-      "time": "11:30",
+      "time": "10:15",
       "team1": "BC COINTE B",
       "team2": "RABC ENSIVAL A",
       "category": "U 12 - MM F",
@@ -1668,7 +1888,7 @@
     {
       "code": "505202",
       "date": "2027-01-16",
-      "time": "11:30",
+      "time": "9:00",
       "team1": "BC COINTE B",
       "team2": "R.UN.BELLAIRE",
       "category": "U 12 - MM F",
@@ -1698,7 +1918,7 @@
     {
       "code": "505232",
       "date": "2027-02-06",
-      "time": "11:30",
+      "time": "9:00",
       "team1": "BC COINTE B",
       "team2": "HENRI-CHAPELLE B",
       "category": "U 12 - MM F",
@@ -1708,7 +1928,7 @@
     {
       "code": "505242",
       "date": "2027-02-13",
-      "time": "11:30",
+      "time": "10:15",
       "team1": "BC COINTE B",
       "team2": "RBC AUBEL",
       "category": "U 12 - MM F",
@@ -1738,7 +1958,7 @@
     {
       "code": "505332",
       "date": "2027-04-17",
-      "time": "11:30",
+      "time": "9:00",
       "team1": "BC COINTE B",
       "team2": "CRISTAL SGH C",
       "category": "U 12 - MM F",
@@ -1988,7 +2208,7 @@
     {
       "code": "481152",
       "date": "2026-12-12",
-      "time": "9:30",
+      "time": "9:00",
       "team1": "RB TILFF B",
       "team2": "BC COINTE A",
       "category": "U 14 - ELITES MM B",
@@ -2128,7 +2348,7 @@
     {
       "code": "491036",
       "date": "2026-09-19",
-      "time": "13:00",
+      "time": "15:00",
       "team1": "RBC DISON-ANDRIMONT",
       "team2": "BC COINTE B",
       "category": "U 14 - PROV MM B",
@@ -2348,7 +2568,7 @@
     {
       "code": "451144",
       "date": "2026-12-06",
-      "time": "14:00",
+      "time": "9:00",
       "team1": "ROYAL BC WANZE A",
       "team2": "BC COINTE",
       "category": "U 16 - ELITES MM B",
@@ -2488,7 +2708,7 @@
     {
       "code": "420032",
       "date": "2026-09-20",
-      "time": "13:00",
+      "time": "10:00",
       "team1": "BC COINTE",
       "team2": "RBC ALLEUR",
       "category": "U 21 - MM",
@@ -2978,7 +3198,7 @@
     {
       "code": "552022",
       "date": "2026-09-12",
-      "time": "10:15",
+      "time": "11:30",
       "team1": "BC COINTE A",
       "team2": "ROYAL BC NINANE A",
       "category": "U 7 - MM C",
@@ -2988,7 +3208,7 @@
     {
       "code": "552032",
       "date": "2026-09-19",
-      "time": "10:15",
+      "time": "11:45",
       "team1": "BC COINTE A",
       "team2": "BC SPRIMONT A",
       "category": "U 7 - MM C",
@@ -3087,8 +3307,8 @@
     },
     {
       "code": "552223",
-      "date": "2027-01-30",
-      "time": "9:00",
+      "date": "2027-01-31",
+      "time": "10:00",
       "team1": "ROYAL BC NINANE A",
       "team2": "BC COINTE A",
       "category": "U 7 - MM C",

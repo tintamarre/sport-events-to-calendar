@@ -228,7 +228,7 @@
     {
       "code": "500037",
       "date": "2026-09-19",
-      "time": "9:00",
+      "time": "9:30",
       "team1": "CONDROZ MODAVE BB",
       "team2": "PEPINSTER EAST BELG A",
       "category": "U 12 - MM A",
@@ -238,7 +238,7 @@
     {
       "code": "500057",
       "date": "2026-10-03",
-      "time": "9:00",
+      "time": "9:30",
       "team1": "CONDROZ MODAVE BB",
       "team2": "RBC ESNEUX A",
       "category": "U 12 - MM A",
@@ -278,7 +278,7 @@
     {
       "code": "500117",
       "date": "2026-11-14",
-      "time": "9:00",
+      "time": "9:30",
       "team1": "CONDROZ MODAVE BB",
       "team2": "ETOILE JUPILLE",
       "category": "U 12 - MM A",
@@ -298,7 +298,7 @@
     {
       "code": "500147",
       "date": "2026-12-05",
-      "time": "9:00",
+      "time": "9:30",
       "team1": "CONDROZ MODAVE BB",
       "team2": "ROYAL HERVE-BATTICE A",
       "category": "U 12 - MM A",
@@ -308,17 +308,17 @@
     {
       "code": "500151",
       "date": "2026-12-12",
-      "time": "14:00",
-      "team1": "RSW LIEGE BASKET",
-      "team2": "CONDROZ MODAVE BB",
+      "time": "9:30",
+      "team1": "CONDROZ MODAVE BB",
+      "team2": "RSW LIEGE BASKET",
       "category": "U 12 - MM A",
-      "location": "RSW LIEGE BASKET",
+      "location": "CONDROZ MODAVE BB",
       "other": ""
     },
     {
       "code": "500167",
       "date": "2026-12-19",
-      "time": "9:00",
+      "time": "9:30",
       "team1": "CONDROZ MODAVE BB",
       "team2": "BC BELLEFLAMME",
       "category": "U 12 - MM A",
@@ -338,7 +338,7 @@
     {
       "code": "500207",
       "date": "2027-01-16",
-      "time": "9:00",
+      "time": "9:30",
       "team1": "CONDROZ MODAVE BB",
       "team2": "LA VILLERSOISE A",
       "category": "U 12 - MM A",
@@ -348,7 +348,7 @@
     {
       "code": "500227",
       "date": "2027-01-30",
-      "time": "9:00",
+      "time": "9:30",
       "team1": "CONDROZ MODAVE BB",
       "team2": "CRISTAL SGH A",
       "category": "U 12 - MM A",
@@ -388,7 +388,7 @@
     {
       "code": "500287",
       "date": "2027-03-13",
-      "time": "9:00",
+      "time": "9:30",
       "team1": "CONDROZ MODAVE BB",
       "team2": "ROYAL HERVE-BATTICE B",
       "category": "U 12 - MM A",
@@ -398,7 +398,7 @@
     {
       "code": "500297",
       "date": "2027-03-20",
-      "time": "9:00",
+      "time": "9:30",
       "team1": "CONDROZ MODAVE BB",
       "team2": "RBC VISE A",
       "category": "U 12 - MM A",
@@ -408,7 +408,7 @@
     {
       "code": "500307",
       "date": "2027-03-27",
-      "time": "9:00",
+      "time": "9:30",
       "team1": "CONDROZ MODAVE BB",
       "team2": "ALL. FLEMALLE A",
       "category": "U 12 - MM A",
@@ -428,20 +428,320 @@
     {
       "code": "500337",
       "date": "2027-04-17",
-      "time": "9:00",
-      "team1": "CONDROZ MODAVE BB",
-      "team2": "RSW LIEGE BASKET",
+      "time": "14:00",
+      "team1": "RSW LIEGE BASKET",
+      "team2": "CONDROZ MODAVE BB",
       "category": "U 12 - MM A",
-      "location": "CONDROZ MODAVE BB",
+      "location": "RSW LIEGE BASKET",
       "other": ""
     },
     {
       "code": "500347",
       "date": "2027-04-24",
-      "time": "9:00",
+      "time": "9:30",
       "team1": "CONDROZ MODAVE BB",
       "team2": "GIANTS BRAIVES A",
       "category": "U 12 - MM A",
+      "location": "CONDROZ MODAVE BB",
+      "other": ""
+    },
+    {
+      "code": "AW131003",
+      "date": "2026-09-05",
+      "time": "11:30",
+      "team1": "CONDROZ MODAVE BB",
+      "team2": "UNION MONS-HAINAUT",
+      "category": "U 14 - GOLD REGIONAUX B",
+      "location": "CONDROZ MODAVE BB",
+      "other": ""
+    },
+    {
+      "code": "AW131009",
+      "date": "2026-09-12",
+      "time": "11:30",
+      "team1": "CONDROZ MODAVE BB",
+      "team2": "FRESH AIR",
+      "category": "U 14 - GOLD REGIONAUX B",
+      "location": "CONDROZ MODAVE BB",
+      "other": ""
+    },
+    {
+      "code": "AW131004",
+      "date": "2026-09-20",
+      "time": "14:00",
+      "team1": "SPIROU BASKET",
+      "team2": "CONDROZ MODAVE BB",
+      "category": "U 14 - GOLD REGIONAUX B",
+      "location": "SPIROU BASKET",
+      "other": ""
+    },
+    {
+      "code": "AW131012",
+      "date": "2026-10-03",
+      "time": "11:30",
+      "team1": "CONDROZ MODAVE BB",
+      "team2": "BC BELLEFLAMME",
+      "category": "U 14 - GOLD REGIONAUX B",
+      "location": "CONDROZ MODAVE BB",
+      "other": ""
+    },
+    {
+      "code": "AW131014",
+      "date": "2026-10-10",
+      "time": "9:30",
+      "team1": "R MURPROTEC NIVELLES",
+      "team2": "CONDROZ MODAVE BB",
+      "category": "U 14 - GOLD REGIONAUX B",
+      "location": "R MURPROTEC NIVELLES",
+      "other": ""
+    },
+    {
+      "code": "AW131019",
+      "date": "2026-11-08",
+      "time": "13:00",
+      "team1": "BC BELLEFLAMME",
+      "team2": "CONDROZ MODAVE BB",
+      "category": "U 14 - GOLD REGIONAUX B",
+      "location": "BC BELLEFLAMME",
+      "other": ""
+    },
+    {
+      "code": "AW131024",
+      "date": "2026-11-14",
+      "time": "11:30",
+      "team1": "CONDROZ MODAVE BB",
+      "team2": "R MURPROTEC NIVELLES",
+      "category": "U 14 - GOLD REGIONAUX B",
+      "location": "CONDROZ MODAVE BB",
+      "other": ""
+    },
+    {
+      "code": "AW131027",
+      "date": "2026-11-21",
+      "time": "9:00",
+      "team1": "UNION MONS-HAINAUT",
+      "team2": "CONDROZ MODAVE BB",
+      "category": "U 14 - GOLD REGIONAUX B",
+      "location": "UNION MONS-HAINAUT",
+      "other": ""
+    },
+    {
+      "code": "AW131030",
+      "date": "2026-12-05",
+      "time": "11:30",
+      "team1": "CONDROZ MODAVE BB",
+      "team2": "SPIROU BASKET",
+      "category": "U 14 - GOLD REGIONAUX B",
+      "location": "CONDROZ MODAVE BB",
+      "other": ""
+    },
+    {
+      "code": "AW131017",
+      "date": "2026-12-13",
+      "time": "12:00",
+      "team1": "FRESH AIR",
+      "team2": "CONDROZ MODAVE BB",
+      "category": "U 14 - GOLD REGIONAUX B",
+      "location": "FRESH AIR",
+      "other": ""
+    },
+    {
+      "code": "AW122002",
+      "date": "2026-09-06",
+      "time": "15:15",
+      "team1": "CONDROZ MODAVE BB",
+      "team2": "R.B.C. BELGRADE",
+      "category": "U 16 - GOLD REGIONAUX B",
+      "location": "CONDROZ MODAVE BB",
+      "other": ""
+    },
+    {
+      "code": "AW122009",
+      "date": "2026-09-12",
+      "time": "13:00",
+      "team1": "B55 ACADEMY XL",
+      "team2": "CONDROZ MODAVE BB",
+      "category": "U 16 - GOLD REGIONAUX B",
+      "location": "B55 ACADEMY XL",
+      "other": ""
+    },
+    {
+      "code": "AW122005",
+      "date": "2026-09-19",
+      "time": "11:00",
+      "team1": "UNITED B WOLUWE",
+      "team2": "CONDROZ MODAVE BB",
+      "category": "U 16 - GOLD REGIONAUX B",
+      "location": "UNITED B WOLUWE",
+      "other": ""
+    },
+    {
+      "code": "AW122011",
+      "date": "2026-10-04",
+      "time": "15:15",
+      "team1": "CONDROZ MODAVE BB",
+      "team2": "DPK CARNIERES",
+      "category": "U 16 - GOLD REGIONAUX B",
+      "location": "CONDROZ MODAVE BB",
+      "other": ""
+    },
+    {
+      "code": "AW122013",
+      "date": "2026-10-11",
+      "time": "13:00",
+      "team1": "ESL UNITED",
+      "team2": "CONDROZ MODAVE BB",
+      "category": "U 16 - GOLD REGIONAUX B",
+      "location": "ESL UNITED",
+      "other": ""
+    },
+    {
+      "code": "AW122021",
+      "date": "2026-11-07",
+      "time": "15:00",
+      "team1": "DPK CARNIERES",
+      "team2": "CONDROZ MODAVE BB",
+      "category": "U 16 - GOLD REGIONAUX B",
+      "location": "DPK CARNIERES",
+      "other": ""
+    },
+    {
+      "code": "AW122023",
+      "date": "2026-11-15",
+      "time": "15:15",
+      "team1": "CONDROZ MODAVE BB",
+      "team2": "ESL UNITED",
+      "category": "U 16 - GOLD REGIONAUX B",
+      "location": "CONDROZ MODAVE BB",
+      "other": ""
+    },
+    {
+      "code": "AW122025",
+      "date": "2026-11-22",
+      "time": "11:00",
+      "team1": "R.B.C. BELGRADE",
+      "team2": "CONDROZ MODAVE BB",
+      "category": "U 16 - GOLD REGIONAUX B",
+      "location": "R.B.C. BELGRADE",
+      "other": ""
+    },
+    {
+      "code": "AW122029",
+      "date": "2026-12-06",
+      "time": "15:15",
+      "team1": "CONDROZ MODAVE BB",
+      "team2": "UNITED B WOLUWE",
+      "category": "U 16 - GOLD REGIONAUX B",
+      "location": "CONDROZ MODAVE BB",
+      "other": ""
+    },
+    {
+      "code": "AW122017",
+      "date": "2026-12-13",
+      "time": "15:15",
+      "team1": "CONDROZ MODAVE BB",
+      "team2": "B55 ACADEMY XL",
+      "category": "U 16 - GOLD REGIONAUX B",
+      "location": "CONDROZ MODAVE BB",
+      "other": ""
+    },
+    {
+      "code": "AW125002",
+      "date": "2026-09-06",
+      "time": "13:15",
+      "team1": "CONDROZ MODAVE BB",
+      "team2": "R MURPROTEC NIVELLES",
+      "category": "U 16 - SILVER REGIONAUX C",
+      "location": "CONDROZ MODAVE BB",
+      "other": ""
+    },
+    {
+      "code": "AW125009",
+      "date": "2026-09-12",
+      "time": "11:00",
+      "team1": "JS ENTITE ENGHIEN",
+      "team2": "CONDROZ MODAVE BB",
+      "category": "U 16 - SILVER REGIONAUX C",
+      "location": "JS ENTITE ENGHIEN",
+      "other": ""
+    },
+    {
+      "code": "AW125005",
+      "date": "2026-09-19",
+      "time": "11:00",
+      "team1": "R.B.C. BELGRADE",
+      "team2": "CONDROZ MODAVE BB",
+      "category": "U 16 - SILVER REGIONAUX C",
+      "location": "R.B.C. BELGRADE",
+      "other": ""
+    },
+    {
+      "code": "AW125011",
+      "date": "2026-10-04",
+      "time": "13:15",
+      "team1": "CONDROZ MODAVE BB",
+      "team2": "FRESH AIR",
+      "category": "U 16 - SILVER REGIONAUX C",
+      "location": "CONDROZ MODAVE BB",
+      "other": ""
+    },
+    {
+      "code": "AW125013",
+      "date": "2026-10-10",
+      "time": "10:30",
+      "team1": "LA VILLERSOISE",
+      "team2": "CONDROZ MODAVE BB",
+      "category": "U 16 - SILVER REGIONAUX C",
+      "location": "LA VILLERSOISE",
+      "other": ""
+    },
+    {
+      "code": "AW125021",
+      "date": "2026-11-08",
+      "time": "10:00",
+      "team1": "FRESH AIR",
+      "team2": "CONDROZ MODAVE BB",
+      "category": "U 16 - SILVER REGIONAUX C",
+      "location": "FRESH AIR",
+      "other": ""
+    },
+    {
+      "code": "AW125023",
+      "date": "2026-11-15",
+      "time": "13:15",
+      "team1": "CONDROZ MODAVE BB",
+      "team2": "LA VILLERSOISE",
+      "category": "U 16 - SILVER REGIONAUX C",
+      "location": "CONDROZ MODAVE BB",
+      "other": ""
+    },
+    {
+      "code": "AW125025",
+      "date": "2026-11-21",
+      "time": "15:30",
+      "team1": "R MURPROTEC NIVELLES",
+      "team2": "CONDROZ MODAVE BB",
+      "category": "U 16 - SILVER REGIONAUX C",
+      "location": "R MURPROTEC NIVELLES",
+      "other": ""
+    },
+    {
+      "code": "AW125029",
+      "date": "2026-12-06",
+      "time": "13:15",
+      "team1": "CONDROZ MODAVE BB",
+      "team2": "R.B.C. BELGRADE",
+      "category": "U 16 - SILVER REGIONAUX C",
+      "location": "CONDROZ MODAVE BB",
+      "other": ""
+    },
+    {
+      "code": "AW125017",
+      "date": "2026-12-13",
+      "time": "13:15",
+      "team1": "CONDROZ MODAVE BB",
+      "team2": "JS ENTITE ENGHIEN",
+      "category": "U 16 - SILVER REGIONAUX C",
       "location": "CONDROZ MODAVE BB",
       "other": ""
     },

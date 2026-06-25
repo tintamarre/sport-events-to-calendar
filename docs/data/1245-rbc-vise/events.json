@@ -1703,7 +1703,7 @@
       "team2": "RBC VISE C",
       "category": "U 10 - MM D",
       "location": "R 4A AYWAILLE-HAMOIR A",
-      "other": ""
+      "other": "(ho Hamoir rue du mouli"
     },
     {
       "code": "523063",
@@ -2228,7 +2228,7 @@
     {
       "code": "500297",
       "date": "2027-03-20",
-      "time": "9:00",
+      "time": "9:30",
       "team1": "CONDROZ MODAVE BB",
       "team2": "RBC VISE A",
       "category": "U 12 - MM A",
@@ -2248,7 +2248,7 @@
     {
       "code": "500321",
       "date": "2027-04-10",
-      "time": "14:00",
+      "time": "15:00",
       "team1": "RSW LIEGE BASKET",
       "team2": "RBC VISE A",
       "category": "U 12 - MM A",
@@ -2267,8 +2267,8 @@
     },
     {
       "code": "503011",
-      "date": "2026-09-06",
-      "time": "15:30",
+      "date": "2026-09-05",
+      "time": "16:30",
       "team1": "BC SPRIMONT B",
       "team2": "RBC VISE B",
       "category": "U 12 - MM D",
@@ -2846,6 +2846,106 @@
       "other": ""
     },
     {
+      "code": "AW132001",
+      "date": "2026-09-05",
+      "time": "13:00",
+      "team1": "RBC VISE",
+      "team2": "DPK CARNIERES",
+      "category": "U 14 - SILVER REGIONAUX A",
+      "location": "RBC VISE",
+      "other": ""
+    },
+    {
+      "code": "AW132007",
+      "date": "2026-09-12",
+      "time": "13:00",
+      "team1": "RBC VISE",
+      "team2": "RE PONT-DE-LOUP",
+      "category": "U 14 - SILVER REGIONAUX A",
+      "location": "RBC VISE",
+      "other": ""
+    },
+    {
+      "code": "AW132006",
+      "date": "2026-09-20",
+      "time": "11:00",
+      "team1": "FLOREAL NEUFCHATEAU",
+      "team2": "RBC VISE",
+      "category": "U 14 - SILVER REGIONAUX A",
+      "location": "FLOREAL NEUFCHATEAU",
+      "other": ""
+    },
+    {
+      "code": "AW132012",
+      "date": "2026-10-03",
+      "time": "14:45",
+      "team1": "CANTER SCHAERBEEK",
+      "team2": "RBC VISE",
+      "category": "U 14 - SILVER REGIONAUX A",
+      "location": "CANTER SCHAERBEEK",
+      "other": ""
+    },
+    {
+      "code": "AW132013",
+      "date": "2026-10-10",
+      "time": "13:00",
+      "team1": "RBC VISE",
+      "team2": "ROYAL GALLIA BEEZ",
+      "category": "U 14 - SILVER REGIONAUX A",
+      "location": "RBC VISE",
+      "other": ""
+    },
+    {
+      "code": "AW132019",
+      "date": "2026-11-07",
+      "time": "13:00",
+      "team1": "RBC VISE",
+      "team2": "CANTER SCHAERBEEK",
+      "category": "U 14 - SILVER REGIONAUX A",
+      "location": "RBC VISE",
+      "other": ""
+    },
+    {
+      "code": "AW132023",
+      "date": "2026-11-14",
+      "time": "16:00",
+      "team1": "ROYAL GALLIA BEEZ",
+      "team2": "RBC VISE",
+      "category": "U 14 - SILVER REGIONAUX A",
+      "location": "ROYAL GALLIA BEEZ",
+      "other": ""
+    },
+    {
+      "code": "AW132026",
+      "date": "2026-11-21",
+      "time": "13:00",
+      "team1": "DPK CARNIERES",
+      "team2": "RBC VISE",
+      "category": "U 14 - SILVER REGIONAUX A",
+      "location": "DPK CARNIERES",
+      "other": ""
+    },
+    {
+      "code": "AW132028",
+      "date": "2026-12-05",
+      "time": "13:00",
+      "team1": "RBC VISE",
+      "team2": "FLOREAL NEUFCHATEAU",
+      "category": "U 14 - SILVER REGIONAUX A",
+      "location": "RBC VISE",
+      "other": ""
+    },
+    {
+      "code": "AW132016",
+      "date": "2026-12-13",
+      "time": "17:00",
+      "team1": "RE PONT-DE-LOUP",
+      "team2": "RBC VISE",
+      "category": "U 14 - SILVER REGIONAUX A",
+      "location": "RE PONT-DE-LOUP",
+      "other": ""
+    },
+    {
       "code": "591016",
       "date": "2026-09-06",
       "time": "9:00",
@@ -2878,7 +2978,7 @@
     {
       "code": "591114",
       "date": "2026-11-15",
-      "time": "13:30",
+      "time": "15:30",
       "team1": "BC VERLAINE",
       "team2": "RBC VISE",
       "category": "U 16 - DD B",
@@ -3206,6 +3306,106 @@
       "other": ""
     },
     {
+      "code": "AW124003",
+      "date": "2026-09-05",
+      "time": "15:00",
+      "team1": "RBC VISE",
+      "team2": "UCCLE EUROPE",
+      "category": "U 16 - SILVER REGIONAUX B",
+      "location": "RBC VISE",
+      "other": ""
+    },
+    {
+      "code": "AW124009",
+      "date": "2026-09-12",
+      "time": "15:00",
+      "team1": "RBC VISE",
+      "team2": "ASTE KAIN",
+      "category": "U 16 - SILVER REGIONAUX B",
+      "location": "RBC VISE",
+      "other": ""
+    },
+    {
+      "code": "AW124004",
+      "date": "2026-09-20",
+      "time": "11:15",
+      "team1": "BC CENTRE GAUME",
+      "team2": "RBC VISE",
+      "category": "U 16 - SILVER REGIONAUX B",
+      "location": "BC CENTRE GAUME",
+      "other": ""
+    },
+    {
+      "code": "AW124012",
+      "date": "2026-10-03",
+      "time": "15:00",
+      "team1": "RBC VISE",
+      "team2": "BC FRAIRE-PHILIPPEVILLE",
+      "category": "U 16 - SILVER REGIONAUX B",
+      "location": "RBC VISE",
+      "other": ""
+    },
+    {
+      "code": "AW124014",
+      "date": "2026-10-11",
+      "time": "13:00",
+      "team1": "SPIROU BASKET",
+      "team2": "RBC VISE",
+      "category": "U 16 - SILVER REGIONAUX B",
+      "location": "SPIROU BASKET",
+      "other": ""
+    },
+    {
+      "code": "AW124019",
+      "date": "2026-11-08",
+      "time": "16:00",
+      "team1": "BC FRAIRE-PHILIPPEVILLE",
+      "team2": "RBC VISE",
+      "category": "U 16 - SILVER REGIONAUX B",
+      "location": "BC FRAIRE-PHILIPPEVILLE",
+      "other": ""
+    },
+    {
+      "code": "AW124024",
+      "date": "2026-11-14",
+      "time": "15:00",
+      "team1": "RBC VISE",
+      "team2": "SPIROU BASKET",
+      "category": "U 16 - SILVER REGIONAUX B",
+      "location": "RBC VISE",
+      "other": ""
+    },
+    {
+      "code": "AW124027",
+      "date": "2026-11-22",
+      "time": "13:00",
+      "team1": "UCCLE EUROPE",
+      "team2": "RBC VISE",
+      "category": "U 16 - SILVER REGIONAUX B",
+      "location": "UCCLE EUROPE",
+      "other": ""
+    },
+    {
+      "code": "AW124030",
+      "date": "2026-12-05",
+      "time": "15:00",
+      "team1": "RBC VISE",
+      "team2": "BC CENTRE GAUME",
+      "category": "U 16 - SILVER REGIONAUX B",
+      "location": "RBC VISE",
+      "other": ""
+    },
+    {
+      "code": "AW124017",
+      "date": "2026-12-12",
+      "time": "15:30",
+      "team1": "ASTE KAIN",
+      "team2": "RBC VISE",
+      "category": "U 16 - SILVER REGIONAUX B",
+      "location": "ASTE KAIN",
+      "other": ""
+    },
+    {
       "code": "441014",
       "date": "2026-09-05",
       "time": "13:00",
@@ -3267,8 +3467,8 @@
     },
     {
       "code": "441126",
-      "date": "2026-11-21",
-      "time": "16:00",
+      "date": "2026-11-22",
+      "time": "12:00",
       "team1": "BBC EUPEN",
       "team2": "RBC VISE",
       "category": "U 18 - PROV MM B",
@@ -3403,6 +3603,106 @@
       "team2": "RBC VISE",
       "category": "U 18 - PROV MM B",
       "location": "ALL. FLEMALLE B",
+      "other": ""
+    },
+    {
+      "code": "AW115003",
+      "date": "2026-09-06",
+      "time": "15:00",
+      "team1": "RBC VISE",
+      "team2": "UCCLE EUROPE",
+      "category": "U 18 - SILVER REGIONAUX A",
+      "location": "RBC VISE",
+      "other": ""
+    },
+    {
+      "code": "AW115009",
+      "date": "2026-09-13",
+      "time": "15:00",
+      "team1": "RBC VISE",
+      "team2": "ASTE KAIN",
+      "category": "U 18 - SILVER REGIONAUX A",
+      "location": "RBC VISE",
+      "other": ""
+    },
+    {
+      "code": "AW115004",
+      "date": "2026-09-19",
+      "time": "9:00",
+      "team1": "R.B.C. BELGRADE",
+      "team2": "RBC VISE",
+      "category": "U 18 - SILVER REGIONAUX A",
+      "location": "R.B.C. BELGRADE",
+      "other": ""
+    },
+    {
+      "code": "AW115012",
+      "date": "2026-10-04",
+      "time": "15:00",
+      "team1": "RBC VISE",
+      "team2": "BC FRAIRE-PHILIPPEVILLE",
+      "category": "U 18 - SILVER REGIONAUX A",
+      "location": "RBC VISE",
+      "other": ""
+    },
+    {
+      "code": "AW115014",
+      "date": "2026-10-11",
+      "time": "13:15",
+      "team1": "ECOLE EUROPEENNE",
+      "team2": "RBC VISE",
+      "category": "U 18 - SILVER REGIONAUX A",
+      "location": "ECOLE EUROPEENNE",
+      "other": ""
+    },
+    {
+      "code": "AW115019",
+      "date": "2026-11-08",
+      "time": "12:00",
+      "team1": "BC FRAIRE-PHILIPPEVILLE",
+      "team2": "RBC VISE",
+      "category": "U 18 - SILVER REGIONAUX A",
+      "location": "BC FRAIRE-PHILIPPEVILLE",
+      "other": ""
+    },
+    {
+      "code": "AW115024",
+      "date": "2026-11-15",
+      "time": "15:00",
+      "team1": "RBC VISE",
+      "team2": "ECOLE EUROPEENNE",
+      "category": "U 18 - SILVER REGIONAUX A",
+      "location": "RBC VISE",
+      "other": ""
+    },
+    {
+      "code": "AW115027",
+      "date": "2026-11-22",
+      "time": "15:00",
+      "team1": "UCCLE EUROPE",
+      "team2": "RBC VISE",
+      "category": "U 18 - SILVER REGIONAUX A",
+      "location": "UCCLE EUROPE",
+      "other": ""
+    },
+    {
+      "code": "AW115030",
+      "date": "2026-12-06",
+      "time": "15:00",
+      "team1": "RBC VISE",
+      "team2": "R.B.C. BELGRADE",
+      "category": "U 18 - SILVER REGIONAUX A",
+      "location": "RBC VISE",
+      "other": ""
+    },
+    {
+      "code": "AW115017",
+      "date": "2026-12-13",
+      "time": "13:00",
+      "team1": "ASTE KAIN",
+      "team2": "RBC VISE",
+      "category": "U 18 - SILVER REGIONAUX A",
+      "location": "ASTE KAIN",
       "other": ""
     },
     {
@@ -3688,7 +3988,7 @@
     {
       "code": "580334",
       "date": "2027-04-18",
-      "time": "11:15",
+      "time": "10:15",
       "team1": "RBC AUBEL",
       "team2": "RBC VISE",
       "category": "U 19 - DD",
@@ -3703,6 +4003,106 @@
       "team2": "ROYAL HERVE-BATTICE",
       "category": "U 19 - DD",
       "location": "RBC VISE",
+      "other": ""
+    },
+    {
+      "code": "AW109003",
+      "date": "2026-09-06",
+      "time": "13:00",
+      "team1": "RBC VISE",
+      "team2": "R MURPROTEC NIVELLES",
+      "category": "U 21 - SILVER REGIONAUX A",
+      "location": "RBC VISE",
+      "other": ""
+    },
+    {
+      "code": "AW109009",
+      "date": "2026-09-13",
+      "time": "13:00",
+      "team1": "RBC VISE",
+      "team2": "BC RANSART CHARLEROI",
+      "category": "U 21 - SILVER REGIONAUX A",
+      "location": "RBC VISE",
+      "other": ""
+    },
+    {
+      "code": "AW109004",
+      "date": "2026-09-19",
+      "time": "17:00",
+      "team1": "CASTORS BRAINE",
+      "team2": "RBC VISE",
+      "category": "U 21 - SILVER REGIONAUX A",
+      "location": "CASTORS BRAINE",
+      "other": ""
+    },
+    {
+      "code": "AW109012",
+      "date": "2026-10-04",
+      "time": "13:00",
+      "team1": "RBC VISE",
+      "team2": "CEP FLEURUS",
+      "category": "U 21 - SILVER REGIONAUX A",
+      "location": "RBC VISE",
+      "other": ""
+    },
+    {
+      "code": "AW109014",
+      "date": "2026-10-10",
+      "time": "11:15",
+      "team1": "BC CENTRE GAUME",
+      "team2": "RBC VISE",
+      "category": "U 21 - SILVER REGIONAUX A",
+      "location": "BC CENTRE GAUME",
+      "other": ""
+    },
+    {
+      "code": "AW109019",
+      "date": "2026-11-07",
+      "time": "13:00",
+      "team1": "CEP FLEURUS",
+      "team2": "RBC VISE",
+      "category": "U 21 - SILVER REGIONAUX A",
+      "location": "CEP FLEURUS",
+      "other": ""
+    },
+    {
+      "code": "AW109024",
+      "date": "2026-11-15",
+      "time": "13:00",
+      "team1": "RBC VISE",
+      "team2": "BC CENTRE GAUME",
+      "category": "U 21 - SILVER REGIONAUX A",
+      "location": "RBC VISE",
+      "other": ""
+    },
+    {
+      "code": "AW109027",
+      "date": "2026-11-22",
+      "time": "11:00",
+      "team1": "R MURPROTEC NIVELLES",
+      "team2": "RBC VISE",
+      "category": "U 21 - SILVER REGIONAUX A",
+      "location": "R MURPROTEC NIVELLES",
+      "other": ""
+    },
+    {
+      "code": "AW109030",
+      "date": "2026-12-06",
+      "time": "13:00",
+      "team1": "RBC VISE",
+      "team2": "CASTORS BRAINE",
+      "category": "U 21 - SILVER REGIONAUX A",
+      "location": "RBC VISE",
+      "other": ""
+    },
+    {
+      "code": "AW109017",
+      "date": "2026-12-13",
+      "time": "13:00",
+      "team1": "BC RANSART CHARLEROI",
+      "team2": "RBC VISE",
+      "category": "U 21 - SILVER REGIONAUX A",
+      "location": "BC RANSART CHARLEROI",
       "other": ""
     },
     {

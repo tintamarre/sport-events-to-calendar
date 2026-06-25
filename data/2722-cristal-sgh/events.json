@@ -1428,7 +1428,7 @@
     {
       "code": "521035",
       "date": "2026-09-20",
-      "time": "13:00",
+      "time": "11:00",
       "team1": "RB TILFF A",
       "team2": "CRISTAL SGH A",
       "category": "U 10 - MM B",
@@ -1989,10 +1989,10 @@
       "code": "528013",
       "date": "2026-09-05",
       "time": "15:30",
-      "team1": "RBC HANEFFE A",
+      "team1": "RBC HANEFFE B",
       "team2": "CRISTAL SGH C",
       "category": "U 10 - MM I",
-      "location": "RBC HANEFFE A",
+      "location": "RBC HANEFFE B",
       "other": ""
     },
     {
@@ -2080,7 +2080,7 @@
       "date": "2027-01-16",
       "time": "9:30",
       "team1": "CRISTAL SGH C",
-      "team2": "RBC HANEFFE A",
+      "team2": "RBC HANEFFE B",
       "category": "U 10 - MM I",
       "location": "CRISTAL SGH C",
       "other": ""
@@ -2318,7 +2318,7 @@
     {
       "code": "500227",
       "date": "2027-01-30",
-      "time": "9:00",
+      "time": "9:30",
       "team1": "CONDROZ MODAVE BB",
       "team2": "CRISTAL SGH A",
       "category": "U 12 - MM A",
@@ -2557,8 +2557,8 @@
     },
     {
       "code": "501212",
-      "date": "2027-01-23",
-      "time": "12:00",
+      "date": "2027-01-24",
+      "time": "10:00",
       "team1": "ROYAL BC NINANE",
       "team2": "CRISTAL SGH B",
       "category": "U 12 - MM B",
@@ -3038,7 +3038,7 @@
     {
       "code": "505332",
       "date": "2027-04-17",
-      "time": "11:30",
+      "time": "9:00",
       "team1": "BC COINTE B",
       "team2": "CRISTAL SGH C",
       "category": "U 12 - MM F",
@@ -3068,7 +3068,7 @@
     {
       "code": "600055",
       "date": "2026-10-03",
-      "time": "15:30",
+      "time": "13:30",
       "team1": "CRISTAL SGH",
       "team2": "ATLAS A JUPILLE",
       "category": "U 14 - DD A",
@@ -3098,7 +3098,7 @@
     {
       "code": "600125",
       "date": "2026-11-21",
-      "time": "15:30",
+      "time": "13:30",
       "team1": "CRISTAL SGH",
       "team2": "RBC AWANS",
       "category": "U 14 - DD A",
@@ -3108,7 +3108,7 @@
     {
       "code": "600155",
       "date": "2026-12-12",
-      "time": "15:30",
+      "time": "13:30",
       "team1": "CRISTAL SGH",
       "team2": "MAIL. COMBLAIN",
       "category": "U 14 - DD A",
@@ -3128,7 +3128,7 @@
     {
       "code": "600205",
       "date": "2027-01-16",
-      "time": "15:30",
+      "time": "13:30",
       "team1": "CRISTAL SGH",
       "team2": "ABC WAREMME",
       "category": "U 14 - DD A",
@@ -3148,7 +3148,7 @@
     {
       "code": "600225",
       "date": "2027-01-30",
-      "time": "15:30",
+      "time": "13:30",
       "team1": "CRISTAL SGH",
       "team2": "ALL. FLEMALLE",
       "category": "U 14 - DD A",
@@ -3158,7 +3158,7 @@
     {
       "code": "600235",
       "date": "2027-02-06",
-      "time": "15:30",
+      "time": "13:30",
       "team1": "CRISTAL SGH",
       "team2": "R HT-PRE OUGREE",
       "category": "U 14 - DD A",
@@ -3178,7 +3178,7 @@
     {
       "code": "600285",
       "date": "2027-03-13",
-      "time": "15:30",
+      "time": "13:30",
       "team1": "CRISTAL SGH",
       "team2": "BC VERLAINE",
       "category": "U 14 - DD A",
@@ -3188,7 +3188,7 @@
     {
       "code": "600305",
       "date": "2027-03-27",
-      "time": "15:30",
+      "time": "13:30",
       "team1": "CRISTAL SGH",
       "team2": "R REN. MONTEGNEE",
       "category": "U 14 - DD A",
@@ -3968,7 +3968,7 @@
     {
       "code": "472113",
       "date": "2026-11-15",
-      "time": "15:30",
+      "time": "13:30",
       "team1": "BC VERLAINE",
       "team2": "CRISTAL SGH B",
       "category": "U 16 - PROV MM C",
@@ -4046,16 +4046,6 @@
       "other": ""
     },
     {
-      "code": "472281",
-      "date": "2027-03-13",
-      "time": "17:00",
-      "team1": "RBC AWANS",
-      "team2": "CRISTAL SGH B",
-      "category": "U 16 - PROV MM C",
-      "location": "RBC AWANS",
-      "other": ""
-    },
-    {
       "code": "472296",
       "date": "2027-03-20",
       "time": "13:00",
@@ -4076,6 +4066,16 @@
       "other": ""
     },
     {
+      "code": "472281",
+      "date": "2027-04-03",
+      "time": "17:00",
+      "team1": "RBC AWANS",
+      "team2": "CRISTAL SGH B",
+      "category": "U 16 - PROV MM C",
+      "location": "RBC AWANS",
+      "other": ""
+    },
+    {
       "code": "472334",
       "date": "2027-04-17",
       "time": "17:00",
@@ -4083,6 +4083,106 @@
       "team2": "ALL. FLEMALLE B",
       "category": "U 16 - PROV MM C",
       "location": "CRISTAL SGH B",
+      "other": ""
+    },
+    {
+      "code": "AW119001",
+      "date": "2026-09-06",
+      "time": "13:00",
+      "team1": "CRISTAL SGH",
+      "team2": "SAR CHANTEMELLE",
+      "category": "U 18 - BRONZE REGIONAUX A",
+      "location": "CRISTAL SGH",
+      "other": ""
+    },
+    {
+      "code": "AW119007",
+      "date": "2026-09-13",
+      "time": "13:00",
+      "team1": "CRISTAL SGH",
+      "team2": "CASTORS BRAINE",
+      "category": "U 18 - BRONZE REGIONAUX A",
+      "location": "CRISTAL SGH",
+      "other": ""
+    },
+    {
+      "code": "AW119006",
+      "date": "2026-09-19",
+      "time": "15:00",
+      "team1": "BC MARCHE",
+      "team2": "CRISTAL SGH",
+      "category": "U 18 - BRONZE REGIONAUX A",
+      "location": "BC MARCHE",
+      "other": ""
+    },
+    {
+      "code": "AW119012",
+      "date": "2026-10-03",
+      "time": "11:00",
+      "team1": "GIANTS BRAIVES",
+      "team2": "CRISTAL SGH",
+      "category": "U 18 - BRONZE REGIONAUX A",
+      "location": "GIANTS BRAIVES",
+      "other": ""
+    },
+    {
+      "code": "AW119013",
+      "date": "2026-10-11",
+      "time": "15:00",
+      "team1": "CRISTAL SGH",
+      "team2": "LA LOUVIERE AM",
+      "category": "U 18 - BRONZE REGIONAUX A",
+      "location": "CRISTAL SGH",
+      "other": ""
+    },
+    {
+      "code": "AW119019",
+      "date": "2026-11-08",
+      "time": "13:00",
+      "team1": "CRISTAL SGH",
+      "team2": "GIANTS BRAIVES",
+      "category": "U 18 - BRONZE REGIONAUX A",
+      "location": "CRISTAL SGH",
+      "other": ""
+    },
+    {
+      "code": "AW119023",
+      "date": "2026-11-14",
+      "time": "15:00",
+      "team1": "LA LOUVIERE AM",
+      "team2": "CRISTAL SGH",
+      "category": "U 18 - BRONZE REGIONAUX A",
+      "location": "LA LOUVIERE AM",
+      "other": ""
+    },
+    {
+      "code": "AW119026",
+      "date": "2026-11-21",
+      "time": "13:00",
+      "team1": "SAR CHANTEMELLE",
+      "team2": "CRISTAL SGH",
+      "category": "U 18 - BRONZE REGIONAUX A",
+      "location": "SAR CHANTEMELLE",
+      "other": ""
+    },
+    {
+      "code": "AW119028",
+      "date": "2026-12-06",
+      "time": "13:00",
+      "team1": "CRISTAL SGH",
+      "team2": "BC MARCHE",
+      "category": "U 18 - BRONZE REGIONAUX A",
+      "location": "CRISTAL SGH",
+      "other": ""
+    },
+    {
+      "code": "AW119016",
+      "date": "2026-12-12",
+      "time": "15:00",
+      "team1": "CASTORS BRAINE",
+      "team2": "CRISTAL SGH",
+      "category": "U 18 - BRONZE REGIONAUX A",
+      "location": "CASTORS BRAINE",
       "other": ""
     },
     {
@@ -4128,7 +4228,7 @@
     {
       "code": "430063",
       "date": "2026-10-10",
-      "time": "15:00",
+      "time": "13:00",
       "team1": "BC VERVIERS B",
       "team2": "CRISTAL SGH",
       "category": "U 18 - ELITES MM A",
@@ -4466,16 +4566,6 @@
       "other": ""
     },
     {
-      "code": "441281",
-      "date": "2027-03-13",
-      "time": "16:00",
-      "team1": "R.UN.BELLAIRE",
-      "team2": "CRISTAL SGH",
-      "category": "U 18 - PROV MM B",
-      "location": "R.UN.BELLAIRE",
-      "other": ""
-    },
-    {
       "code": "441296",
       "date": "2027-03-20",
       "time": "16:00",
@@ -4503,6 +4593,106 @@
       "team2": "HANNUT BC",
       "category": "U 18 - PROV MM B",
       "location": "CRISTAL SGH",
+      "other": ""
+    },
+    {
+      "code": "AW110001",
+      "date": "2026-09-06",
+      "time": "15:00",
+      "team1": "CRISTAL SGH",
+      "team2": "R UAA ETTERBEEK",
+      "category": "U 21 - SILVER REGIONAUX B",
+      "location": "CRISTAL SGH",
+      "other": ""
+    },
+    {
+      "code": "AW110007",
+      "date": "2026-09-13",
+      "time": "15:00",
+      "team1": "CRISTAL SGH",
+      "team2": "UBCF QUAREGNON",
+      "category": "U 21 - SILVER REGIONAUX B",
+      "location": "CRISTAL SGH",
+      "other": ""
+    },
+    {
+      "code": "AW110006",
+      "date": "2026-09-20",
+      "time": "15:00",
+      "team1": "RSW LIEGE BASKET",
+      "team2": "CRISTAL SGH",
+      "category": "U 21 - SILVER REGIONAUX B",
+      "location": "RSW LIEGE BASKET",
+      "other": ""
+    },
+    {
+      "code": "AW110012",
+      "date": "2026-10-03",
+      "time": "17:00",
+      "team1": "B55 ACADEMY XL",
+      "team2": "CRISTAL SGH",
+      "category": "U 21 - SILVER REGIONAUX B",
+      "location": "B55 ACADEMY XL",
+      "other": ""
+    },
+    {
+      "code": "AW110013",
+      "date": "2026-10-11",
+      "time": "15:00",
+      "team1": "CRISTAL SGH",
+      "team2": "ASTE KAIN",
+      "category": "U 21 - SILVER REGIONAUX B",
+      "location": "CRISTAL SGH",
+      "other": ""
+    },
+    {
+      "code": "AW110019",
+      "date": "2026-11-08",
+      "time": "15:00",
+      "team1": "CRISTAL SGH",
+      "team2": "B55 ACADEMY XL",
+      "category": "U 21 - SILVER REGIONAUX B",
+      "location": "CRISTAL SGH",
+      "other": ""
+    },
+    {
+      "code": "AW110023",
+      "date": "2026-11-14",
+      "time": "13:30",
+      "team1": "ASTE KAIN",
+      "team2": "CRISTAL SGH",
+      "category": "U 21 - SILVER REGIONAUX B",
+      "location": "ASTE KAIN",
+      "other": ""
+    },
+    {
+      "code": "AW110026",
+      "date": "2026-11-21",
+      "time": "17:00",
+      "team1": "R UAA ETTERBEEK",
+      "team2": "CRISTAL SGH",
+      "category": "U 21 - SILVER REGIONAUX B",
+      "location": "R UAA ETTERBEEK",
+      "other": ""
+    },
+    {
+      "code": "AW110028",
+      "date": "2026-12-06",
+      "time": "15:00",
+      "team1": "CRISTAL SGH",
+      "team2": "RSW LIEGE BASKET",
+      "category": "U 21 - SILVER REGIONAUX B",
+      "location": "CRISTAL SGH",
+      "other": ""
+    },
+    {
+      "code": "AW110016",
+      "date": "2026-12-13",
+      "time": "10:00",
+      "team1": "UBCF QUAREGNON",
+      "team2": "CRISTAL SGH",
+      "category": "U 21 - SILVER REGIONAUX B",
+      "location": "UBCF QUAREGNON",
       "other": ""
     },
     {

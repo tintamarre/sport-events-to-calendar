@@ -386,16 +386,6 @@
       "other": ""
     },
     {
-      "code": "403166",
-      "date": "2026-12-19",
-      "time": "19:00",
-      "team1": "RBC DISON-ANDRIMONT A",
-      "team2": "BC VERVIERS C",
-      "category": "MM - DIVISION 2 B",
-      "location": "RBC DISON-ANDRIMONT A",
-      "other": ""
-    },
-    {
       "code": "403193",
       "date": "2027-01-09",
       "time": "17:30",
@@ -433,6 +423,16 @@
       "team2": "BC VERVIERS C",
       "category": "MM - DIVISION 2 B",
       "location": "HARIMALIA BC A",
+      "other": ""
+    },
+    {
+      "code": "403166",
+      "date": "2027-02-06",
+      "time": "19:00",
+      "team1": "RBC DISON-ANDRIMONT A",
+      "team2": "BC VERVIERS C",
+      "category": "MM - DIVISION 2 B",
+      "location": "RBC DISON-ANDRIMONT A",
       "other": ""
     },
     {
@@ -786,8 +786,308 @@
       "other": ""
     },
     {
+      "code": "AW100008",
+      "date": "2026-09-05",
+      "time": "20:30",
+      "team1": "BCJS ESTAIMPUIS",
+      "team2": "BC VERVIERS A",
+      "category": "MM - REGIONALE 1",
+      "location": "BCJS ESTAIMPUIS",
+      "other": ""
+    },
+    {
+      "code": "AW100018",
+      "date": "2026-09-12",
+      "time": "21:00",
+      "team1": "BC BELLEFLAMME A",
+      "team2": "BC VERVIERS A",
+      "category": "MM - REGIONALE 1",
+      "location": "BC BELLEFLAMME A",
+      "other": ""
+    },
+    {
+      "code": "AW100011",
+      "date": "2026-09-19",
+      "time": "21:00",
+      "team1": "BC VERVIERS A",
+      "team2": "R.B.C. BELGRADE",
+      "category": "MM - REGIONALE 1",
+      "location": "BC VERVIERS A",
+      "other": ""
+    },
+    {
+      "code": "AW100030",
+      "date": "2026-10-03",
+      "time": "21:00",
+      "team1": "RBC LOYERS",
+      "team2": "BC VERVIERS A",
+      "category": "MM - REGIONALE 1",
+      "location": "RBC LOYERS",
+      "other": ""
+    },
+    {
+      "code": "AW100035",
+      "date": "2026-10-10",
+      "time": "21:00",
+      "team1": "BC VERVIERS A",
+      "team2": "ROYAL NIVELLES",
+      "category": "MM - REGIONALE 1",
+      "location": "BC VERVIERS A",
+      "other": ""
+    },
+    {
+      "code": "AW100048",
+      "date": "2026-10-18",
+      "time": "15:00",
+      "team1": "RPC ANDERLECHT",
+      "team2": "BC VERVIERS A",
+      "category": "MM - REGIONALE 1",
+      "location": "RPC ANDERLECHT",
+      "other": ""
+    },
+    {
+      "code": "AW100051",
+      "date": "2026-10-24",
+      "time": "21:00",
+      "team1": "BC VERVIERS A",
+      "team2": "BCCA NEUFCHATEAU",
+      "category": "MM - REGIONALE 1",
+      "location": "BC VERVIERS A",
+      "other": ""
+    },
+    {
+      "code": "AW100111",
+      "date": "2026-10-31",
+      "time": "20:00",
+      "team1": "BB GEMBLOUX",
+      "team2": "BC VERVIERS A",
+      "category": "MM - REGIONALE 1",
+      "location": "BB GEMBLOUX",
+      "other": ""
+    },
+    {
+      "code": "AW100067",
+      "date": "2026-11-07",
+      "time": "21:00",
+      "team1": "BC VERVIERS A",
+      "team2": "RSW LIEGE BASKET A",
+      "category": "MM - REGIONALE 1",
+      "location": "BC VERVIERS A",
+      "other": ""
+    },
+    {
+      "code": "AW100059",
+      "date": "2026-11-14",
+      "time": "19:00",
+      "team1": "UNION MONS-HAINAUT",
+      "team2": "BC VERVIERS A",
+      "category": "MM - REGIONALE 1",
+      "location": "UNION MONS-HAINAUT",
+      "other": ""
+    },
+    {
+      "code": "AW100083",
+      "date": "2026-11-21",
+      "time": "21:00",
+      "team1": "BC VERVIERS A",
+      "team2": "OLYMPIC MSM",
+      "category": "MM - REGIONALE 1",
+      "location": "BC VERVIERS A",
+      "other": ""
+    },
+    {
+      "code": "AW100115",
+      "date": "2026-11-28",
+      "time": "21:00",
+      "team1": "BC VERVIERS A",
+      "team2": "ROYAL IV BRUSSELS",
+      "category": "MM - REGIONALE 1",
+      "location": "BC VERVIERS A",
+      "other": ""
+    },
+    {
+      "code": "AW100074",
+      "date": "2026-12-05",
+      "time": "18:00",
+      "team1": "ASTE KAIN",
+      "team2": "BC VERVIERS A",
+      "category": "MM - REGIONALE 1",
+      "location": "ASTE KAIN",
+      "other": ""
+    },
+    {
+      "code": "AW100093",
+      "date": "2026-12-13",
+      "time": "16:00",
+      "team1": "ESL UNITED A",
+      "team2": "BC VERVIERS A",
+      "category": "MM - REGIONALE 1",
+      "location": "ESL UNITED A",
+      "other": ""
+    },
+    {
+      "code": "AW100099",
+      "date": "2026-12-19",
+      "time": "21:00",
+      "team1": "BC VERVIERS A",
+      "team2": "RCS NATOYE",
+      "category": "MM - REGIONALE 1",
+      "location": "BC VERVIERS A",
+      "other": ""
+    },
+    {
+      "code": "AW100129",
+      "date": "2027-01-09",
+      "time": "20:00",
+      "team1": "R.B.C. BELGRADE",
+      "team2": "BC VERVIERS A",
+      "category": "MM - REGIONALE 1",
+      "location": "R.B.C. BELGRADE",
+      "other": ""
+    },
+    {
+      "code": "AW100123",
+      "date": "2027-01-16",
+      "time": "21:00",
+      "team1": "BC VERVIERS A",
+      "team2": "BCJS ESTAIMPUIS",
+      "category": "MM - REGIONALE 1",
+      "location": "BC VERVIERS A",
+      "other": ""
+    },
+    {
+      "code": "AW100238",
+      "date": "2027-01-24",
+      "time": "15:30",
+      "team1": "ROYAL IV BRUSSELS",
+      "team2": "BC VERVIERS A",
+      "category": "MM - REGIONALE 1",
+      "location": "ROYAL IV BRUSSELS",
+      "other": ""
+    },
+    {
+      "code": "AW100139",
+      "date": "2027-01-30",
+      "time": "21:00",
+      "team1": "BC VERVIERS A",
+      "team2": "BC BELLEFLAMME A",
+      "category": "MM - REGIONALE 1",
+      "location": "BC VERVIERS A",
+      "other": ""
+    },
+    {
+      "code": "AW100163",
+      "date": "2027-02-06",
+      "time": "21:00",
+      "team1": "BC VERVIERS A",
+      "team2": "RPC ANDERLECHT",
+      "category": "MM - REGIONALE 1",
+      "location": "BC VERVIERS A",
+      "other": ""
+    },
+    {
+      "code": "AW100147",
+      "date": "2027-02-13",
+      "time": "21:00",
+      "team1": "BC VERVIERS A",
+      "team2": "RBC LOYERS",
+      "category": "MM - REGIONALE 1",
+      "location": "BC VERVIERS A",
+      "other": ""
+    },
+    {
+      "code": "AW100179",
+      "date": "2027-02-20",
+      "time": "21:00",
+      "team1": "BC VERVIERS A",
+      "team2": "UNION MONS-HAINAUT",
+      "category": "MM - REGIONALE 1",
+      "location": "BC VERVIERS A",
+      "other": ""
+    },
+    {
+      "code": "AW100207",
+      "date": "2027-02-28",
+      "time": "15:00",
+      "team1": "OLYMPIC MSM",
+      "team2": "BC VERVIERS A",
+      "category": "MM - REGIONALE 1",
+      "location": "OLYMPIC MSM",
+      "other": ""
+    },
+    {
+      "code": "AW100195",
+      "date": "2027-03-06",
+      "time": "21:00",
+      "team1": "BC VERVIERS A",
+      "team2": "ASTE KAIN",
+      "category": "MM - REGIONALE 1",
+      "location": "BC VERVIERS A",
+      "other": ""
+    },
+    {
+      "code": "AW100227",
+      "date": "2027-03-13",
+      "time": "21:00",
+      "team1": "BC VERVIERS A",
+      "team2": "BB GEMBLOUX",
+      "category": "MM - REGIONALE 1",
+      "location": "BC VERVIERS A",
+      "other": ""
+    },
+    {
+      "code": "AW100185",
+      "date": "2027-03-20",
+      "time": "19:30",
+      "team1": "RSW LIEGE BASKET A",
+      "team2": "BC VERVIERS A",
+      "category": "MM - REGIONALE 1",
+      "location": "RSW LIEGE BASKET A",
+      "other": ""
+    },
+    {
+      "code": "AW100156",
+      "date": "2027-04-03",
+      "time": "18:00",
+      "team1": "ROYAL NIVELLES",
+      "team2": "BC VERVIERS A",
+      "category": "MM - REGIONALE 1",
+      "location": "ROYAL NIVELLES",
+      "other": ""
+    },
+    {
+      "code": "AW100220",
+      "date": "2027-04-10",
+      "time": "21:00",
+      "team1": "RCS NATOYE",
+      "team2": "BC VERVIERS A",
+      "category": "MM - REGIONALE 1",
+      "location": "RCS NATOYE",
+      "other": ""
+    },
+    {
+      "code": "AW100211",
+      "date": "2027-04-17",
+      "time": "21:00",
+      "team1": "BC VERVIERS A",
+      "team2": "ESL UNITED A",
+      "category": "MM - REGIONALE 1",
+      "location": "BC VERVIERS A",
+      "other": ""
+    },
+    {
+      "code": "AW100173",
+      "date": "2027-04-25",
+      "time": "16:00",
+      "team1": "BCCA NEUFCHATEAU",
+      "team2": "BC VERVIERS A",
+      "category": "MM - REGIONALE 1",
+      "location": "BCCA NEUFCHATEAU",
+      "other": ""
+    },
+    {
       "code": "524016",
-      "date": "2026-09-06",
+      "date": "2026-09-05",
       "time": "12:00",
       "team1": "BC SPRIMONT C",
       "team2": "BC VERVIERS",
@@ -1008,7 +1308,7 @@
     {
       "code": "430063",
       "date": "2026-10-10",
-      "time": "15:00",
+      "time": "13:00",
       "team1": "BC VERVIERS B",
       "team2": "CRISTAL SGH",
       "category": "U 18 - ELITES MM A",
@@ -1048,7 +1348,7 @@
     {
       "code": "430145",
       "date": "2026-12-05",
-      "time": "17:00",
+      "time": "13:00",
       "team1": "ORP JAUCHE",
       "team2": "BC VERVIERS B",
       "category": "U 18 - ELITES MM A",
@@ -1228,7 +1528,7 @@
     {
       "code": "431064",
       "date": "2026-10-10",
-      "time": "15:30",
+      "time": "15:00",
       "team1": "BC VERVIERS A",
       "team2": "ROYAL BC NINANE",
       "category": "U 18 - ELITES MM B",
@@ -1318,7 +1618,7 @@
     {
       "code": "431215",
       "date": "2027-01-24",
-      "time": "11:30",
+      "time": "9:30",
       "team1": "ROYAL MOSA AC 1941",
       "team2": "BC VERVIERS A",
       "category": "U 18 - ELITES MM B",

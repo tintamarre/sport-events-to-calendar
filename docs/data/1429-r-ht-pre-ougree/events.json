@@ -27,7 +27,7 @@
     },
     {
       "code": "414033",
-      "date": "2026-09-19",
+      "date": "2026-09-26",
       "time": "20:00",
       "team1": "R HT-PRE OUGREE A",
       "team2": "R.UN.BELLAIRE B",
@@ -37,8 +37,8 @@
     },
     {
       "code": "414056",
-      "date": "2026-10-03",
-      "time": "21:00",
+      "date": "2026-10-04",
+      "time": "17:00",
       "team1": "ROYAL HERVE-BATTICE D",
       "team2": "R HT-PRE OUGREE A",
       "category": "DD - DIVISION 2 A",
@@ -71,16 +71,6 @@
       "time": "20:00",
       "team1": "R HT-PRE OUGREE A",
       "team2": "CRISTAL SGH A",
-      "category": "DD - DIVISION 2 A",
-      "location": "R HT-PRE OUGREE A",
-      "other": ""
-    },
-    {
-      "code": "414103",
-      "date": "2026-11-07",
-      "time": "20:00",
-      "team1": "R HT-PRE OUGREE A",
-      "team2": "ROYALE US AWANS",
       "category": "DD - DIVISION 2 A",
       "location": "R HT-PRE OUGREE A",
       "other": ""
@@ -137,8 +127,8 @@
     },
     {
       "code": "414191",
-      "date": "2027-01-09",
-      "time": "20:00",
+      "date": "2027-01-10",
+      "time": "14:00",
       "team1": "R.UN.BELLAIRE B",
       "team2": "R HT-PRE OUGREE A",
       "category": "DD - DIVISION 2 A",
@@ -191,6 +181,16 @@
       "time": "20:00",
       "team1": "R HT-PRE OUGREE A",
       "team2": "PEPINSTER EAST BELG B",
+      "category": "DD - DIVISION 2 A",
+      "location": "R HT-PRE OUGREE A",
+      "other": ""
+    },
+    {
+      "code": "414103",
+      "date": "2027-02-27",
+      "time": "20:00",
+      "team1": "R HT-PRE OUGREE A",
+      "team2": "ROYALE US AWANS",
       "category": "DD - DIVISION 2 A",
       "location": "R HT-PRE OUGREE A",
       "other": ""
@@ -646,16 +646,6 @@
       "other": ""
     },
     {
-      "code": "405281",
-      "date": "2027-03-14",
-      "time": "15:00",
-      "team1": "ROYALE US AWANS A",
-      "team2": "R HT-PRE OUGREE A",
-      "category": "MM - DIVISION 3 B",
-      "location": "ROYALE US AWANS A",
-      "other": ""
-    },
-    {
       "code": "405296",
       "date": "2027-03-20",
       "time": "21:00",
@@ -673,6 +663,16 @@
       "team2": "RBC VISE C",
       "category": "MM - DIVISION 3 B",
       "location": "R HT-PRE OUGREE A",
+      "other": ""
+    },
+    {
+      "code": "405281",
+      "date": "2027-04-04",
+      "time": "15:00",
+      "team1": "ROYALE US AWANS A",
+      "team2": "R HT-PRE OUGREE A",
+      "category": "MM - DIVISION 3 B",
+      "location": "ROYALE US AWANS A",
       "other": ""
     },
     {
@@ -947,12 +947,12 @@
     },
     {
       "code": "528053",
-      "date": "2026-10-03",
+      "date": "2026-09-26",
       "time": "15:30",
-      "team1": "RBC HANEFFE A",
+      "team1": "RBC HANEFFE B",
       "team2": "R HT-PRE OUGREE",
       "category": "U 10 - MM I",
-      "location": "RBC HANEFFE A",
+      "location": "RBC HANEFFE B",
       "other": ""
     },
     {
@@ -1060,7 +1060,7 @@
       "date": "2027-02-13",
       "time": "14:00",
       "team1": "R HT-PRE OUGREE",
-      "team2": "RBC HANEFFE A",
+      "team2": "RBC HANEFFE B",
       "category": "U 10 - MM I",
       "location": "R HT-PRE OUGREE",
       "other": ""
@@ -1148,7 +1148,7 @@
     {
       "code": "507115",
       "date": "2026-11-14",
-      "time": "16:00",
+      "time": "10:00",
       "team1": "R HT-PRE OUGREE",
       "team2": "GIANTS BRAIVES C",
       "category": "U 12 - MM H",
@@ -1223,7 +1223,7 @@
       "team2": "R HT-PRE OUGREE",
       "category": "U 12 - MM H",
       "location": "R 4A AYWAILLE-HAMOIR",
-      "other": ""
+      "other": "(ho Hamoir rue du mouli"
     },
     {
       "code": "507236",
@@ -1388,7 +1388,7 @@
     {
       "code": "600235",
       "date": "2027-02-06",
-      "time": "15:30",
+      "time": "13:30",
       "team1": "CRISTAL SGH",
       "team2": "R HT-PRE OUGREE",
       "category": "U 14 - DD A",
@@ -1548,7 +1548,7 @@
     {
       "code": "493206",
       "date": "2027-01-16",
-      "time": "16:00",
+      "time": "14:00",
       "team1": "R HT-PRE OUGREE",
       "team2": "UN HUY BASKET",
       "category": "U 14 - PROV MM D",
@@ -1658,7 +1658,7 @@
     {
       "code": "470103",
       "date": "2026-11-07",
-      "time": "10:00",
+      "time": "16:00",
       "team1": "R HT-PRE OUGREE",
       "team2": "R.UN.BELLAIRE",
       "category": "U 16 - PROV MM A",
@@ -1866,6 +1866,16 @@
       "other": ""
     },
     {
+      "code": "440235",
+      "date": "2026-11-29",
+      "time": "17:00",
+      "team1": "MARCHIN BASKET",
+      "team2": "R HT-PRE OUGREE",
+      "category": "U 18 - PROV MM A",
+      "location": "MARCHIN BASKET",
+      "other": ""
+    },
+    {
       "code": "440141",
       "date": "2026-12-05",
       "time": "15:00",
@@ -1926,16 +1936,6 @@
       "other": ""
     },
     {
-      "code": "440235",
-      "date": "2027-02-07",
-      "time": "16:30",
-      "team1": "MARCHIN BASKET",
-      "team2": "R HT-PRE OUGREE",
-      "category": "U 18 - PROV MM A",
-      "location": "MARCHIN BASKET",
-      "other": ""
-    },
-    {
       "code": "440243",
       "date": "2027-02-13",
       "time": "9:00",
@@ -1987,12 +1987,12 @@
     },
     {
       "code": "552023",
-      "date": "2026-09-12",
-      "time": "10:00",
-      "team1": "R HT-PRE OUGREE",
-      "team2": "ROYAL BC WANZE",
+      "date": "2026-09-13",
+      "time": "10:30",
+      "team1": "ROYAL BC WANZE",
+      "team2": "R HT-PRE OUGREE",
       "category": "U 7 - MM C",
-      "location": "R HT-PRE OUGREE",
+      "location": "ROYAL BC WANZE",
       "other": ""
     },
     {
@@ -2087,12 +2087,12 @@
     },
     {
       "code": "552222",
-      "date": "2027-01-31",
-      "time": "10:30",
-      "team1": "ROYAL BC WANZE",
-      "team2": "R HT-PRE OUGREE",
+      "date": "2027-01-30",
+      "time": "12:00",
+      "team1": "R HT-PRE OUGREE",
+      "team2": "ROYAL BC WANZE",
       "category": "U 7 - MM C",
-      "location": "ROYAL BC WANZE",
+      "location": "R HT-PRE OUGREE",
       "other": ""
     },
     {
@@ -2188,7 +2188,7 @@
     {
       "code": "543033",
       "date": "2026-09-19",
-      "time": "12:00",
+      "time": "14:00",
       "team1": "R HT-PRE OUGREE",
       "team2": "RSW LIEGE BASKET",
       "category": "U 8 - MM D",
@@ -2218,7 +2218,7 @@
     {
       "code": "543123",
       "date": "2026-11-21",
-      "time": "12:00",
+      "time": "14:00",
       "team1": "R HT-PRE OUGREE",
       "team2": "ROYAL HERVE-BATTICE A",
       "category": "U 8 - MM D",
@@ -2268,7 +2268,7 @@
     {
       "code": "543203",
       "date": "2027-01-16",
-      "time": "12:00",
+      "time": "10:00",
       "team1": "R HT-PRE OUGREE",
       "team2": "R 4A AYWAILLE-HAMOIR B",
       "category": "U 8 - MM D",

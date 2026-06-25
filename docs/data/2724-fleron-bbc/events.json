@@ -16,16 +16,6 @@
       "other": ""
     },
     {
-      "code": "402027",
-      "date": "2026-09-13",
-      "time": "11:00",
-      "team1": "FLERON BBC A",
-      "team2": "ROYAL MOSA AC 1941 A",
-      "category": "MM - DIVISION 2 A",
-      "location": "FLERON BBC A",
-      "other": ""
-    },
-    {
       "code": "402032",
       "date": "2026-09-19",
       "time": "19:00",
@@ -101,6 +91,16 @@
       "time": "11:00",
       "team1": "FLERON BBC A",
       "team2": "ESL UNITED E",
+      "category": "MM - DIVISION 2 A",
+      "location": "FLERON BBC A",
+      "other": ""
+    },
+    {
+      "code": "402027",
+      "date": "2026-11-29",
+      "time": "11:00",
+      "team1": "FLERON BBC A",
+      "team2": "ROYAL MOSA AC 1941 A",
       "category": "MM - DIVISION 2 A",
       "location": "FLERON BBC A",
       "other": ""
@@ -707,12 +707,12 @@
     },
     {
       "code": "503016",
-      "date": "2026-09-06",
-      "time": "12:00",
-      "team1": "FLERON BBC",
-      "team2": "RBC HANEFFE",
+      "date": "2026-09-05",
+      "time": "11:00",
+      "team1": "RBC HANEFFE",
+      "team2": "FLERON BBC",
       "category": "U 12 - MM D",
-      "location": "FLERON BBC",
+      "location": "RBC HANEFFE",
       "other": ""
     },
     {
@@ -817,12 +817,12 @@
     },
     {
       "code": "503203",
-      "date": "2027-01-16",
-      "time": "15:00",
-      "team1": "RBC HANEFFE",
-      "team2": "FLERON BBC",
+      "date": "2027-01-17",
+      "time": "12:00",
+      "team1": "FLERON BBC",
+      "team2": "RBC HANEFFE",
       "category": "U 12 - MM D",
-      "location": "RBC HANEFFE",
+      "location": "FLERON BBC",
       "other": ""
     },
     {

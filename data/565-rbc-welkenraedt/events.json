@@ -886,21 +886,21 @@
       "other": ""
     },
     {
-      "code": "470283",
-      "date": "2027-03-13",
-      "time": "11:00",
-      "team1": "RBC WELKENRAEDT",
-      "team2": "ROYAL MOSA AC 1941",
-      "category": "U 16 - PROV MM A",
-      "location": "RBC WELKENRAEDT",
-      "other": ""
-    },
-    {
       "code": "470303",
       "date": "2027-03-27",
       "time": "11:00",
       "team1": "RBC WELKENRAEDT",
       "team2": "ROYAL SPA BC B",
+      "category": "U 16 - PROV MM A",
+      "location": "RBC WELKENRAEDT",
+      "other": ""
+    },
+    {
+      "code": "470283",
+      "date": "2027-04-03",
+      "time": "11:00",
+      "team1": "RBC WELKENRAEDT",
+      "team2": "ROYAL MOSA AC 1941",
       "category": "U 16 - PROV MM A",
       "location": "RBC WELKENRAEDT",
       "other": ""
@@ -1076,16 +1076,6 @@
       "other": ""
     },
     {
-      "code": "441283",
-      "date": "2027-03-13",
-      "time": "13:00",
-      "team1": "RBC WELKENRAEDT",
-      "team2": "UN HUY BASKET",
-      "category": "U 18 - PROV MM B",
-      "location": "RBC WELKENRAEDT",
-      "other": ""
-    },
-    {
       "code": "441293",
       "date": "2027-03-20",
       "time": "13:00",
@@ -1101,6 +1091,16 @@
       "time": "13:00",
       "team1": "RBC WELKENRAEDT",
       "team2": "RBC VISE",
+      "category": "U 18 - PROV MM B",
+      "location": "RBC WELKENRAEDT",
+      "other": ""
+    },
+    {
+      "code": "441283",
+      "date": "2027-04-03",
+      "time": "13:00",
+      "team1": "RBC WELKENRAEDT",
+      "team2": "UN HUY BASKET",
       "category": "U 18 - PROV MM B",
       "location": "RBC WELKENRAEDT",
       "other": ""
@@ -1208,7 +1208,7 @@
     {
       "code": "580104",
       "date": "2026-11-08",
-      "time": "11:15",
+      "time": "14:15",
       "team1": "RBC AUBEL",
       "team2": "RBC WELKENRAEDT",
       "category": "U 19 - DD",

@@ -76,16 +76,6 @@
       "other": ""
     },
     {
-      "code": "414103",
-      "date": "2026-11-07",
-      "time": "20:00",
-      "team1": "R HT-PRE OUGREE A",
-      "team2": "ROYALE US AWANS",
-      "category": "DD - DIVISION 2 A",
-      "location": "R HT-PRE OUGREE A",
-      "other": ""
-    },
-    {
       "code": "414111",
       "date": "2026-11-15",
       "time": "17:00",
@@ -157,8 +147,8 @@
     },
     {
       "code": "414211",
-      "date": "2027-01-23",
-      "time": "20:00",
+      "date": "2027-01-24",
+      "time": "11:00",
       "team1": "R.UN.BELLAIRE B",
       "team2": "ROYALE US AWANS",
       "category": "DD - DIVISION 2 A",
@@ -196,6 +186,16 @@
       "other": ""
     },
     {
+      "code": "414103",
+      "date": "2027-02-27",
+      "time": "20:00",
+      "team1": "R HT-PRE OUGREE A",
+      "team2": "ROYALE US AWANS",
+      "category": "DD - DIVISION 2 A",
+      "location": "R HT-PRE OUGREE A",
+      "other": ""
+    },
+    {
       "code": "414274",
       "date": "2027-03-06",
       "time": "20:30",
@@ -203,16 +203,6 @@
       "team2": "ROYALE US AWANS",
       "category": "DD - DIVISION 2 A",
       "location": "RBC BLEGNY B",
-      "other": ""
-    },
-    {
-      "code": "414281",
-      "date": "2027-03-14",
-      "time": "17:00",
-      "team1": "ROYALE US AWANS",
-      "team2": "ROYAL HERVE-BATTICE D",
-      "category": "DD - DIVISION 2 A",
-      "location": "ROYALE US AWANS",
       "other": ""
     },
     {
@@ -231,6 +221,16 @@
       "time": "17:00",
       "team1": "ROYALE US AWANS",
       "team2": "RBC DISON-ANDRIMONT A",
+      "category": "DD - DIVISION 2 A",
+      "location": "ROYALE US AWANS",
+      "other": ""
+    },
+    {
+      "code": "414281",
+      "date": "2027-04-04",
+      "time": "17:00",
+      "team1": "ROYALE US AWANS",
+      "team2": "ROYAL HERVE-BATTICE D",
       "category": "DD - DIVISION 2 A",
       "location": "ROYALE US AWANS",
       "other": ""
@@ -466,16 +466,6 @@
       "other": ""
     },
     {
-      "code": "405281",
-      "date": "2027-03-14",
-      "time": "15:00",
-      "team1": "ROYALE US AWANS A",
-      "team2": "R HT-PRE OUGREE A",
-      "category": "MM - DIVISION 3 B",
-      "location": "ROYALE US AWANS A",
-      "other": ""
-    },
-    {
       "code": "405291",
       "date": "2027-03-21",
       "time": "15:00",
@@ -491,6 +481,16 @@
       "time": "15:00",
       "team1": "ROYALE US AWANS A",
       "team2": "ALL. FLEMALLE B",
+      "category": "MM - DIVISION 3 B",
+      "location": "ROYALE US AWANS A",
+      "other": ""
+    },
+    {
+      "code": "405281",
+      "date": "2027-04-04",
+      "time": "15:00",
+      "team1": "ROYALE US AWANS A",
+      "team2": "R HT-PRE OUGREE A",
       "category": "MM - DIVISION 3 B",
       "location": "ROYALE US AWANS A",
       "other": ""
@@ -686,16 +686,6 @@
       "other": ""
     },
     {
-      "code": "409281",
-      "date": "2027-03-14",
-      "time": "13:00",
-      "team1": "ROYALE US AWANS B",
-      "team2": "GIANTS BRAIVES A",
-      "category": "MM - DIVISION 4 C",
-      "location": "ROYALE US AWANS B",
-      "other": ""
-    },
-    {
       "code": "409291",
       "date": "2027-03-21",
       "time": "13:00",
@@ -711,6 +701,16 @@
       "time": "13:00",
       "team1": "ROYALE US AWANS B",
       "team2": "ALL. FLEMALLE C",
+      "category": "MM - DIVISION 4 C",
+      "location": "ROYALE US AWANS B",
+      "other": ""
+    },
+    {
+      "code": "409281",
+      "date": "2027-04-04",
+      "time": "13:00",
+      "team1": "ROYALE US AWANS B",
+      "team2": "GIANTS BRAIVES A",
       "category": "MM - DIVISION 4 C",
       "location": "ROYALE US AWANS B",
       "other": ""

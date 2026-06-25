@@ -76,6 +76,16 @@
       "other": ""
     },
     {
+      "code": "403155",
+      "date": "2026-10-31",
+      "time": "19:00",
+      "team1": "RB TILFF B",
+      "team2": "R.UN.BELLAIRE A",
+      "category": "MM - DIVISION 2 B",
+      "location": "RB TILFF B",
+      "other": ""
+    },
+    {
       "code": "403102",
       "date": "2026-11-07",
       "time": "17:00",
@@ -111,16 +121,6 @@
       "time": "19:00",
       "team1": "RB TILFF B",
       "team2": "R 4A AYWAILLE-HAMOIR A",
-      "category": "MM - DIVISION 2 B",
-      "location": "RB TILFF B",
-      "other": ""
-    },
-    {
-      "code": "403155",
-      "date": "2026-12-12",
-      "time": "19:00",
-      "team1": "RB TILFF B",
-      "team2": "R.UN.BELLAIRE A",
       "category": "MM - DIVISION 2 B",
       "location": "RB TILFF B",
       "other": ""
@@ -456,6 +456,16 @@
       "other": ""
     },
     {
+      "code": "406325",
+      "date": "2027-02-27",
+      "time": "17:00",
+      "team1": "RB TILFF C",
+      "team2": "RBC STAVELOT B",
+      "category": "MM - DIVISION 3 C",
+      "location": "RB TILFF C",
+      "other": ""
+    },
+    {
       "code": "406277",
       "date": "2027-03-07",
       "time": "13:00",
@@ -496,16 +506,6 @@
       "other": ""
     },
     {
-      "code": "406325",
-      "date": "2027-04-10",
-      "time": "17:00",
-      "team1": "RB TILFF C",
-      "team2": "RBC STAVELOT B",
-      "category": "MM - DIVISION 3 C",
-      "location": "RB TILFF C",
-      "other": ""
-    },
-    {
       "code": "406333",
       "date": "2027-04-17",
       "time": "17:00",
@@ -536,19 +536,9 @@
       "other": ""
     },
     {
-      "code": "407035",
-      "date": "2026-09-19",
-      "time": "18:30",
-      "team1": "RB TILFF E",
-      "team2": "RABC ENSIVAL D",
-      "category": "MM - DIVISION 4 A",
-      "location": "RB TILFF E",
-      "other": ""
-    },
-    {
       "code": "407055",
-      "date": "2026-10-03",
-      "time": "18:30",
+      "date": "2026-10-02",
+      "time": "20:45",
       "team1": "RB TILFF E",
       "team2": "RBC STAVELOT C",
       "category": "MM - DIVISION 4 A",
@@ -583,6 +573,16 @@
       "team2": "RB TILFF E",
       "category": "MM - DIVISION 4 A",
       "location": "THEUX BC C",
+      "other": ""
+    },
+    {
+      "code": "407035",
+      "date": "2026-10-31",
+      "time": "17:00",
+      "team1": "RB TILFF E",
+      "team2": "RABC ENSIVAL D",
+      "category": "MM - DIVISION 4 A",
+      "location": "RB TILFF E",
       "other": ""
     },
     {
@@ -718,7 +718,7 @@
     {
       "code": "407305",
       "date": "2027-03-27",
-      "time": "18:30",
+      "time": "17:00",
       "team1": "RB TILFF E",
       "team2": "ROYAL BC NINANE E",
       "category": "MM - DIVISION 4 A",
@@ -867,8 +867,8 @@
     },
     {
       "code": "411205",
-      "date": "2027-01-16",
-      "time": "20:30",
+      "date": "2027-01-15",
+      "time": "20:45",
       "team1": "RB TILFF D",
       "team2": "ROYAL HERVE-BATTICE C",
       "category": "MM - DIVISION 4 E",
@@ -888,11 +888,21 @@
     {
       "code": "411255",
       "date": "2027-02-20",
-      "time": "20:30",
+      "time": "17:00",
       "team1": "RB TILFF D",
       "team2": "RBC HANEFFE B",
       "category": "MM - DIVISION 4 E",
       "location": "RB TILFF D",
+      "other": ""
+    },
+    {
+      "code": "411321",
+      "date": "2027-02-27",
+      "time": "18:00",
+      "team1": "R.UN.BELLAIRE C",
+      "team2": "RB TILFF D",
+      "category": "MM - DIVISION 4 E",
+      "location": "R.UN.BELLAIRE C",
       "other": ""
     },
     {
@@ -928,21 +938,11 @@
     {
       "code": "411305",
       "date": "2027-03-27",
-      "time": "20:30",
+      "time": "19:00",
       "team1": "RB TILFF D",
       "team2": "BC BELLEFLAMME F",
       "category": "MM - DIVISION 4 E",
       "location": "RB TILFF D",
-      "other": ""
-    },
-    {
-      "code": "411321",
-      "date": "2027-04-10",
-      "time": "18:00",
-      "team1": "R.UN.BELLAIRE C",
-      "team2": "RB TILFF D",
-      "category": "MM - DIVISION 4 E",
-      "location": "R.UN.BELLAIRE C",
       "other": ""
     },
     {
@@ -966,9 +966,249 @@
       "other": ""
     },
     {
+      "code": "AW102005",
+      "date": "2026-09-05",
+      "time": "21:00",
+      "team1": "RB TILFF A",
+      "team2": "BC COLFONTAINE",
+      "category": "MM - REGIONALE 2 B",
+      "location": "RB TILFF A",
+      "other": ""
+    },
+    {
+      "code": "AW102013",
+      "date": "2026-09-19",
+      "time": "19:00",
+      "team1": "B55 ACADEMY XL",
+      "team2": "RB TILFF A",
+      "category": "MM - REGIONALE 2 B",
+      "location": "B55 ACADEMY XL",
+      "other": ""
+    },
+    {
+      "code": "AW102022",
+      "date": "2026-10-04",
+      "time": "17:00",
+      "team1": "RSW LIEGE BASKET B",
+      "team2": "RB TILFF A",
+      "category": "MM - REGIONALE 2 B",
+      "location": "RSW LIEGE BASKET B",
+      "other": ""
+    },
+    {
+      "code": "AW102033",
+      "date": "2026-10-10",
+      "time": "21:00",
+      "team1": "RB TILFF A",
+      "team2": "ROYAL BC NINANE A",
+      "category": "MM - REGIONALE 2 B",
+      "location": "RB TILFF A",
+      "other": ""
+    },
+    {
+      "code": "AW102039",
+      "date": "2026-10-18",
+      "time": "17:30",
+      "team1": "ROYAL BC WANZE A",
+      "team2": "RB TILFF A",
+      "category": "MM - REGIONALE 2 B",
+      "location": "ROYAL BC WANZE A",
+      "other": ""
+    },
+    {
+      "code": "AW102047",
+      "date": "2026-10-24",
+      "time": "21:00",
+      "team1": "RB TILFF A",
+      "team2": "RBC ALLEUR A",
+      "category": "MM - REGIONALE 2 B",
+      "location": "RB TILFF A",
+      "other": ""
+    },
+    {
+      "code": "AW102058",
+      "date": "2026-11-07",
+      "time": "20:30",
+      "team1": "R LINTHOUT BC",
+      "team2": "RB TILFF A",
+      "category": "MM - REGIONALE 2 B",
+      "location": "R LINTHOUT BC",
+      "other": ""
+    },
+    {
+      "code": "AW102054",
+      "date": "2026-11-14",
+      "time": "21:00",
+      "team1": "RB TILFF A",
+      "team2": "JSB MAFFLE",
+      "category": "MM - REGIONALE 2 B",
+      "location": "RB TILFF A",
+      "other": ""
+    },
+    {
+      "code": "AW102075",
+      "date": "2026-11-22",
+      "time": "15:00",
+      "team1": "CEP FLEURUS",
+      "team2": "RB TILFF A",
+      "category": "MM - REGIONALE 2 B",
+      "location": "CEP FLEURUS",
+      "other": ""
+    },
+    {
+      "code": "AW102068",
+      "date": "2026-12-05",
+      "time": "21:00",
+      "team1": "RB TILFF A",
+      "team2": "BC FRAIRE-PHILIPPEVILLE",
+      "category": "MM - REGIONALE 2 B",
+      "location": "RB TILFF A",
+      "other": ""
+    },
+    {
+      "code": "AW102082",
+      "date": "2026-12-12",
+      "time": "19:00",
+      "team1": "RB TILFF A",
+      "team2": "UCCLE EUROPE",
+      "category": "MM - REGIONALE 2 B",
+      "location": "RB TILFF A",
+      "other": ""
+    },
+    {
+      "code": "AW102085",
+      "date": "2026-12-19",
+      "time": "20:00",
+      "team1": "AS MAZY-SPY",
+      "team2": "RB TILFF A",
+      "category": "MM - REGIONALE 2 B",
+      "location": "AS MAZY-SPY",
+      "other": ""
+    },
+    {
+      "code": "AW102103",
+      "date": "2027-01-09",
+      "time": "21:00",
+      "team1": "RB TILFF A",
+      "team2": "B55 ACADEMY XL",
+      "category": "MM - REGIONALE 2 B",
+      "location": "RB TILFF A",
+      "other": ""
+    },
+    {
+      "code": "AW102095",
+      "date": "2027-01-17",
+      "time": "13:00",
+      "team1": "BC COLFONTAINE",
+      "team2": "RB TILFF A",
+      "category": "MM - REGIONALE 2 B",
+      "location": "BC COLFONTAINE",
+      "other": ""
+    },
+    {
+      "code": "AW102131",
+      "date": "2027-02-06",
+      "time": "19:00",
+      "team1": "RB TILFF A",
+      "team2": "ROYAL BC WANZE A",
+      "category": "MM - REGIONALE 2 B",
+      "location": "RB TILFF A",
+      "other": ""
+    },
+    {
+      "code": "AW102117",
+      "date": "2027-02-13",
+      "time": "21:00",
+      "team1": "RB TILFF A",
+      "team2": "RSW LIEGE BASKET B",
+      "category": "MM - REGIONALE 2 B",
+      "location": "RB TILFF A",
+      "other": ""
+    },
+    {
+      "code": "AW102146",
+      "date": "2027-02-19",
+      "time": "20:30",
+      "team1": "JSB MAFFLE",
+      "team2": "RB TILFF A",
+      "category": "MM - REGIONALE 2 B",
+      "location": "JSB MAFFLE",
+      "other": ""
+    },
+    {
+      "code": "AW102166",
+      "date": "2027-02-27",
+      "time": "19:00",
+      "team1": "RB TILFF A",
+      "team2": "CEP FLEURUS",
+      "category": "MM - REGIONALE 2 B",
+      "location": "RB TILFF A",
+      "other": ""
+    },
+    {
+      "code": "AW102161",
+      "date": "2027-03-07",
+      "time": "14:00",
+      "team1": "BC FRAIRE-PHILIPPEVILLE",
+      "team2": "RB TILFF A",
+      "category": "MM - REGIONALE 2 B",
+      "location": "BC FRAIRE-PHILIPPEVILLE",
+      "other": ""
+    },
+    {
+      "code": "AW102152",
+      "date": "2027-03-20",
+      "time": "21:00",
+      "team1": "RB TILFF A",
+      "team2": "R LINTHOUT BC",
+      "category": "MM - REGIONALE 2 B",
+      "location": "RB TILFF A",
+      "other": ""
+    },
+    {
+      "code": "AW102180",
+      "date": "2027-03-27",
+      "time": "21:00",
+      "team1": "RB TILFF A",
+      "team2": "AS MAZY-SPY",
+      "category": "MM - REGIONALE 2 B",
+      "location": "RB TILFF A",
+      "other": ""
+    },
+    {
+      "code": "AW102121",
+      "date": "2027-04-03",
+      "time": "21:00",
+      "team1": "ROYAL BC NINANE A",
+      "team2": "RB TILFF A",
+      "category": "MM - REGIONALE 2 B",
+      "location": "ROYAL BC NINANE A",
+      "other": ""
+    },
+    {
+      "code": "AW102171",
+      "date": "2027-04-18",
+      "time": "17:00",
+      "team1": "UCCLE EUROPE",
+      "team2": "RB TILFF A",
+      "category": "MM - REGIONALE 2 B",
+      "location": "UCCLE EUROPE",
+      "other": ""
+    },
+    {
+      "code": "AW102136",
+      "date": "2027-04-24",
+      "time": "20:30",
+      "team1": "RBC ALLEUR A",
+      "team2": "RB TILFF A",
+      "category": "MM - REGIONALE 2 B",
+      "location": "RBC ALLEUR A",
+      "other": ""
+    },
+    {
       "code": "521015",
-      "date": "2026-09-06",
-      "time": "9:00",
+      "date": "2026-09-05",
+      "time": "12:00",
       "team1": "BC SPRIMONT D",
       "team2": "RB TILFF A",
       "category": "U 10 - MM B",
@@ -988,7 +1228,7 @@
     {
       "code": "521035",
       "date": "2026-09-20",
-      "time": "13:00",
+      "time": "11:00",
       "team1": "RB TILFF A",
       "team2": "CRISTAL SGH A",
       "category": "U 10 - MM B",
@@ -998,7 +1238,7 @@
     {
       "code": "521055",
       "date": "2026-10-04",
-      "time": "13:00",
+      "time": "11:00",
       "team1": "RB TILFF A",
       "team2": "RSW LIEGE BASKET",
       "category": "U 10 - MM B",
@@ -1028,7 +1268,7 @@
     {
       "code": "521125",
       "date": "2026-11-22",
-      "time": "13:00",
+      "time": "11:00",
       "team1": "RB TILFF A",
       "team2": "COLLEGE S LOUIS A",
       "category": "U 10 - MM B",
@@ -1048,7 +1288,7 @@
     {
       "code": "521155",
       "date": "2026-12-13",
-      "time": "13:00",
+      "time": "11:00",
       "team1": "RB TILFF A",
       "team2": "MAIL. COMBLAIN",
       "category": "U 10 - MM B",
@@ -1176,16 +1416,6 @@
       "other": ""
     },
     {
-      "code": "522026",
-      "date": "2026-09-12",
-      "time": "15:30",
-      "team1": "BC SPRIMONT B",
-      "team2": "RB TILFF B",
-      "category": "U 10 - MM C",
-      "location": "BC SPRIMONT B",
-      "other": ""
-    },
-    {
       "code": "522035",
       "date": "2026-09-20",
       "time": "13:00",
@@ -1216,9 +1446,19 @@
       "other": ""
     },
     {
+      "code": "522026",
+      "date": "2026-10-17",
+      "time": "13:30",
+      "team1": "BC SPRIMONT B",
+      "team2": "RB TILFF B",
+      "category": "U 10 - MM C",
+      "location": "BC SPRIMONT B",
+      "other": ""
+    },
+    {
       "code": "522105",
       "date": "2026-11-08",
-      "time": "13:00",
+      "time": "11:00",
       "team1": "RB TILFF B",
       "team2": "BC CRISNEE",
       "category": "U 10 - MM C",
@@ -1398,7 +1638,7 @@
     {
       "code": "523105",
       "date": "2026-11-08",
-      "time": "11:00",
+      "time": "13:00",
       "team1": "RB TILFF C",
       "team2": "HARIMALIA BC",
       "category": "U 10 - MM D",
@@ -1413,7 +1653,7 @@
       "team2": "RB TILFF C",
       "category": "U 10 - MM D",
       "location": "R 4A AYWAILLE-HAMOIR A",
-      "other": ""
+      "other": "(ho Hamoir rue du mouli"
     },
     {
       "code": "523125",
@@ -1598,7 +1838,7 @@
     {
       "code": "502082",
       "date": "2026-10-24",
-      "time": "9:00",
+      "time": "9:30",
       "team1": "RB TILFF A",
       "team2": "ALL. FLEMALLE C",
       "category": "U 12 - MM C",
@@ -1618,7 +1858,7 @@
     {
       "code": "502113",
       "date": "2026-11-15",
-      "time": "10:45",
+      "time": "9:30",
       "team1": "BC VERLAINE A",
       "team2": "RB TILFF A",
       "category": "U 12 - MM C",
@@ -1708,7 +1948,7 @@
     {
       "code": "502252",
       "date": "2027-02-20",
-      "time": "9:00",
+      "time": "9:30",
       "team1": "RB TILFF A",
       "team2": "BC VERLAINE A",
       "category": "U 12 - MM C",
@@ -1718,7 +1958,7 @@
     {
       "code": "502272",
       "date": "2027-03-06",
-      "time": "9:00",
+      "time": "9:30",
       "team1": "RB TILFF A",
       "team2": "ROYAL BC WANZE A",
       "category": "U 12 - MM C",
@@ -1918,7 +2158,7 @@
     {
       "code": "506223",
       "date": "2027-01-30",
-      "time": "11:00",
+      "time": "11:30",
       "team1": "RB TILFF B",
       "team2": "DF BC MALMEDY",
       "category": "U 12 - MM G",
@@ -2038,7 +2278,7 @@
     {
       "code": "481112",
       "date": "2026-11-14",
-      "time": "9:30",
+      "time": "9:00",
       "team1": "RB TILFF B",
       "team2": "ATLAS A JUPILLE",
       "category": "U 14 - ELITES MM B",
@@ -2068,7 +2308,7 @@
     {
       "code": "481152",
       "date": "2026-12-12",
-      "time": "9:30",
+      "time": "9:00",
       "team1": "RB TILFF B",
       "team2": "BC COINTE A",
       "category": "U 14 - ELITES MM B",
@@ -2217,8 +2457,8 @@
     },
     {
       "code": "491053",
-      "date": "2026-10-03",
-      "time": "11:30",
+      "date": "2026-10-04",
+      "time": "15:00",
       "team1": "RB TILFF B",
       "team2": "R 4A AYWAILLE-HAMOIR",
       "category": "U 14 - PROV MM B",
@@ -2248,7 +2488,7 @@
     {
       "code": "491113",
       "date": "2026-11-14",
-      "time": "11:30",
+      "time": "11:00",
       "team1": "RB TILFF B",
       "team2": "MAIL. COMBLAIN",
       "category": "U 14 - PROV MM B",
@@ -2268,7 +2508,7 @@
     {
       "code": "491153",
       "date": "2026-12-12",
-      "time": "11:30",
+      "time": "11:00",
       "team1": "RB TILFF B",
       "team2": "RBC BLEGNY",
       "category": "U 14 - PROV MM B",
@@ -2418,7 +2658,7 @@
     {
       "code": "552105",
       "date": "2026-11-08",
-      "time": "9:30",
+      "time": "14:30",
       "team1": "RB TILFF",
       "team2": "ROYAL BC WANZE",
       "category": "U 7 - MM C",
@@ -2728,7 +2968,7 @@
     {
       "code": "543015",
       "date": "2026-09-05",
-      "time": "14:00",
+      "time": "13:30",
       "team1": "BC SPRIMONT A",
       "team2": "RB TILFF B",
       "category": "U 8 - MM D",
@@ -2758,7 +2998,7 @@
     {
       "code": "543055",
       "date": "2026-10-04",
-      "time": "11:00",
+      "time": "13:00",
       "team1": "RB TILFF B",
       "team2": "RSW LIEGE BASKET",
       "category": "U 8 - MM D",
@@ -2778,7 +3018,7 @@
     {
       "code": "543105",
       "date": "2026-11-08",
-      "time": "11:00",
+      "time": "9:30",
       "team1": "RB TILFF B",
       "team2": "ROYAL HERVE-BATTICE A",
       "category": "U 8 - MM D",
@@ -2798,7 +3038,7 @@
     {
       "code": "543155",
       "date": "2026-12-13",
-      "time": "11:00",
+      "time": "13:00",
       "team1": "RB TILFF B",
       "team2": "MAIL. COMBLAIN",
       "category": "U 8 - MM D",

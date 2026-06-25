@@ -498,7 +498,7 @@
     {
       "code": "526036",
       "date": "2026-09-19",
-      "time": "10:30",
+      "time": "12:00",
       "team1": "BBC EUPEN",
       "team2": "DF BC MALMEDY",
       "category": "U 10 - MM G",
@@ -688,7 +688,7 @@
     {
       "code": "506036",
       "date": "2026-09-19",
-      "time": "12:00",
+      "time": "14:00",
       "team1": "BBC EUPEN",
       "team2": "HENRI-CHAPELLE C",
       "category": "U 12 - MM G",
@@ -728,7 +728,7 @@
     {
       "code": "506116",
       "date": "2026-11-14",
-      "time": "12:00",
+      "time": "14:00",
       "team1": "BBC EUPEN",
       "team2": "RBC BLEGNY",
       "category": "U 12 - MM G",
@@ -1026,16 +1026,6 @@
       "other": ""
     },
     {
-      "code": "470012",
-      "date": "2026-09-05",
-      "time": "14:00",
-      "team1": "BBC EUPEN",
-      "team2": "R.UN.BELLAIRE",
-      "category": "U 16 - PROV MM A",
-      "location": "BBC EUPEN",
-      "other": ""
-    },
-    {
       "code": "470023",
       "date": "2026-09-12",
       "time": "11:00",
@@ -1068,11 +1058,21 @@
     {
       "code": "470065",
       "date": "2026-10-11",
-      "time": "9:30",
+      "time": "11:30",
       "team1": "ROYAL MOSA AC 1941",
       "team2": "BBC EUPEN",
       "category": "U 16 - PROV MM A",
       "location": "ROYAL MOSA AC 1941",
+      "other": ""
+    },
+    {
+      "code": "470012",
+      "date": "2026-10-17",
+      "time": "14:00",
+      "team1": "BBC EUPEN",
+      "team2": "R.UN.BELLAIRE",
+      "category": "U 16 - PROV MM A",
+      "location": "BBC EUPEN",
       "other": ""
     },
     {
@@ -1267,8 +1267,8 @@
     },
     {
       "code": "441126",
-      "date": "2026-11-21",
-      "time": "16:00",
+      "date": "2026-11-22",
+      "time": "12:00",
       "team1": "BBC EUPEN",
       "team2": "RBC VISE",
       "category": "U 18 - PROV MM B",
@@ -1457,8 +1457,8 @@
     },
     {
       "code": "420078",
-      "date": "2026-10-18",
-      "time": "12:00",
+      "date": "2026-10-17",
+      "time": "16:00",
       "team1": "BBC EUPEN",
       "team2": "THEUX BC",
       "category": "U 21 - MM",
@@ -1728,7 +1728,7 @@
     {
       "code": "540036",
       "date": "2026-09-19",
-      "time": "9:00",
+      "time": "10:30",
       "team1": "BBC EUPEN",
       "team2": "THEUX BC",
       "category": "U 8 - MM A",
@@ -1758,7 +1758,7 @@
     {
       "code": "540116",
       "date": "2026-11-14",
-      "time": "9:00",
+      "time": "10:00",
       "team1": "BBC EUPEN",
       "team2": "RBC DISON-ANDRIMONT",
       "category": "U 8 - MM A",
@@ -1767,8 +1767,8 @@
     },
     {
       "code": "540126",
-      "date": "2026-11-21",
-      "time": "9:00",
+      "date": "2026-11-22",
+      "time": "10:00",
       "team1": "BBC EUPEN",
       "team2": "VAIL. JUPILLE",
       "category": "U 8 - MM A",

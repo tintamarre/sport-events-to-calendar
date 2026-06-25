@@ -156,16 +156,6 @@
       "other": ""
     },
     {
-      "code": "416281",
-      "date": "2027-03-13",
-      "time": "19:00",
-      "team1": "RBC AWANS A",
-      "team2": "GIANTS BRAIVES",
-      "category": "DD - DIVISION 3 A",
-      "location": "RBC AWANS A",
-      "other": ""
-    },
-    {
       "code": "416296",
       "date": "2027-03-20",
       "time": "17:00",
@@ -183,6 +173,16 @@
       "team2": "R REN. MONTEGNEE",
       "category": "DD - DIVISION 3 A",
       "location": "GIANTS BRAIVES",
+      "other": ""
+    },
+    {
+      "code": "416281",
+      "date": "2027-04-03",
+      "time": "19:00",
+      "team1": "RBC AWANS A",
+      "team2": "GIANTS BRAIVES",
+      "category": "DD - DIVISION 3 A",
+      "location": "RBC AWANS A",
       "other": ""
     },
     {
@@ -376,16 +376,6 @@
       "other": ""
     },
     {
-      "code": "409281",
-      "date": "2027-03-14",
-      "time": "13:00",
-      "team1": "ROYALE US AWANS B",
-      "team2": "GIANTS BRAIVES A",
-      "category": "MM - DIVISION 4 C",
-      "location": "ROYALE US AWANS B",
-      "other": ""
-    },
-    {
       "code": "409306",
       "date": "2027-03-27",
       "time": "19:00",
@@ -393,6 +383,16 @@
       "team2": "RBC AWANS C",
       "category": "MM - DIVISION 4 C",
       "location": "GIANTS BRAIVES A",
+      "other": ""
+    },
+    {
+      "code": "409281",
+      "date": "2027-04-04",
+      "time": "13:00",
+      "team1": "ROYALE US AWANS B",
+      "team2": "GIANTS BRAIVES A",
+      "category": "MM - DIVISION 4 C",
+      "location": "ROYALE US AWANS B",
       "other": ""
     },
     {
@@ -890,7 +890,7 @@
       "date": "2026-11-08",
       "time": "13:00",
       "team1": "GIANTS BRAIVES B",
-      "team2": "RBC HANEFFE A",
+      "team2": "RBC HANEFFE B",
       "category": "U 10 - MM I",
       "location": "GIANTS BRAIVES B",
       "other": ""
@@ -989,10 +989,10 @@
       "code": "528293",
       "date": "2027-03-20",
       "time": "15:30",
-      "team1": "RBC HANEFFE A",
+      "team1": "RBC HANEFFE B",
       "team2": "GIANTS BRAIVES B",
       "category": "U 10 - MM I",
-      "location": "RBC HANEFFE A",
+      "location": "RBC HANEFFE B",
       "other": ""
     },
     {
@@ -1068,7 +1068,7 @@
     {
       "code": "500071",
       "date": "2026-10-17",
-      "time": "14:00",
+      "time": "15:00",
       "team1": "RSW LIEGE BASKET",
       "team2": "GIANTS BRAIVES A",
       "category": "U 12 - MM A",
@@ -1258,7 +1258,7 @@
     {
       "code": "500347",
       "date": "2027-04-24",
-      "time": "9:00",
+      "time": "9:30",
       "team1": "CONDROZ MODAVE BB",
       "team2": "GIANTS BRAIVES A",
       "category": "U 12 - MM A",
@@ -1528,7 +1528,7 @@
     {
       "code": "507115",
       "date": "2026-11-14",
-      "time": "16:00",
+      "time": "10:00",
       "team1": "R HT-PRE OUGREE",
       "team2": "GIANTS BRAIVES C",
       "category": "U 12 - MM H",
@@ -1633,7 +1633,7 @@
       "team2": "GIANTS BRAIVES C",
       "category": "U 12 - MM H",
       "location": "R 4A AYWAILLE-HAMOIR",
-      "other": ""
+      "other": "(ho Hamoir rue du mouli"
     },
     {
       "code": "507331",
@@ -2286,16 +2286,6 @@
       "other": ""
     },
     {
-      "code": "472126",
-      "date": "2026-11-21",
-      "time": "13:00",
-      "team1": "GIANTS BRAIVES B",
-      "team2": "ROYAL BC WANZE B",
-      "category": "U 16 - PROV MM C",
-      "location": "GIANTS BRAIVES B",
-      "other": ""
-    },
-    {
       "code": "472141",
       "date": "2026-12-05",
       "time": "17:00",
@@ -2356,6 +2346,16 @@
       "other": ""
     },
     {
+      "code": "472126",
+      "date": "2027-02-20",
+      "time": "11:00",
+      "team1": "GIANTS BRAIVES B",
+      "team2": "ROYAL BC WANZE B",
+      "category": "U 16 - PROV MM C",
+      "location": "GIANTS BRAIVES B",
+      "other": ""
+    },
+    {
       "code": "472296",
       "date": "2027-03-20",
       "time": "13:00",
@@ -2383,6 +2383,106 @@
       "team2": "RBC AWANS",
       "category": "U 16 - PROV MM C",
       "location": "GIANTS BRAIVES B",
+      "other": ""
+    },
+    {
+      "code": "AW119003",
+      "date": "2026-09-05",
+      "time": "11:00",
+      "team1": "GIANTS BRAIVES",
+      "team2": "BC MARCHE",
+      "category": "U 18 - BRONZE REGIONAUX A",
+      "location": "GIANTS BRAIVES",
+      "other": ""
+    },
+    {
+      "code": "AW119009",
+      "date": "2026-09-12",
+      "time": "11:00",
+      "team1": "GIANTS BRAIVES",
+      "team2": "LA LOUVIERE AM",
+      "category": "U 18 - BRONZE REGIONAUX A",
+      "location": "GIANTS BRAIVES",
+      "other": ""
+    },
+    {
+      "code": "AW119004",
+      "date": "2026-09-19",
+      "time": "15:00",
+      "team1": "CASTORS BRAINE",
+      "team2": "GIANTS BRAIVES",
+      "category": "U 18 - BRONZE REGIONAUX A",
+      "location": "CASTORS BRAINE",
+      "other": ""
+    },
+    {
+      "code": "AW119012",
+      "date": "2026-10-03",
+      "time": "11:00",
+      "team1": "GIANTS BRAIVES",
+      "team2": "CRISTAL SGH",
+      "category": "U 18 - BRONZE REGIONAUX A",
+      "location": "GIANTS BRAIVES",
+      "other": ""
+    },
+    {
+      "code": "AW119014",
+      "date": "2026-10-10",
+      "time": "13:00",
+      "team1": "SAR CHANTEMELLE",
+      "team2": "GIANTS BRAIVES",
+      "category": "U 18 - BRONZE REGIONAUX A",
+      "location": "SAR CHANTEMELLE",
+      "other": ""
+    },
+    {
+      "code": "AW119019",
+      "date": "2026-11-08",
+      "time": "13:00",
+      "team1": "CRISTAL SGH",
+      "team2": "GIANTS BRAIVES",
+      "category": "U 18 - BRONZE REGIONAUX A",
+      "location": "CRISTAL SGH",
+      "other": ""
+    },
+    {
+      "code": "AW119024",
+      "date": "2026-11-14",
+      "time": "11:00",
+      "team1": "GIANTS BRAIVES",
+      "team2": "SAR CHANTEMELLE",
+      "category": "U 18 - BRONZE REGIONAUX A",
+      "location": "GIANTS BRAIVES",
+      "other": ""
+    },
+    {
+      "code": "AW119027",
+      "date": "2026-11-21",
+      "time": "15:00",
+      "team1": "BC MARCHE",
+      "team2": "GIANTS BRAIVES",
+      "category": "U 18 - BRONZE REGIONAUX A",
+      "location": "BC MARCHE",
+      "other": ""
+    },
+    {
+      "code": "AW119030",
+      "date": "2026-12-05",
+      "time": "11:00",
+      "team1": "GIANTS BRAIVES",
+      "team2": "CASTORS BRAINE",
+      "category": "U 18 - BRONZE REGIONAUX A",
+      "location": "GIANTS BRAIVES",
+      "other": ""
+    },
+    {
+      "code": "AW119017",
+      "date": "2026-12-12",
+      "time": "15:00",
+      "team1": "LA LOUVIERE AM",
+      "team2": "GIANTS BRAIVES",
+      "category": "U 18 - BRONZE REGIONAUX A",
+      "location": "LA LOUVIERE AM",
       "other": ""
     },
     {

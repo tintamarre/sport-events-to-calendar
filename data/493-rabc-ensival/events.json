@@ -646,16 +646,6 @@
       "other": ""
     },
     {
-      "code": "404166",
-      "date": "2026-12-19",
-      "time": "17:00",
-      "team1": "RBC DISON-ANDRIMONT B",
-      "team2": "RABC ENSIVAL B",
-      "category": "MM - DIVISION 3 A",
-      "location": "RBC DISON-ANDRIMONT B",
-      "other": ""
-    },
-    {
       "code": "404193",
       "date": "2027-01-09",
       "time": "19:00",
@@ -693,6 +683,16 @@
       "team2": "RABC ENSIVAL B",
       "category": "MM - DIVISION 3 A",
       "location": "HARIMALIA BC B",
+      "other": ""
+    },
+    {
+      "code": "404166",
+      "date": "2027-02-06",
+      "time": "17:00",
+      "team1": "RBC DISON-ANDRIMONT B",
+      "team2": "RABC ENSIVAL B",
+      "category": "MM - DIVISION 3 A",
+      "location": "RBC DISON-ANDRIMONT B",
       "other": ""
     },
     {
@@ -1066,16 +1066,6 @@
       "other": ""
     },
     {
-      "code": "407035",
-      "date": "2026-09-19",
-      "time": "18:30",
-      "team1": "RB TILFF E",
-      "team2": "RABC ENSIVAL D",
-      "category": "MM - DIVISION 4 A",
-      "location": "RB TILFF E",
-      "other": ""
-    },
-    {
       "code": "407052",
       "date": "2026-10-02",
       "time": "20:30",
@@ -1103,6 +1093,16 @@
       "team2": "RABC ENSIVAL D",
       "category": "MM - DIVISION 4 A",
       "location": "HENRI-CHAPELLE D",
+      "other": ""
+    },
+    {
+      "code": "407035",
+      "date": "2026-10-31",
+      "time": "17:00",
+      "team1": "RB TILFF E",
+      "team2": "RABC ENSIVAL D",
+      "category": "MM - DIVISION 4 A",
+      "location": "RB TILFF E",
       "other": ""
     },
     {
@@ -1708,7 +1708,7 @@
     {
       "code": "505162",
       "date": "2026-12-19",
-      "time": "11:30",
+      "time": "10:15",
       "team1": "BC COINTE B",
       "team2": "RABC ENSIVAL A",
       "category": "U 12 - MM F",

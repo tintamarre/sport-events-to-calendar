@@ -666,21 +666,21 @@
       "other": ""
     },
     {
-      "code": "528035",
-      "date": "2026-09-19",
-      "time": "11:00",
-      "team1": "ORP JAUCHE",
-      "team2": "ROYAL BC WANZE B",
-      "category": "U 10 - MM I",
-      "location": "ORP JAUCHE",
-      "other": ""
-    },
-    {
       "code": "528055",
       "date": "2026-10-03",
       "time": "11:00",
       "team1": "ORP JAUCHE",
       "team2": "GIANTS BRAIVES B",
+      "category": "U 10 - MM I",
+      "location": "ORP JAUCHE",
+      "other": ""
+    },
+    {
+      "code": "528035",
+      "date": "2026-10-24",
+      "time": "15:00",
+      "team1": "ORP JAUCHE",
+      "team2": "ROYAL BC WANZE B",
       "category": "U 10 - MM I",
       "location": "ORP JAUCHE",
       "other": ""
@@ -709,10 +709,10 @@
       "code": "528143",
       "date": "2026-12-05",
       "time": "15:30",
-      "team1": "RBC HANEFFE A",
+      "team1": "RBC HANEFFE B",
       "team2": "ORP JAUCHE",
       "category": "U 10 - MM I",
-      "location": "RBC HANEFFE A",
+      "location": "RBC HANEFFE B",
       "other": ""
     },
     {
@@ -820,7 +820,7 @@
       "date": "2027-04-17",
       "time": "11:00",
       "team1": "ORP JAUCHE",
-      "team2": "RBC HANEFFE A",
+      "team2": "RBC HANEFFE B",
       "category": "U 10 - MM I",
       "location": "ORP JAUCHE",
       "other": ""
@@ -847,7 +847,7 @@
     },
     {
       "code": "504035",
-      "date": "2026-09-19",
+      "date": "2026-09-26",
       "time": "13:00",
       "team1": "ORP JAUCHE",
       "team2": "ROYAL BC WANZE B",
@@ -1026,21 +1026,21 @@
       "other": ""
     },
     {
-      "code": "493035",
-      "date": "2026-09-19",
-      "time": "15:00",
-      "team1": "ORP JAUCHE",
-      "team2": "ROYAL BC WANZE",
-      "category": "U 14 - PROV MM D",
-      "location": "ORP JAUCHE",
-      "other": ""
-    },
-    {
       "code": "493055",
       "date": "2026-10-03",
       "time": "15:00",
       "team1": "ORP JAUCHE",
       "team2": "RBC AWANS A",
+      "category": "U 14 - PROV MM D",
+      "location": "ORP JAUCHE",
+      "other": ""
+    },
+    {
+      "code": "493035",
+      "date": "2026-10-24",
+      "time": "17:00",
+      "team1": "ORP JAUCHE",
+      "team2": "ROYAL BC WANZE",
       "category": "U 14 - PROV MM D",
       "location": "ORP JAUCHE",
       "other": ""
@@ -1118,7 +1118,7 @@
     {
       "code": "493214",
       "date": "2027-01-24",
-      "time": "13:00",
+      "time": "13:30",
       "team1": "BC VERLAINE",
       "team2": "ORP JAUCHE",
       "category": "U 14 - PROV MM D",
@@ -1207,12 +1207,12 @@
     },
     {
       "code": "591035",
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "time": "17:00",
-      "team1": "ORP JAUCHE",
-      "team2": "BC VERLAINE",
+      "team1": "BC VERLAINE",
+      "team2": "ORP JAUCHE",
       "category": "U 16 - DD B",
-      "location": "ORP JAUCHE",
+      "location": "BC VERLAINE",
       "other": ""
     },
     {
@@ -1267,12 +1267,12 @@
     },
     {
       "code": "591194",
-      "date": "2027-01-10",
-      "time": "13:30",
-      "team1": "BC VERLAINE",
-      "team2": "ORP JAUCHE",
+      "date": "2027-01-09",
+      "time": "13:00",
+      "team1": "ORP JAUCHE",
+      "team2": "BC VERLAINE",
       "category": "U 16 - DD B",
-      "location": "BC VERLAINE",
+      "location": "ORP JAUCHE",
       "other": ""
     },
     {
@@ -1348,7 +1348,7 @@
     {
       "code": "472015",
       "date": "2026-09-05",
-      "time": "15:00",
+      "time": "17:00",
       "team1": "ORP JAUCHE",
       "team2": "BCM HERSTAL",
       "category": "U 16 - PROV MM C",
@@ -1508,7 +1508,7 @@
     {
       "code": "430015",
       "date": "2026-09-05",
-      "time": "17:00",
+      "time": "11:00",
       "team1": "ORP JAUCHE",
       "team2": "ABC WAREMME A",
       "category": "U 18 - ELITES MM A",
@@ -1538,7 +1538,7 @@
     {
       "code": "430051",
       "date": "2026-10-04",
-      "time": "13:00",
+      "time": "15:00",
       "team1": "RSW LIEGE BASKET",
       "team2": "ORP JAUCHE",
       "category": "U 18 - ELITES MM A",
@@ -1577,18 +1577,18 @@
     },
     {
       "code": "430121",
-      "date": "2026-11-22",
-      "time": "11:00",
-      "team1": "ROYAL BC WANZE",
-      "team2": "ORP JAUCHE",
+      "date": "2026-11-21",
+      "time": "15:00",
+      "team1": "ORP JAUCHE",
+      "team2": "ROYAL BC WANZE",
       "category": "U 18 - ELITES MM A",
-      "location": "ROYAL BC WANZE",
+      "location": "ORP JAUCHE",
       "other": ""
     },
     {
       "code": "430145",
       "date": "2026-12-05",
-      "time": "17:00",
+      "time": "13:00",
       "team1": "ORP JAUCHE",
       "team2": "BC VERVIERS B",
       "category": "U 18 - ELITES MM A",
@@ -1688,7 +1688,7 @@
     {
       "code": "430295",
       "date": "2027-03-20",
-      "time": "17:00",
+      "time": "11:00",
       "team1": "ORP JAUCHE",
       "team2": "R 4A AYWAILLE-HAMOIR",
       "category": "U 18 - ELITES MM A",
@@ -1707,12 +1707,12 @@
     },
     {
       "code": "430325",
-      "date": "2027-04-10",
-      "time": "17:00",
-      "team1": "ORP JAUCHE",
-      "team2": "ROYAL BC WANZE",
+      "date": "2027-04-11",
+      "time": "11:00",
+      "team1": "ROYAL BC WANZE",
+      "team2": "ORP JAUCHE",
       "category": "U 18 - ELITES MM A",
-      "location": "ORP JAUCHE",
+      "location": "ROYAL BC WANZE",
       "other": ""
     },
     {
@@ -1747,7 +1747,7 @@
     },
     {
       "code": "545035",
-      "date": "2026-09-19",
+      "date": "2026-09-26",
       "time": "11:00",
       "team1": "ORP JAUCHE",
       "team2": "ROYAL BC WANZE",

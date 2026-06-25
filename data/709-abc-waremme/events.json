@@ -287,8 +287,8 @@
     },
     {
       "code": "414036",
-      "date": "2026-09-19",
-      "time": "21:00",
+      "date": "2026-09-20",
+      "time": "15:00",
       "team1": "ROYAL HERVE-BATTICE D",
       "team2": "ABC WAREMME B",
       "category": "DD - DIVISION 2 A",
@@ -747,8 +747,8 @@
     },
     {
       "code": "401036",
-      "date": "2026-09-20",
-      "time": "13:00",
+      "date": "2026-09-19",
+      "time": "21:00",
       "team1": "ROYAL HERVE-BATTICE A",
       "team2": "ABC WAREMME A",
       "category": "MM - DIVISION 1",
@@ -1686,16 +1686,6 @@
       "other": ""
     },
     {
-      "code": "522014",
-      "date": "2026-09-06",
-      "time": "9:00",
-      "team1": "ROYAL BC WANZE A",
-      "team2": "ABC WAREMME A",
-      "category": "U 10 - MM C",
-      "location": "ROYAL BC WANZE A",
-      "other": ""
-    },
-    {
       "code": "522021",
       "date": "2026-09-13",
       "time": "9:00",
@@ -1713,6 +1703,16 @@
       "team2": "BC COINTE A",
       "category": "U 10 - MM C",
       "location": "ABC WAREMME A",
+      "other": ""
+    },
+    {
+      "code": "522014",
+      "date": "2026-09-27",
+      "time": "9:00",
+      "team1": "ROYAL BC WANZE A",
+      "team2": "ABC WAREMME A",
+      "category": "U 10 - MM C",
+      "location": "ROYAL BC WANZE A",
       "other": ""
     },
     {
@@ -2086,16 +2086,6 @@
       "other": ""
     },
     {
-      "code": "528014",
-      "date": "2026-09-06",
-      "time": "9:00",
-      "team1": "ROYAL BC WANZE B",
-      "team2": "ABC WAREMME B",
-      "category": "U 10 - MM I",
-      "location": "ROYAL BC WANZE B",
-      "other": ""
-    },
-    {
       "code": "528021",
       "date": "2026-09-13",
       "time": "13:00",
@@ -2113,6 +2103,16 @@
       "team2": "RBC ESNEUX B",
       "category": "U 10 - MM I",
       "location": "ABC WAREMME B",
+      "other": ""
+    },
+    {
+      "code": "528014",
+      "date": "2026-09-27",
+      "time": "9:00",
+      "team1": "ROYAL BC WANZE B",
+      "team2": "ABC WAREMME B",
+      "category": "U 10 - MM I",
+      "location": "ROYAL BC WANZE B",
       "other": ""
     },
     {
@@ -2139,10 +2139,10 @@
       "code": "528113",
       "date": "2026-11-14",
       "time": "15:30",
-      "team1": "RBC HANEFFE A",
+      "team1": "RBC HANEFFE B",
       "team2": "ABC WAREMME B",
       "category": "U 10 - MM I",
-      "location": "RBC HANEFFE A",
+      "location": "RBC HANEFFE B",
       "other": ""
     },
     {
@@ -2220,7 +2220,7 @@
       "date": "2027-02-06",
       "time": "11:00",
       "team1": "ABC WAREMME B",
-      "team2": "RBC HANEFFE A",
+      "team2": "RBC HANEFFE B",
       "category": "U 10 - MM I",
       "location": "ABC WAREMME B",
       "other": ""
@@ -2738,7 +2738,7 @@
     {
       "code": "600205",
       "date": "2027-01-16",
-      "time": "15:30",
+      "time": "13:30",
       "team1": "CRISTAL SGH",
       "team2": "ABC WAREMME",
       "category": "U 14 - DD A",
@@ -3186,6 +3186,206 @@
       "other": ""
     },
     {
+      "code": "AW154002",
+      "date": "2026-09-05",
+      "time": "14:30",
+      "team1": "REBOND OTTIGNIES",
+      "team2": "ABC WAREMME",
+      "category": "U 14 - SILVER REGIONALES C",
+      "location": "REBOND OTTIGNIES",
+      "other": ""
+    },
+    {
+      "code": "AW154007",
+      "date": "2026-09-13",
+      "time": "11:00",
+      "team1": "BC BELLEFLAMME",
+      "team2": "ABC WAREMME",
+      "category": "U 14 - SILVER REGIONALES C",
+      "location": "BC BELLEFLAMME",
+      "other": ""
+    },
+    {
+      "code": "AW154004",
+      "date": "2026-09-19",
+      "time": "9:00",
+      "team1": "ABC WAREMME",
+      "team2": "EAST BELGIUM BCA",
+      "category": "U 14 - SILVER REGIONALES C",
+      "location": "ABC WAREMME",
+      "other": ""
+    },
+    {
+      "code": "AW154010",
+      "date": "2026-10-03",
+      "time": "9:00",
+      "team1": "ABC WAREMME",
+      "team2": "DPK CARNIERES",
+      "category": "U 14 - SILVER REGIONALES C",
+      "location": "ABC WAREMME",
+      "other": ""
+    },
+    {
+      "code": "AW154015",
+      "date": "2026-10-10",
+      "time": "11:00",
+      "team1": "NAMUR CAPITALE",
+      "team2": "ABC WAREMME",
+      "category": "U 14 - SILVER REGIONALES C",
+      "location": "NAMUR CAPITALE",
+      "other": ""
+    },
+    {
+      "code": "AW154020",
+      "date": "2026-11-08",
+      "time": "9:30",
+      "team1": "DPK CARNIERES",
+      "team2": "ABC WAREMME",
+      "category": "U 14 - SILVER REGIONALES C",
+      "location": "DPK CARNIERES",
+      "other": ""
+    },
+    {
+      "code": "AW154022",
+      "date": "2026-11-14",
+      "time": "9:00",
+      "team1": "ABC WAREMME",
+      "team2": "NAMUR CAPITALE",
+      "category": "U 14 - SILVER REGIONALES C",
+      "location": "ABC WAREMME",
+      "other": ""
+    },
+    {
+      "code": "AW154025",
+      "date": "2026-11-21",
+      "time": "9:00",
+      "team1": "ABC WAREMME",
+      "team2": "REBOND OTTIGNIES",
+      "category": "U 14 - SILVER REGIONALES C",
+      "location": "ABC WAREMME",
+      "other": ""
+    },
+    {
+      "code": "AW154030",
+      "date": "2026-12-05",
+      "time": "15:00",
+      "team1": "EAST BELGIUM BCA",
+      "team2": "ABC WAREMME",
+      "category": "U 14 - SILVER REGIONALES C",
+      "location": "EAST BELGIUM BCA",
+      "other": ""
+    },
+    {
+      "code": "AW154016",
+      "date": "2026-12-12",
+      "time": "9:00",
+      "team1": "ABC WAREMME",
+      "team2": "BC BELLEFLAMME",
+      "category": "U 14 - SILVER REGIONALES C",
+      "location": "ABC WAREMME",
+      "other": ""
+    },
+    {
+      "code": "AW133002",
+      "date": "2026-09-05",
+      "time": "11:00",
+      "team1": "B.C.BOUSSU",
+      "team2": "ABC WAREMME",
+      "category": "U 14 - SILVER REGIONAUX B",
+      "location": "B.C.BOUSSU",
+      "other": ""
+    },
+    {
+      "code": "AW133007",
+      "date": "2026-09-13",
+      "time": "11:00",
+      "team1": "R.B.C. BELGRADE",
+      "team2": "ABC WAREMME",
+      "category": "U 14 - SILVER REGIONAUX B",
+      "location": "R.B.C. BELGRADE",
+      "other": ""
+    },
+    {
+      "code": "AW133004",
+      "date": "2026-09-19",
+      "time": "11:00",
+      "team1": "ABC WAREMME",
+      "team2": "JS ENTITE ENGHIEN",
+      "category": "U 14 - SILVER REGIONAUX B",
+      "location": "ABC WAREMME",
+      "other": ""
+    },
+    {
+      "code": "AW133010",
+      "date": "2026-10-03",
+      "time": "11:00",
+      "team1": "ABC WAREMME",
+      "team2": "BC GENAPPE-LOTHIER",
+      "category": "U 14 - SILVER REGIONAUX B",
+      "location": "ABC WAREMME",
+      "other": ""
+    },
+    {
+      "code": "AW133015",
+      "date": "2026-10-10",
+      "time": "11:00",
+      "team1": "RBC HANEFFE",
+      "team2": "ABC WAREMME",
+      "category": "U 14 - SILVER REGIONAUX B",
+      "location": "RBC HANEFFE",
+      "other": ""
+    },
+    {
+      "code": "AW133020",
+      "date": "2026-11-08",
+      "time": "11:00",
+      "team1": "BC GENAPPE-LOTHIER",
+      "team2": "ABC WAREMME",
+      "category": "U 14 - SILVER REGIONAUX B",
+      "location": "BC GENAPPE-LOTHIER",
+      "other": ""
+    },
+    {
+      "code": "AW133022",
+      "date": "2026-11-14",
+      "time": "11:00",
+      "team1": "ABC WAREMME",
+      "team2": "RBC HANEFFE",
+      "category": "U 14 - SILVER REGIONAUX B",
+      "location": "ABC WAREMME",
+      "other": ""
+    },
+    {
+      "code": "AW133025",
+      "date": "2026-11-21",
+      "time": "11:00",
+      "team1": "ABC WAREMME",
+      "team2": "B.C.BOUSSU",
+      "category": "U 14 - SILVER REGIONAUX B",
+      "location": "ABC WAREMME",
+      "other": ""
+    },
+    {
+      "code": "AW133030",
+      "date": "2026-12-05",
+      "time": "13:00",
+      "team1": "JS ENTITE ENGHIEN",
+      "team2": "ABC WAREMME",
+      "category": "U 14 - SILVER REGIONAUX B",
+      "location": "JS ENTITE ENGHIEN",
+      "other": ""
+    },
+    {
+      "code": "AW133016",
+      "date": "2026-12-12",
+      "time": "11:00",
+      "team1": "ABC WAREMME",
+      "team2": "R.B.C. BELGRADE",
+      "category": "U 14 - SILVER REGIONAUX B",
+      "location": "ABC WAREMME",
+      "other": ""
+    },
+    {
       "code": "590014",
       "date": "2026-09-05",
       "time": "11:00",
@@ -3358,7 +3558,7 @@
     {
       "code": "451024",
       "date": "2026-09-13",
-      "time": "14:00",
+      "time": "9:00",
       "team1": "ROYAL BC WANZE A",
       "team2": "ABC WAREMME A",
       "category": "U 16 - ELITES MM B",
@@ -3528,7 +3728,7 @@
     {
       "code": "430015",
       "date": "2026-09-05",
-      "time": "17:00",
+      "time": "11:00",
       "team1": "ORP JAUCHE",
       "team2": "ABC WAREMME A",
       "category": "U 18 - ELITES MM A",
@@ -3688,7 +3888,7 @@
     {
       "code": "430241",
       "date": "2027-02-14",
-      "time": "11:00",
+      "time": "13:00",
       "team1": "ROYAL BC WANZE",
       "team2": "ABC WAREMME A",
       "category": "U 18 - ELITES MM A",
@@ -4198,7 +4398,7 @@
     {
       "code": "580134",
       "date": "2026-11-29",
-      "time": "11:15",
+      "time": "10:15",
       "team1": "RBC AUBEL",
       "team2": "ABC WAREMME B",
       "category": "U 19 - DD",
@@ -4418,7 +4618,7 @@
     {
       "code": "580274",
       "date": "2027-03-07",
-      "time": "11:15",
+      "time": "10:15",
       "team1": "RBC AUBEL",
       "team2": "ABC WAREMME A",
       "category": "U 19 - DD",
@@ -4526,16 +4726,6 @@
       "other": ""
     },
     {
-      "code": "580336",
-      "date": "2027-04-17",
-      "time": "15:00",
-      "team1": "RBC AWANS A",
-      "team2": "ABC WAREMME A",
-      "category": "U 19 - DD",
-      "location": "RBC AWANS A",
-      "other": ""
-    },
-    {
       "code": "580338",
       "date": "2027-04-17",
       "time": "13:00",
@@ -4543,6 +4733,16 @@
       "team2": "ROYAL BC WANZE",
       "category": "U 19 - DD",
       "location": "ABC WAREMME B",
+      "other": ""
+    },
+    {
+      "code": "580336",
+      "date": "2027-04-18",
+      "time": "11:00",
+      "team1": "RBC AWANS A",
+      "team2": "ABC WAREMME A",
+      "category": "U 19 - DD",
+      "location": "RBC AWANS A",
       "other": ""
     },
     {

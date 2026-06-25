@@ -1748,7 +1748,7 @@
     {
       "code": "522231",
       "date": "2027-02-07",
-      "time": "9:00",
+      "time": "11:00",
       "team1": "LA VILLERSOISE A",
       "team2": "BC CRISNEE",
       "category": "U 10 - MM C",
@@ -1938,7 +1938,7 @@
     {
       "code": "500207",
       "date": "2027-01-16",
-      "time": "9:00",
+      "time": "9:30",
       "team1": "CONDROZ MODAVE BB",
       "team2": "LA VILLERSOISE A",
       "category": "U 12 - MM A",
@@ -2323,7 +2323,7 @@
       "team2": "LA VILLERSOISE C",
       "category": "U 12 - MM H",
       "location": "R 4A AYWAILLE-HAMOIR",
-      "other": ""
+      "other": "(ho Hamoir rue du mouli"
     },
     {
       "code": "507114",
@@ -2646,6 +2646,206 @@
       "other": ""
     },
     {
+      "code": "AW153003",
+      "date": "2026-09-06",
+      "time": "11:00",
+      "team1": "ALL. FLEMALLE",
+      "team2": "LA VILLERSOISE",
+      "category": "U 14 - SILVER REGIONALES B",
+      "location": "ALL. FLEMALLE",
+      "other": ""
+    },
+    {
+      "code": "AW153008",
+      "date": "2026-09-12",
+      "time": "13:00",
+      "team1": "PRAYON TROOZ",
+      "team2": "LA VILLERSOISE",
+      "category": "U 14 - SILVER REGIONALES B",
+      "location": "PRAYON TROOZ",
+      "other": ""
+    },
+    {
+      "code": "AW153006",
+      "date": "2026-09-20",
+      "time": "10:30",
+      "team1": "LA VILLERSOISE",
+      "team2": "RE PONT-DE-LOUP",
+      "category": "U 14 - SILVER REGIONALES B",
+      "location": "LA VILLERSOISE",
+      "other": ""
+    },
+    {
+      "code": "AW153011",
+      "date": "2026-10-03",
+      "time": "11:00",
+      "team1": "RCS NATOYE",
+      "team2": "LA VILLERSOISE",
+      "category": "U 14 - SILVER REGIONALES B",
+      "location": "RCS NATOYE",
+      "other": ""
+    },
+    {
+      "code": "AW153015",
+      "date": "2026-10-11",
+      "time": "10:30",
+      "team1": "LA VILLERSOISE",
+      "team2": "EVEIL AUDERGHEM",
+      "category": "U 14 - SILVER REGIONALES B",
+      "location": "LA VILLERSOISE",
+      "other": ""
+    },
+    {
+      "code": "AW153021",
+      "date": "2026-11-08",
+      "time": "10:30",
+      "team1": "LA VILLERSOISE",
+      "team2": "RCS NATOYE",
+      "category": "U 14 - SILVER REGIONALES B",
+      "location": "LA VILLERSOISE",
+      "other": ""
+    },
+    {
+      "code": "AW153022",
+      "date": "2026-11-15",
+      "time": "9:00",
+      "team1": "EVEIL AUDERGHEM",
+      "team2": "LA VILLERSOISE",
+      "category": "U 14 - SILVER REGIONALES B",
+      "location": "EVEIL AUDERGHEM",
+      "other": ""
+    },
+    {
+      "code": "AW153027",
+      "date": "2026-11-22",
+      "time": "10:30",
+      "team1": "LA VILLERSOISE",
+      "team2": "ALL. FLEMALLE",
+      "category": "U 14 - SILVER REGIONALES B",
+      "location": "LA VILLERSOISE",
+      "other": ""
+    },
+    {
+      "code": "AW153028",
+      "date": "2026-12-05",
+      "time": "16:00",
+      "team1": "RE PONT-DE-LOUP",
+      "team2": "LA VILLERSOISE",
+      "category": "U 14 - SILVER REGIONALES B",
+      "location": "RE PONT-DE-LOUP",
+      "other": ""
+    },
+    {
+      "code": "AW153018",
+      "date": "2026-12-13",
+      "time": "10:30",
+      "team1": "LA VILLERSOISE",
+      "team2": "PRAYON TROOZ",
+      "category": "U 14 - SILVER REGIONALES B",
+      "location": "LA VILLERSOISE",
+      "other": ""
+    },
+    {
+      "code": "AW144001",
+      "date": "2026-09-05",
+      "time": "13:00",
+      "team1": "RE PONT-DE-LOUP",
+      "team2": "LA VILLERSOISE",
+      "category": "U 16 - GOLD REGIONALES A",
+      "location": "RE PONT-DE-LOUP",
+      "other": ""
+    },
+    {
+      "code": "AW144008",
+      "date": "2026-09-12",
+      "time": "10:30",
+      "team1": "LA VILLERSOISE",
+      "team2": "MONS CAPITALE",
+      "category": "U 16 - GOLD REGIONALES A",
+      "location": "LA VILLERSOISE",
+      "other": ""
+    },
+    {
+      "code": "AW144005",
+      "date": "2026-09-19",
+      "time": "10:30",
+      "team1": "LA VILLERSOISE",
+      "team2": "BC BELLEFLAMME",
+      "category": "U 16 - GOLD REGIONALES A",
+      "location": "LA VILLERSOISE",
+      "other": ""
+    },
+    {
+      "code": "AW144010",
+      "date": "2026-10-03",
+      "time": "12:30",
+      "team1": "REBOND OTTIGNIES",
+      "team2": "LA VILLERSOISE",
+      "category": "U 16 - GOLD REGIONALES A",
+      "location": "REBOND OTTIGNIES",
+      "other": ""
+    },
+    {
+      "code": "AW144014",
+      "date": "2026-10-10",
+      "time": "10:30",
+      "team1": "LA VILLERSOISE",
+      "team2": "ROYAL BC CINEY",
+      "category": "U 16 - GOLD REGIONALES A",
+      "location": "LA VILLERSOISE",
+      "other": ""
+    },
+    {
+      "code": "AW144020",
+      "date": "2026-11-07",
+      "time": "10:30",
+      "team1": "LA VILLERSOISE",
+      "team2": "REBOND OTTIGNIES",
+      "category": "U 16 - GOLD REGIONALES A",
+      "location": "LA VILLERSOISE",
+      "other": ""
+    },
+    {
+      "code": "AW144024",
+      "date": "2026-11-14",
+      "time": "13:30",
+      "team1": "ROYAL BC CINEY",
+      "team2": "LA VILLERSOISE",
+      "category": "U 16 - GOLD REGIONALES A",
+      "location": "ROYAL BC CINEY",
+      "other": ""
+    },
+    {
+      "code": "AW144026",
+      "date": "2026-11-21",
+      "time": "10:30",
+      "team1": "LA VILLERSOISE",
+      "team2": "RE PONT-DE-LOUP",
+      "category": "U 16 - GOLD REGIONALES A",
+      "location": "LA VILLERSOISE",
+      "other": ""
+    },
+    {
+      "code": "AW144029",
+      "date": "2026-12-06",
+      "time": "13:00",
+      "team1": "BC BELLEFLAMME",
+      "team2": "LA VILLERSOISE",
+      "category": "U 16 - GOLD REGIONALES A",
+      "location": "BC BELLEFLAMME",
+      "other": ""
+    },
+    {
+      "code": "AW144018",
+      "date": "2026-12-12",
+      "time": "14:00",
+      "team1": "MONS CAPITALE",
+      "team2": "LA VILLERSOISE",
+      "category": "U 16 - GOLD REGIONALES A",
+      "location": "MONS CAPITALE",
+      "other": ""
+    },
+    {
       "code": "472056",
       "date": "2026-10-03",
       "time": "13:00",
@@ -2806,13 +3006,203 @@
       "other": ""
     },
     {
-      "code": "440011",
+      "code": "AW146001",
       "date": "2026-09-06",
-      "time": "13:00",
-      "team1": "RBC STAVELOT",
+      "time": "14:30",
+      "team1": "LA VILLERSOISE",
+      "team2": "BC BONINNE",
+      "category": "U 16 - SILVER REGIONALES A",
+      "location": "LA VILLERSOISE",
+      "other": ""
+    },
+    {
+      "code": "AW146007",
+      "date": "2026-09-13",
+      "time": "14:30",
+      "team1": "LA VILLERSOISE",
+      "team2": "RE PONT-DE-LOUP",
+      "category": "U 16 - SILVER REGIONALES A",
+      "location": "LA VILLERSOISE",
+      "other": ""
+    },
+    {
+      "code": "AW146006",
+      "date": "2026-09-19",
+      "time": "12:45",
+      "team1": "RBC ALLEUR",
       "team2": "LA VILLERSOISE",
-      "category": "U 18 - PROV MM A",
-      "location": "RBC STAVELOT",
+      "category": "U 16 - SILVER REGIONALES A",
+      "location": "RBC ALLEUR",
+      "other": ""
+    },
+    {
+      "code": "AW146012",
+      "date": "2026-10-03",
+      "time": "13:00",
+      "team1": "RCS NATOYE",
+      "team2": "LA VILLERSOISE",
+      "category": "U 16 - SILVER REGIONALES A",
+      "location": "RCS NATOYE",
+      "other": ""
+    },
+    {
+      "code": "AW146013",
+      "date": "2026-10-11",
+      "time": "14:30",
+      "team1": "LA VILLERSOISE",
+      "team2": "BBC LIBRAMONT",
+      "category": "U 16 - SILVER REGIONALES A",
+      "location": "LA VILLERSOISE",
+      "other": ""
+    },
+    {
+      "code": "AW146019",
+      "date": "2026-11-08",
+      "time": "14:30",
+      "team1": "LA VILLERSOISE",
+      "team2": "RCS NATOYE",
+      "category": "U 16 - SILVER REGIONALES A",
+      "location": "LA VILLERSOISE",
+      "other": ""
+    },
+    {
+      "code": "AW146023",
+      "date": "2026-11-14",
+      "time": "11:30",
+      "team1": "BBC LIBRAMONT",
+      "team2": "LA VILLERSOISE",
+      "category": "U 16 - SILVER REGIONALES A",
+      "location": "BBC LIBRAMONT",
+      "other": ""
+    },
+    {
+      "code": "AW146026",
+      "date": "2026-11-21",
+      "time": "11:00",
+      "team1": "BC BONINNE",
+      "team2": "LA VILLERSOISE",
+      "category": "U 16 - SILVER REGIONALES A",
+      "location": "BC BONINNE",
+      "other": ""
+    },
+    {
+      "code": "AW146028",
+      "date": "2026-12-06",
+      "time": "14:30",
+      "team1": "LA VILLERSOISE",
+      "team2": "RBC ALLEUR",
+      "category": "U 16 - SILVER REGIONALES A",
+      "location": "LA VILLERSOISE",
+      "other": ""
+    },
+    {
+      "code": "AW146016",
+      "date": "2026-12-12",
+      "time": "14:00",
+      "team1": "RE PONT-DE-LOUP",
+      "team2": "LA VILLERSOISE",
+      "category": "U 16 - SILVER REGIONALES A",
+      "location": "RE PONT-DE-LOUP",
+      "other": ""
+    },
+    {
+      "code": "AW125001",
+      "date": "2026-09-05",
+      "time": "10:30",
+      "team1": "LA VILLERSOISE",
+      "team2": "R.B.C. BELGRADE",
+      "category": "U 16 - SILVER REGIONAUX C",
+      "location": "LA VILLERSOISE",
+      "other": ""
+    },
+    {
+      "code": "AW125007",
+      "date": "2026-09-12",
+      "time": "10:30",
+      "team1": "LA VILLERSOISE",
+      "team2": "R MURPROTEC NIVELLES",
+      "category": "U 16 - SILVER REGIONAUX C",
+      "location": "LA VILLERSOISE",
+      "other": ""
+    },
+    {
+      "code": "AW125006",
+      "date": "2026-09-20",
+      "time": "10:00",
+      "team1": "FRESH AIR",
+      "team2": "LA VILLERSOISE",
+      "category": "U 16 - SILVER REGIONAUX C",
+      "location": "FRESH AIR",
+      "other": ""
+    },
+    {
+      "code": "AW125012",
+      "date": "2026-10-03",
+      "time": "11:00",
+      "team1": "JS ENTITE ENGHIEN",
+      "team2": "LA VILLERSOISE",
+      "category": "U 16 - SILVER REGIONAUX C",
+      "location": "JS ENTITE ENGHIEN",
+      "other": ""
+    },
+    {
+      "code": "AW125013",
+      "date": "2026-10-10",
+      "time": "10:30",
+      "team1": "LA VILLERSOISE",
+      "team2": "CONDROZ MODAVE BB",
+      "category": "U 16 - SILVER REGIONAUX C",
+      "location": "LA VILLERSOISE",
+      "other": ""
+    },
+    {
+      "code": "AW125019",
+      "date": "2026-11-07",
+      "time": "10:30",
+      "team1": "LA VILLERSOISE",
+      "team2": "JS ENTITE ENGHIEN",
+      "category": "U 16 - SILVER REGIONAUX C",
+      "location": "LA VILLERSOISE",
+      "other": ""
+    },
+    {
+      "code": "AW125023",
+      "date": "2026-11-15",
+      "time": "13:15",
+      "team1": "CONDROZ MODAVE BB",
+      "team2": "LA VILLERSOISE",
+      "category": "U 16 - SILVER REGIONAUX C",
+      "location": "CONDROZ MODAVE BB",
+      "other": ""
+    },
+    {
+      "code": "AW125026",
+      "date": "2026-11-21",
+      "time": "11:00",
+      "team1": "R.B.C. BELGRADE",
+      "team2": "LA VILLERSOISE",
+      "category": "U 16 - SILVER REGIONAUX C",
+      "location": "R.B.C. BELGRADE",
+      "other": ""
+    },
+    {
+      "code": "AW125028",
+      "date": "2026-12-05",
+      "time": "10:30",
+      "team1": "LA VILLERSOISE",
+      "team2": "FRESH AIR",
+      "category": "U 16 - SILVER REGIONAUX C",
+      "location": "LA VILLERSOISE",
+      "other": ""
+    },
+    {
+      "code": "AW125016",
+      "date": "2026-12-12",
+      "time": "15:30",
+      "team1": "R MURPROTEC NIVELLES",
+      "team2": "LA VILLERSOISE",
+      "category": "U 16 - SILVER REGIONAUX C",
+      "location": "R MURPROTEC NIVELLES",
       "other": ""
     },
     {
@@ -2843,6 +3233,16 @@
       "team2": "MARCHIN BASKET",
       "category": "U 18 - PROV MM A",
       "location": "LA VILLERSOISE",
+      "other": ""
+    },
+    {
+      "code": "440011",
+      "date": "2026-10-25",
+      "time": "13:00",
+      "team1": "RBC STAVELOT",
+      "team2": "LA VILLERSOISE",
+      "category": "U 18 - PROV MM A",
+      "location": "RBC STAVELOT",
       "other": ""
     },
     {
@@ -2986,13 +3386,103 @@
       "other": ""
     },
     {
-      "code": "580014",
+      "code": "AW118001",
       "date": "2026-09-06",
-      "time": "11:00",
-      "team1": "ROYAL BC WANZE",
+      "time": "16:30",
+      "team1": "LA VILLERSOISE",
+      "team2": "B.C.BOUSSU",
+      "category": "U 18 - SILVER REGIONAUX D",
+      "location": "LA VILLERSOISE",
+      "other": ""
+    },
+    {
+      "code": "AW118007",
+      "date": "2026-09-13",
+      "time": "16:30",
+      "team1": "LA VILLERSOISE",
+      "team2": "EAST BELGIUM BCA",
+      "category": "U 18 - SILVER REGIONAUX D",
+      "location": "LA VILLERSOISE",
+      "other": ""
+    },
+    {
+      "code": "AW118006",
+      "date": "2026-09-20",
+      "time": "10:00",
+      "team1": "R LINTHOUT BC",
       "team2": "LA VILLERSOISE",
-      "category": "U 19 - DD",
-      "location": "ROYAL BC WANZE",
+      "category": "U 18 - SILVER REGIONAUX D",
+      "location": "R LINTHOUT BC",
+      "other": ""
+    },
+    {
+      "code": "AW118012",
+      "date": "2026-10-03",
+      "time": "14:30",
+      "team1": "UNION MONS-HAINAUT",
+      "team2": "LA VILLERSOISE",
+      "category": "U 18 - SILVER REGIONAUX D",
+      "location": "UNION MONS-HAINAUT",
+      "other": ""
+    },
+    {
+      "code": "AW118013",
+      "date": "2026-10-11",
+      "time": "16:30",
+      "team1": "LA VILLERSOISE",
+      "team2": "R EXC BRUXELLES",
+      "category": "U 18 - SILVER REGIONAUX D",
+      "location": "LA VILLERSOISE",
+      "other": ""
+    },
+    {
+      "code": "AW118026",
+      "date": "2026-10-17",
+      "time": "11:00",
+      "team1": "B.C.BOUSSU",
+      "team2": "LA VILLERSOISE",
+      "category": "U 18 - SILVER REGIONAUX D",
+      "location": "B.C.BOUSSU",
+      "other": ""
+    },
+    {
+      "code": "AW118019",
+      "date": "2026-11-08",
+      "time": "16:30",
+      "team1": "LA VILLERSOISE",
+      "team2": "UNION MONS-HAINAUT",
+      "category": "U 18 - SILVER REGIONAUX D",
+      "location": "LA VILLERSOISE",
+      "other": ""
+    },
+    {
+      "code": "AW118023",
+      "date": "2026-11-14",
+      "time": "11:00",
+      "team1": "R EXC BRUXELLES",
+      "team2": "LA VILLERSOISE",
+      "category": "U 18 - SILVER REGIONAUX D",
+      "location": "R EXC BRUXELLES",
+      "other": ""
+    },
+    {
+      "code": "AW118028",
+      "date": "2026-12-06",
+      "time": "16:30",
+      "team1": "LA VILLERSOISE",
+      "team2": "R LINTHOUT BC",
+      "category": "U 18 - SILVER REGIONAUX D",
+      "location": "LA VILLERSOISE",
+      "other": ""
+    },
+    {
+      "code": "AW118016",
+      "date": "2026-12-13",
+      "time": "11:00",
+      "team1": "EAST BELGIUM BCA",
+      "team2": "LA VILLERSOISE",
+      "category": "U 18 - SILVER REGIONAUX D",
+      "location": "EAST BELGIUM BCA",
       "other": ""
     },
     {
@@ -3013,6 +3503,16 @@
       "team2": "RBC BLEGNY",
       "category": "U 19 - DD",
       "location": "LA VILLERSOISE",
+      "other": ""
+    },
+    {
+      "code": "580014",
+      "date": "2026-09-27",
+      "time": "11:00",
+      "team1": "ROYAL BC WANZE",
+      "team2": "LA VILLERSOISE",
+      "category": "U 19 - DD",
+      "location": "ROYAL BC WANZE",
       "other": ""
     },
     {
@@ -3198,7 +3698,7 @@
     {
       "code": "580254",
       "date": "2027-02-21",
-      "time": "11:15",
+      "time": "10:15",
       "team1": "RBC AUBEL",
       "team2": "LA VILLERSOISE",
       "category": "U 19 - DD",
@@ -3286,9 +3786,109 @@
       "other": ""
     },
     {
+      "code": "AW139001",
+      "date": "2026-09-05",
+      "time": "12:30",
+      "team1": "LA VILLERSOISE",
+      "team2": "CASTORS BRAINE",
+      "category": "U 19 - GOLD REGIONALES A",
+      "location": "LA VILLERSOISE",
+      "other": ""
+    },
+    {
+      "code": "AW139007",
+      "date": "2026-09-12",
+      "time": "12:30",
+      "team1": "LA VILLERSOISE",
+      "team2": "RE PONT-DE-LOUP",
+      "category": "U 19 - GOLD REGIONALES A",
+      "location": "LA VILLERSOISE",
+      "other": ""
+    },
+    {
+      "code": "AW139006",
+      "date": "2026-09-19",
+      "time": "11:15",
+      "team1": "ROYAL BC CINEY",
+      "team2": "LA VILLERSOISE",
+      "category": "U 19 - GOLD REGIONALES A",
+      "location": "ROYAL BC CINEY",
+      "other": ""
+    },
+    {
+      "code": "AW139012",
+      "date": "2026-10-03",
+      "time": "10:45",
+      "team1": "RBC ALLEUR",
+      "team2": "LA VILLERSOISE",
+      "category": "U 19 - GOLD REGIONALES A",
+      "location": "RBC ALLEUR",
+      "other": ""
+    },
+    {
+      "code": "AW139013",
+      "date": "2026-10-10",
+      "time": "12:30",
+      "team1": "LA VILLERSOISE",
+      "team2": "NAMUR CAPITALE",
+      "category": "U 19 - GOLD REGIONALES A",
+      "location": "LA VILLERSOISE",
+      "other": ""
+    },
+    {
+      "code": "AW139019",
+      "date": "2026-11-07",
+      "time": "12:30",
+      "team1": "LA VILLERSOISE",
+      "team2": "RBC ALLEUR",
+      "category": "U 19 - GOLD REGIONALES A",
+      "location": "LA VILLERSOISE",
+      "other": ""
+    },
+    {
+      "code": "AW139023",
+      "date": "2026-11-14",
+      "time": "11:00",
+      "team1": "NAMUR CAPITALE",
+      "team2": "LA VILLERSOISE",
+      "category": "U 19 - GOLD REGIONALES A",
+      "location": "NAMUR CAPITALE",
+      "other": ""
+    },
+    {
+      "code": "AW139026",
+      "date": "2026-11-21",
+      "time": "15:00",
+      "team1": "CASTORS BRAINE",
+      "team2": "LA VILLERSOISE",
+      "category": "U 19 - GOLD REGIONALES A",
+      "location": "CASTORS BRAINE",
+      "other": ""
+    },
+    {
+      "code": "AW139028",
+      "date": "2026-12-05",
+      "time": "12:30",
+      "team1": "LA VILLERSOISE",
+      "team2": "ROYAL BC CINEY",
+      "category": "U 19 - GOLD REGIONALES A",
+      "location": "LA VILLERSOISE",
+      "other": ""
+    },
+    {
+      "code": "AW139016",
+      "date": "2026-12-12",
+      "time": "14:00",
+      "team1": "RE PONT-DE-LOUP",
+      "team2": "LA VILLERSOISE",
+      "category": "U 19 - GOLD REGIONALES A",
+      "location": "RE PONT-DE-LOUP",
+      "other": ""
+    },
+    {
       "code": "553016",
-      "date": "2026-09-06",
-      "time": "10:30",
+      "date": "2026-09-05",
+      "time": "13:30",
       "team1": "BC SPRIMONT B",
       "team2": "LA VILLERSOISE",
       "category": "U 7 - MM D",

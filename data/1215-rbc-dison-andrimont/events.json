@@ -586,16 +586,6 @@
       "other": ""
     },
     {
-      "code": "403166",
-      "date": "2026-12-19",
-      "time": "19:00",
-      "team1": "RBC DISON-ANDRIMONT A",
-      "team2": "BC VERVIERS C",
-      "category": "MM - DIVISION 2 B",
-      "location": "RBC DISON-ANDRIMONT A",
-      "other": ""
-    },
-    {
       "code": "403195",
       "date": "2027-01-09",
       "time": "19:00",
@@ -631,6 +621,16 @@
       "time": "19:00",
       "team1": "RBC DISON-ANDRIMONT A",
       "team2": "ESL UNITED D",
+      "category": "MM - DIVISION 2 B",
+      "location": "RBC DISON-ANDRIMONT A",
+      "other": ""
+    },
+    {
+      "code": "403166",
+      "date": "2027-02-06",
+      "time": "19:00",
+      "team1": "RBC DISON-ANDRIMONT A",
+      "team2": "BC VERVIERS C",
       "category": "MM - DIVISION 2 B",
       "location": "RBC DISON-ANDRIMONT A",
       "other": ""
@@ -846,16 +846,6 @@
       "other": ""
     },
     {
-      "code": "404166",
-      "date": "2026-12-19",
-      "time": "17:00",
-      "team1": "RBC DISON-ANDRIMONT B",
-      "team2": "RABC ENSIVAL B",
-      "category": "MM - DIVISION 3 A",
-      "location": "RBC DISON-ANDRIMONT B",
-      "other": ""
-    },
-    {
       "code": "404195",
       "date": "2027-01-10",
       "time": "15:00",
@@ -891,6 +881,16 @@
       "time": "17:00",
       "team1": "RBC DISON-ANDRIMONT B",
       "team2": "ESL UNITED F",
+      "category": "MM - DIVISION 3 A",
+      "location": "RBC DISON-ANDRIMONT B",
+      "other": ""
+    },
+    {
+      "code": "404166",
+      "date": "2027-02-06",
+      "time": "17:00",
+      "team1": "RBC DISON-ANDRIMONT B",
+      "team2": "RABC ENSIVAL B",
       "category": "MM - DIVISION 3 A",
       "location": "RBC DISON-ANDRIMONT B",
       "other": ""
@@ -1458,7 +1458,7 @@
     {
       "code": "526155",
       "date": "2026-12-13",
-      "time": "11:00",
+      "time": "10:00",
       "team1": "RBC DISON-ANDRIMONT A",
       "team2": "RBC AUBEL B",
       "category": "U 10 - MM G",
@@ -1578,7 +1578,7 @@
     {
       "code": "505032",
       "date": "2026-09-19",
-      "time": "11:30",
+      "time": "9:00",
       "team1": "BC COINTE B",
       "team2": "RBC DISON-ANDRIMONT A",
       "category": "U 12 - MM F",
@@ -1727,7 +1727,7 @@
     },
     {
       "code": "505326",
-      "date": "2027-04-10",
+      "date": "2027-04-11",
       "time": "12:00",
       "team1": "RBC DISON-ANDRIMONT A",
       "team2": "RBC AUBEL",
@@ -2118,7 +2118,7 @@
     {
       "code": "491036",
       "date": "2026-09-19",
-      "time": "13:00",
+      "time": "15:00",
       "team1": "RBC DISON-ANDRIMONT",
       "team2": "BC COINTE B",
       "category": "U 14 - PROV MM B",
@@ -2648,7 +2648,7 @@
     {
       "code": "420036",
       "date": "2026-09-19",
-      "time": "15:00",
+      "time": "13:00",
       "team1": "RBC DISON-ANDRIMONT",
       "team2": "BC SPRIMONT",
       "category": "U 21 - MM",
@@ -2988,7 +2988,7 @@
     {
       "code": "540116",
       "date": "2026-11-14",
-      "time": "9:00",
+      "time": "10:00",
       "team1": "BBC EUPEN",
       "team2": "RBC DISON-ANDRIMONT",
       "category": "U 8 - MM A",

@@ -16,16 +16,6 @@
       "other": ""
     },
     {
-      "code": "402027",
-      "date": "2026-09-13",
-      "time": "11:00",
-      "team1": "FLERON BBC A",
-      "team2": "ROYAL MOSA AC 1941 A",
-      "category": "MM - DIVISION 2 A",
-      "location": "FLERON BBC A",
-      "other": ""
-    },
-    {
       "code": "402035",
       "date": "2026-09-20",
       "time": "11:30",
@@ -103,6 +93,16 @@
       "team2": "PRAYON TROOZ A",
       "category": "MM - DIVISION 2 A",
       "location": "ROYAL MOSA AC 1941 A",
+      "other": ""
+    },
+    {
+      "code": "402027",
+      "date": "2026-11-29",
+      "time": "11:00",
+      "team1": "FLERON BBC A",
+      "team2": "ROYAL MOSA AC 1941 A",
+      "category": "MM - DIVISION 2 A",
+      "location": "FLERON BBC A",
       "other": ""
     },
     {
@@ -397,7 +397,7 @@
     },
     {
       "code": "408214",
-      "date": "2027-01-23",
+      "date": "2027-02-06",
       "time": "18:00",
       "team1": "MAIL. COMBLAIN B",
       "team2": "ROYAL MOSA AC 1941 B",
@@ -507,8 +507,8 @@
     },
     {
       "code": "501031",
-      "date": "2026-09-19",
-      "time": "11:30",
+      "date": "2026-09-20",
+      "time": "9:30",
       "team1": "ROYAL MOSA AC 1941 A",
       "team2": "UN HUY BASKET A",
       "category": "U 12 - MM B",
@@ -518,7 +518,7 @@
     {
       "code": "501051",
       "date": "2026-10-03",
-      "time": "11:30",
+      "time": "9:30",
       "team1": "ROYAL MOSA AC 1941 A",
       "team2": "PRAYON TROOZ A",
       "category": "U 12 - MM B",
@@ -537,8 +537,8 @@
     },
     {
       "code": "501071",
-      "date": "2026-10-17",
-      "time": "11:30",
+      "date": "2026-10-18",
+      "time": "9:30",
       "team1": "ROYAL MOSA AC 1941 A",
       "team2": "RBC STAVELOT A",
       "category": "U 12 - MM B",
@@ -746,16 +746,6 @@
       "other": ""
     },
     {
-      "code": "504011",
-      "date": "2026-09-05",
-      "time": "11:30",
-      "team1": "ROYAL MOSA AC 1941 B",
-      "team2": "RBC ALLEUR A",
-      "category": "U 12 - MM E",
-      "location": "ROYAL MOSA AC 1941 B",
-      "other": ""
-    },
-    {
       "code": "504033",
       "date": "2026-09-19",
       "time": "13:00",
@@ -763,6 +753,16 @@
       "team2": "ROYAL MOSA AC 1941 B",
       "category": "U 12 - MM E",
       "location": "UN HUY BASKET B",
+      "other": ""
+    },
+    {
+      "code": "504011",
+      "date": "2026-09-26",
+      "time": "9:30",
+      "team1": "ROYAL MOSA AC 1941 B",
+      "team2": "RBC ALLEUR A",
+      "category": "U 12 - MM E",
+      "location": "ROYAL MOSA AC 1941 B",
       "other": ""
     },
     {
@@ -876,6 +876,16 @@
       "other": ""
     },
     {
+      "code": "504293",
+      "date": "2027-02-27",
+      "time": "17:00",
+      "team1": "THUNDER CONDROZ",
+      "team2": "ROYAL MOSA AC 1941 B",
+      "category": "U 12 - MM E",
+      "location": "THUNDER CONDROZ",
+      "other": ""
+    },
+    {
       "code": "504284",
       "date": "2027-03-14",
       "time": "10:30",
@@ -883,16 +893,6 @@
       "team2": "ROYAL MOSA AC 1941 B",
       "category": "U 12 - MM E",
       "location": "ROYAL BC WANZE B",
-      "other": ""
-    },
-    {
-      "code": "504293",
-      "date": "2027-03-20",
-      "time": "17:00",
-      "team1": "THUNDER CONDROZ",
-      "team2": "ROYAL MOSA AC 1941 B",
-      "category": "U 12 - MM E",
-      "location": "THUNDER CONDROZ",
       "other": ""
     },
     {
@@ -1127,8 +1127,8 @@
     },
     {
       "code": "470015",
-      "date": "2026-09-06",
-      "time": "9:30",
+      "date": "2026-09-05",
+      "time": "11:30",
       "team1": "ROYAL MOSA AC 1941",
       "team2": "PRAYON TROOZ",
       "category": "U 16 - PROV MM A",
@@ -1168,7 +1168,7 @@
     {
       "code": "470065",
       "date": "2026-10-11",
-      "time": "9:30",
+      "time": "11:30",
       "team1": "ROYAL MOSA AC 1941",
       "team2": "BBC EUPEN",
       "category": "U 16 - PROV MM A",
@@ -1238,7 +1238,7 @@
     {
       "code": "470215",
       "date": "2027-01-24",
-      "time": "9:30",
+      "time": "11:30",
       "team1": "ROYAL MOSA AC 1941",
       "team2": "ROYAL SPA BC B",
       "category": "U 16 - PROV MM A",
@@ -1266,16 +1266,6 @@
       "other": ""
     },
     {
-      "code": "470283",
-      "date": "2027-03-13",
-      "time": "11:00",
-      "team1": "RBC WELKENRAEDT",
-      "team2": "ROYAL MOSA AC 1941",
-      "category": "U 16 - PROV MM A",
-      "location": "RBC WELKENRAEDT",
-      "other": ""
-    },
-    {
       "code": "470295",
       "date": "2027-03-21",
       "time": "9:30",
@@ -1296,6 +1286,16 @@
       "other": ""
     },
     {
+      "code": "470283",
+      "date": "2027-04-03",
+      "time": "11:00",
+      "team1": "RBC WELKENRAEDT",
+      "team2": "ROYAL MOSA AC 1941",
+      "category": "U 16 - PROV MM A",
+      "location": "RBC WELKENRAEDT",
+      "other": ""
+    },
+    {
       "code": "470333",
       "date": "2027-04-17",
       "time": "10:00",
@@ -1307,8 +1307,8 @@
     },
     {
       "code": "431015",
-      "date": "2026-09-06",
-      "time": "11:30",
+      "date": "2026-09-05",
+      "time": "9:30",
       "team1": "ROYAL MOSA AC 1941",
       "team2": "RBC ESNEUX",
       "category": "U 18 - ELITES MM B",
@@ -1348,7 +1348,7 @@
     {
       "code": "431065",
       "date": "2026-10-11",
-      "time": "11:30",
+      "time": "9:30",
       "team1": "ROYAL MOSA AC 1941",
       "team2": "HARIMALIA BC",
       "category": "U 18 - ELITES MM B",
@@ -1438,7 +1438,7 @@
     {
       "code": "431215",
       "date": "2027-01-24",
-      "time": "11:30",
+      "time": "9:30",
       "team1": "ROYAL MOSA AC 1941",
       "team2": "BC VERVIERS A",
       "category": "U 18 - ELITES MM B",
@@ -1558,7 +1558,7 @@
     {
       "code": "541055",
       "date": "2026-10-03",
-      "time": "9:30",
+      "time": "11:30",
       "team1": "ROYAL MOSA AC 1941",
       "team2": "HENRI-CHAPELLE B",
       "category": "U 8 - MM B",

@@ -298,7 +298,7 @@
     {
       "code": "401055",
       "date": "2026-10-02",
-      "time": "20:00",
+      "time": "19:00",
       "team1": "ESL UNITED C",
       "team2": "RBC STAVELOT A",
       "category": "MM - DIVISION 1",
@@ -716,6 +716,16 @@
       "other": ""
     },
     {
+      "code": "406325",
+      "date": "2027-02-27",
+      "time": "17:00",
+      "team1": "RB TILFF C",
+      "team2": "RBC STAVELOT B",
+      "category": "MM - DIVISION 3 C",
+      "location": "RB TILFF C",
+      "other": ""
+    },
+    {
       "code": "406271",
       "date": "2027-03-06",
       "time": "21:00",
@@ -753,16 +763,6 @@
       "team2": "RBC STAVELOT B",
       "category": "MM - DIVISION 3 C",
       "location": "BBC EUPEN A",
-      "other": ""
-    },
-    {
-      "code": "406325",
-      "date": "2027-04-10",
-      "time": "17:00",
-      "team1": "RB TILFF C",
-      "team2": "RBC STAVELOT B",
-      "category": "MM - DIVISION 3 C",
-      "location": "RB TILFF C",
       "other": ""
     },
     {
@@ -817,8 +817,8 @@
     },
     {
       "code": "407055",
-      "date": "2026-10-03",
-      "time": "18:30",
+      "date": "2026-10-02",
+      "time": "20:45",
       "team1": "RB TILFF E",
       "team2": "RBC STAVELOT C",
       "category": "MM - DIVISION 4 A",
@@ -1257,8 +1257,8 @@
     },
     {
       "code": "501071",
-      "date": "2026-10-17",
-      "time": "11:30",
+      "date": "2026-10-18",
+      "time": "9:30",
       "team1": "ROYAL MOSA AC 1941 A",
       "team2": "RBC STAVELOT A",
       "category": "U 12 - MM B",
@@ -1986,16 +1986,6 @@
       "other": ""
     },
     {
-      "code": "450011",
-      "date": "2026-09-05",
-      "time": "15:00",
-      "team1": "RBC STAVELOT",
-      "team2": "ATLAS A JUPILLE A",
-      "category": "U 16 - ELITES MM A",
-      "location": "RBC STAVELOT",
-      "other": ""
-    },
-    {
       "code": "450033",
       "date": "2026-09-19",
       "time": "11:00",
@@ -2136,6 +2126,16 @@
       "other": ""
     },
     {
+      "code": "450011",
+      "date": "2027-03-06",
+      "time": "15:00",
+      "team1": "RBC STAVELOT",
+      "team2": "ATLAS A JUPILLE A",
+      "category": "U 16 - ELITES MM A",
+      "location": "RBC STAVELOT",
+      "other": ""
+    },
+    {
       "code": "450284",
       "date": "2027-03-13",
       "time": "11:00",
@@ -2186,16 +2186,6 @@
       "other": ""
     },
     {
-      "code": "440011",
-      "date": "2026-09-06",
-      "time": "13:00",
-      "team1": "RBC STAVELOT",
-      "team2": "LA VILLERSOISE",
-      "category": "U 18 - PROV MM A",
-      "location": "RBC STAVELOT",
-      "other": ""
-    },
-    {
       "code": "440021",
       "date": "2026-09-13",
       "time": "13:00",
@@ -2231,6 +2221,16 @@
       "time": "13:00",
       "team1": "RBC STAVELOT",
       "team2": "ROYAL SPA BC",
+      "category": "U 18 - PROV MM A",
+      "location": "RBC STAVELOT",
+      "other": ""
+    },
+    {
+      "code": "440011",
+      "date": "2026-10-25",
+      "time": "13:00",
+      "team1": "RBC STAVELOT",
+      "team2": "LA VILLERSOISE",
       "category": "U 18 - PROV MM A",
       "location": "RBC STAVELOT",
       "other": ""
