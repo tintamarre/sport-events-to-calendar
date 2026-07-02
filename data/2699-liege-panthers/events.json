@@ -6,9 +6,69 @@
   },
   "events": [
     {
+      "code": "AW224001",
+      "date": "2026-08-15",
+      "time": "18:00",
+      "team1": "ROYAL WATERLOO",
+      "team2": "LIEGE PANTHERS A",
+      "category": "AWBB DD - POULE D",
+      "location": "ROYAL WATERLOO",
+      "other": ""
+    },
+    {
+      "code": "AW224003",
+      "date": "2026-08-22",
+      "time": "19:00",
+      "team1": "RBC HANEFFE",
+      "team2": "LIEGE PANTHERS A",
+      "category": "AWBB DD - POULE D",
+      "location": "RBC HANEFFE",
+      "other": ""
+    },
+    {
+      "code": "AW224006",
+      "date": "2026-08-30",
+      "time": "15:00",
+      "team1": "LIEGE PANTHERS A",
+      "team2": "PEPINSTER EAST BELG",
+      "category": "AWBB DD - POULE D",
+      "location": "LIEGE PANTHERS A",
+      "other": ""
+    },
+    {
+      "code": "AW229001",
+      "date": "2026-08-15",
+      "time": "18:00",
+      "team1": "R.UN.BELLAIRE",
+      "team2": "LIEGE PANTHERS B",
+      "category": "AWBB DD - POULE I",
+      "location": "R.UN.BELLAIRE",
+      "other": ""
+    },
+    {
+      "code": "AW229003",
+      "date": "2026-08-22",
+      "time": "18:00",
+      "team1": "ROYAL BC CINEY B",
+      "team2": "LIEGE PANTHERS B",
+      "category": "AWBB DD - POULE I",
+      "location": "ROYAL BC CINEY B",
+      "other": ""
+    },
+    {
+      "code": "AW229006",
+      "date": "2026-08-29",
+      "time": "20:00",
+      "team1": "LIEGE PANTHERS B",
+      "team2": "BC BONINNE B",
+      "category": "AWBB DD - POULE I",
+      "location": "LIEGE PANTHERS B",
+      "other": ""
+    },
+    {
       "code": "AW104002",
       "date": "2026-09-06",
-      "time": "13:00",
+      "time": "11:00",
       "team1": "PEPINSTER EAST BELG A",
       "team2": "LIEGE PANTHERS C",
       "category": "DD - REGIONALE 1",
@@ -568,7 +628,7 @@
     {
       "code": "AW103084",
       "date": "2027-02-06",
-      "time": "17:30",
+      "time": "19:30",
       "team1": "NAMUR CAPITALE",
       "team2": "LIEGE PANTHERS B",
       "category": "TOP DIVISION WOMEN R",
@@ -638,7 +698,7 @@
     {
       "code": "AW151002",
       "date": "2026-09-05",
-      "time": "15:00",
+      "time": "13:00",
       "team1": "BC COLFONTAINE",
       "team2": "LIEGE PANTHERS",
       "category": "U 14 - GOLD REGIONALES B",
@@ -718,7 +778,7 @@
     {
       "code": "AW151030",
       "date": "2026-12-06",
-      "time": "11:00",
+      "time": "17:00",
       "team1": "GANSHOREN DAMES",
       "team2": "LIEGE PANTHERS",
       "category": "U 14 - GOLD REGIONALES B",
@@ -937,8 +997,8 @@
     },
     {
       "code": "AW140002",
-      "date": "2026-09-05",
-      "time": "11:00",
+      "date": "2026-09-06",
+      "time": "11:30",
       "team1": "BC COLFONTAINE",
       "team2": "LIEGE PANTHERS",
       "category": "U 19 - GOLD REGIONALES B",
@@ -948,7 +1008,7 @@
     {
       "code": "AW140007",
       "date": "2026-09-13",
-      "time": "15:00",
+      "time": "13:00",
       "team1": "GANSHOREN DAMES",
       "team2": "LIEGE PANTHERS",
       "category": "U 19 - GOLD REGIONALES B",

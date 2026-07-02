@@ -58,7 +58,7 @@
     {
       "code": "413077",
       "date": "2026-10-16",
-      "time": "20:00",
+      "time": "19:00",
       "team1": "RBC BLEGNY A",
       "team2": "R.UN.BELLAIRE A",
       "category": "DD - DIVISION 1",
@@ -108,7 +108,7 @@
     {
       "code": "413147",
       "date": "2026-12-04",
-      "time": "20:00",
+      "time": "19:00",
       "team1": "RBC BLEGNY A",
       "team2": "ROYAL HERVE-BATTICE C",
       "category": "DD - DIVISION 1",
@@ -218,7 +218,7 @@
     {
       "code": "413297",
       "date": "2027-03-19",
-      "time": "20:00",
+      "time": "19:00",
       "team1": "RBC BLEGNY A",
       "team2": "RBC HANEFFE B",
       "category": "DD - DIVISION 1",
@@ -228,7 +228,7 @@
     {
       "code": "413307",
       "date": "2027-03-26",
-      "time": "20:00",
+      "time": "19:00",
       "team1": "RBC BLEGNY A",
       "team2": "BC SPRIMONT A",
       "category": "DD - DIVISION 1",
@@ -248,7 +248,7 @@
     {
       "code": "413337",
       "date": "2027-04-16",
-      "time": "20:00",
+      "time": "19:00",
       "team1": "RBC BLEGNY A",
       "team2": "ATLAS A JUPILLE A",
       "category": "DD - DIVISION 1",
@@ -258,7 +258,7 @@
     {
       "code": "413347",
       "date": "2027-04-23",
-      "time": "20:00",
+      "time": "19:00",
       "team1": "RBC BLEGNY A",
       "team2": "HENRI-CHAPELLE A",
       "category": "DD - DIVISION 1",
@@ -308,7 +308,7 @@
     {
       "code": "414063",
       "date": "2026-10-10",
-      "time": "20:00",
+      "time": "21:00",
       "team1": "R HT-PRE OUGREE A",
       "team2": "RBC BLEGNY B",
       "category": "DD - DIVISION 2 A",
@@ -458,7 +458,7 @@
     {
       "code": "414274",
       "date": "2027-03-06",
-      "time": "20:30",
+      "time": "17:00",
       "team1": "RBC BLEGNY B",
       "team2": "ROYALE US AWANS",
       "category": "DD - DIVISION 2 A",
@@ -808,7 +808,7 @@
     {
       "code": "405145",
       "date": "2026-12-04",
-      "time": "20:00",
+      "time": "21:00",
       "team1": "RBC BLEGNY B",
       "team2": "RB UNION LIEGE B",
       "category": "MM - DIVISION 3 B",
@@ -918,7 +918,7 @@
     {
       "code": "405295",
       "date": "2027-03-19",
-      "time": "20:00",
+      "time": "21:00",
       "team1": "RBC BLEGNY B",
       "team2": "LA VILLERSOISE B",
       "category": "MM - DIVISION 3 B",
@@ -1067,8 +1067,8 @@
     },
     {
       "code": "406142",
-      "date": "2026-12-05",
-      "time": "19:00",
+      "date": "2026-12-06",
+      "time": "15:00",
       "team1": "RBC WELKENRAEDT A",
       "team2": "RBC BLEGNY A",
       "category": "MM - DIVISION 3 C",
@@ -1198,7 +1198,7 @@
     {
       "code": "406321",
       "date": "2027-04-10",
-      "time": "20:00",
+      "time": "18:00",
       "team1": "R.UN.BELLAIRE B",
       "team2": "RBC BLEGNY A",
       "category": "MM - DIVISION 3 C",
@@ -1388,7 +1388,7 @@
     {
       "code": "410274",
       "date": "2027-03-06",
-      "time": "18:30",
+      "time": "19:00",
       "team1": "RBC BLEGNY C",
       "team2": "RSW LIEGE BASKET C",
       "category": "MM - DIVISION 4 D",
@@ -1456,16 +1456,6 @@
       "other": ""
     },
     {
-      "code": "524026",
-      "date": "2026-09-13",
-      "time": "12:00",
-      "team1": "BC SPRIMONT C",
-      "team2": "RBC BLEGNY A",
-      "category": "U 10 - MM E",
-      "location": "BC SPRIMONT C",
-      "other": ""
-    },
-    {
       "code": "524035",
       "date": "2026-09-19",
       "time": "9:00",
@@ -1493,6 +1483,16 @@
       "team2": "RBC BLEGNY A",
       "category": "U 10 - MM E",
       "location": "ROYAL BC NINANE B",
+      "other": ""
+    },
+    {
+      "code": "524026",
+      "date": "2026-10-17",
+      "time": "12:00",
+      "team1": "BC SPRIMONT C",
+      "team2": "RBC BLEGNY A",
+      "category": "U 10 - MM E",
+      "location": "BC SPRIMONT C",
       "other": ""
     },
     {
@@ -2358,7 +2358,7 @@
     {
       "code": "591051",
       "date": "2026-10-03",
-      "time": "13:00",
+      "time": "15:00",
       "team1": "RBC AWANS",
       "team2": "RBC BLEGNY",
       "category": "U 16 - DD B",

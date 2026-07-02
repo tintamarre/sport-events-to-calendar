@@ -58,7 +58,7 @@
     {
       "code": "416105",
       "date": "2026-11-07",
-      "time": "21:00",
+      "time": "19:00",
       "team1": "ORP JAUCHE",
       "team2": "RBC VISE B",
       "category": "DD - DIVISION 3 A",
@@ -168,7 +168,7 @@
     {
       "code": "416292",
       "date": "2027-03-20",
-      "time": "19:00",
+      "time": "21:00",
       "team1": "RBC VISE B",
       "team2": "ORP JAUCHE",
       "category": "DD - DIVISION 3 A",
@@ -346,6 +346,16 @@
       "other": ""
     },
     {
+      "code": "408295",
+      "date": "2027-02-06",
+      "time": "17:00",
+      "team1": "ORP JAUCHE B",
+      "team2": "CS OUTREMEUSE",
+      "category": "MM - DIVISION 4 B",
+      "location": "ORP JAUCHE B",
+      "other": ""
+    },
+    {
       "code": "408245",
       "date": "2027-02-13",
       "time": "19:00",
@@ -371,16 +381,6 @@
       "time": "19:00",
       "team1": "ORP JAUCHE B",
       "team2": "ROYAL MOSA AC 1941 B",
-      "category": "MM - DIVISION 4 B",
-      "location": "ORP JAUCHE B",
-      "other": ""
-    },
-    {
-      "code": "408295",
-      "date": "2027-03-20",
-      "time": "19:00",
-      "team1": "ORP JAUCHE B",
-      "team2": "CS OUTREMEUSE",
       "category": "MM - DIVISION 4 B",
       "location": "ORP JAUCHE B",
       "other": ""
@@ -458,7 +458,7 @@
     {
       "code": "409051",
       "date": "2026-10-04",
-      "time": "13:00",
+      "time": "17:00",
       "team1": "ROYALE US AWANS B",
       "team2": "ORP JAUCHE A",
       "category": "MM - DIVISION 4 C",
@@ -718,7 +718,7 @@
     {
       "code": "528155",
       "date": "2026-12-12",
-      "time": "11:00",
+      "time": "13:00",
       "team1": "ORP JAUCHE",
       "team2": "ABC WAREMME B",
       "category": "U 10 - MM I",
@@ -778,7 +778,7 @@
     {
       "code": "528235",
       "date": "2027-02-06",
-      "time": "11:00",
+      "time": "13:00",
       "team1": "ORP JAUCHE",
       "team2": "CRISTAL SGH C",
       "category": "U 10 - MM I",
@@ -787,8 +787,8 @@
     },
     {
       "code": "528241",
-      "date": "2027-02-14",
-      "time": "13:00",
+      "date": "2027-02-13",
+      "time": "15:00",
       "team1": "GIANTS BRAIVES B",
       "team2": "ORP JAUCHE",
       "category": "U 10 - MM I",
@@ -818,7 +818,7 @@
     {
       "code": "528335",
       "date": "2027-04-17",
-      "time": "11:00",
+      "time": "17:00",
       "team1": "ORP JAUCHE",
       "team2": "RBC HANEFFE B",
       "category": "U 10 - MM I",
@@ -876,6 +876,16 @@
       "other": ""
     },
     {
+      "code": "504143",
+      "date": "2026-10-10",
+      "time": "17:00",
+      "team1": "THUNDER CONDROZ",
+      "team2": "ORP JAUCHE",
+      "category": "U 12 - MM E",
+      "location": "THUNDER CONDROZ",
+      "other": ""
+    },
+    {
       "code": "504105",
       "date": "2026-11-07",
       "time": "13:00",
@@ -893,16 +903,6 @@
       "team2": "RBC AWANS",
       "category": "U 12 - MM E",
       "location": "ORP JAUCHE",
-      "other": ""
-    },
-    {
-      "code": "504143",
-      "date": "2026-12-05",
-      "time": "17:00",
-      "team1": "THUNDER CONDROZ",
-      "team2": "ORP JAUCHE",
-      "category": "U 12 - MM E",
-      "location": "THUNDER CONDROZ",
       "other": ""
     },
     {
@@ -948,7 +948,7 @@
     {
       "code": "504241",
       "date": "2027-02-13",
-      "time": "11:30",
+      "time": "9:00",
       "team1": "ROYAL MOSA AC 1941 B",
       "team2": "ORP JAUCHE",
       "category": "U 12 - MM E",
@@ -1328,7 +1328,7 @@
     {
       "code": "591321",
       "date": "2027-04-10",
-      "time": "13:00",
+      "time": "15:00",
       "team1": "RBC AWANS",
       "team2": "ORP JAUCHE",
       "category": "U 16 - DD B",
@@ -1338,7 +1338,7 @@
     {
       "code": "591335",
       "date": "2027-04-17",
-      "time": "17:00",
+      "time": "11:00",
       "team1": "ORP JAUCHE",
       "team2": "UN HUY BASKET",
       "category": "U 16 - DD B",
@@ -1488,7 +1488,7 @@
     {
       "code": "472302",
       "date": "2027-03-28",
-      "time": "17:00",
+      "time": "13:00",
       "team1": "ALL. FLEMALLE B",
       "team2": "ORP JAUCHE",
       "category": "U 16 - PROV MM C",
@@ -1538,7 +1538,7 @@
     {
       "code": "430051",
       "date": "2026-10-04",
-      "time": "15:00",
+      "time": "13:00",
       "team1": "RSW LIEGE BASKET",
       "team2": "ORP JAUCHE",
       "category": "U 18 - ELITES MM A",
@@ -1678,7 +1678,7 @@
     {
       "code": "430283",
       "date": "2027-03-14",
-      "time": "15:00",
+      "time": "15:30",
       "team1": "ATLAS A JUPILLE",
       "team2": "ORP JAUCHE",
       "category": "U 18 - ELITES MM A",
@@ -1848,7 +1848,7 @@
     {
       "code": "545235",
       "date": "2027-02-06",
-      "time": "11:00",
+      "time": "13:00",
       "team1": "ORP JAUCHE",
       "team2": "GIANTS BRAIVES B",
       "category": "U 8 - MM F",
@@ -1898,7 +1898,7 @@
     {
       "code": "545335",
       "date": "2027-04-17",
-      "time": "11:00",
+      "time": "17:00",
       "team1": "ORP JAUCHE",
       "team2": "CONDROZ MODAVE BB",
       "category": "U 8 - MM F",

@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "411013",
-      "date": "2026-09-05",
-      "time": "19:30",
-      "team1": "THUNDER CONDROZ",
-      "team2": "R 4A AYWAILLE-HAMOIR C",
-      "category": "MM - DIVISION 4 E",
-      "location": "THUNDER CONDROZ",
-      "other": ""
-    },
-    {
       "code": "411023",
       "date": "2026-09-12",
       "time": "19:30",
@@ -66,6 +56,16 @@
       "other": ""
     },
     {
+      "code": "411013",
+      "date": "2026-10-31",
+      "time": "19:30",
+      "team1": "THUNDER CONDROZ",
+      "team2": "R 4A AYWAILLE-HAMOIR C",
+      "category": "MM - DIVISION 4 E",
+      "location": "THUNDER CONDROZ",
+      "other": ""
+    },
+    {
       "code": "411113",
       "date": "2026-11-14",
       "time": "19:30",
@@ -86,6 +86,16 @@
       "other": ""
     },
     {
+      "code": "411166",
+      "date": "2026-11-28",
+      "time": "17:00",
+      "team1": "RBC HANEFFE B",
+      "team2": "THUNDER CONDROZ",
+      "category": "MM - DIVISION 4 E",
+      "location": "RBC HANEFFE B",
+      "other": ""
+    },
+    {
       "code": "411143",
       "date": "2026-12-05",
       "time": "19:30",
@@ -103,16 +113,6 @@
       "team2": "RB TILFF D",
       "category": "MM - DIVISION 4 E",
       "location": "THUNDER CONDROZ",
-      "other": ""
-    },
-    {
-      "code": "411166",
-      "date": "2026-12-19",
-      "time": "17:00",
-      "team1": "RBC HANEFFE B",
-      "team2": "THUNDER CONDROZ",
-      "category": "MM - DIVISION 4 E",
-      "location": "RBC HANEFFE B",
       "other": ""
     },
     {
@@ -238,7 +238,7 @@
     {
       "code": "504031",
       "date": "2026-09-19",
-      "time": "9:00",
+      "time": "11:00",
       "team1": "RBC AWANS",
       "team2": "THUNDER CONDROZ",
       "category": "U 12 - MM E",
@@ -251,6 +251,16 @@
       "time": "17:00",
       "team1": "THUNDER CONDROZ",
       "team2": "ALL. FLEMALLE E",
+      "category": "U 12 - MM E",
+      "location": "THUNDER CONDROZ",
+      "other": ""
+    },
+    {
+      "code": "504143",
+      "date": "2026-10-10",
+      "time": "17:00",
+      "team1": "THUNDER CONDROZ",
+      "team2": "ORP JAUCHE",
       "category": "U 12 - MM E",
       "location": "THUNDER CONDROZ",
       "other": ""
@@ -286,11 +296,11 @@
       "other": ""
     },
     {
-      "code": "504143",
-      "date": "2026-12-05",
+      "code": "504193",
+      "date": "2026-11-28",
       "time": "17:00",
       "team1": "THUNDER CONDROZ",
-      "team2": "ORP JAUCHE",
+      "team2": "RBC AWANS",
       "category": "U 12 - MM E",
       "location": "THUNDER CONDROZ",
       "other": ""
@@ -313,16 +323,6 @@
       "team2": "THUNDER CONDROZ",
       "category": "U 12 - MM E",
       "location": "ABC WAREMME C",
-      "other": ""
-    },
-    {
-      "code": "504193",
-      "date": "2027-01-09",
-      "time": "17:00",
-      "team1": "THUNDER CONDROZ",
-      "team2": "RBC AWANS",
-      "category": "U 12 - MM E",
-      "location": "THUNDER CONDROZ",
       "other": ""
     },
     {

@@ -6,23 +6,33 @@
   },
   "events": [
     {
-      "code": "417024",
-      "date": "2026-09-11",
+      "code": "AW205002",
+      "date": "2026-08-16",
+      "time": "13:00",
+      "team1": "OLYMPIC MSM B",
+      "team2": "MAIL. COMBLAIN",
+      "category": "AWBB MM - POULE E",
+      "location": "OLYMPIC MSM B",
+      "other": ""
+    },
+    {
+      "code": "AW205004",
+      "date": "2026-08-22",
       "time": "20:00",
       "team1": "MAIL. COMBLAIN",
-      "team2": "RBC AWANS B",
-      "category": "DD - DIVISION 3 B",
+      "team2": "HANNUT BC",
+      "category": "AWBB MM - POULE E",
       "location": "MAIL. COMBLAIN",
       "other": ""
     },
     {
-      "code": "417035",
-      "date": "2026-09-19",
-      "time": "18:30",
-      "team1": "BCM HERSTAL",
+      "code": "AW205006",
+      "date": "2026-08-29",
+      "time": "21:00",
+      "team1": "PEPINSTER EAST BELG",
       "team2": "MAIL. COMBLAIN",
-      "category": "DD - DIVISION 3 B",
-      "location": "BCM HERSTAL",
+      "category": "AWBB MM - POULE E",
+      "location": "PEPINSTER EAST BELG",
       "other": ""
     },
     {
@@ -43,6 +53,26 @@
       "team2": "MAIL. COMBLAIN",
       "category": "DD - DIVISION 3 B",
       "location": "ABC WAREMME C",
+      "other": ""
+    },
+    {
+      "code": "417035",
+      "date": "2026-10-17",
+      "time": "18:30",
+      "team1": "BCM HERSTAL",
+      "team2": "MAIL. COMBLAIN",
+      "category": "DD - DIVISION 3 B",
+      "location": "BCM HERSTAL",
+      "other": ""
+    },
+    {
+      "code": "417024",
+      "date": "2026-10-23",
+      "time": "20:00",
+      "team1": "MAIL. COMBLAIN",
+      "team2": "RBC AWANS B",
+      "category": "DD - DIVISION 3 B",
+      "location": "MAIL. COMBLAIN",
       "other": ""
     },
     {

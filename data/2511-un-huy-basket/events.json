@@ -6,6 +6,66 @@
   },
   "events": [
     {
+      "code": "AW227001",
+      "date": "2026-08-15",
+      "time": "19:00",
+      "team1": "BC MALONNE",
+      "team2": "UN HUY BASKET A",
+      "category": "AWBB DD - POULE G",
+      "location": "BC MALONNE",
+      "other": ""
+    },
+    {
+      "code": "AW227003",
+      "date": "2026-08-22",
+      "time": "17:00",
+      "team1": "CASTORS BRAINE B",
+      "team2": "UN HUY BASKET A",
+      "category": "AWBB DD - POULE G",
+      "location": "CASTORS BRAINE B",
+      "other": ""
+    },
+    {
+      "code": "AW227006",
+      "date": "2026-08-30",
+      "time": "15:00",
+      "team1": "UN HUY BASKET A",
+      "team2": "REBOND OTTIGNIES B",
+      "category": "AWBB DD - POULE G",
+      "location": "UN HUY BASKET A",
+      "other": ""
+    },
+    {
+      "code": "AW233003",
+      "date": "2026-08-23",
+      "time": "11:00",
+      "team1": "HENRI-CHAPELLE",
+      "team2": "UN HUY BASKET B",
+      "category": "AWBB DD - POULE M",
+      "location": "HENRI-CHAPELLE",
+      "other": ""
+    },
+    {
+      "code": "AW233005",
+      "date": "2026-08-29",
+      "time": "19:00",
+      "team1": "UN HUY BASKET B",
+      "team2": "RBC ESNEUX",
+      "category": "AWBB DD - POULE M",
+      "location": "UN HUY BASKET B",
+      "other": ""
+    },
+    {
+      "code": "202",
+      "date": "2026-08-16",
+      "time": "15:00",
+      "team1": "GANSHOREN DAMES",
+      "team2": "UN HUY BASKET",
+      "category": "CPE BELG DAMES",
+      "location": "GANSHOREN DAMES",
+      "other": ""
+    },
+    {
       "code": "416013",
       "date": "2026-09-06",
       "time": "13:00",
@@ -306,13 +366,13 @@
       "other": ""
     },
     {
-      "code": "AW104041",
-      "date": "2026-12-19",
-      "time": "19:00",
-      "team1": "PRAYON TROOZ A",
-      "team2": "UN HUY BASKET B",
+      "code": "AW104105",
+      "date": "2026-12-20",
+      "time": "13:00",
+      "team1": "UN HUY BASKET B",
+      "team2": "PRAYON TROOZ A",
       "category": "DD - REGIONALE 1",
-      "location": "PRAYON TROOZ A",
+      "location": "UN HUY BASKET B",
       "other": ""
     },
     {
@@ -338,7 +398,7 @@
     {
       "code": "AW104080",
       "date": "2027-01-31",
-      "time": "13:00",
+      "time": "11:00",
       "team1": "PEPINSTER EAST BELG A",
       "team2": "UN HUY BASKET B",
       "category": "DD - REGIONALE 1",
@@ -416,13 +476,13 @@
       "other": ""
     },
     {
-      "code": "AW104105",
+      "code": "AW104041",
       "date": "2027-04-24",
       "time": "19:00",
-      "team1": "UN HUY BASKET B",
-      "team2": "PRAYON TROOZ A",
+      "team1": "PRAYON TROOZ A",
+      "team2": "UN HUY BASKET B",
       "category": "DD - REGIONALE 1",
-      "location": "UN HUY BASKET B",
+      "location": "PRAYON TROOZ A",
       "other": ""
     },
     {
@@ -526,16 +586,6 @@
       "other": ""
     },
     {
-      "code": "408166",
-      "date": "2026-12-19",
-      "time": "21:00",
-      "team1": "RBC DISON-ANDRIMONT C",
-      "team2": "UN HUY BASKET",
-      "category": "MM - DIVISION 4 B",
-      "location": "RBC DISON-ANDRIMONT C",
-      "other": ""
-    },
-    {
       "code": "408193",
       "date": "2027-01-09",
       "time": "21:00",
@@ -563,6 +613,16 @@
       "team2": "UN HUY BASKET",
       "category": "MM - DIVISION 4 B",
       "location": "HARIMALIA BC D",
+      "other": ""
+    },
+    {
+      "code": "408166",
+      "date": "2027-02-06",
+      "time": "21:00",
+      "team1": "RBC DISON-ANDRIMONT C",
+      "team2": "UN HUY BASKET",
+      "category": "MM - DIVISION 4 B",
+      "location": "RBC DISON-ANDRIMONT C",
       "other": ""
     },
     {
@@ -747,8 +807,8 @@
     },
     {
       "code": "AW103044",
-      "date": "2026-12-19",
-      "time": "19:00",
+      "date": "2026-12-20",
+      "time": "13:00",
       "team1": "RCS NATOYE",
       "team2": "UN HUY BASKET",
       "category": "TOP DIVISION WOMEN R",
@@ -1588,7 +1648,7 @@
     {
       "code": "504191",
       "date": "2027-01-09",
-      "time": "11:30",
+      "time": "9:00",
       "team1": "ROYAL MOSA AC 1941 B",
       "team2": "UN HUY BASKET B",
       "category": "U 12 - MM E",
@@ -1798,7 +1858,7 @@
     {
       "code": "507246",
       "date": "2027-02-13",
-      "time": "13:00",
+      "time": "15:00",
       "team1": "GIANTS BRAIVES C",
       "team2": "UN HUY BASKET C",
       "category": "U 12 - MM H",
@@ -2188,7 +2248,7 @@
     {
       "code": "591335",
       "date": "2027-04-17",
-      "time": "17:00",
+      "time": "11:00",
       "team1": "ORP JAUCHE",
       "team2": "UN HUY BASKET",
       "category": "U 16 - DD B",
@@ -2858,7 +2918,7 @@
     {
       "code": "544206",
       "date": "2027-01-17",
-      "time": "11:00",
+      "time": "13:00",
       "team1": "GIANTS BRAIVES A",
       "team2": "UN HUY BASKET",
       "category": "U 8 - MM E",

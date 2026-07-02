@@ -6,6 +6,56 @@
   },
   "events": [
     {
+      "code": "AW211001",
+      "date": "2026-08-16",
+      "time": "15:00",
+      "team1": "CRISTAL SGH",
+      "team2": "ROYAL BC NINANE",
+      "category": "AWBB MM - POULE K",
+      "location": "CRISTAL SGH",
+      "other": ""
+    },
+    {
+      "code": "AW211003",
+      "date": "2026-08-22",
+      "time": "20:30",
+      "team1": "REBOND OTTIGNIES",
+      "team2": "ROYAL BC NINANE",
+      "category": "AWBB MM - POULE K",
+      "location": "REBOND OTTIGNIES",
+      "other": ""
+    },
+    {
+      "code": "AW211006",
+      "date": "2026-08-29",
+      "time": "21:00",
+      "team1": "ROYAL BC NINANE",
+      "team2": "BC MONTAGNARD",
+      "category": "AWBB MM - POULE K",
+      "location": "ROYAL BC NINANE",
+      "other": ""
+    },
+    {
+      "code": "AWBNAHSEPGBC",
+      "date": "2026-08-23",
+      "time": "17:15",
+      "team1": "GENT OOST EAGLES",
+      "team2": "ROYAL BC NINANE",
+      "category": "BELGIQUE MM - POULE G",
+      "location": "GENT OOST EAGLES",
+      "other": ""
+    },
+    {
+      "code": "AWBNAHSEPGCB",
+      "date": "2026-08-29",
+      "time": "19:00",
+      "team1": "ROYAL BC NINANE",
+      "team2": "GENT OOST EAGLES",
+      "category": "BELGIQUE MM - POULE G",
+      "location": "ROYAL BC NINANE",
+      "other": ""
+    },
+    {
       "code": "415012",
       "date": "2026-09-06",
       "time": "16:00",
@@ -636,16 +686,6 @@
       "other": ""
     },
     {
-      "code": "406272",
-      "date": "2027-03-06",
-      "time": "19:00",
-      "team1": "ROYAL BC NINANE C",
-      "team2": "CRISTAL SGH B",
-      "category": "MM - DIVISION 3 C",
-      "location": "ROYAL BC NINANE C",
-      "other": ""
-    },
-    {
       "code": "406287",
       "date": "2027-03-12",
       "time": "21:00",
@@ -676,9 +716,19 @@
       "other": ""
     },
     {
+      "code": "406272",
+      "date": "2027-04-04",
+      "time": "14:00",
+      "team1": "ROYAL BC NINANE C",
+      "team2": "CRISTAL SGH B",
+      "category": "MM - DIVISION 3 C",
+      "location": "ROYAL BC NINANE C",
+      "other": ""
+    },
+    {
       "code": "406322",
-      "date": "2027-04-10",
-      "time": "19:00",
+      "date": "2027-04-11",
+      "time": "15:00",
       "team1": "RBC WELKENRAEDT A",
       "team2": "ROYAL BC NINANE C",
       "category": "MM - DIVISION 3 C",
@@ -1117,8 +1167,8 @@
     },
     {
       "code": "412322",
-      "date": "2027-04-10",
-      "time": "21:00",
+      "date": "2027-04-11",
+      "time": "17:00",
       "team1": "RBC WELKENRAEDT B",
       "team2": "ROYAL BC NINANE D",
       "category": "MM - DIVISION 4 F",
@@ -1178,7 +1228,7 @@
     {
       "code": "AW102033",
       "date": "2026-10-10",
-      "time": "21:00",
+      "time": "19:00",
       "team1": "RB TILFF A",
       "team2": "ROYAL BC NINANE A",
       "category": "MM - REGIONALE 2 B",
@@ -1677,8 +1727,8 @@
     },
     {
       "code": "520055",
-      "date": "2026-10-03",
-      "time": "09:00",
+      "date": "2026-10-04",
+      "time": "10:00",
       "team1": "ROYAL BC NINANE A",
       "team2": "RBC STAVELOT",
       "category": "U 10 - MM A",
@@ -1687,8 +1737,8 @@
     },
     {
       "code": "520062",
-      "date": "2026-10-10",
-      "time": "09:00",
+      "date": "2026-10-18",
+      "time": "11:00",
       "team1": "RBC VISE A",
       "team2": "ROYAL BC NINANE A",
       "category": "U 10 - MM A",
@@ -1827,8 +1877,8 @@
     },
     {
       "code": "520305",
-      "date": "2027-03-27",
-      "time": "09:00",
+      "date": "2027-03-28",
+      "time": "10:00",
       "team1": "ROYAL BC NINANE A",
       "team2": "RBC VISE A",
       "category": "U 10 - MM A",
@@ -2067,8 +2117,8 @@
     },
     {
       "code": "501062",
-      "date": "2026-10-10",
-      "time": "12:00",
+      "date": "2026-10-11",
+      "time": "11:00",
       "team1": "ROYAL BC NINANE",
       "team2": "BCM HERSTAL",
       "category": "U 12 - MM B",
@@ -2547,7 +2597,7 @@
     },
     {
       "code": "431165",
-      "date": "2026-12-20",
+      "date": "2026-12-19",
       "time": "11:30",
       "team1": "ROYAL MOSA AC 1941",
       "team2": "ROYAL BC NINANE",
@@ -2728,7 +2778,7 @@
     {
       "code": "580056",
       "date": "2026-10-03",
-      "time": "15:00",
+      "time": "09:00",
       "team1": "RBC AWANS A",
       "team2": "ROYAL BC NINANE B",
       "category": "U 19 - DD",
@@ -2748,7 +2798,7 @@
     {
       "code": "580062",
       "date": "2026-10-11",
-      "time": "10:00",
+      "time": "12:00",
       "team1": "ROYAL BC NINANE A",
       "team2": "RBC ESNEUX",
       "category": "U 19 - DD",
@@ -2968,7 +3018,7 @@
     {
       "code": "580191",
       "date": "2027-01-09",
-      "time": "09:00",
+      "time": "11:00",
       "team1": "RBC AWANS B",
       "team2": "ROYAL BC NINANE B",
       "category": "U 19 - DD",
@@ -3207,8 +3257,8 @@
     },
     {
       "code": "580323",
-      "date": "2027-04-10",
-      "time": "15:00",
+      "date": "2027-04-11",
+      "time": "11:00",
       "team1": "RBC WELKENRAEDT",
       "team2": "ROYAL BC NINANE A",
       "category": "U 19 - DD",
@@ -3218,7 +3268,7 @@
     {
       "code": "580324",
       "date": "2027-04-11",
-      "time": "11:00",
+      "time": "13:00",
       "team1": "ROYAL BC WANZE",
       "team2": "ROYAL BC NINANE B",
       "category": "U 19 - DD",
@@ -3407,8 +3457,8 @@
     },
     {
       "code": "420166",
-      "date": "2026-12-19",
-      "time": "15:00",
+      "date": "2026-12-18",
+      "time": "19:30",
       "team1": "RBC DISON-ANDRIMONT",
       "team2": "ROYAL BC NINANE",
       "category": "U 21 - MM",
@@ -3438,7 +3488,7 @@
     {
       "code": "420212",
       "date": "2027-01-24",
-      "time": "12:00",
+      "time": "14:00",
       "team1": "ROYAL BC NINANE",
       "team2": "RBC ESNEUX",
       "category": "U 21 - MM",
@@ -3748,7 +3798,7 @@
     {
       "code": "553011",
       "date": "2026-09-05",
-      "time": "09:00",
+      "time": "11:00",
       "team1": "RSW LIEGE BASKET",
       "team2": "ROYAL BC NINANE B",
       "category": "U 7 - MM D",
@@ -3808,7 +3858,7 @@
     {
       "code": "553111",
       "date": "2026-11-14",
-      "time": "15:00",
+      "time": "13:30",
       "team1": "CONDROZ MODAVE BB",
       "team2": "ROYAL BC NINANE B",
       "category": "U 7 - MM D",

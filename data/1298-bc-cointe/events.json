@@ -6,6 +6,66 @@
   },
   "events": [
     {
+      "code": "AW222002",
+      "date": "2026-08-15",
+      "time": "18:00",
+      "team1": "CENTRE GAUME TINTIGNY",
+      "team2": "BC COINTE",
+      "category": "AWBB DD - POULE B",
+      "location": "CENTRE GAUME TINTIGNY",
+      "other": ""
+    },
+    {
+      "code": "AW222004",
+      "date": "2026-08-22",
+      "time": "17:00",
+      "team1": "BC COINTE",
+      "team2": "GANSHOREN DAMES B",
+      "category": "AWBB DD - POULE B",
+      "location": "BC COINTE",
+      "other": ""
+    },
+    {
+      "code": "AW222006",
+      "date": "2026-08-29",
+      "time": "18:00",
+      "team1": "ROYAL BC CINEY A",
+      "team2": "BC COINTE",
+      "category": "AWBB DD - POULE B",
+      "location": "ROYAL BC CINEY A",
+      "other": ""
+    },
+    {
+      "code": "AW202002",
+      "date": "2026-08-15",
+      "time": "19:00",
+      "team1": "BC COINTE",
+      "team2": "ROYAL GALLIA BEEZ A",
+      "category": "AWBB MM - POULE B",
+      "location": "BC COINTE",
+      "other": ""
+    },
+    {
+      "code": "AW202003",
+      "date": "2026-08-22",
+      "time": "19:00",
+      "team1": "BC COINTE",
+      "team2": "BC SPRIMONT",
+      "category": "AWBB MM - POULE B",
+      "location": "BC COINTE",
+      "other": ""
+    },
+    {
+      "code": "AW202005",
+      "date": "2026-08-29",
+      "time": "20:00",
+      "team1": "R ECLAIR PONT-DE-LOUP",
+      "team2": "BC COINTE",
+      "category": "AWBB MM - POULE B",
+      "location": "R ECLAIR PONT-DE-LOUP",
+      "other": ""
+    },
+    {
       "code": "AW104001",
       "date": "2026-09-04",
       "time": "20:00",
@@ -37,8 +97,8 @@
     },
     {
       "code": "AW104022",
-      "date": "2026-10-03",
-      "time": "20:30",
+      "date": "2026-10-04",
+      "time": "17:30",
       "team1": "RE PONT-DE-LOUP",
       "team2": "BC COINTE A",
       "category": "DD - REGIONALE 1",
@@ -98,7 +158,7 @@
     {
       "code": "AW104032",
       "date": "2026-12-13",
-      "time": "13:00",
+      "time": "11:00",
       "team1": "PEPINSTER EAST BELG A",
       "team2": "BC COINTE A",
       "category": "DD - REGIONALE 1",
@@ -186,6 +246,16 @@
       "other": ""
     },
     {
+      "code": "AW104108",
+      "date": "2027-03-27",
+      "time": "17:00",
+      "team1": "ROYAL HERVE-BATTICE A",
+      "team2": "BC COINTE A",
+      "category": "DD - REGIONALE 1",
+      "location": "ROYAL HERVE-BATTICE A",
+      "other": ""
+    },
+    {
       "code": "AW104095",
       "date": "2027-04-03",
       "time": "18:00",
@@ -213,16 +283,6 @@
       "team2": "RCS NATOYE",
       "category": "DD - REGIONALE 1",
       "location": "BC COINTE A",
-      "other": ""
-    },
-    {
-      "code": "AW104108",
-      "date": "2027-04-24",
-      "time": "17:00",
-      "team1": "ROYAL HERVE-BATTICE A",
-      "team2": "BC COINTE A",
-      "category": "DD - REGIONALE 1",
-      "location": "ROYAL HERVE-BATTICE A",
       "other": ""
     },
     {
@@ -387,8 +447,8 @@
     },
     {
       "code": "401223",
-      "date": "2027-01-31",
-      "time": "13:00",
+      "date": "2027-01-30",
+      "time": "19:00",
       "team1": "THEUX BC A",
       "team2": "BC COINTE A",
       "category": "MM - DIVISION 1",
@@ -1288,7 +1348,7 @@
     {
       "code": "525223",
       "date": "2027-01-31",
-      "time": "12:00",
+      "time": "11:00",
       "team1": "RBC VISE B",
       "team2": "BC COINTE B",
       "category": "U 10 - MM F",
@@ -2036,16 +2096,6 @@
       "other": ""
     },
     {
-      "code": "601166",
-      "date": "2026-12-19",
-      "time": "11:00",
-      "team1": "RBC DISON-ANDRIMONT",
-      "team2": "BC COINTE",
-      "category": "U 14 - DD B",
-      "location": "RBC DISON-ANDRIMONT",
-      "other": ""
-    },
-    {
       "code": "601192",
       "date": "2027-01-09",
       "time": "13:30",
@@ -2103,6 +2153,16 @@
       "team2": "PRAYON TROOZ",
       "category": "U 14 - DD B",
       "location": "BC COINTE",
+      "other": ""
+    },
+    {
+      "code": "601166",
+      "date": "2027-04-04",
+      "time": "13:00",
+      "team1": "RBC DISON-ANDRIMONT",
+      "team2": "BC COINTE",
+      "category": "U 14 - DD B",
+      "location": "RBC DISON-ANDRIMONT",
       "other": ""
     },
     {
@@ -2209,10 +2269,10 @@
       "code": "481152",
       "date": "2026-12-12",
       "time": "9:00",
-      "team1": "RB TILFF B",
+      "team1": "RB TILFF A",
       "team2": "BC COINTE A",
       "category": "U 14 - ELITES MM B",
-      "location": "RB TILFF B",
+      "location": "RB TILFF A",
       "other": ""
     },
     {
@@ -2250,7 +2310,7 @@
       "date": "2027-01-23",
       "time": "13:00",
       "team1": "BC COINTE A",
-      "team2": "RB TILFF B",
+      "team2": "RB TILFF A",
       "category": "U 14 - ELITES MM B",
       "location": "BC COINTE A",
       "other": ""
@@ -2287,7 +2347,7 @@
     },
     {
       "code": "481286",
-      "date": "2027-03-13",
+      "date": "2027-03-14",
       "time": "11:00",
       "team1": "GIANTS BRAIVES A",
       "team2": "BC COINTE A",
@@ -2428,7 +2488,7 @@
     {
       "code": "491201",
       "date": "2027-01-16",
-      "time": "17:00",
+      "time": "15:00",
       "team1": "ROYAL HERVE-BATTICE",
       "team2": "BC COINTE B",
       "category": "U 14 - PROV MM B",
@@ -2458,7 +2518,7 @@
     {
       "code": "491244",
       "date": "2027-02-13",
-      "time": "9:00",
+      "time": "15:00",
       "team1": "RBC VISE B",
       "team2": "BC COINTE B",
       "category": "U 14 - PROV MM B",
@@ -3508,7 +3568,7 @@
     {
       "code": "544286",
       "date": "2027-03-14",
-      "time": "11:00",
+      "time": "13:00",
       "team1": "GIANTS BRAIVES A",
       "team2": "BC COINTE A",
       "category": "U 8 - MM E",

@@ -6,6 +6,36 @@
   },
   "events": [
     {
+      "code": "AW228002",
+      "date": "2026-08-15",
+      "time": "19:00",
+      "team1": "BC BELLEFLAMME",
+      "team2": "RBC ALLEUR B",
+      "category": "AWBB DD - POULE H",
+      "location": "BC BELLEFLAMME",
+      "other": ""
+    },
+    {
+      "code": "AW228003",
+      "date": "2026-08-22",
+      "time": "19:00",
+      "team1": "BC BELLEFLAMME",
+      "team2": "BC BONINNE A",
+      "category": "AWBB DD - POULE H",
+      "location": "BC BELLEFLAMME",
+      "other": ""
+    },
+    {
+      "code": "AW228005",
+      "date": "2026-08-29",
+      "time": "17:00",
+      "team1": "PROFONDEVILLE SHARKS",
+      "team2": "BC BELLEFLAMME",
+      "category": "AWBB DD - POULE H",
+      "location": "PROFONDEVILLE SHARKS",
+      "other": ""
+    },
+    {
       "code": "413011",
       "date": "2026-09-06",
       "time": "11:00",
@@ -1836,16 +1866,6 @@
       "other": ""
     },
     {
-      "code": "AW100095",
-      "date": "2026-12-12",
-      "time": "20:00",
-      "team1": "BB GEMBLOUX",
-      "team2": "BC BELLEFLAMME A",
-      "category": "MM - REGIONALE 1",
-      "location": "BB GEMBLOUX",
-      "other": ""
-    },
-    {
       "code": "AW100098",
       "date": "2026-12-19",
       "time": "21:00",
@@ -1963,6 +1983,16 @@
       "team2": "BC BELLEFLAMME A",
       "category": "MM - REGIONALE 1",
       "location": "ASTE KAIN",
+      "other": ""
+    },
+    {
+      "code": "AW100095",
+      "date": "2027-04-03",
+      "time": "20:00",
+      "team1": "BB GEMBLOUX",
+      "team2": "BC BELLEFLAMME A",
+      "category": "MM - REGIONALE 1",
+      "location": "BB GEMBLOUX",
       "other": ""
     },
     {
@@ -2587,8 +2617,8 @@
     },
     {
       "code": "500272",
-      "date": "2027-03-06",
-      "time": "15:00",
+      "date": "2027-03-07",
+      "time": "11:00",
       "team1": "ROYAL HERVE-BATTICE B",
       "team2": "BC BELLEFLAMME",
       "category": "U 12 - MM A",
@@ -3187,8 +3217,8 @@
     },
     {
       "code": "480196",
-      "date": "2027-01-09",
-      "time": "09:00",
+      "date": "2027-01-10",
+      "time": "11:00",
       "team1": "GIANTS BRAIVES B",
       "team2": "BC BELLEFLAMME",
       "category": "U 14 - ELITES MM A",
@@ -3607,8 +3637,8 @@
     },
     {
       "code": "AW149005",
-      "date": "2026-09-20",
-      "time": "11:00",
+      "date": "2026-09-19",
+      "time": "14:45",
       "team1": "ECOLE EUROPEENNE",
       "team2": "BC BELLEFLAMME",
       "category": "U 16 - BRONZE REGIONALES B",
@@ -3737,8 +3767,8 @@
     },
     {
       "code": "AW144021",
-      "date": "2026-11-07",
-      "time": "14:00",
+      "date": "2026-11-08",
+      "time": "15:00",
       "team1": "MONS CAPITALE",
       "team2": "BC BELLEFLAMME",
       "category": "U 16 - GOLD REGIONALES A",
@@ -3816,16 +3846,6 @@
       "other": ""
     },
     {
-      "code": "AW126010",
-      "date": "2026-10-03",
-      "time": "13:00",
-      "team1": "DPK CARNIERES",
-      "team2": "BC BELLEFLAMME",
-      "category": "U 16 - SILVER REGIONAUX D",
-      "location": "DPK CARNIERES",
-      "other": ""
-    },
-    {
       "code": "AW126014",
       "date": "2026-10-11",
       "time": "15:00",
@@ -3833,6 +3853,16 @@
       "team2": "R EXC BRUXELLES",
       "category": "U 16 - SILVER REGIONAUX D",
       "location": "BC BELLEFLAMME",
+      "other": ""
+    },
+    {
+      "code": "AW126010",
+      "date": "2026-10-18",
+      "time": "10:00",
+      "team1": "DPK CARNIERES",
+      "team2": "BC BELLEFLAMME",
+      "category": "U 16 - SILVER REGIONAUX D",
+      "location": "DPK CARNIERES",
       "other": ""
     },
     {
@@ -4267,8 +4297,8 @@
     },
     {
       "code": "431245",
-      "date": "2027-02-14",
-      "time": "11:30",
+      "date": "2027-02-13",
+      "time": "11:00",
       "team1": "ROYAL MOSA AC 1941",
       "team2": "BC BELLEFLAMME A",
       "category": "U 18 - ELITES MM B",

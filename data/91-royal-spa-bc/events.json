@@ -6,6 +6,56 @@
   },
   "events": [
     {
+      "code": "AW234001",
+      "date": "2026-08-15",
+      "time": "17:00",
+      "team1": "ROYAL SPA BC",
+      "team2": "REBC TEMPLEUVE",
+      "category": "AWBB DD - POULE N",
+      "location": "ROYAL SPA BC",
+      "other": ""
+    },
+    {
+      "code": "AW234005",
+      "date": "2026-08-29",
+      "time": "18:00",
+      "team1": "RBC ALLEUR A",
+      "team2": "ROYAL SPA BC",
+      "category": "AWBB DD - POULE N",
+      "location": "RBC ALLEUR A",
+      "other": ""
+    },
+    {
+      "code": "AW203001",
+      "date": "2026-08-14",
+      "time": "21:00",
+      "team1": "ETOILE JUPILLE",
+      "team2": "ROYAL SPA BC",
+      "category": "AWBB MM - POULE C",
+      "location": "ETOILE JUPILLE",
+      "other": ""
+    },
+    {
+      "code": "AW203003",
+      "date": "2026-08-22",
+      "time": "19:00",
+      "team1": "ALL. FLEMALLE",
+      "team2": "ROYAL SPA BC",
+      "category": "AWBB MM - POULE C",
+      "location": "ALL. FLEMALLE",
+      "other": ""
+    },
+    {
+      "code": "AW203006",
+      "date": "2026-08-29",
+      "time": "19:00",
+      "team1": "ROYAL SPA BC",
+      "team2": "BC SAINT-HUBERT A",
+      "category": "AWBB MM - POULE C",
+      "location": "ROYAL SPA BC",
+      "other": ""
+    },
+    {
       "code": "418011",
       "date": "2026-09-06",
       "time": "10:00",
@@ -997,8 +1047,8 @@
     },
     {
       "code": "407126",
-      "date": "2026-11-21",
-      "time": "20:00",
+      "date": "2026-11-22",
+      "time": "16:00",
       "team1": "BBC EUPEN B",
       "team2": "ROYAL SPA BC D",
       "category": "MM - DIVISION 4 A",
@@ -1188,7 +1238,7 @@
     {
       "code": "412066",
       "date": "2026-10-10",
-      "time": "18:00",
+      "time": "19:00",
       "team1": "R HT-PRE OUGREE B",
       "team2": "ROYAL SPA BC E",
       "category": "MM - DIVISION 4 F",
@@ -2698,7 +2748,7 @@
     {
       "code": "590336",
       "date": "2027-04-17",
-      "time": "11:30",
+      "time": "13:00",
       "team1": "ALL. FLEMALLE C",
       "team2": "ROYAL SPA BC",
       "category": "U 16 - DD A",
@@ -3118,7 +3168,7 @@
     {
       "code": "440061",
       "date": "2026-10-11",
-      "time": "13:00",
+      "time": "11:00",
       "team1": "RBC STAVELOT",
       "team2": "ROYAL SPA BC",
       "category": "U 18 - PROV MM A",
@@ -3586,6 +3636,16 @@
       "other": ""
     },
     {
+      "code": "420337",
+      "date": "2027-02-27",
+      "time": "13:00",
+      "team1": "R 4A AYWAILLE-HAMOIR",
+      "team2": "ROYAL SPA BC",
+      "category": "U 21 - MM",
+      "location": "R 4A AYWAILLE-HAMOIR",
+      "other": ""
+    },
+    {
       "code": "420275",
       "date": "2027-03-06",
       "time": "15:00",
@@ -3643,16 +3703,6 @@
       "team2": "MAIL. COMBLAIN",
       "category": "U 21 - MM",
       "location": "ROYAL SPA BC",
-      "other": ""
-    },
-    {
-      "code": "420337",
-      "date": "2027-04-17",
-      "time": "15:00",
-      "team1": "R 4A AYWAILLE-HAMOIR",
-      "team2": "ROYAL SPA BC",
-      "category": "U 21 - MM",
-      "location": "R 4A AYWAILLE-HAMOIR",
       "other": ""
     },
     {

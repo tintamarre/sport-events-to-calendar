@@ -918,7 +918,7 @@
     {
       "code": "405295",
       "date": "2027-03-19",
-      "time": "20:00",
+      "time": "21:00",
       "team1": "RBC BLEGNY B",
       "team2": "LA VILLERSOISE B",
       "category": "MM - DIVISION 3 B",
@@ -1808,11 +1808,11 @@
     {
       "code": "500013",
       "date": "2026-09-05",
-      "time": "9:00",
-      "team1": "LA VILLERSOISE A",
-      "team2": "CONDROZ MODAVE BB",
+      "time": "9:30",
+      "team1": "CONDROZ MODAVE BB",
+      "team2": "LA VILLERSOISE A",
       "category": "U 12 - MM A",
-      "location": "LA VILLERSOISE A",
+      "location": "CONDROZ MODAVE BB",
       "other": ""
     },
     {
@@ -1938,11 +1938,11 @@
     {
       "code": "500207",
       "date": "2027-01-16",
-      "time": "9:30",
-      "team1": "CONDROZ MODAVE BB",
-      "team2": "LA VILLERSOISE A",
+      "time": "12:30",
+      "team1": "LA VILLERSOISE A",
+      "team2": "CONDROZ MODAVE BB",
       "category": "U 12 - MM A",
-      "location": "CONDROZ MODAVE BB",
+      "location": "LA VILLERSOISE A",
       "other": ""
     },
     {
@@ -1977,8 +1977,8 @@
     },
     {
       "code": "500252",
-      "date": "2027-02-20",
-      "time": "15:00",
+      "date": "2027-02-21",
+      "time": "13:00",
       "team1": "ROYAL HERVE-BATTICE B",
       "team2": "LA VILLERSOISE A",
       "category": "U 12 - MM A",
@@ -2988,7 +2988,7 @@
     {
       "code": "472322",
       "date": "2027-04-11",
-      "time": "17:00",
+      "time": "13:00",
       "team1": "ALL. FLEMALLE B",
       "team2": "LA VILLERSOISE",
       "category": "U 16 - PROV MM C",
@@ -3138,7 +3138,7 @@
     {
       "code": "AW125012",
       "date": "2026-10-03",
-      "time": "11:00",
+      "time": "9:00",
       "team1": "JS ENTITE ENGHIEN",
       "team2": "LA VILLERSOISE",
       "category": "U 16 - SILVER REGIONAUX C",
@@ -3178,7 +3178,7 @@
     {
       "code": "AW125026",
       "date": "2026-11-21",
-      "time": "11:00",
+      "time": "13:00",
       "team1": "R.B.C. BELGRADE",
       "team2": "LA VILLERSOISE",
       "category": "U 16 - SILVER REGIONAUX C",
@@ -3407,7 +3407,7 @@
     },
     {
       "code": "AW118006",
-      "date": "2026-09-20",
+      "date": "2026-09-19",
       "time": "10:00",
       "team1": "R LINTHOUT BC",
       "team2": "LA VILLERSOISE",
@@ -3956,6 +3956,16 @@
       "other": ""
     },
     {
+      "code": "553153",
+      "date": "2026-11-28",
+      "time": "11:00",
+      "team1": "RBC HANEFFE",
+      "team2": "LA VILLERSOISE",
+      "category": "U 7 - MM D",
+      "location": "RBC HANEFFE",
+      "other": ""
+    },
+    {
       "code": "553145",
       "date": "2026-12-05",
       "time": "13:30",
@@ -3963,16 +3973,6 @@
       "team2": "LA VILLERSOISE",
       "category": "U 7 - MM D",
       "location": "RBC ESNEUX",
-      "other": ""
-    },
-    {
-      "code": "553153",
-      "date": "2026-12-12",
-      "time": "11:00",
-      "team1": "RBC HANEFFE",
-      "team2": "LA VILLERSOISE",
-      "category": "U 7 - MM D",
-      "location": "RBC HANEFFE",
       "other": ""
     },
     {
@@ -4258,7 +4258,7 @@
     {
       "code": "544336",
       "date": "2027-04-18",
-      "time": "11:00",
+      "time": "13:00",
       "team1": "GIANTS BRAIVES A",
       "team2": "LA VILLERSOISE A",
       "category": "U 8 - MM E",

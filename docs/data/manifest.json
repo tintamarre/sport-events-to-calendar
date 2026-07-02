@@ -1,11 +1,13 @@
 {
-  "lastUpdated": "2026-06-25T22:35:59.037Z",
+  "lastUpdated": "2026-07-02T22:27:23.956Z",
   "clubs": [
     {
       "id": "709",
       "name": "Abc Waremme",
       "slug": "709-abc-waremme",
       "categories": [
+        "AWBB DD - POULE O",
+        "AWBB MM - POULE P",
         "CPE PROV CADETTES",
         "CPE PROV MINIMES MM",
         "DD - DIVISION 1",
@@ -56,6 +58,8 @@
       "jsonPath": "/data/709-abc-waremme/events.json",
       "csvPath": "/data/709-abc-waremme/709-abc-waremme.csv",
       "icsFiles": {
+        "AWBB DD - POULE O": "/data/709-abc-waremme/awbb-dd-poule-o.ics",
+        "AWBB MM - POULE P": "/data/709-abc-waremme/awbb-mm-poule-p.ics",
         "CPE PROV CADETTES": "/data/709-abc-waremme/cpe-prov-cadettes.ics",
         "CPE PROV MINIMES MM": "/data/709-abc-waremme/cpe-prov-minimes-mm.ics",
         "DD - DIVISION 1": "/data/709-abc-waremme/dd-division-1.ics",
@@ -109,6 +113,7 @@
       "name": "All Flemalle",
       "slug": "1555-all-flemalle",
       "categories": [
+        "AWBB MM - POULE C",
         "CPE PROV MESSIEURS",
         "CPE PROV MINIMES DD",
         "CPE PROV PUPILLES DD",
@@ -169,6 +174,7 @@
       "jsonPath": "/data/1555-all-flemalle/events.json",
       "csvPath": "/data/1555-all-flemalle/1555-all-flemalle.csv",
       "icsFiles": {
+        "AWBB MM - POULE C": "/data/1555-all-flemalle/awbb-mm-poule-c.ics",
         "CPE PROV MESSIEURS": "/data/1555-all-flemalle/cpe-prov-messieurs.ics",
         "CPE PROV MINIMES DD": "/data/1555-all-flemalle/cpe-prov-minimes-dd.ics",
         "CPE PROV PUPILLES DD": "/data/1555-all-flemalle/cpe-prov-pupilles-dd.ics",
@@ -232,6 +238,8 @@
       "name": "Atlas A Jupille",
       "slug": "57-atlas-a-jupille",
       "categories": [
+        "AWBB DD - POULE E",
+        "AWBB MM - POULE J",
         "COUPE AWBB U18 - GARCONS",
         "CPE PROV DAMES",
         "DD - DIVISION 1",
@@ -270,6 +278,8 @@
       "jsonPath": "/data/57-atlas-a-jupille/events.json",
       "csvPath": "/data/57-atlas-a-jupille/57-atlas-a-jupille.csv",
       "icsFiles": {
+        "AWBB DD - POULE E": "/data/57-atlas-a-jupille/awbb-dd-poule-e.ics",
+        "AWBB MM - POULE J": "/data/57-atlas-a-jupille/awbb-mm-poule-j.ics",
         "COUPE AWBB U18 - GARCONS": "/data/57-atlas-a-jupille/coupe-awbb-u18-garcons.ics",
         "CPE PROV DAMES": "/data/57-atlas-a-jupille/cpe-prov-dames.ics",
         "DD - DIVISION 1": "/data/57-atlas-a-jupille/dd-division-1.ics",
@@ -375,6 +385,7 @@
       "name": "Bc Belleflamme",
       "slug": "1058-bc-belleflamme",
       "categories": [
+        "AWBB DD - POULE H",
         "COUPE AWBB U12 -GARCONS",
         "DD - DIVISION 1",
         "DD - REGIONALE 2 A",
@@ -423,6 +434,7 @@
       "jsonPath": "/data/1058-bc-belleflamme/events.json",
       "csvPath": "/data/1058-bc-belleflamme/1058-bc-belleflamme.csv",
       "icsFiles": {
+        "AWBB DD - POULE H": "/data/1058-bc-belleflamme/awbb-dd-poule-h.ics",
         "COUPE AWBB U12 -GARCONS": "/data/1058-bc-belleflamme/coupe-awbb-u12-garcons.ics",
         "DD - DIVISION 1": "/data/1058-bc-belleflamme/dd-division-1.ics",
         "DD - REGIONALE 2 A": "/data/1058-bc-belleflamme/dd-regionale-2-a.ics",
@@ -474,6 +486,8 @@
       "name": "Bc Cointe",
       "slug": "1298-bc-cointe",
       "categories": [
+        "AWBB DD - POULE B",
+        "AWBB MM - POULE B",
         "DD - REGIONALE 1",
         "DD - REGIONALE 2 B",
         "MM - DIVISION 1",
@@ -512,6 +526,8 @@
       "jsonPath": "/data/1298-bc-cointe/events.json",
       "csvPath": "/data/1298-bc-cointe/1298-bc-cointe.csv",
       "icsFiles": {
+        "AWBB DD - POULE B": "/data/1298-bc-cointe/awbb-dd-poule-b.ics",
+        "AWBB MM - POULE B": "/data/1298-bc-cointe/awbb-mm-poule-b.ics",
         "DD - REGIONALE 1": "/data/1298-bc-cointe/dd-regionale-1.ics",
         "DD - REGIONALE 2 B": "/data/1298-bc-cointe/dd-regionale-2-b.ics",
         "MM - DIVISION 1": "/data/1298-bc-cointe/mm-division-1.ics",
@@ -574,6 +590,8 @@
       "name": "Bc Ninane",
       "slug": "1200-bc-ninane",
       "categories": [
+        "AWBB MM - POULE K",
+        "BELGIQUE MM - POULE G",
         "CPE PROV PUPILLES MM",
         "DD - DIVISION 2 A",
         "DD - DIVISION 2 B",
@@ -612,6 +630,8 @@
       "jsonPath": "/data/1200-bc-ninane/events.json",
       "csvPath": "/data/1200-bc-ninane/1200-bc-ninane.csv",
       "icsFiles": {
+        "AWBB MM - POULE K": "/data/1200-bc-ninane/awbb-mm-poule-k.ics",
+        "BELGIQUE MM - POULE G": "/data/1200-bc-ninane/belgique-mm-poule-g.ics",
         "CPE PROV PUPILLES MM": "/data/1200-bc-ninane/cpe-prov-pupilles-mm.ics",
         "DD - DIVISION 2 A": "/data/1200-bc-ninane/dd-division-2-a.ics",
         "DD - DIVISION 2 B": "/data/1200-bc-ninane/dd-division-2-b.ics",
@@ -704,6 +724,9 @@
       "name": "Bc Sprimont",
       "slug": "854-bc-sprimont",
       "categories": [
+        "AWBB DD - POULE L",
+        "AWBB MM - POULE B",
+        "BELGIQUE MM - POULE C",
         "COUPE AWBB U16 - GARCONS",
         "CPE PROV JUNIORS",
         "DD - DIVISION 1",
@@ -752,6 +775,9 @@
       "jsonPath": "/data/854-bc-sprimont/events.json",
       "csvPath": "/data/854-bc-sprimont/854-bc-sprimont.csv",
       "icsFiles": {
+        "AWBB DD - POULE L": "/data/854-bc-sprimont/awbb-dd-poule-l.ics",
+        "AWBB MM - POULE B": "/data/854-bc-sprimont/awbb-mm-poule-b.ics",
+        "BELGIQUE MM - POULE C": "/data/854-bc-sprimont/belgique-mm-poule-c.ics",
         "COUPE AWBB U16 - GARCONS": "/data/854-bc-sprimont/coupe-awbb-u16-garcons.ics",
         "CPE PROV JUNIORS": "/data/854-bc-sprimont/cpe-prov-juniors.ics",
         "DD - DIVISION 1": "/data/854-bc-sprimont/dd-division-1.ics",
@@ -1047,6 +1073,7 @@
       "name": "Cristal Sgh",
       "slug": "2722-cristal-sgh",
       "categories": [
+        "AWBB MM - POULE K",
         "CPE PROV JUNIORS",
         "CPE PROV MINIMES MM",
         "CPE PROV PUPILLES MM",
@@ -1101,6 +1128,7 @@
       "jsonPath": "/data/2722-cristal-sgh/events.json",
       "csvPath": "/data/2722-cristal-sgh/2722-cristal-sgh.csv",
       "icsFiles": {
+        "AWBB MM - POULE K": "/data/2722-cristal-sgh/awbb-mm-poule-k.ics",
         "CPE PROV JUNIORS": "/data/2722-cristal-sgh/cpe-prov-juniors.ics",
         "CPE PROV MINIMES MM": "/data/2722-cristal-sgh/cpe-prov-minimes-mm.ics",
         "CPE PROV PUPILLES MM": "/data/2722-cristal-sgh/cpe-prov-pupilles-mm.ics",
@@ -1267,6 +1295,7 @@
       "name": "Esl United",
       "slug": "2733-esl-united",
       "categories": [
+        "AWBB MM - POULE P",
         "COUPE AWBB MESSIEURS",
         "MM - DIVISION 1",
         "MM - DIVISION 2 A",
@@ -1288,6 +1317,7 @@
       "jsonPath": "/data/2733-esl-united/events.json",
       "csvPath": "/data/2733-esl-united/2733-esl-united.csv",
       "icsFiles": {
+        "AWBB MM - POULE P": "/data/2733-esl-united/awbb-mm-poule-p.ics",
         "COUPE AWBB MESSIEURS": "/data/2733-esl-united/coupe-awbb-messieurs.ics",
         "MM - DIVISION 1": "/data/2733-esl-united/mm-division-1.ics",
         "MM - DIVISION 2 A": "/data/2733-esl-united/mm-division-2-a.ics",
@@ -1312,6 +1342,7 @@
       "name": "Etoile Jupille",
       "slug": "2410-etoile-jupille",
       "categories": [
+        "AWBB MM - POULE C",
         "CPE PROV MESSIEURS",
         "DD - DIVISION 3 A",
         "DD - DIVISION 3 C",
@@ -1329,6 +1360,7 @@
       "jsonPath": "/data/2410-etoile-jupille/events.json",
       "csvPath": "/data/2410-etoile-jupille/2410-etoile-jupille.csv",
       "icsFiles": {
+        "AWBB MM - POULE C": "/data/2410-etoile-jupille/awbb-mm-poule-c.ics",
         "CPE PROV MESSIEURS": "/data/2410-etoile-jupille/cpe-prov-messieurs.ics",
         "DD - DIVISION 3 A": "/data/2410-etoile-jupille/dd-division-3-a.ics",
         "DD - DIVISION 3 C": "/data/2410-etoile-jupille/dd-division-3-c.ics",
@@ -1443,6 +1475,8 @@
       "name": "Hannut Bc",
       "slug": "2309-hannut-bc",
       "categories": [
+        "AWBB DD - POULE C",
+        "AWBB MM - POULE E",
         "CPE PROV DAMES",
         "DD - DIVISION 1",
         "MM - DIVISION 1",
@@ -1462,6 +1496,8 @@
       "jsonPath": "/data/2309-hannut-bc/events.json",
       "csvPath": "/data/2309-hannut-bc/2309-hannut-bc.csv",
       "icsFiles": {
+        "AWBB DD - POULE C": "/data/2309-hannut-bc/awbb-dd-poule-c.ics",
+        "AWBB MM - POULE E": "/data/2309-hannut-bc/awbb-mm-poule-e.ics",
         "CPE PROV DAMES": "/data/2309-hannut-bc/cpe-prov-dames.ics",
         "DD - DIVISION 1": "/data/2309-hannut-bc/dd-division-1.ics",
         "MM - DIVISION 1": "/data/2309-hannut-bc/mm-division-1.ics",
@@ -1547,6 +1583,8 @@
       "name": "Henri Chapelle",
       "slug": "1377-henri-chapelle",
       "categories": [
+        "AWBB DD - POULE M",
+        "AWBB MM - POULE M",
         "CPE PROV MINIMES MM",
         "CPE PROV PUPILLES DD",
         "DD - DIVISION 1",
@@ -1583,6 +1621,8 @@
       "jsonPath": "/data/1377-henri-chapelle/events.json",
       "csvPath": "/data/1377-henri-chapelle/1377-henri-chapelle.csv",
       "icsFiles": {
+        "AWBB DD - POULE M": "/data/1377-henri-chapelle/awbb-dd-poule-m.ics",
+        "AWBB MM - POULE M": "/data/1377-henri-chapelle/awbb-mm-poule-m.ics",
         "CPE PROV MINIMES MM": "/data/1377-henri-chapelle/cpe-prov-minimes-mm.ics",
         "CPE PROV PUPILLES DD": "/data/1377-henri-chapelle/cpe-prov-pupilles-dd.ics",
         "DD - DIVISION 1": "/data/1377-henri-chapelle/dd-division-1.ics",
@@ -1713,6 +1753,8 @@
       "name": "Liege Panthers",
       "slug": "2699-liege-panthers",
       "categories": [
+        "AWBB DD - POULE D",
+        "AWBB DD - POULE I",
         "COUPE AWBB U16 - FILLES",
         "COUPE AWBB U19 - FILLES",
         "DD - REGIONALE 1",
@@ -1732,6 +1774,8 @@
       "jsonPath": "/data/2699-liege-panthers/events.json",
       "csvPath": "/data/2699-liege-panthers/2699-liege-panthers.csv",
       "icsFiles": {
+        "AWBB DD - POULE D": "/data/2699-liege-panthers/awbb-dd-poule-d.ics",
+        "AWBB DD - POULE I": "/data/2699-liege-panthers/awbb-dd-poule-i.ics",
         "COUPE AWBB U16 - FILLES": "/data/2699-liege-panthers/coupe-awbb-u16-filles.ics",
         "COUPE AWBB U19 - FILLES": "/data/2699-liege-panthers/coupe-awbb-u19-filles.ics",
         "DD - REGIONALE 1": "/data/2699-liege-panthers/dd-regionale-1.ics",
@@ -1754,6 +1798,7 @@
       "name": "Mail Comblain",
       "slug": "428-mail-comblain",
       "categories": [
+        "AWBB MM - POULE E",
         "COUPE AWBB MESSIEURS",
         "CPE PROV MESSIEURS",
         "CPE PROV MINIMES DD",
@@ -1781,6 +1826,7 @@
       "jsonPath": "/data/428-mail-comblain/events.json",
       "csvPath": "/data/428-mail-comblain/428-mail-comblain.csv",
       "icsFiles": {
+        "AWBB MM - POULE E": "/data/428-mail-comblain/awbb-mm-poule-e.ics",
         "COUPE AWBB MESSIEURS": "/data/428-mail-comblain/coupe-awbb-messieurs.ics",
         "CPE PROV MESSIEURS": "/data/428-mail-comblain/cpe-prov-messieurs.ics",
         "CPE PROV MINIMES DD": "/data/428-mail-comblain/cpe-prov-minimes-dd.ics",
@@ -1879,6 +1925,9 @@
       "name": "Pepinster East B",
       "slug": "46-pepinster-east-b",
       "categories": [
+        "AWBB DD - POULE D",
+        "AWBB MM - POULE E",
+        "BELGIQUE MM - POULE J",
         "CPE PROV CADETS",
         "DD - DIVISION 1",
         "DD - DIVISION 2 A",
@@ -1925,6 +1974,9 @@
       "jsonPath": "/data/46-pepinster-east-b/events.json",
       "csvPath": "/data/46-pepinster-east-b/46-pepinster-east-b.csv",
       "icsFiles": {
+        "AWBB DD - POULE D": "/data/46-pepinster-east-b/awbb-dd-poule-d.ics",
+        "AWBB MM - POULE E": "/data/46-pepinster-east-b/awbb-mm-poule-e.ics",
+        "BELGIQUE MM - POULE J": "/data/46-pepinster-east-b/belgique-mm-poule-j.ics",
         "CPE PROV CADETS": "/data/46-pepinster-east-b/cpe-prov-cadets.ics",
         "DD - DIVISION 1": "/data/46-pepinster-east-b/dd-division-1.ics",
         "DD - DIVISION 2 A": "/data/46-pepinster-east-b/dd-division-2-a.ics",
@@ -1974,6 +2026,7 @@
       "name": "Prayon Trooz",
       "slug": "78-prayon-trooz",
       "categories": [
+        "AWBB DD - POULE C",
         "DD - DIVISION 2 A",
         "DD - DIVISION 2 B",
         "DD - DIVISION 3 C",
@@ -2007,6 +2060,7 @@
       "jsonPath": "/data/78-prayon-trooz/events.json",
       "csvPath": "/data/78-prayon-trooz/78-prayon-trooz.csv",
       "icsFiles": {
+        "AWBB DD - POULE C": "/data/78-prayon-trooz/awbb-dd-poule-c.ics",
         "DD - DIVISION 2 A": "/data/78-prayon-trooz/dd-division-2-a.ics",
         "DD - DIVISION 2 B": "/data/78-prayon-trooz/dd-division-2-b.ics",
         "DD - DIVISION 3 C": "/data/78-prayon-trooz/dd-division-3-c.ics",
@@ -2171,6 +2225,7 @@
       "name": "R Un Bellaire",
       "slug": "434-r-un-bellaire",
       "categories": [
+        "AWBB DD - POULE I",
         "CPE PROV DAMES",
         "DD - DIVISION 1",
         "DD - DIVISION 2 A",
@@ -2195,6 +2250,7 @@
       "jsonPath": "/data/434-r-un-bellaire/events.json",
       "csvPath": "/data/434-r-un-bellaire/434-r-un-bellaire.csv",
       "icsFiles": {
+        "AWBB DD - POULE I": "/data/434-r-un-bellaire/awbb-dd-poule-i.ics",
         "CPE PROV DAMES": "/data/434-r-un-bellaire/cpe-prov-dames.ics",
         "DD - DIVISION 1": "/data/434-r-un-bellaire/dd-division-1.ics",
         "DD - DIVISION 2 A": "/data/434-r-un-bellaire/dd-division-2-a.ics",
@@ -2283,6 +2339,7 @@
       "name": "Rb Tilff",
       "slug": "97-rb-tilff",
       "categories": [
+        "AWBB MM - POULE L",
         "MM - DIVISION 2 B",
         "MM - DIVISION 3 A",
         "MM - DIVISION 3 C",
@@ -2312,6 +2369,7 @@
       "jsonPath": "/data/97-rb-tilff/events.json",
       "csvPath": "/data/97-rb-tilff/97-rb-tilff.csv",
       "icsFiles": {
+        "AWBB MM - POULE L": "/data/97-rb-tilff/awbb-mm-poule-l.ics",
         "MM - DIVISION 2 B": "/data/97-rb-tilff/mm-division-2-b.ics",
         "MM - DIVISION 3 A": "/data/97-rb-tilff/mm-division-3-a.ics",
         "MM - DIVISION 3 C": "/data/97-rb-tilff/mm-division-3-c.ics",
@@ -2344,6 +2402,7 @@
       "name": "Rb Union Liege",
       "slug": "68-rb-union-liege",
       "categories": [
+        "AWBB MM - POULE A",
         "MM - DIVISION 1",
         "MM - DIVISION 3 A",
         "MM - DIVISION 3 B"
@@ -2351,6 +2410,7 @@
       "jsonPath": "/data/68-rb-union-liege/events.json",
       "csvPath": "/data/68-rb-union-liege/68-rb-union-liege.csv",
       "icsFiles": {
+        "AWBB MM - POULE A": "/data/68-rb-union-liege/awbb-mm-poule-a.ics",
         "MM - DIVISION 1": "/data/68-rb-union-liege/mm-division-1.ics",
         "MM - DIVISION 3 A": "/data/68-rb-union-liege/mm-division-3-a.ics",
         "MM - DIVISION 3 B": "/data/68-rb-union-liege/mm-division-3-b.ics"
@@ -2361,6 +2421,9 @@
       "name": "Rbc Alleur",
       "slug": "1466-rbc-alleur",
       "categories": [
+        "AWBB DD - POULE H",
+        "AWBB DD - POULE N",
+        "AWBB MM - POULE J",
         "COUPE AWBB DAMES",
         "DD - DIVISION 1",
         "DD - DIVISION 2 B",
@@ -2408,6 +2471,9 @@
       "jsonPath": "/data/1466-rbc-alleur/events.json",
       "csvPath": "/data/1466-rbc-alleur/1466-rbc-alleur.csv",
       "icsFiles": {
+        "AWBB DD - POULE H": "/data/1466-rbc-alleur/awbb-dd-poule-h.ics",
+        "AWBB DD - POULE N": "/data/1466-rbc-alleur/awbb-dd-poule-n.ics",
+        "AWBB MM - POULE J": "/data/1466-rbc-alleur/awbb-mm-poule-j.ics",
         "COUPE AWBB DAMES": "/data/1466-rbc-alleur/coupe-awbb-dames.ics",
         "DD - DIVISION 1": "/data/1466-rbc-alleur/dd-division-1.ics",
         "DD - DIVISION 2 B": "/data/1466-rbc-alleur/dd-division-2-b.ics",
@@ -2725,6 +2791,7 @@
       "name": "Rbc Esneux",
       "slug": "44-rbc-esneux",
       "categories": [
+        "AWBB DD - POULE M",
         "CPE PROV CADETTES",
         "CPE PROV DAMES",
         "DD - DIVISION 1",
@@ -2760,6 +2827,7 @@
       "jsonPath": "/data/44-rbc-esneux/events.json",
       "csvPath": "/data/44-rbc-esneux/44-rbc-esneux.csv",
       "icsFiles": {
+        "AWBB DD - POULE M": "/data/44-rbc-esneux/awbb-dd-poule-m.ics",
         "CPE PROV CADETTES": "/data/44-rbc-esneux/cpe-prov-cadettes.ics",
         "CPE PROV DAMES": "/data/44-rbc-esneux/cpe-prov-dames.ics",
         "DD - DIVISION 1": "/data/44-rbc-esneux/dd-division-1.ics",
@@ -2798,6 +2866,7 @@
       "name": "Rbc Haneffe",
       "slug": "1034-rbc-haneffe",
       "categories": [
+        "AWBB DD - POULE D",
         "DD - DIVISION 1",
         "DD - DIVISION 2 A",
         "DD - DIVISION 2 B",
@@ -2831,6 +2900,7 @@
       "jsonPath": "/data/1034-rbc-haneffe/events.json",
       "csvPath": "/data/1034-rbc-haneffe/1034-rbc-haneffe.csv",
       "icsFiles": {
+        "AWBB DD - POULE D": "/data/1034-rbc-haneffe/awbb-dd-poule-d.ics",
         "DD - DIVISION 1": "/data/1034-rbc-haneffe/dd-division-1.ics",
         "DD - DIVISION 2 A": "/data/1034-rbc-haneffe/dd-division-2-a.ics",
         "DD - DIVISION 2 B": "/data/1034-rbc-haneffe/dd-division-2-b.ics",
@@ -2867,6 +2937,7 @@
       "name": "Rbc Stavelot",
       "slug": "691-rbc-stavelot",
       "categories": [
+        "AWBB MM - POULE H",
         "DD - DIVISION 2 A",
         "DD - DIVISION 2 B",
         "MM - DIVISION 1",
@@ -2892,6 +2963,7 @@
       "jsonPath": "/data/691-rbc-stavelot/events.json",
       "csvPath": "/data/691-rbc-stavelot/691-rbc-stavelot.csv",
       "icsFiles": {
+        "AWBB MM - POULE H": "/data/691-rbc-stavelot/awbb-mm-poule-h.ics",
         "DD - DIVISION 2 A": "/data/691-rbc-stavelot/dd-division-2-a.ics",
         "DD - DIVISION 2 B": "/data/691-rbc-stavelot/dd-division-2-b.ics",
         "MM - DIVISION 1": "/data/691-rbc-stavelot/mm-division-1.ics",
@@ -3274,6 +3346,9 @@
       "name": "Royal Herve Battice",
       "slug": "1741-royal-herve-battice",
       "categories": [
+        "AWBB DD - POULE O",
+        "AWBB DD - POULE P",
+        "AWBB MM - POULE M",
         "CPE PROV MESSIEURS",
         "CPE PROV PUPILLES DD",
         "DD - DIVISION 1",
@@ -3314,6 +3389,9 @@
       "jsonPath": "/data/1741-royal-herve-battice/events.json",
       "csvPath": "/data/1741-royal-herve-battice/1741-royal-herve-battice.csv",
       "icsFiles": {
+        "AWBB DD - POULE O": "/data/1741-royal-herve-battice/awbb-dd-poule-o.ics",
+        "AWBB DD - POULE P": "/data/1741-royal-herve-battice/awbb-dd-poule-p.ics",
+        "AWBB MM - POULE M": "/data/1741-royal-herve-battice/awbb-mm-poule-m.ics",
         "CPE PROV MESSIEURS": "/data/1741-royal-herve-battice/cpe-prov-messieurs.ics",
         "CPE PROV PUPILLES DD": "/data/1741-royal-herve-battice/cpe-prov-pupilles-dd.ics",
         "DD - DIVISION 1": "/data/1741-royal-herve-battice/dd-division-1.ics",
@@ -3402,6 +3480,8 @@
       "name": "Royal Spa Bc",
       "slug": "91-royal-spa-bc",
       "categories": [
+        "AWBB DD - POULE N",
+        "AWBB MM - POULE C",
         "DD - DIVISION 1",
         "DD - DIVISION 3 C",
         "DD - REGIONALE 2 B",
@@ -3436,6 +3516,8 @@
       "jsonPath": "/data/91-royal-spa-bc/events.json",
       "csvPath": "/data/91-royal-spa-bc/91-royal-spa-bc.csv",
       "icsFiles": {
+        "AWBB DD - POULE N": "/data/91-royal-spa-bc/awbb-dd-poule-n.ics",
+        "AWBB MM - POULE C": "/data/91-royal-spa-bc/awbb-mm-poule-c.ics",
         "DD - DIVISION 1": "/data/91-royal-spa-bc/dd-division-1.ics",
         "DD - DIVISION 3 C": "/data/91-royal-spa-bc/dd-division-3-c.ics",
         "DD - REGIONALE 2 B": "/data/91-royal-spa-bc/dd-regionale-2-b.ics",
@@ -3539,6 +3621,7 @@
       "name": "Theux Bc",
       "slug": "2061-theux-bc",
       "categories": [
+        "AWBB MM - POULE N",
         "MM - DIVISION 1",
         "MM - DIVISION 3 A",
         "MM - DIVISION 3 C",
@@ -3567,6 +3650,7 @@
       "jsonPath": "/data/2061-theux-bc/events.json",
       "csvPath": "/data/2061-theux-bc/2061-theux-bc.csv",
       "icsFiles": {
+        "AWBB MM - POULE N": "/data/2061-theux-bc/awbb-mm-poule-n.ics",
         "MM - DIVISION 1": "/data/2061-theux-bc/mm-division-1.ics",
         "MM - DIVISION 3 A": "/data/2061-theux-bc/mm-division-3-a.ics",
         "MM - DIVISION 3 C": "/data/2061-theux-bc/mm-division-3-c.ics",
@@ -3613,7 +3697,10 @@
       "name": "Un Huy Basket",
       "slug": "2511-un-huy-basket",
       "categories": [
+        "AWBB DD - POULE G",
+        "AWBB DD - POULE M",
         "COUPE AWBB DAMES",
+        "CPE BELG DAMES",
         "DD - DIVISION 3 A",
         "DD - DIVISION 3 B",
         "DD - REGIONALE 1",
@@ -3648,7 +3735,10 @@
       "jsonPath": "/data/2511-un-huy-basket/events.json",
       "csvPath": "/data/2511-un-huy-basket/2511-un-huy-basket.csv",
       "icsFiles": {
+        "AWBB DD - POULE G": "/data/2511-un-huy-basket/awbb-dd-poule-g.ics",
+        "AWBB DD - POULE M": "/data/2511-un-huy-basket/awbb-dd-poule-m.ics",
         "COUPE AWBB DAMES": "/data/2511-un-huy-basket/coupe-awbb-dames.ics",
+        "CPE BELG DAMES": "/data/2511-un-huy-basket/cpe-belg-dames.ics",
         "DD - DIVISION 3 A": "/data/2511-un-huy-basket/dd-division-3-a.ics",
         "DD - DIVISION 3 B": "/data/2511-un-huy-basket/dd-division-3-b.ics",
         "DD - REGIONALE 1": "/data/2511-un-huy-basket/dd-regionale-1.ics",

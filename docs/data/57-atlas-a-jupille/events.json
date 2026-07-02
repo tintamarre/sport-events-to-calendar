@@ -6,6 +6,66 @@
   },
   "events": [
     {
+      "code": "AW225001",
+      "date": "2026-08-15",
+      "time": "19:00",
+      "team1": "ATLAS A JUPILLE",
+      "team2": "CASTORS BRAINE A",
+      "category": "AWBB DD - POULE E",
+      "location": "ATLAS A JUPILLE",
+      "other": ""
+    },
+    {
+      "code": "AW225004",
+      "date": "2026-08-23",
+      "time": "17:00",
+      "team1": "CEP FLEURUS",
+      "team2": "ATLAS A JUPILLE",
+      "category": "AWBB DD - POULE E",
+      "location": "CEP FLEURUS",
+      "other": ""
+    },
+    {
+      "code": "AW225005",
+      "date": "2026-08-29",
+      "time": "19:00",
+      "team1": "ATLAS A JUPILLE",
+      "team2": "REBOND OTTIGNIES C",
+      "category": "AWBB DD - POULE E",
+      "location": "ATLAS A JUPILLE",
+      "other": ""
+    },
+    {
+      "code": "AW210002",
+      "date": "2026-08-15",
+      "time": "21:00",
+      "team1": "ATLAS A JUPILLE",
+      "team2": "R LINTHOUT BC B",
+      "category": "AWBB MM - POULE J",
+      "location": "ATLAS A JUPILLE",
+      "other": ""
+    },
+    {
+      "code": "AW210003",
+      "date": "2026-08-22",
+      "time": "21:00",
+      "team1": "ATLAS A JUPILLE",
+      "team2": "RBC ALLEUR",
+      "category": "AWBB MM - POULE J",
+      "location": "ATLAS A JUPILLE",
+      "other": ""
+    },
+    {
+      "code": "AW210005",
+      "date": "2026-08-29",
+      "time": "19:00",
+      "team1": "UBC BINCHE",
+      "team2": "ATLAS A JUPILLE",
+      "category": "AWBB MM - POULE J",
+      "location": "UBC BINCHE",
+      "other": ""
+    },
+    {
       "code": "413012",
       "date": "2026-09-05",
       "time": "19:00",
@@ -248,7 +308,7 @@
     {
       "code": "413337",
       "date": "2027-04-16",
-      "time": "20:00",
+      "time": "19:00",
       "team1": "RBC BLEGNY A",
       "team2": "ATLAS A JUPILLE A",
       "category": "DD - DIVISION 1",
@@ -348,7 +408,7 @@
     {
       "code": "417145",
       "date": "2026-12-05",
-      "time": "18:30",
+      "time": "20:30",
       "team1": "BCM HERSTAL",
       "team2": "ATLAS A JUPILLE B",
       "category": "DD - DIVISION 3 B",
@@ -438,7 +498,7 @@
     {
       "code": "417291",
       "date": "2027-03-20",
-      "time": "21:00",
+      "time": "19:00",
       "team1": "RBC AWANS B",
       "team2": "ATLAS A JUPILLE B",
       "category": "DD - DIVISION 3 B",
@@ -558,7 +618,7 @@
     {
       "code": "401126",
       "date": "2026-11-22",
-      "time": "13:00",
+      "time": "15:00",
       "team1": "ROYAL HERVE-BATTICE A",
       "team2": "ATLAS A JUPILLE A",
       "category": "MM - DIVISION 1",
@@ -1038,7 +1098,7 @@
     {
       "code": "404071",
       "date": "2026-10-18",
-      "time": "13:00",
+      "time": "15:00",
       "team1": "ATLAS A JUPILLE C",
       "team2": "ROYAL HERVE-BATTICE B",
       "category": "MM - DIVISION 3 A",
@@ -1178,7 +1238,7 @@
     {
       "code": "404274",
       "date": "2027-03-05",
-      "time": "20:00",
+      "time": "19:00",
       "team1": "ETOILE JUPILLE B",
       "team2": "ATLAS A JUPILLE C",
       "category": "MM - DIVISION 3 A",
@@ -1188,7 +1248,7 @@
     {
       "code": "404281",
       "date": "2027-03-14",
-      "time": "13:00",
+      "time": "13:30",
       "team1": "ATLAS A JUPILLE C",
       "team2": "RBC DISON-ANDRIMONT B",
       "category": "MM - DIVISION 3 A",
@@ -1829,10 +1889,10 @@
       "code": "481112",
       "date": "2026-11-14",
       "time": "9:00",
-      "team1": "RB TILFF B",
+      "team1": "RB TILFF A",
       "team2": "ATLAS A JUPILLE",
       "category": "U 14 - ELITES MM B",
-      "location": "RB TILFF B",
+      "location": "RB TILFF A",
       "other": ""
     },
     {
@@ -1910,7 +1970,7 @@
       "date": "2027-02-07",
       "time": "13:00",
       "team1": "ATLAS A JUPILLE",
-      "team2": "RB TILFF B",
+      "team2": "RB TILFF A",
       "category": "U 14 - ELITES MM B",
       "location": "ATLAS A JUPILLE",
       "other": ""
@@ -2297,8 +2357,8 @@
     },
     {
       "code": "450152",
-      "date": "2026-12-13",
-      "time": "13:00",
+      "date": "2026-12-12",
+      "time": "12:30",
       "team1": "HENRI-CHAPELLE",
       "team2": "ATLAS A JUPILLE A",
       "category": "U 16 - ELITES MM A",
@@ -2758,7 +2818,7 @@
     {
       "code": "430283",
       "date": "2027-03-14",
-      "time": "15:00",
+      "time": "15:30",
       "team1": "ATLAS A JUPILLE",
       "team2": "ORP JAUCHE",
       "category": "U 18 - ELITES MM A",
@@ -3118,7 +3178,7 @@
     {
       "code": "580251",
       "date": "2027-02-20",
-      "time": "9:00",
+      "time": "15:00",
       "team1": "RBC AWANS B",
       "team2": "ATLAS A JUPILLE",
       "category": "U 19 - DD",
@@ -3178,7 +3238,7 @@
     {
       "code": "580321",
       "date": "2027-04-10",
-      "time": "17:00",
+      "time": "13:00",
       "team1": "ATLAS A JUPILLE",
       "team2": "RBC AUBEL",
       "category": "U 19 - DD",

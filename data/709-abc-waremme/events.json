@@ -6,6 +6,46 @@
   },
   "events": [
     {
+      "code": "AW235001",
+      "date": "2026-08-16",
+      "time": "15:00",
+      "team1": "ROYAL HERVE-BATTICE B",
+      "team2": "ABC WAREMME",
+      "category": "AWBB DD - POULE O",
+      "location": "ROYAL HERVE-BATTICE B",
+      "other": ""
+    },
+    {
+      "code": "AW235003",
+      "date": "2026-08-22",
+      "time": "19:00",
+      "team1": "ABC WAREMME",
+      "team2": "BCCA NEUFCHATEAU",
+      "category": "AWBB DD - POULE O",
+      "location": "ABC WAREMME",
+      "other": ""
+    },
+    {
+      "code": "AW216001",
+      "date": "2026-08-15",
+      "time": "17:00",
+      "team1": "ABC WAREMME",
+      "team2": "ROYAL GALLIA BEEZ B",
+      "category": "AWBB MM - POULE P",
+      "location": "ABC WAREMME",
+      "other": ""
+    },
+    {
+      "code": "AW216005",
+      "date": "2026-08-28",
+      "time": "20:00",
+      "team1": "ESL UNITED B",
+      "team2": "ABC WAREMME",
+      "category": "AWBB MM - POULE P",
+      "location": "ESL UNITED B",
+      "other": ""
+    },
+    {
       "code": "413015",
       "date": "2026-09-05",
       "time": "19:00",
@@ -298,7 +338,7 @@
     {
       "code": "414051",
       "date": "2026-10-04",
-      "time": "17:00",
+      "time": "13:00",
       "team1": "ROYALE US AWANS",
       "team2": "ABC WAREMME B",
       "category": "DD - DIVISION 2 A",
@@ -387,8 +427,8 @@
     },
     {
       "code": "414161",
-      "date": "2026-12-19",
-      "time": "20:00",
+      "date": "2026-12-20",
+      "time": "11:00",
       "team1": "R.UN.BELLAIRE B",
       "team2": "ABC WAREMME B",
       "category": "DD - DIVISION 2 A",
@@ -2158,7 +2198,7 @@
     {
       "code": "528155",
       "date": "2026-12-12",
-      "time": "11:00",
+      "time": "13:00",
       "team1": "ORP JAUCHE",
       "team2": "ABC WAREMME B",
       "category": "U 10 - MM I",
@@ -2478,7 +2518,7 @@
     {
       "code": "504051",
       "date": "2026-10-03",
-      "time": "9:00",
+      "time": "13:00",
       "team1": "RBC AWANS",
       "team2": "ABC WAREMME C",
       "category": "U 12 - MM E",
@@ -2879,10 +2919,10 @@
       "code": "481142",
       "date": "2026-12-05",
       "time": "9:30",
-      "team1": "RB TILFF B",
+      "team1": "RB TILFF A",
       "team2": "ABC WAREMME A",
       "category": "U 14 - ELITES MM B",
-      "location": "RB TILFF B",
+      "location": "RB TILFF A",
       "other": ""
     },
     {
@@ -3000,7 +3040,7 @@
       "date": "2027-04-17",
       "time": "9:00",
       "team1": "ABC WAREMME A",
-      "team2": "RB TILFF B",
+      "team2": "RB TILFF A",
       "category": "U 14 - ELITES MM B",
       "location": "ABC WAREMME A",
       "other": ""
@@ -3327,8 +3367,8 @@
     },
     {
       "code": "AW133015",
-      "date": "2026-10-10",
-      "time": "11:00",
+      "date": "2026-10-11",
+      "time": "12:00",
       "team1": "RBC HANEFFE",
       "team2": "ABC WAREMME",
       "category": "U 14 - SILVER REGIONAUX B",
@@ -3448,7 +3488,7 @@
     {
       "code": "590126",
       "date": "2026-11-21",
-      "time": "11:30",
+      "time": "13:00",
       "team1": "ALL. FLEMALLE C",
       "team2": "ABC WAREMME",
       "category": "U 16 - DD A",
@@ -3717,8 +3757,8 @@
     },
     {
       "code": "451336",
-      "date": "2027-04-17",
-      "time": "9:00",
+      "date": "2027-04-18",
+      "time": "11:00",
       "team1": "GIANTS BRAIVES A",
       "team2": "ABC WAREMME A",
       "category": "U 16 - ELITES MM B",
@@ -4057,8 +4097,8 @@
     },
     {
       "code": "431195",
-      "date": "2027-01-10",
-      "time": "11:30",
+      "date": "2027-01-09",
+      "time": "11:00",
       "team1": "ROYAL MOSA AC 1941",
       "team2": "ABC WAREMME B",
       "category": "U 18 - ELITES MM B",
@@ -4288,7 +4328,7 @@
     {
       "code": "580081",
       "date": "2026-10-24",
-      "time": "9:00",
+      "time": "15:00",
       "team1": "RBC AWANS B",
       "team2": "ABC WAREMME A",
       "category": "U 19 - DD",
@@ -5498,7 +5538,7 @@
     {
       "code": "543332",
       "date": "2027-04-17",
-      "time": "10:30",
+      "time": "14:30",
       "team1": "R.UN.BELLAIRE",
       "team2": "ABC WAREMME B",
       "category": "U 8 - MM D",

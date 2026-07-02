@@ -6,6 +6,106 @@
   },
   "events": [
     {
+      "code": "AW224002",
+      "date": "2026-08-15",
+      "time": "19:00",
+      "team1": "RBC HANEFFE",
+      "team2": "PEPINSTER EAST BELG",
+      "category": "AWBB DD - POULE D",
+      "location": "RBC HANEFFE",
+      "other": ""
+    },
+    {
+      "code": "AW224004",
+      "date": "2026-08-23",
+      "time": "13:00",
+      "team1": "PEPINSTER EAST BELG",
+      "team2": "ROYAL WATERLOO",
+      "category": "AWBB DD - POULE D",
+      "location": "PEPINSTER EAST BELG",
+      "other": ""
+    },
+    {
+      "code": "AW224006",
+      "date": "2026-08-30",
+      "time": "15:00",
+      "team1": "LIEGE PANTHERS A",
+      "team2": "PEPINSTER EAST BELG",
+      "category": "AWBB DD - POULE D",
+      "location": "LIEGE PANTHERS A",
+      "other": ""
+    },
+    {
+      "code": "AW205001",
+      "date": "2026-08-14",
+      "time": "21:00",
+      "team1": "HANNUT BC",
+      "team2": "PEPINSTER EAST BELG",
+      "category": "AWBB MM - POULE E",
+      "location": "HANNUT BC",
+      "other": ""
+    },
+    {
+      "code": "AW205003",
+      "date": "2026-08-23",
+      "time": "13:00",
+      "team1": "OLYMPIC MSM B",
+      "team2": "PEPINSTER EAST BELG",
+      "category": "AWBB MM - POULE E",
+      "location": "OLYMPIC MSM B",
+      "other": ""
+    },
+    {
+      "code": "AW205006",
+      "date": "2026-08-29",
+      "time": "21:00",
+      "team1": "PEPINSTER EAST BELG",
+      "team2": "MAIL. COMBLAIN",
+      "category": "AWBB MM - POULE E",
+      "location": "PEPINSTER EAST BELG",
+      "other": ""
+    },
+    {
+      "code": "AWBNAHSEPJCA",
+      "date": "2026-08-12",
+      "time": "20:30",
+      "team1": "PEPINSTER EAST BELG",
+      "team2": "ANTWERP GIANTS B",
+      "category": "BELGIQUE MM - POULE J",
+      "location": "PEPINSTER EAST BELG",
+      "other": ""
+    },
+    {
+      "code": "AWBNAHSEPJBC",
+      "date": "2026-08-14",
+      "time": "21:00",
+      "team1": "HASSELT BT",
+      "team2": "PEPINSTER EAST BELG",
+      "category": "BELGIQUE MM - POULE J",
+      "location": "HASSELT BT",
+      "other": ""
+    },
+    {
+      "code": "AWBNAHSEPJAC",
+      "date": "2026-08-23",
+      "time": "17:00",
+      "team1": "ANTWERP GIANTS B",
+      "team2": "PEPINSTER EAST BELG",
+      "category": "BELGIQUE MM - POULE J",
+      "location": "ANTWERP GIANTS B",
+      "other": ""
+    },
+    {
+      "code": "AWBNAHSEPJCB",
+      "date": "2026-08-29",
+      "time": "19:00",
+      "team1": "PEPINSTER EAST BELG",
+      "team2": "HASSELT BT",
+      "category": "BELGIQUE MM - POULE J",
+      "location": "PEPINSTER EAST BELG",
+      "other": ""
+    },
+    {
       "code": "414012",
       "date": "2026-09-06",
       "time": "13:00",
@@ -268,7 +368,7 @@
     {
       "code": "AW104002",
       "date": "2026-09-06",
-      "time": "13:00",
+      "time": "11:00",
       "team1": "PEPINSTER EAST BELG A",
       "team2": "LIEGE PANTHERS C",
       "category": "DD - REGIONALE 1",
@@ -298,7 +398,7 @@
     {
       "code": "AW104020",
       "date": "2026-10-04",
-      "time": "13:00",
+      "time": "11:00",
       "team1": "PEPINSTER EAST BELG A",
       "team2": "RCS NATOYE",
       "category": "DD - REGIONALE 1",
@@ -328,7 +428,7 @@
     {
       "code": "AW104044",
       "date": "2026-11-15",
-      "time": "13:00",
+      "time": "11:00",
       "team1": "PEPINSTER EAST BELG A",
       "team2": "GANSHOREN DAMES",
       "category": "DD - REGIONALE 1",
@@ -348,7 +448,7 @@
     {
       "code": "AW104056",
       "date": "2026-12-06",
-      "time": "13:00",
+      "time": "11:00",
       "team1": "PEPINSTER EAST BELG A",
       "team2": "RE PONT-DE-LOUP",
       "category": "DD - REGIONALE 1",
@@ -358,7 +458,7 @@
     {
       "code": "AW104032",
       "date": "2026-12-13",
-      "time": "13:00",
+      "time": "11:00",
       "team1": "PEPINSTER EAST BELG A",
       "team2": "BC COINTE A",
       "category": "DD - REGIONALE 1",
@@ -368,7 +468,7 @@
     {
       "code": "AW104042",
       "date": "2026-12-20",
-      "time": "13:00",
+      "time": "15:30",
       "team1": "CENTRE GAUME RULLES",
       "team2": "PEPINSTER EAST BELG A",
       "category": "DD - REGIONALE 1",
@@ -378,7 +478,7 @@
     {
       "code": "AW104074",
       "date": "2027-01-10",
-      "time": "13:00",
+      "time": "11:00",
       "team1": "PEPINSTER EAST BELG A",
       "team2": "ROYAL HERVE-BATTICE A",
       "category": "DD - REGIONALE 1",
@@ -398,7 +498,7 @@
     {
       "code": "AW104080",
       "date": "2027-01-31",
-      "time": "13:00",
+      "time": "11:00",
       "team1": "PEPINSTER EAST BELG A",
       "team2": "UN HUY BASKET B",
       "category": "DD - REGIONALE 1",
@@ -438,7 +538,7 @@
     {
       "code": "AW104116",
       "date": "2027-03-21",
-      "time": "13:00",
+      "time": "11:00",
       "team1": "PEPINSTER EAST BELG A",
       "team2": "FLOREAL NEUFCHATEAU",
       "category": "DD - REGIONALE 1",
@@ -448,7 +548,7 @@
     {
       "code": "AW104092",
       "date": "2027-04-04",
-      "time": "13:00",
+      "time": "11:00",
       "team1": "PEPINSTER EAST BELG A",
       "team2": "PRAYON TROOZ A",
       "category": "DD - REGIONALE 1",
@@ -458,7 +558,7 @@
     {
       "code": "AW104128",
       "date": "2027-04-11",
-      "time": "13:00",
+      "time": "11:00",
       "team1": "PEPINSTER EAST BELG A",
       "team2": "RBC ALLEUR A",
       "category": "DD - REGIONALE 1",
@@ -478,7 +578,7 @@
     {
       "code": "AW104104",
       "date": "2027-04-25",
-      "time": "13:00",
+      "time": "11:00",
       "team1": "PEPINSTER EAST BELG A",
       "team2": "CENTRE GAUME RULLES",
       "category": "DD - REGIONALE 1",
@@ -1668,7 +1768,7 @@
     {
       "code": "521011",
       "date": "2026-09-05",
-      "time": "12:00",
+      "time": "14:00",
       "team1": "RSW LIEGE BASKET",
       "team2": "PEPINSTER EAST BELG B",
       "category": "U 10 - MM B",
@@ -2068,11 +2168,11 @@
     {
       "code": "500037",
       "date": "2026-09-19",
-      "time": "09:30",
-      "team1": "CONDROZ MODAVE BB",
-      "team2": "PEPINSTER EAST BELG A",
+      "time": "14:15",
+      "team1": "PEPINSTER EAST BELG A",
+      "team2": "CONDROZ MODAVE BB",
       "category": "U 12 - MM A",
-      "location": "CONDROZ MODAVE BB",
+      "location": "PEPINSTER EAST BELG A",
       "other": ""
     },
     {
@@ -2158,7 +2258,7 @@
     {
       "code": "500162",
       "date": "2026-12-19",
-      "time": "15:00",
+      "time": "13:00",
       "team1": "ROYAL HERVE-BATTICE B",
       "team2": "PEPINSTER EAST BELG A",
       "category": "U 12 - MM A",
@@ -2168,11 +2268,11 @@
     {
       "code": "500192",
       "date": "2027-01-09",
-      "time": "11:00",
-      "team1": "PEPINSTER EAST BELG A",
-      "team2": "CONDROZ MODAVE BB",
+      "time": "09:30",
+      "team1": "CONDROZ MODAVE BB",
+      "team2": "PEPINSTER EAST BELG A",
       "category": "U 12 - MM A",
-      "location": "PEPINSTER EAST BELG A",
+      "location": "CONDROZ MODAVE BB",
       "other": ""
     },
     {
@@ -2327,8 +2427,8 @@
     },
     {
       "code": "503063",
-      "date": "2026-10-10",
-      "time": "15:00",
+      "date": "2026-10-11",
+      "time": "10:00",
       "team1": "RBC HANEFFE",
       "team2": "PEPINSTER EAST BELG B",
       "category": "U 12 - MM D",
@@ -3407,8 +3507,8 @@
     },
     {
       "code": "431295",
-      "date": "2027-03-21",
-      "time": "11:30",
+      "date": "2027-03-20",
+      "time": "09:30",
       "team1": "ROYAL MOSA AC 1941",
       "team2": "PEPINSTER EAST BELG",
       "category": "U 18 - ELITES MM B",
@@ -3527,8 +3627,8 @@
     },
     {
       "code": "AW141030",
-      "date": "2026-11-14",
-      "time": "19:00",
+      "date": "2026-11-15",
+      "time": "15:00",
       "team1": "BBC LEUZE",
       "team2": "PEPINSTER EAST BELG",
       "category": "U 19 - SILVER REGIONALES A",
@@ -3788,7 +3888,7 @@
     {
       "code": "551011",
       "date": "2026-09-06",
-      "time": "10:45",
+      "time": "09:00",
       "team1": "RBC VISE B",
       "team2": "PEPINSTER EAST BELG B",
       "category": "U 7 - MM B",

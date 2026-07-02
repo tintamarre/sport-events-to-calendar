@@ -26,21 +26,21 @@
       "other": ""
     },
     {
-      "code": "417035",
-      "date": "2026-09-19",
-      "time": "18:30",
-      "team1": "BCM HERSTAL",
-      "team2": "MAIL. COMBLAIN",
-      "category": "DD - DIVISION 3 B",
-      "location": "BCM HERSTAL",
-      "other": ""
-    },
-    {
       "code": "417055",
       "date": "2026-10-03",
       "time": "18:30",
       "team1": "BCM HERSTAL",
       "team2": "HENRI-CHAPELLE C",
+      "category": "DD - DIVISION 3 B",
+      "location": "BCM HERSTAL",
+      "other": ""
+    },
+    {
+      "code": "417035",
+      "date": "2026-10-17",
+      "time": "18:30",
+      "team1": "BCM HERSTAL",
+      "team2": "MAIL. COMBLAIN",
       "category": "DD - DIVISION 3 B",
       "location": "BCM HERSTAL",
       "other": ""
@@ -78,7 +78,7 @@
     {
       "code": "417145",
       "date": "2026-12-05",
-      "time": "18:30",
+      "time": "20:30",
       "team1": "BCM HERSTAL",
       "team2": "ATLAS A JUPILLE B",
       "category": "DD - DIVISION 3 B",
@@ -546,6 +546,16 @@
       "other": ""
     },
     {
+      "code": "410153",
+      "date": "2026-11-28",
+      "time": "20:00",
+      "team1": "R.UN.BELLAIRE D",
+      "team2": "BCM HERSTAL B",
+      "category": "MM - DIVISION 4 D",
+      "location": "R.UN.BELLAIRE D",
+      "other": ""
+    },
+    {
       "code": "410142",
       "date": "2026-12-06",
       "time": "11:00",
@@ -553,16 +563,6 @@
       "team2": "BCM HERSTAL B",
       "category": "MM - DIVISION 4 D",
       "location": "BC BELLEFLAMME E",
-      "other": ""
-    },
-    {
-      "code": "410153",
-      "date": "2026-12-11",
-      "time": "20:15",
-      "team1": "R.UN.BELLAIRE D",
-      "team2": "BCM HERSTAL B",
-      "category": "MM - DIVISION 4 D",
-      "location": "R.UN.BELLAIRE D",
       "other": ""
     },
     {
@@ -767,8 +767,8 @@
     },
     {
       "code": "412142",
-      "date": "2026-12-05",
-      "time": "21:00",
+      "date": "2026-12-06",
+      "time": "17:00",
       "team1": "RBC WELKENRAEDT B",
       "team2": "BCM HERSTAL C",
       "category": "MM - DIVISION 4 F",
@@ -947,8 +947,8 @@
     },
     {
       "code": "501062",
-      "date": "2026-10-10",
-      "time": "12:00",
+      "date": "2026-10-11",
+      "time": "11:00",
       "team1": "ROYAL BC NINANE",
       "team2": "BCM HERSTAL",
       "category": "U 12 - MM B",
@@ -1186,16 +1186,6 @@
       "other": ""
     },
     {
-      "code": "492033",
-      "date": "2026-09-19",
-      "time": "12:30",
-      "team1": "BCM HERSTAL",
-      "team2": "RBC STAVELOT",
-      "category": "U 14 - PROV MM C",
-      "location": "BCM HERSTAL",
-      "other": ""
-    },
-    {
       "code": "492056",
       "date": "2026-10-04",
       "time": "10:00",
@@ -1211,6 +1201,16 @@
       "time": "12:30",
       "team1": "BCM HERSTAL",
       "team2": "RBC AUBEL",
+      "category": "U 14 - PROV MM C",
+      "location": "BCM HERSTAL",
+      "other": ""
+    },
+    {
+      "code": "492033",
+      "date": "2026-10-17",
+      "time": "12:30",
+      "team1": "BCM HERSTAL",
+      "team2": "RBC STAVELOT",
       "category": "U 14 - PROV MM C",
       "location": "BCM HERSTAL",
       "other": ""
@@ -1427,7 +1427,7 @@
     },
     {
       "code": "590214",
-      "date": "2027-01-23",
+      "date": "2027-02-13",
       "time": "14:30",
       "team1": "BCM HERSTAL",
       "team2": "CRISTAL SGH",
@@ -1448,7 +1448,7 @@
     {
       "code": "590296",
       "date": "2027-03-20",
-      "time": "11:30",
+      "time": "13:00",
       "team1": "ALL. FLEMALLE C",
       "team2": "BCM HERSTAL",
       "category": "U 16 - DD A",
@@ -1497,7 +1497,7 @@
     },
     {
       "code": "472035",
-      "date": "2026-09-19",
+      "date": "2026-10-17",
       "time": "14:30",
       "team1": "BCM HERSTAL",
       "team2": "ROYAL BC WANZE B",
@@ -1618,7 +1618,7 @@
     {
       "code": "472292",
       "date": "2027-03-21",
-      "time": "17:00",
+      "time": "13:00",
       "team1": "ALL. FLEMALLE B",
       "team2": "BCM HERSTAL",
       "category": "U 16 - PROV MM C",
@@ -1656,16 +1656,6 @@
       "other": ""
     },
     {
-      "code": "441035",
-      "date": "2026-09-19",
-      "time": "16:30",
-      "team1": "BCM HERSTAL",
-      "team2": "RBC VISE",
-      "category": "U 18 - PROV MM B",
-      "location": "BCM HERSTAL",
-      "other": ""
-    },
-    {
       "code": "441055",
       "date": "2026-10-03",
       "time": "16:30",
@@ -1683,6 +1673,16 @@
       "team2": "BCM HERSTAL",
       "category": "U 18 - PROV MM B",
       "location": "ALL. FLEMALLE B",
+      "other": ""
+    },
+    {
+      "code": "441035",
+      "date": "2026-10-17",
+      "time": "16:30",
+      "team1": "BCM HERSTAL",
+      "team2": "RBC VISE",
+      "category": "U 18 - PROV MM B",
+      "location": "BCM HERSTAL",
       "other": ""
     },
     {
@@ -1717,8 +1717,8 @@
     },
     {
       "code": "441143",
-      "date": "2026-12-05",
-      "time": "13:00",
+      "date": "2026-12-06",
+      "time": "9:00",
       "team1": "RBC WELKENRAEDT",
       "team2": "BCM HERSTAL",
       "category": "U 18 - PROV MM B",

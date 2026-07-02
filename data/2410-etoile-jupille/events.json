@@ -6,6 +6,36 @@
   },
   "events": [
     {
+      "code": "AW203001",
+      "date": "2026-08-14",
+      "time": "21:00",
+      "team1": "ETOILE JUPILLE",
+      "team2": "ROYAL SPA BC",
+      "category": "AWBB MM - POULE C",
+      "location": "ETOILE JUPILLE",
+      "other": ""
+    },
+    {
+      "code": "AW203004",
+      "date": "2026-08-22",
+      "time": "20:30",
+      "team1": "BC SAINT-HUBERT A",
+      "team2": "ETOILE JUPILLE",
+      "category": "AWBB MM - POULE C",
+      "location": "BC SAINT-HUBERT A",
+      "other": ""
+    },
+    {
+      "code": "AW203005",
+      "date": "2026-08-28",
+      "time": "21:00",
+      "team1": "ETOILE JUPILLE",
+      "team2": "ALL. FLEMALLE",
+      "category": "AWBB MM - POULE C",
+      "location": "ETOILE JUPILLE",
+      "other": ""
+    },
+    {
       "code": "416014",
       "date": "2026-09-05",
       "time": "21:00",
@@ -18,7 +48,7 @@
     {
       "code": "416021",
       "date": "2026-09-13",
-      "time": "17:00",
+      "time": "11:00",
       "team1": "BC SPRIMONT C",
       "team2": "ETOILE JUPILLE",
       "category": "DD - DIVISION 3 A",
@@ -478,7 +508,7 @@
     {
       "code": "404034",
       "date": "2026-09-18",
-      "time": "20:00",
+      "time": "19:00",
       "team1": "ETOILE JUPILLE B",
       "team2": "ESL UNITED F",
       "category": "MM - DIVISION 3 A",
@@ -528,7 +558,7 @@
     {
       "code": "404084",
       "date": "2026-10-23",
-      "time": "20:00",
+      "time": "19:00",
       "team1": "ETOILE JUPILLE B",
       "team2": "RBC DISON-ANDRIMONT B",
       "category": "MM - DIVISION 3 A",
@@ -538,7 +568,7 @@
     {
       "code": "404104",
       "date": "2026-11-06",
-      "time": "20:00",
+      "time": "19:00",
       "team1": "ETOILE JUPILLE B",
       "team2": "HARIMALIA BC B",
       "category": "MM - DIVISION 3 A",
@@ -558,7 +588,7 @@
     {
       "code": "404124",
       "date": "2026-11-20",
-      "time": "20:00",
+      "time": "19:00",
       "team1": "ETOILE JUPILLE B",
       "team2": "RABC ENSIVAL B",
       "category": "MM - DIVISION 3 A",
@@ -588,7 +618,7 @@
     {
       "code": "404164",
       "date": "2026-12-18",
-      "time": "20:00",
+      "time": "19:00",
       "team1": "ETOILE JUPILLE B",
       "team2": "R 4A AYWAILLE-HAMOIR B",
       "category": "MM - DIVISION 3 A",
@@ -608,7 +638,7 @@
     {
       "code": "404204",
       "date": "2027-01-15",
-      "time": "20:00",
+      "time": "19:00",
       "team1": "ETOILE JUPILLE B",
       "team2": "ROYAL BC WANZE C",
       "category": "MM - DIVISION 3 A",
@@ -628,7 +658,7 @@
     {
       "code": "404224",
       "date": "2027-01-29",
-      "time": "20:00",
+      "time": "19:00",
       "team1": "ETOILE JUPILLE B",
       "team2": "ROYAL HERVE-BATTICE B",
       "category": "MM - DIVISION 3 A",
@@ -647,7 +677,7 @@
     },
     {
       "code": "404254",
-      "date": "2027-02-20",
+      "date": "2027-02-19",
       "time": "19:00",
       "team1": "ETOILE JUPILLE B",
       "team2": "HENRI-CHAPELLE B",
@@ -658,7 +688,7 @@
     {
       "code": "404274",
       "date": "2027-03-05",
-      "time": "20:00",
+      "time": "19:00",
       "team1": "ETOILE JUPILLE B",
       "team2": "ATLAS A JUPILLE C",
       "category": "MM - DIVISION 3 A",
@@ -708,7 +738,7 @@
     {
       "code": "404334",
       "date": "2027-04-16",
-      "time": "20:00",
+      "time": "19:00",
       "team1": "ETOILE JUPILLE B",
       "team2": "VAIL. JUPILLE B",
       "category": "MM - DIVISION 3 A",
@@ -1177,8 +1207,8 @@
     },
     {
       "code": "500021",
-      "date": "2026-09-13",
-      "time": "11:00",
+      "date": "2026-09-12",
+      "time": "9:00",
       "team1": "GIANTS BRAIVES A",
       "team2": "ETOILE JUPILLE",
       "category": "U 12 - MM A",
@@ -1327,8 +1357,8 @@
     },
     {
       "code": "500242",
-      "date": "2027-02-13",
-      "time": "15:00",
+      "date": "2027-02-14",
+      "time": "13:00",
       "team1": "ROYAL HERVE-BATTICE B",
       "team2": "ETOILE JUPILLE",
       "category": "U 12 - MM A",
@@ -1508,7 +1538,7 @@
     {
       "code": "501141",
       "date": "2026-12-05",
-      "time": "11:30",
+      "time": "9:00",
       "team1": "ROYAL MOSA AC 1941 A",
       "team2": "ETOILE JUPILLE B",
       "category": "U 12 - MM B",
@@ -1927,8 +1957,8 @@
     },
     {
       "code": "470142",
-      "date": "2026-12-05",
-      "time": "14:00",
+      "date": "2026-12-06",
+      "time": "10:00",
       "team1": "BBC EUPEN",
       "team2": "ETOILE JUPILLE",
       "category": "U 16 - PROV MM A",
@@ -1957,8 +1987,8 @@
     },
     {
       "code": "470195",
-      "date": "2027-01-10",
-      "time": "9:30",
+      "date": "2027-01-09",
+      "time": "13:00",
       "team1": "ROYAL MOSA AC 1941",
       "team2": "ETOILE JUPILLE",
       "category": "U 16 - PROV MM A",

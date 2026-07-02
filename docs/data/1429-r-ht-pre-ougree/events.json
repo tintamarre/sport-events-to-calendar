@@ -48,7 +48,7 @@
     {
       "code": "414063",
       "date": "2026-10-10",
-      "time": "20:00",
+      "time": "21:00",
       "team1": "R HT-PRE OUGREE A",
       "team2": "RBC BLEGNY B",
       "category": "DD - DIVISION 2 A",
@@ -88,7 +88,7 @@
     {
       "code": "414123",
       "date": "2026-11-21",
-      "time": "20:00",
+      "time": "21:00",
       "team1": "R HT-PRE OUGREE A",
       "team2": "PRAYON TROOZ B",
       "category": "DD - DIVISION 2 A",
@@ -168,7 +168,7 @@
     {
       "code": "414243",
       "date": "2027-02-13",
-      "time": "20:00",
+      "time": "21:00",
       "team1": "R HT-PRE OUGREE A",
       "team2": "ROYAL HERVE-BATTICE D",
       "category": "DD - DIVISION 2 A",
@@ -538,7 +538,7 @@
     {
       "code": "405126",
       "date": "2026-11-21",
-      "time": "21:00",
+      "time": "19:00",
       "team1": "R HT-PRE OUGREE A",
       "team2": "ROYALE US AWANS A",
       "category": "MM - DIVISION 3 B",
@@ -738,7 +738,7 @@
     {
       "code": "412066",
       "date": "2026-10-10",
-      "time": "18:00",
+      "time": "19:00",
       "team1": "R HT-PRE OUGREE B",
       "team2": "ROYAL SPA BC E",
       "category": "MM - DIVISION 4 F",
@@ -1338,7 +1338,7 @@
     {
       "code": "600141",
       "date": "2026-12-05",
-      "time": "11:00",
+      "time": "15:00",
       "team1": "RBC AWANS",
       "team2": "R HT-PRE OUGREE",
       "category": "U 14 - DD A",
@@ -1518,7 +1518,7 @@
     {
       "code": "493126",
       "date": "2026-11-21",
-      "time": "16:00",
+      "time": "12:00",
       "team1": "R HT-PRE OUGREE",
       "team2": "ROYAL BC WANZE",
       "category": "U 14 - PROV MM D",
@@ -1678,7 +1678,7 @@
     {
       "code": "470123",
       "date": "2026-11-21",
-      "time": "10:00",
+      "time": "17:00",
       "team1": "R HT-PRE OUGREE",
       "team2": "BBC EUPEN",
       "category": "U 16 - PROV MM A",
@@ -1687,8 +1687,8 @@
     },
     {
       "code": "470145",
-      "date": "2026-12-06",
-      "time": "9:30",
+      "date": "2026-12-05",
+      "time": "13:00",
       "team1": "ROYAL MOSA AC 1941",
       "team2": "R HT-PRE OUGREE",
       "category": "U 16 - PROV MM A",
@@ -1858,7 +1858,7 @@
     {
       "code": "440126",
       "date": "2026-11-21",
-      "time": "12:00",
+      "time": "10:00",
       "team1": "R HT-PRE OUGREE",
       "team2": "HARIMALIA BC",
       "category": "U 18 - PROV MM A",
@@ -2226,6 +2226,16 @@
       "other": ""
     },
     {
+      "code": "543153",
+      "date": "2026-11-28",
+      "time": "12:30",
+      "team1": "RBC HANEFFE",
+      "team2": "R HT-PRE OUGREE",
+      "category": "U 8 - MM D",
+      "location": "RBC HANEFFE",
+      "other": ""
+    },
+    {
       "code": "543145",
       "date": "2026-12-05",
       "time": "14:00",
@@ -2233,16 +2243,6 @@
       "team2": "R HT-PRE OUGREE",
       "category": "U 8 - MM D",
       "location": "BC SPRIMONT A",
-      "other": ""
-    },
-    {
-      "code": "543153",
-      "date": "2026-12-12",
-      "time": "11:00",
-      "team1": "RBC HANEFFE",
-      "team2": "R HT-PRE OUGREE",
-      "category": "U 8 - MM D",
-      "location": "RBC HANEFFE",
       "other": ""
     },
     {

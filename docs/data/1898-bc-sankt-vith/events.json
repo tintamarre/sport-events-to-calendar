@@ -187,8 +187,8 @@
     },
     {
       "code": "406254",
-      "date": "2027-02-21",
-      "time": "12:15",
+      "date": "2027-02-20",
+      "time": "15:00",
       "team1": "RBC AUBEL",
       "team2": "BC SANKT VITH",
       "category": "MM - DIVISION 3 C",
@@ -197,8 +197,8 @@
     },
     {
       "code": "406276",
-      "date": "2027-03-06",
-      "time": "18:00",
+      "date": "2027-03-05",
+      "time": "21:00",
       "team1": "BBC EUPEN A",
       "team2": "BC SANKT VITH",
       "category": "MM - DIVISION 3 C",
@@ -316,16 +316,6 @@
       "other": ""
     },
     {
-      "code": "526125",
-      "date": "2026-11-21",
-      "time": "9:00",
-      "team1": "RBC DISON-ANDRIMONT A",
-      "team2": "BC SANKT VITH",
-      "category": "U 10 - MM G",
-      "location": "RBC DISON-ANDRIMONT A",
-      "other": ""
-    },
-    {
       "code": "526141",
       "date": "2026-12-05",
       "time": "11:00",
@@ -393,6 +383,16 @@
       "team2": "BC SANKT VITH",
       "category": "U 10 - MM G",
       "location": "PRAYON TROOZ",
+      "other": ""
+    },
+    {
+      "code": "526125",
+      "date": "2027-02-20",
+      "time": "13:00",
+      "team1": "RBC DISON-ANDRIMONT A",
+      "team2": "BC SANKT VITH",
+      "category": "U 10 - MM G",
+      "location": "RBC DISON-ANDRIMONT A",
       "other": ""
     },
     {
@@ -658,7 +658,7 @@
     {
       "code": "492061",
       "date": "2026-10-11",
-      "time": "9:00",
+      "time": "13:00",
       "team1": "RBC STAVELOT",
       "team2": "BC SANKT VITH",
       "category": "U 14 - PROV MM C",
