@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "416015",
-      "date": "2026-09-06",
-      "time": "9:30",
-      "team1": "BC VERLAINE B",
-      "team2": "ORP JAUCHE",
-      "category": "DD - DIVISION 3 A",
-      "location": "BC VERLAINE B",
-      "other": ""
-    },
-    {
       "code": "416026",
       "date": "2026-09-13",
       "time": "13:00",
@@ -53,6 +43,16 @@
       "team2": "ORP JAUCHE",
       "category": "DD - DIVISION 3 A",
       "location": "ETOILE JUPILLE",
+      "other": ""
+    },
+    {
+      "code": "416015",
+      "date": "2026-10-18",
+      "time": "13:30",
+      "team1": "BC VERLAINE B",
+      "team2": "ORP JAUCHE",
+      "category": "DD - DIVISION 3 A",
+      "location": "BC VERLAINE B",
       "other": ""
     },
     {
@@ -378,7 +378,7 @@
     {
       "code": "408285",
       "date": "2027-03-13",
-      "time": "19:00",
+      "time": "21:00",
       "team1": "ORP JAUCHE B",
       "team2": "ROYAL MOSA AC 1941 B",
       "category": "MM - DIVISION 4 B",
@@ -438,7 +438,7 @@
     {
       "code": "409025",
       "date": "2026-09-12",
-      "time": "21:00",
+      "time": "19:00",
       "team1": "ORP JAUCHE A",
       "team2": "BC SPRIMONT E",
       "category": "MM - DIVISION 4 C",
@@ -588,7 +588,7 @@
     {
       "code": "409285",
       "date": "2027-03-13",
-      "time": "21:00",
+      "time": "19:00",
       "team1": "ORP JAUCHE A",
       "team2": "ABC WAREMME D",
       "category": "MM - DIVISION 4 C",
@@ -607,8 +607,8 @@
     },
     {
       "code": "409302",
-      "date": "2027-03-27",
-      "time": "21:00",
+      "date": "2027-03-28",
+      "time": "12:00",
       "team1": "HANNUT BC C",
       "team2": "ORP JAUCHE A",
       "category": "MM - DIVISION 4 C",
@@ -643,6 +643,16 @@
       "team2": "ORP JAUCHE A",
       "category": "MM - DIVISION 4 C",
       "location": "RBC ALLEUR D",
+      "other": ""
+    },
+    {
+      "code": "825005",
+      "date": "2026-08-30",
+      "time": "13:00",
+      "team1": "BC SPRIMONT C",
+      "team2": "ORP JAUCHE A (+ 10)",
+      "category": "PROVINCIALE MM - POULE Y",
+      "location": "BC SPRIMONT C",
       "other": ""
     },
     {
@@ -877,7 +887,7 @@
     },
     {
       "code": "504143",
-      "date": "2026-10-10",
+      "date": "2026-10-17",
       "time": "17:00",
       "team1": "THUNDER CONDROZ",
       "team2": "ORP JAUCHE",

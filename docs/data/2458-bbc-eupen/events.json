@@ -6,6 +6,16 @@
   },
   "events": [
     {
+      "code": "762008",
+      "date": "2026-08-30",
+      "time": "10:30",
+      "team1": "RBC WELKENRAEDT",
+      "team2": "BBC EUPEN",
+      "category": "CPE PROV CADETS",
+      "location": "RBC WELKENRAEDT",
+      "other": ""
+    },
+    {
       "code": "406014",
       "date": "2026-09-06",
       "time": "13:00",
@@ -357,8 +367,8 @@
     },
     {
       "code": "407147",
-      "date": "2026-12-05",
-      "time": "19:00",
+      "date": "2026-12-06",
+      "time": "10:00",
       "team1": "R 4A AYWAILLE-HAMOIR D",
       "team2": "BBC EUPEN B",
       "category": "MM - DIVISION 4 A",
@@ -617,7 +627,7 @@
     },
     {
       "code": "526243",
-      "date": "2027-02-14",
+      "date": "2027-02-13",
       "time": "11:00",
       "team1": "THEUX BC B",
       "team2": "BBC EUPEN",
@@ -1547,13 +1557,13 @@
     },
     {
       "code": "420167",
-      "date": "2026-12-19",
-      "time": "15:00",
+      "date": "2026-12-20",
+      "time": "9:00",
       "team1": "R 4A AYWAILLE-HAMOIR",
       "team2": "BBC EUPEN",
       "category": "U 21 - MM",
       "location": "R 4A AYWAILLE-HAMOIR",
-      "other": ""
+      "other": "(Ho Hamoir)"
     },
     {
       "code": "420192",
@@ -1739,10 +1749,10 @@
       "code": "540066",
       "date": "2026-10-11",
       "time": "9:00",
-      "team1": "HENRI-CHAPELLE B",
+      "team1": "HENRI-CHAPELLE A",
       "team2": "BBC EUPEN",
       "category": "U 8 - MM A",
-      "location": "HENRI-CHAPELLE B",
+      "location": "HENRI-CHAPELLE A",
       "other": ""
     },
     {
@@ -1880,7 +1890,7 @@
       "date": "2027-03-27",
       "time": "9:00",
       "team1": "BBC EUPEN",
-      "team2": "HENRI-CHAPELLE B",
+      "team2": "HENRI-CHAPELLE A",
       "category": "U 8 - MM A",
       "location": "BBC EUPEN",
       "other": ""

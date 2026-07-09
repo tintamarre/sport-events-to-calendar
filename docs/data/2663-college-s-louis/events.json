@@ -78,7 +78,7 @@
     {
       "code": "521141",
       "date": "2026-12-05",
-      "time": "9:30",
+      "time": "9:00",
       "team1": "COLLEGE S LOUIS A",
       "team2": "ROYAL HERVE-BATTICE B",
       "category": "U 10 - MM B",
@@ -88,7 +88,7 @@
     {
       "code": "521151",
       "date": "2026-12-12",
-      "time": "9:30",
+      "time": "11:30",
       "team1": "COLLEGE S LOUIS A",
       "team2": "ALL. FLEMALLE B",
       "category": "U 10 - MM B",
@@ -158,7 +158,7 @@
     {
       "code": "521281",
       "date": "2027-03-13",
-      "time": "9:30",
+      "time": "13:30",
       "team1": "COLLEGE S LOUIS A",
       "team2": "MAIL. COMBLAIN",
       "category": "U 10 - MM B",
@@ -248,7 +248,7 @@
     {
       "code": "523066",
       "date": "2026-10-10",
-      "time": "9:30",
+      "time": "11:15",
       "team1": "COLLEGE S LOUIS",
       "team2": "R 4A AYWAILLE-HAMOIR A",
       "category": "U 10 - MM D",
@@ -268,7 +268,7 @@
     {
       "code": "523146",
       "date": "2026-12-05",
-      "time": "9:30",
+      "time": "9:00",
       "team1": "COLLEGE S LOUIS",
       "team2": "R REN. MONTEGNEE",
       "category": "U 10 - MM D",
@@ -427,8 +427,8 @@
     },
     {
       "code": "501066",
-      "date": "2026-10-10",
-      "time": "11:15",
+      "date": "2026-10-11",
+      "time": "9:00",
       "team1": "COLLEGE S LOUIS B",
       "team2": "ROYAL MOSA AC 1941 A",
       "category": "U 12 - MM B",
@@ -448,7 +448,7 @@
     {
       "code": "501086",
       "date": "2026-10-24",
-      "time": "11:15",
+      "time": "15:15",
       "team1": "COLLEGE S LOUIS B",
       "team2": "BC BELLEFLAMME B",
       "category": "U 12 - MM B",
@@ -487,8 +487,8 @@
     },
     {
       "code": "501146",
-      "date": "2026-12-05",
-      "time": "11:15",
+      "date": "2026-12-06",
+      "time": "16:00",
       "team1": "COLLEGE S LOUIS B",
       "team2": "RBC STAVELOT A",
       "category": "U 12 - MM B",
@@ -498,7 +498,7 @@
     {
       "code": "501156",
       "date": "2026-12-12",
-      "time": "11:15",
+      "time": "13:15",
       "team1": "COLLEGE S LOUIS B",
       "team2": "ROYAL BC NINANE",
       "category": "U 12 - MM B",
@@ -588,7 +588,7 @@
     {
       "code": "501286",
       "date": "2027-03-13",
-      "time": "11:15",
+      "time": "15:15",
       "team1": "COLLEGE S LOUIS B",
       "team2": "ALL. FLEMALLE D",
       "category": "U 12 - MM B",
@@ -646,16 +646,6 @@
       "other": ""
     },
     {
-      "code": "502014",
-      "date": "2026-09-06",
-      "time": "12:00",
-      "team1": "ROYAL BC WANZE A",
-      "team2": "COLLEGE S LOUIS A",
-      "category": "U 12 - MM C",
-      "location": "ROYAL BC WANZE A",
-      "other": ""
-    },
-    {
       "code": "502026",
       "date": "2026-09-13",
       "time": "11:00",
@@ -687,8 +677,8 @@
     },
     {
       "code": "502076",
-      "date": "2026-10-17",
-      "time": "11:15",
+      "date": "2026-10-18",
+      "time": "17:00",
       "team1": "COLLEGE S LOUIS A",
       "team2": "RB TILFF A",
       "category": "U 12 - MM C",
@@ -708,7 +698,7 @@
     {
       "code": "502107",
       "date": "2026-11-08",
-      "time": "14:00",
+      "time": "13:00",
       "team1": "BC SPRIMONT A",
       "team2": "COLLEGE S LOUIS A",
       "category": "U 12 - MM C",
@@ -727,8 +717,8 @@
     },
     {
       "code": "502126",
-      "date": "2026-11-21",
-      "time": "11:15",
+      "date": "2026-11-22",
+      "time": "9:15",
       "team1": "COLLEGE S LOUIS A",
       "team2": "ALL. FLEMALLE C",
       "category": "U 12 - MM C",
@@ -778,7 +768,7 @@
     {
       "code": "502206",
       "date": "2027-01-16",
-      "time": "11:15",
+      "time": "13:15",
       "team1": "COLLEGE S LOUIS A",
       "team2": "ROYAL BC WANZE A",
       "category": "U 12 - MM C",
@@ -803,6 +793,16 @@
       "team2": "ROYAL HERVE-BATTICE C",
       "category": "U 12 - MM C",
       "location": "COLLEGE S LOUIS A",
+      "other": ""
+    },
+    {
+      "code": "502014",
+      "date": "2027-02-07",
+      "time": "9:30",
+      "team1": "ROYAL BC WANZE A",
+      "team2": "COLLEGE S LOUIS A",
+      "category": "U 12 - MM C",
+      "location": "ROYAL BC WANZE A",
       "other": ""
     },
     {
@@ -897,7 +897,7 @@
     },
     {
       "code": "481023",
-      "date": "2026-09-12",
+      "date": "2026-09-13",
       "time": "13:00",
       "team1": "COLLEGE S LOUIS",
       "team2": "RB TILFF A",
@@ -918,7 +918,7 @@
     {
       "code": "481053",
       "date": "2026-10-03",
-      "time": "13:00",
+      "time": "11:15",
       "team1": "COLLEGE S LOUIS",
       "team2": "ALL. FLEMALLE A",
       "category": "U 14 - ELITES MM B",
@@ -957,8 +957,8 @@
     },
     {
       "code": "481143",
-      "date": "2026-12-05",
-      "time": "13:00",
+      "date": "2026-12-06",
+      "time": "14:00",
       "team1": "COLLEGE S LOUIS",
       "team2": "RBC ESNEUX A",
       "category": "U 14 - ELITES MM B",
@@ -968,7 +968,7 @@
     {
       "code": "481153",
       "date": "2026-12-12",
-      "time": "13:00",
+      "time": "15:00",
       "team1": "COLLEGE S LOUIS",
       "team2": "BC SPRIMONT A",
       "category": "U 14 - ELITES MM B",
@@ -1048,7 +1048,7 @@
     {
       "code": "481283",
       "date": "2027-03-13",
-      "time": "13:00",
+      "time": "17:00",
       "team1": "COLLEGE S LOUIS",
       "team2": "ROYAL ANS BC",
       "category": "U 14 - ELITES MM B",
@@ -1097,7 +1097,7 @@
     },
     {
       "code": "450026",
-      "date": "2026-09-12",
+      "date": "2026-09-13",
       "time": "15:00",
       "team1": "COLLEGE S LOUIS",
       "team2": "RBC BLEGNY",
@@ -1158,7 +1158,7 @@
     {
       "code": "450146",
       "date": "2026-12-05",
-      "time": "15:00",
+      "time": "14:45",
       "team1": "COLLEGE S LOUIS",
       "team2": "RBC STAVELOT",
       "category": "U 16 - ELITES MM A",
@@ -1167,8 +1167,8 @@
     },
     {
       "code": "450151",
-      "date": "2026-12-12",
-      "time": "15:45",
+      "date": "2026-12-13",
+      "time": "15:00",
       "team1": "ROYAL SPA BC A",
       "team2": "COLLEGE S LOUIS",
       "category": "U 16 - ELITES MM A",
@@ -1307,8 +1307,8 @@
     },
     {
       "code": "431033",
-      "date": "2026-09-19",
-      "time": "13:00",
+      "date": "2026-09-20",
+      "time": "15:00",
       "team1": "COLLEGE S LOUIS",
       "team2": "RBC AWANS",
       "category": "U 18 - ELITES MM B",
@@ -1357,7 +1357,7 @@
     },
     {
       "code": "431123",
-      "date": "2026-11-21",
+      "date": "2026-11-22",
       "time": "13:00",
       "team1": "COLLEGE S LOUIS",
       "team2": "HARIMALIA BC",
@@ -1378,7 +1378,7 @@
     {
       "code": "431153",
       "date": "2026-12-13",
-      "time": "14:00",
+      "time": "13:00",
       "team1": "ROYAL BC NINANE",
       "team2": "COLLEGE S LOUIS",
       "category": "U 18 - ELITES MM B",
@@ -1408,7 +1408,7 @@
     {
       "code": "431203",
       "date": "2027-01-16",
-      "time": "13:00",
+      "time": "15:00",
       "team1": "COLLEGE S LOUIS",
       "team2": "RABC ENSIVAL",
       "category": "U 18 - ELITES MM B",

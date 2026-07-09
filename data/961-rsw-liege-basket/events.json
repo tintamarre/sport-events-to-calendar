@@ -16,16 +16,6 @@
       "other": ""
     },
     {
-      "code": "410024",
-      "date": "2026-09-13",
-      "time": "17:00",
-      "team1": "CRISTAL SGH C",
-      "team2": "RSW LIEGE BASKET C",
-      "category": "MM - DIVISION 4 D",
-      "location": "CRISTAL SGH C",
-      "other": ""
-    },
-    {
       "code": "410031",
       "date": "2026-09-19",
       "time": "17:00",
@@ -76,8 +66,18 @@
       "other": ""
     },
     {
+      "code": "410024",
+      "date": "2026-11-08",
+      "time": "17:00",
+      "team1": "CRISTAL SGH C",
+      "team2": "RSW LIEGE BASKET C",
+      "category": "MM - DIVISION 4 D",
+      "location": "CRISTAL SGH C",
+      "other": ""
+    },
+    {
       "code": "410126",
-      "date": "2026-11-21",
+      "date": "2026-11-28",
       "time": "21:00",
       "team1": "GIANTS BRAIVES B",
       "team2": "RSW LIEGE BASKET C",
@@ -416,6 +416,16 @@
       "other": ""
     },
     {
+      "code": "AW100167",
+      "date": "2027-02-09",
+      "time": "20:00",
+      "team1": "BB GEMBLOUX",
+      "team2": "RSW LIEGE BASKET A",
+      "category": "MM - REGIONALE 1",
+      "location": "BB GEMBLOUX",
+      "other": ""
+    },
+    {
       "code": "AW100149",
       "date": "2027-02-14",
       "time": "16:00",
@@ -473,16 +483,6 @@
       "team2": "BC VERVIERS A",
       "category": "MM - REGIONALE 1",
       "location": "RSW LIEGE BASKET A",
-      "other": ""
-    },
-    {
-      "code": "AW100167",
-      "date": "2027-03-27",
-      "time": "20:00",
-      "team1": "BB GEMBLOUX",
-      "team2": "RSW LIEGE BASKET A",
-      "category": "MM - REGIONALE 1",
-      "location": "BB GEMBLOUX",
       "other": ""
     },
     {
@@ -763,6 +763,26 @@
       "team2": "R LINTHOUT BC",
       "category": "MM - REGIONALE 2 B",
       "location": "RSW LIEGE BASKET B",
+      "other": ""
+    },
+    {
+      "code": "830002",
+      "date": "2026-08-16",
+      "time": "11:00",
+      "team1": "RSW LIEGE BASKET C (+ 5)",
+      "team2": "RJS GRIVEGNEE",
+      "category": "PROVINCIALE MM - POULE DD",
+      "location": "RSW LIEGE BASKET C (+ 5)",
+      "other": ""
+    },
+    {
+      "code": "830004",
+      "date": "2026-08-22",
+      "time": "17:00",
+      "team1": "RSW LIEGE BASKET C (+ 10)",
+      "team2": "R.UN.BELLAIRE A",
+      "category": "PROVINCIALE MM - POULE DD",
+      "location": "RSW LIEGE BASKET C (+ 10)",
       "other": ""
     },
     {
@@ -1598,7 +1618,7 @@
     {
       "code": "AW114025",
       "date": "2026-11-22",
-      "time": "13:00",
+      "time": "15:00",
       "team1": "ESL UNITED",
       "team2": "RSW LIEGE BASKET",
       "category": "U 18 - GOLD REGIONAUX B",

@@ -18,7 +18,7 @@
     {
       "code": "402022",
       "date": "2026-09-12",
-      "time": "19:00",
+      "time": "17:00",
       "team1": "RBC VISE A",
       "team2": "BC VERVIERS B",
       "category": "MM - DIVISION 2 A",
@@ -58,7 +58,7 @@
     {
       "code": "402077",
       "date": "2026-10-18",
-      "time": "13:00",
+      "time": "11:00",
       "team1": "RBC ALLEUR C",
       "team2": "BC VERVIERS B",
       "category": "MM - DIVISION 2 A",
@@ -337,8 +337,8 @@
     },
     {
       "code": "403101",
-      "date": "2026-11-07",
-      "time": "19:00",
+      "date": "2026-11-08",
+      "time": "16:00",
       "team1": "RBC AWANS A",
       "team2": "BC VERVIERS C",
       "category": "MM - DIVISION 2 B",
@@ -536,16 +536,6 @@
       "other": ""
     },
     {
-      "code": "406022",
-      "date": "2026-09-12",
-      "time": "19:00",
-      "team1": "ROYAL BC NINANE C",
-      "team2": "BC VERVIERS D",
-      "category": "MM - DIVISION 3 C",
-      "location": "ROYAL BC NINANE C",
-      "other": ""
-    },
-    {
       "code": "406033",
       "date": "2026-09-19",
       "time": "17:00",
@@ -593,6 +583,16 @@
       "team2": "RBC BLEGNY A",
       "category": "MM - DIVISION 3 C",
       "location": "BC VERVIERS D",
+      "other": ""
+    },
+    {
+      "code": "406022",
+      "date": "2026-10-31",
+      "time": "19:00",
+      "team1": "ROYAL BC NINANE C",
+      "team2": "BC VERVIERS D",
+      "category": "MM - DIVISION 3 C",
+      "location": "ROYAL BC NINANE C",
       "other": ""
     },
     {
@@ -788,7 +788,7 @@
     {
       "code": "AW100008",
       "date": "2026-09-05",
-      "time": "20:30",
+      "time": "19:00",
       "team1": "BCJS ESTAIMPUIS",
       "team2": "BC VERVIERS A",
       "category": "MM - REGIONALE 1",
@@ -1098,7 +1098,7 @@
     {
       "code": "524022",
       "date": "2026-09-12",
-      "time": "10:30",
+      "time": "9:00",
       "team1": "ROYAL BC NINANE B",
       "team2": "BC VERVIERS",
       "category": "U 10 - MM E",
@@ -1846,16 +1846,6 @@
       "other": ""
     },
     {
-      "code": "550234",
-      "date": "2027-02-06",
-      "time": "9:00",
-      "team1": "RBC AUBEL A",
-      "team2": "BC VERVIERS",
-      "category": "U 7 - MM A",
-      "location": "RBC AUBEL A",
-      "other": ""
-    },
-    {
       "code": "550246",
       "date": "2027-02-13",
       "time": "11:30",
@@ -1863,6 +1853,16 @@
       "team2": "BC VERVIERS",
       "category": "U 7 - MM A",
       "location": "R 4A AYWAILLE-HAMOIR A",
+      "other": ""
+    },
+    {
+      "code": "550234",
+      "date": "2027-02-20",
+      "time": "9:00",
+      "team1": "RBC AUBEL A",
+      "team2": "BC VERVIERS",
+      "category": "U 7 - MM A",
+      "location": "RBC AUBEL A",
       "other": ""
     },
     {
@@ -1940,7 +1940,7 @@
       "date": "2026-10-03",
       "time": "12:30",
       "team1": "BC VERVIERS",
-      "team2": "HENRI-CHAPELLE B",
+      "team2": "HENRI-CHAPELLE A",
       "category": "U 8 - MM A",
       "location": "BC VERVIERS",
       "other": ""
@@ -2036,23 +2036,23 @@
       "other": ""
     },
     {
-      "code": "540234",
-      "date": "2027-02-06",
+      "code": "540246",
+      "date": "2027-02-14",
       "time": "9:00",
+      "team1": "HENRI-CHAPELLE A",
+      "team2": "BC VERVIERS",
+      "category": "U 8 - MM A",
+      "location": "HENRI-CHAPELLE A",
+      "other": ""
+    },
+    {
+      "code": "540234",
+      "date": "2027-02-20",
+      "time": "10:30",
       "team1": "RBC AUBEL A",
       "team2": "BC VERVIERS",
       "category": "U 8 - MM A",
       "location": "RBC AUBEL A",
-      "other": ""
-    },
-    {
-      "code": "540246",
-      "date": "2027-02-14",
-      "time": "9:00",
-      "team1": "HENRI-CHAPELLE B",
-      "team2": "BC VERVIERS",
-      "category": "U 8 - MM A",
-      "location": "HENRI-CHAPELLE B",
       "other": ""
     },
     {

@@ -58,7 +58,7 @@
     {
       "code": "415072",
       "date": "2026-10-18",
-      "time": "16:00",
+      "time": "14:00",
       "team1": "ROYAL BC NINANE A",
       "team2": "R 4A AYWAILLE-HAMOIR A",
       "category": "DD - DIVISION 2 B",
@@ -867,8 +867,8 @@
     },
     {
       "code": "404203",
-      "date": "2027-01-17",
-      "time": "15:00",
+      "date": "2027-01-16",
+      "time": "21:00",
       "team1": "THEUX BC B",
       "team2": "R 4A AYWAILLE-HAMOIR B",
       "category": "MM - DIVISION 3 A",
@@ -997,8 +997,8 @@
     },
     {
       "code": "407037",
-      "date": "2026-09-19",
-      "time": "19:00",
+      "date": "2026-09-20",
+      "time": "10:00",
       "team1": "R 4A AYWAILLE-HAMOIR D",
       "team2": "DF BC MALMEDY",
       "category": "MM - DIVISION 4 A",
@@ -1047,8 +1047,8 @@
     },
     {
       "code": "407117",
-      "date": "2026-11-14",
-      "time": "19:00",
+      "date": "2026-11-15",
+      "time": "10:00",
       "team1": "R 4A AYWAILLE-HAMOIR D",
       "team2": "ETOILE JUPILLE D",
       "category": "MM - DIVISION 4 A",
@@ -1067,8 +1067,8 @@
     },
     {
       "code": "407147",
-      "date": "2026-12-05",
-      "time": "19:00",
+      "date": "2026-12-06",
+      "time": "10:00",
       "team1": "R 4A AYWAILLE-HAMOIR D",
       "team2": "BBC EUPEN B",
       "category": "MM - DIVISION 4 A",
@@ -1077,7 +1077,7 @@
     },
     {
       "code": "407151",
-      "date": "2026-12-12",
+      "date": "2026-12-13",
       "time": "17:00",
       "team1": "ROYAL SPA BC D",
       "team2": "R 4A AYWAILLE-HAMOIR D",
@@ -1087,8 +1087,8 @@
     },
     {
       "code": "407167",
-      "date": "2026-12-19",
-      "time": "19:00",
+      "date": "2026-12-20",
+      "time": "11:00",
       "team1": "R 4A AYWAILLE-HAMOIR D",
       "team2": "RABC ENSIVAL D",
       "category": "MM - DIVISION 4 A",
@@ -1117,8 +1117,8 @@
     },
     {
       "code": "407227",
-      "date": "2027-01-30",
-      "time": "19:00",
+      "date": "2027-01-31",
+      "time": "10:00",
       "team1": "R 4A AYWAILLE-HAMOIR D",
       "team2": "PRAYON TROOZ B",
       "category": "MM - DIVISION 4 A",
@@ -1157,8 +1157,8 @@
     },
     {
       "code": "407297",
-      "date": "2027-03-20",
-      "time": "19:00",
+      "date": "2027-03-21",
+      "time": "10:00",
       "team1": "R 4A AYWAILLE-HAMOIR D",
       "team2": "RB TILFF E",
       "category": "MM - DIVISION 4 A",
@@ -1167,8 +1167,8 @@
     },
     {
       "code": "407307",
-      "date": "2027-03-27",
-      "time": "19:00",
+      "date": "2027-03-28",
+      "time": "10:00",
       "team1": "R 4A AYWAILLE-HAMOIR D",
       "team2": "HENRI-CHAPELLE D",
       "category": "MM - DIVISION 4 A",
@@ -1187,8 +1187,8 @@
     },
     {
       "code": "407337",
-      "date": "2027-04-17",
-      "time": "19:00",
+      "date": "2027-04-18",
+      "time": "10:00",
       "team1": "R 4A AYWAILLE-HAMOIR D",
       "team2": "ROYAL SPA BC D",
       "category": "MM - DIVISION 4 A",
@@ -1197,8 +1197,8 @@
     },
     {
       "code": "407347",
-      "date": "2027-04-24",
-      "time": "19:00",
+      "date": "2027-04-25",
+      "time": "10:00",
       "team1": "R 4A AYWAILLE-HAMOIR D",
       "team2": "RBC STAVELOT C",
       "category": "MM - DIVISION 4 A",
@@ -1426,6 +1426,26 @@
       "other": ""
     },
     {
+      "code": "817002",
+      "date": "2026-08-15",
+      "time": "19:30",
+      "team1": "THUNDER CONDROZ",
+      "team2": "R 4A AYWAILLE-HAMOIR C",
+      "category": "PROVINCIALE MM - POULE Q",
+      "location": "THUNDER CONDROZ",
+      "other": ""
+    },
+    {
+      "code": "824004",
+      "date": "2026-08-22",
+      "time": "20:30",
+      "team1": "RB TILFF D (+ 10)",
+      "team2": "R 4A AYWAILLE-HAMOIR A",
+      "category": "PROVINCIALE MM - POULE X",
+      "location": "RB TILFF D (+ 10)",
+      "other": ""
+    },
+    {
       "code": "522013",
       "date": "2026-09-05",
       "time": "13:30",
@@ -1467,8 +1487,8 @@
     },
     {
       "code": "522066",
-      "date": "2026-10-10",
-      "time": "15:30",
+      "date": "2026-10-11",
+      "time": "13:30",
       "team1": "BC SPRIMONT B",
       "team2": "R 4A AYWAILLE-HAMOIR C",
       "category": "U 10 - MM C",
@@ -1627,8 +1647,8 @@
     },
     {
       "code": "523013",
-      "date": "2026-09-05",
-      "time": "9:00",
+      "date": "2026-09-06",
+      "time": "13:00",
       "team1": "ROYAL ANS BC B",
       "team2": "R 4A AYWAILLE-HAMOIR A",
       "category": "U 10 - MM D",
@@ -1658,7 +1678,7 @@
     {
       "code": "523066",
       "date": "2026-10-10",
-      "time": "9:30",
+      "time": "11:15",
       "team1": "COLLEGE S LOUIS",
       "team2": "R 4A AYWAILLE-HAMOIR A",
       "category": "U 10 - MM D",
@@ -2546,16 +2566,6 @@
       "other": ""
     },
     {
-      "code": "430011",
-      "date": "2026-09-27",
-      "time": "11:00",
-      "team1": "ROYAL BC WANZE",
-      "team2": "R 4A AYWAILLE-HAMOIR",
-      "category": "U 18 - ELITES MM A",
-      "location": "ROYAL BC WANZE",
-      "other": ""
-    },
-    {
       "code": "430054",
       "date": "2026-10-03",
       "time": "15:00",
@@ -2573,6 +2583,16 @@
       "team2": "ABC WAREMME A",
       "category": "U 18 - ELITES MM A",
       "location": "R 4A AYWAILLE-HAMOIR",
+      "other": ""
+    },
+    {
+      "code": "430011",
+      "date": "2026-10-18",
+      "time": "9:00",
+      "team1": "ROYAL BC WANZE",
+      "team2": "R 4A AYWAILLE-HAMOIR",
+      "category": "U 18 - ELITES MM A",
+      "location": "ROYAL BC WANZE",
       "other": ""
     },
     {
@@ -2877,7 +2897,7 @@
     },
     {
       "code": "420151",
-      "date": "2026-12-12",
+      "date": "2026-12-13",
       "time": "15:00",
       "team1": "ROYAL SPA BC",
       "team2": "R 4A AYWAILLE-HAMOIR",
@@ -2887,13 +2907,13 @@
     },
     {
       "code": "420167",
-      "date": "2026-12-19",
-      "time": "15:00",
+      "date": "2026-12-20",
+      "time": "9:00",
       "team1": "R 4A AYWAILLE-HAMOIR",
       "team2": "BBC EUPEN",
       "category": "U 21 - MM",
       "location": "R 4A AYWAILLE-HAMOIR",
-      "other": ""
+      "other": "(Ho Hamoir)"
     },
     {
       "code": "420195",
@@ -3127,7 +3147,7 @@
     },
     {
       "code": "550151",
-      "date": "2026-12-12",
+      "date": "2026-12-13",
       "time": "9:00",
       "team1": "ROYAL SPA BC A",
       "team2": "R 4A AYWAILLE-HAMOIR A",
@@ -3437,8 +3457,8 @@
     },
     {
       "code": "551331",
-      "date": "2027-04-18",
-      "time": "10:45",
+      "date": "2027-04-25",
+      "time": "9:00",
       "team1": "RBC VISE B",
       "team2": "R 4A AYWAILLE-HAMOIR B",
       "category": "U 7 - MM B",

@@ -266,26 +266,6 @@
       "other": ""
     },
     {
-      "code": "416015",
-      "date": "2026-09-06",
-      "time": "9:30",
-      "team1": "BC VERLAINE B",
-      "team2": "ORP JAUCHE",
-      "category": "DD - DIVISION 3 A",
-      "location": "BC VERLAINE B",
-      "other": ""
-    },
-    {
-      "code": "416025",
-      "date": "2026-09-13",
-      "time": "9:30",
-      "team1": "BC VERLAINE B",
-      "team2": "GIANTS BRAIVES",
-      "category": "DD - DIVISION 3 A",
-      "location": "BC VERLAINE B",
-      "other": ""
-    },
-    {
       "code": "416034",
       "date": "2026-09-20",
       "time": "15:30",
@@ -311,6 +291,26 @@
       "time": "9:30",
       "team1": "BC VERLAINE B",
       "team2": "VAIL. JUPILLE",
+      "category": "DD - DIVISION 3 A",
+      "location": "BC VERLAINE B",
+      "other": ""
+    },
+    {
+      "code": "416015",
+      "date": "2026-10-18",
+      "time": "13:30",
+      "team1": "BC VERLAINE B",
+      "team2": "ORP JAUCHE",
+      "category": "DD - DIVISION 3 A",
+      "location": "BC VERLAINE B",
+      "other": ""
+    },
+    {
+      "code": "416025",
+      "date": "2026-10-25",
+      "time": "13:30",
+      "team1": "BC VERLAINE B",
+      "team2": "GIANTS BRAIVES",
       "category": "DD - DIVISION 3 A",
       "location": "BC VERLAINE B",
       "other": ""
@@ -398,7 +398,7 @@
     {
       "code": "416215",
       "date": "2027-01-24",
-      "time": "9:30",
+      "time": "11:30",
       "team1": "BC VERLAINE B",
       "team2": "RBC VISE B",
       "category": "DD - DIVISION 3 A",
@@ -906,6 +906,16 @@
       "other": ""
     },
     {
+      "code": "527114",
+      "date": "2026-10-18",
+      "time": "10:45",
+      "team1": "BC VERLAINE B",
+      "team2": "RBC ALLEUR B",
+      "category": "U 10 - MM H",
+      "location": "BC VERLAINE B",
+      "other": ""
+    },
+    {
       "code": "527106",
       "date": "2026-11-07",
       "time": "10:30",
@@ -913,16 +923,6 @@
       "team2": "BC VERLAINE B",
       "category": "U 10 - MM H",
       "location": "RBC ESNEUX A",
-      "other": ""
-    },
-    {
-      "code": "527114",
-      "date": "2026-11-14",
-      "time": "13:00",
-      "team1": "BC VERLAINE B",
-      "team2": "RBC ALLEUR B",
-      "category": "U 10 - MM H",
-      "location": "BC VERLAINE B",
       "other": ""
     },
     {
@@ -1168,7 +1168,7 @@
     {
       "code": "502153",
       "date": "2026-12-13",
-      "time": "10:45",
+      "time": "9:30",
       "team1": "BC VERLAINE A",
       "team2": "ROYAL ANS BC A",
       "category": "U 12 - MM C",
@@ -1258,7 +1258,7 @@
     {
       "code": "502293",
       "date": "2027-03-21",
-      "time": "10:45",
+      "time": "9:30",
       "team1": "BC VERLAINE A",
       "team2": "LA VILLERSOISE B",
       "category": "U 12 - MM C",
@@ -1917,8 +1917,8 @@
     },
     {
       "code": "591215",
-      "date": "2027-01-23",
-      "time": "13:30",
+      "date": "2027-01-24",
+      "time": "11:00",
       "team1": "RBC BLEGNY",
       "team2": "BC VERLAINE",
       "category": "U 16 - DD B",
@@ -2078,7 +2078,7 @@
     {
       "code": "472206",
       "date": "2027-01-16",
-      "time": "13:00",
+      "time": "11:00",
       "team1": "GIANTS BRAIVES B",
       "team2": "BC VERLAINE",
       "category": "U 16 - PROV MM C",
@@ -2397,8 +2397,8 @@
     },
     {
       "code": "544126",
-      "date": "2026-11-22",
-      "time": "11:00",
+      "date": "2026-11-29",
+      "time": "13:00",
       "team1": "GIANTS BRAIVES A",
       "team2": "BC VERLAINE",
       "category": "U 8 - MM E",

@@ -36,16 +36,6 @@
       "other": ""
     },
     {
-      "code": "416014",
-      "date": "2026-09-05",
-      "time": "21:00",
-      "team1": "VAIL. JUPILLE",
-      "team2": "ETOILE JUPILLE",
-      "category": "DD - DIVISION 3 A",
-      "location": "VAIL. JUPILLE",
-      "other": ""
-    },
-    {
       "code": "416021",
       "date": "2026-09-13",
       "time": "11:00",
@@ -83,6 +73,16 @@
       "team2": "ORP JAUCHE",
       "category": "DD - DIVISION 3 A",
       "location": "ETOILE JUPILLE",
+      "other": ""
+    },
+    {
+      "code": "416014",
+      "date": "2026-10-17",
+      "time": "21:00",
+      "team1": "VAIL. JUPILLE",
+      "team2": "ETOILE JUPILLE",
+      "category": "DD - DIVISION 3 A",
+      "location": "VAIL. JUPILLE",
       "other": ""
     },
     {
@@ -447,8 +447,8 @@
     },
     {
       "code": "401292",
-      "date": "2027-03-19",
-      "time": "21:00",
+      "date": "2027-03-20",
+      "time": "19:00",
       "team1": "HANNUT BC A",
       "team2": "ETOILE JUPILLE A",
       "category": "MM - DIVISION 1",
@@ -527,8 +527,8 @@
     },
     {
       "code": "404054",
-      "date": "2026-10-02",
-      "time": "20:00",
+      "date": "2026-10-04",
+      "time": "11:00",
       "team1": "ETOILE JUPILLE B",
       "team2": "BC BELLEFLAMME D",
       "category": "MM - DIVISION 3 A",
@@ -827,8 +827,8 @@
     },
     {
       "code": "407117",
-      "date": "2026-11-14",
-      "time": "19:00",
+      "date": "2026-11-15",
+      "time": "10:00",
       "team1": "R 4A AYWAILLE-HAMOIR D",
       "team2": "ETOILE JUPILLE D",
       "category": "MM - DIVISION 4 A",
@@ -1193,6 +1193,86 @@
       "team2": "ETOILE JUPILLE C",
       "category": "MM - DIVISION 4 C",
       "location": "GIANTS BRAIVES A",
+      "other": ""
+    },
+    {
+      "code": "905003",
+      "date": "2026-08-23",
+      "time": "11:00",
+      "team1": "HENRI-CHAPELLE B",
+      "team2": "ETOILE JUPILLE (+ 5)",
+      "category": "PROVINCIALE DD - POULE E",
+      "location": "HENRI-CHAPELLE B",
+      "other": ""
+    },
+    {
+      "code": "905006",
+      "date": "2026-08-30",
+      "time": "15:00",
+      "team1": "ETOILE JUPILLE",
+      "team2": "ROYAL BC NINANE B",
+      "category": "PROVINCIALE DD - POULE E",
+      "location": "ETOILE JUPILLE",
+      "other": ""
+    },
+    {
+      "code": "801002",
+      "date": "2026-08-15",
+      "time": "19:00",
+      "team1": "RABC ENSIVAL B",
+      "team2": "ETOILE JUPILLE B",
+      "category": "PROVINCIALE MM - POULE A",
+      "location": "RABC ENSIVAL B",
+      "other": ""
+    },
+    {
+      "code": "801003",
+      "date": "2026-08-23",
+      "time": "15:00",
+      "team1": "ETOILE JUPILLE B",
+      "team2": "RBC WELKENRAEDT B (+ 5)",
+      "category": "PROVINCIALE MM - POULE A",
+      "location": "ETOILE JUPILLE B",
+      "other": ""
+    },
+    {
+      "code": "805001",
+      "date": "2026-08-16",
+      "time": "13:00",
+      "team1": "ETOILE JUPILLE A",
+      "team2": "DF BC MALMEDY (+ 15)",
+      "category": "PROVINCIALE MM - POULE E",
+      "location": "ETOILE JUPILLE A",
+      "other": ""
+    },
+    {
+      "code": "805005",
+      "date": "2026-08-30",
+      "time": "13:00",
+      "team1": "ETOILE JUPILLE A",
+      "team2": "RBC STAVELOT B (+ 10)",
+      "category": "PROVINCIALE MM - POULE E",
+      "location": "ETOILE JUPILLE A",
+      "other": ""
+    },
+    {
+      "code": "820002",
+      "date": "2026-08-16",
+      "time": "11:00",
+      "team1": "ETOILE JUPILLE C (+ 5)",
+      "team2": "ROYALE US AWANS A",
+      "category": "PROVINCIALE MM - POULE T",
+      "location": "ETOILE JUPILLE C (+ 5)",
+      "other": ""
+    },
+    {
+      "code": "820004",
+      "date": "2026-08-23",
+      "time": "17:00",
+      "team1": "ETOILE JUPILLE C (+ 10)",
+      "team2": "ROYAL MOSA AC 1941 A",
+      "category": "PROVINCIALE MM - POULE T",
+      "location": "ETOILE JUPILLE C (+ 10)",
       "other": ""
     },
     {
@@ -1717,8 +1797,8 @@
     },
     {
       "code": "480054",
-      "date": "2026-10-04",
-      "time": "11:30",
+      "date": "2026-10-03",
+      "time": "15:00",
       "team1": "ETOILE JUPILLE",
       "team2": "BC BELLEFLAMME",
       "category": "U 14 - ELITES MM A",
@@ -1928,7 +2008,7 @@
     {
       "code": "470063",
       "date": "2026-10-10",
-      "time": "10:00",
+      "time": "9:30",
       "team1": "R HT-PRE OUGREE",
       "team2": "ETOILE JUPILLE",
       "category": "U 16 - PROV MM A",

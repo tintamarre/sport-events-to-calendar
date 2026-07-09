@@ -6,6 +6,16 @@
   },
   "events": [
     {
+      "code": "763012",
+      "date": "2026-08-29",
+      "time": "16:00",
+      "team1": "RBC AWANS B",
+      "team2": "R HT-PRE OUGREE",
+      "category": "CPE PROV MINIMES MM",
+      "location": "RBC AWANS B",
+      "other": ""
+    },
+    {
       "code": "414017",
       "date": "2026-09-05",
       "time": "17:00",
@@ -236,6 +246,16 @@
       "other": ""
     },
     {
+      "code": "414333",
+      "date": "2027-04-03",
+      "time": "20:00",
+      "team1": "R HT-PRE OUGREE A",
+      "team2": "ABC WAREMME B",
+      "category": "DD - DIVISION 2 A",
+      "location": "R HT-PRE OUGREE A",
+      "other": ""
+    },
+    {
       "code": "414326",
       "date": "2027-04-11",
       "time": "18:00",
@@ -243,16 +263,6 @@
       "team2": "R HT-PRE OUGREE A",
       "category": "DD - DIVISION 2 A",
       "location": "RBC DISON-ANDRIMONT A",
-      "other": ""
-    },
-    {
-      "code": "414333",
-      "date": "2027-04-17",
-      "time": "20:00",
-      "team1": "R HT-PRE OUGREE A",
-      "team2": "ABC WAREMME B",
-      "category": "DD - DIVISION 2 A",
-      "location": "R HT-PRE OUGREE A",
       "other": ""
     },
     {
@@ -298,7 +308,7 @@
     {
       "code": "418061",
       "date": "2026-10-11",
-      "time": "10:00",
+      "time": "9:00",
       "team1": "ROYAL SPA BC B",
       "team2": "R HT-PRE OUGREE B",
       "category": "DD - DIVISION 3 C",
@@ -338,7 +348,7 @@
     {
       "code": "418156",
       "date": "2026-12-12",
-      "time": "20:00",
+      "time": "19:00",
       "team1": "R HT-PRE OUGREE B",
       "team2": "ROYAL SPA BC B",
       "category": "DD - DIVISION 3 C",
@@ -488,7 +498,7 @@
     {
       "code": "405061",
       "date": "2026-10-10",
-      "time": "21:00",
+      "time": "17:00",
       "team1": "RBC VISE C",
       "team2": "R HT-PRE OUGREE A",
       "category": "MM - DIVISION 3 B",
@@ -547,8 +557,8 @@
     },
     {
       "code": "405147",
-      "date": "2026-12-05",
-      "time": "21:00",
+      "date": "2026-12-06",
+      "time": "11:00",
       "team1": "BC SPRIMONT D",
       "team2": "R HT-PRE OUGREE A",
       "category": "MM - DIVISION 3 B",
@@ -557,8 +567,8 @@
     },
     {
       "code": "405152",
-      "date": "2026-12-12",
-      "time": "17:00",
+      "date": "2026-12-13",
+      "time": "14:00",
       "team1": "HANNUT BC B",
       "team2": "R HT-PRE OUGREE A",
       "category": "MM - DIVISION 3 B",
@@ -728,7 +738,7 @@
     {
       "code": "412034",
       "date": "2026-09-19",
-      "time": "17:00",
+      "time": "19:00",
       "team1": "AVENIR JUPILLE B",
       "team2": "R HT-PRE OUGREE B",
       "category": "MM - DIVISION 4 F",
@@ -798,7 +808,7 @@
     {
       "code": "412156",
       "date": "2026-12-12",
-      "time": "18:00",
+      "time": "21:00",
       "team1": "R HT-PRE OUGREE B",
       "team2": "ROYAL BC NINANE D",
       "category": "MM - DIVISION 4 F",
@@ -923,6 +933,46 @@
       "team2": "R HT-PRE OUGREE B",
       "category": "MM - DIVISION 4 F",
       "location": "RBC WELKENRAEDT B",
+      "other": ""
+    },
+    {
+      "code": "906004",
+      "date": "2026-08-22",
+      "time": "17:00",
+      "team1": "R HT-PRE OUGREE B (+ 10)",
+      "team2": "ROYAL HERVE-BATTICE C",
+      "category": "PROVINCIALE DD - POULE F",
+      "location": "R HT-PRE OUGREE B (+ 10)",
+      "other": ""
+    },
+    {
+      "code": "913003",
+      "date": "2026-08-22",
+      "time": "19:00",
+      "team1": "R HT-PRE OUGREE A",
+      "team2": "ROYAL SPA BC B (+ 5)",
+      "category": "PROVINCIALE DD - POULE M",
+      "location": "R HT-PRE OUGREE A",
+      "other": ""
+    },
+    {
+      "code": "803004",
+      "date": "2026-08-22",
+      "time": "21:00",
+      "team1": "R HT-PRE OUGREE A (+ 10)",
+      "team2": "THEUX BC A",
+      "category": "PROVINCIALE MM - POULE C",
+      "location": "R HT-PRE OUGREE A (+ 10)",
+      "other": ""
+    },
+    {
+      "code": "807006",
+      "date": "2026-08-29",
+      "time": "20:00",
+      "team1": "R HT-PRE OUGREE B (+ 5)",
+      "team2": "LA VILLERSOISE B",
+      "category": "PROVINCIALE MM - POULE G",
+      "location": "R HT-PRE OUGREE B (+ 5)",
       "other": ""
     },
     {
@@ -1648,7 +1698,7 @@
     {
       "code": "470063",
       "date": "2026-10-10",
-      "time": "10:00",
+      "time": "9:30",
       "team1": "R HT-PRE OUGREE",
       "team2": "ETOILE JUPILLE",
       "category": "U 16 - PROV MM A",
@@ -1668,7 +1718,7 @@
     {
       "code": "470114",
       "date": "2026-11-14",
-      "time": "9:00",
+      "time": "13:00",
       "team1": "ROYAL SPA BC B",
       "team2": "R HT-PRE OUGREE",
       "category": "U 16 - PROV MM A",
@@ -1708,7 +1758,7 @@
     {
       "code": "470163",
       "date": "2026-12-19",
-      "time": "10:00",
+      "time": "9:30",
       "team1": "R HT-PRE OUGREE",
       "team2": "PRAYON TROOZ",
       "category": "U 16 - PROV MM A",
@@ -1718,7 +1768,7 @@
     {
       "code": "470213",
       "date": "2027-01-23",
-      "time": "10:00",
+      "time": "9:30",
       "team1": "R HT-PRE OUGREE",
       "team2": "RBC WELKENRAEDT",
       "category": "U 16 - PROV MM A",
@@ -1728,7 +1778,7 @@
     {
       "code": "470223",
       "date": "2027-01-30",
-      "time": "10:00",
+      "time": "9:30",
       "team1": "R HT-PRE OUGREE",
       "team2": "DF BC MALMEDY",
       "category": "U 16 - PROV MM A",
@@ -1748,7 +1798,7 @@
     {
       "code": "470243",
       "date": "2027-02-13",
-      "time": "10:00",
+      "time": "9:30",
       "team1": "R HT-PRE OUGREE",
       "team2": "RBC DISON-ANDRIMONT",
       "category": "U 16 - PROV MM A",
@@ -1798,7 +1848,7 @@
     {
       "code": "470333",
       "date": "2027-04-17",
-      "time": "10:00",
+      "time": "9:30",
       "team1": "R HT-PRE OUGREE",
       "team2": "ROYAL MOSA AC 1941",
       "category": "U 16 - PROV MM A",
@@ -1807,8 +1857,8 @@
     },
     {
       "code": "440013",
-      "date": "2026-09-06",
-      "time": "13:00",
+      "date": "2026-09-05",
+      "time": "10:45",
       "team1": "ROYAL ANS BC",
       "team2": "R HT-PRE OUGREE",
       "category": "U 18 - PROV MM A",

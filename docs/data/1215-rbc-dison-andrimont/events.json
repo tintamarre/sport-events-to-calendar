@@ -6,6 +6,16 @@
   },
   "events": [
     {
+      "code": "764007",
+      "date": "2026-08-29",
+      "time": "15:00",
+      "team1": "RBC DISON-ANDRIMONT",
+      "team2": "RBC AUBEL",
+      "category": "CPE PROV PUPILLES MM",
+      "location": "RBC DISON-ANDRIMONT",
+      "other": ""
+    },
+    {
       "code": "414016",
       "date": "2026-09-05",
       "time": "19:00",
@@ -396,16 +406,6 @@
       "other": ""
     },
     {
-      "code": "417225",
-      "date": "2027-01-30",
-      "time": "18:30",
-      "team1": "BCM HERSTAL",
-      "team2": "RBC DISON-ANDRIMONT B",
-      "category": "DD - DIVISION 3 B",
-      "location": "BCM HERSTAL",
-      "other": ""
-    },
-    {
       "code": "417246",
       "date": "2027-02-13",
       "time": "17:00",
@@ -453,6 +453,16 @@
       "team2": "RBC DISON-ANDRIMONT B",
       "category": "DD - DIVISION 3 B",
       "location": "R 4A AYWAILLE-HAMOIR B",
+      "other": ""
+    },
+    {
+      "code": "417225",
+      "date": "2027-04-03",
+      "time": "18:30",
+      "team1": "BCM HERSTAL",
+      "team2": "RBC DISON-ANDRIMONT B",
+      "category": "DD - DIVISION 3 B",
+      "location": "BCM HERSTAL",
       "other": ""
     },
     {
@@ -567,8 +577,8 @@
     },
     {
       "code": "403147",
-      "date": "2026-12-05",
-      "time": "17:00",
+      "date": "2026-12-04",
+      "time": "21:00",
       "team1": "BC SPRIMONT C",
       "team2": "RBC DISON-ANDRIMONT A",
       "category": "MM - DIVISION 2 B",
@@ -897,8 +907,8 @@
     },
     {
       "code": "404243",
-      "date": "2027-02-14",
-      "time": "15:00",
+      "date": "2027-02-13",
+      "time": "21:00",
       "team1": "THEUX BC B",
       "team2": "RBC DISON-ANDRIMONT B",
       "category": "MM - DIVISION 3 A",
@@ -1206,6 +1216,86 @@
       "other": ""
     },
     {
+      "code": "911001",
+      "date": "2026-08-15",
+      "time": "17:00",
+      "team1": "RABC ENSIVAL A",
+      "team2": "RBC DISON-ANDRIMONT B (",
+      "category": "PROVINCIALE DD - POULE K",
+      "location": "RABC ENSIVAL A",
+      "other": ""
+    },
+    {
+      "code": "911006",
+      "date": "2026-08-29",
+      "time": "17:00",
+      "team1": "RBC DISON-ANDRIMONT B",
+      "team2": "RBC VISE B",
+      "category": "PROVINCIALE DD - POULE K",
+      "location": "RBC DISON-ANDRIMONT B",
+      "other": ""
+    },
+    {
+      "code": "914004",
+      "date": "2026-08-22",
+      "time": "19:00",
+      "team1": "RBC AWANS A (+ 5)",
+      "team2": "RBC DISON-ANDRIMONT A",
+      "category": "PROVINCIALE DD - POULE N",
+      "location": "RBC AWANS A (+ 5)",
+      "other": ""
+    },
+    {
+      "code": "914005",
+      "date": "2026-08-29",
+      "time": "19:00",
+      "team1": "RBC DISON-ANDRIMONT A",
+      "team2": "RBC WELKENRAEDT",
+      "category": "PROVINCIALE DD - POULE N",
+      "location": "RBC DISON-ANDRIMONT A",
+      "other": ""
+    },
+    {
+      "code": "829005",
+      "date": "2026-08-29",
+      "time": "21:00",
+      "team1": "RBC DISON-ANDRIMONT A",
+      "team2": "ESL UNITED F (+ 5)",
+      "category": "PROVINCIALE MM - POULE CC",
+      "location": "RBC DISON-ANDRIMONT A",
+      "other": ""
+    },
+    {
+      "code": "826005",
+      "date": "2026-08-30",
+      "time": "13:00",
+      "team1": "RBC ALLEUR B",
+      "team2": "RBC DISON-ANDRIMONT B (",
+      "category": "PROVINCIALE MM - POULE Z",
+      "location": "RBC ALLEUR B",
+      "other": ""
+    },
+    {
+      "code": "911001",
+      "date": "2026-08-15",
+      "time": "17:00",
+      "team1": "RABC ENSIVAL A",
+      "team2": "RBC DISON-ANDRIMONT B (+ 10)",
+      "category": "RBC DISON-ANDRIMONT B (+ 10)",
+      "location": "RABC ENSIVAL A",
+      "other": ""
+    },
+    {
+      "code": "826005",
+      "date": "2026-08-30",
+      "time": "13:00",
+      "team1": "RBC ALLEUR B",
+      "team2": "RBC DISON-ANDRIMONT B (+ 5)",
+      "category": "RBC DISON-ANDRIMONT B (+ 5)",
+      "location": "RBC ALLEUR B",
+      "other": ""
+    },
+    {
       "code": "524015",
       "date": "2026-09-05",
       "time": "9:00",
@@ -1447,7 +1537,7 @@
     },
     {
       "code": "526163",
-      "date": "2026-12-20",
+      "date": "2026-12-19",
       "time": "11:00",
       "team1": "THEUX BC B",
       "team2": "RBC DISON-ANDRIMONT A",
@@ -1826,16 +1916,6 @@
       "other": ""
     },
     {
-      "code": "506165",
-      "date": "2026-12-19",
-      "time": "9:00",
-      "team1": "RBC DISON-ANDRIMONT B",
-      "team2": "THEUX BC B",
-      "category": "U 12 - MM G",
-      "location": "RBC DISON-ANDRIMONT B",
-      "other": ""
-    },
-    {
       "code": "506195",
       "date": "2027-01-09",
       "time": "9:00",
@@ -1923,6 +2003,16 @@
       "team2": "RBC DISON-ANDRIMONT B",
       "category": "U 12 - MM G",
       "location": "HENRI-CHAPELLE C",
+      "other": ""
+    },
+    {
+      "code": "506165",
+      "date": "2027-04-04",
+      "time": "9:00",
+      "team1": "RBC DISON-ANDRIMONT B",
+      "team2": "THEUX BC B",
+      "category": "U 12 - MM G",
+      "location": "RBC DISON-ANDRIMONT B",
       "other": ""
     },
     {
@@ -2347,7 +2437,7 @@
     },
     {
       "code": "590151",
-      "date": "2026-12-12",
+      "date": "2026-12-13",
       "time": "13:00",
       "team1": "ROYAL SPA BC",
       "team2": "RBC DISON-ANDRIMONT",
@@ -2578,7 +2668,7 @@
     {
       "code": "470243",
       "date": "2027-02-13",
-      "time": "10:00",
+      "time": "9:30",
       "team1": "R HT-PRE OUGREE",
       "team2": "RBC DISON-ANDRIMONT",
       "category": "U 16 - PROV MM A",
@@ -2656,6 +2746,16 @@
       "other": ""
     },
     {
+      "code": "420093",
+      "date": "2026-09-27",
+      "time": "15:00",
+      "team1": "ROYAL ANS BC",
+      "team2": "RBC DISON-ANDRIMONT",
+      "category": "U 21 - MM",
+      "location": "ROYAL ANS BC",
+      "other": ""
+    },
+    {
       "code": "420056",
       "date": "2026-10-03",
       "time": "15:00",
@@ -2693,16 +2793,6 @@
       "team2": "RBC DISON-ANDRIMONT",
       "category": "U 21 - MM",
       "location": "MAIL. COMBLAIN",
-      "other": ""
-    },
-    {
-      "code": "420093",
-      "date": "2026-11-01",
-      "time": "15:00",
-      "team1": "ROYAL ANS BC",
-      "team2": "RBC DISON-ANDRIMONT",
-      "category": "U 21 - MM",
-      "location": "ROYAL ANS BC",
       "other": ""
     },
     {
@@ -2939,10 +3029,10 @@
       "code": "540026",
       "date": "2026-09-13",
       "time": "9:00",
-      "team1": "HENRI-CHAPELLE B",
+      "team1": "HENRI-CHAPELLE A",
       "team2": "RBC DISON-ANDRIMONT",
       "category": "U 8 - MM A",
-      "location": "HENRI-CHAPELLE B",
+      "location": "HENRI-CHAPELLE A",
       "other": ""
     },
     {
@@ -3060,7 +3150,7 @@
       "date": "2027-01-30",
       "time": "9:00",
       "team1": "RBC DISON-ANDRIMONT",
-      "team2": "HENRI-CHAPELLE B",
+      "team2": "HENRI-CHAPELLE A",
       "category": "U 8 - MM A",
       "location": "RBC DISON-ANDRIMONT",
       "other": ""

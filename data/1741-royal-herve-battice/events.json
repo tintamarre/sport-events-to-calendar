@@ -76,6 +76,26 @@
       "other": ""
     },
     {
+      "code": "208",
+      "date": "2026-08-15",
+      "time": "17:00",
+      "team1": "ROYAL HERVE-BATTICE",
+      "team2": "CASTORS BRAINE B",
+      "category": "CPE BELG DAMES",
+      "location": "ROYAL HERVE-BATTICE",
+      "other": ""
+    },
+    {
+      "code": "764015",
+      "date": "2026-08-30",
+      "time": "17:00",
+      "team1": "ROYAL HERVE-BATTICE",
+      "team2": "CRISTAL SGH B",
+      "category": "CPE PROV PUPILLES MM",
+      "location": "ROYAL HERVE-BATTICE",
+      "other": ""
+    },
+    {
       "code": "413014",
       "date": "2026-09-05",
       "time": "21:00",
@@ -246,6 +266,16 @@
       "other": ""
     },
     {
+      "code": "413255",
+      "date": "2027-02-06",
+      "time": "19:00",
+      "team1": "RBC HANEFFE B",
+      "team2": "ROYAL HERVE-BATTICE C",
+      "category": "DD - DIVISION 1",
+      "location": "RBC HANEFFE B",
+      "other": ""
+    },
+    {
       "code": "413243",
       "date": "2027-02-13",
       "time": "20:00",
@@ -253,16 +283,6 @@
       "team2": "ROYAL HERVE-BATTICE C",
       "category": "DD - DIVISION 1",
       "location": "R.UN.BELLAIRE A",
-      "other": ""
-    },
-    {
-      "code": "413255",
-      "date": "2027-02-21",
-      "time": "16:00",
-      "team1": "RBC HANEFFE B",
-      "team2": "ROYAL HERVE-BATTICE C",
-      "category": "DD - DIVISION 1",
-      "location": "RBC HANEFFE B",
       "other": ""
     },
     {
@@ -408,7 +428,7 @@
     {
       "code": "414107",
       "date": "2026-11-08",
-      "time": "15:00",
+      "time": "17:00",
       "team1": "BC SPRIMONT B",
       "team2": "ROYAL HERVE-BATTICE D",
       "category": "DD - DIVISION 2 A",
@@ -677,7 +697,7 @@
     },
     {
       "code": "418151",
-      "date": "2026-12-13",
+      "date": "2026-11-29",
       "time": "14:00",
       "team1": "RBC HANEFFE D",
       "team2": "ROYAL HERVE-BATTICE E",
@@ -768,7 +788,7 @@
     {
       "code": "418331",
       "date": "2027-04-18",
-      "time": "10:00",
+      "time": "12:00",
       "team1": "ROYAL SPA BC B",
       "team2": "ROYAL HERVE-BATTICE E",
       "category": "DD - DIVISION 3 C",
@@ -818,7 +838,7 @@
     {
       "code": "AW104030",
       "date": "2026-10-11",
-      "time": "13:00",
+      "time": "11:15",
       "team1": "CENTRE GAUME RULLES",
       "team2": "ROYAL HERVE-BATTICE A",
       "category": "DD - REGIONALE 1",
@@ -886,16 +906,6 @@
       "other": ""
     },
     {
-      "code": "AW104074",
-      "date": "2027-01-10",
-      "time": "11:00",
-      "team1": "PEPINSTER EAST BELG A",
-      "team2": "ROYAL HERVE-BATTICE A",
-      "category": "DD - REGIONALE 1",
-      "location": "PEPINSTER EAST BELG A",
-      "other": ""
-    },
-    {
       "code": "AW104072",
       "date": "2027-01-16",
       "time": "17:00",
@@ -903,6 +913,16 @@
       "team2": "UN HUY BASKET B",
       "category": "DD - REGIONALE 1",
       "location": "ROYAL HERVE-BATTICE A",
+      "other": ""
+    },
+    {
+      "code": "AW104074",
+      "date": "2027-01-24",
+      "time": "11:00",
+      "team1": "PEPINSTER EAST BELG A",
+      "team2": "ROYAL HERVE-BATTICE A",
+      "category": "DD - REGIONALE 1",
+      "location": "PEPINSTER EAST BELG A",
       "other": ""
     },
     {
@@ -1078,7 +1098,7 @@
     {
       "code": "AW106060",
       "date": "2026-12-06",
-      "time": "15:00",
+      "time": "17:00",
       "team1": "ROYAL HERVE-BATTICE B",
       "team2": "CASTORS BRAINE",
       "category": "DD - REGIONALE 2 B",
@@ -1087,8 +1107,8 @@
     },
     {
       "code": "AW106031",
-      "date": "2026-12-12",
-      "time": "17:00",
+      "date": "2026-12-13",
+      "time": "16:00",
       "team1": "ROYAL SPA BC A",
       "team2": "ROYAL HERVE-BATTICE B",
       "category": "DD - REGIONALE 2 B",
@@ -1178,7 +1198,7 @@
     {
       "code": "AW106096",
       "date": "2027-04-04",
-      "time": "15:30",
+      "time": "11:15",
       "team1": "CENTRE GAUME RULLES",
       "team2": "ROYAL HERVE-BATTICE B",
       "category": "DD - REGIONALE 2 B",
@@ -1308,7 +1328,7 @@
     {
       "code": "401126",
       "date": "2026-11-22",
-      "time": "15:00",
+      "time": "17:00",
       "team1": "ROYAL HERVE-BATTICE A",
       "team2": "ATLAS A JUPILLE A",
       "category": "MM - DIVISION 1",
@@ -1327,7 +1347,7 @@
     },
     {
       "code": "401152",
-      "date": "2026-12-11",
+      "date": "2026-12-12",
       "time": "21:00",
       "team1": "HANNUT BC A",
       "team2": "ROYAL HERVE-BATTICE A",
@@ -1378,7 +1398,7 @@
     {
       "code": "401226",
       "date": "2027-01-31",
-      "time": "13:00",
+      "time": "17:00",
       "team1": "ROYAL HERVE-BATTICE A",
       "team2": "ALL. FLEMALLE A",
       "category": "MM - DIVISION 1",
@@ -1607,8 +1627,8 @@
     },
     {
       "code": "404191",
-      "date": "2027-01-09",
-      "time": "19:00",
+      "date": "2027-01-10",
+      "time": "17:00",
       "team1": "ROYAL HERVE-BATTICE B",
       "team2": "THEUX BC B",
       "category": "MM - DIVISION 3 A",
@@ -1658,7 +1678,7 @@
     {
       "code": "404251",
       "date": "2027-02-20",
-      "time": "19:00",
+      "time": "17:00",
       "team1": "ROYAL HERVE-BATTICE B",
       "team2": "VAIL. JUPILLE B",
       "category": "MM - DIVISION 3 A",
@@ -1668,7 +1688,7 @@
     {
       "code": "404271",
       "date": "2027-03-06",
-      "time": "19:00",
+      "time": "17:00",
       "team1": "ROYAL HERVE-BATTICE B",
       "team2": "ESL UNITED F",
       "category": "MM - DIVISION 3 A",
@@ -1898,7 +1918,7 @@
     {
       "code": "411256",
       "date": "2027-02-20",
-      "time": "21:00",
+      "time": "19:00",
       "team1": "ROYAL HERVE-BATTICE C",
       "team2": "RBC ESNEUX",
       "category": "MM - DIVISION 4 E",
@@ -1953,6 +1973,66 @@
       "team2": "ROYAL HERVE-BATTICE C",
       "category": "MM - DIVISION 4 E",
       "location": "PEPINSTER EAST BELG D",
+      "other": ""
+    },
+    {
+      "code": "903006",
+      "date": "2026-08-29",
+      "time": "21:00",
+      "team1": "ROYAL HERVE-BATTICE D",
+      "team2": "RBC HANEFFE C",
+      "category": "PROVINCIALE DD - POULE C",
+      "location": "ROYAL HERVE-BATTICE D",
+      "other": ""
+    },
+    {
+      "code": "906001",
+      "date": "2026-08-15",
+      "time": "19:00",
+      "team1": "ROYAL HERVE-BATTICE C",
+      "team2": "RBC ESNEUX C (+ 10)",
+      "category": "PROVINCIALE DD - POULE F",
+      "location": "ROYAL HERVE-BATTICE C",
+      "other": ""
+    },
+    {
+      "code": "906004",
+      "date": "2026-08-22",
+      "time": "17:00",
+      "team1": "R HT-PRE OUGREE B (+ 10)",
+      "team2": "ROYAL HERVE-BATTICE C",
+      "category": "PROVINCIALE DD - POULE F",
+      "location": "R HT-PRE OUGREE B (+ 10)",
+      "other": ""
+    },
+    {
+      "code": "808003",
+      "date": "2026-08-22",
+      "time": "17:00",
+      "team1": "ROYAL HERVE-BATTICE B",
+      "team2": "ROYAL ANS BC (+ 5)",
+      "category": "PROVINCIALE MM - POULE H",
+      "location": "ROYAL HERVE-BATTICE B",
+      "other": ""
+    },
+    {
+      "code": "809004",
+      "date": "2026-08-08",
+      "time": "19:00",
+      "team1": "BC SPRIMONT D (+ 10)",
+      "team2": "ROYAL HERVE-BATTICE A",
+      "category": "PROVINCIALE MM - POULE I",
+      "location": "BC SPRIMONT D (+ 10)",
+      "other": ""
+    },
+    {
+      "code": "809005",
+      "date": "2026-08-26",
+      "time": "21:00",
+      "team1": "ROYAL HERVE-BATTICE A",
+      "team2": "RB TILFF B (+ 5)",
+      "category": "PROVINCIALE MM - POULE I",
+      "location": "ROYAL HERVE-BATTICE A",
       "other": ""
     },
     {
@@ -2228,7 +2308,7 @@
     {
       "code": "521141",
       "date": "2026-12-05",
-      "time": "9:30",
+      "time": "9:00",
       "team1": "COLLEGE S LOUIS A",
       "team2": "ROYAL HERVE-BATTICE B",
       "category": "U 10 - MM B",
@@ -2557,7 +2637,7 @@
     },
     {
       "code": "525036",
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "time": "9:00",
       "team1": "RABC ENSIVAL B",
       "team2": "ROYAL HERVE-BATTICE D",
@@ -3636,16 +3716,6 @@
       "other": ""
     },
     {
-      "code": "601013",
-      "date": "2026-09-05",
-      "time": "15:00",
-      "team1": "ROYAL HERVE-BATTICE",
-      "team2": "RBC ESNEUX",
-      "category": "U 14 - DD B",
-      "location": "ROYAL HERVE-BATTICE",
-      "other": ""
-    },
-    {
       "code": "601023",
       "date": "2026-09-12",
       "time": "15:00",
@@ -3687,10 +3757,20 @@
     },
     {
       "code": "601113",
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "time": "15:00",
       "team1": "ROYAL HERVE-BATTICE",
       "team2": "RBC AUBEL",
+      "category": "U 14 - DD B",
+      "location": "ROYAL HERVE-BATTICE",
+      "other": ""
+    },
+    {
+      "code": "601013",
+      "date": "2026-12-05",
+      "time": "15:00",
+      "team1": "ROYAL HERVE-BATTICE",
+      "team2": "RBC ESNEUX",
       "category": "U 14 - DD B",
       "location": "ROYAL HERVE-BATTICE",
       "other": ""
@@ -3746,16 +3826,6 @@
       "other": ""
     },
     {
-      "code": "601234",
-      "date": "2027-02-06",
-      "time": "11:30",
-      "team1": "RBC AUBEL",
-      "team2": "ROYAL HERVE-BATTICE",
-      "category": "U 14 - DD B",
-      "location": "RBC AUBEL",
-      "other": ""
-    },
-    {
       "code": "601246",
       "date": "2027-02-13",
       "time": "11:00",
@@ -3763,6 +3833,16 @@
       "team2": "ROYAL HERVE-BATTICE",
       "category": "U 14 - DD B",
       "location": "RBC DISON-ANDRIMONT",
+      "other": ""
+    },
+    {
+      "code": "601234",
+      "date": "2027-02-20",
+      "time": "13:00",
+      "team1": "RBC AUBEL",
+      "team2": "ROYAL HERVE-BATTICE",
+      "category": "U 14 - DD B",
+      "location": "RBC AUBEL",
       "other": ""
     },
     {
@@ -4158,7 +4238,7 @@
     {
       "code": "450031",
       "date": "2026-09-19",
-      "time": "15:45",
+      "time": "9:00",
       "team1": "ROYAL SPA BC A",
       "team2": "ROYAL HERVE-BATTICE",
       "category": "U 16 - ELITES MM A",
@@ -4567,8 +4647,8 @@
     },
     {
       "code": "580283",
-      "date": "2027-03-14",
-      "time": "14:00",
+      "date": "2027-03-13",
+      "time": "11:00",
       "team1": "ROYAL BC NINANE B",
       "team2": "ROYAL HERVE-BATTICE",
       "category": "U 19 - DD",
@@ -4718,7 +4798,7 @@
     {
       "code": "550156",
       "date": "2026-12-13",
-      "time": "9:00",
+      "time": "11:00",
       "team1": "HENRI-CHAPELLE A",
       "team2": "ROYAL HERVE-BATTICE B",
       "category": "U 7 - MM A",
@@ -4766,16 +4846,6 @@
       "other": ""
     },
     {
-      "code": "550224",
-      "date": "2027-01-30",
-      "time": "9:00",
-      "team1": "RBC AUBEL A",
-      "team2": "ROYAL HERVE-BATTICE B",
-      "category": "U 7 - MM A",
-      "location": "RBC AUBEL A",
-      "other": ""
-    },
-    {
       "code": "550231",
       "date": "2027-02-06",
       "time": "9:00",
@@ -4783,6 +4853,16 @@
       "team2": "HARIMALIA BC",
       "category": "U 7 - MM A",
       "location": "ROYAL HERVE-BATTICE B",
+      "other": ""
+    },
+    {
+      "code": "550224",
+      "date": "2027-03-07",
+      "time": "9:00",
+      "team1": "RBC AUBEL A",
+      "team2": "ROYAL HERVE-BATTICE B",
+      "category": "U 7 - MM A",
+      "location": "RBC AUBEL A",
       "other": ""
     },
     {
@@ -5237,8 +5317,8 @@
     },
     {
       "code": "543065",
-      "date": "2026-10-10",
-      "time": "14:00",
+      "date": "2026-10-11",
+      "time": "12:00",
       "team1": "BC SPRIMONT A",
       "team2": "ROYAL HERVE-BATTICE A",
       "category": "U 8 - MM D",

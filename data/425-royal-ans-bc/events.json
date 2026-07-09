@@ -6,6 +6,26 @@
   },
   "events": [
     {
+      "code": "761006",
+      "date": "2026-11-01",
+      "time": "10:00",
+      "team1": "MAIL. COMBLAIN",
+      "team2": "ROYAL ANS BC",
+      "category": "CPE PROV JUNIORS",
+      "location": "MAIL. COMBLAIN",
+      "other": ""
+    },
+    {
+      "code": "764002",
+      "date": "2026-08-30",
+      "time": "9:00",
+      "team1": "BC SPRIMONT",
+      "team2": "ROYAL ANS BC",
+      "category": "CPE PROV PUPILLES MM",
+      "location": "BC SPRIMONT",
+      "other": ""
+    },
+    {
       "code": "415017",
       "date": "2026-09-05",
       "time": "17:00",
@@ -88,7 +108,7 @@
     {
       "code": "415112",
       "date": "2026-11-15",
-      "time": "16:00",
+      "time": "12:00",
       "team1": "ROYAL BC NINANE A",
       "team2": "ROYAL ANS BC",
       "category": "DD - DIVISION 2 B",
@@ -706,6 +726,16 @@
       "other": ""
     },
     {
+      "code": "808003",
+      "date": "2026-08-22",
+      "time": "17:00",
+      "team1": "ROYAL HERVE-BATTICE B",
+      "team2": "ROYAL ANS BC (+ 5)",
+      "category": "PROVINCIALE MM - POULE H",
+      "location": "ROYAL HERVE-BATTICE B",
+      "other": ""
+    },
+    {
       "code": "522016",
       "date": "2026-09-05",
       "time": "10:30",
@@ -907,8 +937,8 @@
     },
     {
       "code": "523013",
-      "date": "2026-09-05",
-      "time": "9:00",
+      "date": "2026-09-06",
+      "time": "13:00",
       "team1": "ROYAL ANS BC B",
       "team2": "R 4A AYWAILLE-HAMOIR A",
       "category": "U 10 - MM D",
@@ -1188,7 +1218,7 @@
     {
       "code": "502153",
       "date": "2026-12-13",
-      "time": "10:45",
+      "time": "9:30",
       "team1": "BC VERLAINE A",
       "team2": "ROYAL ANS BC A",
       "category": "U 12 - MM C",
@@ -1508,7 +1538,7 @@
     {
       "code": "481015",
       "date": "2026-09-05",
-      "time": "10:45",
+      "time": "9:00",
       "team1": "ROYAL ANS BC",
       "team2": "RBC ESNEUX A",
       "category": "U 14 - ELITES MM B",
@@ -1518,7 +1548,7 @@
     {
       "code": "481025",
       "date": "2026-09-12",
-      "time": "10:45",
+      "time": "9:00",
       "team1": "ROYAL ANS BC",
       "team2": "GIANTS BRAIVES A",
       "category": "U 14 - ELITES MM B",
@@ -1658,7 +1688,7 @@
     {
       "code": "481283",
       "date": "2027-03-13",
-      "time": "13:00",
+      "time": "17:00",
       "team1": "COLLEGE S LOUIS",
       "team2": "ROYAL ANS BC",
       "category": "U 14 - ELITES MM B",
@@ -1867,8 +1897,8 @@
     },
     {
       "code": "440013",
-      "date": "2026-09-06",
-      "time": "13:00",
+      "date": "2026-09-05",
+      "time": "10:45",
       "team1": "ROYAL ANS BC",
       "team2": "R HT-PRE OUGREE",
       "category": "U 18 - PROV MM A",
@@ -2068,11 +2098,21 @@
     {
       "code": "420031",
       "date": "2026-09-19",
-      "time": "15:00",
+      "time": "17:00",
       "team1": "ROYAL SPA BC",
       "team2": "ROYAL ANS BC",
       "category": "U 21 - MM",
       "location": "ROYAL SPA BC",
+      "other": ""
+    },
+    {
+      "code": "420093",
+      "date": "2026-09-27",
+      "time": "15:00",
+      "team1": "ROYAL ANS BC",
+      "team2": "RBC DISON-ANDRIMONT",
+      "category": "U 21 - MM",
+      "location": "ROYAL ANS BC",
       "other": ""
     },
     {
@@ -2113,16 +2153,6 @@
       "team2": "ROYAL ANS BC",
       "category": "U 21 - MM",
       "location": "MARCHIN BASKET",
-      "other": ""
-    },
-    {
-      "code": "420093",
-      "date": "2026-11-01",
-      "time": "15:00",
-      "team1": "ROYAL ANS BC",
-      "team2": "RBC DISON-ANDRIMONT",
-      "category": "U 21 - MM",
-      "location": "ROYAL ANS BC",
       "other": ""
     },
     {
@@ -2608,7 +2638,7 @@
     {
       "code": "542122",
       "date": "2026-11-21",
-      "time": "11:00",
+      "time": "10:30",
       "team1": "ROYAL BC NINANE",
       "team2": "ROYAL ANS BC",
       "category": "U 8 - MM C",

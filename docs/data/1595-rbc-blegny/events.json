@@ -6,6 +6,16 @@
   },
   "events": [
     {
+      "code": "774007",
+      "date": "2026-11-01",
+      "time": "14:00",
+      "team1": "MAIL. COMBLAIN",
+      "team2": "RBC BLEGNY",
+      "category": "CPE PROV PUPILLES DD",
+      "location": "MAIL. COMBLAIN",
+      "other": ""
+    },
+    {
       "code": "413013",
       "date": "2026-09-06",
       "time": "10:00",
@@ -148,7 +158,7 @@
     {
       "code": "413207",
       "date": "2027-01-15",
-      "time": "20:00",
+      "time": "19:00",
       "team1": "RBC BLEGNY A",
       "team2": "RBC ESNEUX B",
       "category": "DD - DIVISION 1",
@@ -277,8 +287,8 @@
     },
     {
       "code": "414021",
-      "date": "2026-09-12",
-      "time": "20:00",
+      "date": "2026-09-13",
+      "time": "11:00",
       "team1": "R.UN.BELLAIRE B",
       "team2": "RBC BLEGNY B",
       "category": "DD - DIVISION 2 A",
@@ -426,16 +436,6 @@
       "other": ""
     },
     {
-      "code": "414224",
-      "date": "2027-01-30",
-      "time": "20:30",
-      "team1": "RBC BLEGNY B",
-      "team2": "R.UN.BELLAIRE B",
-      "category": "DD - DIVISION 2 A",
-      "location": "RBC BLEGNY B",
-      "other": ""
-    },
-    {
       "code": "414242",
       "date": "2027-02-14",
       "time": "15:00",
@@ -491,6 +491,16 @@
       "time": "20:30",
       "team1": "RBC BLEGNY B",
       "team2": "R HT-PRE OUGREE A",
+      "category": "DD - DIVISION 2 A",
+      "location": "RBC BLEGNY B",
+      "other": ""
+    },
+    {
+      "code": "414224",
+      "date": "2027-04-02",
+      "time": "20:00",
+      "team1": "RBC BLEGNY B",
+      "team2": "R.UN.BELLAIRE B",
       "category": "DD - DIVISION 2 A",
       "location": "RBC BLEGNY B",
       "other": ""
@@ -648,7 +658,7 @@
     {
       "code": "418251",
       "date": "2027-02-21",
-      "time": "10:00",
+      "time": "12:00",
       "team1": "ROYAL SPA BC B",
       "team2": "RBC BLEGNY C",
       "category": "DD - DIVISION 3 C",
@@ -927,8 +937,8 @@
     },
     {
       "code": "405302",
-      "date": "2027-03-27",
-      "time": "17:00",
+      "date": "2027-03-28",
+      "time": "14:00",
       "team1": "HANNUT BC B",
       "team2": "RBC BLEGNY B",
       "category": "MM - DIVISION 3 B",
@@ -1446,6 +1456,26 @@
       "other": ""
     },
     {
+      "code": "909002",
+      "date": "2026-08-16",
+      "time": "12:00",
+      "team1": "MAIL. COMBLAIN (+ 5)",
+      "team2": "RBC BLEGNY B",
+      "category": "PROVINCIALE DD - POULE I",
+      "location": "MAIL. COMBLAIN (+ 5)",
+      "other": ""
+    },
+    {
+      "code": "831002",
+      "date": "2026-08-15",
+      "time": "21:00",
+      "team1": "RABC ENSIVAL D",
+      "team2": "RBC BLEGNY C",
+      "category": "PROVINCIALE MM - POULE EE",
+      "location": "RABC ENSIVAL D",
+      "other": ""
+    },
+    {
       "code": "524015",
       "date": "2026-09-05",
       "time": "9:00",
@@ -1727,7 +1757,7 @@
     },
     {
       "code": "525226",
-      "date": "2027-01-30",
+      "date": "2027-01-31",
       "time": "9:00",
       "team1": "RABC ENSIVAL B",
       "team2": "RBC BLEGNY B",
@@ -1797,8 +1827,8 @@
     },
     {
       "code": "525333",
-      "date": "2027-04-18",
-      "time": "12:00",
+      "date": "2027-04-24",
+      "time": "10:15",
       "team1": "RBC VISE B",
       "team2": "RBC BLEGNY B",
       "category": "U 10 - MM F",
@@ -2437,8 +2467,8 @@
     },
     {
       "code": "591215",
-      "date": "2027-01-23",
-      "time": "13:30",
+      "date": "2027-01-24",
+      "time": "11:00",
       "team1": "RBC BLEGNY",
       "team2": "BC VERLAINE",
       "category": "U 16 - DD B",
@@ -2517,7 +2547,7 @@
     },
     {
       "code": "450026",
-      "date": "2026-09-12",
+      "date": "2026-09-13",
       "time": "15:00",
       "team1": "COLLEGE S LOUIS",
       "team2": "RBC BLEGNY",
@@ -2778,7 +2808,7 @@
     {
       "code": "440155",
       "date": "2026-12-13",
-      "time": "12:00",
+      "time": "16:30",
       "team1": "MARCHIN BASKET",
       "team2": "RBC BLEGNY",
       "category": "U 18 - PROV MM A",
@@ -3450,7 +3480,7 @@
       "date": "2026-11-14",
       "time": "10:15",
       "team1": "RBC BLEGNY",
-      "team2": "HENRI-CHAPELLE B",
+      "team2": "HENRI-CHAPELLE A",
       "category": "U 8 - MM A",
       "location": "RBC BLEGNY",
       "other": ""
@@ -3529,10 +3559,10 @@
       "code": "540236",
       "date": "2027-02-07",
       "time": "9:00",
-      "team1": "HENRI-CHAPELLE B",
+      "team1": "HENRI-CHAPELLE A",
       "team2": "RBC BLEGNY",
       "category": "U 8 - MM A",
-      "location": "HENRI-CHAPELLE B",
+      "location": "HENRI-CHAPELLE A",
       "other": ""
     },
     {

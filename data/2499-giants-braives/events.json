@@ -6,6 +6,16 @@
   },
   "events": [
     {
+      "code": "764006",
+      "date": "2026-08-30",
+      "time": "11:00",
+      "team1": "GIANTS BRAIVES A",
+      "team2": "RBC ESNEUX B",
+      "category": "CPE PROV PUPILLES MM",
+      "location": "GIANTS BRAIVES A",
+      "other": ""
+    },
+    {
       "code": "416013",
       "date": "2026-09-06",
       "time": "13:00",
@@ -13,16 +23,6 @@
       "team2": "GIANTS BRAIVES",
       "category": "DD - DIVISION 3 A",
       "location": "UN HUY BASKET C",
-      "other": ""
-    },
-    {
-      "code": "416025",
-      "date": "2026-09-13",
-      "time": "9:30",
-      "team1": "BC VERLAINE B",
-      "team2": "GIANTS BRAIVES",
-      "category": "DD - DIVISION 3 A",
-      "location": "BC VERLAINE B",
       "other": ""
     },
     {
@@ -43,6 +43,16 @@
       "team2": "GIANTS BRAIVES",
       "category": "DD - DIVISION 3 A",
       "location": "BC SPRIMONT C",
+      "other": ""
+    },
+    {
+      "code": "416025",
+      "date": "2026-10-25",
+      "time": "13:30",
+      "team1": "BC VERLAINE B",
+      "team2": "GIANTS BRAIVES",
+      "category": "DD - DIVISION 3 A",
+      "location": "BC VERLAINE B",
       "other": ""
     },
     {
@@ -287,8 +297,8 @@
     },
     {
       "code": "409147",
-      "date": "2026-12-05",
-      "time": "19:00",
+      "date": "2026-12-06",
+      "time": "9:00",
       "team1": "BC SPRIMONT E",
       "team2": "GIANTS BRAIVES A",
       "category": "MM - DIVISION 4 C",
@@ -298,7 +308,7 @@
     {
       "code": "409152",
       "date": "2026-12-12",
-      "time": "21:00",
+      "time": "17:00",
       "team1": "HANNUT BC C",
       "team2": "GIANTS BRAIVES A",
       "category": "MM - DIVISION 4 C",
@@ -497,7 +507,7 @@
     },
     {
       "code": "410126",
-      "date": "2026-11-21",
+      "date": "2026-11-28",
       "time": "21:00",
       "team1": "GIANTS BRAIVES B",
       "team2": "RSW LIEGE BASKET C",
@@ -643,6 +653,16 @@
       "team2": "RBC BLEGNY C",
       "category": "MM - DIVISION 4 D",
       "location": "GIANTS BRAIVES B",
+      "other": ""
+    },
+    {
+      "code": "901006",
+      "date": "2026-08-30",
+      "time": "13:00",
+      "team1": "GIANTS BRAIVES (+ 5)",
+      "team2": "LA VILLERSOISE A",
+      "category": "PROVINCIALE DD - POULE A",
+      "location": "GIANTS BRAIVES (+ 5)",
       "other": ""
     },
     {
@@ -1087,7 +1107,7 @@
     },
     {
       "code": "500101",
-      "date": "2026-11-08",
+      "date": "2026-11-07",
       "time": "11:00",
       "team1": "GIANTS BRAIVES A",
       "team2": "LA VILLERSOISE A",
@@ -1107,7 +1127,7 @@
     },
     {
       "code": "500121",
-      "date": "2026-11-22",
+      "date": "2026-11-28",
       "time": "11:00",
       "team1": "GIANTS BRAIVES A",
       "team2": "PEPINSTER EAST BELG A",
@@ -1248,7 +1268,7 @@
     {
       "code": "500331",
       "date": "2027-04-17",
-      "time": "11:00",
+      "time": "13:00",
       "team1": "GIANTS BRAIVES A",
       "team2": "ALL. FLEMALLE A",
       "category": "U 12 - MM A",
@@ -1271,16 +1291,6 @@
       "time": "15:00",
       "team1": "GIANTS BRAIVES B",
       "team2": "PEPINSTER EAST BELG B",
-      "category": "U 12 - MM D",
-      "location": "GIANTS BRAIVES B",
-      "other": ""
-    },
-    {
-      "code": "503024",
-      "date": "2026-09-12",
-      "time": "15:00",
-      "team1": "GIANTS BRAIVES B",
-      "team2": "ROYAL SPA BC",
       "category": "U 12 - MM D",
       "location": "GIANTS BRAIVES B",
       "other": ""
@@ -1331,6 +1341,16 @@
       "time": "15:00",
       "team1": "GIANTS BRAIVES B",
       "team2": "RBC HANEFFE",
+      "category": "U 12 - MM D",
+      "location": "GIANTS BRAIVES B",
+      "other": ""
+    },
+    {
+      "code": "503024",
+      "date": "2026-11-28",
+      "time": "15:00",
+      "team1": "GIANTS BRAIVES B",
+      "team2": "ROYAL SPA BC",
       "category": "U 12 - MM D",
       "location": "GIANTS BRAIVES B",
       "other": ""
@@ -1858,7 +1878,7 @@
     {
       "code": "481025",
       "date": "2026-09-12",
-      "time": "10:45",
+      "time": "9:00",
       "team1": "ROYAL ANS BC",
       "team2": "GIANTS BRAIVES A",
       "category": "U 14 - ELITES MM B",
@@ -1868,7 +1888,7 @@
     {
       "code": "481036",
       "date": "2026-09-20",
-      "time": "13:00",
+      "time": "11:00",
       "team1": "GIANTS BRAIVES A",
       "team2": "RB TILFF A",
       "category": "U 14 - ELITES MM B",
@@ -2248,7 +2268,7 @@
     {
       "code": "472036",
       "date": "2026-09-19",
-      "time": "13:00",
+      "time": "11:00",
       "team1": "GIANTS BRAIVES B",
       "team2": "ALL. FLEMALLE B",
       "category": "U 16 - PROV MM C",
@@ -2278,7 +2298,7 @@
     {
       "code": "472116",
       "date": "2026-11-14",
-      "time": "13:00",
+      "time": "11:00",
       "team1": "GIANTS BRAIVES B",
       "team2": "BCM HERSTAL",
       "category": "U 16 - PROV MM C",
@@ -2308,7 +2328,7 @@
     {
       "code": "472206",
       "date": "2027-01-16",
-      "time": "13:00",
+      "time": "11:00",
       "team1": "GIANTS BRAIVES B",
       "team2": "BC VERLAINE",
       "category": "U 16 - PROV MM C",
@@ -2323,16 +2343,6 @@
       "team2": "ORP JAUCHE",
       "category": "U 16 - PROV MM C",
       "location": "GIANTS BRAIVES B",
-      "other": ""
-    },
-    {
-      "code": "472235",
-      "date": "2027-02-06",
-      "time": "14:30",
-      "team1": "BCM HERSTAL",
-      "team2": "GIANTS BRAIVES B",
-      "category": "U 16 - PROV MM C",
-      "location": "BCM HERSTAL",
       "other": ""
     },
     {
@@ -2358,11 +2368,21 @@
     {
       "code": "472296",
       "date": "2027-03-20",
-      "time": "13:00",
+      "time": "9:00",
       "team1": "GIANTS BRAIVES B",
       "team2": "CRISTAL SGH B",
       "category": "U 16 - PROV MM C",
       "location": "GIANTS BRAIVES B",
+      "other": ""
+    },
+    {
+      "code": "472235",
+      "date": "2027-04-03",
+      "time": "14:30",
+      "team1": "BCM HERSTAL",
+      "team2": "GIANTS BRAIVES B",
+      "category": "U 16 - PROV MM C",
+      "location": "BCM HERSTAL",
       "other": ""
     },
     {
@@ -2378,7 +2398,7 @@
     {
       "code": "472336",
       "date": "2027-04-17",
-      "time": "13:00",
+      "time": "11:00",
       "team1": "GIANTS BRAIVES B",
       "team2": "RBC AWANS",
       "category": "U 16 - PROV MM C",
@@ -2408,7 +2428,7 @@
     {
       "code": "AW119004",
       "date": "2026-09-19",
-      "time": "15:00",
+      "time": "11:00",
       "team1": "CASTORS BRAINE",
       "team2": "GIANTS BRAIVES",
       "category": "U 18 - BRONZE REGIONAUX A",
@@ -2448,7 +2468,7 @@
     {
       "code": "AW119024",
       "date": "2026-11-14",
-      "time": "11:00",
+      "time": "13:00",
       "team1": "GIANTS BRAIVES",
       "team2": "SAR CHANTEMELLE",
       "category": "U 18 - BRONZE REGIONAUX A",
@@ -2508,7 +2528,7 @@
     {
       "code": "544036",
       "date": "2026-09-20",
-      "time": "11:00",
+      "time": "13:00",
       "team1": "GIANTS BRAIVES A",
       "team2": "HANNUT BC A",
       "category": "U 8 - MM E",
@@ -2537,8 +2557,8 @@
     },
     {
       "code": "544126",
-      "date": "2026-11-22",
-      "time": "11:00",
+      "date": "2026-11-29",
+      "time": "13:00",
       "team1": "GIANTS BRAIVES A",
       "team2": "BC VERLAINE",
       "category": "U 8 - MM E",

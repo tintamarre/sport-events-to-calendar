@@ -47,7 +47,7 @@
     },
     {
       "code": "413022",
-      "date": "2026-09-12",
+      "date": "2026-09-13",
       "time": "17:00",
       "team1": "BC BELLEFLAMME B",
       "team2": "R.UN.BELLAIRE A",
@@ -307,8 +307,8 @@
     },
     {
       "code": "414021",
-      "date": "2026-09-12",
-      "time": "20:00",
+      "date": "2026-09-13",
+      "time": "11:00",
       "team1": "R.UN.BELLAIRE B",
       "team2": "RBC BLEGNY B",
       "category": "DD - DIVISION 2 A",
@@ -456,16 +456,6 @@
       "other": ""
     },
     {
-      "code": "414224",
-      "date": "2027-01-30",
-      "time": "20:30",
-      "team1": "RBC BLEGNY B",
-      "team2": "R.UN.BELLAIRE B",
-      "category": "DD - DIVISION 2 A",
-      "location": "RBC BLEGNY B",
-      "other": ""
-    },
-    {
       "code": "414241",
       "date": "2027-02-13",
       "time": "18:00",
@@ -526,6 +516,16 @@
       "other": ""
     },
     {
+      "code": "414224",
+      "date": "2027-04-02",
+      "time": "20:00",
+      "team1": "RBC BLEGNY B",
+      "team2": "R.UN.BELLAIRE B",
+      "category": "DD - DIVISION 2 A",
+      "location": "RBC BLEGNY B",
+      "other": ""
+    },
+    {
       "code": "414325",
       "date": "2027-04-10",
       "time": "21:00",
@@ -568,7 +568,7 @@
     {
       "code": "403022",
       "date": "2026-09-12",
-      "time": "17:00",
+      "time": "19:00",
       "team1": "RBC VISE B",
       "team2": "R.UN.BELLAIRE A",
       "category": "MM - DIVISION 2 B",
@@ -636,16 +636,6 @@
       "other": ""
     },
     {
-      "code": "403103",
-      "date": "2026-11-06",
-      "time": "20:15",
-      "team1": "R.UN.BELLAIRE A",
-      "team2": "ROYAL SPA BC B",
-      "category": "MM - DIVISION 2 B",
-      "location": "R.UN.BELLAIRE A",
-      "other": ""
-    },
-    {
       "code": "403112",
       "date": "2026-11-15",
       "time": "13:30",
@@ -661,6 +651,16 @@
       "time": "20:15",
       "team1": "R.UN.BELLAIRE A",
       "team2": "RBC ALLEUR B",
+      "category": "MM - DIVISION 2 B",
+      "location": "R.UN.BELLAIRE A",
+      "other": ""
+    },
+    {
+      "code": "403103",
+      "date": "2026-11-27",
+      "time": "20:15",
+      "team1": "R.UN.BELLAIRE A",
+      "team2": "ROYAL SPA BC B",
       "category": "MM - DIVISION 2 B",
       "location": "R.UN.BELLAIRE A",
       "other": ""
@@ -777,8 +777,8 @@
     },
     {
       "code": "403304",
-      "date": "2027-03-27",
-      "time": "21:00",
+      "date": "2027-03-28",
+      "time": "10:00",
       "team1": "RBC HANEFFE A",
       "team2": "R.UN.BELLAIRE A",
       "category": "MM - DIVISION 2 B",
@@ -877,8 +877,8 @@
     },
     {
       "code": "406082",
-      "date": "2026-10-24",
-      "time": "19:00",
+      "date": "2026-10-23",
+      "time": "21:00",
       "team1": "ROYAL BC NINANE C",
       "team2": "R.UN.BELLAIRE B",
       "category": "MM - DIVISION 3 C",
@@ -1046,6 +1046,16 @@
       "other": ""
     },
     {
+      "code": "406337",
+      "date": "2027-04-02",
+      "time": "21:00",
+      "team1": "BC SANKT VITH",
+      "team2": "R.UN.BELLAIRE B",
+      "category": "MM - DIVISION 3 C",
+      "location": "BC SANKT VITH",
+      "other": ""
+    },
+    {
       "code": "406321",
       "date": "2027-04-10",
       "time": "18:00",
@@ -1053,16 +1063,6 @@
       "team2": "RBC BLEGNY A",
       "category": "MM - DIVISION 3 C",
       "location": "R.UN.BELLAIRE B",
-      "other": ""
-    },
-    {
-      "code": "406337",
-      "date": "2027-04-16",
-      "time": "21:00",
-      "team1": "BC SANKT VITH",
-      "team2": "R.UN.BELLAIRE B",
-      "category": "MM - DIVISION 3 C",
-      "location": "BC SANKT VITH",
       "other": ""
     },
     {
@@ -1516,6 +1516,26 @@
       "other": ""
     },
     {
+      "code": "905004",
+      "date": "2026-08-22",
+      "time": "17:00",
+      "team1": "ROYAL BC NINANE B (+ 10)",
+      "team2": "R.UN.BELLAIRE A",
+      "category": "PROVINCIALE DD - POULE E",
+      "location": "ROYAL BC NINANE B (+ 10)",
+      "other": ""
+    },
+    {
+      "code": "830004",
+      "date": "2026-08-22",
+      "time": "17:00",
+      "team1": "RSW LIEGE BASKET C (+ 10)",
+      "team2": "R.UN.BELLAIRE A",
+      "category": "PROVINCIALE MM - POULE DD",
+      "location": "RSW LIEGE BASKET C (+ 10)",
+      "other": ""
+    },
+    {
       "code": "523011",
       "date": "2026-09-06",
       "time": "9:00",
@@ -1757,7 +1777,7 @@
     },
     {
       "code": "526111",
-      "date": "2026-11-14",
+      "date": "2026-11-21",
       "time": "11:00",
       "team1": "BC SANKT VITH",
       "team2": "R.UN.BELLAIRE B",
@@ -1996,16 +2016,6 @@
       "other": ""
     },
     {
-      "code": "505224",
-      "date": "2027-01-30",
-      "time": "13:30",
-      "team1": "RBC AUBEL",
-      "team2": "R.UN.BELLAIRE",
-      "category": "U 12 - MM F",
-      "location": "RBC AUBEL",
-      "other": ""
-    },
-    {
       "code": "505231",
       "date": "2027-02-06",
       "time": "16:00",
@@ -2013,6 +2023,16 @@
       "team2": "BC BELLEFLAMME C",
       "category": "U 12 - MM F",
       "location": "R.UN.BELLAIRE",
+      "other": ""
+    },
+    {
+      "code": "505224",
+      "date": "2027-02-20",
+      "time": "11:30",
+      "team1": "RBC AUBEL",
+      "team2": "R.UN.BELLAIRE",
+      "category": "U 12 - MM F",
+      "location": "RBC AUBEL",
       "other": ""
     },
     {
@@ -2578,7 +2598,7 @@
     {
       "code": "543295",
       "date": "2027-03-20",
-      "time": "14:00",
+      "time": "12:00",
       "team1": "BC SPRIMONT A",
       "team2": "R.UN.BELLAIRE",
       "category": "U 8 - MM D",

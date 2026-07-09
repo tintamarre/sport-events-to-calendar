@@ -458,7 +458,7 @@
     {
       "code": "405274",
       "date": "2027-03-06",
-      "time": "21:00",
+      "time": "19:00",
       "team1": "AVENIR JUPILLE A",
       "team2": "ROYALE US AWANS A",
       "category": "MM - DIVISION 3 B",
@@ -743,6 +743,46 @@
       "team2": "BC COINTE C",
       "category": "MM - DIVISION 4 C",
       "location": "ROYALE US AWANS B",
+      "other": ""
+    },
+    {
+      "code": "916002",
+      "date": "2026-08-16",
+      "time": "13:00",
+      "team1": "ROYALE US AWANS",
+      "team2": "RBC ALLEUR D",
+      "category": "PROVINCIALE DD - POULE P",
+      "location": "ROYALE US AWANS",
+      "other": ""
+    },
+    {
+      "code": "916004",
+      "date": "2026-08-23",
+      "time": "17:00",
+      "team1": "ROYALE US AWANS (+ 5)",
+      "team2": "BC SPRIMONT A",
+      "category": "PROVINCIALE DD - POULE P",
+      "location": "ROYALE US AWANS (+ 5)",
+      "other": ""
+    },
+    {
+      "code": "820002",
+      "date": "2026-08-16",
+      "time": "11:00",
+      "team1": "ETOILE JUPILLE C (+ 5)",
+      "team2": "ROYALE US AWANS A",
+      "category": "PROVINCIALE MM - POULE T",
+      "location": "ETOILE JUPILLE C (+ 5)",
+      "other": ""
+    },
+    {
+      "code": "824002",
+      "date": "2026-08-16",
+      "time": "16:00",
+      "team1": "RB TILFF D",
+      "team2": "ROYALE US AWANS B",
+      "category": "PROVINCIALE MM - POULE X",
+      "location": "RB TILFF D",
       "other": ""
     }
   ]

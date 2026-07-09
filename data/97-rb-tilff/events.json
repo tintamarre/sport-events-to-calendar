@@ -36,6 +36,26 @@
       "other": ""
     },
     {
+      "code": "764010",
+      "date": "2026-08-29",
+      "time": "9:30",
+      "team1": "RB TILFF B",
+      "team2": "BC BELLEFLAMME",
+      "category": "CPE PROV PUPILLES MM",
+      "location": "RB TILFF B",
+      "other": ""
+    },
+    {
+      "code": "764020",
+      "date": "2026-09-26",
+      "time": "9:30",
+      "team1": "RB TILFF A",
+      "team2": "764011",
+      "category": "CPE PROV PUPILLES MM",
+      "location": "RB TILFF A",
+      "other": ""
+    },
+    {
       "code": "403015",
       "date": "2026-09-04",
       "time": "20:45",
@@ -118,7 +138,7 @@
     {
       "code": "403102",
       "date": "2026-11-07",
-      "time": "17:00",
+      "time": "19:00",
       "team1": "RBC VISE B",
       "team2": "RB TILFF B",
       "category": "MM - DIVISION 2 B",
@@ -737,8 +757,8 @@
     },
     {
       "code": "407297",
-      "date": "2027-03-20",
-      "time": "19:00",
+      "date": "2027-03-21",
+      "time": "10:00",
       "team1": "R 4A AYWAILLE-HAMOIR D",
       "team2": "RB TILFF E",
       "category": "MM - DIVISION 4 A",
@@ -977,8 +997,8 @@
     },
     {
       "code": "411335",
-      "date": "2027-04-17",
-      "time": "20:30",
+      "date": "2027-04-16",
+      "time": "20:45",
       "team1": "RB TILFF D",
       "team2": "THUNDER CONDROZ",
       "category": "MM - DIVISION 4 E",
@@ -1233,6 +1253,66 @@
       "team2": "RB TILFF A",
       "category": "MM - REGIONALE 2 B",
       "location": "RBC ALLEUR A",
+      "other": ""
+    },
+    {
+      "code": "809002",
+      "date": "2026-08-16",
+      "time": "13:00",
+      "team1": "BC SPRIMONT D (+ 5)",
+      "team2": "RB TILFF B",
+      "category": "PROVINCIALE MM - POULE I",
+      "location": "BC SPRIMONT D (+ 5)",
+      "other": ""
+    },
+    {
+      "code": "809003",
+      "date": "2026-08-22",
+      "time": "18:30",
+      "team1": "RB TILFF B",
+      "team2": "ROYAL SPA BC D (+ 10)",
+      "category": "PROVINCIALE MM - POULE I",
+      "location": "RB TILFF B",
+      "other": ""
+    },
+    {
+      "code": "809005",
+      "date": "2026-08-26",
+      "time": "21:00",
+      "team1": "ROYAL HERVE-BATTICE A",
+      "team2": "RB TILFF B (+ 5)",
+      "category": "PROVINCIALE MM - POULE I",
+      "location": "ROYAL HERVE-BATTICE A",
+      "other": ""
+    },
+    {
+      "code": "810003",
+      "date": "2026-08-22",
+      "time": "16:30",
+      "team1": "RB TILFF C",
+      "team2": "RBC AWANS B (+ 5)",
+      "category": "PROVINCIALE MM - POULE J",
+      "location": "RB TILFF C",
+      "other": ""
+    },
+    {
+      "code": "824002",
+      "date": "2026-08-16",
+      "time": "16:00",
+      "team1": "RB TILFF D",
+      "team2": "ROYALE US AWANS B",
+      "category": "PROVINCIALE MM - POULE X",
+      "location": "RB TILFF D",
+      "other": ""
+    },
+    {
+      "code": "824004",
+      "date": "2026-08-22",
+      "time": "20:30",
+      "team1": "RB TILFF D (+ 10)",
+      "team2": "R 4A AYWAILLE-HAMOIR A",
+      "category": "PROVINCIALE MM - POULE X",
+      "location": "RB TILFF D (+ 10)",
       "other": ""
     },
     {
@@ -1857,8 +1937,8 @@
     },
     {
       "code": "502076",
-      "date": "2026-10-17",
-      "time": "11:15",
+      "date": "2026-10-18",
+      "time": "17:00",
       "team1": "COLLEGE S LOUIS A",
       "team2": "RB TILFF A",
       "category": "U 12 - MM C",
@@ -1898,7 +1978,7 @@
     {
       "code": "502122",
       "date": "2026-11-21",
-      "time": "9:00",
+      "time": "11:00",
       "team1": "RB TILFF A",
       "team2": "ALL. FLEMALLE B",
       "category": "U 12 - MM C",
@@ -2118,7 +2198,7 @@
     {
       "code": "506123",
       "date": "2026-11-21",
-      "time": "11:00",
+      "time": "13:00",
       "team1": "RB TILFF B",
       "team2": "HENRI-CHAPELLE C",
       "category": "U 12 - MM G",
@@ -2267,7 +2347,7 @@
     },
     {
       "code": "481023",
-      "date": "2026-09-12",
+      "date": "2026-09-13",
       "time": "13:00",
       "team1": "COLLEGE S LOUIS",
       "team2": "RB TILFF A",
@@ -2278,7 +2358,7 @@
     {
       "code": "481036",
       "date": "2026-09-20",
-      "time": "13:00",
+      "time": "11:00",
       "team1": "GIANTS BRAIVES A",
       "team2": "RB TILFF A",
       "category": "U 14 - ELITES MM B",
@@ -2319,10 +2399,10 @@
       "code": "481123",
       "date": "2026-11-21",
       "time": "9:00",
-      "team1": "BC SPRIMONT A",
-      "team2": "RB TILFF A",
+      "team1": "RB TILFF A",
+      "team2": "BC SPRIMONT A",
       "category": "U 14 - ELITES MM B",
-      "location": "BC SPRIMONT A",
+      "location": "RB TILFF A",
       "other": ""
     },
     {
@@ -2431,16 +2511,6 @@
       "time": "9:30",
       "team1": "RB TILFF A",
       "team2": "ROYAL ANS BC",
-      "category": "U 14 - ELITES MM B",
-      "location": "RB TILFF A",
-      "other": ""
-    },
-    {
-      "code": "481322",
-      "date": "2027-04-10",
-      "time": "9:30",
-      "team1": "RB TILFF A",
-      "team2": "BC SPRIMONT A",
       "category": "U 14 - ELITES MM B",
       "location": "RB TILFF A",
       "other": ""

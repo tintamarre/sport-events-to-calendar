@@ -38,7 +38,7 @@
     {
       "code": "402062",
       "date": "2026-10-10",
-      "time": "19:00",
+      "time": "21:00",
       "team1": "RBC VISE A",
       "team2": "ROYAL MOSA AC 1941 A",
       "category": "MM - DIVISION 2 A",
@@ -438,7 +438,7 @@
     {
       "code": "408285",
       "date": "2027-03-13",
-      "time": "19:00",
+      "time": "21:00",
       "team1": "ORP JAUCHE B",
       "team2": "ROYAL MOSA AC 1941 B",
       "category": "MM - DIVISION 4 B",
@@ -486,6 +486,16 @@
       "other": ""
     },
     {
+      "code": "820004",
+      "date": "2026-08-23",
+      "time": "17:00",
+      "team1": "ETOILE JUPILLE C (+ 10)",
+      "team2": "ROYAL MOSA AC 1941 A",
+      "category": "PROVINCIALE MM - POULE T",
+      "location": "ETOILE JUPILLE C (+ 10)",
+      "other": ""
+    },
+    {
       "code": "501012",
       "date": "2026-09-05",
       "time": "12:00",
@@ -527,8 +537,8 @@
     },
     {
       "code": "501066",
-      "date": "2026-10-10",
-      "time": "11:15",
+      "date": "2026-10-11",
+      "time": "9:00",
       "team1": "COLLEGE S LOUIS B",
       "team2": "ROYAL MOSA AC 1941 A",
       "category": "U 12 - MM B",
@@ -836,16 +846,6 @@
       "other": ""
     },
     {
-      "code": "504191",
-      "date": "2027-01-09",
-      "time": "9:00",
-      "team1": "ROYAL MOSA AC 1941 B",
-      "team2": "UN HUY BASKET B",
-      "category": "U 12 - MM E",
-      "location": "ROYAL MOSA AC 1941 B",
-      "other": ""
-    },
-    {
       "code": "504202",
       "date": "2027-01-16",
       "time": "16:30",
@@ -871,6 +871,16 @@
       "time": "9:00",
       "team1": "ROYAL MOSA AC 1941 B",
       "team2": "ORP JAUCHE",
+      "category": "U 12 - MM E",
+      "location": "ROYAL MOSA AC 1941 B",
+      "other": ""
+    },
+    {
+      "code": "504191",
+      "date": "2027-02-21",
+      "time": "9:00",
+      "team1": "ROYAL MOSA AC 1941 B",
+      "team2": "UN HUY BASKET B",
       "category": "U 12 - MM E",
       "location": "ROYAL MOSA AC 1941 B",
       "other": ""
@@ -1197,7 +1207,7 @@
     },
     {
       "code": "470154",
-      "date": "2026-12-12",
+      "date": "2026-12-13",
       "time": "9:00",
       "team1": "ROYAL SPA BC B",
       "team2": "ROYAL MOSA AC 1941",
@@ -1298,7 +1308,7 @@
     {
       "code": "470333",
       "date": "2027-04-17",
-      "time": "10:00",
+      "time": "9:30",
       "team1": "R HT-PRE OUGREE",
       "team2": "ROYAL MOSA AC 1941",
       "category": "U 16 - PROV MM A",
@@ -1478,7 +1488,7 @@
     {
       "code": "431283",
       "date": "2027-03-14",
-      "time": "14:00",
+      "time": "16:00",
       "team1": "ROYAL BC NINANE",
       "team2": "ROYAL MOSA AC 1941",
       "category": "U 18 - ELITES MM B",

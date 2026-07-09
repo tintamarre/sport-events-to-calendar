@@ -268,7 +268,7 @@
     {
       "code": "413302",
       "date": "2027-03-27",
-      "time": "19:00",
+      "time": "18:00",
       "team1": "HANNUT BC",
       "team2": "ABC WAREMME A",
       "category": "DD - DIVISION 1",
@@ -536,6 +536,16 @@
       "other": ""
     },
     {
+      "code": "414333",
+      "date": "2027-04-03",
+      "time": "20:00",
+      "team1": "R HT-PRE OUGREE A",
+      "team2": "ABC WAREMME B",
+      "category": "DD - DIVISION 2 A",
+      "location": "R HT-PRE OUGREE A",
+      "other": ""
+    },
+    {
       "code": "414325",
       "date": "2027-04-10",
       "time": "21:00",
@@ -543,16 +553,6 @@
       "team2": "R.UN.BELLAIRE B",
       "category": "DD - DIVISION 2 A",
       "location": "ABC WAREMME B",
-      "other": ""
-    },
-    {
-      "code": "414333",
-      "date": "2027-04-17",
-      "time": "20:00",
-      "team1": "R HT-PRE OUGREE A",
-      "team2": "ABC WAREMME B",
-      "category": "DD - DIVISION 2 A",
-      "location": "R HT-PRE OUGREE A",
       "other": ""
     },
     {
@@ -657,8 +657,8 @@
     },
     {
       "code": "417161",
-      "date": "2026-12-19",
-      "time": "18:30",
+      "date": "2026-12-20",
+      "time": "13:00",
       "team1": "HENRI-CHAPELLE C",
       "team2": "ABC WAREMME C",
       "category": "DD - DIVISION 3 B",
@@ -988,7 +988,7 @@
     {
       "code": "401302",
       "date": "2027-03-26",
-      "time": "21:00",
+      "time": "20:00",
       "team1": "HANNUT BC A",
       "team2": "ABC WAREMME A",
       "category": "MM - DIVISION 1",
@@ -1068,7 +1068,7 @@
     {
       "code": "403062",
       "date": "2026-10-10",
-      "time": "17:00",
+      "time": "19:00",
       "team1": "RBC VISE B",
       "team2": "ABC WAREMME B",
       "category": "MM - DIVISION 2 B",
@@ -1448,7 +1448,7 @@
     {
       "code": "409285",
       "date": "2027-03-13",
-      "time": "21:00",
+      "time": "19:00",
       "team1": "ORP JAUCHE A",
       "team2": "ABC WAREMME D",
       "category": "MM - DIVISION 4 C",
@@ -1458,7 +1458,7 @@
     {
       "code": "409297",
       "date": "2027-03-20",
-      "time": "19:00",
+      "time": "17:00",
       "team1": "BC SPRIMONT E",
       "team2": "ABC WAREMME D",
       "category": "MM - DIVISION 4 C",
@@ -3237,8 +3237,8 @@
     },
     {
       "code": "AW154007",
-      "date": "2026-09-13",
-      "time": "11:00",
+      "date": "2026-09-12",
+      "time": "13:00",
       "team1": "BC BELLEFLAMME",
       "team2": "ABC WAREMME",
       "category": "U 14 - SILVER REGIONALES C",
@@ -4848,7 +4848,7 @@
     {
       "code": "552106",
       "date": "2026-11-08",
-      "time": "9:00",
+      "time": "16:00",
       "team1": "BC SPRIMONT A",
       "team2": "ABC WAREMME A",
       "category": "U 7 - MM C",
@@ -5038,7 +5038,7 @@
     {
       "code": "553106",
       "date": "2026-11-08",
-      "time": "10:30",
+      "time": "14:30",
       "team1": "BC SPRIMONT B",
       "team2": "ABC WAREMME B",
       "category": "U 7 - MM D",

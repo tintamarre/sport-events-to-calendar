@@ -127,8 +127,8 @@
     },
     {
       "code": "401123",
-      "date": "2026-11-22",
-      "time": "13:00",
+      "date": "2026-11-21",
+      "time": "19:00",
       "team1": "THEUX BC A",
       "team2": "CRISTAL SGH A",
       "category": "MM - DIVISION 1",
@@ -346,16 +346,6 @@
       "other": ""
     },
     {
-      "code": "404077",
-      "date": "2026-10-17",
-      "time": "18:30",
-      "team1": "HENRI-CHAPELLE B",
-      "team2": "THEUX BC B",
-      "category": "MM - DIVISION 3 A",
-      "location": "HENRI-CHAPELLE B",
-      "other": ""
-    },
-    {
       "code": "404083",
       "date": "2026-10-25",
       "time": "15:00",
@@ -363,6 +353,16 @@
       "team2": "BCM HERSTAL A",
       "category": "MM - DIVISION 3 A",
       "location": "THEUX BC B",
+      "other": ""
+    },
+    {
+      "code": "404077",
+      "date": "2026-10-31",
+      "time": "18:30",
+      "team1": "HENRI-CHAPELLE B",
+      "team2": "THEUX BC B",
+      "category": "MM - DIVISION 3 A",
+      "location": "HENRI-CHAPELLE B",
       "other": ""
     },
     {
@@ -427,8 +427,8 @@
     },
     {
       "code": "404191",
-      "date": "2027-01-09",
-      "time": "19:00",
+      "date": "2027-01-10",
+      "time": "17:00",
       "team1": "ROYAL HERVE-BATTICE B",
       "team2": "THEUX BC B",
       "category": "MM - DIVISION 3 A",
@@ -437,8 +437,8 @@
     },
     {
       "code": "404203",
-      "date": "2027-01-17",
-      "time": "15:00",
+      "date": "2027-01-16",
+      "time": "21:00",
       "team1": "THEUX BC B",
       "team2": "R 4A AYWAILLE-HAMOIR B",
       "category": "MM - DIVISION 3 A",
@@ -457,8 +457,8 @@
     },
     {
       "code": "404223",
-      "date": "2027-01-31",
-      "time": "15:00",
+      "date": "2027-01-30",
+      "time": "21:00",
       "team1": "THEUX BC B",
       "team2": "BC BELLEFLAMME D",
       "category": "MM - DIVISION 3 A",
@@ -467,8 +467,8 @@
     },
     {
       "code": "404243",
-      "date": "2027-02-14",
-      "time": "15:00",
+      "date": "2027-02-13",
+      "time": "21:00",
       "team1": "THEUX BC B",
       "team2": "RBC DISON-ANDRIMONT B",
       "category": "MM - DIVISION 3 A",
@@ -677,8 +677,8 @@
     },
     {
       "code": "407203",
-      "date": "2027-01-17",
-      "time": "11:00",
+      "date": "2027-01-16",
+      "time": "19:00",
       "team1": "THEUX BC C",
       "team2": "HENRI-CHAPELLE D",
       "category": "MM - DIVISION 4 A",
@@ -697,8 +697,8 @@
     },
     {
       "code": "407223",
-      "date": "2027-01-31",
-      "time": "11:00",
+      "date": "2027-01-30",
+      "time": "19:00",
       "team1": "THEUX BC C",
       "team2": "ROYAL BC NINANE E",
       "category": "MM - DIVISION 4 A",
@@ -897,8 +897,8 @@
     },
     {
       "code": "411223",
-      "date": "2027-01-31",
-      "time": "17:00",
+      "date": "2027-01-30",
+      "time": "21:00",
       "team1": "THEUX BC D",
       "team2": "BC BELLEFLAMME F",
       "category": "MM - DIVISION 4 E",
@@ -907,8 +907,8 @@
     },
     {
       "code": "411243",
-      "date": "2027-02-14",
-      "time": "17:00",
+      "date": "2027-02-13",
+      "time": "21:00",
       "team1": "THEUX BC D",
       "team2": "RBC HANEFFE B",
       "category": "MM - DIVISION 4 E",
@@ -993,6 +993,46 @@
       "team2": "THEUX BC D",
       "category": "MM - DIVISION 4 E",
       "location": "RB TILFF D",
+      "other": ""
+    },
+    {
+      "code": "803001",
+      "date": "2026-08-13",
+      "time": "21:00",
+      "team1": "THEUX BC A",
+      "team2": "HENRI-CHAPELLE D (+ 15)",
+      "category": "PROVINCIALE MM - POULE C",
+      "location": "THEUX BC A",
+      "other": ""
+    },
+    {
+      "code": "803004",
+      "date": "2026-08-22",
+      "time": "21:00",
+      "team1": "R HT-PRE OUGREE A (+ 10)",
+      "team2": "THEUX BC A",
+      "category": "PROVINCIALE MM - POULE C",
+      "location": "R HT-PRE OUGREE A (+ 10)",
+      "other": ""
+    },
+    {
+      "code": "803005",
+      "date": "2026-08-27",
+      "time": "21:00",
+      "team1": "THEUX BC A",
+      "team2": "RBC WELKENRAEDT A (+ 10)",
+      "category": "PROVINCIALE MM - POULE C",
+      "location": "THEUX BC A",
+      "other": ""
+    },
+    {
+      "code": "803005",
+      "date": "2026-08-27",
+      "time": "21:00",
+      "team1": "THEUX BC A",
+      "team2": "RBC WELKENRAEDT A (+ 10)",
+      "category": "RBC WELKENRAEDT A (+ 10)",
+      "location": "THEUX BC A",
       "other": ""
     },
     {
@@ -1107,7 +1147,7 @@
     },
     {
       "code": "520203",
-      "date": "2027-01-16",
+      "date": "2027-01-17",
       "time": "9:00",
       "team1": "THEUX BC A",
       "team2": "ALL. FLEMALLE A",
@@ -1247,7 +1287,7 @@
     },
     {
       "code": "526103",
-      "date": "2026-11-08",
+      "date": "2026-11-07",
       "time": "11:00",
       "team1": "THEUX BC B",
       "team2": "BC SANKT VITH",
@@ -1277,7 +1317,7 @@
     },
     {
       "code": "526163",
-      "date": "2026-12-20",
+      "date": "2026-12-19",
       "time": "11:00",
       "team1": "THEUX BC B",
       "team2": "RBC DISON-ANDRIMONT A",
@@ -1297,8 +1337,8 @@
     },
     {
       "code": "526203",
-      "date": "2027-01-17",
-      "time": "11:00",
+      "date": "2027-01-16",
+      "time": "9:00",
       "team1": "THEUX BC B",
       "team2": "RABC ENSIVAL A",
       "category": "U 10 - MM G",
@@ -1317,7 +1357,7 @@
     },
     {
       "code": "526243",
-      "date": "2027-02-14",
+      "date": "2027-02-13",
       "time": "11:00",
       "team1": "THEUX BC B",
       "team2": "BBC EUPEN",
@@ -1388,7 +1428,7 @@
     {
       "code": "501022",
       "date": "2026-09-12",
-      "time": "12:00",
+      "time": "11:00",
       "team1": "ROYAL BC NINANE",
       "team2": "THEUX BC A",
       "category": "U 12 - MM B",
@@ -1657,8 +1697,8 @@
     },
     {
       "code": "506031",
-      "date": "2026-09-19",
-      "time": "13:00",
+      "date": "2026-09-20",
+      "time": "13:30",
       "team1": "BC SANKT VITH",
       "team2": "THEUX BC B",
       "category": "U 12 - MM G",
@@ -1723,16 +1763,6 @@
       "team2": "RB TILFF B",
       "category": "U 12 - MM G",
       "location": "THEUX BC B",
-      "other": ""
-    },
-    {
-      "code": "506165",
-      "date": "2026-12-19",
-      "time": "9:00",
-      "team1": "RBC DISON-ANDRIMONT B",
-      "team2": "THEUX BC B",
-      "category": "U 12 - MM G",
-      "location": "RBC DISON-ANDRIMONT B",
       "other": ""
     },
     {
@@ -1813,6 +1843,16 @@
       "team2": "RBC STAVELOT B",
       "category": "U 12 - MM G",
       "location": "THEUX BC B",
+      "other": ""
+    },
+    {
+      "code": "506165",
+      "date": "2027-04-04",
+      "time": "9:00",
+      "team1": "RBC DISON-ANDRIMONT B",
+      "team2": "THEUX BC B",
+      "category": "U 12 - MM G",
+      "location": "RBC DISON-ANDRIMONT B",
       "other": ""
     },
     {
@@ -1927,8 +1967,8 @@
     },
     {
       "code": "490203",
-      "date": "2027-01-17",
-      "time": "15:00",
+      "date": "2027-01-16",
+      "time": "9:00",
       "team1": "THEUX BC",
       "team2": "ALL. FLEMALLE B",
       "category": "U 14 - PROV MM A",
@@ -1938,7 +1978,7 @@
     {
       "code": "490213",
       "date": "2027-01-24",
-      "time": "15:00",
+      "time": "13:00",
       "team1": "THEUX BC",
       "team2": "PEPINSTER EAST BELG B",
       "category": "U 14 - PROV MM A",
@@ -2508,7 +2548,7 @@
     {
       "code": "420133",
       "date": "2026-11-29",
-      "time": "13:00",
+      "time": "9:00",
       "team1": "THEUX BC",
       "team2": "BC SPRIMONT",
       "category": "U 21 - MM",
@@ -2528,7 +2568,7 @@
     {
       "code": "420155",
       "date": "2026-12-13",
-      "time": "16:30",
+      "time": "12:00",
       "team1": "MARCHIN BASKET",
       "team2": "THEUX BC",
       "category": "U 21 - MM",
@@ -2558,7 +2598,7 @@
     {
       "code": "420203",
       "date": "2027-01-17",
-      "time": "13:00",
+      "time": "11:00",
       "team1": "THEUX BC",
       "team2": "RBC ALLEUR",
       "category": "U 21 - MM",
@@ -2578,7 +2618,7 @@
     {
       "code": "420223",
       "date": "2027-01-31",
-      "time": "13:00",
+      "time": "9:00",
       "team1": "THEUX BC",
       "team2": "BC COINTE",
       "category": "U 21 - MM",
@@ -2618,7 +2658,7 @@
     {
       "code": "420273",
       "date": "2027-03-07",
-      "time": "13:00",
+      "time": "11:00",
       "team1": "THEUX BC",
       "team2": "ROYAL BC NINANE",
       "category": "U 21 - MM",
@@ -2677,8 +2717,8 @@
     },
     {
       "code": "420333",
-      "date": "2027-04-18",
-      "time": "13:00",
+      "date": "2027-04-17",
+      "time": "11:00",
       "team1": "THEUX BC",
       "team2": "MARCHIN BASKET",
       "category": "U 21 - MM",
@@ -2827,7 +2867,7 @@
     },
     {
       "code": "550223",
-      "date": "2027-01-31",
+      "date": "2027-01-30",
       "time": "9:00",
       "team1": "THEUX BC",
       "team2": "PEPINSTER EAST BELG A",
@@ -2989,10 +3029,10 @@
       "code": "540166",
       "date": "2026-12-20",
       "time": "9:00",
-      "team1": "HENRI-CHAPELLE B",
+      "team1": "HENRI-CHAPELLE A",
       "team2": "THEUX BC",
       "category": "U 8 - MM A",
-      "location": "HENRI-CHAPELLE B",
+      "location": "HENRI-CHAPELLE A",
       "other": ""
     },
     {
@@ -3007,7 +3047,7 @@
     },
     {
       "code": "540201",
-      "date": "2027-01-16",
+      "date": "2027-01-17",
       "time": "9:00",
       "team1": "ROYAL SPA BC A",
       "team2": "THEUX BC",
@@ -3060,7 +3100,7 @@
       "date": "2027-03-13",
       "time": "9:00",
       "team1": "THEUX BC",
-      "team2": "HENRI-CHAPELLE B",
+      "team2": "HENRI-CHAPELLE A",
       "category": "U 8 - MM A",
       "location": "THEUX BC",
       "other": ""

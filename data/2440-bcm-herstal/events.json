@@ -126,16 +126,6 @@
       "other": ""
     },
     {
-      "code": "417225",
-      "date": "2027-01-30",
-      "time": "18:30",
-      "team1": "BCM HERSTAL",
-      "team2": "RBC DISON-ANDRIMONT B",
-      "category": "DD - DIVISION 3 B",
-      "location": "BCM HERSTAL",
-      "other": ""
-    },
-    {
       "code": "417241",
       "date": "2027-02-13",
       "time": "18:30",
@@ -181,6 +171,16 @@
       "time": "18:30",
       "team1": "BCM HERSTAL",
       "team2": "CS OUTREMEUSE",
+      "category": "DD - DIVISION 3 B",
+      "location": "BCM HERSTAL",
+      "other": ""
+    },
+    {
+      "code": "417225",
+      "date": "2027-04-03",
+      "time": "18:30",
+      "team1": "BCM HERSTAL",
+      "team2": "RBC DISON-ANDRIMONT B",
       "category": "DD - DIVISION 3 B",
       "location": "BCM HERSTAL",
       "other": ""
@@ -926,16 +926,6 @@
       "other": ""
     },
     {
-      "code": "501035",
-      "date": "2026-09-19",
-      "time": "10:30",
-      "team1": "BCM HERSTAL",
-      "team2": "VAIL. JUPILLE",
-      "category": "U 12 - MM B",
-      "location": "BCM HERSTAL",
-      "other": ""
-    },
-    {
       "code": "501055",
       "date": "2026-10-03",
       "time": "10:30",
@@ -948,7 +938,7 @@
     {
       "code": "501062",
       "date": "2026-10-11",
-      "time": "11:00",
+      "time": "10:00",
       "team1": "ROYAL BC NINANE",
       "team2": "BCM HERSTAL",
       "category": "U 12 - MM B",
@@ -1001,6 +991,16 @@
       "time": "10:30",
       "team1": "BCM HERSTAL",
       "team2": "PRAYON TROOZ A",
+      "category": "U 12 - MM B",
+      "location": "BCM HERSTAL",
+      "other": ""
+    },
+    {
+      "code": "501035",
+      "date": "2026-11-28",
+      "time": "10:30",
+      "team1": "BCM HERSTAL",
+      "team2": "VAIL. JUPILLE",
       "category": "U 12 - MM B",
       "location": "BCM HERSTAL",
       "other": ""
@@ -1518,7 +1518,7 @@
     {
       "code": "472116",
       "date": "2026-11-14",
-      "time": "13:00",
+      "time": "11:00",
       "team1": "GIANTS BRAIVES B",
       "team2": "BCM HERSTAL",
       "category": "U 16 - PROV MM C",
@@ -1596,16 +1596,6 @@
       "other": ""
     },
     {
-      "code": "472235",
-      "date": "2027-02-06",
-      "time": "14:30",
-      "team1": "BCM HERSTAL",
-      "team2": "GIANTS BRAIVES B",
-      "category": "U 16 - PROV MM C",
-      "location": "BCM HERSTAL",
-      "other": ""
-    },
-    {
       "code": "472285",
       "date": "2027-03-13",
       "time": "14:30",
@@ -1623,6 +1613,16 @@
       "team2": "BCM HERSTAL",
       "category": "U 16 - PROV MM C",
       "location": "ALL. FLEMALLE B",
+      "other": ""
+    },
+    {
+      "code": "472235",
+      "date": "2027-04-03",
+      "time": "14:30",
+      "team1": "BCM HERSTAL",
+      "team2": "GIANTS BRAIVES B",
+      "category": "U 16 - PROV MM C",
+      "location": "BCM HERSTAL",
       "other": ""
     },
     {

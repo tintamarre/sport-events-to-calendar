@@ -6,6 +6,16 @@
   },
   "events": [
     {
+      "code": "762008",
+      "date": "2026-08-30",
+      "time": "10:30",
+      "team1": "RBC WELKENRAEDT",
+      "team2": "BBC EUPEN",
+      "category": "CPE PROV CADETS",
+      "location": "RBC WELKENRAEDT",
+      "other": ""
+    },
+    {
       "code": "415013",
       "date": "2026-09-05",
       "time": "17:00",
@@ -206,16 +216,6 @@
       "other": ""
     },
     {
-      "code": "415283",
-      "date": "2027-03-13",
-      "time": "17:00",
-      "team1": "RBC WELKENRAEDT",
-      "team2": "AVENIR JUPILLE",
-      "category": "DD - DIVISION 2 B",
-      "location": "RBC WELKENRAEDT",
-      "other": ""
-    },
-    {
       "code": "415293",
       "date": "2027-03-20",
       "time": "17:00",
@@ -231,6 +231,16 @@
       "time": "17:00",
       "team1": "RBC WELKENRAEDT",
       "team2": "ROYAL BC WANZE",
+      "category": "DD - DIVISION 2 B",
+      "location": "RBC WELKENRAEDT",
+      "other": ""
+    },
+    {
+      "code": "415283",
+      "date": "2027-04-03",
+      "time": "17:00",
+      "team1": "RBC WELKENRAEDT",
+      "team2": "AVENIR JUPILLE",
       "category": "DD - DIVISION 2 B",
       "location": "RBC WELKENRAEDT",
       "other": ""
@@ -287,8 +297,8 @@
     },
     {
       "code": "406037",
-      "date": "2026-09-18",
-      "time": "21:00",
+      "date": "2026-09-20",
+      "time": "11:30",
       "team1": "BC SANKT VITH",
       "team2": "RBC WELKENRAEDT A",
       "category": "MM - DIVISION 3 C",
@@ -387,8 +397,8 @@
     },
     {
       "code": "406162",
-      "date": "2026-12-19",
-      "time": "19:00",
+      "date": "2026-12-15",
+      "time": "20:00",
       "team1": "ROYAL BC NINANE C",
       "team2": "RBC WELKENRAEDT A",
       "category": "MM - DIVISION 3 C",
@@ -427,8 +437,8 @@
     },
     {
       "code": "406222",
-      "date": "2027-01-30",
-      "time": "19:00",
+      "date": "2027-01-31",
+      "time": "16:00",
       "team1": "RBC WELKENRAEDT A",
       "team2": "RABC ENSIVAL C",
       "category": "MM - DIVISION 3 C",
@@ -647,8 +657,8 @@
     },
     {
       "code": "412222",
-      "date": "2027-01-30",
-      "time": "21:00",
+      "date": "2027-01-31",
+      "time": "14:00",
       "team1": "RBC WELKENRAEDT B",
       "team2": "LA VILLERSOISE D",
       "category": "MM - DIVISION 4 F",
@@ -746,6 +756,76 @@
       "other": ""
     },
     {
+      "code": "914002",
+      "date": "2026-08-15",
+      "time": "19:00",
+      "team1": "RBC AWANS A (+ 5)",
+      "team2": "RBC WELKENRAEDT",
+      "category": "PROVINCIALE DD - POULE N",
+      "location": "RBC AWANS A (+ 5)",
+      "other": ""
+    },
+    {
+      "code": "914005",
+      "date": "2026-08-29",
+      "time": "19:00",
+      "team1": "RBC DISON-ANDRIMONT A",
+      "team2": "RBC WELKENRAEDT",
+      "category": "PROVINCIALE DD - POULE N",
+      "location": "RBC DISON-ANDRIMONT A",
+      "other": ""
+    },
+    {
+      "code": "801003",
+      "date": "2026-08-23",
+      "time": "15:00",
+      "team1": "ETOILE JUPILLE B",
+      "team2": "RBC WELKENRAEDT B (+ 5)",
+      "category": "PROVINCIALE MM - POULE A",
+      "location": "ETOILE JUPILLE B",
+      "other": ""
+    },
+    {
+      "code": "801006",
+      "date": "2026-08-30",
+      "time": "12:30",
+      "team1": "RBC WELKENRAEDT B (+ 5)",
+      "team2": "RABC ENSIVAL B",
+      "category": "PROVINCIALE MM - POULE A",
+      "location": "RBC WELKENRAEDT B (+ 5)",
+      "other": ""
+    },
+    {
+      "code": "803003",
+      "date": "2026-08-22",
+      "time": "19:00",
+      "team1": "RBC WELKENRAEDT A",
+      "team2": "HENRI-CHAPELLE D (+ 5)",
+      "category": "PROVINCIALE MM - POULE C",
+      "location": "RBC WELKENRAEDT A",
+      "other": ""
+    },
+    {
+      "code": "803005",
+      "date": "2026-08-27",
+      "time": "21:00",
+      "team1": "THEUX BC A",
+      "team2": "RBC WELKENRAEDT A (+ 10)",
+      "category": "PROVINCIALE MM - POULE C",
+      "location": "THEUX BC A",
+      "other": ""
+    },
+    {
+      "code": "803005",
+      "date": "2026-08-27",
+      "time": "21:00",
+      "team1": "THEUX BC A",
+      "team2": "RBC WELKENRAEDT A (+ 10)",
+      "category": "RBC WELKENRAEDT A (+ 10)",
+      "location": "THEUX BC A",
+      "other": ""
+    },
+    {
       "code": "470013",
       "date": "2026-09-05",
       "time": "11:00",
@@ -786,6 +866,16 @@
       "other": ""
     },
     {
+      "code": "470143",
+      "date": "2026-10-31",
+      "time": "13:00",
+      "team1": "RBC WELKENRAEDT",
+      "team2": "PRAYON TROOZ",
+      "category": "U 16 - PROV MM A",
+      "location": "RBC WELKENRAEDT",
+      "other": ""
+    },
+    {
       "code": "470113",
       "date": "2026-11-14",
       "time": "11:00",
@@ -803,16 +893,6 @@
       "team2": "RBC WELKENRAEDT",
       "category": "U 16 - PROV MM A",
       "location": "DF BC MALMEDY",
-      "other": ""
-    },
-    {
-      "code": "470143",
-      "date": "2026-12-05",
-      "time": "11:00",
-      "team1": "RBC WELKENRAEDT",
-      "team2": "PRAYON TROOZ",
-      "category": "U 16 - PROV MM A",
-      "location": "RBC WELKENRAEDT",
       "other": ""
     },
     {
@@ -858,7 +938,7 @@
     {
       "code": "470213",
       "date": "2027-01-23",
-      "time": "10:00",
+      "time": "9:30",
       "team1": "R HT-PRE OUGREE",
       "team2": "RBC WELKENRAEDT",
       "category": "U 16 - PROV MM A",

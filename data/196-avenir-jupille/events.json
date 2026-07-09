@@ -28,7 +28,7 @@
     {
       "code": "415034",
       "date": "2026-09-19",
-      "time": "19:00",
+      "time": "17:00",
       "team1": "AVENIR JUPILLE",
       "team2": "PRAYON TROOZ C",
       "category": "DD - DIVISION 2 B",
@@ -168,7 +168,7 @@
     {
       "code": "415224",
       "date": "2027-01-30",
-      "time": "19:00",
+      "time": "17:00",
       "team1": "AVENIR JUPILLE",
       "team2": "RBC STAVELOT",
       "category": "DD - DIVISION 2 B",
@@ -206,16 +206,6 @@
       "other": ""
     },
     {
-      "code": "415283",
-      "date": "2027-03-13",
-      "time": "17:00",
-      "team1": "RBC WELKENRAEDT",
-      "team2": "AVENIR JUPILLE",
-      "category": "DD - DIVISION 2 B",
-      "location": "RBC WELKENRAEDT",
-      "other": ""
-    },
-    {
       "code": "415292",
       "date": "2027-03-21",
       "time": "16:00",
@@ -233,6 +223,16 @@
       "team2": "ROYAL ANS BC",
       "category": "DD - DIVISION 2 B",
       "location": "AVENIR JUPILLE",
+      "other": ""
+    },
+    {
+      "code": "415283",
+      "date": "2027-04-03",
+      "time": "17:00",
+      "team1": "RBC WELKENRAEDT",
+      "team2": "AVENIR JUPILLE",
+      "category": "DD - DIVISION 2 B",
+      "location": "RBC WELKENRAEDT",
       "other": ""
     },
     {
@@ -388,7 +388,7 @@
     {
       "code": "405164",
       "date": "2026-12-19",
-      "time": "21:00",
+      "time": "17:00",
       "team1": "AVENIR JUPILLE A",
       "team2": "RB UNION LIEGE B",
       "category": "MM - DIVISION 3 B",
@@ -458,7 +458,7 @@
     {
       "code": "405274",
       "date": "2027-03-06",
-      "time": "21:00",
+      "time": "19:00",
       "team1": "AVENIR JUPILLE A",
       "team2": "ROYALE US AWANS A",
       "category": "MM - DIVISION 3 B",
@@ -548,7 +548,7 @@
     {
       "code": "412034",
       "date": "2026-09-19",
-      "time": "17:00",
+      "time": "19:00",
       "team1": "AVENIR JUPILLE B",
       "team2": "R HT-PRE OUGREE B",
       "category": "MM - DIVISION 4 F",
@@ -668,7 +668,7 @@
     {
       "code": "412224",
       "date": "2027-01-30",
-      "time": "17:00",
+      "time": "19:00",
       "team1": "AVENIR JUPILLE B",
       "team2": "RBC AWANS B",
       "category": "MM - DIVISION 4 F",
@@ -688,7 +688,7 @@
     {
       "code": "412274",
       "date": "2027-03-06",
-      "time": "17:00",
+      "time": "21:00",
       "team1": "AVENIR JUPILLE B",
       "team2": "ROYAL SPA BC E",
       "category": "MM - DIVISION 4 F",
