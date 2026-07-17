@@ -76,6 +76,16 @@
       "other": ""
     },
     {
+      "code": "414337",
+      "date": "2026-10-31",
+      "time": "19:00",
+      "team1": "RBC VISE A",
+      "team2": "ROYALE US AWANS",
+      "category": "DD - DIVISION 2 A",
+      "location": "RBC VISE A",
+      "other": ""
+    },
+    {
       "code": "414111",
       "date": "2026-11-15",
       "time": "17:00",
@@ -243,16 +253,6 @@
       "team2": "CRISTAL SGH A",
       "category": "DD - DIVISION 2 A",
       "location": "ROYALE US AWANS",
-      "other": ""
-    },
-    {
-      "code": "414337",
-      "date": "2027-04-17",
-      "time": "21:00",
-      "team1": "RBC VISE A",
-      "team2": "ROYALE US AWANS",
-      "category": "DD - DIVISION 2 A",
-      "location": "RBC VISE A",
       "other": ""
     },
     {
@@ -783,6 +783,26 @@
       "team2": "ROYALE US AWANS B",
       "category": "PROVINCIALE MM - POULE X",
       "location": "RB TILFF D",
+      "other": ""
+    },
+    {
+      "code": "824005",
+      "date": "2026-08-29",
+      "time": "21:00",
+      "team1": "R 4A AYWAILLE-HAMOIR A",
+      "team2": "ROYALE US AWANS B (+ 10)",
+      "category": "PROVINCIALE MM - POULE X",
+      "location": "R 4A AYWAILLE-HAMOIR A",
+      "other": ""
+    },
+    {
+      "code": "824005",
+      "date": "2026-08-29",
+      "time": "21:00",
+      "team1": "R 4A AYWAILLE-HAMOIR A",
+      "team2": "ROYALE US AWANS B (+ 10)",
+      "category": "ROYALE US AWANS B (+ 10)",
+      "location": "R 4A AYWAILLE-HAMOIR A",
       "other": ""
     }
   ]

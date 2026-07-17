@@ -8,7 +8,7 @@
     {
       "code": "406016",
       "date": "2026-09-04",
-      "time": "20:00",
+      "time": "21:00",
       "team1": "BC REVEIL",
       "team2": "RBC BLEGNY A",
       "category": "MM - DIVISION 3 C",
@@ -18,7 +18,7 @@
     {
       "code": "406026",
       "date": "2026-09-11",
-      "time": "20:00",
+      "time": "19:00",
       "team1": "BC REVEIL",
       "team2": "BBC EUPEN A",
       "category": "MM - DIVISION 3 C",
@@ -48,7 +48,7 @@
     {
       "code": "406066",
       "date": "2026-10-09",
-      "time": "20:00",
+      "time": "19:00",
       "team1": "BC REVEIL",
       "team2": "R.UN.BELLAIRE B",
       "category": "MM - DIVISION 3 C",
@@ -58,7 +58,7 @@
     {
       "code": "406073",
       "date": "2026-10-17",
-      "time": "21:00",
+      "time": "19:00",
       "team1": "RABC ENSIVAL C",
       "team2": "BC REVEIL",
       "category": "MM - DIVISION 3 C",
@@ -77,8 +77,8 @@
     },
     {
       "code": "406106",
-      "date": "2026-11-06",
-      "time": "20:00",
+      "date": "2026-11-07",
+      "time": "19:00",
       "team1": "BC REVEIL",
       "team2": "CRISTAL SGH B",
       "category": "MM - DIVISION 3 C",
@@ -108,7 +108,7 @@
     {
       "code": "406146",
       "date": "2026-12-04",
-      "time": "20:00",
+      "time": "19:00",
       "team1": "BC REVEIL",
       "team2": "RBC STAVELOT B",
       "category": "MM - DIVISION 3 C",
@@ -187,8 +187,8 @@
     },
     {
       "code": "406256",
-      "date": "2027-02-19",
-      "time": "20:00",
+      "date": "2027-02-20",
+      "time": "21:00",
       "team1": "BC REVEIL",
       "team2": "RB TILFF C",
       "category": "MM - DIVISION 3 C",
@@ -197,8 +197,8 @@
     },
     {
       "code": "406271",
-      "date": "2027-03-06",
-      "time": "21:00",
+      "date": "2027-03-05",
+      "time": "19:00",
       "team1": "RBC STAVELOT B",
       "team2": "BC REVEIL",
       "category": "MM - DIVISION 3 C",
@@ -263,6 +263,16 @@
       "team2": "BC REVEIL",
       "category": "MM - DIVISION 3 C",
       "location": "RBC WELKENRAEDT A",
+      "other": ""
+    },
+    {
+      "code": "812003",
+      "date": "2026-08-22",
+      "time": "21:00",
+      "team1": "BC REVEIL A",
+      "team2": "BC BELLEFLAMME E (+ 5)",
+      "category": "PROVINCIALE MM - POULE L",
+      "location": "BC REVEIL A",
       "other": ""
     }
   ]

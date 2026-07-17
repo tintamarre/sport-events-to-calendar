@@ -87,8 +87,8 @@
     },
     {
       "code": "413105",
-      "date": "2026-11-08",
-      "time": "16:00",
+      "date": "2026-11-07",
+      "time": "17:00",
       "team1": "RBC HANEFFE B",
       "team2": "RBC BLEGNY A",
       "category": "DD - DIVISION 1",
@@ -98,7 +98,7 @@
     {
       "code": "413117",
       "date": "2026-11-13",
-      "time": "20:00",
+      "time": "21:00",
       "team1": "RBC BLEGNY A",
       "team2": "RABC ENSIVAL",
       "category": "DD - DIVISION 1",
@@ -798,7 +798,7 @@
     {
       "code": "405115",
       "date": "2026-11-13",
-      "time": "20:00",
+      "time": "19:00",
       "team1": "RBC BLEGNY B",
       "team2": "ALL. FLEMALLE B",
       "category": "MM - DIVISION 3 B",
@@ -978,21 +978,11 @@
     {
       "code": "406016",
       "date": "2026-09-04",
-      "time": "20:00",
+      "time": "21:00",
       "team1": "BC REVEIL",
       "team2": "RBC BLEGNY A",
       "category": "MM - DIVISION 3 C",
       "location": "BC REVEIL",
-      "other": ""
-    },
-    {
-      "code": "406027",
-      "date": "2026-09-13",
-      "time": "13:00",
-      "team1": "FLERON BBC B",
-      "team2": "RBC BLEGNY A",
-      "category": "MM - DIVISION 3 C",
-      "location": "FLERON BBC B",
       "other": ""
     },
     {
@@ -1073,6 +1063,16 @@
       "team2": "RB TILFF C",
       "category": "MM - DIVISION 3 C",
       "location": "RBC BLEGNY A",
+      "other": ""
+    },
+    {
+      "code": "406027",
+      "date": "2026-11-29",
+      "time": "13:00",
+      "team1": "FLERON BBC B",
+      "team2": "RBC BLEGNY A",
+      "category": "MM - DIVISION 3 C",
+      "location": "FLERON BBC B",
       "other": ""
     },
     {
@@ -1456,6 +1456,26 @@
       "other": ""
     },
     {
+      "code": "908001",
+      "date": "2026-08-14",
+      "time": "20:00",
+      "team1": "RBC BLEGNY A",
+      "team2": "R 4A AYWAILLE-HAMOIR B (",
+      "category": "PROVINCIALE DD - POULE H",
+      "location": "RBC BLEGNY A",
+      "other": ""
+    },
+    {
+      "code": "908005",
+      "date": "2026-08-29",
+      "time": "20:00",
+      "team1": "RBC BLEGNY A",
+      "team2": "PRAYON TROOZ A (+ 5)",
+      "category": "PROVINCIALE DD - POULE H",
+      "location": "RBC BLEGNY A",
+      "other": ""
+    },
+    {
       "code": "909002",
       "date": "2026-08-16",
       "time": "12:00",
@@ -1466,6 +1486,26 @@
       "other": ""
     },
     {
+      "code": "909003",
+      "date": "2026-08-27",
+      "time": "20:30",
+      "team1": "RBC BLEGNY B",
+      "team2": "BC VERLAINE B (+ 5)",
+      "category": "PROVINCIALE DD - POULE I",
+      "location": "RBC BLEGNY B",
+      "other": ""
+    },
+    {
+      "code": "912006",
+      "date": "2026-08-29",
+      "time": "18:00",
+      "team1": "RBC BLEGNY C",
+      "team2": "R REN. MONTEGNEE A",
+      "category": "PROVINCIALE DD - POULE L",
+      "location": "RBC BLEGNY C",
+      "other": ""
+    },
+    {
       "code": "831002",
       "date": "2026-08-15",
       "time": "21:00",
@@ -1473,6 +1513,36 @@
       "team2": "RBC BLEGNY C",
       "category": "PROVINCIALE MM - POULE EE",
       "location": "RABC ENSIVAL D",
+      "other": ""
+    },
+    {
+      "code": "815006",
+      "date": "2026-08-28",
+      "time": "20:00",
+      "team1": "RBC BLEGNY B",
+      "team2": "ROYAL MOSA AC 1941 B (+",
+      "category": "PROVINCIALE MM - POULE O",
+      "location": "RBC BLEGNY B",
+      "other": ""
+    },
+    {
+      "code": "908001",
+      "date": "2026-08-14",
+      "time": "20:00",
+      "team1": "RBC BLEGNY A",
+      "team2": "R 4A AYWAILLE-HAMOIR B (+ 10)",
+      "category": "R 4A AYWAILLE-HAMOIR B (+ 10)",
+      "location": "RBC BLEGNY A",
+      "other": ""
+    },
+    {
+      "code": "815006",
+      "date": "2026-08-28",
+      "time": "20:00",
+      "team1": "RBC BLEGNY B",
+      "team2": "ROYAL MOSA AC 1941 B (+ 5)",
+      "category": "ROYAL MOSA AC 1941 B (+ 5)",
+      "location": "RBC BLEGNY B",
       "other": ""
     },
     {
@@ -2368,7 +2438,7 @@
     {
       "code": "491322",
       "date": "2027-04-10",
-      "time": "15:30",
+      "time": "13:30",
       "team1": "BC COINTE B",
       "team2": "RBC BLEGNY",
       "category": "U 14 - PROV MM B",
@@ -2458,7 +2528,7 @@
     {
       "code": "591205",
       "date": "2027-01-16",
-      "time": "17:00",
+      "time": "9:00",
       "team1": "ORP JAUCHE",
       "team2": "RBC BLEGNY",
       "category": "U 16 - DD B",
@@ -2717,8 +2787,8 @@
     },
     {
       "code": "450321",
-      "date": "2027-04-10",
-      "time": "15:45",
+      "date": "2027-04-11",
+      "time": "11:00",
       "team1": "ROYAL SPA BC A",
       "team2": "RBC BLEGNY",
       "category": "U 16 - ELITES MM A",
@@ -2732,186 +2802,6 @@
       "team1": "RBC BLEGNY",
       "team2": "ROYAL HERVE-BATTICE",
       "category": "U 16 - ELITES MM A",
-      "location": "RBC BLEGNY",
-      "other": ""
-    },
-    {
-      "code": "440014",
-      "date": "2026-09-06",
-      "time": "13:00",
-      "team1": "HARIMALIA BC",
-      "team2": "RBC BLEGNY",
-      "category": "U 18 - PROV MM A",
-      "location": "HARIMALIA BC",
-      "other": ""
-    },
-    {
-      "code": "440021",
-      "date": "2026-09-13",
-      "time": "13:00",
-      "team1": "RBC STAVELOT",
-      "team2": "RBC BLEGNY",
-      "category": "U 18 - PROV MM A",
-      "location": "RBC STAVELOT",
-      "other": ""
-    },
-    {
-      "code": "440054",
-      "date": "2026-10-03",
-      "time": "16:30",
-      "team1": "RBC BLEGNY",
-      "team2": "LA VILLERSOISE",
-      "category": "U 18 - PROV MM A",
-      "location": "RBC BLEGNY",
-      "other": ""
-    },
-    {
-      "code": "440063",
-      "date": "2026-10-10",
-      "time": "9:00",
-      "team1": "THEUX BC",
-      "team2": "RBC BLEGNY",
-      "category": "U 18 - PROV MM A",
-      "location": "THEUX BC",
-      "other": ""
-    },
-    {
-      "code": "440104",
-      "date": "2026-11-07",
-      "time": "16:30",
-      "team1": "RBC BLEGNY",
-      "team2": "R HT-PRE OUGREE",
-      "category": "U 18 - PROV MM A",
-      "location": "RBC BLEGNY",
-      "other": ""
-    },
-    {
-      "code": "440113",
-      "date": "2026-11-15",
-      "time": "13:00",
-      "team1": "ROYAL ANS BC",
-      "team2": "RBC BLEGNY",
-      "category": "U 18 - PROV MM A",
-      "location": "ROYAL ANS BC",
-      "other": ""
-    },
-    {
-      "code": "440142",
-      "date": "2026-12-06",
-      "time": "15:00",
-      "team1": "ALL. FLEMALLE C",
-      "team2": "RBC BLEGNY",
-      "category": "U 18 - PROV MM A",
-      "location": "ALL. FLEMALLE C",
-      "other": ""
-    },
-    {
-      "code": "440155",
-      "date": "2026-12-13",
-      "time": "16:30",
-      "team1": "MARCHIN BASKET",
-      "team2": "RBC BLEGNY",
-      "category": "U 18 - PROV MM A",
-      "location": "MARCHIN BASKET",
-      "other": ""
-    },
-    {
-      "code": "440164",
-      "date": "2026-12-19",
-      "time": "16:30",
-      "team1": "RBC BLEGNY",
-      "team2": "ROYAL SPA BC",
-      "category": "U 18 - PROV MM A",
-      "location": "RBC BLEGNY",
-      "other": ""
-    },
-    {
-      "code": "440204",
-      "date": "2027-01-16",
-      "time": "16:30",
-      "team1": "RBC BLEGNY",
-      "team2": "HARIMALIA BC",
-      "category": "U 18 - PROV MM A",
-      "location": "RBC BLEGNY",
-      "other": ""
-    },
-    {
-      "code": "440214",
-      "date": "2027-01-23",
-      "time": "16:30",
-      "team1": "RBC BLEGNY",
-      "team2": "MARCHIN BASKET",
-      "category": "U 18 - PROV MM A",
-      "location": "RBC BLEGNY",
-      "other": ""
-    },
-    {
-      "code": "440224",
-      "date": "2027-01-30",
-      "time": "16:30",
-      "team1": "RBC BLEGNY",
-      "team2": "RBC STAVELOT",
-      "category": "U 18 - PROV MM A",
-      "location": "RBC BLEGNY",
-      "other": ""
-    },
-    {
-      "code": "440234",
-      "date": "2027-02-06",
-      "time": "16:30",
-      "team1": "RBC BLEGNY",
-      "team2": "ROYAL ANS BC",
-      "category": "U 18 - PROV MM A",
-      "location": "RBC BLEGNY",
-      "other": ""
-    },
-    {
-      "code": "440242",
-      "date": "2027-02-13",
-      "time": "17:00",
-      "team1": "LA VILLERSOISE",
-      "team2": "RBC BLEGNY",
-      "category": "U 18 - PROV MM A",
-      "location": "LA VILLERSOISE",
-      "other": ""
-    },
-    {
-      "code": "440281",
-      "date": "2027-03-13",
-      "time": "15:00",
-      "team1": "ROYAL SPA BC",
-      "team2": "RBC BLEGNY",
-      "category": "U 18 - PROV MM A",
-      "location": "ROYAL SPA BC",
-      "other": ""
-    },
-    {
-      "code": "440296",
-      "date": "2027-03-20",
-      "time": "12:00",
-      "team1": "R HT-PRE OUGREE",
-      "team2": "RBC BLEGNY",
-      "category": "U 18 - PROV MM A",
-      "location": "R HT-PRE OUGREE",
-      "other": ""
-    },
-    {
-      "code": "440304",
-      "date": "2027-03-27",
-      "time": "16:30",
-      "team1": "RBC BLEGNY",
-      "team2": "THEUX BC",
-      "category": "U 18 - PROV MM A",
-      "location": "RBC BLEGNY",
-      "other": ""
-    },
-    {
-      "code": "440334",
-      "date": "2027-04-17",
-      "time": "16:30",
-      "team1": "RBC BLEGNY",
-      "team2": "ALL. FLEMALLE C",
-      "category": "U 18 - PROV MM A",
       "location": "RBC BLEGNY",
       "other": ""
     },

@@ -77,12 +77,12 @@
     },
     {
       "code": "408114",
-      "date": "2026-11-14",
-      "time": "19:00",
-      "team1": "RBC CROATIA OUPEYE",
-      "team2": "BC TORES LIEGE",
+      "date": "2026-11-15",
+      "time": "15:00",
+      "team1": "BC TORES LIEGE",
+      "team2": "RBC CROATIA OUPEYE",
       "category": "MM - DIVISION 4 B",
-      "location": "RBC CROATIA OUPEYE",
+      "location": "BC TORES LIEGE",
       "other": ""
     },
     {
@@ -169,10 +169,10 @@
       "code": "408251",
       "date": "2027-02-21",
       "time": "15:00",
-      "team1": "BC TORES LIEGE",
-      "team2": "RBC CROATIA OUPEYE",
+      "team1": "RBC CROATIA OUPEYE",
+      "team2": "BC TORES LIEGE",
       "category": "MM - DIVISION 4 B",
-      "location": "BC TORES LIEGE",
+      "location": "RBC CROATIA OUPEYE",
       "other": ""
     },
     {
@@ -223,6 +223,36 @@
       "team2": "BC TORES LIEGE",
       "category": "MM - DIVISION 4 B",
       "location": "ORP JAUCHE B",
+      "other": ""
+    },
+    {
+      "code": "816002",
+      "date": "2026-08-16",
+      "time": "15:00",
+      "team1": "BC TORES LIEGE",
+      "team2": "R.UN.BELLAIRE C",
+      "category": "PROVINCIALE MM - POULE P",
+      "location": "BC TORES LIEGE",
+      "other": ""
+    },
+    {
+      "code": "816004",
+      "date": "2026-08-23",
+      "time": "15:00",
+      "team1": "BC TORES LIEGE (+ 10)",
+      "team2": "VAIL. JUPILLE A",
+      "category": "PROVINCIALE MM - POULE P",
+      "location": "BC TORES LIEGE (+ 10)",
+      "other": ""
+    },
+    {
+      "code": "816006",
+      "date": "2026-08-30",
+      "time": "15:00",
+      "team1": "BC BELLEFLAMME D",
+      "team2": "BC TORES LIEGE (+ 5)",
+      "category": "PROVINCIALE MM - POULE P",
+      "location": "BC BELLEFLAMME D",
       "other": ""
     }
   ]

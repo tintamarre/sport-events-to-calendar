@@ -6,6 +6,76 @@
   },
   "events": [
     {
+      "code": "721",
+      "date": "2026-08-22",
+      "time": "10:30",
+      "team1": "HENRI-CHAPELLE B",
+      "team2": "EAST BELGIUM BCA B",
+      "category": "COUPE AWBB U14 - GARCONS",
+      "location": "HENRI-CHAPELLE B",
+      "other": ""
+    },
+    {
+      "code": "723",
+      "date": "2026-08-22",
+      "time": "15:00",
+      "team1": "RSW LIEGE BASKET",
+      "team2": "EAST BELGIUM BCA A",
+      "category": "COUPE AWBB U14 - GARCONS",
+      "location": "RSW LIEGE BASKET",
+      "other": ""
+    },
+    {
+      "code": "623",
+      "date": "2026-08-22",
+      "time": "12:00",
+      "team1": "CONDROZ MODAVE BB B",
+      "team2": "EAST BELGIUM BCA B",
+      "category": "COUPE AWBB U16 - GARCONS",
+      "location": "CONDROZ MODAVE BB B",
+      "other": ""
+    },
+    {
+      "code": "502",
+      "date": "2026-08-30",
+      "time": "9:30",
+      "team1": "ECOLE EUROPEENNE",
+      "team2": "EAST BELGIUM BCA",
+      "category": "COUPE AWBB U18 - GARCONS",
+      "location": "ECOLE EUROPEENNE",
+      "other": ""
+    },
+    {
+      "code": "905",
+      "date": "2026-08-22",
+      "time": "12:30",
+      "team1": "EAST BELGIUM BCA A",
+      "team2": "BC MALONNE A",
+      "category": "COUPE AWBB U19 - FILLES",
+      "location": "EAST BELGIUM BCA A",
+      "other": ""
+    },
+    {
+      "code": "910",
+      "date": "2026-09-26",
+      "time": "16:00",
+      "team1": "BC MARCHE",
+      "team2": "EAST BELGIUM BCA B",
+      "category": "COUPE AWBB U19 - FILLES",
+      "location": "BC MARCHE",
+      "other": ""
+    },
+    {
+      "code": "407",
+      "date": "2026-08-30",
+      "time": "17:45",
+      "team1": "ESL UNITED B",
+      "team2": "EAST BELGIUM BCA",
+      "category": "COUPE AWBB U21 - GARCONS",
+      "location": "ESL UNITED B",
+      "other": ""
+    },
+    {
       "code": "AW130003",
       "date": "2026-09-06",
       "time": "13:00",
@@ -78,7 +148,7 @@
     {
       "code": "AW130027",
       "date": "2026-11-21",
-      "time": "13:00",
+      "time": "15:00",
       "team1": "EAST BELGIUM BCA",
       "team2": "UCCLE EUROPE",
       "category": "U 14 - GOLD REGIONAUX A",
@@ -117,8 +187,8 @@
     },
     {
       "code": "AW152008",
-      "date": "2026-09-12",
-      "time": "13:00",
+      "date": "2026-09-13",
+      "time": "15:00",
       "team1": "JUNIOR ARLONAIS",
       "team2": "EAST BELGIUM BCA",
       "category": "U 14 - SILVER REGIONALES A",
@@ -137,7 +207,7 @@
     },
     {
       "code": "AW152011",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "time": "9:30",
       "team1": "BBC LIBRAMONT",
       "team2": "EAST BELGIUM BCA",
@@ -157,7 +227,7 @@
     },
     {
       "code": "AW152021",
-      "date": "2026-11-08",
+      "date": "2026-10-18",
       "time": "13:00",
       "team1": "EAST BELGIUM BCA",
       "team2": "BBC LIBRAMONT",
@@ -337,7 +407,7 @@
     },
     {
       "code": "AW134010",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "time": "11:00",
       "team1": "EAST BELGIUM BCA",
       "team2": "ECOLE EUROPEENNE",
@@ -348,7 +418,7 @@
     {
       "code": "AW134015",
       "date": "2026-10-10",
-      "time": "13:30",
+      "time": "11:30",
       "team1": "BC CENTRE GAUME",
       "team2": "EAST BELGIUM BCA",
       "category": "U 14 - SILVER REGIONAUX C",
@@ -457,8 +527,8 @@
     },
     {
       "code": "AW128020",
-      "date": "2026-11-08",
-      "time": "9:00",
+      "date": "2026-11-01",
+      "time": "11:00",
       "team1": "EAST BELGIUM BCA",
       "team2": "OLYMPIC MSM",
       "category": "U 16 - BRONZE REGIONAUX B",
@@ -486,6 +556,16 @@
       "other": ""
     },
     {
+      "code": "AW128018",
+      "date": "2026-11-28",
+      "time": "9:30",
+      "team1": "BBC LIBRAMONT",
+      "team2": "EAST BELGIUM BCA",
+      "category": "U 16 - BRONZE REGIONAUX B",
+      "location": "BBC LIBRAMONT",
+      "other": ""
+    },
+    {
       "code": "AW128029",
       "date": "2026-12-05",
       "time": "13:00",
@@ -493,16 +573,6 @@
       "team2": "EAST BELGIUM BCA",
       "category": "U 16 - BRONZE REGIONAUX B",
       "location": "B.C.BOUSSU",
-      "other": ""
-    },
-    {
-      "code": "AW128018",
-      "date": "2026-12-12",
-      "time": "18:00",
-      "team1": "BBC LIBRAMONT",
-      "team2": "EAST BELGIUM BCA",
-      "category": "U 16 - BRONZE REGIONAUX B",
-      "location": "BBC LIBRAMONT",
       "other": ""
     },
     {
@@ -557,8 +627,8 @@
     },
     {
       "code": "AW145021",
-      "date": "2026-11-08",
-      "time": "13:00",
+      "date": "2026-11-07",
+      "time": "11:30",
       "team1": "R MURPROTEC NIVELLES",
       "team2": "EAST BELGIUM BCA",
       "category": "U 16 - GOLD REGIONALES B",
@@ -818,7 +888,7 @@
     {
       "code": "AW118007",
       "date": "2026-09-13",
-      "time": "16:30",
+      "time": "11:00",
       "team1": "LA VILLERSOISE",
       "team2": "EAST BELGIUM BCA",
       "category": "U 18 - SILVER REGIONAUX D",
@@ -827,8 +897,8 @@
     },
     {
       "code": "AW118004",
-      "date": "2026-09-19",
-      "time": "15:00",
+      "date": "2026-09-20",
+      "time": "9:00",
       "team1": "EAST BELGIUM BCA",
       "team2": "UNION MONS-HAINAUT",
       "category": "U 18 - SILVER REGIONAUX D",
@@ -838,7 +908,7 @@
     {
       "code": "AW118010",
       "date": "2026-10-04",
-      "time": "11:00",
+      "time": "17:00",
       "team1": "EAST BELGIUM BCA",
       "team2": "B.C.BOUSSU",
       "category": "U 18 - SILVER REGIONAUX D",
@@ -907,8 +977,8 @@
     },
     {
       "code": "AW140001",
-      "date": "2026-09-06",
-      "time": "15:00",
+      "date": "2026-09-05",
+      "time": "12:00",
       "team1": "GANSHOREN DAMES",
       "team2": "EAST BELGIUM BCA",
       "category": "U 19 - GOLD REGIONALES B",
@@ -1077,8 +1147,8 @@
     },
     {
       "code": "AW141033",
-      "date": "2026-11-08",
-      "time": "11:00",
+      "date": "2026-11-01",
+      "time": "13:00",
       "team1": "EAST BELGIUM BCA",
       "team2": "RCS NATOYE",
       "category": "U 19 - SILVER REGIONALES A",
@@ -1097,8 +1167,8 @@
     },
     {
       "code": "AW141025",
-      "date": "2026-11-22",
-      "time": "11:00",
+      "date": "2026-11-21",
+      "time": "13:00",
       "team1": "EAST BELGIUM BCA",
       "team2": "BC MALONNE",
       "category": "U 19 - SILVER REGIONALES A",
@@ -1178,7 +1248,7 @@
     {
       "code": "AW112014",
       "date": "2026-10-10",
-      "time": "13:00",
+      "time": "14:00",
       "team1": "B.C.BOUSSU",
       "team2": "EAST BELGIUM BCA",
       "category": "U 21 - SILVER REGIONAUX D",

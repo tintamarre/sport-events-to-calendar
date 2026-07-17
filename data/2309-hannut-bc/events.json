@@ -7,8 +7,8 @@
   "events": [
     {
       "code": "AW223001",
-      "date": "2026-08-15",
-      "time": "19:00",
+      "date": "2026-08-19",
+      "time": "20:00",
       "team1": "HANNUT BC",
       "team2": "NAMUR CAPITALE A",
       "category": "AWBB DD - POULE C",
@@ -57,8 +57,8 @@
     },
     {
       "code": "AW205005",
-      "date": "2026-08-28",
-      "time": "21:00",
+      "date": "2026-08-30",
+      "time": "16:00",
       "team1": "HANNUT BC",
       "team2": "OLYMPIC MSM B",
       "category": "AWBB MM - POULE E",
@@ -218,7 +218,7 @@
     {
       "code": "413217",
       "date": "2027-01-24",
-      "time": "13:00",
+      "time": "14:00",
       "team1": "BC SPRIMONT A",
       "team2": "HANNUT BC",
       "category": "DD - DIVISION 1",
@@ -1066,6 +1066,76 @@
       "other": ""
     },
     {
+      "code": "901001",
+      "date": "2026-08-16",
+      "time": "10:00",
+      "team1": "HANNUT BC",
+      "team2": "GIANTS BRAIVES (+ 10)",
+      "category": "PROVINCIALE DD - POULE A",
+      "location": "HANNUT BC",
+      "other": ""
+    },
+    {
+      "code": "901005",
+      "date": "2026-08-27",
+      "time": "20:00",
+      "team1": "HANNUT BC",
+      "team2": "ROYAL BC WANZE (+ 5)",
+      "category": "PROVINCIALE DD - POULE A",
+      "location": "HANNUT BC",
+      "other": ""
+    },
+    {
+      "code": "801001",
+      "date": "2026-08-16",
+      "time": "12:00",
+      "team1": "HANNUT BC A",
+      "team2": "RBC WELKENRAEDT B (+ 15)",
+      "category": "PROVINCIALE MM - POULE A",
+      "location": "HANNUT BC A",
+      "other": ""
+    },
+    {
+      "code": "801004",
+      "date": "2026-08-23",
+      "time": "11:00",
+      "team1": "RABC ENSIVAL B (+ 10)",
+      "team2": "HANNUT BC A",
+      "category": "PROVINCIALE MM - POULE A",
+      "location": "RABC ENSIVAL B (+ 10)",
+      "other": ""
+    },
+    {
+      "code": "802002",
+      "date": "2026-08-16",
+      "time": "15:00",
+      "team1": "ROYAL BC WANZE B",
+      "team2": "HANNUT BC B",
+      "category": "PROVINCIALE MM - POULE B",
+      "location": "ROYAL BC WANZE B",
+      "other": ""
+    },
+    {
+      "code": "802005",
+      "date": "2026-08-29",
+      "time": "21:00",
+      "team1": "BC BELLEFLAMME B",
+      "team2": "HANNUT BC B (+ 10)",
+      "category": "PROVINCIALE MM - POULE B",
+      "location": "BC BELLEFLAMME B",
+      "other": ""
+    },
+    {
+      "code": "801001",
+      "date": "2026-08-16",
+      "time": "12:00",
+      "team1": "HANNUT BC A",
+      "team2": "RBC WELKENRAEDT B (+ 15)",
+      "category": "RBC WELKENRAEDT B (+ 15)",
+      "location": "HANNUT BC A",
+      "other": ""
+    },
+    {
       "code": "493023",
       "date": "2026-09-12",
       "time": "13:00",
@@ -1116,16 +1186,6 @@
       "other": ""
     },
     {
-      "code": "493112",
-      "date": "2026-11-14",
-      "time": "15:00",
-      "team1": "HANNUT BC",
-      "team2": "RBC AWANS A",
-      "category": "U 14 - PROV MM D",
-      "location": "HANNUT BC",
-      "other": ""
-    },
-    {
       "code": "493123",
       "date": "2026-11-22",
       "time": "12:00",
@@ -1173,16 +1233,6 @@
       "team2": "UN HUY BASKET",
       "category": "U 14 - PROV MM D",
       "location": "HANNUT BC",
-      "other": ""
-    },
-    {
-      "code": "493231",
-      "date": "2027-02-07",
-      "time": "17:00",
-      "team1": "RBC AWANS A",
-      "team2": "HANNUT BC",
-      "category": "U 14 - PROV MM D",
-      "location": "RBC AWANS A",
       "other": ""
     },
     {

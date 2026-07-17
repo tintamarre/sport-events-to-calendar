@@ -7,8 +7,8 @@
   "events": [
     {
       "code": "406013",
-      "date": "2026-09-05",
-      "time": "21:00",
+      "date": "2026-09-06",
+      "time": "11:00",
       "team1": "RABC ENSIVAL C",
       "team2": "BC SANKT VITH",
       "category": "MM - DIVISION 3 C",
@@ -86,16 +86,6 @@
       "other": ""
     },
     {
-      "code": "406117",
-      "date": "2026-11-13",
-      "time": "21:00",
-      "team1": "BC SANKT VITH",
-      "team2": "RBC AUBEL",
-      "category": "MM - DIVISION 3 C",
-      "location": "BC SANKT VITH",
-      "other": ""
-    },
-    {
       "code": "406122",
       "date": "2026-11-21",
       "time": "19:00",
@@ -103,6 +93,16 @@
       "team2": "BC SANKT VITH",
       "category": "MM - DIVISION 3 C",
       "location": "ROYAL BC NINANE C",
+      "other": ""
+    },
+    {
+      "code": "406117",
+      "date": "2026-11-27",
+      "time": "21:00",
+      "team1": "BC SANKT VITH",
+      "team2": "RBC AUBEL",
+      "category": "MM - DIVISION 3 C",
+      "location": "BC SANKT VITH",
       "other": ""
     },
     {
@@ -188,7 +188,7 @@
     {
       "code": "406254",
       "date": "2027-02-20",
-      "time": "15:00",
+      "time": "19:00",
       "team1": "RBC AUBEL",
       "team2": "BC SANKT VITH",
       "category": "MM - DIVISION 3 C",
@@ -437,8 +437,8 @@
     },
     {
       "code": "526336",
-      "date": "2027-04-17",
-      "time": "10:30",
+      "date": "2027-04-18",
+      "time": "12:00",
       "team1": "BBC EUPEN",
       "team2": "BC SANKT VITH",
       "category": "U 10 - MM G",
@@ -496,16 +496,6 @@
       "other": ""
     },
     {
-      "code": "506111",
-      "date": "2026-11-14",
-      "time": "13:00",
-      "team1": "BC SANKT VITH",
-      "team2": "DF BC MALMEDY",
-      "category": "U 12 - MM G",
-      "location": "BC SANKT VITH",
-      "other": ""
-    },
-    {
       "code": "506125",
       "date": "2026-11-21",
       "time": "10:45",
@@ -513,6 +503,16 @@
       "team2": "BC SANKT VITH",
       "category": "U 12 - MM G",
       "location": "RBC BLEGNY",
+      "other": ""
+    },
+    {
+      "code": "506111",
+      "date": "2026-11-28",
+      "time": "13:00",
+      "team1": "BC SANKT VITH",
+      "team2": "DF BC MALMEDY",
+      "category": "U 12 - MM G",
+      "location": "BC SANKT VITH",
       "other": ""
     },
     {
@@ -538,7 +538,7 @@
     {
       "code": "506164",
       "date": "2026-12-19",
-      "time": "11:00",
+      "time": "13:00",
       "team1": "RABC ENSIVAL B",
       "team2": "BC SANKT VITH",
       "category": "U 12 - MM G",
@@ -637,8 +637,8 @@
     },
     {
       "code": "506336",
-      "date": "2027-04-17",
-      "time": "12:00",
+      "date": "2027-04-18",
+      "time": "14:00",
       "team1": "BBC EUPEN",
       "team2": "BC SANKT VITH",
       "category": "U 12 - MM G",
@@ -797,8 +797,8 @@
     },
     {
       "code": "492336",
-      "date": "2027-04-18",
-      "time": "10:00",
+      "date": "2027-04-17",
+      "time": "11:00",
       "team1": "BBC EUPEN",
       "team2": "BC SANKT VITH",
       "category": "U 14 - PROV MM C",

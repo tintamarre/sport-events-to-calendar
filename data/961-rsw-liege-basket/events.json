@@ -6,6 +6,46 @@
   },
   "events": [
     {
+      "code": "804",
+      "date": "2026-08-23",
+      "time": "15:00",
+      "team1": "RE PONT-DE-LOUP",
+      "team2": "RSW LIEGE BASKET",
+      "category": "COUPE AWBB U12 -GARCONS",
+      "location": "RE PONT-DE-LOUP",
+      "other": ""
+    },
+    {
+      "code": "723",
+      "date": "2026-08-22",
+      "time": "15:00",
+      "team1": "RSW LIEGE BASKET",
+      "team2": "EAST BELGIUM BCA A",
+      "category": "COUPE AWBB U14 - GARCONS",
+      "location": "RSW LIEGE BASKET",
+      "other": ""
+    },
+    {
+      "code": "519",
+      "date": "2026-08-22",
+      "time": "17:30",
+      "team1": "CASTORS BRAINE A",
+      "team2": "RSW LIEGE BASKET B",
+      "category": "COUPE AWBB U18 - GARCONS",
+      "location": "CASTORS BRAINE A",
+      "other": ""
+    },
+    {
+      "code": "410",
+      "date": "2026-08-23",
+      "time": "17:00",
+      "team1": "CASTORS BRAINE",
+      "team2": "RSW LIEGE BASKET",
+      "category": "COUPE AWBB U21 - GARCONS",
+      "location": "CASTORS BRAINE",
+      "other": ""
+    },
+    {
       "code": "410012",
       "date": "2026-09-06",
       "time": "11:00",
@@ -457,8 +497,8 @@
     },
     {
       "code": "AW100197",
-      "date": "2027-03-07",
-      "time": "16:00",
+      "date": "2027-03-06",
+      "time": "18:00",
       "team1": "BCCA NEUFCHATEAU",
       "team2": "RSW LIEGE BASKET A",
       "category": "MM - REGIONALE 1",
@@ -607,8 +647,8 @@
     },
     {
       "code": "AW102076",
-      "date": "2026-11-21",
-      "time": "19:00",
+      "date": "2026-11-29",
+      "time": "11:15",
       "team1": "B55 ACADEMY XL",
       "team2": "RSW LIEGE BASKET B",
       "category": "MM - REGIONALE 2 B",
@@ -808,7 +848,7 @@
     {
       "code": "521033",
       "date": "2026-09-19",
-      "time": "9:00",
+      "time": "12:30",
       "team1": "LA VILLERSOISE B",
       "team2": "RSW LIEGE BASKET",
       "category": "U 10 - MM B",
@@ -1068,7 +1108,7 @@
     {
       "code": "500126",
       "date": "2026-11-22",
-      "time": "13:00",
+      "time": "9:00",
       "team1": "ROYAL HERVE-BATTICE A",
       "team2": "RSW LIEGE BASKET",
       "category": "U 12 - MM A",
@@ -1308,7 +1348,7 @@
     {
       "code": "AW135030",
       "date": "2026-12-05",
-      "time": "13:00",
+      "time": "11:00",
       "team1": "REBOND MUSSON",
       "team2": "RSW LIEGE BASKET",
       "category": "U 14 - BRONZE REGIONAUX A",
@@ -1468,7 +1508,7 @@
     {
       "code": "430221",
       "date": "2027-01-31",
-      "time": "13:00",
+      "time": "15:00",
       "team1": "RSW LIEGE BASKET",
       "team2": "VAIL. JUPILLE",
       "category": "U 18 - ELITES MM A",
@@ -1556,13 +1596,13 @@
       "other": ""
     },
     {
-      "code": "AW114009",
+      "code": "AW114017",
       "date": "2026-09-12",
-      "time": "15:00",
-      "team1": "B55 ACADEMY XL",
-      "team2": "RSW LIEGE BASKET",
+      "time": "11:00",
+      "team1": "RSW LIEGE BASKET",
+      "team2": "B55 ACADEMY XL",
       "category": "U 18 - GOLD REGIONAUX B",
-      "location": "B55 ACADEMY XL",
+      "location": "RSW LIEGE BASKET",
       "other": ""
     },
     {
@@ -1636,13 +1676,13 @@
       "other": ""
     },
     {
-      "code": "AW114017",
+      "code": "AW114009",
       "date": "2026-12-12",
-      "time": "10:00",
-      "team1": "RSW LIEGE BASKET",
-      "team2": "B55 ACADEMY XL",
+      "time": "15:00",
+      "team1": "B55 ACADEMY XL",
+      "team2": "RSW LIEGE BASKET",
       "category": "U 18 - GOLD REGIONAUX B",
-      "location": "RSW LIEGE BASKET",
+      "location": "B55 ACADEMY XL",
       "other": ""
     },
     {
@@ -1768,7 +1808,7 @@
     {
       "code": "553033",
       "date": "2026-09-19",
-      "time": "9:00",
+      "time": "12:30",
       "team1": "LA VILLERSOISE",
       "team2": "RSW LIEGE BASKET",
       "category": "U 7 - MM D",
@@ -2098,7 +2138,7 @@
     {
       "code": "543293",
       "date": "2027-03-20",
-      "time": "11:00",
+      "time": "12:30",
       "team1": "RBC HANEFFE",
       "team2": "RSW LIEGE BASKET",
       "category": "U 8 - MM D",

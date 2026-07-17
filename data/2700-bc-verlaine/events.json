@@ -87,18 +87,18 @@
     },
     {
       "code": "415115",
-      "date": "2026-11-15",
-      "time": "17:30",
-      "team1": "BC VERLAINE A",
-      "team2": "PRAYON TROOZ C",
+      "date": "2026-11-14",
+      "time": "21:00",
+      "team1": "PRAYON TROOZ C",
+      "team2": "BC VERLAINE A",
       "category": "DD - DIVISION 2 B",
-      "location": "BC VERLAINE A",
+      "location": "PRAYON TROOZ C",
       "other": ""
     },
     {
       "code": "415125",
       "date": "2026-11-22",
-      "time": "12:00",
+      "time": "13:00",
       "team1": "RBC HANEFFE C",
       "team2": "BC VERLAINE A",
       "category": "DD - DIVISION 2 B",
@@ -188,11 +188,11 @@
     {
       "code": "415256",
       "date": "2027-02-21",
-      "time": "12:00",
-      "team1": "PRAYON TROOZ C",
-      "team2": "BC VERLAINE A",
+      "time": "17:30",
+      "team1": "BC VERLAINE A",
+      "team2": "PRAYON TROOZ C",
       "category": "DD - DIVISION 2 B",
-      "location": "PRAYON TROOZ C",
+      "location": "BC VERLAINE A",
       "other": ""
     },
     {
@@ -248,7 +248,7 @@
     {
       "code": "415333",
       "date": "2027-04-18",
-      "time": "13:00",
+      "time": "15:00",
       "team1": "ROYAL ANS BC",
       "team2": "BC VERLAINE A",
       "category": "DD - DIVISION 2 B",
@@ -368,7 +368,7 @@
     {
       "code": "416161",
       "date": "2026-12-20",
-      "time": "17:00",
+      "time": "18:00",
       "team1": "BC SPRIMONT C",
       "team2": "BC VERLAINE B",
       "category": "DD - DIVISION 3 A",
@@ -527,7 +527,7 @@
     },
     {
       "code": "410085",
-      "date": "2026-10-25",
+      "date": "2026-11-01",
       "time": "11:30",
       "team1": "BC VERLAINE",
       "team2": "R.UN.BELLAIRE D",
@@ -616,6 +616,16 @@
       "other": ""
     },
     {
+      "code": "410333",
+      "date": "2027-02-05",
+      "time": "20:30",
+      "team1": "RBC ALLEUR E",
+      "team2": "BC VERLAINE",
+      "category": "MM - DIVISION 4 D",
+      "location": "RBC ALLEUR E",
+      "other": ""
+    },
+    {
       "code": "410245",
       "date": "2027-02-14",
       "time": "11:30",
@@ -666,16 +676,6 @@
       "other": ""
     },
     {
-      "code": "410333",
-      "date": "2027-04-16",
-      "time": "20:30",
-      "team1": "RBC ALLEUR E",
-      "team2": "BC VERLAINE",
-      "category": "MM - DIVISION 4 D",
-      "location": "RBC ALLEUR E",
-      "other": ""
-    },
-    {
       "code": "410343",
       "date": "2027-04-23",
       "time": "20:15",
@@ -683,6 +683,26 @@
       "team2": "BC VERLAINE",
       "category": "MM - DIVISION 4 D",
       "location": "R.UN.BELLAIRE D",
+      "other": ""
+    },
+    {
+      "code": "904005",
+      "date": "2026-08-30",
+      "time": "17:00",
+      "team1": "BC BELLEFLAMME B",
+      "team2": "BC VERLAINE A (+ 5)",
+      "category": "PROVINCIALE DD - POULE D",
+      "location": "BC BELLEFLAMME B",
+      "other": ""
+    },
+    {
+      "code": "909003",
+      "date": "2026-08-27",
+      "time": "20:30",
+      "team1": "RBC BLEGNY B",
+      "team2": "BC VERLAINE B (+ 5)",
+      "category": "PROVINCIALE DD - POULE I",
+      "location": "RBC BLEGNY B",
       "other": ""
     },
     {
@@ -777,7 +797,7 @@
     },
     {
       "code": "523214",
-      "date": "2027-01-24",
+      "date": "2027-01-17",
       "time": "11:00",
       "team1": "BC VERLAINE A",
       "team2": "RB TILFF C",
@@ -1177,8 +1197,8 @@
     },
     {
       "code": "502166",
-      "date": "2026-12-19",
-      "time": "11:15",
+      "date": "2026-12-20",
+      "time": "14:00",
       "team1": "COLLEGE S LOUIS A",
       "team2": "BC VERLAINE A",
       "category": "U 12 - MM C",
@@ -1197,7 +1217,7 @@
     },
     {
       "code": "502207",
-      "date": "2027-01-16",
+      "date": "2027-01-17",
       "time": "13:00",
       "team1": "ALL. FLEMALLE B",
       "team2": "BC VERLAINE A",
@@ -1646,16 +1666,6 @@
       "other": ""
     },
     {
-      "code": "493021",
-      "date": "2026-09-13",
-      "time": "13:00",
-      "team1": "RBC AWANS A",
-      "team2": "BC VERLAINE",
-      "category": "U 14 - PROV MM D",
-      "location": "RBC AWANS A",
-      "other": ""
-    },
-    {
       "code": "493034",
       "date": "2026-09-20",
       "time": "13:00",
@@ -1751,16 +1761,6 @@
       "time": "13:30",
       "team1": "BC VERLAINE",
       "team2": "ORP JAUCHE",
-      "category": "U 14 - PROV MM D",
-      "location": "BC VERLAINE",
-      "other": ""
-    },
-    {
-      "code": "493224",
-      "date": "2027-01-31",
-      "time": "13:00",
-      "team1": "BC VERLAINE",
-      "team2": "RBC AWANS A",
       "category": "U 14 - PROV MM D",
       "location": "BC VERLAINE",
       "other": ""
@@ -2298,7 +2298,7 @@
     {
       "code": "553242",
       "date": "2027-02-13",
-      "time": "10:00",
+      "time": "9:00",
       "team1": "ROYAL BC NINANE B",
       "team2": "BC VERLAINE",
       "category": "U 7 - MM D",
@@ -2437,8 +2437,8 @@
     },
     {
       "code": "544215",
-      "date": "2027-01-23",
-      "time": "15:30",
+      "date": "2027-01-24",
+      "time": "10:30",
       "team1": "BC SPRIMONT B",
       "team2": "BC VERLAINE",
       "category": "U 8 - MM E",

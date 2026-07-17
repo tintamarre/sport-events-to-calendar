@@ -276,19 +276,9 @@
       "other": ""
     },
     {
-      "code": "406027",
-      "date": "2026-09-13",
-      "time": "13:00",
-      "team1": "FLERON BBC B",
-      "team2": "RBC BLEGNY A",
-      "category": "MM - DIVISION 3 C",
-      "location": "FLERON BBC B",
-      "other": ""
-    },
-    {
       "code": "406032",
       "date": "2026-09-19",
-      "time": "19:00",
+      "time": "17:30",
       "team1": "ROYAL BC NINANE C",
       "team2": "FLERON BBC B",
       "category": "MM - DIVISION 3 C",
@@ -361,6 +351,16 @@
       "time": "13:00",
       "team1": "FLERON BBC B",
       "team2": "BC REVEIL",
+      "category": "MM - DIVISION 3 C",
+      "location": "FLERON BBC B",
+      "other": ""
+    },
+    {
+      "code": "406027",
+      "date": "2026-11-29",
+      "time": "13:00",
+      "team1": "FLERON BBC B",
+      "team2": "RBC BLEGNY A",
       "category": "MM - DIVISION 3 C",
       "location": "FLERON BBC B",
       "other": ""
@@ -457,8 +457,8 @@
     },
     {
       "code": "406277",
-      "date": "2027-03-07",
-      "time": "13:00",
+      "date": "2027-03-05",
+      "time": "21:00",
       "team1": "FLERON BBC B",
       "team2": "RB TILFF C",
       "category": "MM - DIVISION 3 C",
@@ -526,6 +526,16 @@
       "other": ""
     },
     {
+      "code": "813002",
+      "date": "2026-08-15",
+      "time": "19:00",
+      "team1": "VAIL. JUPILLE B",
+      "team2": "FLERON BBC B",
+      "category": "PROVINCIALE MM - POULE M",
+      "location": "VAIL. JUPILLE B",
+      "other": ""
+    },
+    {
       "code": "813003",
       "date": "2026-08-23",
       "time": "13:00",
@@ -533,6 +543,26 @@
       "team2": "BC SPRIMONT E (+ 5)",
       "category": "PROVINCIALE MM - POULE M",
       "location": "FLERON BBC B",
+      "other": ""
+    },
+    {
+      "code": "813005",
+      "date": "2026-08-28",
+      "time": "19:00",
+      "team1": "ESL UNITED C",
+      "team2": "FLERON BBC B (+ 10)",
+      "category": "PROVINCIALE MM - POULE M",
+      "location": "ESL UNITED C",
+      "other": ""
+    },
+    {
+      "code": "823004",
+      "date": "2026-08-22",
+      "time": "17:00",
+      "team1": "RBC DISON-ANDRIMONT C (",
+      "team2": "FLERON BBC A",
+      "category": "PROVINCIALE MM - POULE W",
+      "location": "RBC DISON-ANDRIMONT C (",
       "other": ""
     },
     {
@@ -577,8 +607,8 @@
     },
     {
       "code": "525053",
-      "date": "2026-10-03",
-      "time": "14:45",
+      "date": "2026-10-04",
+      "time": "9:00",
       "team1": "RBC ALLEUR A",
       "team2": "FLERON BBC",
       "category": "U 10 - MM F",
@@ -929,10 +959,10 @@
       "code": "544016",
       "date": "2026-09-06",
       "time": "10:00",
-      "team1": "FLERON BBC",
-      "team2": "RBC ESNEUX B",
+      "team1": "RBC ESNEUX B",
+      "team2": "FLERON BBC",
       "category": "U 8 - MM E",
-      "location": "FLERON BBC",
+      "location": "RBC ESNEUX B",
       "other": ""
     },
     {
@@ -1029,10 +1059,10 @@
       "code": "544203",
       "date": "2027-01-16",
       "time": "13:30",
-      "team1": "RBC ESNEUX B",
-      "team2": "FLERON BBC",
+      "team1": "FLERON BBC",
+      "team2": "RBC ESNEUX B",
       "category": "U 8 - MM E",
-      "location": "RBC ESNEUX B",
+      "location": "FLERON BBC",
       "other": ""
     },
     {

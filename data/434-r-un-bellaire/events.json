@@ -858,21 +858,11 @@
     {
       "code": "406066",
       "date": "2026-10-09",
-      "time": "20:00",
+      "time": "19:00",
       "team1": "BC REVEIL",
       "team2": "R.UN.BELLAIRE B",
       "category": "MM - DIVISION 3 C",
       "location": "BC REVEIL",
-      "other": ""
-    },
-    {
-      "code": "406071",
-      "date": "2026-10-17",
-      "time": "20:00",
-      "team1": "R.UN.BELLAIRE B",
-      "team2": "RBC STAVELOT B",
-      "category": "MM - DIVISION 3 C",
-      "location": "R.UN.BELLAIRE B",
       "other": ""
     },
     {
@@ -913,6 +903,16 @@
       "team2": "R.UN.BELLAIRE B",
       "category": "MM - DIVISION 3 C",
       "location": "BBC EUPEN A",
+      "other": ""
+    },
+    {
+      "code": "406071",
+      "date": "2026-11-28",
+      "time": "18:00",
+      "team1": "R.UN.BELLAIRE B",
+      "team2": "RBC STAVELOT B",
+      "category": "MM - DIVISION 3 C",
+      "location": "R.UN.BELLAIRE B",
       "other": ""
     },
     {
@@ -978,7 +978,7 @@
     {
       "code": "406221",
       "date": "2027-02-06",
-      "time": "20:00",
+      "time": "18:00",
       "team1": "R.UN.BELLAIRE B",
       "team2": "CRISTAL SGH B",
       "category": "MM - DIVISION 3 C",
@@ -1117,7 +1117,7 @@
     },
     {
       "code": "410085",
-      "date": "2026-10-25",
+      "date": "2026-11-01",
       "time": "11:30",
       "team1": "BC VERLAINE",
       "team2": "R.UN.BELLAIRE D",
@@ -1197,8 +1197,8 @@
     },
     {
       "code": "410207",
-      "date": "2027-01-16",
-      "time": "18:30",
+      "date": "2027-01-17",
+      "time": "11:00",
       "team1": "HENRI-CHAPELLE C",
       "team2": "R.UN.BELLAIRE D",
       "category": "MM - DIVISION 4 D",
@@ -1416,21 +1416,21 @@
       "other": ""
     },
     {
-      "code": "411201",
-      "date": "2027-01-16",
-      "time": "18:00",
-      "team1": "R.UN.BELLAIRE C",
-      "team2": "PEPINSTER EAST BELG D",
-      "category": "MM - DIVISION 4 E",
-      "location": "R.UN.BELLAIRE C",
-      "other": ""
-    },
-    {
       "code": "411221",
       "date": "2027-01-30",
       "time": "20:00",
       "team1": "R.UN.BELLAIRE C",
       "team2": "VAIL. JUPILLE C",
+      "category": "MM - DIVISION 4 E",
+      "location": "R.UN.BELLAIRE C",
+      "other": ""
+    },
+    {
+      "code": "411201",
+      "date": "2027-02-06",
+      "time": "20:00",
+      "team1": "R.UN.BELLAIRE C",
+      "team2": "PEPINSTER EAST BELG D",
       "category": "MM - DIVISION 4 E",
       "location": "R.UN.BELLAIRE C",
       "other": ""
@@ -1526,6 +1526,26 @@
       "other": ""
     },
     {
+      "code": "911002",
+      "date": "2026-08-15",
+      "time": "19:00",
+      "team1": "RBC VISE B (+ 5)",
+      "team2": "R.UN.BELLAIRE B",
+      "category": "PROVINCIALE DD - POULE K",
+      "location": "RBC VISE B (+ 5)",
+      "other": ""
+    },
+    {
+      "code": "911005",
+      "date": "2026-08-29",
+      "time": "17:00",
+      "team1": "RABC ENSIVAL A",
+      "team2": "R.UN.BELLAIRE B (+ 5)",
+      "category": "PROVINCIALE DD - POULE K",
+      "location": "RABC ENSIVAL A",
+      "other": ""
+    },
+    {
       "code": "830004",
       "date": "2026-08-22",
       "time": "17:00",
@@ -1533,6 +1553,36 @@
       "team2": "R.UN.BELLAIRE A",
       "category": "PROVINCIALE MM - POULE DD",
       "location": "RSW LIEGE BASKET C (+ 10)",
+      "other": ""
+    },
+    {
+      "code": "814002",
+      "date": "2026-08-15",
+      "time": "19:00",
+      "team1": "R 4A AYWAILLE-HAMOIR B",
+      "team2": "R.UN.BELLAIRE B",
+      "category": "PROVINCIALE MM - POULE N",
+      "location": "R 4A AYWAILLE-HAMOIR B",
+      "other": ""
+    },
+    {
+      "code": "816002",
+      "date": "2026-08-16",
+      "time": "15:00",
+      "team1": "BC TORES LIEGE",
+      "team2": "R.UN.BELLAIRE C",
+      "category": "PROVINCIALE MM - POULE P",
+      "location": "BC TORES LIEGE",
+      "other": ""
+    },
+    {
+      "code": "816005",
+      "date": "2026-08-29",
+      "time": "20:00",
+      "team1": "VAIL. JUPILLE A",
+      "team2": "R.UN.BELLAIRE C (+ 10)",
+      "category": "PROVINCIALE MM - POULE P",
+      "location": "VAIL. JUPILLE A",
       "other": ""
     },
     {
@@ -1936,6 +1986,16 @@
       "other": ""
     },
     {
+      "code": "505101",
+      "date": "2026-11-07",
+      "time": "16:00",
+      "team1": "R.UN.BELLAIRE",
+      "team2": "PEPINSTER EAST BELG C",
+      "category": "U 12 - MM F",
+      "location": "R.UN.BELLAIRE",
+      "other": ""
+    },
+    {
       "code": "505112",
       "date": "2026-11-14",
       "time": "10:30",
@@ -2043,6 +2103,16 @@
       "team2": "R.UN.BELLAIRE",
       "category": "U 12 - MM F",
       "location": "CRISTAL SGH C",
+      "other": ""
+    },
+    {
+      "code": "505293",
+      "date": "2027-03-20",
+      "time": "11:00",
+      "team1": "PEPINSTER EAST BELG C",
+      "team2": "R.UN.BELLAIRE",
+      "category": "U 12 - MM F",
+      "location": "PEPINSTER EAST BELG C",
       "other": ""
     },
     {
@@ -2448,7 +2518,7 @@
     {
       "code": "441336",
       "date": "2027-04-17",
-      "time": "16:00",
+      "time": "9:00",
       "team1": "BBC EUPEN",
       "team2": "R.UN.BELLAIRE",
       "category": "U 18 - PROV MM B",
@@ -2618,7 +2688,7 @@
     {
       "code": "543323",
       "date": "2027-04-10",
-      "time": "11:00",
+      "time": "12:30",
       "team1": "RBC HANEFFE",
       "team2": "R.UN.BELLAIRE",
       "category": "U 8 - MM D",

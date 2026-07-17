@@ -6,6 +6,16 @@
   },
   "events": [
     {
+      "code": "762006",
+      "date": "2026-08-29",
+      "time": "16:30",
+      "team1": "BCM HERSTAL",
+      "team2": "VAIL. JUPILLE",
+      "category": "CPE PROV CADETS",
+      "location": "BCM HERSTAL",
+      "other": ""
+    },
+    {
       "code": "417015",
       "date": "2026-09-05",
       "time": "18:30",
@@ -207,8 +217,8 @@
     },
     {
       "code": "404016",
-      "date": "2026-09-05",
-      "time": "17:00",
+      "date": "2026-09-04",
+      "time": "19:00",
       "team1": "ESL UNITED F",
       "team2": "BCM HERSTAL A",
       "category": "MM - DIVISION 3 A",
@@ -377,8 +387,8 @@
     },
     {
       "code": "404241",
-      "date": "2027-02-13",
-      "time": "19:00",
+      "date": "2027-02-14",
+      "time": "17:00",
       "team1": "ROYAL HERVE-BATTICE B",
       "team2": "BCM HERSTAL A",
       "category": "MM - DIVISION 3 A",
@@ -463,16 +473,6 @@
       "team2": "THEUX BC B",
       "category": "MM - DIVISION 3 A",
       "location": "BCM HERSTAL A",
-      "other": ""
-    },
-    {
-      "code": "410035",
-      "date": "2026-09-20",
-      "time": "10:00",
-      "team1": "BCM HERSTAL B",
-      "team2": "CRISTAL SGH C",
-      "category": "MM - DIVISION 4 D",
-      "location": "BCM HERSTAL B",
       "other": ""
     },
     {
@@ -656,6 +656,16 @@
       "other": ""
     },
     {
+      "code": "410035",
+      "date": "2027-04-04",
+      "time": "10:00",
+      "team1": "BCM HERSTAL B",
+      "team2": "CRISTAL SGH C",
+      "category": "MM - DIVISION 4 D",
+      "location": "BCM HERSTAL B",
+      "other": ""
+    },
+    {
       "code": "410321",
       "date": "2027-04-10",
       "time": "17:00",
@@ -737,8 +747,8 @@
     },
     {
       "code": "412083",
-      "date": "2026-10-25",
-      "time": "17:00",
+      "date": "2026-11-07",
+      "time": "20:00",
       "team1": "ROYAL ANS BC B",
       "team2": "BCM HERSTAL C",
       "category": "MM - DIVISION 4 F",
@@ -906,6 +916,16 @@
       "other": ""
     },
     {
+      "code": "814006",
+      "date": "2026-08-30",
+      "time": "10:00",
+      "team1": "BCM HERSTAL B (+ 5)",
+      "team2": "R 4A AYWAILLE-HAMOIR B",
+      "category": "PROVINCIALE MM - POULE N",
+      "location": "BCM HERSTAL B (+ 5)",
+      "other": ""
+    },
+    {
       "code": "501016",
       "date": "2026-09-05",
       "time": "11:15",
@@ -1066,16 +1086,6 @@
       "other": ""
     },
     {
-      "code": "501225",
-      "date": "2027-01-30",
-      "time": "10:30",
-      "team1": "BCM HERSTAL",
-      "team2": "ALL. FLEMALLE D",
-      "category": "U 12 - MM B",
-      "location": "BCM HERSTAL",
-      "other": ""
-    },
-    {
       "code": "501241",
       "date": "2027-02-13",
       "time": "11:00",
@@ -1131,6 +1141,16 @@
       "time": "10:30",
       "team1": "BCM HERSTAL",
       "team2": "ROYAL BC NINANE",
+      "category": "U 12 - MM B",
+      "location": "BCM HERSTAL",
+      "other": ""
+    },
+    {
+      "code": "501225",
+      "date": "2027-04-03",
+      "time": "10:30",
+      "team1": "BCM HERSTAL",
+      "team2": "ALL. FLEMALLE D",
       "category": "U 12 - MM B",
       "location": "BCM HERSTAL",
       "other": ""
@@ -1336,16 +1356,6 @@
       "other": ""
     },
     {
-      "code": "590034",
-      "date": "2026-09-19",
-      "time": "14:30",
-      "team1": "BCM HERSTAL",
-      "team2": "PRAYON TROOZ",
-      "category": "U 16 - DD A",
-      "location": "BCM HERSTAL",
-      "other": ""
-    },
-    {
       "code": "590063",
       "date": "2026-10-10",
       "time": "11:00",
@@ -1353,6 +1363,16 @@
       "team2": "BCM HERSTAL",
       "category": "U 16 - DD A",
       "location": "ROYAL HERVE-BATTICE",
+      "other": ""
+    },
+    {
+      "code": "590034",
+      "date": "2026-10-17",
+      "time": "10:30",
+      "team1": "BCM HERSTAL",
+      "team2": "PRAYON TROOZ",
+      "category": "U 16 - DD A",
+      "location": "BCM HERSTAL",
       "other": ""
     },
     {
@@ -1458,7 +1478,7 @@
     {
       "code": "590304",
       "date": "2027-03-27",
-      "time": "14:30",
+      "time": "10:30",
       "team1": "BCM HERSTAL",
       "team2": "ROYAL HERVE-BATTICE",
       "category": "U 16 - DD A",

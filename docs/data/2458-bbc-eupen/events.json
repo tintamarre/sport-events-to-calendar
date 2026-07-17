@@ -28,7 +28,7 @@
     {
       "code": "406026",
       "date": "2026-09-11",
-      "time": "20:00",
+      "time": "19:00",
       "team1": "BC REVEIL",
       "team2": "BBC EUPEN A",
       "category": "MM - DIVISION 3 C",
@@ -257,8 +257,8 @@
     },
     {
       "code": "406336",
-      "date": "2027-04-17",
-      "time": "18:00",
+      "date": "2027-04-18",
+      "time": "16:00",
       "team1": "BBC EUPEN A",
       "team2": "RBC WELKENRAEDT A",
       "category": "MM - DIVISION 3 C",
@@ -477,8 +477,8 @@
     },
     {
       "code": "407336",
-      "date": "2027-04-17",
-      "time": "20:00",
+      "date": "2027-04-18",
+      "time": "18:00",
       "team1": "BBC EUPEN B",
       "team2": "DF BC MALMEDY",
       "category": "MM - DIVISION 4 A",
@@ -496,6 +496,36 @@
       "other": ""
     },
     {
+      "code": "811003",
+      "date": "2026-08-16",
+      "time": "13:30",
+      "team1": "HARIMALIA BC A",
+      "team2": "BBC EUPEN B (+ 10)",
+      "category": "PROVINCIALE MM - POULE K",
+      "location": "HARIMALIA BC A",
+      "other": ""
+    },
+    {
+      "code": "819002",
+      "date": "2026-08-16",
+      "time": "17:00",
+      "team1": "RBC VISE D (+ 5)",
+      "team2": "BBC EUPEN A",
+      "category": "PROVINCIALE MM - POULE S",
+      "location": "RBC VISE D (+ 5)",
+      "other": ""
+    },
+    {
+      "code": "819005",
+      "date": "2026-08-29",
+      "time": "19:00",
+      "team1": "BC VERVIERS B",
+      "team2": "BBC EUPEN A (+ 5)",
+      "category": "PROVINCIALE MM - POULE S",
+      "location": "BC VERVIERS B",
+      "other": ""
+    },
+    {
       "code": "526025",
       "date": "2026-09-13",
       "time": "9:00",
@@ -503,16 +533,6 @@
       "team2": "BBC EUPEN",
       "category": "U 10 - MM G",
       "location": "PRAYON TROOZ",
-      "other": ""
-    },
-    {
-      "code": "526036",
-      "date": "2026-09-19",
-      "time": "14:00",
-      "team1": "BBC EUPEN",
-      "team2": "DF BC MALMEDY",
-      "category": "U 10 - MM G",
-      "location": "BBC EUPEN",
       "other": ""
     },
     {
@@ -527,7 +547,7 @@
     },
     {
       "code": "526066",
-      "date": "2026-10-10",
+      "date": "2026-10-11",
       "time": "9:00",
       "team1": "RABC ENSIVAL A",
       "team2": "BBC EUPEN",
@@ -556,6 +576,16 @@
       "other": ""
     },
     {
+      "code": "526036",
+      "date": "2026-11-29",
+      "time": "10:00",
+      "team1": "BBC EUPEN",
+      "team2": "DF BC MALMEDY",
+      "category": "U 10 - MM G",
+      "location": "BBC EUPEN",
+      "other": ""
+    },
+    {
       "code": "526141",
       "date": "2026-12-05",
       "time": "11:00",
@@ -567,7 +597,7 @@
     },
     {
       "code": "526156",
-      "date": "2026-12-12",
+      "date": "2026-12-13",
       "time": "10:30",
       "team1": "BBC EUPEN",
       "team2": "HENRI-CHAPELLE B",
@@ -667,8 +697,8 @@
     },
     {
       "code": "526336",
-      "date": "2027-04-17",
-      "time": "10:30",
+      "date": "2027-04-18",
+      "time": "12:00",
       "team1": "BBC EUPEN",
       "team2": "BC SANKT VITH",
       "category": "U 10 - MM G",
@@ -718,7 +748,7 @@
     {
       "code": "506104",
       "date": "2026-11-07",
-      "time": "11:00",
+      "time": "13:00",
       "team1": "RABC ENSIVAL B",
       "team2": "BBC EUPEN",
       "category": "U 12 - MM G",
@@ -747,7 +777,7 @@
     },
     {
       "code": "506156",
-      "date": "2026-12-12",
+      "date": "2026-12-13",
       "time": "12:00",
       "team1": "BBC EUPEN",
       "team2": "RBC STAVELOT B",
@@ -837,8 +867,8 @@
     },
     {
       "code": "506286",
-      "date": "2027-03-13",
-      "time": "12:00",
+      "date": "2027-03-14",
+      "time": "9:00",
       "team1": "BBC EUPEN",
       "team2": "DF BC MALMEDY",
       "category": "U 12 - MM G",
@@ -867,8 +897,8 @@
     },
     {
       "code": "506336",
-      "date": "2027-04-17",
-      "time": "12:00",
+      "date": "2027-04-18",
+      "time": "14:00",
       "team1": "BBC EUPEN",
       "team2": "BC SANKT VITH",
       "category": "U 12 - MM G",
@@ -938,7 +968,7 @@
     {
       "code": "492156",
       "date": "2026-12-13",
-      "time": "10:00",
+      "time": "14:00",
       "team1": "BBC EUPEN",
       "team2": "RBC STAVELOT",
       "category": "U 14 - PROV MM C",
@@ -976,16 +1006,6 @@
       "other": ""
     },
     {
-      "code": "492235",
-      "date": "2027-02-06",
-      "time": "9:00",
-      "team1": "PRAYON TROOZ",
-      "team2": "BBC EUPEN",
-      "category": "U 14 - PROV MM C",
-      "location": "PRAYON TROOZ",
-      "other": ""
-    },
-    {
       "code": "492243",
       "date": "2027-02-13",
       "time": "12:30",
@@ -996,9 +1016,19 @@
       "other": ""
     },
     {
+      "code": "492235",
+      "date": "2027-02-20",
+      "time": "11:00",
+      "team1": "PRAYON TROOZ",
+      "team2": "BBC EUPEN",
+      "category": "U 14 - PROV MM C",
+      "location": "PRAYON TROOZ",
+      "other": ""
+    },
+    {
       "code": "492286",
       "date": "2027-03-14",
-      "time": "10:00",
+      "time": "13:00",
       "team1": "BBC EUPEN",
       "team2": "DF BC MALMEDY",
       "category": "U 14 - PROV MM C",
@@ -1027,8 +1057,8 @@
     },
     {
       "code": "492336",
-      "date": "2027-04-18",
-      "time": "10:00",
+      "date": "2027-04-17",
+      "time": "11:00",
       "team1": "BBC EUPEN",
       "team2": "BC SANKT VITH",
       "category": "U 14 - PROV MM C",
@@ -1108,7 +1138,7 @@
     {
       "code": "470142",
       "date": "2026-12-06",
-      "time": "10:00",
+      "time": "14:00",
       "team1": "BBC EUPEN",
       "team2": "ETOILE JUPILLE",
       "category": "U 16 - PROV MM A",
@@ -1118,7 +1148,7 @@
     {
       "code": "470152",
       "date": "2026-12-12",
-      "time": "14:00",
+      "time": "9:00",
       "team1": "BBC EUPEN",
       "team2": "DF BC MALMEDY",
       "category": "U 16 - PROV MM A",
@@ -1298,7 +1328,7 @@
     {
       "code": "441156",
       "date": "2026-12-12",
-      "time": "16:00",
+      "time": "11:00",
       "team1": "BBC EUPEN",
       "team2": "RBC AWANS",
       "category": "U 18 - PROV MM B",
@@ -1377,8 +1407,8 @@
     },
     {
       "code": "441286",
-      "date": "2027-03-13",
-      "time": "14:00",
+      "date": "2027-03-14",
+      "time": "11:00",
       "team1": "BBC EUPEN",
       "team2": "ALL. FLEMALLE B",
       "category": "U 18 - PROV MM B",
@@ -1408,7 +1438,7 @@
     {
       "code": "441336",
       "date": "2027-04-17",
-      "time": "16:00",
+      "time": "9:00",
       "team1": "BBC EUPEN",
       "team2": "R.UN.BELLAIRE",
       "category": "U 18 - PROV MM B",
@@ -1548,7 +1578,7 @@
     {
       "code": "420158",
       "date": "2026-12-13",
-      "time": "12:00",
+      "time": "16:00",
       "team1": "BBC EUPEN",
       "team2": "RBC DISON-ANDRIMONT",
       "category": "U 21 - MM",
@@ -1648,7 +1678,7 @@
     {
       "code": "420288",
       "date": "2027-03-14",
-      "time": "12:00",
+      "time": "15:00",
       "team1": "BBC EUPEN",
       "team2": "ROYAL SPA BC",
       "category": "U 21 - MM",
@@ -1797,7 +1827,7 @@
     },
     {
       "code": "540156",
-      "date": "2026-12-12",
+      "date": "2026-12-13",
       "time": "9:00",
       "team1": "BBC EUPEN",
       "team2": "RBC STAVELOT",
@@ -1907,8 +1937,8 @@
     },
     {
       "code": "540336",
-      "date": "2027-04-17",
-      "time": "9:00",
+      "date": "2027-04-18",
+      "time": "10:00",
       "team1": "BBC EUPEN",
       "team2": "ROYAL SPA BC A",
       "category": "U 8 - MM A",

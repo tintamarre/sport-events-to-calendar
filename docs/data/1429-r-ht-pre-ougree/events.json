@@ -48,7 +48,7 @@
     {
       "code": "414056",
       "date": "2026-10-04",
-      "time": "17:00",
+      "time": "11:00",
       "team1": "ROYAL HERVE-BATTICE D",
       "team2": "R HT-PRE OUGREE A",
       "category": "DD - DIVISION 2 A",
@@ -898,7 +898,7 @@
     {
       "code": "412301",
       "date": "2027-03-28",
-      "time": "10:00",
+      "time": "17:00",
       "team1": "ROYAL SPA BC E",
       "team2": "R HT-PRE OUGREE B",
       "category": "MM - DIVISION 4 F",
@@ -953,6 +953,16 @@
       "team2": "ROYAL SPA BC B (+ 5)",
       "category": "PROVINCIALE DD - POULE M",
       "location": "R HT-PRE OUGREE A",
+      "other": ""
+    },
+    {
+      "code": "913005",
+      "date": "2026-08-29",
+      "time": "17:00",
+      "team1": "RBC CROATIA OUPEYE",
+      "team2": "R HT-PRE OUGREE A (+ 5)",
+      "category": "PROVINCIALE DD - POULE M",
+      "location": "RBC CROATIA OUPEYE",
       "other": ""
     },
     {
@@ -1576,16 +1586,6 @@
       "other": ""
     },
     {
-      "code": "493156",
-      "date": "2026-12-12",
-      "time": "16:00",
-      "team1": "R HT-PRE OUGREE",
-      "team2": "RBC AWANS A",
-      "category": "U 14 - PROV MM D",
-      "location": "R HT-PRE OUGREE",
-      "other": ""
-    },
-    {
       "code": "493192",
       "date": "2027-01-09",
       "time": "15:00",
@@ -1603,16 +1603,6 @@
       "team2": "UN HUY BASKET",
       "category": "U 14 - PROV MM D",
       "location": "R HT-PRE OUGREE",
-      "other": ""
-    },
-    {
-      "code": "493211",
-      "date": "2027-01-24",
-      "time": "17:00",
-      "team1": "RBC AWANS A",
-      "team2": "R HT-PRE OUGREE",
-      "category": "U 14 - PROV MM D",
-      "location": "RBC AWANS A",
       "other": ""
     },
     {
@@ -1866,16 +1856,6 @@
       "other": ""
     },
     {
-      "code": "440036",
-      "date": "2026-09-19",
-      "time": "12:00",
-      "team1": "R HT-PRE OUGREE",
-      "team2": "ALL. FLEMALLE C",
-      "category": "U 18 - PROV MM A",
-      "location": "R HT-PRE OUGREE",
-      "other": ""
-    },
-    {
       "code": "440056",
       "date": "2026-10-03",
       "time": "12:00",
@@ -1886,13 +1866,13 @@
       "other": ""
     },
     {
-      "code": "440104",
-      "date": "2026-11-07",
-      "time": "16:30",
-      "team1": "RBC BLEGNY",
-      "team2": "R HT-PRE OUGREE",
+      "code": "440036",
+      "date": "2026-10-17",
+      "time": "12:00",
+      "team1": "R HT-PRE OUGREE",
+      "team2": "ALL. FLEMALLE C",
       "category": "U 18 - PROV MM A",
-      "location": "RBC BLEGNY",
+      "location": "R HT-PRE OUGREE",
       "other": ""
     },
     {
@@ -2006,16 +1986,6 @@
       "other": ""
     },
     {
-      "code": "440296",
-      "date": "2027-03-20",
-      "time": "12:00",
-      "team1": "R HT-PRE OUGREE",
-      "team2": "RBC BLEGNY",
-      "category": "U 18 - PROV MM A",
-      "location": "R HT-PRE OUGREE",
-      "other": ""
-    },
-    {
       "code": "440324",
       "date": "2027-04-11",
       "time": "13:00",
@@ -2046,16 +2016,6 @@
       "other": ""
     },
     {
-      "code": "552053",
-      "date": "2026-10-03",
-      "time": "10:00",
-      "team1": "R HT-PRE OUGREE",
-      "team2": "BC SPRIMONT A",
-      "category": "U 7 - MM C",
-      "location": "R HT-PRE OUGREE",
-      "other": ""
-    },
-    {
       "code": "552064",
       "date": "2026-10-10",
       "time": "9:00",
@@ -2063,6 +2023,16 @@
       "team2": "R HT-PRE OUGREE",
       "category": "U 7 - MM C",
       "location": "ABC WAREMME A",
+      "other": ""
+    },
+    {
+      "code": "552053",
+      "date": "2026-10-17",
+      "time": "12:30",
+      "team1": "R HT-PRE OUGREE",
+      "team2": "BC SPRIMONT A",
+      "category": "U 7 - MM C",
+      "location": "R HT-PRE OUGREE",
       "other": ""
     },
     {
@@ -2157,7 +2127,7 @@
     },
     {
       "code": "552246",
-      "date": "2027-02-14",
+      "date": "2027-03-07",
       "time": "9:00",
       "team1": "BC SPRIMONT A",
       "team2": "R HT-PRE OUGREE",
@@ -2246,6 +2216,16 @@
       "other": ""
     },
     {
+      "code": "543145",
+      "date": "2026-10-03",
+      "time": "15:00",
+      "team1": "BC SPRIMONT A",
+      "team2": "R HT-PRE OUGREE",
+      "category": "U 8 - MM D",
+      "location": "BC SPRIMONT A",
+      "other": ""
+    },
+    {
       "code": "543063",
       "date": "2026-10-10",
       "time": "12:00",
@@ -2253,6 +2233,16 @@
       "team2": "MAIL. COMBLAIN",
       "category": "U 8 - MM D",
       "location": "R HT-PRE OUGREE",
+      "other": ""
+    },
+    {
+      "code": "543322",
+      "date": "2026-10-17",
+      "time": "9:00",
+      "team1": "ROYAL HERVE-BATTICE A",
+      "team2": "R HT-PRE OUGREE",
+      "category": "U 8 - MM D",
+      "location": "ROYAL HERVE-BATTICE A",
       "other": ""
     },
     {
@@ -2283,16 +2273,6 @@
       "team2": "R HT-PRE OUGREE",
       "category": "U 8 - MM D",
       "location": "RBC HANEFFE",
-      "other": ""
-    },
-    {
-      "code": "543145",
-      "date": "2026-12-05",
-      "time": "14:00",
-      "team1": "BC SPRIMONT A",
-      "team2": "R HT-PRE OUGREE",
-      "category": "U 8 - MM D",
-      "location": "BC SPRIMONT A",
       "other": ""
     },
     {
@@ -2373,16 +2353,6 @@
       "team2": "R HT-PRE OUGREE",
       "category": "U 8 - MM D",
       "location": "MAIL. COMBLAIN",
-      "other": ""
-    },
-    {
-      "code": "543322",
-      "date": "2027-04-10",
-      "time": "9:00",
-      "team1": "ROYAL HERVE-BATTICE A",
-      "team2": "R HT-PRE OUGREE",
-      "category": "U 8 - MM D",
-      "location": "ROYAL HERVE-BATTICE A",
       "other": ""
     },
     {

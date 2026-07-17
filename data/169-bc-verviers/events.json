@@ -337,8 +337,8 @@
     },
     {
       "code": "403101",
-      "date": "2026-11-08",
-      "time": "16:00",
+      "date": "2026-11-07",
+      "time": "19:00",
       "team1": "RBC AWANS A",
       "team2": "BC VERVIERS C",
       "category": "MM - DIVISION 2 B",
@@ -398,7 +398,7 @@
     {
       "code": "403207",
       "date": "2027-01-16",
-      "time": "17:00",
+      "time": "21:00",
       "team1": "BC SPRIMONT C",
       "team2": "BC VERVIERS C",
       "category": "MM - DIVISION 2 B",
@@ -628,7 +628,7 @@
     {
       "code": "406143",
       "date": "2026-12-05",
-      "time": "21:00",
+      "time": "17:00",
       "team1": "RABC ENSIVAL C",
       "team2": "BC VERVIERS D",
       "category": "MM - DIVISION 3 C",
@@ -787,8 +787,8 @@
     },
     {
       "code": "AW100008",
-      "date": "2026-09-05",
-      "time": "19:00",
+      "date": "2026-09-04",
+      "time": "20:30",
       "team1": "BCJS ESTAIMPUIS",
       "team2": "BC VERVIERS A",
       "category": "MM - REGIONALE 1",
@@ -1077,12 +1077,42 @@
     },
     {
       "code": "AW100173",
-      "date": "2027-04-25",
-      "time": "16:00",
+      "date": "2027-04-24",
+      "time": "20:30",
       "team1": "BCCA NEUFCHATEAU",
       "team2": "BC VERVIERS A",
       "category": "MM - REGIONALE 1",
       "location": "BCCA NEUFCHATEAU",
+      "other": ""
+    },
+    {
+      "code": "818005",
+      "date": "2026-08-29",
+      "time": "19:00",
+      "team1": "ROYAL SPA BC C",
+      "team2": "BC VERVIERS D (+ 5)",
+      "category": "PROVINCIALE MM - POULE R",
+      "location": "ROYAL SPA BC C",
+      "other": ""
+    },
+    {
+      "code": "819004",
+      "date": "2026-08-23",
+      "time": "17:00",
+      "team1": "RBC VISE D (+ 10)",
+      "team2": "BC VERVIERS B",
+      "category": "PROVINCIALE MM - POULE S",
+      "location": "RBC VISE D (+ 10)",
+      "other": ""
+    },
+    {
+      "code": "819005",
+      "date": "2026-08-29",
+      "time": "19:00",
+      "team1": "BC VERVIERS B",
+      "team2": "BBC EUPEN A (+ 5)",
+      "category": "PROVINCIALE MM - POULE S",
+      "location": "BC VERVIERS B",
       "other": ""
     },
     {
@@ -1138,7 +1168,7 @@
     {
       "code": "524114",
       "date": "2026-11-14",
-      "time": "11:30",
+      "time": "10:00",
       "team1": "VAIL. JUPILLE",
       "team2": "BC VERVIERS",
       "category": "U 10 - MM E",
@@ -1297,8 +1327,8 @@
     },
     {
       "code": "430056",
-      "date": "2026-10-04",
-      "time": "11:00",
+      "date": "2026-10-03",
+      "time": "14:45",
       "team1": "RBC ALLEUR",
       "team2": "BC VERVIERS B",
       "category": "U 18 - ELITES MM A",
@@ -1467,8 +1497,8 @@
     },
     {
       "code": "430322",
-      "date": "2027-04-10",
-      "time": "14:00",
+      "date": "2027-04-11",
+      "time": "17:00",
       "team1": "BC BELLEFLAMME B",
       "team2": "BC VERVIERS B",
       "category": "U 18 - ELITES MM A",
@@ -1488,7 +1518,7 @@
     {
       "code": "431014",
       "date": "2026-09-05",
-      "time": "15:30",
+      "time": "14:00",
       "team1": "BC VERVIERS A",
       "team2": "ABC WAREMME B",
       "category": "U 18 - ELITES MM B",
@@ -1548,7 +1578,7 @@
     {
       "code": "431114",
       "date": "2026-11-14",
-      "time": "15:30",
+      "time": "14:00",
       "team1": "BC VERVIERS A",
       "team2": "COLLEGE S LOUIS",
       "category": "U 18 - ELITES MM B",

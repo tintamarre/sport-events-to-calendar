@@ -6,6 +6,26 @@
   },
   "events": [
     {
+      "code": "530",
+      "date": "2026-08-23",
+      "time": "13:30",
+      "team1": "BBL'9 FLENU",
+      "team2": "GIANTS BRAIVES",
+      "category": "COUPE AWBB U18 - GARCONS",
+      "location": "BBL'9 FLENU",
+      "other": ""
+    },
+    {
+      "code": "763009",
+      "date": "2026-08-30",
+      "time": "9:00",
+      "team1": "GIANTS BRAIVES B",
+      "team2": "MAIL. COMBLAIN",
+      "category": "CPE PROV MINIMES MM",
+      "location": "GIANTS BRAIVES B",
+      "other": ""
+    },
+    {
       "code": "764006",
       "date": "2026-08-30",
       "time": "11:00",
@@ -347,7 +367,7 @@
     },
     {
       "code": "409226",
-      "date": "2027-01-30",
+      "date": "2027-02-06",
       "time": "19:00",
       "team1": "GIANTS BRAIVES A",
       "team2": "ALL. FLEMALLE C",
@@ -656,6 +676,26 @@
       "other": ""
     },
     {
+      "code": "901001",
+      "date": "2026-08-16",
+      "time": "10:00",
+      "team1": "HANNUT BC",
+      "team2": "GIANTS BRAIVES (+ 10)",
+      "category": "PROVINCIALE DD - POULE A",
+      "location": "HANNUT BC",
+      "other": ""
+    },
+    {
+      "code": "901003",
+      "date": "2026-08-23",
+      "time": "10:00",
+      "team1": "ROYAL BC WANZE",
+      "team2": "GIANTS BRAIVES (+ 5)",
+      "category": "PROVINCIALE DD - POULE A",
+      "location": "ROYAL BC WANZE",
+      "other": ""
+    },
+    {
       "code": "901006",
       "date": "2026-08-30",
       "time": "13:00",
@@ -663,6 +703,16 @@
       "team2": "LA VILLERSOISE A",
       "category": "PROVINCIALE DD - POULE A",
       "location": "GIANTS BRAIVES (+ 5)",
+      "other": ""
+    },
+    {
+      "code": "822005",
+      "date": "2026-08-29",
+      "time": "20:45",
+      "team1": "ESL UNITED D",
+      "team2": "GIANTS BRAIVES A (+ 10)",
+      "category": "PROVINCIALE MM - POULE V",
+      "location": "ESL UNITED D",
       "other": ""
     },
     {
@@ -678,7 +728,7 @@
     {
       "code": "527033",
       "date": "2026-09-19",
-      "time": "14:45",
+      "time": "9:00",
       "team1": "RBC ALLEUR B",
       "team2": "GIANTS BRAIVES A",
       "category": "U 10 - MM H",
@@ -727,7 +777,7 @@
     },
     {
       "code": "527121",
-      "date": "2026-11-22",
+      "date": "2026-11-29",
       "time": "9:00",
       "team1": "GIANTS BRAIVES A",
       "team2": "CRISTAL SGH B",
@@ -917,8 +967,8 @@
     },
     {
       "code": "528121",
-      "date": "2026-11-22",
-      "time": "13:00",
+      "date": "2026-11-28",
+      "time": "9:00",
       "team1": "GIANTS BRAIVES B",
       "team2": "RBC ESNEUX B",
       "category": "U 10 - MM I",
@@ -1378,7 +1428,7 @@
     {
       "code": "503161",
       "date": "2026-12-20",
-      "time": "15:30",
+      "time": "10:30",
       "team1": "BC SPRIMONT B",
       "team2": "GIANTS BRAIVES B",
       "category": "U 12 - MM D",
@@ -1497,8 +1547,8 @@
     },
     {
       "code": "507026",
-      "date": "2026-09-12",
-      "time": "13:00",
+      "date": "2026-09-13",
+      "time": "9:00",
       "team1": "GIANTS BRAIVES C",
       "team2": "RJS GRIVEGNEE",
       "category": "U 12 - MM H",
@@ -1508,7 +1558,7 @@
     {
       "code": "507032",
       "date": "2026-09-19",
-      "time": "9:00",
+      "time": "14:45",
       "team1": "RBC ALLEUR D",
       "team2": "GIANTS BRAIVES C",
       "category": "U 12 - MM H",
@@ -1778,7 +1828,7 @@
     {
       "code": "480203",
       "date": "2027-01-16",
-      "time": "10:00",
+      "time": "11:00",
       "team1": "BC SPRIMONT B",
       "team2": "GIANTS BRAIVES B",
       "category": "U 14 - ELITES MM A",
@@ -2607,8 +2657,8 @@
     },
     {
       "code": "544206",
-      "date": "2027-01-17",
-      "time": "13:00",
+      "date": "2027-01-16",
+      "time": "15:00",
       "team1": "GIANTS BRAIVES A",
       "team2": "UN HUY BASKET",
       "category": "U 8 - MM E",
@@ -2787,8 +2837,8 @@
     },
     {
       "code": "545206",
-      "date": "2027-01-16",
-      "time": "15:00",
+      "date": "2027-01-17",
+      "time": "13:00",
       "team1": "GIANTS BRAIVES B",
       "team2": "CONDROZ MODAVE BB",
       "category": "U 8 - MM F",

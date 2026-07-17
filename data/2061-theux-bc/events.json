@@ -18,7 +18,7 @@
     {
       "code": "AW214003",
       "date": "2026-08-23",
-      "time": "13:00",
+      "time": "10:00",
       "team1": "THEUX BC",
       "team2": "UCCLE EUROPE B",
       "category": "AWBB MM - POULE N",
@@ -298,7 +298,7 @@
     {
       "code": "404017",
       "date": "2026-09-05",
-      "time": "19:00",
+      "time": "21:00",
       "team1": "R 4A AYWAILLE-HAMOIR B",
       "team2": "THEUX BC B",
       "category": "MM - DIVISION 3 A",
@@ -1023,6 +1023,46 @@
       "team2": "RBC WELKENRAEDT A (+ 10)",
       "category": "PROVINCIALE MM - POULE C",
       "location": "THEUX BC A",
+      "other": ""
+    },
+    {
+      "code": "804002",
+      "date": "2026-08-16",
+      "time": "11:00",
+      "team1": "THEUX BC C (+ 5)",
+      "team2": "ROYAL BC NINANE C",
+      "category": "PROVINCIALE MM - POULE D",
+      "location": "THEUX BC C (+ 5)",
+      "other": ""
+    },
+    {
+      "code": "804004",
+      "date": "2026-08-23",
+      "time": "11:00",
+      "team1": "THEUX BC C (+ 15)",
+      "team2": "ATLAS A JUPILLE A",
+      "category": "PROVINCIALE MM - POULE D",
+      "location": "THEUX BC C (+ 15)",
+      "other": ""
+    },
+    {
+      "code": "817003",
+      "date": "2026-08-22",
+      "time": "21:00",
+      "team1": "R 4A AYWAILLE-HAMOIR C (",
+      "team2": "THEUX BC B",
+      "category": "PROVINCIALE MM - POULE Q",
+      "location": "R 4A AYWAILLE-HAMOIR C (",
+      "other": ""
+    },
+    {
+      "code": "817006",
+      "date": "2026-08-30",
+      "time": "15:00",
+      "team1": "THEUX BC B",
+      "team2": "THUNDER CONDROZ (+ 5)",
+      "category": "PROVINCIALE MM - POULE Q",
+      "location": "THEUX BC B",
       "other": ""
     },
     {
@@ -2018,7 +2058,7 @@
     {
       "code": "490291",
       "date": "2027-03-20",
-      "time": "13:45",
+      "time": "13:00",
       "team1": "ROYAL SPA BC",
       "team2": "THEUX BC",
       "category": "U 14 - PROV MM A",
@@ -2107,7 +2147,7 @@
     },
     {
       "code": "450114",
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "time": "11:00",
       "team1": "RBC VISE",
       "team2": "THEUX BC",
@@ -2228,7 +2268,7 @@
     {
       "code": "450291",
       "date": "2027-03-20",
-      "time": "15:45",
+      "time": "9:00",
       "team1": "ROYAL SPA BC A",
       "team2": "THEUX BC",
       "category": "U 16 - ELITES MM A",
@@ -2283,16 +2323,6 @@
       "team2": "THEUX BC",
       "category": "U 18 - PROV MM A",
       "location": "R HT-PRE OUGREE",
-      "other": ""
-    },
-    {
-      "code": "440063",
-      "date": "2026-10-10",
-      "time": "9:00",
-      "team1": "THEUX BC",
-      "team2": "RBC BLEGNY",
-      "category": "U 18 - PROV MM A",
-      "location": "THEUX BC",
       "other": ""
     },
     {
@@ -2416,16 +2446,6 @@
       "other": ""
     },
     {
-      "code": "440304",
-      "date": "2027-03-27",
-      "time": "16:30",
-      "team1": "RBC BLEGNY",
-      "team2": "THEUX BC",
-      "category": "U 18 - PROV MM A",
-      "location": "RBC BLEGNY",
-      "other": ""
-    },
-    {
       "code": "440322",
       "date": "2027-04-11",
       "time": "15:00",
@@ -2437,8 +2457,8 @@
     },
     {
       "code": "420018",
-      "date": "2026-09-05",
-      "time": "12:45",
+      "date": "2026-09-06",
+      "time": "11:00",
       "team1": "RBC ALLEUR",
       "team2": "THEUX BC",
       "category": "U 21 - MM",
@@ -2608,7 +2628,7 @@
     {
       "code": "420216",
       "date": "2027-01-24",
-      "time": "9:00",
+      "time": "12:00",
       "team1": "BC SPRIMONT",
       "team2": "THEUX BC",
       "category": "U 21 - MM",
@@ -2798,7 +2818,7 @@
     {
       "code": "550114",
       "date": "2026-11-14",
-      "time": "10:00",
+      "time": "9:00",
       "team1": "VAIL. JUPILLE",
       "team2": "THEUX BC",
       "category": "U 7 - MM A",

@@ -6,6 +6,16 @@
   },
   "events": [
     {
+      "code": "764003",
+      "date": "2026-08-29",
+      "time": "13:00",
+      "team1": "BC COINTE A",
+      "team2": "HARIMALIA BC",
+      "category": "CPE PROV PUPILLES MM",
+      "location": "BC COINTE A",
+      "other": ""
+    },
+    {
       "code": "403012",
       "date": "2026-09-06",
       "time": "13:30",
@@ -43,16 +53,6 @@
       "team2": "RBC ALLEUR B",
       "category": "MM - DIVISION 2 B",
       "location": "HARIMALIA BC A",
-      "other": ""
-    },
-    {
-      "code": "403065",
-      "date": "2026-10-10",
-      "time": "19:00",
-      "team1": "RB TILFF B",
-      "team2": "HARIMALIA BC A",
-      "category": "MM - DIVISION 2 B",
-      "location": "RB TILFF B",
       "other": ""
     },
     {
@@ -103,6 +103,16 @@
       "team2": "HARIMALIA BC A",
       "category": "MM - DIVISION 2 B",
       "location": "RBC AWANS A",
+      "other": ""
+    },
+    {
+      "code": "403065",
+      "date": "2026-11-28",
+      "time": "17:00",
+      "team1": "RB TILFF B",
+      "team2": "HARIMALIA BC A",
+      "category": "MM - DIVISION 2 B",
+      "location": "RB TILFF B",
       "other": ""
     },
     {
@@ -357,7 +367,7 @@
     },
     {
       "code": "404121",
-      "date": "2026-11-21",
+      "date": "2026-11-28",
       "time": "19:00",
       "team1": "ROYAL HERVE-BATTICE B",
       "team2": "HARIMALIA BC B",
@@ -1006,6 +1016,46 @@
       "other": ""
     },
     {
+      "code": "828002",
+      "date": "2026-08-16",
+      "time": "11:30",
+      "team1": "HARIMALIA BC D",
+      "team2": "ROYAL BC NINANE E",
+      "category": "PROVINCIALE MM - POULE BB",
+      "location": "HARIMALIA BC D",
+      "other": ""
+    },
+    {
+      "code": "805002",
+      "date": "2026-08-16",
+      "time": "15:30",
+      "team1": "HARIMALIA BC B",
+      "team2": "RBC STAVELOT B",
+      "category": "PROVINCIALE MM - POULE E",
+      "location": "HARIMALIA BC B",
+      "other": ""
+    },
+    {
+      "code": "805004",
+      "date": "2026-08-19",
+      "time": "21:00",
+      "team1": "HARIMALIA BC B (+ 10)",
+      "team2": "ETOILE JUPILLE A",
+      "category": "PROVINCIALE MM - POULE E",
+      "location": "HARIMALIA BC B (+ 10)",
+      "other": ""
+    },
+    {
+      "code": "811003",
+      "date": "2026-08-16",
+      "time": "13:30",
+      "team1": "HARIMALIA BC A",
+      "team2": "BBC EUPEN B (+ 10)",
+      "category": "PROVINCIALE MM - POULE K",
+      "location": "HARIMALIA BC A",
+      "other": ""
+    },
+    {
       "code": "523012",
       "date": "2026-09-05",
       "time": "13:00",
@@ -1087,8 +1137,8 @@
     },
     {
       "code": "523166",
-      "date": "2026-12-19",
-      "time": "9:30",
+      "date": "2026-12-20",
+      "time": "15:45",
       "team1": "COLLEGE S LOUIS",
       "team2": "HARIMALIA BC",
       "category": "U 10 - MM D",
@@ -1318,7 +1368,7 @@
     {
       "code": "503231",
       "date": "2027-02-07",
-      "time": "15:30",
+      "time": "12:30",
       "team1": "BC SPRIMONT B",
       "team2": "HARIMALIA BC A",
       "category": "U 12 - MM D",
@@ -1758,7 +1808,7 @@
     {
       "code": "451023",
       "date": "2026-09-13",
-      "time": "13:00",
+      "time": "17:00",
       "team1": "ALL. FLEMALLE A",
       "team2": "HARIMALIA BC",
       "category": "U 16 - ELITES MM B",
@@ -2146,16 +2196,6 @@
       "other": ""
     },
     {
-      "code": "440014",
-      "date": "2026-09-06",
-      "time": "13:00",
-      "team1": "HARIMALIA BC",
-      "team2": "RBC BLEGNY",
-      "category": "U 18 - PROV MM A",
-      "location": "HARIMALIA BC",
-      "other": ""
-    },
-    {
       "code": "440024",
       "date": "2026-09-13",
       "time": "13:00",
@@ -2243,16 +2283,6 @@
       "team2": "MARCHIN BASKET",
       "category": "U 18 - PROV MM A",
       "location": "HARIMALIA BC",
-      "other": ""
-    },
-    {
-      "code": "440204",
-      "date": "2027-01-16",
-      "time": "16:30",
-      "team1": "RBC BLEGNY",
-      "team2": "HARIMALIA BC",
-      "category": "U 18 - PROV MM A",
-      "location": "RBC BLEGNY",
       "other": ""
     },
     {

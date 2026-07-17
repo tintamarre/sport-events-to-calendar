@@ -308,7 +308,7 @@
     {
       "code": "418015",
       "date": "2026-09-06",
-      "time": "16:00",
+      "time": "14:00",
       "team1": "PRAYON TROOZ D",
       "team2": "CRISTAL SGH B",
       "category": "DD - DIVISION 3 C",
@@ -587,7 +587,7 @@
     },
     {
       "code": "401144",
-      "date": "2026-12-06",
+      "date": "2026-11-29",
       "time": "15:00",
       "team1": "CRISTAL SGH A",
       "team2": "BC COINTE A",
@@ -626,16 +626,6 @@
       "other": ""
     },
     {
-      "code": "401206",
-      "date": "2027-01-17",
-      "time": "13:00",
-      "team1": "ROYAL HERVE-BATTICE A",
-      "team2": "CRISTAL SGH A",
-      "category": "MM - DIVISION 1",
-      "location": "ROYAL HERVE-BATTICE A",
-      "other": ""
-    },
-    {
       "code": "401215",
       "date": "2027-01-23",
       "time": "17:00",
@@ -653,6 +643,16 @@
       "team2": "CRISTAL SGH A",
       "category": "MM - DIVISION 1",
       "location": "ATLAS A JUPILLE A",
+      "other": ""
+    },
+    {
+      "code": "401206",
+      "date": "2027-02-07",
+      "time": "13:00",
+      "team1": "ROYAL HERVE-BATTICE A",
+      "team2": "CRISTAL SGH A",
+      "category": "MM - DIVISION 1",
+      "location": "ROYAL HERVE-BATTICE A",
       "other": ""
     },
     {
@@ -817,8 +817,8 @@
     },
     {
       "code": "406106",
-      "date": "2026-11-06",
-      "time": "20:00",
+      "date": "2026-11-07",
+      "time": "19:00",
       "team1": "BC REVEIL",
       "team2": "CRISTAL SGH B",
       "category": "MM - DIVISION 3 C",
@@ -908,7 +908,7 @@
     {
       "code": "406221",
       "date": "2027-02-06",
-      "time": "20:00",
+      "time": "18:00",
       "team1": "R.UN.BELLAIRE B",
       "team2": "CRISTAL SGH B",
       "category": "MM - DIVISION 3 C",
@@ -1013,16 +1013,6 @@
       "team2": "GIANTS BRAIVES B",
       "category": "MM - DIVISION 4 D",
       "location": "CRISTAL SGH C",
-      "other": ""
-    },
-    {
-      "code": "410035",
-      "date": "2026-09-20",
-      "time": "10:00",
-      "team1": "BCM HERSTAL B",
-      "team2": "CRISTAL SGH C",
-      "category": "MM - DIVISION 4 D",
-      "location": "BCM HERSTAL B",
       "other": ""
     },
     {
@@ -1206,6 +1196,16 @@
       "other": ""
     },
     {
+      "code": "410035",
+      "date": "2027-04-04",
+      "time": "10:00",
+      "team1": "BCM HERSTAL B",
+      "team2": "CRISTAL SGH C",
+      "category": "MM - DIVISION 4 D",
+      "location": "BCM HERSTAL B",
+      "other": ""
+    },
+    {
       "code": "410324",
       "date": "2027-04-11",
       "time": "17:00",
@@ -1307,8 +1307,8 @@
     },
     {
       "code": "412123",
-      "date": "2026-11-22",
-      "time": "17:00",
+      "date": "2026-11-21",
+      "time": "20:00",
       "team1": "ROYAL ANS BC B",
       "team2": "CRISTAL SGH D",
       "category": "MM - DIVISION 4 F",
@@ -1443,6 +1443,16 @@
       "team2": "CRISTAL SGH D",
       "category": "MM - DIVISION 4 F",
       "location": "AVENIR JUPILLE B",
+      "other": ""
+    },
+    {
+      "code": "913006",
+      "date": "2026-08-30",
+      "time": "12:00",
+      "team1": "ROYAL SPA BC B",
+      "team2": "CRISTAL SGH B",
+      "category": "PROVINCIALE DD - POULE M",
+      "location": "ROYAL SPA BC B",
       "other": ""
     },
     {
@@ -1897,7 +1907,7 @@
     },
     {
       "code": "527121",
-      "date": "2026-11-22",
+      "date": "2026-11-29",
       "time": "9:00",
       "team1": "GIANTS BRAIVES A",
       "team2": "CRISTAL SGH B",
@@ -2287,8 +2297,8 @@
     },
     {
       "code": "500102",
-      "date": "2026-11-07",
-      "time": "15:00",
+      "date": "2026-11-01",
+      "time": "9:00",
       "team1": "ROYAL HERVE-BATTICE B",
       "team2": "CRISTAL SGH A",
       "category": "U 12 - MM A",
@@ -2857,8 +2867,8 @@
     },
     {
       "code": "503241",
-      "date": "2027-02-14",
-      "time": "15:30",
+      "date": "2027-02-13",
+      "time": "12:00",
       "team1": "BC SPRIMONT B",
       "team2": "CRISTAL SGH D",
       "category": "U 12 - MM D",
@@ -2943,6 +2953,16 @@
       "team2": "CRISTAL SGH C",
       "category": "U 12 - MM F",
       "location": "BC BELLEFLAMME C",
+      "other": ""
+    },
+    {
+      "code": "505064",
+      "date": "2026-10-10",
+      "time": "15:30",
+      "team1": "CRISTAL SGH C",
+      "team2": "PEPINSTER EAST BELG C",
+      "category": "U 12 - MM F",
+      "location": "CRISTAL SGH C",
       "other": ""
     },
     {
@@ -3073,6 +3093,16 @@
       "team2": "RBC DISON-ANDRIMONT A",
       "category": "U 12 - MM F",
       "location": "CRISTAL SGH C",
+      "other": ""
+    },
+    {
+      "code": "505303",
+      "date": "2027-03-27",
+      "time": "11:00",
+      "team1": "PEPINSTER EAST BELG C",
+      "team2": "CRISTAL SGH C",
+      "category": "U 12 - MM F",
+      "location": "PEPINSTER EAST BELG C",
       "other": ""
     },
     {
@@ -4177,8 +4207,8 @@
     },
     {
       "code": "AW119013",
-      "date": "2026-10-11",
-      "time": "15:00",
+      "date": "2026-10-10",
+      "time": "13:00",
       "team1": "CRISTAL SGH",
       "team2": "LA LOUVIERE AM",
       "category": "U 18 - BRONZE REGIONAUX A",
@@ -4208,7 +4238,7 @@
     {
       "code": "AW119026",
       "date": "2026-11-21",
-      "time": "13:00",
+      "time": "10:00",
       "team1": "SAR CHANTEMELLE",
       "team2": "CRISTAL SGH",
       "category": "U 18 - BRONZE REGIONAUX A",
@@ -4498,7 +4528,7 @@
     {
       "code": "441063",
       "date": "2026-10-11",
-      "time": "13:00",
+      "time": "15:00",
       "team1": "RABC ENSIVAL",
       "team2": "CRISTAL SGH",
       "category": "U 18 - PROV MM B",
@@ -4658,7 +4688,7 @@
     {
       "code": "AW110001",
       "date": "2026-09-06",
-      "time": "15:00",
+      "time": "11:00",
       "team1": "CRISTAL SGH",
       "team2": "R UAA ETTERBEEK",
       "category": "U 21 - SILVER REGIONAUX B",
@@ -4688,7 +4718,7 @@
     {
       "code": "AW110012",
       "date": "2026-10-03",
-      "time": "17:00",
+      "time": "15:00",
       "team1": "B55 ACADEMY XL",
       "team2": "CRISTAL SGH",
       "category": "U 21 - SILVER REGIONAUX B",
@@ -4698,7 +4728,7 @@
     {
       "code": "AW110013",
       "date": "2026-10-11",
-      "time": "15:00",
+      "time": "13:00",
       "team1": "CRISTAL SGH",
       "team2": "ASTE KAIN",
       "category": "U 21 - SILVER REGIONAUX B",
@@ -5178,7 +5208,7 @@
     {
       "code": "541106",
       "date": "2026-11-07",
-      "time": "9:00",
+      "time": "11:00",
       "team1": "RABC ENSIVAL",
       "team2": "CRISTAL SGH B",
       "category": "U 8 - MM B",
@@ -5276,16 +5306,6 @@
       "other": ""
     },
     {
-      "code": "541233",
-      "date": "2027-02-07",
-      "time": "9:00",
-      "team1": "PRAYON TROOZ",
-      "team2": "CRISTAL SGH B",
-      "category": "U 8 - MM B",
-      "location": "PRAYON TROOZ",
-      "other": ""
-    },
-    {
       "code": "541244",
       "date": "2027-02-13",
       "time": "13:30",
@@ -5293,6 +5313,16 @@
       "team2": "HARIMALIA BC",
       "category": "U 8 - MM B",
       "location": "CRISTAL SGH B",
+      "other": ""
+    },
+    {
+      "code": "541233",
+      "date": "2027-02-20",
+      "time": "9:00",
+      "team1": "PRAYON TROOZ",
+      "team2": "CRISTAL SGH B",
+      "category": "U 8 - MM B",
+      "location": "PRAYON TROOZ",
       "other": ""
     },
     {

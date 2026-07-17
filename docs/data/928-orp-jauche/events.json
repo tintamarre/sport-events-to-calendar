@@ -6,6 +6,26 @@
   },
   "events": [
     {
+      "code": "762002",
+      "date": "2026-08-29",
+      "time": "15:00",
+      "team1": "ORP JAUCHE",
+      "team2": "ABC WAREMME B",
+      "category": "CPE PROV CADETS",
+      "location": "ORP JAUCHE",
+      "other": ""
+    },
+    {
+      "code": "763004",
+      "date": "2026-08-29",
+      "time": "13:00",
+      "team1": "ORP JAUCHE",
+      "team2": "ROYAL SPA BC B",
+      "category": "CPE PROV MINIMES MM",
+      "location": "ORP JAUCHE",
+      "other": ""
+    },
+    {
       "code": "416026",
       "date": "2026-09-13",
       "time": "13:00",
@@ -13,16 +33,6 @@
       "team2": "ORP JAUCHE",
       "category": "DD - DIVISION 3 A",
       "location": "R REN. MONTEGNEE",
-      "other": ""
-    },
-    {
-      "code": "416035",
-      "date": "2026-09-19",
-      "time": "21:00",
-      "team1": "ORP JAUCHE",
-      "team2": "VAIL. JUPILLE",
-      "category": "DD - DIVISION 3 A",
-      "location": "ORP JAUCHE",
       "other": ""
     },
     {
@@ -53,6 +63,16 @@
       "team2": "ORP JAUCHE",
       "category": "DD - DIVISION 3 A",
       "location": "BC VERLAINE B",
+      "other": ""
+    },
+    {
+      "code": "416035",
+      "date": "2026-10-24",
+      "time": "21:00",
+      "team1": "ORP JAUCHE",
+      "team2": "VAIL. JUPILLE",
+      "category": "DD - DIVISION 3 A",
+      "location": "ORP JAUCHE",
       "other": ""
     },
     {
@@ -107,8 +127,8 @@
     },
     {
       "code": "416194",
-      "date": "2027-01-09",
-      "time": "21:00",
+      "date": "2027-01-10",
+      "time": "12:00",
       "team1": "VAIL. JUPILLE",
       "team2": "ORP JAUCHE",
       "category": "DD - DIVISION 3 A",
@@ -147,8 +167,8 @@
     },
     {
       "code": "416241",
-      "date": "2027-02-14",
-      "time": "17:00",
+      "date": "2027-02-13",
+      "time": "19:00",
       "team1": "BC SPRIMONT C",
       "team2": "ORP JAUCHE",
       "category": "DD - DIVISION 3 A",
@@ -408,7 +428,7 @@
     {
       "code": "408333",
       "date": "2027-04-18",
-      "time": "15:00",
+      "time": "13:00",
       "team1": "ROYAL ANS BC A",
       "team2": "ORP JAUCHE B",
       "category": "MM - DIVISION 4 B",
@@ -478,7 +498,7 @@
     {
       "code": "409085",
       "date": "2026-10-24",
-      "time": "21:00",
+      "time": "17:00",
       "team1": "ORP JAUCHE A",
       "team2": "RBC ALLEUR D",
       "category": "MM - DIVISION 4 C",
@@ -1036,19 +1056,9 @@
       "other": ""
     },
     {
-      "code": "493055",
-      "date": "2026-10-03",
-      "time": "15:00",
-      "team1": "ORP JAUCHE",
-      "team2": "RBC AWANS A",
-      "category": "U 14 - PROV MM D",
-      "location": "ORP JAUCHE",
-      "other": ""
-    },
-    {
       "code": "493035",
       "date": "2026-10-24",
-      "time": "17:00",
+      "time": "13:00",
       "team1": "ORP JAUCHE",
       "team2": "ROYAL BC WANZE",
       "category": "U 14 - PROV MM D",
@@ -1153,16 +1163,6 @@
       "team2": "R HT-PRE OUGREE",
       "category": "U 14 - PROV MM D",
       "location": "ORP JAUCHE",
-      "other": ""
-    },
-    {
-      "code": "493241",
-      "date": "2027-02-14",
-      "time": "17:00",
-      "team1": "RBC AWANS A",
-      "team2": "ORP JAUCHE",
-      "category": "U 14 - PROV MM D",
-      "location": "RBC AWANS A",
       "other": ""
     },
     {
@@ -1288,7 +1288,7 @@
     {
       "code": "591205",
       "date": "2027-01-16",
-      "time": "17:00",
+      "time": "9:00",
       "team1": "ORP JAUCHE",
       "team2": "RBC BLEGNY",
       "category": "U 16 - DD B",
@@ -1498,7 +1498,7 @@
     {
       "code": "472302",
       "date": "2027-03-28",
-      "time": "13:00",
+      "time": "11:00",
       "team1": "ALL. FLEMALLE B",
       "team2": "ORP JAUCHE",
       "category": "U 16 - PROV MM C",
@@ -1707,8 +1707,8 @@
     },
     {
       "code": "430302",
-      "date": "2027-03-27",
-      "time": "14:00",
+      "date": "2027-03-28",
+      "time": "17:00",
       "team1": "BC BELLEFLAMME B",
       "team2": "ORP JAUCHE",
       "category": "U 18 - ELITES MM A",

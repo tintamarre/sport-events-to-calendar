@@ -276,16 +276,6 @@
       "other": ""
     },
     {
-      "code": "407121",
-      "date": "2026-11-22",
-      "time": "11:00",
-      "team1": "RBC STAVELOT C",
-      "team2": "DF BC MALMEDY",
-      "category": "MM - DIVISION 4 A",
-      "location": "RBC STAVELOT C",
-      "other": ""
-    },
-    {
       "code": "407142",
       "date": "2026-12-04",
       "time": "20:30",
@@ -338,7 +328,7 @@
     {
       "code": "407217",
       "date": "2027-01-23",
-      "time": "18:30",
+      "time": "20:30",
       "team1": "HENRI-CHAPELLE D",
       "team2": "DF BC MALMEDY",
       "category": "MM - DIVISION 4 A",
@@ -406,6 +396,16 @@
       "other": ""
     },
     {
+      "code": "407121",
+      "date": "2027-04-03",
+      "time": "19:00",
+      "team1": "RBC STAVELOT C",
+      "team2": "DF BC MALMEDY",
+      "category": "MM - DIVISION 4 A",
+      "location": "RBC STAVELOT C",
+      "other": ""
+    },
+    {
       "code": "407322",
       "date": "2027-04-09",
       "time": "20:30",
@@ -417,8 +417,8 @@
     },
     {
       "code": "407336",
-      "date": "2027-04-17",
-      "time": "20:00",
+      "date": "2027-04-18",
+      "time": "18:00",
       "team1": "BBC EUPEN B",
       "team2": "DF BC MALMEDY",
       "category": "MM - DIVISION 4 A",
@@ -466,16 +466,6 @@
       "other": ""
     },
     {
-      "code": "526036",
-      "date": "2026-09-19",
-      "time": "14:00",
-      "team1": "BBC EUPEN",
-      "team2": "DF BC MALMEDY",
-      "category": "U 10 - MM G",
-      "location": "BBC EUPEN",
-      "other": ""
-    },
-    {
       "code": "526065",
       "date": "2026-10-11",
       "time": "9:00",
@@ -516,6 +506,16 @@
       "other": ""
     },
     {
+      "code": "526036",
+      "date": "2026-11-29",
+      "time": "10:00",
+      "team1": "BBC EUPEN",
+      "team2": "DF BC MALMEDY",
+      "category": "U 10 - MM G",
+      "location": "BBC EUPEN",
+      "other": ""
+    },
+    {
       "code": "526142",
       "date": "2026-12-05",
       "time": "13:30",
@@ -538,7 +538,7 @@
     {
       "code": "526166",
       "date": "2026-12-19",
-      "time": "9:00",
+      "time": "11:00",
       "team1": "RABC ENSIVAL A",
       "team2": "DF BC MALMEDY",
       "category": "U 10 - MM G",
@@ -696,16 +696,6 @@
       "other": ""
     },
     {
-      "code": "506111",
-      "date": "2026-11-14",
-      "time": "13:00",
-      "team1": "BC SANKT VITH",
-      "team2": "DF BC MALMEDY",
-      "category": "U 12 - MM G",
-      "location": "BC SANKT VITH",
-      "other": ""
-    },
-    {
       "code": "506122",
       "date": "2026-11-21",
       "time": "13:00",
@@ -713,6 +703,16 @@
       "team2": "THEUX BC B",
       "category": "U 12 - MM G",
       "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "506111",
+      "date": "2026-11-28",
+      "time": "13:00",
+      "team1": "BC SANKT VITH",
+      "team2": "DF BC MALMEDY",
+      "category": "U 12 - MM G",
+      "location": "BC SANKT VITH",
       "other": ""
     },
     {
@@ -797,8 +797,8 @@
     },
     {
       "code": "506286",
-      "date": "2027-03-13",
-      "time": "12:00",
+      "date": "2027-03-14",
+      "time": "9:00",
       "team1": "BBC EUPEN",
       "team2": "DF BC MALMEDY",
       "category": "U 12 - MM G",
@@ -833,16 +833,6 @@
       "team2": "DF BC MALMEDY",
       "category": "U 12 - MM G",
       "location": "THEUX BC B",
-      "other": ""
-    },
-    {
-      "code": "492011",
-      "date": "2026-09-06",
-      "time": "9:00",
-      "team1": "RBC STAVELOT",
-      "team2": "DF BC MALMEDY",
-      "category": "U 14 - PROV MM C",
-      "location": "RBC STAVELOT",
       "other": ""
     },
     {
@@ -978,7 +968,7 @@
     {
       "code": "492286",
       "date": "2027-03-14",
-      "time": "10:00",
+      "time": "13:00",
       "team1": "BBC EUPEN",
       "team2": "DF BC MALMEDY",
       "category": "U 14 - PROV MM C",
@@ -993,6 +983,16 @@
       "team2": "DF BC MALMEDY",
       "category": "U 14 - PROV MM C",
       "location": "PRAYON TROOZ",
+      "other": ""
+    },
+    {
+      "code": "492011",
+      "date": "2027-04-03",
+      "time": "11:00",
+      "team1": "RBC STAVELOT",
+      "team2": "DF BC MALMEDY",
+      "category": "U 14 - PROV MM C",
+      "location": "RBC STAVELOT",
       "other": ""
     },
     {
@@ -1033,6 +1033,16 @@
       "team2": "DF BC MALMEDY",
       "category": "U 16 - DD A",
       "location": "PRAYON TROOZ",
+      "other": ""
+    },
+    {
+      "code": "590166",
+      "date": "2026-10-18",
+      "time": "9:00",
+      "team1": "RBC DISON-ANDRIMONT",
+      "team2": "DF BC MALMEDY",
+      "category": "U 16 - DD A",
+      "location": "RBC DISON-ANDRIMONT",
       "other": ""
     },
     {
@@ -1146,16 +1156,6 @@
       "other": ""
     },
     {
-      "code": "590166",
-      "date": "2027-04-24",
-      "time": "11:00",
-      "team1": "RBC DISON-ANDRIMONT",
-      "team2": "DF BC MALMEDY",
-      "category": "U 16 - DD A",
-      "location": "RBC DISON-ANDRIMONT",
-      "other": ""
-    },
-    {
       "code": "470022",
       "date": "2026-09-12",
       "time": "17:00",
@@ -1183,6 +1183,16 @@
       "team2": "PRAYON TROOZ",
       "category": "U 16 - PROV MM A",
       "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "470323",
+      "date": "2026-10-17",
+      "time": "13:00",
+      "team1": "RBC WELKENRAEDT",
+      "team2": "DF BC MALMEDY",
+      "category": "U 16 - PROV MM A",
+      "location": "RBC WELKENRAEDT",
       "other": ""
     },
     {
@@ -1228,7 +1238,7 @@
     {
       "code": "470152",
       "date": "2026-12-12",
-      "time": "14:00",
+      "time": "9:00",
       "team1": "BBC EUPEN",
       "team2": "DF BC MALMEDY",
       "category": "U 16 - PROV MM A",
@@ -1313,16 +1323,6 @@
       "team2": "DF BC MALMEDY",
       "category": "U 16 - PROV MM A",
       "location": "PRAYON TROOZ",
-      "other": ""
-    },
-    {
-      "code": "470323",
-      "date": "2027-04-10",
-      "time": "11:00",
-      "team1": "RBC WELKENRAEDT",
-      "team2": "DF BC MALMEDY",
-      "category": "U 16 - PROV MM A",
-      "location": "RBC WELKENRAEDT",
       "other": ""
     },
     {
