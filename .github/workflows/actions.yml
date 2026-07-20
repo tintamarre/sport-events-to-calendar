@@ -13,6 +13,11 @@ permissions:
   pages: write
   id-token: write
 
+# Prevent concurrent runs from racing on the auto-commit push to main
+concurrency:
+  group: refresh-calendars
+  cancel-in-progress: false
+
 jobs:
   run:
     runs-on: ubuntu-latest
@@ -67,6 +72,8 @@ jobs:
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add .
           git commit -m "Refresh calendars with GitHub Actions" || echo "No changes to commit"
+          # Integrate any commits pushed while this run was building, then push
+          git pull --rebase origin main
           git push origin main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -21,16 +21,11 @@
         <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
           <div>
             <label class="form-label">Club</label>
-            <select
-              :value="selectedClub"
-              @change="$emit('update:selectedClub', ($event.target as HTMLSelectElement).value)"
-              class="form-select"
-            >
-              <option value="">Sélectionner un club</option>
-              <option v-for="club in clubs" :key="club.slug" :value="club.slug">
-                {{ club.name }}
-              </option>
-            </select>
+            <ClubCombobox
+              :clubs="clubs"
+              :modelValue="selectedClub"
+              @update:modelValue="$emit('update:selectedClub', $event)"
+            />
           </div>
 
           <div>
@@ -110,6 +105,7 @@
 
 <script setup lang="ts">
 import { computed, ref, watch } from 'vue'
+import ClubCombobox from './ClubCombobox.vue'
 import type { Club } from '../types'
 
 const props = defineProps<{
