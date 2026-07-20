@@ -24,7 +24,7 @@ Un site web interactif permet également de consulter et filtrer les matchs en l
 ## Utilisation
 
 ### Consulter les calendriers en ligne
-Visitez l'application web: https://geantvert.github.io/sport-events-to-calendar/ *(à configurer dans les paramètres GitHub)*
+Visitez l'application web: https://www.tintamarre.be/sport-events-to-calendar/
 
 ### Télécharger les fichiers
 Les fichiers CSV et ICS sont disponibles dans le dossier `/data/` de ce dépôt.
