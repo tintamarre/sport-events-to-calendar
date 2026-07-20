@@ -157,8 +157,8 @@
     },
     {
       "code": "416244",
-      "date": "2027-02-13",
-      "time": "21:00",
+      "date": "2027-02-14",
+      "time": "11:00",
       "team1": "VAIL. JUPILLE",
       "team2": "RBC VISE B",
       "category": "DD - DIVISION 3 A",
@@ -177,8 +177,8 @@
     },
     {
       "code": "416284",
-      "date": "2027-03-13",
-      "time": "21:00",
+      "date": "2027-03-14",
+      "time": "11:00",
       "team1": "VAIL. JUPILLE",
       "team2": "ALL. FLEMALLE C",
       "category": "DD - DIVISION 3 A",
@@ -228,7 +228,7 @@
     {
       "code": "402014",
       "date": "2026-09-06",
-      "time": "11:00",
+      "time": "10:00",
       "team1": "VAIL. JUPILLE A",
       "team2": "ROYAL SPA BC C",
       "category": "MM - DIVISION 2 A",
@@ -238,7 +238,7 @@
     {
       "code": "402024",
       "date": "2026-09-13",
-      "time": "11:00",
+      "time": "10:00",
       "team1": "VAIL. JUPILLE A",
       "team2": "BC BELLEFLAMME C",
       "category": "MM - DIVISION 2 A",
@@ -307,8 +307,8 @@
     },
     {
       "code": "402114",
-      "date": "2026-11-15",
-      "time": "11:00",
+      "date": "2026-11-14",
+      "time": "21:00",
       "team1": "VAIL. JUPILLE A",
       "team2": "ATLAS A JUPILLE B",
       "category": "MM - DIVISION 2 A",
@@ -328,7 +328,7 @@
     {
       "code": "402144",
       "date": "2026-12-06",
-      "time": "11:00",
+      "time": "10:00",
       "team1": "VAIL. JUPILLE A",
       "team2": "RBC VISE A",
       "category": "MM - DIVISION 2 A",
@@ -338,7 +338,7 @@
     {
       "code": "402154",
       "date": "2026-12-13",
-      "time": "11:00",
+      "time": "10:00",
       "team1": "VAIL. JUPILLE A",
       "team2": "RABC ENSIVAL A",
       "category": "MM - DIVISION 2 A",
@@ -358,7 +358,7 @@
     {
       "code": "402194",
       "date": "2027-01-10",
-      "time": "11:00",
+      "time": "10:00",
       "team1": "VAIL. JUPILLE A",
       "team2": "ROYAL MOSA AC 1941 A",
       "category": "MM - DIVISION 2 A",
@@ -407,8 +407,8 @@
     },
     {
       "code": "402244",
-      "date": "2027-02-14",
-      "time": "11:00",
+      "date": "2027-02-13",
+      "time": "21:00",
       "team1": "VAIL. JUPILLE A",
       "team2": "PEPINSTER EAST BELG C",
       "category": "MM - DIVISION 2 A",
@@ -427,8 +427,8 @@
     },
     {
       "code": "402284",
-      "date": "2027-03-14",
-      "time": "11:00",
+      "date": "2027-03-13",
+      "time": "21:00",
       "team1": "VAIL. JUPILLE A",
       "team2": "BC VERVIERS B",
       "category": "MM - DIVISION 2 A",
@@ -458,7 +458,7 @@
     {
       "code": "402324",
       "date": "2027-04-11",
-      "time": "11:00",
+      "time": "10:00",
       "team1": "VAIL. JUPILLE A",
       "team2": "RBC ALLEUR C",
       "category": "MM - DIVISION 2 A",
@@ -468,7 +468,7 @@
     {
       "code": "402334",
       "date": "2027-04-17",
-      "time": "19:00",
+      "time": "17:00",
       "team1": "RABC ENSIVAL A",
       "team2": "VAIL. JUPILLE A",
       "category": "MM - DIVISION 2 A",
@@ -478,7 +478,7 @@
     {
       "code": "402344",
       "date": "2027-04-25",
-      "time": "11:00",
+      "time": "10:00",
       "team1": "VAIL. JUPILLE A",
       "team2": "FLERON BBC A",
       "category": "MM - DIVISION 2 A",
@@ -503,16 +503,6 @@
       "team2": "ATLAS A JUPILLE C",
       "category": "MM - DIVISION 3 A",
       "location": "VAIL. JUPILLE B",
-      "other": ""
-    },
-    {
-      "code": "404035",
-      "date": "2026-09-19",
-      "time": "20:30",
-      "team1": "BCM HERSTAL A",
-      "team2": "VAIL. JUPILLE B",
-      "category": "MM - DIVISION 3 A",
-      "location": "BCM HERSTAL A",
       "other": ""
     },
     {
@@ -548,11 +538,21 @@
     {
       "code": "404087",
       "date": "2026-10-24",
-      "time": "21:00",
+      "time": "19:00",
       "team1": "R 4A AYWAILLE-HAMOIR B",
       "team2": "VAIL. JUPILLE B",
       "category": "MM - DIVISION 3 A",
       "location": "R 4A AYWAILLE-HAMOIR B",
+      "other": ""
+    },
+    {
+      "code": "404035",
+      "date": "2026-10-31",
+      "time": "20:30",
+      "team1": "BCM HERSTAL A",
+      "team2": "VAIL. JUPILLE B",
+      "category": "MM - DIVISION 3 A",
+      "location": "BCM HERSTAL A",
       "other": ""
     },
     {
@@ -577,8 +577,8 @@
     },
     {
       "code": "404123",
-      "date": "2026-11-22",
-      "time": "15:00",
+      "date": "2026-11-21",
+      "time": "21:00",
       "team1": "THEUX BC B",
       "team2": "VAIL. JUPILLE B",
       "category": "MM - DIVISION 3 A",
@@ -697,8 +697,8 @@
     },
     {
       "code": "404294",
-      "date": "2027-03-20",
-      "time": "19:00",
+      "date": "2027-03-21",
+      "time": "12:00",
       "team1": "VAIL. JUPILLE B",
       "team2": "ESL UNITED F",
       "category": "MM - DIVISION 3 A",
@@ -707,7 +707,7 @@
     },
     {
       "code": "404303",
-      "date": "2027-03-27",
+      "date": "2027-04-03",
       "time": "19:00",
       "team1": "RABC ENSIVAL B",
       "team2": "VAIL. JUPILLE B",
@@ -737,8 +737,8 @@
     },
     {
       "code": "404344",
-      "date": "2027-04-24",
-      "time": "19:00",
+      "date": "2027-04-25",
+      "time": "12:00",
       "team1": "VAIL. JUPILLE B",
       "team2": "R 4A AYWAILLE-HAMOIR B",
       "category": "MM - DIVISION 3 A",
@@ -748,7 +748,7 @@
     {
       "code": "411014",
       "date": "2026-09-06",
-      "time": "13:00",
+      "time": "12:00",
       "team1": "VAIL. JUPILLE C",
       "team2": "RBC HANEFFE B",
       "category": "MM - DIVISION 4 E",
@@ -758,7 +758,7 @@
     {
       "code": "411024",
       "date": "2026-09-13",
-      "time": "13:00",
+      "time": "12:00",
       "team1": "VAIL. JUPILLE C",
       "team2": "R.UN.BELLAIRE C",
       "category": "MM - DIVISION 4 E",
@@ -788,7 +788,7 @@
     {
       "code": "411064",
       "date": "2026-10-11",
-      "time": "13:00",
+      "time": "12:00",
       "team1": "VAIL. JUPILLE C",
       "team2": "THUNDER CONDROZ",
       "category": "MM - DIVISION 4 E",
@@ -808,7 +808,7 @@
     {
       "code": "411106",
       "date": "2026-11-07",
-      "time": "21:00",
+      "time": "19:00",
       "team1": "ROYAL HERVE-BATTICE C",
       "team2": "VAIL. JUPILLE C",
       "category": "MM - DIVISION 4 E",
@@ -817,8 +817,8 @@
     },
     {
       "code": "411123",
-      "date": "2026-11-22",
-      "time": "17:00",
+      "date": "2026-11-21",
+      "time": "21:00",
       "team1": "THEUX BC D",
       "team2": "VAIL. JUPILLE C",
       "category": "MM - DIVISION 4 E",
@@ -828,7 +828,7 @@
     {
       "code": "411144",
       "date": "2026-12-06",
-      "time": "13:00",
+      "time": "12:00",
       "team1": "VAIL. JUPILLE C",
       "team2": "BC BELLEFLAMME F",
       "category": "MM - DIVISION 4 E",
@@ -838,7 +838,7 @@
     {
       "code": "411154",
       "date": "2026-12-13",
-      "time": "13:00",
+      "time": "12:00",
       "team1": "VAIL. JUPILLE C",
       "team2": "PRAYON TROOZ C",
       "category": "MM - DIVISION 4 E",
@@ -857,8 +857,8 @@
     },
     {
       "code": "411194",
-      "date": "2027-01-10",
-      "time": "13:00",
+      "date": "2027-01-09",
+      "time": "21:00",
       "team1": "VAIL. JUPILLE C",
       "team2": "RB TILFF D",
       "category": "MM - DIVISION 4 E",
@@ -927,8 +927,8 @@
     },
     {
       "code": "411294",
-      "date": "2027-03-21",
-      "time": "13:00",
+      "date": "2027-03-20",
+      "time": "19:00",
       "team1": "VAIL. JUPILLE C",
       "team2": "ROYAL HERVE-BATTICE C",
       "category": "MM - DIVISION 4 E",
@@ -948,7 +948,7 @@
     {
       "code": "411324",
       "date": "2027-04-11",
-      "time": "13:00",
+      "time": "12:00",
       "team1": "VAIL. JUPILLE C",
       "team2": "R 4A AYWAILLE-HAMOIR C",
       "category": "MM - DIVISION 4 E",
@@ -963,6 +963,16 @@
       "team2": "VAIL. JUPILLE C",
       "category": "MM - DIVISION 4 E",
       "location": "PRAYON TROOZ C",
+      "other": ""
+    },
+    {
+      "code": "910003",
+      "date": "2026-08-22",
+      "time": "18:00",
+      "team1": "BC SPRIMONT B",
+      "team2": "VAIL. JUPILLE (+ 5)",
+      "category": "PROVINCIALE DD - POULE J",
+      "location": "BC SPRIMONT B",
       "other": ""
     },
     {
@@ -1013,6 +1023,16 @@
       "team2": "ESL UNITED C",
       "category": "PROVINCIALE MM - POULE M",
       "location": "VAIL. JUPILLE B (+ 10)",
+      "other": ""
+    },
+    {
+      "code": "813006",
+      "date": "2026-08-30",
+      "time": "11:00",
+      "team1": "BC SPRIMONT E (+ 5)",
+      "team2": "VAIL. JUPILLE B",
+      "category": "PROVINCIALE MM - POULE M",
+      "location": "BC SPRIMONT E (+ 5)",
       "other": ""
     },
     {
@@ -1148,7 +1168,7 @@
     {
       "code": "524215",
       "date": "2027-01-23",
-      "time": "9:00",
+      "time": "11:00",
       "team1": "RBC DISON-ANDRIMONT B",
       "team2": "VAIL. JUPILLE",
       "category": "U 10 - MM E",
@@ -1228,7 +1248,7 @@
     {
       "code": "501014",
       "date": "2026-09-06",
-      "time": "15:00",
+      "time": "14:00",
       "team1": "VAIL. JUPILLE",
       "team2": "CRISTAL SGH B",
       "category": "U 12 - MM B",
@@ -1238,7 +1258,7 @@
     {
       "code": "501024",
       "date": "2026-09-13",
-      "time": "15:00",
+      "time": "14:00",
       "team1": "VAIL. JUPILLE",
       "team2": "ROYAL MOSA AC 1941 A",
       "category": "U 12 - MM B",
@@ -1257,8 +1277,8 @@
     },
     {
       "code": "501064",
-      "date": "2026-10-11",
-      "time": "15:00",
+      "date": "2026-10-10",
+      "time": "11:00",
       "team1": "VAIL. JUPILLE",
       "team2": "UN HUY BASKET A",
       "category": "U 12 - MM B",
@@ -1328,7 +1348,7 @@
     {
       "code": "501144",
       "date": "2026-12-06",
-      "time": "15:00",
+      "time": "14:00",
       "team1": "VAIL. JUPILLE",
       "team2": "ROYAL BC NINANE",
       "category": "U 12 - MM B",
@@ -1338,7 +1358,7 @@
     {
       "code": "501154",
       "date": "2026-12-13",
-      "time": "15:00",
+      "time": "14:00",
       "team1": "VAIL. JUPILLE",
       "team2": "ETOILE JUPILLE B",
       "category": "U 12 - MM B",
@@ -1358,7 +1378,7 @@
     {
       "code": "501194",
       "date": "2027-01-10",
-      "time": "15:00",
+      "time": "14:00",
       "team1": "VAIL. JUPILLE",
       "team2": "BCM HERSTAL",
       "category": "U 12 - MM B",
@@ -1368,7 +1388,7 @@
     {
       "code": "501206",
       "date": "2027-01-16",
-      "time": "15:00",
+      "time": "11:00",
       "team1": "CRISTAL SGH B",
       "team2": "VAIL. JUPILLE",
       "category": "U 12 - MM B",
@@ -1438,7 +1458,7 @@
     {
       "code": "501294",
       "date": "2027-03-21",
-      "time": "15:00",
+      "time": "14:00",
       "team1": "VAIL. JUPILLE",
       "team2": "COLLEGE S LOUIS B",
       "category": "U 12 - MM B",
@@ -1458,7 +1478,7 @@
     {
       "code": "501324",
       "date": "2027-04-11",
-      "time": "15:00",
+      "time": "14:00",
       "team1": "VAIL. JUPILLE",
       "team2": "HENRI-CHAPELLE A",
       "category": "U 12 - MM B",
@@ -1478,7 +1498,7 @@
     {
       "code": "501344",
       "date": "2027-04-25",
-      "time": "15:00",
+      "time": "14:00",
       "team1": "VAIL. JUPILLE",
       "team2": "ALL. FLEMALLE D",
       "category": "U 12 - MM B",
@@ -1538,7 +1558,7 @@
     {
       "code": "490106",
       "date": "2026-11-07",
-      "time": "13:00",
+      "time": "15:00",
       "team1": "ALL. FLEMALLE B",
       "team2": "VAIL. JUPILLE",
       "category": "U 14 - PROV MM A",
@@ -1557,8 +1577,8 @@
     },
     {
       "code": "490126",
-      "date": "2026-11-21",
-      "time": "15:00",
+      "date": "2026-11-22",
+      "time": "9:00",
       "team1": "RABC ENSIVAL B",
       "team2": "VAIL. JUPILLE",
       "category": "U 14 - PROV MM A",
@@ -1878,7 +1898,7 @@
     {
       "code": "430106",
       "date": "2026-11-07",
-      "time": "15:00",
+      "time": "13:00",
       "team1": "ALL. FLEMALLE",
       "team2": "VAIL. JUPILLE",
       "category": "U 18 - ELITES MM A",
@@ -1898,7 +1918,7 @@
     {
       "code": "430126",
       "date": "2026-11-22",
-      "time": "11:00",
+      "time": "13:00",
       "team1": "RBC ALLEUR",
       "team2": "VAIL. JUPILLE",
       "category": "U 18 - ELITES MM A",
@@ -1948,7 +1968,7 @@
     {
       "code": "430204",
       "date": "2027-01-16",
-      "time": "15:00",
+      "time": "13:00",
       "team1": "CRISTAL SGH",
       "team2": "VAIL. JUPILLE",
       "category": "U 18 - ELITES MM A",
@@ -2107,8 +2127,8 @@
     },
     {
       "code": "550126",
-      "date": "2026-11-22",
-      "time": "9:00",
+      "date": "2026-11-21",
+      "time": "10:15",
       "team1": "HENRI-CHAPELLE A",
       "team2": "VAIL. JUPILLE",
       "category": "U 7 - MM A",

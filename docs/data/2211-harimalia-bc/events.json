@@ -157,8 +157,8 @@
     },
     {
       "code": "403201",
-      "date": "2027-01-16",
-      "time": "19:00",
+      "date": "2027-01-17",
+      "time": "16:00",
       "team1": "ROYAL SPA BC B",
       "team2": "HARIMALIA BC A",
       "category": "MM - DIVISION 2 B",
@@ -188,7 +188,7 @@
     {
       "code": "403244",
       "date": "2027-02-13",
-      "time": "18:30",
+      "time": "17:00",
       "team1": "RBC ALLEUR B",
       "team2": "HARIMALIA BC A",
       "category": "MM - DIVISION 2 B",
@@ -1086,16 +1086,6 @@
       "other": "(ho Hamoir rue du mouli"
     },
     {
-      "code": "523105",
-      "date": "2026-11-08",
-      "time": "13:00",
-      "team1": "RB TILFF C",
-      "team2": "HARIMALIA BC",
-      "category": "U 10 - MM D",
-      "location": "RB TILFF C",
-      "other": ""
-    },
-    {
       "code": "523112",
       "date": "2026-11-14",
       "time": "13:00",
@@ -1113,6 +1103,16 @@
       "team2": "HARIMALIA BC",
       "category": "U 10 - MM D",
       "location": "RBC VISE C",
+      "other": ""
+    },
+    {
+      "code": "523105",
+      "date": "2026-11-29",
+      "time": "11:00",
+      "team1": "RB TILFF C",
+      "team2": "HARIMALIA BC",
+      "category": "U 10 - MM D",
+      "location": "RB TILFF C",
       "other": ""
     },
     {
@@ -1278,7 +1278,7 @@
     {
       "code": "503105",
       "date": "2026-11-07",
-      "time": "11:30",
+      "time": "9:30",
       "team1": "CRISTAL SGH D",
       "team2": "HARIMALIA BC A",
       "category": "U 12 - MM D",
@@ -1657,8 +1657,8 @@
     },
     {
       "code": "490065",
-      "date": "2026-10-10",
-      "time": "17:00",
+      "date": "2026-10-11",
+      "time": "15:00",
       "team1": "CRISTAL SGH B",
       "team2": "HARIMALIA BC",
       "category": "U 14 - PROV MM A",
@@ -1838,7 +1838,7 @@
     {
       "code": "451065",
       "date": "2026-10-10",
-      "time": "15:00",
+      "time": "17:00",
       "team1": "CRISTAL SGH A",
       "team2": "HARIMALIA BC",
       "category": "U 16 - ELITES MM B",
@@ -2137,8 +2137,8 @@
     },
     {
       "code": "431244",
-      "date": "2027-02-13",
-      "time": "15:30",
+      "date": "2027-02-20",
+      "time": "15:00",
       "team1": "BC VERVIERS A",
       "team2": "HARIMALIA BC",
       "category": "U 18 - ELITES MM B",
@@ -2348,7 +2348,7 @@
     {
       "code": "440332",
       "date": "2027-04-17",
-      "time": "17:00",
+      "time": "13:00",
       "team1": "LA VILLERSOISE",
       "team2": "HARIMALIA BC",
       "category": "U 18 - PROV MM A",
@@ -2698,7 +2698,7 @@
     {
       "code": "541244",
       "date": "2027-02-13",
-      "time": "13:30",
+      "time": "11:30",
       "team1": "CRISTAL SGH B",
       "team2": "HARIMALIA BC",
       "category": "U 8 - MM B",

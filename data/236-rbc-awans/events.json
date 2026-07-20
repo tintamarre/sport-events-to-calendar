@@ -447,8 +447,8 @@
     },
     {
       "code": "403033",
-      "date": "2026-09-18",
-      "time": "20:15",
+      "date": "2026-09-20",
+      "time": "15:00",
       "team1": "R.UN.BELLAIRE A",
       "team2": "RBC AWANS A",
       "category": "MM - DIVISION 2 B",
@@ -656,6 +656,16 @@
       "other": ""
     },
     {
+      "code": "403347",
+      "date": "2027-04-03",
+      "time": "18:30",
+      "team1": "BC SPRIMONT C",
+      "team2": "RBC AWANS A",
+      "category": "MM - DIVISION 2 B",
+      "location": "BC SPRIMONT C",
+      "other": ""
+    },
+    {
       "code": "403325",
       "date": "2027-04-03",
       "time": "21:00",
@@ -673,16 +683,6 @@
       "team2": "R 4A AYWAILLE-HAMOIR A",
       "category": "MM - DIVISION 2 B",
       "location": "RBC AWANS A",
-      "other": ""
-    },
-    {
-      "code": "403347",
-      "date": "2027-04-24",
-      "time": "17:00",
-      "team1": "BC SPRIMONT C",
-      "team2": "RBC AWANS A",
-      "category": "MM - DIVISION 2 B",
-      "location": "BC SPRIMONT C",
       "other": ""
     },
     {
@@ -2166,6 +2166,16 @@
       "other": ""
     },
     {
+      "code": "591151",
+      "date": "2026-10-24",
+      "time": "13:00",
+      "team1": "RBC AWANS",
+      "team2": "ALL. FLEMALLE B",
+      "category": "U 16 - DD B",
+      "location": "RBC AWANS",
+      "other": ""
+    },
+    {
       "code": "591103",
       "date": "2026-11-07",
       "time": "15:00",
@@ -2183,16 +2193,6 @@
       "team2": "RBC AWANS",
       "category": "U 16 - DD B",
       "location": "ORP JAUCHE",
-      "other": ""
-    },
-    {
-      "code": "591151",
-      "date": "2026-12-12",
-      "time": "13:00",
-      "team1": "RBC AWANS",
-      "team2": "ALL. FLEMALLE B",
-      "category": "U 16 - DD B",
-      "location": "RBC AWANS",
       "other": ""
     },
     {
@@ -2337,8 +2337,8 @@
     },
     {
       "code": "451146",
-      "date": "2026-12-06",
-      "time": "11:00",
+      "date": "2026-12-05",
+      "time": "16:30",
       "team1": "RBC ALLEUR",
       "team2": "RBC AWANS A",
       "category": "U 16 - ELITES MM B",
@@ -2498,7 +2498,7 @@
     {
       "code": "472103",
       "date": "2026-11-07",
-      "time": "15:00",
+      "time": "10:30",
       "team1": "LA VILLERSOISE",
       "team2": "RBC AWANS",
       "category": "U 16 - PROV MM C",
@@ -2708,11 +2708,11 @@
     {
       "code": "431156",
       "date": "2026-12-12",
-      "time": "15:00",
-      "team1": "PRAYON TROOZ",
-      "team2": "RBC AWANS",
+      "time": "13:00",
+      "team1": "RBC AWANS",
+      "team2": "PRAYON TROOZ",
       "category": "U 18 - ELITES MM B",
-      "location": "PRAYON TROOZ",
+      "location": "RBC AWANS",
       "other": ""
     },
     {
@@ -2748,11 +2748,11 @@
     {
       "code": "431211",
       "date": "2027-01-23",
-      "time": "13:00",
-      "team1": "RBC AWANS",
-      "team2": "PRAYON TROOZ",
+      "time": "15:00",
+      "team1": "PRAYON TROOZ",
+      "team2": "RBC AWANS",
       "category": "U 18 - ELITES MM B",
-      "location": "RBC AWANS",
+      "location": "PRAYON TROOZ",
       "other": ""
     },
     {
@@ -2817,7 +2817,7 @@
     },
     {
       "code": "431325",
-      "date": "2027-04-11",
+      "date": "2027-04-10",
       "time": "11:30",
       "team1": "ROYAL MOSA AC 1941",
       "team2": "RBC AWANS",
@@ -3018,7 +3018,7 @@
     {
       "code": "441301",
       "date": "2027-03-27",
-      "time": "16:00",
+      "time": "12:00",
       "team1": "R.UN.BELLAIRE",
       "team2": "RBC AWANS",
       "category": "U 18 - PROV MM B",
@@ -3927,8 +3927,8 @@
     },
     {
       "code": "420348",
-      "date": "2027-04-25",
-      "time": "12:00",
+      "date": "2027-04-24",
+      "time": "16:00",
       "team1": "BBC EUPEN",
       "team2": "RBC AWANS",
       "category": "U 21 - MM",

@@ -716,19 +716,9 @@
       "other": ""
     },
     {
-      "code": "527011",
-      "date": "2026-09-06",
-      "time": "9:00",
-      "team1": "GIANTS BRAIVES A",
-      "team2": "BC CRISNEE",
-      "category": "U 10 - MM H",
-      "location": "GIANTS BRAIVES A",
-      "other": ""
-    },
-    {
       "code": "527033",
-      "date": "2026-09-19",
-      "time": "9:00",
+      "date": "2026-09-20",
+      "time": "17:00",
       "team1": "RBC ALLEUR B",
       "team2": "GIANTS BRAIVES A",
       "category": "U 10 - MM H",
@@ -751,6 +741,16 @@
       "time": "9:00",
       "team1": "GIANTS BRAIVES A",
       "team2": "ALL. FLEMALLE C",
+      "category": "U 10 - MM H",
+      "location": "GIANTS BRAIVES A",
+      "other": ""
+    },
+    {
+      "code": "527011",
+      "date": "2026-10-24",
+      "time": "9:00",
+      "team1": "GIANTS BRAIVES A",
+      "team2": "BC CRISNEE",
       "category": "U 10 - MM H",
       "location": "GIANTS BRAIVES A",
       "other": ""
@@ -786,6 +786,16 @@
       "other": ""
     },
     {
+      "code": "527191",
+      "date": "2026-11-29",
+      "time": "11:00",
+      "team1": "GIANTS BRAIVES A",
+      "team2": "RBC ALLEUR B",
+      "category": "U 10 - MM H",
+      "location": "GIANTS BRAIVES A",
+      "other": ""
+    },
+    {
       "code": "527146",
       "date": "2026-12-05",
       "time": "10:30",
@@ -811,16 +821,6 @@
       "time": "9:00",
       "team1": "GIANTS BRAIVES A",
       "team2": "BC VERLAINE B",
-      "category": "U 10 - MM H",
-      "location": "GIANTS BRAIVES A",
-      "other": ""
-    },
-    {
-      "code": "527191",
-      "date": "2027-01-10",
-      "time": "9:00",
-      "team1": "GIANTS BRAIVES A",
-      "team2": "RBC ALLEUR B",
       "category": "U 10 - MM H",
       "location": "GIANTS BRAIVES A",
       "other": ""
@@ -927,12 +927,12 @@
     },
     {
       "code": "528033",
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "time": "9:00",
-      "team1": "UN HUY BASKET A",
-      "team2": "GIANTS BRAIVES B",
+      "team1": "GIANTS BRAIVES B",
+      "team2": "UN HUY BASKET A",
       "category": "U 10 - MM I",
-      "location": "UN HUY BASKET A",
+      "location": "GIANTS BRAIVES B",
       "other": ""
     },
     {
@@ -988,7 +988,7 @@
     {
       "code": "528156",
       "date": "2026-12-12",
-      "time": "9:30",
+      "time": "11:30",
       "team1": "CRISTAL SGH C",
       "team2": "GIANTS BRAIVES B",
       "category": "U 10 - MM I",
@@ -1007,12 +1007,12 @@
     },
     {
       "code": "528191",
-      "date": "2027-01-10",
-      "time": "13:00",
-      "team1": "GIANTS BRAIVES B",
-      "team2": "UN HUY BASKET A",
+      "date": "2027-01-09",
+      "time": "9:00",
+      "team1": "UN HUY BASKET A",
+      "team2": "GIANTS BRAIVES B",
       "category": "U 10 - MM I",
-      "location": "GIANTS BRAIVES B",
+      "location": "UN HUY BASKET A",
       "other": ""
     },
     {
@@ -1097,8 +1097,8 @@
     },
     {
       "code": "500011",
-      "date": "2026-09-06",
-      "time": "11:00",
+      "date": "2026-09-05",
+      "time": "15:00",
       "team1": "GIANTS BRAIVES A",
       "team2": "ROYAL HERVE-BATTICE B",
       "category": "U 12 - MM A",
@@ -1117,8 +1117,8 @@
     },
     {
       "code": "500055",
-      "date": "2026-10-04",
-      "time": "9:00",
+      "date": "2026-10-03",
+      "time": "11:00",
       "team1": "RBC VISE A",
       "team2": "GIANTS BRAIVES A",
       "category": "U 12 - MM A",
@@ -1173,6 +1173,16 @@
       "team2": "GIANTS BRAIVES A",
       "category": "U 12 - MM A",
       "location": "BC BELLEFLAMME",
+      "other": ""
+    },
+    {
+      "code": "500251",
+      "date": "2026-11-15",
+      "time": "9:00",
+      "team1": "GIANTS BRAIVES A",
+      "team2": "BC BELLEFLAMME",
+      "category": "U 12 - MM A",
+      "location": "GIANTS BRAIVES A",
       "other": ""
     },
     {
@@ -1256,19 +1266,9 @@
       "other": ""
     },
     {
-      "code": "500251",
-      "date": "2027-02-21",
-      "time": "11:00",
-      "team1": "GIANTS BRAIVES A",
-      "team2": "BC BELLEFLAMME",
-      "category": "U 12 - MM A",
-      "location": "GIANTS BRAIVES A",
-      "other": ""
-    },
-    {
       "code": "500271",
       "date": "2027-03-07",
-      "time": "11:00",
+      "time": "9:00",
       "team1": "GIANTS BRAIVES A",
       "team2": "RBC ESNEUX A",
       "category": "U 12 - MM A",
@@ -1348,11 +1348,11 @@
     {
       "code": "503035",
       "date": "2026-09-19",
-      "time": "11:30",
-      "team1": "CRISTAL SGH D",
-      "team2": "GIANTS BRAIVES B",
+      "time": "13:00",
+      "team1": "GIANTS BRAIVES B",
+      "team2": "CRISTAL SGH D",
       "category": "U 12 - MM D",
-      "location": "CRISTAL SGH D",
+      "location": "GIANTS BRAIVES B",
       "other": ""
     },
     {
@@ -1439,10 +1439,10 @@
       "code": "503194",
       "date": "2027-01-09",
       "time": "15:00",
-      "team1": "GIANTS BRAIVES B",
-      "team2": "CRISTAL SGH D",
+      "team1": "CRISTAL SGH D",
+      "team2": "GIANTS BRAIVES B",
       "category": "U 12 - MM D",
-      "location": "GIANTS BRAIVES B",
+      "location": "CRISTAL SGH D",
       "other": ""
     },
     {
@@ -1558,7 +1558,7 @@
     {
       "code": "507032",
       "date": "2026-09-19",
-      "time": "14:45",
+      "time": "9:00",
       "team1": "RBC ALLEUR D",
       "team2": "GIANTS BRAIVES C",
       "category": "U 12 - MM H",
@@ -1586,6 +1586,16 @@
       "other": ""
     },
     {
+      "code": "507294",
+      "date": "2026-10-17",
+      "time": "13:00",
+      "team1": "BC VERLAINE B",
+      "team2": "GIANTS BRAIVES C",
+      "category": "U 12 - MM H",
+      "location": "BC VERLAINE B",
+      "other": ""
+    },
+    {
       "code": "507106",
       "date": "2026-11-07",
       "time": "13:00",
@@ -1606,6 +1616,16 @@
       "other": ""
     },
     {
+      "code": "507196",
+      "date": "2026-11-29",
+      "time": "9:00",
+      "team1": "GIANTS BRAIVES C",
+      "team2": "RBC ALLEUR D",
+      "category": "U 12 - MM H",
+      "location": "GIANTS BRAIVES C",
+      "other": ""
+    },
+    {
       "code": "507146",
       "date": "2026-12-05",
       "time": "13:00",
@@ -1621,16 +1641,6 @@
       "time": "13:00",
       "team1": "GIANTS BRAIVES C",
       "team2": "HARIMALIA BC B",
-      "category": "U 12 - MM H",
-      "location": "GIANTS BRAIVES C",
-      "other": ""
-    },
-    {
-      "code": "507196",
-      "date": "2027-01-09",
-      "time": "13:00",
-      "team1": "GIANTS BRAIVES C",
-      "team2": "RBC ALLEUR D",
       "category": "U 12 - MM H",
       "location": "GIANTS BRAIVES C",
       "other": ""
@@ -1683,16 +1693,6 @@
       "team2": "GIANTS BRAIVES C",
       "category": "U 12 - MM H",
       "location": "HARIMALIA BC B",
-      "other": ""
-    },
-    {
-      "code": "507294",
-      "date": "2027-03-20",
-      "time": "13:00",
-      "team1": "BC VERLAINE B",
-      "team2": "GIANTS BRAIVES C",
-      "category": "U 12 - MM H",
-      "location": "BC VERLAINE B",
       "other": ""
     },
     {
@@ -1768,7 +1768,7 @@
     {
       "code": "480115",
       "date": "2026-11-14",
-      "time": "11:00",
+      "time": "15:00",
       "team1": "CRISTAL SGH A",
       "team2": "GIANTS BRAIVES B",
       "category": "U 14 - ELITES MM A",
@@ -2148,7 +2148,7 @@
     {
       "code": "451066",
       "date": "2026-10-11",
-      "time": "11:00",
+      "time": "9:00",
       "team1": "RBC ALLEUR",
       "team2": "GIANTS BRAIVES A",
       "category": "U 16 - ELITES MM B",
@@ -2338,7 +2338,7 @@
     {
       "code": "472104",
       "date": "2026-11-07",
-      "time": "17:00",
+      "time": "13:00",
       "team1": "CRISTAL SGH B",
       "team2": "GIANTS BRAIVES B",
       "category": "U 16 - PROV MM C",
@@ -2398,7 +2398,7 @@
     {
       "code": "472243",
       "date": "2027-02-13",
-      "time": "15:00",
+      "time": "11:00",
       "team1": "LA VILLERSOISE",
       "team2": "GIANTS BRAIVES B",
       "category": "U 16 - PROV MM C",
@@ -2498,7 +2498,7 @@
     {
       "code": "AW119014",
       "date": "2026-10-10",
-      "time": "13:00",
+      "time": "15:00",
       "team1": "SAR CHANTEMELLE",
       "team2": "GIANTS BRAIVES",
       "category": "U 18 - BRONZE REGIONAUX A",

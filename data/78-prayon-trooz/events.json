@@ -9,10 +9,10 @@
       "code": "AW223002",
       "date": "2026-08-15",
       "time": "19:15",
-      "team1": "RB ALLIANCE ARLON",
+      "team1": "RB ALLIANCE ARLON (+ 5)",
       "team2": "PRAYON TROOZ",
       "category": "AWBB DD - POULE C",
-      "location": "RB ALLIANCE ARLON",
+      "location": "RB ALLIANCE ARLON (+ 5)",
       "other": ""
     },
     {
@@ -20,7 +20,7 @@
       "date": "2026-08-22",
       "time": "19:00",
       "team1": "PRAYON TROOZ",
-      "team2": "HANNUT BC",
+      "team2": "HANNUT BC (+ 16)",
       "category": "AWBB DD - POULE C",
       "location": "PRAYON TROOZ",
       "other": ""
@@ -30,7 +30,7 @@
       "date": "2026-08-29",
       "time": "17:30",
       "team1": "NAMUR CAPITALE A",
-      "team2": "PRAYON TROOZ",
+      "team2": "PRAYON TROOZ (+ 8)",
       "category": "AWBB DD - POULE C",
       "location": "NAMUR CAPITALE A",
       "other": ""
@@ -48,7 +48,7 @@
     {
       "code": "414024",
       "date": "2026-09-13",
-      "time": "14:00",
+      "time": "12:00",
       "team1": "PRAYON TROOZ B",
       "team2": "ROYALE US AWANS",
       "category": "DD - DIVISION 2 A",
@@ -57,8 +57,8 @@
     },
     {
       "code": "414035",
-      "date": "2026-09-18",
-      "time": "20:30",
+      "date": "2026-09-19",
+      "time": "19:30",
       "team1": "CRISTAL SGH A",
       "team2": "PRAYON TROOZ B",
       "category": "DD - DIVISION 2 A",
@@ -78,7 +78,7 @@
     {
       "code": "414064",
       "date": "2026-10-11",
-      "time": "14:00",
+      "time": "12:00",
       "team1": "PRAYON TROOZ B",
       "team2": "LA VILLERSOISE A",
       "category": "DD - DIVISION 2 A",
@@ -87,8 +87,8 @@
     },
     {
       "code": "414074",
-      "date": "2026-10-18",
-      "time": "14:00",
+      "date": "2026-10-17",
+      "time": "17:00",
       "team1": "PRAYON TROOZ B",
       "team2": "ABC WAREMME B",
       "category": "DD - DIVISION 2 A",
@@ -148,7 +148,7 @@
     {
       "code": "414154",
       "date": "2026-12-13",
-      "time": "14:00",
+      "time": "16:00",
       "team1": "PRAYON TROOZ B",
       "team2": "RBC BLEGNY B",
       "category": "DD - DIVISION 2 A",
@@ -178,7 +178,7 @@
     {
       "code": "414206",
       "date": "2027-01-16",
-      "time": "21:00",
+      "time": "19:00",
       "team1": "ROYAL HERVE-BATTICE D",
       "team2": "PRAYON TROOZ B",
       "category": "DD - DIVISION 2 A",
@@ -217,8 +217,8 @@
     },
     {
       "code": "414251",
-      "date": "2027-02-21",
-      "time": "13:00",
+      "date": "2027-02-20",
+      "time": "20:00",
       "team1": "R.UN.BELLAIRE B",
       "team2": "PRAYON TROOZ B",
       "category": "DD - DIVISION 2 A",
@@ -238,7 +238,7 @@
     {
       "code": "414284",
       "date": "2027-03-14",
-      "time": "14:00",
+      "time": "12:00",
       "team1": "PRAYON TROOZ B",
       "team2": "R HT-PRE OUGREE A",
       "category": "DD - DIVISION 2 A",
@@ -248,7 +248,7 @@
     {
       "code": "414294",
       "date": "2027-03-21",
-      "time": "14:00",
+      "time": "12:00",
       "team1": "PRAYON TROOZ B",
       "team2": "RBC DISON-ANDRIMONT A",
       "category": "DD - DIVISION 2 A",
@@ -288,7 +288,7 @@
     {
       "code": "414344",
       "date": "2027-04-25",
-      "time": "14:00",
+      "time": "12:00",
       "team1": "PRAYON TROOZ B",
       "team2": "BC SPRIMONT B",
       "category": "DD - DIVISION 2 A",
@@ -296,19 +296,9 @@
       "other": ""
     },
     {
-      "code": "415016",
-      "date": "2026-09-06",
-      "time": "12:00",
-      "team1": "PRAYON TROOZ C",
-      "team2": "RBC HANEFFE C",
-      "category": "DD - DIVISION 2 B",
-      "location": "PRAYON TROOZ C",
-      "other": ""
-    },
-    {
       "code": "415026",
-      "date": "2026-09-13",
-      "time": "12:00",
+      "date": "2026-09-12",
+      "time": "21:00",
       "team1": "PRAYON TROOZ C",
       "team2": "HENRI-CHAPELLE B",
       "category": "DD - DIVISION 2 B",
@@ -326,9 +316,19 @@
       "other": ""
     },
     {
+      "code": "415016",
+      "date": "2026-09-26",
+      "time": "17:00",
+      "team1": "PRAYON TROOZ C",
+      "team2": "RBC HANEFFE C",
+      "category": "DD - DIVISION 2 B",
+      "location": "PRAYON TROOZ C",
+      "other": ""
+    },
+    {
       "code": "415057",
-      "date": "2026-10-04",
-      "time": "15:00",
+      "date": "2026-10-03",
+      "time": "19:00",
       "team1": "RBC ALLEUR D",
       "team2": "PRAYON TROOZ C",
       "category": "DD - DIVISION 2 B",
@@ -338,7 +338,7 @@
     {
       "code": "415066",
       "date": "2026-10-11",
-      "time": "12:00",
+      "time": "14:00",
       "team1": "PRAYON TROOZ C",
       "team2": "ROYAL BASKET OTHEE",
       "category": "DD - DIVISION 2 B",
@@ -367,8 +367,8 @@
     },
     {
       "code": "415106",
-      "date": "2026-11-08",
-      "time": "12:00",
+      "date": "2026-11-07",
+      "time": "19:00",
       "team1": "PRAYON TROOZ C",
       "team2": "ROYAL BC WANZE",
       "category": "DD - DIVISION 2 B",
@@ -398,7 +398,7 @@
     {
       "code": "415146",
       "date": "2026-12-06",
-      "time": "12:00",
+      "time": "16:00",
       "team1": "PRAYON TROOZ C",
       "team2": "RBC STAVELOT",
       "category": "DD - DIVISION 2 B",
@@ -407,8 +407,8 @@
     },
     {
       "code": "415156",
-      "date": "2026-12-13",
-      "time": "12:00",
+      "date": "2026-12-12",
+      "time": "19:00",
       "team1": "PRAYON TROOZ C",
       "team2": "ALL. FLEMALLE B",
       "category": "DD - DIVISION 2 B",
@@ -447,8 +447,8 @@
     },
     {
       "code": "415216",
-      "date": "2027-01-24",
-      "time": "12:00",
+      "date": "2027-01-23",
+      "time": "21:00",
       "team1": "PRAYON TROOZ C",
       "team2": "RBC WELKENRAEDT",
       "category": "DD - DIVISION 2 B",
@@ -497,8 +497,8 @@
     },
     {
       "code": "415286",
-      "date": "2027-03-14",
-      "time": "12:00",
+      "date": "2027-03-13",
+      "time": "21:00",
       "team1": "PRAYON TROOZ C",
       "team2": "R 4A AYWAILLE-HAMOIR A",
       "category": "DD - DIVISION 2 B",
@@ -568,7 +568,7 @@
     {
       "code": "418025",
       "date": "2026-09-13",
-      "time": "16:00",
+      "time": "14:00",
       "team1": "PRAYON TROOZ D",
       "team2": "R HT-PRE OUGREE B",
       "category": "DD - DIVISION 3 C",
@@ -583,6 +583,16 @@
       "team2": "RBC BLEGNY C",
       "category": "DD - DIVISION 3 C",
       "location": "PRAYON TROOZ D",
+      "other": ""
+    },
+    {
+      "code": "418126",
+      "date": "2026-10-18",
+      "time": "17:00",
+      "team1": "ROYAL HERVE-BATTICE E",
+      "team2": "PRAYON TROOZ D",
+      "category": "DD - DIVISION 3 C",
+      "location": "ROYAL HERVE-BATTICE E",
       "other": ""
     },
     {
@@ -608,21 +618,11 @@
     {
       "code": "418115",
       "date": "2026-11-15",
-      "time": "16:00",
+      "time": "14:00",
       "team1": "PRAYON TROOZ D",
       "team2": "ROYAL HERVE-BATTICE E",
       "category": "DD - DIVISION 3 C",
       "location": "PRAYON TROOZ D",
-      "other": ""
-    },
-    {
-      "code": "418126",
-      "date": "2026-11-28",
-      "time": "17:00",
-      "team1": "ROYAL HERVE-BATTICE E",
-      "team2": "PRAYON TROOZ D",
-      "category": "DD - DIVISION 3 C",
-      "location": "ROYAL HERVE-BATTICE E",
       "other": ""
     },
     {
@@ -687,8 +687,8 @@
     },
     {
       "code": "418255",
-      "date": "2027-02-21",
-      "time": "16:00",
+      "date": "2027-02-20",
+      "time": "19:00",
       "team1": "PRAYON TROOZ D",
       "team2": "LA VILLERSOISE B",
       "category": "DD - DIVISION 3 C",
@@ -698,7 +698,7 @@
     {
       "code": "418285",
       "date": "2027-03-14",
-      "time": "16:00",
+      "time": "14:00",
       "team1": "PRAYON TROOZ D",
       "team2": "REBOND NEUVILLE",
       "category": "DD - DIVISION 3 C",
@@ -708,7 +708,7 @@
     {
       "code": "418295",
       "date": "2027-03-21",
-      "time": "16:00",
+      "time": "14:00",
       "team1": "PRAYON TROOZ D",
       "team2": "ROYAL BC NINANE B",
       "category": "DD - DIVISION 3 C",
@@ -747,8 +747,8 @@
     },
     {
       "code": "AW104010",
-      "date": "2026-09-19",
-      "time": "20:30",
+      "date": "2026-09-20",
+      "time": "17:00",
       "team1": "RE PONT-DE-LOUP",
       "team2": "PRAYON TROOZ A",
       "category": "DD - REGIONALE 1",
@@ -997,8 +997,8 @@
     },
     {
       "code": "402065",
-      "date": "2026-10-10",
-      "time": "17:00",
+      "date": "2026-10-11",
+      "time": "10:00",
       "team1": "PRAYON TROOZ A",
       "team2": "PEPINSTER EAST BELG C",
       "category": "MM - DIVISION 2 A",
@@ -1058,7 +1058,7 @@
     {
       "code": "402145",
       "date": "2026-12-05",
-      "time": "17:00",
+      "time": "21:00",
       "team1": "PRAYON TROOZ A",
       "team2": "FLERON BBC A",
       "category": "MM - DIVISION 2 A",
@@ -1228,7 +1228,7 @@
     {
       "code": "407025",
       "date": "2026-09-12",
-      "time": "21:00",
+      "time": "19:00",
       "team1": "PRAYON TROOZ B",
       "team2": "R 4A AYWAILLE-HAMOIR D",
       "category": "MM - DIVISION 4 A",
@@ -1298,7 +1298,7 @@
     {
       "code": "407145",
       "date": "2026-12-05",
-      "time": "21:00",
+      "time": "17:00",
       "team1": "PRAYON TROOZ B",
       "team2": "HENRI-CHAPELLE D",
       "category": "MM - DIVISION 4 A",
@@ -1348,7 +1348,7 @@
     {
       "code": "407215",
       "date": "2027-01-23",
-      "time": "21:00",
+      "time": "19:00",
       "team1": "PRAYON TROOZ B",
       "team2": "RABC ENSIVAL D",
       "category": "MM - DIVISION 4 A",
@@ -1388,7 +1388,7 @@
     {
       "code": "407285",
       "date": "2027-03-13",
-      "time": "21:00",
+      "time": "19:00",
       "team1": "PRAYON TROOZ B",
       "team2": "RB TILFF E",
       "category": "MM - DIVISION 4 A",
@@ -1427,8 +1427,8 @@
     },
     {
       "code": "407333",
-      "date": "2027-04-18",
-      "time": "11:00",
+      "date": "2027-04-17",
+      "time": "19:00",
       "team1": "THEUX BC C",
       "team2": "PRAYON TROOZ B",
       "category": "MM - DIVISION 4 A",
@@ -1528,7 +1528,7 @@
     {
       "code": "411154",
       "date": "2026-12-13",
-      "time": "13:00",
+      "time": "12:00",
       "team1": "VAIL. JUPILLE C",
       "team2": "PRAYON TROOZ C",
       "category": "MM - DIVISION 4 E",
@@ -1666,6 +1666,36 @@
       "other": ""
     },
     {
+      "code": "902006",
+      "date": "2026-08-30",
+      "time": "16:00",
+      "team1": "PRAYON TROOZ D (+ 5)",
+      "team2": "R 4A AYWAILLE-HAMOIR A",
+      "category": "PROVINCIALE DD - POULE B",
+      "location": "PRAYON TROOZ D (+ 5)",
+      "other": ""
+    },
+    {
+      "code": "908002",
+      "date": "2026-08-15",
+      "time": "17:00",
+      "team1": "ATLAS A JUPILLE B (+ 5)",
+      "team2": "PRAYON TROOZ A",
+      "category": "PROVINCIALE DD - POULE H",
+      "location": "ATLAS A JUPILLE B (+ 5)",
+      "other": ""
+    },
+    {
+      "code": "908003",
+      "date": "2026-08-22",
+      "time": "21:00",
+      "team1": "PRAYON TROOZ A",
+      "team2": "R 4A AYWAILLE-HAMOIR B (",
+      "category": "PROVINCIALE DD - POULE H",
+      "location": "PRAYON TROOZ A",
+      "other": ""
+    },
+    {
       "code": "908005",
       "date": "2026-08-29",
       "time": "20:00",
@@ -1676,6 +1706,16 @@
       "other": ""
     },
     {
+      "code": "817001",
+      "date": "2026-08-16",
+      "time": "14:00",
+      "team1": "PRAYON TROOZ A",
+      "team2": "THEUX BC B (+ 5)",
+      "category": "PROVINCIALE MM - POULE Q",
+      "location": "PRAYON TROOZ A",
+      "other": ""
+    },
+    {
       "code": "817004",
       "date": "2026-08-22",
       "time": "19:30",
@@ -1683,6 +1723,56 @@
       "team2": "PRAYON TROOZ A",
       "category": "PROVINCIALE MM - POULE Q",
       "location": "THUNDER CONDROZ (+ 10)",
+      "other": ""
+    },
+    {
+      "code": "817005",
+      "date": "2026-08-30",
+      "time": "14:00",
+      "team1": "PRAYON TROOZ A",
+      "team2": "R 4A AYWAILLE-HAMOIR C (",
+      "category": "PROVINCIALE MM - POULE Q",
+      "location": "PRAYON TROOZ A",
+      "other": ""
+    },
+    {
+      "code": "826002",
+      "date": "2026-08-16",
+      "time": "16:00",
+      "team1": "PRAYON TROOZ B (+ 5)",
+      "team2": "RBC DISON-ANDRIMONT B",
+      "category": "PROVINCIALE MM - POULE Z",
+      "location": "PRAYON TROOZ B (+ 5)",
+      "other": ""
+    },
+    {
+      "code": "826004",
+      "date": "2026-08-22",
+      "time": "17:00",
+      "team1": "PRAYON TROOZ B (+ 10)",
+      "team2": "RBC ALLEUR B",
+      "category": "PROVINCIALE MM - POULE Z",
+      "location": "PRAYON TROOZ B (+ 10)",
+      "other": ""
+    },
+    {
+      "code": "908003",
+      "date": "2026-08-22",
+      "time": "21:00",
+      "team1": "PRAYON TROOZ A",
+      "team2": "R 4A AYWAILLE-HAMOIR B (+ 5)",
+      "category": "R 4A AYWAILLE-HAMOIR B (+ 5)",
+      "location": "PRAYON TROOZ A",
+      "other": ""
+    },
+    {
+      "code": "817005",
+      "date": "2026-08-30",
+      "time": "14:00",
+      "team1": "PRAYON TROOZ A",
+      "team2": "R 4A AYWAILLE-HAMOIR C (+ 10)",
+      "category": "R 4A AYWAILLE-HAMOIR C (+ 10)",
+      "location": "PRAYON TROOZ A",
       "other": ""
     },
     {
@@ -1716,6 +1806,16 @@
       "other": ""
     },
     {
+      "code": "526145",
+      "date": "2026-09-26",
+      "time": "15:00",
+      "team1": "PRAYON TROOZ",
+      "team2": "THEUX BC B",
+      "category": "U 10 - MM G",
+      "location": "PRAYON TROOZ",
+      "other": ""
+    },
+    {
       "code": "526051",
       "date": "2026-10-03",
       "time": "11:00",
@@ -1746,16 +1846,6 @@
       "other": ""
     },
     {
-      "code": "526115",
-      "date": "2026-11-15",
-      "time": "9:00",
-      "team1": "PRAYON TROOZ",
-      "team2": "RABC ENSIVAL A",
-      "category": "U 10 - MM G",
-      "location": "PRAYON TROOZ",
-      "other": ""
-    },
-    {
       "code": "526121",
       "date": "2026-11-22",
       "time": "9:00",
@@ -1766,11 +1856,11 @@
       "other": ""
     },
     {
-      "code": "526145",
-      "date": "2026-12-06",
+      "code": "526115",
+      "date": "2026-11-28",
       "time": "9:00",
       "team1": "PRAYON TROOZ",
-      "team2": "THEUX BC B",
+      "team2": "RABC ENSIVAL A",
       "category": "U 10 - MM G",
       "location": "PRAYON TROOZ",
       "other": ""
@@ -1828,7 +1918,7 @@
     {
       "code": "526295",
       "date": "2027-03-21",
-      "time": "9:00",
+      "time": "10:30",
       "team1": "PRAYON TROOZ",
       "team2": "R.UN.BELLAIRE B",
       "category": "U 10 - MM G",
@@ -1857,8 +1947,8 @@
     },
     {
       "code": "526333",
-      "date": "2027-04-18",
-      "time": "11:00",
+      "date": "2027-04-17",
+      "time": "9:00",
       "team1": "THEUX BC B",
       "team2": "PRAYON TROOZ",
       "category": "U 10 - MM G",
@@ -1888,11 +1978,21 @@
     {
       "code": "501036",
       "date": "2026-09-19",
-      "time": "15:00",
+      "time": "11:00",
       "team1": "CRISTAL SGH B",
       "team2": "PRAYON TROOZ A",
       "category": "U 12 - MM B",
       "location": "CRISTAL SGH B",
+      "other": ""
+    },
+    {
+      "code": "501155",
+      "date": "2026-09-26",
+      "time": "15:00",
+      "team1": "PRAYON TROOZ A",
+      "team2": "THEUX BC A",
+      "category": "U 12 - MM B",
+      "location": "PRAYON TROOZ A",
       "other": ""
     },
     {
@@ -1967,20 +2067,10 @@
     },
     {
       "code": "501145",
-      "date": "2026-12-06",
-      "time": "10:30",
+      "date": "2026-12-05",
+      "time": "15:00",
       "team1": "PRAYON TROOZ A",
       "team2": "ALL. FLEMALLE D",
-      "category": "U 12 - MM B",
-      "location": "PRAYON TROOZ A",
-      "other": ""
-    },
-    {
-      "code": "501155",
-      "date": "2026-12-13",
-      "time": "10:30",
-      "team1": "PRAYON TROOZ A",
-      "team2": "THEUX BC A",
       "category": "U 12 - MM B",
       "location": "PRAYON TROOZ A",
       "other": ""
@@ -2077,8 +2167,8 @@
     },
     {
       "code": "501295",
-      "date": "2027-03-21",
-      "time": "10:30",
+      "date": "2027-03-20",
+      "time": "13:00",
       "team1": "PRAYON TROOZ A",
       "team2": "ROYAL BC NINANE",
       "category": "U 12 - MM B",
@@ -2176,16 +2266,6 @@
       "other": ""
     },
     {
-      "code": "505115",
-      "date": "2026-11-15",
-      "time": "10:30",
-      "team1": "PRAYON TROOZ B",
-      "team2": "RBC DISON-ANDRIMONT A",
-      "category": "U 12 - MM F",
-      "location": "PRAYON TROOZ B",
-      "other": ""
-    },
-    {
       "code": "505121",
       "date": "2026-11-21",
       "time": "16:00",
@@ -2196,9 +2276,19 @@
       "other": ""
     },
     {
+      "code": "505115",
+      "date": "2026-11-28",
+      "time": "11:00",
+      "team1": "PRAYON TROOZ B",
+      "team2": "RBC DISON-ANDRIMONT A",
+      "category": "U 12 - MM F",
+      "location": "PRAYON TROOZ B",
+      "other": ""
+    },
+    {
       "code": "505145",
-      "date": "2026-12-06",
-      "time": "10:30",
+      "date": "2026-12-05",
+      "time": "15:00",
       "team1": "PRAYON TROOZ B",
       "team2": "ROYAL ANS BC B",
       "category": "U 12 - MM F",
@@ -2208,7 +2298,7 @@
     {
       "code": "505154",
       "date": "2026-12-12",
-      "time": "15:30",
+      "time": "15:00",
       "team1": "CRISTAL SGH C",
       "team2": "PRAYON TROOZ B",
       "category": "U 12 - MM F",
@@ -2287,8 +2377,8 @@
     },
     {
       "code": "505295",
-      "date": "2027-03-21",
-      "time": "10:30",
+      "date": "2027-03-20",
+      "time": "13:00",
       "team1": "PRAYON TROOZ B",
       "team2": "BC COINTE B",
       "category": "U 12 - MM F",
@@ -2327,8 +2417,8 @@
     },
     {
       "code": "601025",
-      "date": "2026-09-12",
-      "time": "11:00",
+      "date": "2026-09-05",
+      "time": "13:00",
       "team1": "PRAYON TROOZ",
       "team2": "RBC ESNEUX",
       "category": "U 14 - DD B",
@@ -2496,16 +2586,6 @@
       "other": ""
     },
     {
-      "code": "492055",
-      "date": "2026-10-03",
-      "time": "9:00",
-      "team1": "PRAYON TROOZ",
-      "team2": "RBC STAVELOT",
-      "category": "U 14 - PROV MM C",
-      "location": "PRAYON TROOZ",
-      "other": ""
-    },
-    {
       "code": "492062",
       "date": "2026-10-10",
       "time": "15:30",
@@ -2517,8 +2597,8 @@
     },
     {
       "code": "492105",
-      "date": "2026-11-07",
-      "time": "9:00",
+      "date": "2026-10-17",
+      "time": "11:00",
       "team1": "PRAYON TROOZ",
       "team2": "ROYAL BC NINANE",
       "category": "U 14 - PROV MM C",
@@ -2541,6 +2621,16 @@
       "time": "9:00",
       "team1": "PRAYON TROOZ",
       "team2": "BC SANKT VITH",
+      "category": "U 14 - PROV MM C",
+      "location": "PRAYON TROOZ",
+      "other": ""
+    },
+    {
+      "code": "492055",
+      "date": "2026-11-28",
+      "time": "13:00",
+      "team1": "PRAYON TROOZ",
+      "team2": "RBC STAVELOT",
       "category": "U 14 - PROV MM C",
       "location": "PRAYON TROOZ",
       "other": ""
@@ -2676,16 +2766,6 @@
       "other": ""
     },
     {
-      "code": "AW153010",
-      "date": "2026-10-04",
-      "time": "9:00",
-      "team1": "EVEIL AUDERGHEM",
-      "team2": "PRAYON TROOZ",
-      "category": "U 14 - SILVER REGIONALES B",
-      "location": "EVEIL AUDERGHEM",
-      "other": ""
-    },
-    {
       "code": "AW153014",
       "date": "2026-10-10",
       "time": "15:00",
@@ -2723,6 +2803,16 @@
       "team2": "RE PONT-DE-LOUP",
       "category": "U 14 - SILVER REGIONALES B",
       "location": "PRAYON TROOZ",
+      "other": ""
+    },
+    {
+      "code": "AW153010",
+      "date": "2026-11-29",
+      "time": "9:00",
+      "team1": "EVEIL AUDERGHEM",
+      "team2": "PRAYON TROOZ",
+      "category": "U 14 - SILVER REGIONALES B",
+      "location": "EVEIL AUDERGHEM",
       "other": ""
     },
     {
@@ -3178,11 +3268,11 @@
     {
       "code": "431156",
       "date": "2026-12-12",
-      "time": "15:00",
-      "team1": "PRAYON TROOZ",
-      "team2": "RBC AWANS",
+      "time": "13:00",
+      "team1": "RBC AWANS",
+      "team2": "PRAYON TROOZ",
       "category": "U 18 - ELITES MM B",
-      "location": "PRAYON TROOZ",
+      "location": "RBC AWANS",
       "other": ""
     },
     {
@@ -3218,17 +3308,17 @@
     {
       "code": "431211",
       "date": "2027-01-23",
-      "time": "13:00",
-      "team1": "RBC AWANS",
-      "team2": "PRAYON TROOZ",
+      "time": "15:00",
+      "team1": "PRAYON TROOZ",
+      "team2": "RBC AWANS",
       "category": "U 18 - ELITES MM B",
-      "location": "RBC AWANS",
+      "location": "PRAYON TROOZ",
       "other": ""
     },
     {
       "code": "431226",
       "date": "2027-01-30",
-      "time": "15:00",
+      "time": "11:00",
       "team1": "PRAYON TROOZ",
       "team2": "ROYAL MOSA AC 1941",
       "category": "U 18 - ELITES MM B",
@@ -3318,7 +3408,7 @@
     {
       "code": "580026",
       "date": "2026-09-12",
-      "time": "13:00",
+      "time": "11:00",
       "team1": "PRAYON TROOZ",
       "team2": "LA VILLERSOISE",
       "category": "U 19 - DD",
@@ -3388,7 +3478,7 @@
     {
       "code": "580106",
       "date": "2026-11-07",
-      "time": "13:00",
+      "time": "15:00",
       "team1": "PRAYON TROOZ",
       "team2": "ABC WAREMME A",
       "category": "U 19 - DD",
@@ -3518,7 +3608,7 @@
     {
       "code": "580256",
       "date": "2027-02-20",
-      "time": "13:00",
+      "time": "15:00",
       "team1": "PRAYON TROOZ",
       "team2": "RBC BLEGNY",
       "category": "U 19 - DD",
@@ -3636,16 +3726,6 @@
       "other": ""
     },
     {
-      "code": "AW142020",
-      "date": "2026-10-10",
-      "time": "15:00",
-      "team1": "PRAYON TROOZ",
-      "team2": "BC BELLEFLAMME",
-      "category": "U 19 - SILVER REGIONALES B",
-      "location": "PRAYON TROOZ",
-      "other": ""
-    },
-    {
       "code": "AW142048",
       "date": "2026-10-17",
       "time": "15:00",
@@ -3666,6 +3746,16 @@
       "other": ""
     },
     {
+      "code": "AW142020",
+      "date": "2026-10-31",
+      "time": "11:00",
+      "team1": "PRAYON TROOZ",
+      "team2": "BC BELLEFLAMME",
+      "category": "U 19 - SILVER REGIONALES B",
+      "location": "PRAYON TROOZ",
+      "other": ""
+    },
+    {
       "code": "AW142034",
       "date": "2026-11-07",
       "time": "11:30",
@@ -3678,7 +3768,7 @@
     {
       "code": "AW142032",
       "date": "2026-11-14",
-      "time": "15:00",
+      "time": "13:00",
       "team1": "PRAYON TROOZ",
       "team2": "MONS CAPITALE",
       "category": "U 19 - SILVER REGIONALES B",
@@ -3766,19 +3856,9 @@
       "other": ""
     },
     {
-      "code": "541103",
-      "date": "2026-11-08",
-      "time": "9:00",
-      "team1": "PRAYON TROOZ",
-      "team2": "ROYAL SPA BC B",
-      "category": "U 8 - MM B",
-      "location": "PRAYON TROOZ",
-      "other": ""
-    },
-    {
       "code": "541114",
       "date": "2026-11-14",
-      "time": "13:30",
+      "time": "9:30",
       "team1": "CRISTAL SGH B",
       "team2": "PRAYON TROOZ",
       "category": "U 8 - MM B",
@@ -3791,6 +3871,16 @@
       "time": "9:00",
       "team1": "PRAYON TROOZ",
       "team2": "HARIMALIA BC",
+      "category": "U 8 - MM B",
+      "location": "PRAYON TROOZ",
+      "other": ""
+    },
+    {
+      "code": "541103",
+      "date": "2026-11-28",
+      "time": "9:00",
+      "team1": "PRAYON TROOZ",
+      "team2": "ROYAL SPA BC B",
       "category": "U 8 - MM B",
       "location": "PRAYON TROOZ",
       "other": ""
@@ -3826,18 +3916,8 @@
       "other": ""
     },
     {
-      "code": "541191",
-      "date": "2027-01-10",
-      "time": "9:00",
-      "team1": "HENRI-CHAPELLE B",
-      "team2": "PRAYON TROOZ",
-      "category": "U 8 - MM B",
-      "location": "HENRI-CHAPELLE B",
-      "other": ""
-    },
-    {
       "code": "541203",
-      "date": "2027-01-17",
+      "date": "2027-01-16",
       "time": "9:00",
       "team1": "PRAYON TROOZ",
       "team2": "RABC ENSIVAL",
@@ -3857,8 +3937,8 @@
     },
     {
       "code": "541223",
-      "date": "2027-01-31",
-      "time": "9:00",
+      "date": "2027-01-30",
+      "time": "13:00",
       "team1": "PRAYON TROOZ",
       "team2": "PEPINSTER EAST BELG B",
       "category": "U 8 - MM B",
@@ -3873,6 +3953,16 @@
       "team2": "CRISTAL SGH B",
       "category": "U 8 - MM B",
       "location": "PRAYON TROOZ",
+      "other": ""
+    },
+    {
+      "code": "541191",
+      "date": "2027-02-28",
+      "time": "9:00",
+      "team1": "HENRI-CHAPELLE B",
+      "team2": "PRAYON TROOZ",
+      "category": "U 8 - MM B",
+      "location": "HENRI-CHAPELLE B",
       "other": ""
     },
     {
@@ -3917,7 +4007,7 @@
     },
     {
       "code": "541333",
-      "date": "2027-04-18",
+      "date": "2027-04-17",
       "time": "9:00",
       "team1": "PRAYON TROOZ",
       "team2": "RBC VISE",

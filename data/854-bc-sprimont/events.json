@@ -10,7 +10,7 @@
       "date": "2026-08-16",
       "time": "12:00",
       "team1": "RCS NATOYE C",
-      "team2": "BC SPRIMONT",
+      "team2": "BC SPRIMONT (+ 16)",
       "category": "AWBB DD - POULE L",
       "location": "RCS NATOYE C",
       "other": ""
@@ -19,30 +19,30 @@
       "code": "AW232003",
       "date": "2026-08-22",
       "time": "21:00",
-      "team1": "BC SPRIMONT",
+      "team1": "BC SPRIMONT (+ 10)",
       "team2": "BC LA RULLES A",
       "category": "AWBB DD - POULE L",
-      "location": "BC SPRIMONT",
+      "location": "BC SPRIMONT (+ 10)",
       "other": ""
     },
     {
       "code": "AW202001",
       "date": "2026-08-15",
       "time": "20:00",
-      "team1": "R ECLAIR PONT-DE-LOUP",
+      "team1": "R ECLAIR PONT-DE-LOUP (+",
       "team2": "BC SPRIMONT",
       "category": "AWBB MM - POULE B",
-      "location": "R ECLAIR PONT-DE-LOUP",
+      "location": "R ECLAIR PONT-DE-LOUP (+",
       "other": ""
     },
     {
       "code": "AW202003",
       "date": "2026-08-20",
       "time": "21:00",
-      "team1": "BC COINTE",
+      "team1": "BC COINTE (+ 5)",
       "team2": "BC SPRIMONT",
       "category": "AWBB MM - POULE B",
-      "location": "BC COINTE",
+      "location": "BC COINTE (+ 5)",
       "other": ""
     },
     {
@@ -108,7 +108,7 @@
     {
       "code": "764002",
       "date": "2026-08-30",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "BC SPRIMONT",
       "team2": "ROYAL ANS BC",
       "category": "CPE PROV PUPILLES MM",
@@ -247,8 +247,8 @@
     },
     {
       "code": "413197",
-      "date": "2027-01-09",
-      "time": "19:00",
+      "date": "2027-01-10",
+      "time": "14:00",
       "team1": "BC SPRIMONT A",
       "team2": "BC BELLEFLAMME B",
       "category": "DD - DIVISION 1",
@@ -278,7 +278,7 @@
     {
       "code": "413225",
       "date": "2027-01-31",
-      "time": "16:00",
+      "time": "12:00",
       "team1": "RBC HANEFFE B",
       "team2": "BC SPRIMONT A",
       "category": "DD - DIVISION 1",
@@ -347,8 +347,8 @@
     },
     {
       "code": "413327",
-      "date": "2027-04-11",
-      "time": "17:00",
+      "date": "2027-04-10",
+      "time": "19:00",
       "team1": "BC SPRIMONT A",
       "team2": "RABC ENSIVAL",
       "category": "DD - DIVISION 1",
@@ -368,21 +368,11 @@
     {
       "code": "413344",
       "date": "2027-04-24",
-      "time": "21:00",
+      "time": "17:30",
       "team1": "RBC CROATIA OUPEYE",
       "team2": "BC SPRIMONT A",
       "category": "DD - DIVISION 1",
       "location": "RBC CROATIA OUPEYE",
-      "other": ""
-    },
-    {
-      "code": "414017",
-      "date": "2026-09-05",
-      "time": "17:00",
-      "team1": "BC SPRIMONT B",
-      "team2": "R HT-PRE OUGREE A",
-      "category": "DD - DIVISION 2 A",
-      "location": "BC SPRIMONT B",
       "other": ""
     },
     {
@@ -408,7 +398,7 @@
     {
       "code": "414053",
       "date": "2026-10-03",
-      "time": "19:30",
+      "time": "20:30",
       "team1": "LA VILLERSOISE A",
       "team2": "BC SPRIMONT B",
       "category": "DD - DIVISION 2 A",
@@ -476,6 +466,16 @@
       "other": ""
     },
     {
+      "code": "414017",
+      "date": "2026-11-28",
+      "time": "18:00",
+      "team1": "BC SPRIMONT B",
+      "team2": "R HT-PRE OUGREE A",
+      "category": "DD - DIVISION 2 A",
+      "location": "BC SPRIMONT B",
+      "other": ""
+    },
+    {
       "code": "414145",
       "date": "2026-12-05",
       "time": "21:00",
@@ -507,8 +507,8 @@
     },
     {
       "code": "414197",
-      "date": "2027-01-09",
-      "time": "17:00",
+      "date": "2027-01-10",
+      "time": "16:00",
       "team1": "BC SPRIMONT B",
       "team2": "ALL. FLEMALLE A",
       "category": "DD - DIVISION 2 A",
@@ -518,7 +518,7 @@
     {
       "code": "414203",
       "date": "2027-01-16",
-      "time": "20:00",
+      "time": "21:00",
       "team1": "R HT-PRE OUGREE A",
       "team2": "BC SPRIMONT B",
       "category": "DD - DIVISION 2 A",
@@ -578,7 +578,7 @@
     {
       "code": "414286",
       "date": "2027-03-13",
-      "time": "19:00",
+      "time": "17:00",
       "team1": "RBC DISON-ANDRIMONT A",
       "team2": "BC SPRIMONT B",
       "category": "DD - DIVISION 2 A",
@@ -607,8 +607,8 @@
     },
     {
       "code": "414327",
-      "date": "2027-04-11",
-      "time": "15:00",
+      "date": "2027-04-10",
+      "time": "19:00",
       "team1": "BC SPRIMONT B",
       "team2": "RBC BLEGNY B",
       "category": "DD - DIVISION 2 A",
@@ -628,7 +628,7 @@
     {
       "code": "414344",
       "date": "2027-04-25",
-      "time": "14:00",
+      "time": "12:00",
       "team1": "PRAYON TROOZ B",
       "team2": "BC SPRIMONT B",
       "category": "DD - DIVISION 2 A",
@@ -658,7 +658,7 @@
     {
       "code": "416055",
       "date": "2026-10-03",
-      "time": "21:00",
+      "time": "17:00",
       "team1": "ORP JAUCHE",
       "team2": "BC SPRIMONT C",
       "category": "DD - DIVISION 3 A",
@@ -698,7 +698,7 @@
     {
       "code": "416121",
       "date": "2026-11-22",
-      "time": "17:00",
+      "time": "12:00",
       "team1": "BC SPRIMONT C",
       "team2": "RBC VISE B",
       "category": "DD - DIVISION 3 A",
@@ -868,7 +868,7 @@
     {
       "code": "403057",
       "date": "2026-10-03",
-      "time": "17:00",
+      "time": "21:00",
       "team1": "BC SPRIMONT C",
       "team2": "ESL UNITED D",
       "category": "MM - DIVISION 2 B",
@@ -936,13 +936,13 @@
       "other": ""
     },
     {
-      "code": "403147",
-      "date": "2026-12-04",
-      "time": "21:00",
-      "team1": "BC SPRIMONT C",
-      "team2": "RBC DISON-ANDRIMONT A",
+      "code": "403276",
+      "date": "2026-12-05",
+      "time": "17:00",
+      "team1": "RBC DISON-ANDRIMONT A",
+      "team2": "BC SPRIMONT C",
       "category": "MM - DIVISION 2 B",
-      "location": "BC SPRIMONT C",
+      "location": "RBC DISON-ANDRIMONT A",
       "other": ""
     },
     {
@@ -1026,13 +1026,13 @@
       "other": ""
     },
     {
-      "code": "403276",
-      "date": "2027-03-06",
-      "time": "19:00",
-      "team1": "RBC DISON-ANDRIMONT A",
-      "team2": "BC SPRIMONT C",
+      "code": "403147",
+      "date": "2027-03-05",
+      "time": "21:00",
+      "team1": "BC SPRIMONT C",
+      "team2": "RBC DISON-ANDRIMONT A",
       "category": "MM - DIVISION 2 B",
-      "location": "RBC DISON-ANDRIMONT A",
+      "location": "BC SPRIMONT C",
       "other": ""
     },
     {
@@ -1066,6 +1066,16 @@
       "other": ""
     },
     {
+      "code": "403347",
+      "date": "2027-04-03",
+      "time": "18:30",
+      "team1": "BC SPRIMONT C",
+      "team2": "RBC AWANS A",
+      "category": "MM - DIVISION 2 B",
+      "location": "BC SPRIMONT C",
+      "other": ""
+    },
+    {
       "code": "403324",
       "date": "2027-04-10",
       "time": "18:30",
@@ -1077,20 +1087,10 @@
     },
     {
       "code": "403337",
-      "date": "2027-04-17",
-      "time": "17:00",
+      "date": "2027-04-18",
+      "time": "13:00",
       "team1": "BC SPRIMONT C",
       "team2": "ROYAL SPA BC B",
-      "category": "MM - DIVISION 2 B",
-      "location": "BC SPRIMONT C",
-      "other": ""
-    },
-    {
-      "code": "403347",
-      "date": "2027-04-24",
-      "time": "17:00",
-      "team1": "BC SPRIMONT C",
-      "team2": "RBC AWANS A",
       "category": "MM - DIVISION 2 B",
       "location": "BC SPRIMONT C",
       "other": ""
@@ -1128,7 +1128,7 @@
     {
       "code": "405057",
       "date": "2026-10-03",
-      "time": "21:00",
+      "time": "19:00",
       "team1": "BC SPRIMONT D",
       "team2": "ALL. FLEMALLE B",
       "category": "MM - DIVISION 3 B",
@@ -1337,8 +1337,8 @@
     },
     {
       "code": "405337",
-      "date": "2027-04-17",
-      "time": "21:00",
+      "date": "2027-04-18",
+      "time": "15:00",
       "team1": "BC SPRIMONT D",
       "team2": "ROYALE US AWANS A",
       "category": "MM - DIVISION 3 B",
@@ -1348,7 +1348,7 @@
     {
       "code": "405347",
       "date": "2027-04-24",
-      "time": "21:00",
+      "time": "19:00",
       "team1": "BC SPRIMONT D",
       "team2": "RBC VISE C",
       "category": "MM - DIVISION 3 B",
@@ -1388,7 +1388,7 @@
     {
       "code": "409057",
       "date": "2026-10-03",
-      "time": "19:00",
+      "time": "17:00",
       "team1": "BC SPRIMONT E",
       "team2": "ALL. FLEMALLE C",
       "category": "MM - DIVISION 4 C",
@@ -1448,7 +1448,7 @@
     {
       "code": "409147",
       "date": "2026-12-06",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "BC SPRIMONT E",
       "team2": "GIANTS BRAIVES A",
       "category": "MM - DIVISION 4 C",
@@ -1538,7 +1538,7 @@
     {
       "code": "409287",
       "date": "2027-03-13",
-      "time": "19:00",
+      "time": "21:00",
       "team1": "BC SPRIMONT E",
       "team2": "BC COINTE C",
       "category": "MM - DIVISION 4 C",
@@ -1557,8 +1557,8 @@
     },
     {
       "code": "409337",
-      "date": "2027-04-17",
-      "time": "19:00",
+      "date": "2027-04-18",
+      "time": "13:00",
       "team1": "BC SPRIMONT E",
       "team2": "ROYALE US AWANS B",
       "category": "MM - DIVISION 4 C",
@@ -1808,11 +1808,21 @@
     {
       "code": "AW101169",
       "date": "2027-04-17",
-      "time": "19:30",
+      "time": "18:30",
       "team1": "UNITED B WOLUWE",
       "team2": "BC SPRIMONT B",
       "category": "MM - REGIONALE 2 A",
       "location": "UNITED B WOLUWE",
+      "other": ""
+    },
+    {
+      "code": "910003",
+      "date": "2026-08-22",
+      "time": "18:00",
+      "team1": "BC SPRIMONT B",
+      "team2": "VAIL. JUPILLE (+ 5)",
+      "category": "PROVINCIALE DD - POULE J",
+      "location": "BC SPRIMONT B",
       "other": ""
     },
     {
@@ -1883,6 +1893,16 @@
       "team2": "BC SPRIMONT E (+ 5)",
       "category": "PROVINCIALE MM - POULE M",
       "location": "FLERON BBC B",
+      "other": ""
+    },
+    {
+      "code": "813006",
+      "date": "2026-08-30",
+      "time": "11:00",
+      "team1": "BC SPRIMONT E (+ 5)",
+      "team2": "VAIL. JUPILLE B",
+      "category": "PROVINCIALE MM - POULE M",
+      "location": "BC SPRIMONT E (+ 5)",
       "other": ""
     },
     {
@@ -2007,8 +2027,8 @@
     },
     {
       "code": "NAHSE21BAM",
-      "date": "2026-12-12",
-      "time": "20:00",
+      "date": "2026-12-04",
+      "time": "21:00",
       "team1": "CASTORS BRAINE",
       "team2": "BC SPRIMONT A",
       "category": "TOP DIVISION MEN 2 B",
@@ -2063,16 +2083,6 @@
       "team2": "ROYAL WATERLOO",
       "category": "TOP DIVISION MEN 2 B",
       "location": "BC SPRIMONT A",
-      "other": ""
-    },
-    {
-      "code": "NAHSE21BEM",
-      "date": "2027-02-05",
-      "time": "00:00",
-      "team1": "GUCO LIER B",
-      "team2": "BC SPRIMONT A",
-      "category": "TOP DIVISION MEN 2 B",
-      "location": "GUCO LIER B",
       "other": ""
     },
     {
@@ -2178,7 +2188,7 @@
     {
       "code": "520051",
       "date": "2026-10-03",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "ROYAL SPA BC A",
       "team2": "BC SPRIMONT A",
       "category": "U 10 - MM A",
@@ -2208,7 +2218,7 @@
     {
       "code": "520102",
       "date": "2026-11-07",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "RBC VISE A",
       "team2": "BC SPRIMONT A",
       "category": "U 10 - MM A",
@@ -2237,8 +2247,8 @@
     },
     {
       "code": "520145",
-      "date": "2026-12-05",
-      "time": "14:00",
+      "date": "2026-11-28",
+      "time": "10:30",
       "team1": "BC SPRIMONT A",
       "team2": "THEUX BC A",
       "category": "U 10 - MM A",
@@ -2257,8 +2267,8 @@
     },
     {
       "code": "520195",
-      "date": "2027-01-09",
-      "time": "14:15",
+      "date": "2027-01-10",
+      "time": "9:00",
       "team1": "BC SPRIMONT A",
       "team2": "RBC AUBEL A",
       "category": "U 10 - MM A",
@@ -2268,7 +2278,7 @@
     {
       "code": "520205",
       "date": "2027-01-16",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "ROYAL BC NINANE A",
       "team2": "BC SPRIMONT A",
       "category": "U 10 - MM A",
@@ -2278,7 +2288,7 @@
     {
       "code": "520215",
       "date": "2027-01-24",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "BC SPRIMONT A",
       "team2": "BC BELLEFLAMME A",
       "category": "U 10 - MM A",
@@ -2318,7 +2328,7 @@
     {
       "code": "520295",
       "date": "2027-03-21",
-      "time": "12:00",
+      "time": "9:00",
       "team1": "BC SPRIMONT A",
       "team2": "RBC VISE A",
       "category": "U 10 - MM A",
@@ -2328,7 +2338,7 @@
     {
       "code": "520302",
       "date": "2027-03-27",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "PEPINSTER EAST BELG A",
       "team2": "BC SPRIMONT A",
       "category": "U 10 - MM A",
@@ -2348,7 +2358,7 @@
     {
       "code": "520333",
       "date": "2027-04-17",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "THEUX BC A",
       "team2": "BC SPRIMONT A",
       "category": "U 10 - MM A",
@@ -2378,7 +2388,7 @@
     {
       "code": "521051",
       "date": "2026-10-03",
-      "time": "09:30",
+      "time": "9:30",
       "team1": "COLLEGE S LOUIS A",
       "team2": "BC SPRIMONT D",
       "category": "U 10 - MM B",
@@ -2458,7 +2468,7 @@
     {
       "code": "521195",
       "date": "2027-01-10",
-      "time": "09:00",
+      "time": "12:00",
       "team1": "BC SPRIMONT D",
       "team2": "MAIL. COMBLAIN",
       "category": "U 10 - MM B",
@@ -2478,7 +2488,7 @@
     {
       "code": "521215",
       "date": "2027-01-24",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "BC SPRIMONT D",
       "team2": "CRISTAL SGH A",
       "category": "U 10 - MM B",
@@ -2488,7 +2498,7 @@
     {
       "code": "521226",
       "date": "2027-01-31",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "ROYAL HERVE-BATTICE B",
       "team2": "BC SPRIMONT D",
       "category": "U 10 - MM B",
@@ -2507,8 +2517,8 @@
     },
     {
       "code": "521245",
-      "date": "2027-02-14",
-      "time": "09:00",
+      "date": "2027-02-13",
+      "time": "14:00",
       "team1": "BC SPRIMONT D",
       "team2": "COLLEGE S LOUIS A",
       "category": "U 10 - MM B",
@@ -2518,7 +2528,7 @@
     {
       "code": "521283",
       "date": "2027-03-14",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "UN HUY BASKET B",
       "team2": "BC SPRIMONT D",
       "category": "U 10 - MM B",
@@ -2527,8 +2537,8 @@
     },
     {
       "code": "521295",
-      "date": "2027-03-20",
-      "time": "13:30",
+      "date": "2027-03-21",
+      "time": "10:30",
       "team1": "BC SPRIMONT D",
       "team2": "PEPINSTER EAST BELG B",
       "category": "U 10 - MM B",
@@ -2537,8 +2547,8 @@
     },
     {
       "code": "521325",
-      "date": "2027-04-11",
-      "time": "09:00",
+      "date": "2027-04-04",
+      "time": "10:30",
       "team1": "BC SPRIMONT D",
       "team2": "RSW LIEGE BASKET",
       "category": "U 10 - MM B",
@@ -2548,7 +2558,7 @@
     {
       "code": "521333",
       "date": "2027-04-17",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "LA VILLERSOISE B",
       "team2": "BC SPRIMONT D",
       "category": "U 10 - MM B",
@@ -2618,7 +2628,7 @@
     {
       "code": "522115",
       "date": "2026-11-14",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "BC COINTE A",
       "team2": "BC SPRIMONT B",
       "category": "U 10 - MM C",
@@ -2628,7 +2638,7 @@
     {
       "code": "522124",
       "date": "2026-11-21",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "ABC WAREMME A",
       "team2": "BC SPRIMONT B",
       "category": "U 10 - MM C",
@@ -2657,8 +2667,8 @@
     },
     {
       "code": "522196",
-      "date": "2027-01-09",
-      "time": "17:00",
+      "date": "2027-01-10",
+      "time": "10:30",
       "team1": "BC SPRIMONT B",
       "team2": "BC BELLEFLAMME B",
       "category": "U 10 - MM C",
@@ -2718,7 +2728,7 @@
     {
       "code": "522294",
       "date": "2027-03-21",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "ROYAL BC WANZE A",
       "team2": "BC SPRIMONT B",
       "category": "U 10 - MM C",
@@ -2748,7 +2758,7 @@
     {
       "code": "522331",
       "date": "2027-04-18",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "LA VILLERSOISE A",
       "team2": "BC SPRIMONT B",
       "category": "U 10 - MM C",
@@ -2768,7 +2778,7 @@
     {
       "code": "524032",
       "date": "2026-09-19",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "ROYAL BC NINANE B",
       "team2": "BC SPRIMONT C",
       "category": "U 10 - MM E",
@@ -2808,7 +2818,7 @@
     {
       "code": "524115",
       "date": "2026-11-14",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "RBC DISON-ANDRIMONT B",
       "team2": "BC SPRIMONT C",
       "category": "U 10 - MM E",
@@ -2818,7 +2828,7 @@
     {
       "code": "524146",
       "date": "2026-12-06",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "BC SPRIMONT C",
       "team2": "RBC AWANS",
       "category": "U 10 - MM E",
@@ -2848,7 +2858,7 @@
     {
       "code": "524196",
       "date": "2027-01-10",
-      "time": "12:00",
+      "time": "9:00",
       "team1": "BC SPRIMONT C",
       "team2": "ROYAL BC NINANE B",
       "category": "U 10 - MM E",
@@ -2868,7 +2878,7 @@
     {
       "code": "524216",
       "date": "2027-01-24",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "BC SPRIMONT C",
       "team2": "ROYAL SPA BC B",
       "category": "U 10 - MM E",
@@ -2878,7 +2888,7 @@
     {
       "code": "524225",
       "date": "2027-01-30",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "RBC BLEGNY A",
       "team2": "BC SPRIMONT C",
       "category": "U 10 - MM E",
@@ -2888,7 +2898,7 @@
     {
       "code": "524236",
       "date": "2027-02-07",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "BC SPRIMONT C",
       "team2": "RBC DISON-ANDRIMONT B",
       "category": "U 10 - MM E",
@@ -2898,7 +2908,7 @@
     {
       "code": "524282",
       "date": "2027-03-13",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "PEPINSTER EAST BELG C",
       "team2": "BC SPRIMONT C",
       "category": "U 10 - MM E",
@@ -2988,7 +2998,7 @@
     {
       "code": "502087",
       "date": "2026-10-25",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "BC SPRIMONT A",
       "team2": "ROYAL BC WANZE A",
       "category": "U 12 - MM C",
@@ -3018,7 +3028,7 @@
     {
       "code": "502127",
       "date": "2026-11-22",
-      "time": "14:00",
+      "time": "9:00",
       "team1": "BC SPRIMONT A",
       "team2": "ROYAL HERVE-BATTICE C",
       "category": "U 12 - MM C",
@@ -3057,8 +3067,8 @@
     },
     {
       "code": "502197",
-      "date": "2027-01-09",
-      "time": "10:00",
+      "date": "2027-01-10",
+      "time": "9:00",
       "team1": "BC SPRIMONT A",
       "team2": "RB TILFF A",
       "category": "U 12 - MM C",
@@ -3098,7 +3108,7 @@
     {
       "code": "502257",
       "date": "2027-02-21",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "BC SPRIMONT A",
       "team2": "ALL. FLEMALLE C",
       "category": "U 12 - MM C",
@@ -3128,7 +3138,7 @@
     {
       "code": "502296",
       "date": "2027-03-20",
-      "time": "11:15",
+      "time": "14:00",
       "team1": "COLLEGE S LOUIS A",
       "team2": "BC SPRIMONT A",
       "category": "U 12 - MM C",
@@ -3147,8 +3157,8 @@
     },
     {
       "code": "502327",
-      "date": "2027-04-11",
-      "time": "14:00",
+      "date": "2027-04-04",
+      "time": "9:00",
       "team1": "BC SPRIMONT A",
       "team2": "MAIL. COMBLAIN",
       "category": "U 12 - MM C",
@@ -3158,7 +3168,7 @@
     {
       "code": "502331",
       "date": "2027-04-18",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "LA VILLERSOISE B",
       "team2": "BC SPRIMONT A",
       "category": "U 12 - MM C",
@@ -3208,7 +3218,7 @@
     {
       "code": "503101",
       "date": "2026-09-27",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "BC SPRIMONT B",
       "team2": "RBC ALLEUR B",
       "category": "U 12 - MM D",
@@ -3228,7 +3238,7 @@
     {
       "code": "503061",
       "date": "2026-10-11",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "BC SPRIMONT B",
       "team2": "ROYAL SPA BC",
       "category": "U 12 - MM D",
@@ -3238,7 +3248,7 @@
     {
       "code": "503112",
       "date": "2026-11-15",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "HARIMALIA BC A",
       "team2": "BC SPRIMONT B",
       "category": "U 12 - MM D",
@@ -3248,7 +3258,7 @@
     {
       "code": "503121",
       "date": "2026-11-22",
-      "time": "15:30",
+      "time": "10:30",
       "team1": "BC SPRIMONT B",
       "team2": "ABC WAREMME B",
       "category": "U 12 - MM D",
@@ -3277,7 +3287,7 @@
     },
     {
       "code": "503191",
-      "date": "2027-01-09",
+      "date": "2027-01-10",
       "time": "10:30",
       "team1": "BC SPRIMONT B",
       "team2": "RBC HANEFFE",
@@ -3378,7 +3388,7 @@
     {
       "code": "480016",
       "date": "2026-09-05",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "GIANTS BRAIVES B",
       "team2": "BC SPRIMONT B",
       "category": "U 14 - ELITES MM A",
@@ -3438,17 +3448,17 @@
     {
       "code": "480123",
       "date": "2026-11-21",
-      "time": "10:00",
-      "team1": "BC SPRIMONT B",
-      "team2": "RABC ENSIVAL A",
+      "time": "13:00",
+      "team1": "RABC ENSIVAL A",
+      "team2": "BC SPRIMONT B",
       "category": "U 14 - ELITES MM A",
-      "location": "BC SPRIMONT B",
+      "location": "RABC ENSIVAL A",
       "other": ""
     },
     {
       "code": "480145",
       "date": "2026-12-05",
-      "time": "11:00",
+      "time": "13:30",
       "team1": "CRISTAL SGH A",
       "team2": "BC SPRIMONT B",
       "category": "U 14 - ELITES MM A",
@@ -3468,7 +3478,7 @@
     {
       "code": "480163",
       "date": "2026-12-20",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "BC SPRIMONT B",
       "team2": "ROYAL MOSA AC 1941",
       "category": "U 14 - ELITES MM A",
@@ -3528,7 +3538,7 @@
     {
       "code": "480285",
       "date": "2027-03-14",
-      "time": "09:30",
+      "time": "9:30",
       "team1": "ROYAL MOSA AC 1941",
       "team2": "BC SPRIMONT B",
       "category": "U 14 - ELITES MM A",
@@ -3538,7 +3548,7 @@
     {
       "code": "480291",
       "date": "2027-03-20",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "BC SPRIMONT B",
       "team2": "HENRI-CHAPELLE B",
       "category": "U 14 - ELITES MM A",
@@ -3558,17 +3568,17 @@
     {
       "code": "480322",
       "date": "2027-04-10",
-      "time": "13:00",
-      "team1": "RABC ENSIVAL A",
-      "team2": "BC SPRIMONT B",
+      "time": "10:00",
+      "team1": "BC SPRIMONT B",
+      "team2": "RABC ENSIVAL A",
       "category": "U 14 - ELITES MM A",
-      "location": "RABC ENSIVAL A",
+      "location": "BC SPRIMONT B",
       "other": ""
     },
     {
       "code": "480333",
-      "date": "2027-04-17",
-      "time": "10:00",
+      "date": "2027-04-18",
+      "time": "11:00",
       "team1": "BC SPRIMONT B",
       "team2": "CRISTAL SGH A",
       "category": "U 14 - ELITES MM A",
@@ -3578,7 +3588,7 @@
     {
       "code": "481016",
       "date": "2026-09-06",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "ALL. FLEMALLE A",
       "team2": "BC SPRIMONT A",
       "category": "U 14 - ELITES MM B",
@@ -3598,7 +3608,7 @@
     {
       "code": "481033",
       "date": "2026-09-19",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "BC SPRIMONT A",
       "team2": "ATLAS A JUPILLE",
       "category": "U 14 - ELITES MM B",
@@ -3608,7 +3618,7 @@
     {
       "code": "481056",
       "date": "2026-10-03",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "GIANTS BRAIVES A",
       "team2": "BC SPRIMONT A",
       "category": "U 14 - ELITES MM B",
@@ -3618,7 +3628,7 @@
     {
       "code": "481063",
       "date": "2026-10-10",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "BC SPRIMONT A",
       "team2": "ABC WAREMME A",
       "category": "U 14 - ELITES MM B",
@@ -3638,11 +3648,21 @@
     {
       "code": "481123",
       "date": "2026-11-21",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "RB TILFF A",
       "team2": "BC SPRIMONT A",
       "category": "U 14 - ELITES MM B",
       "location": "RB TILFF A",
+      "other": ""
+    },
+    {
+      "code": "481322",
+      "date": "2026-11-21",
+      "time": "9:00",
+      "team1": "BC SPRIMONT A",
+      "team2": "RB TILFF A",
+      "category": "U 14 - ELITES MM B",
+      "location": "BC SPRIMONT A",
       "other": ""
     },
     {
@@ -3708,7 +3728,7 @@
     {
       "code": "481223",
       "date": "2027-01-30",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "BC SPRIMONT A",
       "team2": "BC COINTE A",
       "category": "U 14 - ELITES MM B",
@@ -3718,7 +3738,7 @@
     {
       "code": "481243",
       "date": "2027-02-13",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "BC SPRIMONT A",
       "team2": "GIANTS BRAIVES A",
       "category": "U 14 - ELITES MM B",
@@ -3738,7 +3758,7 @@
     {
       "code": "481291",
       "date": "2027-03-20",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "BC SPRIMONT A",
       "team2": "HENRI-CHAPELLE A",
       "category": "U 14 - ELITES MM B",
@@ -3748,7 +3768,7 @@
     {
       "code": "481304",
       "date": "2027-03-27",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "ABC WAREMME A",
       "team2": "BC SPRIMONT A",
       "category": "U 14 - ELITES MM B",
@@ -3757,8 +3777,8 @@
     },
     {
       "code": "481333",
-      "date": "2027-04-17",
-      "time": "09:00",
+      "date": "2027-04-18",
+      "time": "9:00",
       "team1": "BC SPRIMONT A",
       "team2": "ROYAL ANS BC",
       "category": "U 14 - ELITES MM B",
@@ -3778,7 +3798,7 @@
     {
       "code": "AW134007",
       "date": "2026-09-13",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "BC SPRIMONT",
       "team2": "EAST BELGIUM BCA",
       "category": "U 14 - SILVER REGIONAUX C",
@@ -3808,7 +3828,7 @@
     {
       "code": "AW134013",
       "date": "2026-10-11",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "BC SPRIMONT",
       "team2": "BC FRAIRE-PHILIPPEVILLE",
       "category": "U 14 - SILVER REGIONAUX C",
@@ -3898,7 +3918,7 @@
     {
       "code": "AW128012",
       "date": "2026-10-03",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "RCS NATOYE",
       "team2": "BC SPRIMONT",
       "category": "U 16 - BRONZE REGIONAUX B",
@@ -4066,16 +4086,6 @@
       "other": ""
     },
     {
-      "code": "450192",
-      "date": "2027-01-10",
-      "time": "13:00",
-      "team1": "HENRI-CHAPELLE",
-      "team2": "BC SPRIMONT",
-      "category": "U 16 - ELITES MM A",
-      "location": "HENRI-CHAPELLE",
-      "other": ""
-    },
-    {
       "code": "450206",
       "date": "2027-01-16",
       "time": "17:00",
@@ -4126,6 +4136,16 @@
       "other": ""
     },
     {
+      "code": "450192",
+      "date": "2027-02-28",
+      "time": "13:00",
+      "team1": "HENRI-CHAPELLE",
+      "team2": "BC SPRIMONT",
+      "category": "U 16 - ELITES MM A",
+      "location": "HENRI-CHAPELLE",
+      "other": ""
+    },
+    {
       "code": "450286",
       "date": "2027-03-13",
       "time": "17:00",
@@ -4157,8 +4177,8 @@
     },
     {
       "code": "450336",
-      "date": "2027-04-17",
-      "time": "17:00",
+      "date": "2027-04-18",
+      "time": "9:00",
       "team1": "BC SPRIMONT",
       "team2": "ROYAL SPA BC A",
       "category": "U 16 - ELITES MM A",
@@ -4268,7 +4288,7 @@
     {
       "code": "AW113003",
       "date": "2026-09-06",
-      "time": "17:00",
+      "time": "14:00",
       "team1": "UCCLE EUROPE",
       "team2": "BC SPRIMONT",
       "category": "U 18 - GOLD REGIONAUX A",
@@ -4278,7 +4298,7 @@
     {
       "code": "AW113008",
       "date": "2026-09-13",
-      "time": "12:00",
+      "time": "10:00",
       "team1": "FRESH AIR",
       "team2": "BC SPRIMONT",
       "category": "U 18 - GOLD REGIONAUX A",
@@ -4348,7 +4368,7 @@
     {
       "code": "AW113028",
       "date": "2026-12-06",
-      "time": "13:00",
+      "time": "15:00",
       "team1": "ATLAS A JUPILLE",
       "team2": "BC SPRIMONT",
       "category": "U 18 - GOLD REGIONAUX A",
@@ -4418,7 +4438,7 @@
     {
       "code": "AW116021",
       "date": "2026-11-08",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "BC SPRIMONT",
       "team2": "B55 ACADEMY XL",
       "category": "U 18 - SILVER REGIONAUX B",
@@ -4438,7 +4458,7 @@
     {
       "code": "AW116027",
       "date": "2026-11-22",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "BC SPRIMONT",
       "team2": "CANTER SCHAERBEEK",
       "category": "U 18 - SILVER REGIONAUX B",
@@ -4478,7 +4498,7 @@
     {
       "code": "420026",
       "date": "2026-09-13",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "BC SPRIMONT",
       "team2": "R 4A AYWAILLE-HAMOIR",
       "category": "U 21 - MM",
@@ -4528,7 +4548,7 @@
     {
       "code": "420086",
       "date": "2026-10-25",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "BC SPRIMONT",
       "team2": "ROYAL BC WANZE",
       "category": "U 21 - MM",
@@ -4538,7 +4558,7 @@
     {
       "code": "420106",
       "date": "2026-11-08",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "BC SPRIMONT",
       "team2": "BBC EUPEN",
       "category": "U 21 - MM",
@@ -4557,8 +4577,8 @@
     },
     {
       "code": "420128",
-      "date": "2026-11-22",
-      "time": "17:00",
+      "date": "2026-11-21",
+      "time": "10:45",
       "team1": "RBC ALLEUR",
       "team2": "BC SPRIMONT",
       "category": "U 21 - MM",
@@ -4568,7 +4588,7 @@
     {
       "code": "420133",
       "date": "2026-11-29",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "THEUX BC",
       "team2": "BC SPRIMONT",
       "category": "U 21 - MM",
@@ -4607,8 +4627,8 @@
     },
     {
       "code": "420196",
-      "date": "2027-01-09",
-      "time": "13:00",
+      "date": "2027-01-10",
+      "time": "18:00",
       "team1": "BC SPRIMONT",
       "team2": "RBC DISON-ANDRIMONT",
       "category": "U 21 - MM",
@@ -4648,7 +4668,7 @@
     {
       "code": "420236",
       "date": "2027-02-07",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "BC SPRIMONT",
       "team2": "ROYAL BC NINANE",
       "category": "U 21 - MM",
@@ -4688,7 +4708,7 @@
     {
       "code": "420277",
       "date": "2027-03-06",
-      "time": "16:30",
+      "time": "12:30",
       "team1": "HENRI-CHAPELLE",
       "team2": "BC SPRIMONT",
       "category": "U 21 - MM",
@@ -4737,8 +4757,8 @@
     },
     {
       "code": "420326",
-      "date": "2027-04-11",
-      "time": "09:00",
+      "date": "2027-04-10",
+      "time": "17:00",
       "team1": "BC SPRIMONT",
       "team2": "RBC ESNEUX",
       "category": "U 21 - MM",
@@ -4778,7 +4798,7 @@
     {
       "code": "552026",
       "date": "2026-09-13",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "BC SPRIMONT A",
       "team2": "RB TILFF",
       "category": "U 7 - MM C",
@@ -4818,7 +4838,7 @@
     {
       "code": "552115",
       "date": "2026-11-14",
-      "time": "09:30",
+      "time": "9:30",
       "team1": "CRISTAL SGH A",
       "team2": "BC SPRIMONT A",
       "category": "U 7 - MM C",
@@ -4828,7 +4848,7 @@
     {
       "code": "552124",
       "date": "2026-11-21",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "BC BELLEFLAMME",
       "team2": "BC SPRIMONT A",
       "category": "U 7 - MM C",
@@ -4838,7 +4858,7 @@
     {
       "code": "552146",
       "date": "2026-12-06",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "BC SPRIMONT A",
       "team2": "RBC AWANS",
       "category": "U 7 - MM C",
@@ -4848,7 +4868,7 @@
     {
       "code": "552166",
       "date": "2026-12-20",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "BC SPRIMONT A",
       "team2": "ROYAL BC WANZE",
       "category": "U 7 - MM C",
@@ -4858,7 +4878,7 @@
     {
       "code": "552196",
       "date": "2027-01-10",
-      "time": "09:00",
+      "time": "10:30",
       "team1": "BC SPRIMONT A",
       "team2": "BC COINTE A",
       "category": "U 7 - MM C",
@@ -4878,7 +4898,7 @@
     {
       "code": "552225",
       "date": "2027-01-31",
-      "time": "09:30",
+      "time": "9:30",
       "team1": "RB TILFF",
       "team2": "BC SPRIMONT A",
       "category": "U 7 - MM C",
@@ -4888,7 +4908,7 @@
     {
       "code": "552236",
       "date": "2027-02-07",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "BC SPRIMONT A",
       "team2": "CRISTAL SGH A",
       "category": "U 7 - MM C",
@@ -4898,7 +4918,7 @@
     {
       "code": "552246",
       "date": "2027-03-07",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "BC SPRIMONT A",
       "team2": "R HT-PRE OUGREE",
       "category": "U 7 - MM C",
@@ -4918,7 +4938,7 @@
     {
       "code": "552294",
       "date": "2027-03-20",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "ABC WAREMME A",
       "team2": "BC SPRIMONT A",
       "category": "U 7 - MM C",
@@ -4927,8 +4947,8 @@
     },
     {
       "code": "552326",
-      "date": "2027-04-11",
-      "time": "09:00",
+      "date": "2027-04-10",
+      "time": "17:00",
       "team1": "BC SPRIMONT A",
       "team2": "BC BELLEFLAMME",
       "category": "U 7 - MM C",
@@ -4938,7 +4958,7 @@
     {
       "code": "552331",
       "date": "2027-04-18",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "RBC AWANS",
       "team2": "BC SPRIMONT A",
       "category": "U 7 - MM C",
@@ -5008,7 +5028,7 @@
     {
       "code": "553124",
       "date": "2026-11-22",
-      "time": "09:30",
+      "time": "9:30",
       "team1": "BC VERLAINE",
       "team2": "BC SPRIMONT B",
       "category": "U 7 - MM D",
@@ -5048,7 +5068,7 @@
     {
       "code": "553196",
       "date": "2027-01-10",
-      "time": "10:30",
+      "time": "13:30",
       "team1": "BC SPRIMONT B",
       "team2": "ROYAL BC NINANE B",
       "category": "U 7 - MM D",
@@ -5058,7 +5078,7 @@
     {
       "code": "553203",
       "date": "2027-01-16",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "LA VILLERSOISE",
       "team2": "BC SPRIMONT B",
       "category": "U 7 - MM D",
@@ -5078,7 +5098,7 @@
     {
       "code": "553225",
       "date": "2027-01-30",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "ROYAL ANS BC",
       "team2": "BC SPRIMONT B",
       "category": "U 7 - MM D",
@@ -5097,7 +5117,7 @@
     },
     {
       "code": "553246",
-      "date": "2027-02-14",
+      "date": "2027-03-07",
       "time": "10:30",
       "team1": "BC SPRIMONT B",
       "team2": "RBC HANEFFE",
@@ -5118,7 +5138,7 @@
     {
       "code": "553294",
       "date": "2027-03-20",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "ABC WAREMME B",
       "team2": "BC SPRIMONT B",
       "category": "U 7 - MM D",
@@ -5127,8 +5147,8 @@
     },
     {
       "code": "553326",
-      "date": "2027-04-11",
-      "time": "10:30",
+      "date": "2027-04-10",
+      "time": "17:00",
       "team1": "BC SPRIMONT B",
       "team2": "BC VERLAINE",
       "category": "U 7 - MM D",
@@ -5138,7 +5158,7 @@
     {
       "code": "553331",
       "date": "2027-04-17",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "RSW LIEGE BASKET",
       "team2": "BC SPRIMONT B",
       "category": "U 7 - MM D",
@@ -5237,8 +5257,8 @@
     },
     {
       "code": "543195",
-      "date": "2027-01-09",
-      "time": "14:00",
+      "date": "2027-01-10",
+      "time": "12:00",
       "team1": "BC SPRIMONT A",
       "team2": "MAIL. COMBLAIN",
       "category": "U 8 - MM D",
@@ -5258,7 +5278,7 @@
     {
       "code": "543215",
       "date": "2027-01-24",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "BC SPRIMONT A",
       "team2": "ABC WAREMME B",
       "category": "U 8 - MM D",
@@ -5278,7 +5298,7 @@
     {
       "code": "543283",
       "date": "2027-03-13",
-      "time": "12:00",
+      "time": "12:30",
       "team1": "RBC HANEFFE",
       "team2": "BC SPRIMONT A",
       "category": "U 8 - MM D",
@@ -5287,8 +5307,8 @@
     },
     {
       "code": "543295",
-      "date": "2027-03-20",
-      "time": "12:00",
+      "date": "2027-03-21",
+      "time": "9:00",
       "team1": "BC SPRIMONT A",
       "team2": "R.UN.BELLAIRE",
       "category": "U 8 - MM D",
@@ -5298,7 +5318,7 @@
     {
       "code": "543302",
       "date": "2027-03-27",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "ROYAL HERVE-BATTICE A",
       "team2": "BC SPRIMONT A",
       "category": "U 8 - MM D",
@@ -5338,7 +5358,7 @@
     {
       "code": "544051",
       "date": "2026-10-03",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "LA VILLERSOISE A",
       "team2": "BC SPRIMONT B",
       "category": "U 8 - MM E",
@@ -5408,7 +5428,7 @@
     {
       "code": "544165",
       "date": "2026-12-20",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "BC SPRIMONT B",
       "team2": "UN HUY BASKET",
       "category": "U 8 - MM E",
@@ -5458,7 +5478,7 @@
     {
       "code": "544283",
       "date": "2027-03-14",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "UN HUY BASKET",
       "team2": "BC SPRIMONT B",
       "category": "U 8 - MM E",
@@ -5467,8 +5487,8 @@
     },
     {
       "code": "544295",
-      "date": "2027-03-20",
-      "time": "13:30",
+      "date": "2027-03-21",
+      "time": "10:30",
       "team1": "BC SPRIMONT B",
       "team2": "BC COINTE A",
       "category": "U 8 - MM E",
@@ -5478,11 +5498,21 @@
     {
       "code": "544302",
       "date": "2027-03-27",
-      "time": "09:00",
+      "time": "9:00",
       "team1": "HANNUT BC A",
       "team2": "BC SPRIMONT B",
       "category": "U 8 - MM E",
       "location": "HANNUT BC A",
+      "other": ""
+    },
+    {
+      "code": "544333",
+      "date": "2027-04-03",
+      "time": "9:00",
+      "team1": "RBC ESNEUX B",
+      "team2": "BC SPRIMONT B",
+      "category": "U 8 - MM E",
+      "location": "RBC ESNEUX B",
       "other": ""
     },
     {
@@ -5493,16 +5523,6 @@
       "team2": "ALL. FLEMALLE A",
       "category": "U 8 - MM E",
       "location": "BC SPRIMONT B",
-      "other": ""
-    },
-    {
-      "code": "544333",
-      "date": "2027-04-17",
-      "time": "13:30",
-      "team1": "RBC ESNEUX B",
-      "team2": "BC SPRIMONT B",
-      "category": "U 8 - MM E",
-      "location": "RBC ESNEUX B",
       "other": ""
     }
   ]

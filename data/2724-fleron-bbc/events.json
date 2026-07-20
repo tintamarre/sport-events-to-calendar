@@ -47,8 +47,8 @@
     },
     {
       "code": "402072",
-      "date": "2026-10-17",
-      "time": "21:00",
+      "date": "2026-10-18",
+      "time": "15:00",
       "team1": "PEPINSTER EAST BELG C",
       "team2": "FLERON BBC A",
       "category": "MM - DIVISION 2 A",
@@ -108,7 +108,7 @@
     {
       "code": "402145",
       "date": "2026-12-05",
-      "time": "17:00",
+      "time": "21:00",
       "team1": "PRAYON TROOZ A",
       "team2": "FLERON BBC A",
       "category": "MM - DIVISION 2 A",
@@ -228,7 +228,7 @@
     {
       "code": "402307",
       "date": "2027-03-28",
-      "time": "13:00",
+      "time": "11:00",
       "team1": "RBC ALLEUR C",
       "team2": "FLERON BBC A",
       "category": "MM - DIVISION 2 A",
@@ -258,7 +258,7 @@
     {
       "code": "402344",
       "date": "2027-04-25",
-      "time": "11:00",
+      "time": "10:00",
       "team1": "VAIL. JUPILLE A",
       "team2": "FLERON BBC A",
       "category": "MM - DIVISION 2 A",
@@ -576,16 +576,6 @@
       "other": ""
     },
     {
-      "code": "525016",
-      "date": "2026-09-06",
-      "time": "14:00",
-      "team1": "FLERON BBC",
-      "team2": "RBC VISE B",
-      "category": "U 10 - MM F",
-      "location": "FLERON BBC",
-      "other": ""
-    },
-    {
       "code": "525026",
       "date": "2026-09-13",
       "time": "14:00",
@@ -603,6 +593,16 @@
       "team2": "FLERON BBC",
       "category": "U 10 - MM F",
       "location": "BC COINTE B",
+      "other": ""
+    },
+    {
+      "code": "525016",
+      "date": "2026-09-27",
+      "time": "14:00",
+      "team1": "FLERON BBC",
+      "team2": "RBC VISE B",
+      "category": "U 10 - MM F",
+      "location": "FLERON BBC",
       "other": ""
     },
     {
@@ -698,7 +698,7 @@
     {
       "code": "525225",
       "date": "2027-01-30",
-      "time": "9:30",
+      "time": "13:30",
       "team1": "CRISTAL SGH D",
       "team2": "FLERON BBC",
       "category": "U 10 - MM F",
@@ -787,8 +787,8 @@
     },
     {
       "code": "503053",
-      "date": "2026-10-03",
-      "time": "16:30",
+      "date": "2026-10-04",
+      "time": "17:00",
       "team1": "RBC ALLEUR B",
       "team2": "FLERON BBC",
       "category": "U 12 - MM D",
@@ -888,7 +888,7 @@
     {
       "code": "503225",
       "date": "2027-01-30",
-      "time": "11:30",
+      "time": "9:30",
       "team1": "CRISTAL SGH D",
       "team2": "FLERON BBC",
       "category": "U 12 - MM D",

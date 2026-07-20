@@ -9,10 +9,10 @@
       "code": "AW225001",
       "date": "2026-08-15",
       "time": "19:00",
-      "team1": "ATLAS A JUPILLE",
+      "team1": "ATLAS A JUPILLE (+ 15)",
       "team2": "CASTORS BRAINE A",
       "category": "AWBB DD - POULE E",
-      "location": "ATLAS A JUPILLE",
+      "location": "ATLAS A JUPILLE (+ 15)",
       "other": ""
     },
     {
@@ -20,7 +20,7 @@
       "date": "2026-08-23",
       "time": "13:00",
       "team1": "CEP FLEURUS",
-      "team2": "ATLAS A JUPILLE",
+      "team2": "ATLAS A JUPILLE (+ 8)",
       "category": "AWBB DD - POULE E",
       "location": "CEP FLEURUS",
       "other": ""
@@ -29,10 +29,10 @@
       "code": "AW225005",
       "date": "2026-08-29",
       "time": "19:00",
-      "team1": "ATLAS A JUPILLE",
+      "team1": "ATLAS A JUPILLE (+ 5)",
       "team2": "REBOND OTTIGNIES C",
       "category": "AWBB DD - POULE E",
-      "location": "ATLAS A JUPILLE",
+      "location": "ATLAS A JUPILLE (+ 5)",
       "other": ""
     },
     {
@@ -49,10 +49,10 @@
       "code": "AW210003",
       "date": "2026-08-22",
       "time": "21:00",
-      "team1": "ATLAS A JUPILLE",
+      "team1": "ATLAS A JUPILLE (+ 5)",
       "team2": "RBC ALLEUR",
       "category": "AWBB MM - POULE J",
-      "location": "ATLAS A JUPILLE",
+      "location": "ATLAS A JUPILLE (+ 5)",
       "other": ""
     },
     {
@@ -257,8 +257,8 @@
     },
     {
       "code": "413274",
-      "date": "2027-03-06",
-      "time": "17:00",
+      "date": "2027-03-07",
+      "time": "11:00",
       "team1": "RABC ENSIVAL",
       "team2": "ATLAS A JUPILLE A",
       "category": "DD - DIVISION 1",
@@ -436,19 +436,9 @@
       "other": ""
     },
     {
-      "code": "417191",
-      "date": "2027-01-09",
-      "time": "18:30",
-      "team1": "HENRI-CHAPELLE C",
-      "team2": "ATLAS A JUPILLE B",
-      "category": "DD - DIVISION 3 B",
-      "location": "HENRI-CHAPELLE C",
-      "other": ""
-    },
-    {
       "code": "417203",
       "date": "2027-01-16",
-      "time": "19:00",
+      "time": "17:00",
       "team1": "ATLAS A JUPILLE B",
       "team2": "RBC DISON-ANDRIMONT B",
       "category": "DD - DIVISION 3 B",
@@ -457,12 +447,22 @@
     },
     {
       "code": "417223",
-      "date": "2027-01-30",
-      "time": "19:00",
+      "date": "2027-01-31",
+      "time": "15:00",
       "team1": "ATLAS A JUPILLE B",
       "team2": "CS OUTREMEUSE",
       "category": "DD - DIVISION 3 B",
       "location": "ATLAS A JUPILLE B",
+      "other": ""
+    },
+    {
+      "code": "417191",
+      "date": "2027-02-06",
+      "time": "18:30",
+      "team1": "HENRI-CHAPELLE C",
+      "team2": "ATLAS A JUPILLE B",
+      "category": "DD - DIVISION 3 B",
+      "location": "HENRI-CHAPELLE C",
       "other": ""
     },
     {
@@ -537,8 +537,8 @@
     },
     {
       "code": "401024",
-      "date": "2026-09-13",
-      "time": "15:00",
+      "date": "2026-09-12",
+      "time": "19:00",
       "team1": "CRISTAL SGH A",
       "team2": "ATLAS A JUPILLE A",
       "category": "MM - DIVISION 1",
@@ -547,8 +547,8 @@
     },
     {
       "code": "401031",
-      "date": "2026-09-19",
-      "time": "21:00",
+      "date": "2026-09-20",
+      "time": "17:00",
       "team1": "ATLAS A JUPILLE A",
       "team2": "BC BELLEFLAMME B",
       "category": "MM - DIVISION 1",
@@ -627,8 +627,8 @@
     },
     {
       "code": "401141",
-      "date": "2026-12-05",
-      "time": "21:00",
+      "date": "2026-12-04",
+      "time": "20:30",
       "team1": "ATLAS A JUPILLE A",
       "team2": "ETOILE JUPILLE A",
       "category": "MM - DIVISION 1",
@@ -727,8 +727,8 @@
     },
     {
       "code": "401281",
-      "date": "2027-03-13",
-      "time": "21:00",
+      "date": "2027-03-14",
+      "time": "17:30",
       "team1": "ATLAS A JUPILLE A",
       "team2": "ROYAL HERVE-BATTICE A",
       "category": "MM - DIVISION 1",
@@ -788,7 +788,7 @@
     {
       "code": "402011",
       "date": "2026-09-05",
-      "time": "21:00",
+      "time": "20:00",
       "team1": "ATLAS A JUPILLE B",
       "team2": "RBC VISE A",
       "category": "MM - DIVISION 2 A",
@@ -798,7 +798,7 @@
     {
       "code": "402021",
       "date": "2026-09-12",
-      "time": "21:00",
+      "time": "19:00",
       "team1": "ATLAS A JUPILLE B",
       "team2": "RABC ENSIVAL A",
       "category": "MM - DIVISION 2 A",
@@ -867,8 +867,8 @@
     },
     {
       "code": "402114",
-      "date": "2026-11-15",
-      "time": "11:00",
+      "date": "2026-11-14",
+      "time": "21:00",
       "team1": "VAIL. JUPILLE A",
       "team2": "ATLAS A JUPILLE B",
       "category": "MM - DIVISION 2 A",
@@ -977,8 +977,8 @@
     },
     {
       "code": "402271",
-      "date": "2027-03-06",
-      "time": "21:00",
+      "date": "2027-03-07",
+      "time": "11:00",
       "team1": "ATLAS A JUPILLE B",
       "team2": "ESL UNITED E",
       "category": "MM - DIVISION 2 A",
@@ -1306,6 +1306,56 @@
       "other": ""
     },
     {
+      "code": "815005",
+      "date": "2026-08-30",
+      "time": "15:00",
+      "team1": "ATLAS A JUPILLE B",
+      "team2": "PEPINSTER EAST BELG D (+ 15)",
+      "category": "PEPINSTER EAST BELG D (+ 15)",
+      "location": "ATLAS A JUPILLE B",
+      "other": ""
+    },
+    {
+      "code": "908002",
+      "date": "2026-08-15",
+      "time": "17:00",
+      "team1": "ATLAS A JUPILLE B (+ 5)",
+      "team2": "PRAYON TROOZ A",
+      "category": "PROVINCIALE DD - POULE H",
+      "location": "ATLAS A JUPILLE B (+ 5)",
+      "other": ""
+    },
+    {
+      "code": "908004",
+      "date": "2026-08-22",
+      "time": "19:00",
+      "team1": "ATLAS A JUPILLE B (+ 10)",
+      "team2": "RBC BLEGNY A",
+      "category": "PROVINCIALE DD - POULE H",
+      "location": "ATLAS A JUPILLE B (+ 10)",
+      "other": ""
+    },
+    {
+      "code": "908006",
+      "date": "2026-08-29",
+      "time": "19:00",
+      "team1": "R 4A AYWAILLE-HAMOIR B",
+      "team2": "ATLAS A JUPILLE B",
+      "category": "PROVINCIALE DD - POULE H",
+      "location": "R 4A AYWAILLE-HAMOIR B",
+      "other": ""
+    },
+    {
+      "code": "909001",
+      "date": "2026-08-15",
+      "time": "19:00",
+      "team1": "ATLAS A JUPILLE A",
+      "team2": "BC VERLAINE B (+ 10)",
+      "category": "PROVINCIALE DD - POULE I",
+      "location": "ATLAS A JUPILLE A",
+      "other": ""
+    },
+    {
       "code": "909004",
       "date": "2026-08-23",
       "time": "12:00",
@@ -1316,6 +1366,26 @@
       "other": ""
     },
     {
+      "code": "909005",
+      "date": "2026-08-30",
+      "time": "13:00",
+      "team1": "ATLAS A JUPILLE A",
+      "team2": "RBC BLEGNY B (+ 5)",
+      "category": "PROVINCIALE DD - POULE I",
+      "location": "ATLAS A JUPILLE A",
+      "other": ""
+    },
+    {
+      "code": "804001",
+      "date": "2026-08-16",
+      "time": "17:00",
+      "team1": "ATLAS A JUPILLE A",
+      "team2": "CRISTAL SGH B (+ 10)",
+      "category": "PROVINCIALE MM - POULE D",
+      "location": "ATLAS A JUPILLE A",
+      "other": ""
+    },
+    {
       "code": "804004",
       "date": "2026-08-23",
       "time": "11:00",
@@ -1323,6 +1393,66 @@
       "team2": "ATLAS A JUPILLE A",
       "category": "PROVINCIALE MM - POULE D",
       "location": "THEUX BC C (+ 15)",
+      "other": ""
+    },
+    {
+      "code": "804005",
+      "date": "2026-08-29",
+      "time": "21:00",
+      "team1": "ATLAS A JUPILLE A",
+      "team2": "ROYAL BC NINANE C (+ 10)",
+      "category": "PROVINCIALE MM - POULE D",
+      "location": "ATLAS A JUPILLE A",
+      "other": ""
+    },
+    {
+      "code": "808002",
+      "date": "2026-08-16",
+      "time": "11:00",
+      "team1": "ATLAS A JUPILLE C",
+      "team2": "ROYAL HERVE-BATTICE B",
+      "category": "PROVINCIALE MM - POULE H",
+      "location": "ATLAS A JUPILLE C",
+      "other": ""
+    },
+    {
+      "code": "808004",
+      "date": "2026-08-23",
+      "time": "13:00",
+      "team1": "ATLAS A JUPILLE C (+ 10)",
+      "team2": "ALL. FLEMALLE A",
+      "category": "PROVINCIALE MM - POULE H",
+      "location": "ATLAS A JUPILLE C (+ 10)",
+      "other": ""
+    },
+    {
+      "code": "815001",
+      "date": "2026-08-14",
+      "time": "20:00",
+      "team1": "ATLAS A JUPILLE B",
+      "team2": "RBC BLEGNY B (+ 10)",
+      "category": "PROVINCIALE MM - POULE O",
+      "location": "ATLAS A JUPILLE B",
+      "other": ""
+    },
+    {
+      "code": "815004",
+      "date": "2026-08-23",
+      "time": "11:30",
+      "team1": "ROYAL MOSA AC 1941 B (+",
+      "team2": "ATLAS A JUPILLE B",
+      "category": "PROVINCIALE MM - POULE O",
+      "location": "ROYAL MOSA AC 1941 B (+",
+      "other": ""
+    },
+    {
+      "code": "815005",
+      "date": "2026-08-30",
+      "time": "15:00",
+      "team1": "ATLAS A JUPILLE B",
+      "team2": "PEPINSTER EAST BELG D (+",
+      "category": "PROVINCIALE MM - POULE O",
+      "location": "ATLAS A JUPILLE B",
       "other": ""
     },
     {
@@ -1778,7 +1908,7 @@
     {
       "code": "600202",
       "date": "2027-01-17",
-      "time": "15:00",
+      "time": "9:00",
       "team1": "R REN. MONTEGNEE",
       "team2": "ATLAS A JUPILLE",
       "category": "U 14 - DD A",
@@ -2008,7 +2138,7 @@
     {
       "code": "481293",
       "date": "2027-03-20",
-      "time": "13:00",
+      "time": "15:45",
       "team1": "COLLEGE S LOUIS",
       "team2": "ATLAS A JUPILLE",
       "category": "U 14 - ELITES MM B",
@@ -2047,8 +2177,8 @@
     },
     {
       "code": "AW127001",
-      "date": "2026-09-06",
-      "time": "15:00",
+      "date": "2026-09-05",
+      "time": "16:00",
       "team1": "ATLAS A JUPILLE",
       "team2": "RB ALLIANCE ARLON",
       "category": "U 16 - BRONZE REGIONAUX A",
@@ -2057,8 +2187,8 @@
     },
     {
       "code": "AW127007",
-      "date": "2026-09-13",
-      "time": "15:00",
+      "date": "2026-09-12",
+      "time": "14:30",
       "team1": "ATLAS A JUPILLE",
       "team2": "RE PONT-DE-LOUP",
       "category": "U 16 - BRONZE REGIONAUX A",
@@ -2088,7 +2218,7 @@
     {
       "code": "AW127013",
       "date": "2026-10-11",
-      "time": "15:00",
+      "time": "17:00",
       "team1": "ATLAS A JUPILLE",
       "team2": "ROYAL GALLIA BEEZ",
       "category": "U 16 - BRONZE REGIONAUX A",
@@ -2098,7 +2228,7 @@
     {
       "code": "AW127019",
       "date": "2026-11-08",
-      "time": "15:00",
+      "time": "17:00",
       "team1": "ATLAS A JUPILLE",
       "team2": "B55 ACADEMY XL",
       "category": "U 16 - BRONZE REGIONAUX A",
@@ -2128,7 +2258,7 @@
     {
       "code": "AW127028",
       "date": "2026-12-06",
-      "time": "15:00",
+      "time": "17:00",
       "team1": "ATLAS A JUPILLE",
       "team2": "J.S.SOIGNIES",
       "category": "U 16 - BRONZE REGIONAUX A",
@@ -2158,7 +2288,7 @@
     {
       "code": "591055",
       "date": "2026-10-03",
-      "time": "17:00",
+      "time": "15:00",
       "team1": "ORP JAUCHE",
       "team2": "ATLAS A JUPILLE",
       "category": "U 16 - DD B",
@@ -2326,6 +2456,16 @@
       "other": ""
     },
     {
+      "code": "450212",
+      "date": "2026-10-03",
+      "time": "13:00",
+      "team1": "ATLAS A JUPILLE A",
+      "team2": "HENRI-CHAPELLE",
+      "category": "U 16 - ELITES MM A",
+      "location": "ATLAS A JUPILLE A",
+      "other": ""
+    },
+    {
       "code": "450062",
       "date": "2026-10-11",
       "time": "11:00",
@@ -2333,6 +2473,16 @@
       "team2": "RBC BLEGNY",
       "category": "U 16 - ELITES MM A",
       "location": "ATLAS A JUPILLE A",
+      "other": ""
+    },
+    {
+      "code": "450323",
+      "date": "2026-10-18",
+      "time": "11:00",
+      "team1": "ROYAL HERVE-BATTICE",
+      "team2": "ATLAS A JUPILLE A",
+      "category": "U 16 - ELITES MM A",
+      "location": "ROYAL HERVE-BATTICE",
       "other": ""
     },
     {
@@ -2416,16 +2566,6 @@
       "other": ""
     },
     {
-      "code": "450212",
-      "date": "2027-01-24",
-      "time": "11:00",
-      "team1": "ATLAS A JUPILLE A",
-      "team2": "HENRI-CHAPELLE",
-      "category": "U 16 - ELITES MM A",
-      "location": "ATLAS A JUPILLE A",
-      "other": ""
-    },
-    {
       "code": "450223",
       "date": "2027-01-30",
       "time": "11:00",
@@ -2483,16 +2623,6 @@
       "team2": "ATLAS A JUPILLE A",
       "category": "U 16 - ELITES MM A",
       "location": "RBC BLEGNY",
-      "other": ""
-    },
-    {
-      "code": "450323",
-      "date": "2027-04-10",
-      "time": "11:00",
-      "team1": "ROYAL HERVE-BATTICE",
-      "team2": "ATLAS A JUPILLE A",
-      "category": "U 16 - ELITES MM A",
-      "location": "ROYAL HERVE-BATTICE",
       "other": ""
     },
     {
@@ -2598,7 +2728,7 @@
     {
       "code": "471201",
       "date": "2027-01-16",
-      "time": "15:00",
+      "time": "13:00",
       "team1": "ATLAS A JUPILLE B",
       "team2": "PEPINSTER EAST BELG B",
       "category": "U 16 - PROV MM B",
@@ -2747,8 +2877,8 @@
     },
     {
       "code": "430143",
-      "date": "2026-12-06",
-      "time": "15:00",
+      "date": "2026-12-05",
+      "time": "13:00",
       "team1": "ATLAS A JUPILLE",
       "team2": "ABC WAREMME A",
       "category": "U 18 - ELITES MM A",
@@ -2887,8 +3017,8 @@
     },
     {
       "code": "AW113001",
-      "date": "2026-09-06",
-      "time": "13:00",
+      "date": "2026-09-05",
+      "time": "13:30",
       "team1": "ATLAS A JUPILLE",
       "team2": "FRESH AIR",
       "category": "U 18 - GOLD REGIONAUX A",
@@ -2897,8 +3027,8 @@
     },
     {
       "code": "AW113007",
-      "date": "2026-09-13",
-      "time": "13:00",
+      "date": "2026-09-12",
+      "time": "12:30",
       "team1": "ATLAS A JUPILLE",
       "team2": "SPIROU BASKET",
       "category": "U 18 - GOLD REGIONAUX A",
@@ -2928,7 +3058,7 @@
     {
       "code": "AW113013",
       "date": "2026-10-11",
-      "time": "13:00",
+      "time": "15:00",
       "team1": "ATLAS A JUPILLE",
       "team2": "R.B.C. BELGRADE",
       "category": "U 18 - GOLD REGIONAUX A",
@@ -2938,7 +3068,7 @@
     {
       "code": "AW113019",
       "date": "2026-11-08",
-      "time": "13:00",
+      "time": "15:00",
       "team1": "ATLAS A JUPILLE",
       "team2": "UCCLE EUROPE",
       "category": "U 18 - GOLD REGIONAUX A",
@@ -2957,8 +3087,8 @@
     },
     {
       "code": "AW113026",
-      "date": "2026-11-22",
-      "time": "12:00",
+      "date": "2026-11-21",
+      "time": "17:00",
       "team1": "FRESH AIR",
       "team2": "ATLAS A JUPILLE",
       "category": "U 18 - GOLD REGIONAUX A",
@@ -2968,7 +3098,7 @@
     {
       "code": "AW113028",
       "date": "2026-12-06",
-      "time": "13:00",
+      "time": "15:00",
       "team1": "ATLAS A JUPILLE",
       "team2": "BC SPRIMONT",
       "category": "U 18 - GOLD REGIONAUX A",
@@ -3148,7 +3278,7 @@
     {
       "code": "580201",
       "date": "2027-01-16",
-      "time": "17:00",
+      "time": "15:00",
       "team1": "ATLAS A JUPILLE",
       "team2": "RBC VISE",
       "category": "U 19 - DD",
@@ -3268,7 +3398,7 @@
     {
       "code": "580337",
       "date": "2027-04-18",
-      "time": "9:00",
+      "time": "11:00",
       "team1": "LA VILLERSOISE",
       "team2": "ATLAS A JUPILLE",
       "category": "U 19 - DD",

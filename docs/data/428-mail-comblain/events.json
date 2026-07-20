@@ -9,10 +9,10 @@
       "code": "AW205002",
       "date": "2026-08-16",
       "time": "13:00",
-      "team1": "OLYMPIC MSM B",
+      "team1": "OLYMPIC MSM B (+ 5)",
       "team2": "MAIL. COMBLAIN",
       "category": "AWBB MM - POULE E",
-      "location": "OLYMPIC MSM B",
+      "location": "OLYMPIC MSM B (+ 5)",
       "other": ""
     },
     {
@@ -20,7 +20,7 @@
       "date": "2026-08-22",
       "time": "20:00",
       "team1": "MAIL. COMBLAIN",
-      "team2": "HANNUT BC",
+      "team2": "HANNUT BC (+ 8)",
       "category": "AWBB MM - POULE E",
       "location": "MAIL. COMBLAIN",
       "other": ""
@@ -177,12 +177,12 @@
     },
     {
       "code": "417214",
-      "date": "2027-01-22",
-      "time": "20:00",
-      "team1": "MAIL. COMBLAIN",
-      "team2": "RBC ESNEUX C",
+      "date": "2027-01-23",
+      "time": "18:00",
+      "team1": "RBC ESNEUX C",
+      "team2": "MAIL. COMBLAIN",
       "category": "DD - DIVISION 3 B",
-      "location": "MAIL. COMBLAIN",
+      "location": "RBC ESNEUX C",
       "other": ""
     },
     {
@@ -237,12 +237,12 @@
     },
     {
       "code": "417303",
-      "date": "2027-03-27",
-      "time": "18:00",
-      "team1": "RBC ESNEUX C",
-      "team2": "MAIL. COMBLAIN",
+      "date": "2027-03-26",
+      "time": "20:00",
+      "team1": "MAIL. COMBLAIN",
+      "team2": "RBC ESNEUX C",
       "category": "DD - DIVISION 3 B",
-      "location": "RBC ESNEUX C",
+      "location": "MAIL. COMBLAIN",
       "other": ""
     },
     {
@@ -378,7 +378,7 @@
     {
       "code": "408196",
       "date": "2027-01-10",
-      "time": "11:00",
+      "time": "15:00",
       "team1": "R REN. MONTEGNEE",
       "team2": "MAIL. COMBLAIN B",
       "category": "MM - DIVISION 4 B",
@@ -498,7 +498,7 @@
     {
       "code": "AW101015",
       "date": "2026-09-12",
-      "time": "19:00",
+      "time": "18:30",
       "team1": "UNITED B WOLUWE",
       "team2": "MAIL. COMBLAIN A",
       "category": "MM - REGIONALE 2 A",
@@ -527,8 +527,8 @@
     },
     {
       "code": "AW101031",
-      "date": "2026-10-09",
-      "time": "21:00",
+      "date": "2026-10-11",
+      "time": "17:00",
       "team1": "UCCLE EUROPE",
       "team2": "MAIL. COMBLAIN A",
       "category": "MM - REGIONALE 2 A",
@@ -648,7 +648,7 @@
     {
       "code": "AW101114",
       "date": "2027-02-13",
-      "time": "21:00",
+      "time": "19:00",
       "team1": "PEPINSTER EAST BELG B",
       "team2": "MAIL. COMBLAIN A",
       "category": "MM - REGIONALE 2 A",
@@ -748,7 +748,7 @@
     {
       "code": "521014",
       "date": "2026-09-05",
-      "time": "11:30",
+      "time": "15:30",
       "team1": "CRISTAL SGH A",
       "team2": "MAIL. COMBLAIN",
       "category": "U 10 - MM B",
@@ -848,7 +848,7 @@
     {
       "code": "521195",
       "date": "2027-01-10",
-      "time": "9:00",
+      "time": "12:00",
       "team1": "BC SPRIMONT D",
       "team2": "MAIL. COMBLAIN",
       "category": "U 10 - MM B",
@@ -1157,8 +1157,8 @@
     },
     {
       "code": "502327",
-      "date": "2027-04-11",
-      "time": "14:00",
+      "date": "2027-04-04",
+      "time": "9:00",
       "team1": "BC SPRIMONT A",
       "team2": "MAIL. COMBLAIN",
       "category": "U 12 - MM C",
@@ -1346,16 +1346,6 @@
       "other": ""
     },
     {
-      "code": "491014",
-      "date": "2026-09-05",
-      "time": "9:00",
-      "team1": "RBC VISE B",
-      "team2": "MAIL. COMBLAIN",
-      "category": "U 14 - PROV MM B",
-      "location": "RBC VISE B",
-      "other": ""
-    },
-    {
       "code": "491021",
       "date": "2026-09-13",
       "time": "13:00",
@@ -1363,6 +1353,16 @@
       "team2": "MAIL. COMBLAIN",
       "category": "U 14 - PROV MM B",
       "location": "RBC AWANS B",
+      "other": ""
+    },
+    {
+      "code": "491014",
+      "date": "2026-10-04",
+      "time": "9:00",
+      "team1": "RBC VISE B",
+      "team2": "MAIL. COMBLAIN",
+      "category": "U 14 - PROV MM B",
+      "location": "RBC VISE B",
       "other": ""
     },
     {
@@ -1708,11 +1708,11 @@
     {
       "code": "420034",
       "date": "2026-09-19",
-      "time": "16:00",
-      "team1": "MAIL. COMBLAIN",
-      "team2": "HENRI-CHAPELLE",
+      "time": "11:00",
+      "team1": "HENRI-CHAPELLE",
+      "team2": "MAIL. COMBLAIN",
       "category": "U 21 - MM",
-      "location": "MAIL. COMBLAIN",
+      "location": "HENRI-CHAPELLE",
       "other": ""
     },
     {
@@ -1838,11 +1838,11 @@
     {
       "code": "420197",
       "date": "2027-01-09",
-      "time": "16:30",
-      "team1": "HENRI-CHAPELLE",
-      "team2": "MAIL. COMBLAIN",
+      "time": "12:30",
+      "team1": "MAIL. COMBLAIN",
+      "team2": "HENRI-CHAPELLE",
       "category": "U 21 - MM",
-      "location": "HENRI-CHAPELLE",
+      "location": "MAIL. COMBLAIN",
       "other": ""
     },
     {
@@ -2077,8 +2077,8 @@
     },
     {
       "code": "543195",
-      "date": "2027-01-09",
-      "time": "14:00",
+      "date": "2027-01-10",
+      "time": "12:00",
       "team1": "BC SPRIMONT A",
       "team2": "MAIL. COMBLAIN",
       "category": "U 8 - MM D",

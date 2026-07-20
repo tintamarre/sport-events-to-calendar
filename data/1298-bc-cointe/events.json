@@ -9,10 +9,10 @@
       "code": "AW222002",
       "date": "2026-08-15",
       "time": "19:00",
-      "team1": "CENTRE GAUME TINTIGNY",
+      "team1": "CENTRE GAUME TINTIGNY (",
       "team2": "BC COINTE",
       "category": "AWBB DD - POULE B",
-      "location": "CENTRE GAUME TINTIGNY",
+      "location": "CENTRE GAUME TINTIGNY (",
       "other": ""
     },
     {
@@ -20,7 +20,7 @@
       "date": "2026-08-22",
       "time": "17:00",
       "team1": "BC COINTE",
-      "team2": "GANSHOREN DAMES B",
+      "team2": "GANSHOREN DAMES B (+ 16",
       "category": "AWBB DD - POULE B",
       "location": "BC COINTE",
       "other": ""
@@ -30,7 +30,7 @@
       "date": "2026-08-29",
       "time": "18:00",
       "team1": "ROYAL BC CINEY A",
-      "team2": "BC COINTE",
+      "team2": "BC COINTE (+ 8)",
       "category": "AWBB DD - POULE B",
       "location": "ROYAL BC CINEY A",
       "other": ""
@@ -39,20 +39,20 @@
       "code": "AW202002",
       "date": "2026-08-15",
       "time": "19:00",
-      "team1": "BC COINTE",
+      "team1": "BC COINTE (+ 5)",
       "team2": "ROYAL GALLIA BEEZ A",
       "category": "AWBB MM - POULE B",
-      "location": "BC COINTE",
+      "location": "BC COINTE (+ 5)",
       "other": ""
     },
     {
       "code": "AW202003",
       "date": "2026-08-20",
       "time": "21:00",
-      "team1": "BC COINTE",
+      "team1": "BC COINTE (+ 5)",
       "team2": "BC SPRIMONT",
       "category": "AWBB MM - POULE B",
-      "location": "BC COINTE",
+      "location": "BC COINTE (+ 5)",
       "other": ""
     },
     {
@@ -108,7 +108,7 @@
     {
       "code": "AW104022",
       "date": "2026-10-04",
-      "time": "17:30",
+      "time": "18:00",
       "team1": "RE PONT-DE-LOUP",
       "team2": "BC COINTE A",
       "category": "DD - REGIONALE 1",
@@ -296,6 +296,16 @@
       "other": ""
     },
     {
+      "code": "AW222004",
+      "date": "2026-08-22",
+      "time": "17:00",
+      "team1": "BC COINTE",
+      "team2": "GANSHOREN DAMES B (+ 16)",
+      "category": "GANSHOREN DAMES B (+ 16)",
+      "location": "BC COINTE",
+      "other": ""
+    },
+    {
       "code": "401202",
       "date": "2026-09-05",
       "time": "19:00",
@@ -477,8 +487,8 @@
     },
     {
       "code": "401272",
-      "date": "2027-03-06",
-      "time": "19:00",
+      "date": "2027-03-05",
+      "time": "21:00",
       "team1": "BC COINTE A",
       "team2": "CRISTAL SGH A",
       "category": "MM - DIVISION 1",
@@ -648,7 +658,7 @@
     {
       "code": "405123",
       "date": "2026-11-21",
-      "time": "21:00",
+      "time": "17:00",
       "team1": "BC COINTE B",
       "team2": "ROYAL BC WANZE B",
       "category": "MM - DIVISION 3 B",
@@ -798,7 +808,7 @@
     {
       "code": "405333",
       "date": "2027-04-17",
-      "time": "21:00",
+      "time": "17:00",
       "team1": "BC COINTE B",
       "team2": "RBC BLEGNY B",
       "category": "MM - DIVISION 3 B",
@@ -978,7 +988,7 @@
     {
       "code": "409287",
       "date": "2027-03-13",
-      "time": "19:00",
+      "time": "21:00",
       "team1": "BC SPRIMONT E",
       "team2": "BC COINTE C",
       "category": "MM - DIVISION 4 C",
@@ -988,7 +998,7 @@
     {
       "code": "409295",
       "date": "2027-03-20",
-      "time": "21:00",
+      "time": "19:00",
       "team1": "ORP JAUCHE A",
       "team2": "BC COINTE C",
       "category": "MM - DIVISION 4 C",
@@ -1073,6 +1083,16 @@
       "team2": "RBC STAVELOT A",
       "category": "PROVINCIALE MM - POULE F",
       "location": "BC COINTE B (+ 10)",
+      "other": ""
+    },
+    {
+      "code": "806006",
+      "date": "2026-08-30",
+      "time": "11:00",
+      "team1": "R REN. MONTEGNEE B (+ 5)",
+      "team2": "BC COINTE B",
+      "category": "PROVINCIALE MM - POULE F",
+      "location": "R REN. MONTEGNEE B (+ 5)",
       "other": ""
     },
     {
@@ -1528,7 +1548,7 @@
     {
       "code": "527065",
       "date": "2026-10-10",
-      "time": "11:00",
+      "time": "9:30",
       "team1": "CRISTAL SGH B",
       "team2": "BC COINTE C",
       "category": "U 10 - MM H",
@@ -1558,7 +1578,7 @@
     {
       "code": "527123",
       "date": "2026-11-21",
-      "time": "14:45",
+      "time": "9:00",
       "team1": "RBC ALLEUR B",
       "team2": "BC COINTE C",
       "category": "U 10 - MM H",
@@ -1693,16 +1713,6 @@
       "team2": "ALL. FLEMALLE C",
       "category": "U 12 - MM C",
       "location": "BC COINTE A",
-      "other": ""
-    },
-    {
-      "code": "502023",
-      "date": "2026-09-13",
-      "time": "10:45",
-      "team1": "BC VERLAINE A",
-      "team2": "BC COINTE A",
-      "category": "U 12 - MM C",
-      "location": "BC VERLAINE A",
       "other": ""
     },
     {
@@ -1846,6 +1856,16 @@
       "other": ""
     },
     {
+      "code": "502023",
+      "date": "2027-02-07",
+      "time": "15:00",
+      "team1": "BC VERLAINE A",
+      "team2": "BC COINTE A",
+      "category": "U 12 - MM C",
+      "location": "BC VERLAINE A",
+      "other": ""
+    },
+    {
       "code": "502244",
       "date": "2027-02-14",
       "time": "12:00",
@@ -1978,7 +1998,7 @@
     {
       "code": "505111",
       "date": "2026-11-15",
-      "time": "13:00",
+      "time": "11:00",
       "team1": "HENRI-CHAPELLE B",
       "team2": "BC COINTE B",
       "category": "U 12 - MM F",
@@ -2028,7 +2048,7 @@
     {
       "code": "505196",
       "date": "2027-01-09",
-      "time": "13:00",
+      "time": "15:00",
       "team1": "RBC DISON-ANDRIMONT A",
       "team2": "BC COINTE B",
       "category": "U 12 - MM F",
@@ -2097,8 +2117,8 @@
     },
     {
       "code": "505295",
-      "date": "2027-03-21",
-      "time": "10:30",
+      "date": "2027-03-20",
+      "time": "13:00",
       "team1": "PRAYON TROOZ B",
       "team2": "BC COINTE B",
       "category": "U 12 - MM F",
@@ -3088,7 +3108,7 @@
     {
       "code": "420292",
       "date": "2027-03-21",
-      "time": "12:00",
+      "time": "16:00",
       "team1": "ROYAL BC NINANE",
       "team2": "BC COINTE",
       "category": "U 21 - MM",
@@ -3127,8 +3147,8 @@
     },
     {
       "code": "420332",
-      "date": "2027-04-18",
-      "time": "13:00",
+      "date": "2027-04-17",
+      "time": "15:00",
       "team1": "BC COINTE",
       "team2": "HENRI-CHAPELLE",
       "category": "U 21 - MM",
@@ -3298,7 +3318,7 @@
     {
       "code": "551244",
       "date": "2027-02-13",
-      "time": "13:30",
+      "time": "11:30",
       "team1": "CRISTAL SGH B",
       "team2": "BC COINTE B",
       "category": "U 7 - MM B",
@@ -3438,7 +3458,7 @@
     {
       "code": "552196",
       "date": "2027-01-10",
-      "time": "9:00",
+      "time": "10:30",
       "team1": "BC SPRIMONT A",
       "team2": "BC COINTE A",
       "category": "U 7 - MM C",
@@ -3677,8 +3697,8 @@
     },
     {
       "code": "544295",
-      "date": "2027-03-20",
-      "time": "13:30",
+      "date": "2027-03-21",
+      "time": "10:30",
       "team1": "BC SPRIMONT B",
       "team2": "BC COINTE A",
       "category": "U 8 - MM E",
@@ -3858,7 +3878,7 @@
     {
       "code": "545305",
       "date": "2027-03-27",
-      "time": "11:00",
+      "time": "13:00",
       "team1": "ORP JAUCHE",
       "team2": "BC COINTE B",
       "category": "U 8 - MM F",

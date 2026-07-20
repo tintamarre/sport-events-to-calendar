@@ -138,7 +138,7 @@
     {
       "code": "413206",
       "date": "2027-01-16",
-      "time": "19:00",
+      "time": "21:00",
       "team1": "ROYAL HERVE-BATTICE C",
       "team2": "RBC CROATIA OUPEYE",
       "category": "DD - DIVISION 1",
@@ -216,16 +216,6 @@
       "other": ""
     },
     {
-      "code": "413294",
-      "date": "2027-03-20",
-      "time": "21:00",
-      "team1": "RBC CROATIA OUPEYE",
-      "team2": "RBC ALLEUR C",
-      "category": "DD - DIVISION 1",
-      "location": "RBC CROATIA OUPEYE",
-      "other": ""
-    },
-    {
       "code": "413303",
       "date": "2027-03-28",
       "time": "10:00",
@@ -236,9 +226,19 @@
       "other": ""
     },
     {
+      "code": "413294",
+      "date": "2027-04-03",
+      "time": "21:00",
+      "team1": "RBC CROATIA OUPEYE",
+      "team2": "RBC ALLEUR C",
+      "category": "DD - DIVISION 1",
+      "location": "RBC CROATIA OUPEYE",
+      "other": ""
+    },
+    {
       "code": "413324",
       "date": "2027-04-10",
-      "time": "21:00",
+      "time": "19:30",
       "team1": "RBC CROATIA OUPEYE",
       "team2": "RBC BLEGNY A",
       "category": "DD - DIVISION 1",
@@ -247,8 +247,8 @@
     },
     {
       "code": "413334",
-      "date": "2027-04-17",
-      "time": "17:00",
+      "date": "2027-04-18",
+      "time": "15:00",
       "team1": "RABC ENSIVAL",
       "team2": "RBC CROATIA OUPEYE",
       "category": "DD - DIVISION 1",
@@ -258,7 +258,7 @@
     {
       "code": "413344",
       "date": "2027-04-24",
-      "time": "21:00",
+      "time": "17:30",
       "team1": "RBC CROATIA OUPEYE",
       "team2": "BC SPRIMONT A",
       "category": "DD - DIVISION 1",
@@ -308,7 +308,7 @@
     {
       "code": "408064",
       "date": "2026-10-10",
-      "time": "19:00",
+      "time": "19:30",
       "team1": "RBC CROATIA OUPEYE",
       "team2": "UN HUY BASKET",
       "category": "MM - DIVISION 4 B",
@@ -456,16 +456,6 @@
       "other": ""
     },
     {
-      "code": "408294",
-      "date": "2027-03-20",
-      "time": "19:00",
-      "team1": "RBC CROATIA OUPEYE",
-      "team2": "R REN. MONTEGNEE",
-      "category": "MM - DIVISION 4 B",
-      "location": "RBC CROATIA OUPEYE",
-      "other": ""
-    },
-    {
       "code": "408303",
       "date": "2027-03-27",
       "time": "21:00",
@@ -473,6 +463,16 @@
       "team2": "RBC CROATIA OUPEYE",
       "category": "MM - DIVISION 4 B",
       "location": "UN HUY BASKET",
+      "other": ""
+    },
+    {
+      "code": "408294",
+      "date": "2027-04-03",
+      "time": "19:00",
+      "team1": "RBC CROATIA OUPEYE",
+      "team2": "R REN. MONTEGNEE",
+      "category": "MM - DIVISION 4 B",
+      "location": "RBC CROATIA OUPEYE",
       "other": ""
     },
     {

@@ -9,10 +9,10 @@
       "code": "AW201001",
       "date": "2026-08-15",
       "time": "18:30",
-      "team1": "RB UNION LIEGE",
+      "team1": "RB UNION LIEGE (+ 5)",
       "team2": "CHALET WOL ST PIERRE",
       "category": "AWBB MM - POULE A",
-      "location": "RB UNION LIEGE",
+      "location": "RB UNION LIEGE (+ 5)",
       "other": ""
     },
     {
@@ -20,7 +20,7 @@
       "date": "2026-08-22",
       "time": "20:30",
       "team1": "R LINTHOUT BC A",
-      "team2": "RB UNION LIEGE",
+      "team2": "RB UNION LIEGE (+ 8)",
       "category": "AWBB MM - POULE A",
       "location": "R LINTHOUT BC A",
       "other": ""
@@ -138,7 +138,7 @@
     {
       "code": "401157",
       "date": "2026-12-12",
-      "time": "18:30",
+      "time": "20:30",
       "team1": "RB UNION LIEGE A",
       "team2": "RBC STAVELOT A",
       "category": "MM - DIVISION 1",
@@ -398,7 +398,7 @@
     {
       "code": "405157",
       "date": "2026-12-12",
-      "time": "20:30",
+      "time": "18:30",
       "team1": "RB UNION LIEGE B",
       "team2": "RBC VISE C",
       "category": "MM - DIVISION 3 B",
@@ -553,6 +553,16 @@
       "team2": "RB UNION LIEGE B",
       "category": "PROVINCIALE MM - POULE F",
       "location": "BC COINTE B",
+      "other": ""
+    },
+    {
+      "code": "806005",
+      "date": "2026-08-29",
+      "time": "19:00",
+      "team1": "RBC STAVELOT A",
+      "team2": "RB UNION LIEGE B (+ 10)",
+      "category": "PROVINCIALE MM - POULE F",
+      "location": "RBC STAVELOT A",
       "other": ""
     }
   ]

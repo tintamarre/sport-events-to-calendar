@@ -17,8 +17,8 @@
     },
     {
       "code": "406014",
-      "date": "2026-09-06",
-      "time": "13:00",
+      "date": "2026-09-05",
+      "time": "17:00",
       "team1": "CRISTAL SGH B",
       "team2": "BBC EUPEN A",
       "category": "MM - DIVISION 3 C",
@@ -206,6 +206,16 @@
       "other": ""
     },
     {
+      "code": "406281",
+      "date": "2027-02-27",
+      "time": "20:00",
+      "team1": "R.UN.BELLAIRE B",
+      "team2": "BBC EUPEN A",
+      "category": "MM - DIVISION 3 C",
+      "location": "R.UN.BELLAIRE B",
+      "other": ""
+    },
+    {
       "code": "406276",
       "date": "2027-03-05",
       "time": "21:00",
@@ -213,16 +223,6 @@
       "team2": "BC SANKT VITH",
       "category": "MM - DIVISION 3 C",
       "location": "BBC EUPEN A",
-      "other": ""
-    },
-    {
-      "code": "406281",
-      "date": "2027-03-13",
-      "time": "20:00",
-      "team1": "R.UN.BELLAIRE B",
-      "team2": "BBC EUPEN A",
-      "category": "MM - DIVISION 3 C",
-      "location": "R.UN.BELLAIRE B",
       "other": ""
     },
     {
@@ -247,8 +247,8 @@
     },
     {
       "code": "406323",
-      "date": "2027-04-10",
-      "time": "21:00",
+      "date": "2027-04-11",
+      "time": "13:00",
       "team1": "RABC ENSIVAL C",
       "team2": "BBC EUPEN A",
       "category": "MM - DIVISION 3 C",
@@ -796,16 +796,6 @@
       "other": ""
     },
     {
-      "code": "506192",
-      "date": "2027-01-09",
-      "time": "14:30",
-      "team1": "HENRI-CHAPELLE C",
-      "team2": "BBC EUPEN",
-      "category": "U 12 - MM G",
-      "location": "HENRI-CHAPELLE C",
-      "other": ""
-    },
-    {
       "code": "506206",
       "date": "2027-01-16",
       "time": "12:00",
@@ -863,6 +853,16 @@
       "team2": "BBC EUPEN",
       "category": "U 12 - MM G",
       "location": "RBC DISON-ANDRIMONT B",
+      "other": ""
+    },
+    {
+      "code": "506192",
+      "date": "2027-02-27",
+      "time": "14:30",
+      "team1": "HENRI-CHAPELLE C",
+      "team2": "BBC EUPEN",
+      "category": "U 12 - MM G",
+      "location": "HENRI-CHAPELLE C",
       "other": ""
     },
     {
@@ -927,8 +927,8 @@
     },
     {
       "code": "492066",
-      "date": "2026-10-11",
-      "time": "9:00",
+      "date": "2026-10-10",
+      "time": "16:45",
       "team1": "RBC ALLEUR B",
       "team2": "BBC EUPEN",
       "category": "U 14 - PROV MM C",
@@ -1288,7 +1288,7 @@
     {
       "code": "441104",
       "date": "2026-11-07",
-      "time": "13:00",
+      "time": "17:00",
       "team1": "CRISTAL SGH",
       "team2": "BBC EUPEN",
       "category": "U 18 - PROV MM B",
@@ -1386,16 +1386,6 @@
       "other": ""
     },
     {
-      "code": "441235",
-      "date": "2027-02-06",
-      "time": "16:30",
-      "team1": "BCM HERSTAL",
-      "team2": "BBC EUPEN",
-      "category": "U 18 - PROV MM B",
-      "location": "BCM HERSTAL",
-      "other": ""
-    },
-    {
       "code": "441243",
       "date": "2027-02-14",
       "time": "13:00",
@@ -1403,6 +1393,16 @@
       "team2": "BBC EUPEN",
       "category": "U 18 - PROV MM B",
       "location": "RABC ENSIVAL",
+      "other": ""
+    },
+    {
+      "code": "441235",
+      "date": "2027-03-06",
+      "time": "12:30",
+      "team1": "BCM HERSTAL",
+      "team2": "BBC EUPEN",
+      "category": "U 18 - PROV MM B",
+      "location": "BCM HERSTAL",
       "other": ""
     },
     {
@@ -1448,7 +1448,7 @@
     {
       "code": "420013",
       "date": "2026-09-06",
-      "time": "15:00",
+      "time": "17:00",
       "team1": "ROYAL ANS BC",
       "team2": "BBC EUPEN",
       "category": "U 21 - MM",
@@ -1717,7 +1717,7 @@
     },
     {
       "code": "420328",
-      "date": "2027-04-11",
+      "date": "2027-04-10",
       "time": "12:00",
       "team1": "BBC EUPEN",
       "team2": "R 4A AYWAILLE-HAMOIR",
@@ -1737,8 +1737,8 @@
     },
     {
       "code": "420348",
-      "date": "2027-04-25",
-      "time": "12:00",
+      "date": "2027-04-24",
+      "time": "16:00",
       "team1": "BBC EUPEN",
       "team2": "RBC AWANS",
       "category": "U 21 - MM",

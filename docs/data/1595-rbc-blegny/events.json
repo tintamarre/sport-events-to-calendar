@@ -188,7 +188,7 @@
     {
       "code": "413246",
       "date": "2027-02-14",
-      "time": "13:00",
+      "time": "17:00",
       "team1": "RBC ALLEUR C",
       "team2": "RBC BLEGNY A",
       "category": "DD - DIVISION 1",
@@ -197,8 +197,8 @@
     },
     {
       "code": "413254",
-      "date": "2027-02-20",
-      "time": "17:00",
+      "date": "2027-02-21",
+      "time": "11:00",
       "team1": "RABC ENSIVAL",
       "team2": "RBC BLEGNY A",
       "category": "DD - DIVISION 1",
@@ -248,7 +248,7 @@
     {
       "code": "413324",
       "date": "2027-04-10",
-      "time": "21:00",
+      "time": "19:30",
       "team1": "RBC CROATIA OUPEYE",
       "team2": "RBC BLEGNY A",
       "category": "DD - DIVISION 1",
@@ -388,7 +388,7 @@
     {
       "code": "414154",
       "date": "2026-12-13",
-      "time": "14:00",
+      "time": "16:00",
       "team1": "PRAYON TROOZ B",
       "team2": "RBC BLEGNY B",
       "category": "DD - DIVISION 2 A",
@@ -507,8 +507,8 @@
     },
     {
       "code": "414327",
-      "date": "2027-04-11",
-      "time": "15:00",
+      "date": "2027-04-10",
+      "time": "19:00",
       "team1": "BC SPRIMONT B",
       "team2": "RBC BLEGNY B",
       "category": "DD - DIVISION 2 A",
@@ -958,7 +958,7 @@
     {
       "code": "405333",
       "date": "2027-04-17",
-      "time": "21:00",
+      "time": "17:00",
       "team1": "BC COINTE B",
       "team2": "RBC BLEGNY B",
       "category": "MM - DIVISION 3 B",
@@ -1267,8 +1267,8 @@
     },
     {
       "code": "410063",
-      "date": "2026-10-09",
-      "time": "20:30",
+      "date": "2026-10-10",
+      "time": "19:00",
       "team1": "RBC ALLEUR E",
       "team2": "RBC BLEGNY C",
       "category": "MM - DIVISION 4 D",
@@ -1466,6 +1466,16 @@
       "other": ""
     },
     {
+      "code": "908004",
+      "date": "2026-08-22",
+      "time": "19:00",
+      "team1": "ATLAS A JUPILLE B (+ 10)",
+      "team2": "RBC BLEGNY A",
+      "category": "PROVINCIALE DD - POULE H",
+      "location": "ATLAS A JUPILLE B (+ 10)",
+      "other": ""
+    },
+    {
       "code": "908005",
       "date": "2026-08-29",
       "time": "20:00",
@@ -1487,12 +1497,22 @@
     },
     {
       "code": "909003",
-      "date": "2026-08-27",
+      "date": "2026-08-22",
       "time": "20:30",
       "team1": "RBC BLEGNY B",
       "team2": "BC VERLAINE B (+ 5)",
       "category": "PROVINCIALE DD - POULE I",
       "location": "RBC BLEGNY B",
+      "other": ""
+    },
+    {
+      "code": "909005",
+      "date": "2026-08-30",
+      "time": "13:00",
+      "team1": "ATLAS A JUPILLE A",
+      "team2": "RBC BLEGNY B (+ 5)",
+      "category": "PROVINCIALE DD - POULE I",
+      "location": "ATLAS A JUPILLE A",
       "other": ""
     },
     {
@@ -1513,6 +1533,16 @@
       "team2": "RBC BLEGNY C",
       "category": "PROVINCIALE MM - POULE EE",
       "location": "RABC ENSIVAL D",
+      "other": ""
+    },
+    {
+      "code": "815001",
+      "date": "2026-08-14",
+      "time": "20:00",
+      "team1": "ATLAS A JUPILLE B",
+      "team2": "RBC BLEGNY B (+ 10)",
+      "category": "PROVINCIALE MM - POULE O",
+      "location": "ATLAS A JUPILLE B",
       "other": ""
     },
     {
@@ -2836,6 +2866,16 @@
       "other": ""
     },
     {
+      "code": "580107",
+      "date": "2026-09-27",
+      "time": "11:00",
+      "team1": "ROYAL HERVE-BATTICE",
+      "team2": "RBC BLEGNY",
+      "category": "U 19 - DD",
+      "location": "ROYAL HERVE-BATTICE",
+      "other": ""
+    },
+    {
       "code": "580051",
       "date": "2026-10-03",
       "time": "17:00",
@@ -2883,16 +2923,6 @@
       "team2": "RBC ESNEUX",
       "category": "U 19 - DD",
       "location": "RBC BLEGNY",
-      "other": ""
-    },
-    {
-      "code": "580107",
-      "date": "2026-11-08",
-      "time": "9:00",
-      "team1": "ROYAL HERVE-BATTICE",
-      "team2": "RBC BLEGNY",
-      "category": "U 19 - DD",
-      "location": "ROYAL HERVE-BATTICE",
       "other": ""
     },
     {
@@ -3018,7 +3048,7 @@
     {
       "code": "580256",
       "date": "2027-02-20",
-      "time": "13:00",
+      "time": "15:00",
       "team1": "PRAYON TROOZ",
       "team2": "RBC BLEGNY",
       "category": "U 19 - DD",

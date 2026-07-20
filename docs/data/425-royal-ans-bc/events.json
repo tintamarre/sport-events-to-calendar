@@ -6,6 +6,16 @@
   },
   "events": [
     {
+      "code": "762007",
+      "date": "2026-08-29",
+      "time": "16:00",
+      "team1": "ROYAL BC NINANE",
+      "team2": "ROYAL ANS BC",
+      "category": "CPE PROV CADETS",
+      "location": "ROYAL BC NINANE",
+      "other": ""
+    },
+    {
       "code": "761006",
       "date": "2026-11-01",
       "time": "10:00",
@@ -47,8 +57,8 @@
     },
     {
       "code": "415033",
-      "date": "2026-09-27",
-      "time": "13:00",
+      "date": "2026-09-26",
+      "time": "20:00",
       "team1": "ROYAL ANS BC",
       "team2": "RBC STAVELOT",
       "category": "DD - DIVISION 2 B",
@@ -366,6 +376,16 @@
       "other": ""
     },
     {
+      "code": "408243",
+      "date": "2026-11-29",
+      "time": "15:00",
+      "team1": "ROYAL ANS BC A",
+      "team2": "RBC DISON-ANDRIMONT C",
+      "category": "MM - DIVISION 4 B",
+      "location": "ROYAL ANS BC A",
+      "other": ""
+    },
+    {
       "code": "408143",
       "date": "2026-12-05",
       "time": "21:00",
@@ -411,16 +431,6 @@
       "time": "15:00",
       "team1": "ROYAL ANS BC A",
       "team2": "CS OUTREMEUSE",
-      "category": "MM - DIVISION 4 B",
-      "location": "ROYAL ANS BC A",
-      "other": ""
-    },
-    {
-      "code": "408243",
-      "date": "2027-02-14",
-      "time": "15:00",
-      "team1": "ROYAL ANS BC A",
-      "team2": "RBC DISON-ANDRIMONT C",
       "category": "MM - DIVISION 4 B",
       "location": "ROYAL ANS BC A",
       "other": ""
@@ -1418,7 +1428,7 @@
     {
       "code": "505103",
       "date": "2026-11-07",
-      "time": "9:00",
+      "time": "10:45",
       "team1": "ROYAL ANS BC B",
       "team2": "HENRI-CHAPELLE B",
       "category": "U 12 - MM F",
@@ -1428,7 +1438,7 @@
     {
       "code": "505114",
       "date": "2026-11-14",
-      "time": "15:30",
+      "time": "13:00",
       "team1": "CRISTAL SGH C",
       "team2": "ROYAL ANS BC B",
       "category": "U 12 - MM F",
@@ -1447,8 +1457,8 @@
     },
     {
       "code": "505145",
-      "date": "2026-12-06",
-      "time": "10:30",
+      "date": "2026-12-05",
+      "time": "15:00",
       "team1": "PRAYON TROOZ B",
       "team2": "ROYAL ANS BC B",
       "category": "U 12 - MM F",
@@ -1757,7 +1767,7 @@
     },
     {
       "code": "481333",
-      "date": "2027-04-17",
+      "date": "2027-04-18",
       "time": "9:00",
       "team1": "BC SPRIMONT A",
       "team2": "ROYAL ANS BC",
@@ -1768,7 +1778,7 @@
     {
       "code": "471013",
       "date": "2026-09-06",
-      "time": "17:00",
+      "time": "15:00",
       "team1": "ROYAL ANS BC",
       "team2": "R 4A AYWAILLE-HAMOIR",
       "category": "U 16 - PROV MM B",
@@ -1938,7 +1948,7 @@
     {
       "code": "440023",
       "date": "2026-09-13",
-      "time": "13:00",
+      "time": "15:00",
       "team1": "ROYAL ANS BC",
       "team2": "ALL. FLEMALLE C",
       "category": "U 18 - PROV MM A",
@@ -2088,7 +2098,7 @@
     {
       "code": "420013",
       "date": "2026-09-06",
-      "time": "15:00",
+      "time": "17:00",
       "team1": "ROYAL ANS BC",
       "team2": "BBC EUPEN",
       "category": "U 21 - MM",
@@ -2378,7 +2388,7 @@
     {
       "code": "420343",
       "date": "2027-04-25",
-      "time": "15:00",
+      "time": "17:00",
       "team1": "ROYAL ANS BC",
       "team2": "MARCHIN BASKET",
       "category": "U 21 - MM",
@@ -2586,16 +2596,6 @@
       "other": ""
     },
     {
-      "code": "542023",
-      "date": "2026-09-12",
-      "time": "10:45",
-      "team1": "ROYAL ANS BC",
-      "team2": "BC CRISNEE",
-      "category": "U 8 - MM C",
-      "location": "ROYAL ANS BC",
-      "other": ""
-    },
-    {
       "code": "542031",
       "date": "2026-09-19",
       "time": "9:00",
@@ -2623,6 +2623,16 @@
       "team2": "ROYAL ANS BC",
       "category": "U 8 - MM C",
       "location": "ABC WAREMME A",
+      "other": ""
+    },
+    {
+      "code": "542023",
+      "date": "2026-11-07",
+      "time": "9:00",
+      "team1": "ROYAL ANS BC",
+      "team2": "BC CRISNEE",
+      "category": "U 8 - MM C",
+      "location": "ROYAL ANS BC",
       "other": ""
     },
     {
@@ -2718,7 +2728,7 @@
     {
       "code": "542283",
       "date": "2027-03-13",
-      "time": "10:45",
+      "time": "9:00",
       "team1": "ROYAL ANS BC",
       "team2": "CRISTAL SGH A",
       "category": "U 8 - MM C",
@@ -2748,7 +2758,7 @@
     {
       "code": "542323",
       "date": "2027-04-10",
-      "time": "10:45",
+      "time": "9:00",
       "team1": "ROYAL ANS BC",
       "team2": "ROYAL BC NINANE",
       "category": "U 8 - MM C",

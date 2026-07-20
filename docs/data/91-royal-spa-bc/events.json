@@ -10,7 +10,7 @@
       "date": "2026-08-16",
       "time": "15:00",
       "team1": "ROYAL SPA BC",
-      "team2": "REBC TEMPLEUVE",
+      "team2": "REBC TEMPLEUVE (+ 8)",
       "category": "AWBB DD - POULE N",
       "location": "ROYAL SPA BC",
       "other": ""
@@ -20,7 +20,7 @@
       "date": "2026-08-29",
       "time": "18:30",
       "team1": "RBC ALLEUR A",
-      "team2": "ROYAL SPA BC",
+      "team2": "ROYAL SPA BC (+ 8)",
       "category": "AWBB DD - POULE N",
       "location": "RBC ALLEUR A",
       "other": ""
@@ -29,20 +29,20 @@
       "code": "AW203001",
       "date": "2026-08-14",
       "time": "21:00",
-      "team1": "ETOILE JUPILLE",
+      "team1": "ETOILE JUPILLE (+ 5)",
       "team2": "ROYAL SPA BC",
       "category": "AWBB MM - POULE C",
-      "location": "ETOILE JUPILLE",
+      "location": "ETOILE JUPILLE (+ 5)",
       "other": ""
     },
     {
       "code": "AW203003",
       "date": "2026-08-22",
       "time": "19:00",
-      "team1": "ALL. FLEMALLE",
+      "team1": "ALL. FLEMALLE (+ 5)",
       "team2": "ROYAL SPA BC",
       "category": "AWBB MM - POULE C",
-      "location": "ALL. FLEMALLE",
+      "location": "ALL. FLEMALLE (+ 5)",
       "other": ""
     },
     {
@@ -53,6 +53,16 @@
       "team2": "BC SAINT-HUBERT A",
       "category": "AWBB MM - POULE C",
       "location": "ROYAL SPA BC",
+      "other": ""
+    },
+    {
+      "code": "762022",
+      "date": "2026-09-26",
+      "time": "13:00",
+      "team1": "RBC STAVELOT",
+      "team2": "ROYAL SPA BC",
+      "category": "CPE PROV CADETS",
+      "location": "RBC STAVELOT",
       "other": ""
     },
     {
@@ -468,7 +478,7 @@
     {
       "code": "402014",
       "date": "2026-09-06",
-      "time": "11:00",
+      "time": "10:00",
       "team1": "VAIL. JUPILLE A",
       "team2": "ROYAL SPA BC C",
       "category": "MM - DIVISION 2 A",
@@ -647,7 +657,7 @@
     },
     {
       "code": "402255",
-      "date": "2027-02-21",
+      "date": "2027-02-28",
       "time": "11:30",
       "team1": "ROYAL MOSA AC 1941 A",
       "team2": "ROYAL SPA BC C",
@@ -707,8 +717,8 @@
     },
     {
       "code": "402336",
-      "date": "2027-04-17",
-      "time": "21:00",
+      "date": "2027-04-18",
+      "time": "15:00",
       "team1": "ROYAL SPA BC C",
       "team2": "PEPINSTER EAST BELG C",
       "category": "MM - DIVISION 2 A",
@@ -867,8 +877,8 @@
     },
     {
       "code": "403201",
-      "date": "2027-01-16",
-      "time": "19:00",
+      "date": "2027-01-17",
+      "time": "16:00",
       "team1": "ROYAL SPA BC B",
       "team2": "HARIMALIA BC A",
       "category": "MM - DIVISION 2 B",
@@ -967,8 +977,8 @@
     },
     {
       "code": "403337",
-      "date": "2027-04-17",
-      "time": "17:00",
+      "date": "2027-04-18",
+      "time": "13:00",
       "team1": "BC SPRIMONT C",
       "team2": "ROYAL SPA BC B",
       "category": "MM - DIVISION 2 B",
@@ -1218,7 +1228,7 @@
     {
       "code": "412024",
       "date": "2026-09-12",
-      "time": "17:00",
+      "time": "17:30",
       "team1": "CRISTAL SGH D",
       "team2": "ROYAL SPA BC E",
       "category": "MM - DIVISION 4 F",
@@ -3027,8 +3037,8 @@
     },
     {
       "code": "450336",
-      "date": "2027-04-17",
-      "time": "17:00",
+      "date": "2027-04-18",
+      "time": "09:00",
       "team1": "BC SPRIMONT",
       "team2": "ROYAL SPA BC A",
       "category": "U 16 - ELITES MM A",
@@ -4226,16 +4236,6 @@
       "other": ""
     },
     {
-      "code": "541103",
-      "date": "2026-11-08",
-      "time": "09:00",
-      "team1": "PRAYON TROOZ",
-      "team2": "ROYAL SPA BC B",
-      "category": "U 8 - MM B",
-      "location": "PRAYON TROOZ",
-      "other": ""
-    },
-    {
       "code": "541111",
       "date": "2026-11-14",
       "time": "10:00",
@@ -4253,6 +4253,16 @@
       "team2": "ROYAL SPA BC B",
       "category": "U 8 - MM B",
       "location": "ROYAL MOSA AC 1941",
+      "other": ""
+    },
+    {
+      "code": "541103",
+      "date": "2026-11-28",
+      "time": "09:00",
+      "team1": "PRAYON TROOZ",
+      "team2": "ROYAL SPA BC B",
+      "category": "U 8 - MM B",
+      "location": "PRAYON TROOZ",
       "other": ""
     },
     {

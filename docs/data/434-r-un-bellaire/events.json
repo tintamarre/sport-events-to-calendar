@@ -9,10 +9,10 @@
       "code": "AW229001",
       "date": "2026-08-15",
       "time": "18:00",
-      "team1": "R.UN.BELLAIRE",
+      "team1": "R.UN.BELLAIRE (+ 10)",
       "team2": "LIEGE PANTHERS B",
       "category": "AWBB DD - POULE I",
-      "location": "R.UN.BELLAIRE",
+      "location": "R.UN.BELLAIRE (+ 10)",
       "other": ""
     },
     {
@@ -20,7 +20,7 @@
       "date": "2026-08-23",
       "time": "13:00",
       "team1": "BC BONINNE B",
-      "team2": "R.UN.BELLAIRE",
+      "team2": "R.UN.BELLAIRE (+ 8)",
       "category": "AWBB DD - POULE I",
       "location": "BC BONINNE B",
       "other": ""
@@ -29,10 +29,10 @@
       "code": "AW229005",
       "date": "2026-08-29",
       "time": "18:00",
-      "team1": "R.UN.BELLAIRE",
+      "team1": "R.UN.BELLAIRE (+ 5)",
       "team2": "ROYAL BC CINEY B",
       "category": "AWBB DD - POULE I",
-      "location": "R.UN.BELLAIRE",
+      "location": "R.UN.BELLAIRE (+ 5)",
       "other": ""
     },
     {
@@ -217,8 +217,8 @@
     },
     {
       "code": "413253",
-      "date": "2027-02-21",
-      "time": "15:00",
+      "date": "2027-02-20",
+      "time": "18:00",
       "team1": "R.UN.BELLAIRE A",
       "team2": "HANNUT BC",
       "category": "DD - DIVISION 1",
@@ -297,8 +297,8 @@
     },
     {
       "code": "414011",
-      "date": "2026-09-05",
-      "time": "18:00",
+      "date": "2026-09-06",
+      "time": "13:00",
       "team1": "R.UN.BELLAIRE B",
       "team2": "ALL. FLEMALLE A",
       "category": "DD - DIVISION 2 A",
@@ -327,8 +327,8 @@
     },
     {
       "code": "414055",
-      "date": "2026-10-02",
-      "time": "20:30",
+      "date": "2026-10-03",
+      "time": "19:30",
       "team1": "CRISTAL SGH A",
       "team2": "R.UN.BELLAIRE B",
       "category": "DD - DIVISION 2 A",
@@ -467,8 +467,8 @@
     },
     {
       "code": "414251",
-      "date": "2027-02-21",
-      "time": "13:00",
+      "date": "2027-02-20",
+      "time": "20:00",
       "team1": "R.UN.BELLAIRE B",
       "team2": "PRAYON TROOZ B",
       "category": "DD - DIVISION 2 A",
@@ -508,7 +508,7 @@
     {
       "code": "414306",
       "date": "2027-03-27",
-      "time": "21:00",
+      "time": "19:00",
       "team1": "ROYAL HERVE-BATTICE D",
       "team2": "R.UN.BELLAIRE B",
       "category": "DD - DIVISION 2 A",
@@ -557,8 +557,8 @@
     },
     {
       "code": "403203",
-      "date": "2026-09-04",
-      "time": "20:15",
+      "date": "2026-09-06",
+      "time": "15:00",
       "team1": "R.UN.BELLAIRE A",
       "team2": "R 4A AYWAILLE-HAMOIR A",
       "category": "MM - DIVISION 2 B",
@@ -577,8 +577,8 @@
     },
     {
       "code": "403033",
-      "date": "2026-09-18",
-      "time": "20:15",
+      "date": "2026-09-20",
+      "time": "15:00",
       "team1": "R.UN.BELLAIRE A",
       "team2": "RBC AWANS A",
       "category": "MM - DIVISION 2 B",
@@ -827,8 +827,8 @@
     },
     {
       "code": "406024",
-      "date": "2026-09-13",
-      "time": "13:00",
+      "date": "2026-09-12",
+      "time": "17:00",
       "team1": "CRISTAL SGH B",
       "team2": "R.UN.BELLAIRE B",
       "category": "MM - DIVISION 3 C",
@@ -1006,6 +1006,16 @@
       "other": ""
     },
     {
+      "code": "406281",
+      "date": "2027-02-27",
+      "time": "20:00",
+      "team1": "R.UN.BELLAIRE B",
+      "team2": "BBC EUPEN A",
+      "category": "MM - DIVISION 3 C",
+      "location": "R.UN.BELLAIRE B",
+      "other": ""
+    },
+    {
       "code": "406274",
       "date": "2027-03-07",
       "time": "12:15",
@@ -1013,16 +1023,6 @@
       "team2": "R.UN.BELLAIRE B",
       "category": "MM - DIVISION 3 C",
       "location": "RBC AUBEL",
-      "other": ""
-    },
-    {
-      "code": "406281",
-      "date": "2027-03-13",
-      "time": "20:00",
-      "team1": "R.UN.BELLAIRE B",
-      "team2": "BBC EUPEN A",
-      "category": "MM - DIVISION 3 C",
-      "location": "R.UN.BELLAIRE B",
       "other": ""
     },
     {
@@ -1056,21 +1056,21 @@
       "other": ""
     },
     {
-      "code": "406321",
-      "date": "2027-04-10",
-      "time": "18:00",
+      "code": "406341",
+      "date": "2027-04-08",
+      "time": "20:00",
       "team1": "R.UN.BELLAIRE B",
-      "team2": "RBC BLEGNY A",
+      "team2": "ROYAL BC NINANE C",
       "category": "MM - DIVISION 3 C",
       "location": "R.UN.BELLAIRE B",
       "other": ""
     },
     {
-      "code": "406341",
-      "date": "2027-04-24",
-      "time": "20:00",
+      "code": "406321",
+      "date": "2027-04-10",
+      "time": "18:00",
       "team1": "R.UN.BELLAIRE B",
-      "team2": "ROYAL BC NINANE C",
+      "team2": "RBC BLEGNY A",
       "category": "MM - DIVISION 3 C",
       "location": "R.UN.BELLAIRE B",
       "other": ""
@@ -1308,7 +1308,7 @@
     {
       "code": "411024",
       "date": "2026-09-13",
-      "time": "13:00",
+      "time": "12:00",
       "team1": "VAIL. JUPILLE C",
       "team2": "R.UN.BELLAIRE C",
       "category": "MM - DIVISION 4 E",
@@ -1516,6 +1516,16 @@
       "other": ""
     },
     {
+      "code": "905001",
+      "date": "2026-08-16",
+      "time": "13:00",
+      "team1": "R.UN.BELLAIRE A",
+      "team2": "ETOILE JUPILLE (+ 10)",
+      "category": "PROVINCIALE DD - POULE E",
+      "location": "R.UN.BELLAIRE A",
+      "other": ""
+    },
+    {
       "code": "905004",
       "date": "2026-08-22",
       "time": "17:00",
@@ -1526,6 +1536,16 @@
       "other": ""
     },
     {
+      "code": "905005",
+      "date": "2026-08-30",
+      "time": "13:00",
+      "team1": "R.UN.BELLAIRE A",
+      "team2": "HENRI-CHAPELLE B (+ 5)",
+      "category": "PROVINCIALE DD - POULE E",
+      "location": "R.UN.BELLAIRE A",
+      "other": ""
+    },
+    {
       "code": "911002",
       "date": "2026-08-15",
       "time": "19:00",
@@ -1533,6 +1553,16 @@
       "team2": "R.UN.BELLAIRE B",
       "category": "PROVINCIALE DD - POULE K",
       "location": "RBC VISE B (+ 5)",
+      "other": ""
+    },
+    {
+      "code": "911003",
+      "date": "2026-08-23",
+      "time": "13:00",
+      "team1": "R.UN.BELLAIRE B",
+      "team2": "RBC DISON-ANDRIMONT B (",
+      "category": "PROVINCIALE DD - POULE K",
+      "location": "R.UN.BELLAIRE B",
       "other": ""
     },
     {
@@ -1556,6 +1586,16 @@
       "other": ""
     },
     {
+      "code": "830005",
+      "date": "2026-08-28",
+      "time": "20:15",
+      "team1": "R.UN.BELLAIRE A",
+      "team2": "RJS GRIVEGNEE (+ 5)",
+      "category": "PROVINCIALE MM - POULE DD",
+      "location": "R.UN.BELLAIRE A",
+      "other": ""
+    },
+    {
       "code": "814002",
       "date": "2026-08-15",
       "time": "19:00",
@@ -1563,6 +1603,16 @@
       "team2": "R.UN.BELLAIRE B",
       "category": "PROVINCIALE MM - POULE N",
       "location": "R 4A AYWAILLE-HAMOIR B",
+      "other": ""
+    },
+    {
+      "code": "814003",
+      "date": "2026-08-22",
+      "time": "20:00",
+      "team1": "R.UN.BELLAIRE B",
+      "team2": "BCM HERSTAL B (+ 5)",
+      "category": "PROVINCIALE MM - POULE N",
+      "location": "R.UN.BELLAIRE B",
       "other": ""
     },
     {
@@ -1576,6 +1626,16 @@
       "other": ""
     },
     {
+      "code": "816003",
+      "date": "2026-08-23",
+      "time": "11:00",
+      "team1": "R.UN.BELLAIRE C (+ 5)",
+      "team2": "BC BELLEFLAMME D",
+      "category": "PROVINCIALE MM - POULE P",
+      "location": "R.UN.BELLAIRE C (+ 5)",
+      "other": ""
+    },
+    {
       "code": "816005",
       "date": "2026-08-29",
       "time": "20:00",
@@ -1583,6 +1643,16 @@
       "team2": "R.UN.BELLAIRE C (+ 10)",
       "category": "PROVINCIALE MM - POULE P",
       "location": "VAIL. JUPILLE A",
+      "other": ""
+    },
+    {
+      "code": "911003",
+      "date": "2026-08-23",
+      "time": "13:00",
+      "team1": "R.UN.BELLAIRE B",
+      "team2": "RBC DISON-ANDRIMONT B (+ 5)",
+      "category": "RBC DISON-ANDRIMONT B (+ 5)",
+      "location": "R.UN.BELLAIRE B",
       "other": ""
     },
     {
@@ -1928,7 +1998,7 @@
     {
       "code": "526295",
       "date": "2027-03-21",
-      "time": "9:00",
+      "time": "10:30",
       "team1": "PRAYON TROOZ",
       "team2": "R.UN.BELLAIRE B",
       "category": "U 10 - MM G",
@@ -2098,7 +2168,7 @@
     {
       "code": "505284",
       "date": "2027-03-13",
-      "time": "15:30",
+      "time": "15:00",
       "team1": "CRISTAL SGH C",
       "team2": "R.UN.BELLAIRE",
       "category": "U 12 - MM F",
@@ -2306,6 +2376,16 @@
       "other": ""
     },
     {
+      "code": "470336",
+      "date": "2027-03-27",
+      "time": "15:00",
+      "team1": "RBC DISON-ANDRIMONT",
+      "team2": "R.UN.BELLAIRE",
+      "category": "U 16 - PROV MM A",
+      "location": "RBC DISON-ANDRIMONT",
+      "other": ""
+    },
+    {
       "code": "470321",
       "date": "2027-04-10",
       "time": "14:00",
@@ -2313,16 +2393,6 @@
       "team2": "PRAYON TROOZ",
       "category": "U 16 - PROV MM A",
       "location": "R.UN.BELLAIRE",
-      "other": ""
-    },
-    {
-      "code": "470336",
-      "date": "2027-04-17",
-      "time": "11:00",
-      "team1": "RBC DISON-ANDRIMONT",
-      "team2": "R.UN.BELLAIRE",
-      "category": "U 16 - PROV MM A",
-      "location": "RBC DISON-ANDRIMONT",
       "other": ""
     },
     {
@@ -2498,7 +2568,7 @@
     {
       "code": "441301",
       "date": "2027-03-27",
-      "time": "16:00",
+      "time": "12:00",
       "team1": "R.UN.BELLAIRE",
       "team2": "RBC AWANS",
       "category": "U 18 - PROV MM B",
@@ -2667,8 +2737,8 @@
     },
     {
       "code": "543295",
-      "date": "2027-03-20",
-      "time": "12:00",
+      "date": "2027-03-21",
+      "time": "9:00",
       "team1": "BC SPRIMONT A",
       "team2": "R.UN.BELLAIRE",
       "category": "U 8 - MM D",

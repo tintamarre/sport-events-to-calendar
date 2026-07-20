@@ -10,7 +10,7 @@
       "date": "2026-08-16",
       "time": "15:00",
       "team1": "ROYAL HERVE-BATTICE B",
-      "team2": "ABC WAREMME",
+      "team2": "ABC WAREMME (+ 8)",
       "category": "AWBB DD - POULE O",
       "location": "ROYAL HERVE-BATTICE B",
       "other": ""
@@ -19,16 +19,16 @@
       "code": "AW235003",
       "date": "2026-08-22",
       "time": "19:00",
-      "team1": "ABC WAREMME",
+      "team1": "ABC WAREMME (+ 10)",
       "team2": "BCCA NEUFCHATEAU",
       "category": "AWBB DD - POULE O",
-      "location": "ABC WAREMME",
+      "location": "ABC WAREMME (+ 10)",
       "other": ""
     },
     {
       "code": "AW216001",
-      "date": "2026-08-15",
-      "time": "17:00",
+      "date": "2026-08-22",
+      "time": "21:00",
       "team1": "ABC WAREMME",
       "team2": "ROYAL GALLIA BEEZ B",
       "category": "AWBB MM - POULE P",
@@ -40,7 +40,7 @@
       "date": "2026-08-28",
       "time": "21:00",
       "team1": "ESL UNITED B",
-      "team2": "ABC WAREMME",
+      "team2": "ABC WAREMME (+ 8)",
       "category": "AWBB MM - POULE P",
       "location": "ESL UNITED B",
       "other": ""
@@ -377,8 +377,8 @@
     },
     {
       "code": "414074",
-      "date": "2026-10-18",
-      "time": "14:00",
+      "date": "2026-10-17",
+      "time": "17:00",
       "team1": "PRAYON TROOZ B",
       "team2": "ABC WAREMME B",
       "category": "DD - DIVISION 2 A",
@@ -1178,7 +1178,7 @@
     {
       "code": "403194",
       "date": "2027-01-09",
-      "time": "18:30",
+      "time": "18:45",
       "team1": "RBC ALLEUR B",
       "team2": "ABC WAREMME B",
       "category": "MM - DIVISION 2 B",
@@ -2058,7 +2058,7 @@
     {
       "code": "527163",
       "date": "2026-12-19",
-      "time": "14:45",
+      "time": "10:45",
       "team1": "RBC ALLEUR B",
       "team2": "ABC WAREMME C",
       "category": "U 10 - MM H",
@@ -2408,7 +2408,7 @@
     {
       "code": "503121",
       "date": "2026-11-22",
-      "time": "15:30",
+      "time": "10:30",
       "team1": "BC SPRIMONT B",
       "team2": "ABC WAREMME B",
       "category": "U 12 - MM D",
@@ -2578,7 +2578,7 @@
     {
       "code": "504102",
       "date": "2026-11-07",
-      "time": "16:30",
+      "time": "14:45",
       "team1": "RBC ALLEUR A",
       "team2": "ABC WAREMME C",
       "category": "U 12 - MM E",
@@ -3867,8 +3867,8 @@
     },
     {
       "code": "430116",
-      "date": "2026-11-15",
-      "time": "11:00",
+      "date": "2026-11-14",
+      "time": "12:45",
       "team1": "RBC ALLEUR",
       "team2": "ABC WAREMME A",
       "category": "U 18 - ELITES MM A",
@@ -3887,8 +3887,8 @@
     },
     {
       "code": "430143",
-      "date": "2026-12-06",
-      "time": "15:00",
+      "date": "2026-12-05",
+      "time": "13:00",
       "team1": "ATLAS A JUPILLE",
       "team2": "ABC WAREMME A",
       "category": "U 18 - ELITES MM A",
@@ -4138,7 +4138,7 @@
     {
       "code": "431195",
       "date": "2027-01-09",
-      "time": "11:00",
+      "time": "11:30",
       "team1": "ROYAL MOSA AC 1941",
       "team2": "ABC WAREMME B",
       "category": "U 18 - ELITES MM B",
@@ -4408,7 +4408,7 @@
     {
       "code": "580106",
       "date": "2026-11-07",
-      "time": "13:00",
+      "time": "15:00",
       "team1": "PRAYON TROOZ",
       "team2": "ABC WAREMME A",
       "category": "U 19 - DD",
@@ -4526,6 +4526,16 @@
       "other": ""
     },
     {
+      "code": "580167",
+      "date": "2026-12-19",
+      "time": "13:00",
+      "team1": "LA VILLERSOISE",
+      "team2": "ABC WAREMME A",
+      "category": "U 19 - DD",
+      "location": "LA VILLERSOISE",
+      "other": ""
+    },
+    {
       "code": "580168",
       "date": "2026-12-19",
       "time": "13:00",
@@ -4533,16 +4543,6 @@
       "team2": "ROYAL HERVE-BATTICE",
       "category": "U 19 - DD",
       "location": "ABC WAREMME B",
-      "other": ""
-    },
-    {
-      "code": "580167",
-      "date": "2026-12-20",
-      "time": "9:00",
-      "team1": "LA VILLERSOISE",
-      "team2": "ABC WAREMME A",
-      "category": "U 19 - DD",
-      "location": "LA VILLERSOISE",
       "other": ""
     },
     {
@@ -4686,6 +4686,16 @@
       "other": ""
     },
     {
+      "code": "580327",
+      "date": "2027-02-28",
+      "time": "11:00",
+      "team1": "ROYAL HERVE-BATTICE",
+      "team2": "ABC WAREMME B",
+      "category": "U 19 - DD",
+      "location": "ROYAL HERVE-BATTICE",
+      "other": ""
+    },
+    {
       "code": "580278",
       "date": "2027-03-06",
       "time": "13:00",
@@ -4793,16 +4803,6 @@
       "team2": "LA VILLERSOISE",
       "category": "U 19 - DD",
       "location": "ABC WAREMME A",
-      "other": ""
-    },
-    {
-      "code": "580327",
-      "date": "2027-04-11",
-      "time": "9:00",
-      "team1": "ROYAL HERVE-BATTICE",
-      "team2": "ABC WAREMME B",
-      "category": "U 19 - DD",
-      "location": "ROYAL HERVE-BATTICE",
       "other": ""
     },
     {

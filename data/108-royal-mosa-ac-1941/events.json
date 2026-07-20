@@ -6,6 +6,16 @@
   },
   "events": [
     {
+      "code": "762020",
+      "date": "2026-09-27",
+      "time": "9:30",
+      "team1": "ROYAL MOSA AC 1941",
+      "team2": "CRISTAL SGH B",
+      "category": "CPE PROV CADETS",
+      "location": "ROYAL MOSA AC 1941",
+      "other": ""
+    },
+    {
       "code": "402016",
       "date": "2026-09-05",
       "time": "19:00",
@@ -138,7 +148,7 @@
     {
       "code": "402194",
       "date": "2027-01-10",
-      "time": "11:00",
+      "time": "10:00",
       "team1": "VAIL. JUPILLE A",
       "team2": "ROYAL MOSA AC 1941 A",
       "category": "MM - DIVISION 2 A",
@@ -187,7 +197,7 @@
     },
     {
       "code": "402255",
-      "date": "2027-02-21",
+      "date": "2027-02-28",
       "time": "11:30",
       "team1": "ROYAL MOSA AC 1941 A",
       "team2": "ROYAL SPA BC C",
@@ -227,7 +237,7 @@
     },
     {
       "code": "402305",
-      "date": "2027-03-28",
+      "date": "2027-04-04",
       "time": "11:30",
       "team1": "ROYAL MOSA AC 1941 A",
       "team2": "RBC VISE A",
@@ -268,7 +278,7 @@
     {
       "code": "408016",
       "date": "2026-09-06",
-      "time": "11:00",
+      "time": "13:00",
       "team1": "R REN. MONTEGNEE",
       "team2": "ROYAL MOSA AC 1941 B",
       "category": "MM - DIVISION 4 B",
@@ -288,11 +298,11 @@
     {
       "code": "408055",
       "date": "2026-10-04",
-      "time": "13:30",
-      "team1": "ROYAL MOSA AC 1941 B",
-      "team2": "BC TORES LIEGE",
+      "time": "15:00",
+      "team1": "BC TORES LIEGE",
+      "team2": "ROYAL MOSA AC 1941 B",
       "category": "MM - DIVISION 4 B",
-      "location": "ROYAL MOSA AC 1941 B",
+      "location": "BC TORES LIEGE",
       "other": ""
     },
     {
@@ -323,16 +333,6 @@
       "team2": "ROYAL MOSA AC 1941 B",
       "category": "MM - DIVISION 4 B",
       "location": "ROYAL ANS BC A",
-      "other": ""
-    },
-    {
-      "code": "408116",
-      "date": "2026-11-14",
-      "time": "21:00",
-      "team1": "RBC DISON-ANDRIMONT C",
-      "team2": "ROYAL MOSA AC 1941 B",
-      "category": "MM - DIVISION 4 B",
-      "location": "RBC DISON-ANDRIMONT C",
       "other": ""
     },
     {
@@ -408,17 +408,17 @@
     {
       "code": "408241",
       "date": "2027-02-14",
-      "time": "15:00",
-      "team1": "BC TORES LIEGE",
-      "team2": "ROYAL MOSA AC 1941 B",
+      "time": "11:30",
+      "team1": "ROYAL MOSA AC 1941 B",
+      "team2": "BC TORES LIEGE",
       "category": "MM - DIVISION 4 B",
-      "location": "BC TORES LIEGE",
+      "location": "ROYAL MOSA AC 1941 B",
       "other": ""
     },
     {
       "code": "408255",
       "date": "2027-02-21",
-      "time": "13:30",
+      "time": "11:30",
       "team1": "ROYAL MOSA AC 1941 B",
       "team2": "RBC DISON-ANDRIMONT C",
       "category": "MM - DIVISION 4 B",
@@ -456,6 +456,16 @@
       "other": ""
     },
     {
+      "code": "408116",
+      "date": "2027-04-04",
+      "time": "17:00",
+      "team1": "RBC DISON-ANDRIMONT C",
+      "team2": "ROYAL MOSA AC 1941 B",
+      "category": "MM - DIVISION 4 B",
+      "location": "RBC DISON-ANDRIMONT C",
+      "other": ""
+    },
+    {
       "code": "408321",
       "date": "2027-04-11",
       "time": "9:45",
@@ -486,6 +496,26 @@
       "other": ""
     },
     {
+      "code": "815002",
+      "date": "2026-08-16",
+      "time": "13:30",
+      "team1": "ROYAL MOSA AC 1941 B",
+      "team2": "PEPINSTER EAST BELG D",
+      "category": "PROVINCIALE MM - POULE O",
+      "location": "ROYAL MOSA AC 1941 B",
+      "other": ""
+    },
+    {
+      "code": "815004",
+      "date": "2026-08-23",
+      "time": "11:30",
+      "team1": "ROYAL MOSA AC 1941 B (+",
+      "team2": "ATLAS A JUPILLE B",
+      "category": "PROVINCIALE MM - POULE O",
+      "location": "ROYAL MOSA AC 1941 B (+",
+      "other": ""
+    },
+    {
       "code": "815006",
       "date": "2026-08-28",
       "time": "20:00",
@@ -503,6 +533,16 @@
       "team2": "ROYAL MOSA AC 1941 A",
       "category": "PROVINCIALE MM - POULE T",
       "location": "ETOILE JUPILLE C (+ 10)",
+      "other": ""
+    },
+    {
+      "code": "820005",
+      "date": "2026-08-30",
+      "time": "11:30",
+      "team1": "ROYAL MOSA AC 1941 A",
+      "team2": "ROYALE US AWANS A (+ 5)",
+      "category": "PROVINCIALE MM - POULE T",
+      "location": "ROYAL MOSA AC 1941 A",
       "other": ""
     },
     {
@@ -528,7 +568,7 @@
     {
       "code": "501024",
       "date": "2026-09-13",
-      "time": "15:00",
+      "time": "14:00",
       "team1": "VAIL. JUPILLE",
       "team2": "ROYAL MOSA AC 1941 A",
       "category": "U 12 - MM B",
@@ -608,7 +648,7 @@
     {
       "code": "501126",
       "date": "2026-11-21",
-      "time": "15:00",
+      "time": "13:00",
       "team1": "CRISTAL SGH B",
       "team2": "ROYAL MOSA AC 1941 A",
       "category": "U 12 - MM B",
@@ -627,7 +667,7 @@
     },
     {
       "code": "501151",
-      "date": "2026-12-12",
+      "date": "2026-12-13",
       "time": "11:30",
       "team1": "ROYAL MOSA AC 1941 A",
       "team2": "HENRI-CHAPELLE A",
@@ -728,7 +768,7 @@
     {
       "code": "501291",
       "date": "2027-03-21",
-      "time": "11:30",
+      "time": "9:30",
       "team1": "ROYAL MOSA AC 1941 A",
       "team2": "THEUX BC A",
       "category": "U 12 - MM B",
@@ -747,7 +787,7 @@
     },
     {
       "code": "501321",
-      "date": "2027-04-10",
+      "date": "2027-04-11",
       "time": "11:30",
       "team1": "ROYAL MOSA AC 1941 A",
       "team2": "BCM HERSTAL",
@@ -773,16 +813,6 @@
       "team2": "ROYAL BC NINANE",
       "category": "U 12 - MM B",
       "location": "ROYAL MOSA AC 1941 A",
-      "other": ""
-    },
-    {
-      "code": "504033",
-      "date": "2026-09-19",
-      "time": "13:00",
-      "team1": "UN HUY BASKET B",
-      "team2": "ROYAL MOSA AC 1941 B",
-      "category": "U 12 - MM E",
-      "location": "UN HUY BASKET B",
       "other": ""
     },
     {
@@ -863,6 +893,16 @@
       "team2": "ROYAL BC WANZE B",
       "category": "U 12 - MM E",
       "location": "ROYAL MOSA AC 1941 B",
+      "other": ""
+    },
+    {
+      "code": "504033",
+      "date": "2027-01-09",
+      "time": "13:00",
+      "team1": "UN HUY BASKET B",
+      "team2": "ROYAL MOSA AC 1941 B",
+      "category": "U 12 - MM E",
+      "location": "UN HUY BASKET B",
       "other": ""
     },
     {
@@ -956,16 +996,6 @@
       "other": ""
     },
     {
-      "code": "480015",
-      "date": "2026-09-05",
-      "time": "11:00",
-      "team1": "CRISTAL SGH A",
-      "team2": "ROYAL MOSA AC 1941",
-      "category": "U 14 - ELITES MM A",
-      "location": "CRISTAL SGH A",
-      "other": ""
-    },
-    {
       "code": "480026",
       "date": "2026-09-13",
       "time": "11:00",
@@ -996,6 +1026,16 @@
       "other": ""
     },
     {
+      "code": "480015",
+      "date": "2026-10-17",
+      "time": "13:00",
+      "team1": "CRISTAL SGH A",
+      "team2": "ROYAL MOSA AC 1941",
+      "category": "U 14 - ELITES MM A",
+      "location": "CRISTAL SGH A",
+      "other": ""
+    },
+    {
       "code": "480105",
       "date": "2026-11-07",
       "time": "9:30",
@@ -1008,7 +1048,7 @@
     {
       "code": "480116",
       "date": "2026-11-15",
-      "time": "9:00",
+      "time": "17:00",
       "team1": "RBC ALLEUR A",
       "team2": "ROYAL MOSA AC 1941",
       "category": "U 14 - ELITES MM A",
@@ -1168,7 +1208,7 @@
     {
       "code": "470025",
       "date": "2026-09-12",
-      "time": "9:00",
+      "time": "9:30",
       "team1": "ROYAL MOSA AC 1941",
       "team2": "RBC DISON-ANDRIMONT",
       "category": "U 16 - PROV MM A",
@@ -1248,7 +1288,7 @@
     {
       "code": "470195",
       "date": "2027-01-09",
-      "time": "13:00",
+      "time": "9:30",
       "team1": "ROYAL MOSA AC 1941",
       "team2": "ETOILE JUPILLE",
       "category": "U 16 - PROV MM A",
@@ -1278,7 +1318,7 @@
     {
       "code": "470226",
       "date": "2027-01-30",
-      "time": "11:00",
+      "time": "13:00",
       "team1": "RBC DISON-ANDRIMONT",
       "team2": "ROYAL MOSA AC 1941",
       "category": "U 16 - PROV MM A",
@@ -1448,7 +1488,7 @@
     {
       "code": "431195",
       "date": "2027-01-09",
-      "time": "11:00",
+      "time": "11:30",
       "team1": "ROYAL MOSA AC 1941",
       "team2": "ABC WAREMME B",
       "category": "U 18 - ELITES MM B",
@@ -1478,7 +1518,7 @@
     {
       "code": "431226",
       "date": "2027-01-30",
-      "time": "15:00",
+      "time": "11:00",
       "team1": "PRAYON TROOZ",
       "team2": "ROYAL MOSA AC 1941",
       "category": "U 18 - ELITES MM B",
@@ -1537,7 +1577,7 @@
     },
     {
       "code": "431325",
-      "date": "2027-04-11",
+      "date": "2027-04-10",
       "time": "11:30",
       "team1": "ROYAL MOSA AC 1941",
       "team2": "RBC AWANS",

@@ -7,12 +7,12 @@
   "events": [
     {
       "code": "AW216003",
-      "date": "2026-08-21",
-      "time": "21:00",
-      "team1": "ROYAL GALLIA BEEZ B",
+      "date": "2026-08-15",
+      "time": "18:00",
+      "team1": "ROYAL GALLIA BEEZ B (+ 5)",
       "team2": "ESL UNITED B",
       "category": "AWBB MM - POULE P",
-      "location": "ROYAL GALLIA BEEZ B",
+      "location": "ROYAL GALLIA BEEZ B (+ 5)",
       "other": ""
     },
     {
@@ -20,7 +20,7 @@
       "date": "2026-08-28",
       "time": "21:00",
       "team1": "ESL UNITED B",
-      "team2": "ABC WAREMME",
+      "team2": "ABC WAREMME (+ 8)",
       "category": "AWBB MM - POULE P",
       "location": "ESL UNITED B",
       "other": ""
@@ -168,11 +168,11 @@
     {
       "code": "401153",
       "date": "2026-12-11",
-      "time": "21:00",
-      "team1": "BC BELLEFLAMME B",
-      "team2": "ESL UNITED C",
+      "time": "19:00",
+      "team1": "ESL UNITED C",
+      "team2": "BC BELLEFLAMME B",
       "category": "MM - DIVISION 1",
-      "location": "BC BELLEFLAMME B",
+      "location": "ESL UNITED C",
       "other": ""
     },
     {
@@ -187,8 +187,8 @@
     },
     {
       "code": "401194",
-      "date": "2027-01-10",
-      "time": "15:00",
+      "date": "2027-01-09",
+      "time": "19:00",
       "team1": "CRISTAL SGH A",
       "team2": "ESL UNITED C",
       "category": "MM - DIVISION 1",
@@ -298,11 +298,11 @@
     {
       "code": "401335",
       "date": "2027-04-16",
-      "time": "20:00",
-      "team1": "ESL UNITED C",
-      "team2": "BC BELLEFLAMME B",
+      "time": "21:00",
+      "team1": "BC BELLEFLAMME B",
+      "team2": "ESL UNITED C",
       "category": "MM - DIVISION 1",
-      "location": "ESL UNITED C",
+      "location": "BC BELLEFLAMME B",
       "other": ""
     },
     {
@@ -507,8 +507,8 @@
     },
     {
       "code": "402271",
-      "date": "2027-03-06",
-      "time": "21:00",
+      "date": "2027-03-07",
+      "time": "11:00",
       "team1": "ATLAS A JUPILLE B",
       "team2": "ESL UNITED E",
       "category": "MM - DIVISION 2 A",
@@ -608,7 +608,7 @@
     {
       "code": "403057",
       "date": "2026-10-03",
-      "time": "17:00",
+      "time": "21:00",
       "team1": "BC SPRIMONT C",
       "team2": "ESL UNITED D",
       "category": "MM - DIVISION 2 B",
@@ -967,22 +967,12 @@
     },
     {
       "code": "404196",
-      "date": "2027-01-09",
-      "time": "17:00",
+      "date": "2027-01-08",
+      "time": "19:00",
       "team1": "ESL UNITED F",
       "team2": "ETOILE JUPILLE B",
       "category": "MM - DIVISION 3 A",
       "location": "ESL UNITED F",
-      "other": ""
-    },
-    {
-      "code": "404205",
-      "date": "2027-01-16",
-      "time": "20:30",
-      "team1": "BCM HERSTAL A",
-      "team2": "ESL UNITED F",
-      "category": "MM - DIVISION 3 A",
-      "location": "BCM HERSTAL A",
       "other": ""
     },
     {
@@ -1047,8 +1037,8 @@
     },
     {
       "code": "404294",
-      "date": "2027-03-20",
-      "time": "19:00",
+      "date": "2027-03-21",
+      "time": "12:00",
       "team1": "VAIL. JUPILLE B",
       "team2": "ESL UNITED F",
       "category": "MM - DIVISION 3 A",
@@ -1063,6 +1053,16 @@
       "team2": "ESL UNITED F",
       "category": "MM - DIVISION 3 A",
       "location": "ATLAS A JUPILLE C",
+      "other": ""
+    },
+    {
+      "code": "404205",
+      "date": "2027-04-02",
+      "time": "19:00",
+      "team1": "BCM HERSTAL A",
+      "team2": "ESL UNITED F",
+      "category": "MM - DIVISION 3 A",
+      "location": "BCM HERSTAL A",
       "other": ""
     },
     {
@@ -1548,7 +1548,7 @@
     {
       "code": "AW101113",
       "date": "2027-02-13",
-      "time": "19:30",
+      "time": "18:30",
       "team1": "UNITED B WOLUWE",
       "team2": "ESL UNITED B",
       "category": "MM - REGIONALE 2 A",
@@ -1688,7 +1688,7 @@
     {
       "code": "AW130002",
       "date": "2026-09-05",
-      "time": "13:00",
+      "time": "11:00",
       "team1": "UNITED B WOLUWE",
       "team2": "ESL UNITED",
       "category": "U 14 - GOLD REGIONAUX A",
@@ -1898,7 +1898,7 @@
     {
       "code": "AW126007",
       "date": "2026-09-13",
-      "time": "13:00",
+      "time": "11:00",
       "team1": "ESL UNITED",
       "team2": "DPK CARNIERES",
       "category": "U 16 - SILVER REGIONAUX D",

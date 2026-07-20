@@ -9,20 +9,20 @@
       "code": "AW203002",
       "date": "2026-08-14",
       "time": "21:00",
-      "team1": "ALL. FLEMALLE",
+      "team1": "ALL. FLEMALLE (+ 5)",
       "team2": "BC SAINT-HUBERT A",
       "category": "AWBB MM - POULE C",
-      "location": "ALL. FLEMALLE",
+      "location": "ALL. FLEMALLE (+ 5)",
       "other": ""
     },
     {
       "code": "AW203003",
       "date": "2026-08-22",
       "time": "19:00",
-      "team1": "ALL. FLEMALLE",
+      "team1": "ALL. FLEMALLE (+ 5)",
       "team2": "ROYAL SPA BC",
       "category": "AWBB MM - POULE C",
-      "location": "ALL. FLEMALLE",
+      "location": "ALL. FLEMALLE (+ 5)",
       "other": ""
     },
     {
@@ -37,8 +37,8 @@
     },
     {
       "code": "414011",
-      "date": "2026-09-05",
-      "time": "18:00",
+      "date": "2026-09-06",
+      "time": "13:00",
       "team1": "R.UN.BELLAIRE B",
       "team2": "ALL. FLEMALLE A",
       "category": "DD - DIVISION 2 A",
@@ -167,8 +167,8 @@
     },
     {
       "code": "414197",
-      "date": "2027-01-09",
-      "time": "17:00",
+      "date": "2027-01-10",
+      "time": "16:00",
       "team1": "BC SPRIMONT B",
       "team2": "ALL. FLEMALLE A",
       "category": "DD - DIVISION 2 A",
@@ -257,8 +257,8 @@
     },
     {
       "code": "414305",
-      "date": "2027-03-26",
-      "time": "20:30",
+      "date": "2027-03-27",
+      "time": "19:30",
       "team1": "CRISTAL SGH A",
       "team2": "ALL. FLEMALLE A",
       "category": "DD - DIVISION 2 A",
@@ -397,8 +397,8 @@
     },
     {
       "code": "415156",
-      "date": "2026-12-13",
-      "time": "12:00",
+      "date": "2026-12-12",
+      "time": "19:00",
       "team1": "PRAYON TROOZ C",
       "team2": "ALL. FLEMALLE B",
       "category": "DD - DIVISION 2 B",
@@ -498,7 +498,7 @@
     {
       "code": "415287",
       "date": "2027-03-14",
-      "time": "15:00",
+      "time": "11:00",
       "team1": "RBC ALLEUR D",
       "team2": "ALL. FLEMALLE B",
       "category": "DD - DIVISION 2 B",
@@ -658,7 +658,7 @@
     {
       "code": "416196",
       "date": "2027-01-10",
-      "time": "13:00",
+      "time": "11:00",
       "team1": "R REN. MONTEGNEE",
       "team2": "ALL. FLEMALLE C",
       "category": "DD - DIVISION 3 A",
@@ -706,9 +706,19 @@
       "other": ""
     },
     {
+      "code": "416323",
+      "date": "2027-03-06",
+      "time": "17:00",
+      "team1": "UN HUY BASKET C",
+      "team2": "ALL. FLEMALLE C",
+      "category": "DD - DIVISION 3 A",
+      "location": "UN HUY BASKET C",
+      "other": ""
+    },
+    {
       "code": "416284",
-      "date": "2027-03-13",
-      "time": "21:00",
+      "date": "2027-03-14",
+      "time": "11:00",
       "team1": "VAIL. JUPILLE",
       "team2": "ALL. FLEMALLE C",
       "category": "DD - DIVISION 3 A",
@@ -728,21 +738,11 @@
     {
       "code": "416305",
       "date": "2027-03-27",
-      "time": "21:00",
+      "time": "17:00",
       "team1": "ORP JAUCHE",
       "team2": "ALL. FLEMALLE C",
       "category": "DD - DIVISION 3 A",
       "location": "ORP JAUCHE",
-      "other": ""
-    },
-    {
-      "code": "416323",
-      "date": "2027-04-11",
-      "time": "13:00",
-      "team1": "UN HUY BASKET C",
-      "team2": "ALL. FLEMALLE C",
-      "category": "DD - DIVISION 3 A",
-      "location": "UN HUY BASKET C",
       "other": ""
     },
     {
@@ -1048,7 +1048,7 @@
     {
       "code": "405057",
       "date": "2026-10-03",
-      "time": "21:00",
+      "time": "19:00",
       "team1": "BC SPRIMONT D",
       "team2": "ALL. FLEMALLE B",
       "category": "MM - DIVISION 3 B",
@@ -1308,7 +1308,7 @@
     {
       "code": "409057",
       "date": "2026-10-03",
-      "time": "19:00",
+      "time": "17:00",
       "team1": "BC SPRIMONT E",
       "team2": "ALL. FLEMALLE C",
       "category": "MM - DIVISION 4 C",
@@ -1498,7 +1498,7 @@
     {
       "code": "412014",
       "date": "2026-09-05",
-      "time": "17:00",
+      "time": "17:30",
       "team1": "CRISTAL SGH D",
       "team2": "ALL. FLEMALLE D",
       "category": "MM - DIVISION 4 F",
@@ -1716,6 +1716,16 @@
       "other": ""
     },
     {
+      "code": "906002",
+      "date": "2026-08-15",
+      "time": "19:00",
+      "team1": "R HT-PRE OUGREE B (+ 5)",
+      "team2": "ALL. FLEMALLE A",
+      "category": "PROVINCIALE DD - POULE F",
+      "location": "R HT-PRE OUGREE B (+ 5)",
+      "other": ""
+    },
+    {
       "code": "906005",
       "date": "2026-08-29",
       "time": "19:00",
@@ -1723,6 +1733,16 @@
       "team2": "ALL. FLEMALLE A (+ 5)",
       "category": "PROVINCIALE DD - POULE F",
       "location": "ROYAL HERVE-BATTICE C",
+      "other": ""
+    },
+    {
+      "code": "808004",
+      "date": "2026-08-23",
+      "time": "13:00",
+      "team1": "ATLAS A JUPILLE C (+ 10)",
+      "team2": "ALL. FLEMALLE A",
+      "category": "PROVINCIALE MM - POULE H",
+      "location": "ATLAS A JUPILLE C (+ 10)",
       "other": ""
     },
     {
@@ -1758,7 +1778,7 @@
     {
       "code": "520032",
       "date": "2026-09-19",
-      "time": "09:00",
+      "time": "11:00",
       "team1": "RBC VISE A",
       "team2": "ALL. FLEMALLE A",
       "category": "U 10 - MM A",
@@ -1771,6 +1791,16 @@
       "time": "13:00",
       "team1": "ALL. FLEMALLE A",
       "team2": "ROYAL HERVE-BATTICE A",
+      "category": "U 10 - MM A",
+      "location": "ALL. FLEMALLE A",
+      "other": ""
+    },
+    {
+      "code": "520146",
+      "date": "2026-10-18",
+      "time": "13:00",
+      "team1": "ALL. FLEMALLE A",
+      "team2": "RBC STAVELOT",
       "category": "U 10 - MM A",
       "location": "ALL. FLEMALLE A",
       "other": ""
@@ -1803,16 +1833,6 @@
       "team2": "ALL. FLEMALLE A",
       "category": "U 10 - MM A",
       "location": "RBC AUBEL A",
-      "other": ""
-    },
-    {
-      "code": "520146",
-      "date": "2026-12-06",
-      "time": "13:00",
-      "team1": "ALL. FLEMALLE A",
-      "team2": "RBC STAVELOT",
-      "category": "U 10 - MM A",
-      "location": "ALL. FLEMALLE A",
       "other": ""
     },
     {
@@ -2048,7 +2068,7 @@
     {
       "code": "521203",
       "date": "2027-01-16",
-      "time": "09:00",
+      "time": "11:00",
       "team1": "LA VILLERSOISE B",
       "team2": "ALL. FLEMALLE B",
       "category": "U 10 - MM B",
@@ -2097,13 +2117,13 @@
     },
     {
       "code": "521294",
-      "date": "2027-03-20",
-      "time": "11:30",
+      "date": "2027-03-21",
+      "time": "09:00",
       "team1": "CRISTAL SGH A",
       "team2": "ALL. FLEMALLE B",
       "category": "U 10 - MM B",
       "location": "CRISTAL SGH A",
-      "other": ""
+      "other": "(Ho de la Troque)"
     },
     {
       "code": "521306",
@@ -2188,7 +2208,7 @@
     {
       "code": "527103",
       "date": "2026-11-07",
-      "time": "14:45",
+      "time": "09:00",
       "team1": "RBC ALLEUR B",
       "team2": "ALL. FLEMALLE C",
       "category": "U 10 - MM H",
@@ -2857,8 +2877,8 @@
     },
     {
       "code": "501145",
-      "date": "2026-12-06",
-      "time": "10:30",
+      "date": "2026-12-05",
+      "time": "15:00",
       "team1": "PRAYON TROOZ A",
       "team2": "ALL. FLEMALLE D",
       "category": "U 12 - MM B",
@@ -3008,7 +3028,7 @@
     {
       "code": "501344",
       "date": "2027-04-25",
-      "time": "15:00",
+      "time": "14:00",
       "team1": "VAIL. JUPILLE",
       "team2": "ALL. FLEMALLE D",
       "category": "U 12 - MM B",
@@ -3256,6 +3276,16 @@
       "other": ""
     },
     {
+      "code": "502193",
+      "date": "2027-01-03",
+      "time": "10:45",
+      "team1": "BC VERLAINE A",
+      "team2": "ALL. FLEMALLE C",
+      "category": "U 12 - MM C",
+      "location": "BC VERLAINE A",
+      "other": ""
+    },
+    {
       "code": "502192",
       "date": "2027-01-09",
       "time": "11:30",
@@ -3263,16 +3293,6 @@
       "team2": "ALL. FLEMALLE B",
       "category": "U 12 - MM C",
       "location": "BC COINTE A",
-      "other": ""
-    },
-    {
-      "code": "502193",
-      "date": "2027-01-10",
-      "time": "10:45",
-      "team1": "BC VERLAINE A",
-      "team2": "ALL. FLEMALLE C",
-      "category": "U 12 - MM C",
-      "location": "BC VERLAINE A",
       "other": ""
     },
     {
@@ -3698,7 +3718,7 @@
     {
       "code": "600032",
       "date": "2026-09-20",
-      "time": "15:00",
+      "time": "09:00",
       "team1": "R REN. MONTEGNEE",
       "team2": "ALL. FLEMALLE",
       "category": "U 14 - DD A",
@@ -3788,7 +3808,7 @@
     {
       "code": "600225",
       "date": "2027-01-30",
-      "time": "13:30",
+      "time": "11:30",
       "team1": "CRISTAL SGH",
       "team2": "ALL. FLEMALLE",
       "category": "U 14 - DD A",
@@ -4078,7 +4098,7 @@
     {
       "code": "490106",
       "date": "2026-11-07",
-      "time": "13:00",
+      "time": "15:00",
       "team1": "ALL. FLEMALLE B",
       "team2": "VAIL. JUPILLE",
       "category": "U 14 - PROV MM A",
@@ -4418,7 +4438,7 @@
     {
       "code": "590235",
       "date": "2027-02-06",
-      "time": "15:30",
+      "time": "09:30",
       "team1": "CRISTAL SGH",
       "team2": "ALL. FLEMALLE C",
       "category": "U 16 - DD A",
@@ -4506,6 +4526,16 @@
       "other": ""
     },
     {
+      "code": "591151",
+      "date": "2026-10-24",
+      "time": "13:00",
+      "team1": "RBC AWANS",
+      "team2": "ALL. FLEMALLE B",
+      "category": "U 16 - DD B",
+      "location": "RBC AWANS",
+      "other": ""
+    },
+    {
       "code": "591106",
       "date": "2026-11-08",
       "time": "09:00",
@@ -4533,16 +4563,6 @@
       "team2": "ATLAS A JUPILLE",
       "category": "U 16 - DD B",
       "location": "ALL. FLEMALLE B",
-      "other": ""
-    },
-    {
-      "code": "591151",
-      "date": "2026-12-12",
-      "time": "13:00",
-      "team1": "RBC AWANS",
-      "team2": "ALL. FLEMALLE B",
-      "category": "U 16 - DD B",
-      "location": "RBC AWANS",
       "other": ""
     },
     {
@@ -5128,7 +5148,7 @@
     {
       "code": "430106",
       "date": "2026-11-07",
-      "time": "15:00",
+      "time": "13:00",
       "team1": "ALL. FLEMALLE",
       "team2": "VAIL. JUPILLE",
       "category": "U 18 - ELITES MM A",
@@ -5308,7 +5328,7 @@
     {
       "code": "440023",
       "date": "2026-09-13",
-      "time": "13:00",
+      "time": "15:00",
       "team1": "ROYAL ANS BC",
       "team2": "ALL. FLEMALLE C",
       "category": "U 18 - PROV MM A",
@@ -5478,7 +5498,7 @@
     {
       "code": "441054",
       "date": "2026-10-03",
-      "time": "13:00",
+      "time": "11:30",
       "team1": "CRISTAL SGH",
       "team2": "ALL. FLEMALLE B",
       "category": "U 18 - PROV MM B",
@@ -5947,8 +5967,8 @@
     },
     {
       "code": "551336",
-      "date": "2027-04-18",
-      "time": "09:00",
+      "date": "2027-04-17",
+      "time": "10:15",
       "team1": "HENRI-CHAPELLE B",
       "team2": "ALL. FLEMALLE",
       "category": "U 7 - MM B",
@@ -6167,7 +6187,7 @@
     },
     {
       "code": "545101",
-      "date": "2026-11-07",
+      "date": "2026-11-08",
       "time": "11:00",
       "team1": "ALL. FLEMALLE B",
       "team2": "CONDROZ MODAVE BB",

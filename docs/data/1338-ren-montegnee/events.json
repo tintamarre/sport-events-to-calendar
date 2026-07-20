@@ -6,6 +6,16 @@
   },
   "events": [
     {
+      "code": "774008",
+      "date": "2026-11-01",
+      "time": "11:00",
+      "team1": "R REN. MONTEGNEE",
+      "team2": "RBC DISON-ANDRIMONT",
+      "category": "CPE PROV PUPILLES DD",
+      "location": "R REN. MONTEGNEE",
+      "other": ""
+    },
+    {
       "code": "416026",
       "date": "2026-09-13",
       "time": "13:00",
@@ -108,7 +118,7 @@
     {
       "code": "416196",
       "date": "2027-01-10",
-      "time": "13:00",
+      "time": "11:00",
       "team1": "R REN. MONTEGNEE",
       "team2": "ALL. FLEMALLE C",
       "category": "DD - DIVISION 3 A",
@@ -208,7 +218,7 @@
     {
       "code": "408016",
       "date": "2026-09-06",
-      "time": "11:00",
+      "time": "13:00",
       "team1": "R REN. MONTEGNEE",
       "team2": "ROYAL MOSA AC 1941 B",
       "category": "MM - DIVISION 4 B",
@@ -318,7 +328,7 @@
     {
       "code": "408196",
       "date": "2027-01-10",
-      "time": "11:00",
+      "time": "15:00",
       "team1": "R REN. MONTEGNEE",
       "team2": "MAIL. COMBLAIN B",
       "category": "MM - DIVISION 4 B",
@@ -376,16 +386,6 @@
       "other": ""
     },
     {
-      "code": "408294",
-      "date": "2027-03-20",
-      "time": "19:00",
-      "team1": "RBC CROATIA OUPEYE",
-      "team2": "R REN. MONTEGNEE",
-      "category": "MM - DIVISION 4 B",
-      "location": "RBC CROATIA OUPEYE",
-      "other": ""
-    },
-    {
       "code": "408301",
       "date": "2027-03-28",
       "time": "9:45",
@@ -393,6 +393,16 @@
       "team2": "R REN. MONTEGNEE",
       "category": "MM - DIVISION 4 B",
       "location": "ROYAL BASKET OTHEE",
+      "other": ""
+    },
+    {
+      "code": "408294",
+      "date": "2027-04-03",
+      "time": "19:00",
+      "team1": "RBC CROATIA OUPEYE",
+      "team2": "R REN. MONTEGNEE",
+      "category": "MM - DIVISION 4 B",
+      "location": "RBC CROATIA OUPEYE",
       "other": ""
     },
     {
@@ -426,6 +436,26 @@
       "other": ""
     },
     {
+      "code": "912002",
+      "date": "2026-08-16",
+      "time": "11:00",
+      "team1": "R REN. MONTEGNEE A (+ 5)",
+      "team2": "CRISTAL SGH A",
+      "category": "PROVINCIALE DD - POULE L",
+      "location": "R REN. MONTEGNEE A (+ 5)",
+      "other": ""
+    },
+    {
+      "code": "912004",
+      "date": "2026-08-23",
+      "time": "11:00",
+      "team1": "R REN. MONTEGNEE A (+ 10)",
+      "team2": "RBC ESNEUX B",
+      "category": "PROVINCIALE DD - POULE L",
+      "location": "R REN. MONTEGNEE A (+ 10)",
+      "other": ""
+    },
+    {
       "code": "912006",
       "date": "2026-08-29",
       "time": "18:00",
@@ -433,6 +463,36 @@
       "team2": "R REN. MONTEGNEE A",
       "category": "PROVINCIALE DD - POULE L",
       "location": "RBC BLEGNY C",
+      "other": ""
+    },
+    {
+      "code": "806001",
+      "date": "2026-08-15",
+      "time": "19:00",
+      "team1": "RBC STAVELOT A",
+      "team2": "R REN. MONTEGNEE B (+ 15)",
+      "category": "PROVINCIALE MM - POULE F",
+      "location": "RBC STAVELOT A",
+      "other": ""
+    },
+    {
+      "code": "806006",
+      "date": "2026-08-30",
+      "time": "11:00",
+      "team1": "R REN. MONTEGNEE B (+ 5)",
+      "team2": "BC COINTE B",
+      "category": "PROVINCIALE MM - POULE F",
+      "location": "R REN. MONTEGNEE B (+ 5)",
+      "other": ""
+    },
+    {
+      "code": "806001",
+      "date": "2026-08-15",
+      "time": "19:00",
+      "team1": "RBC STAVELOT A",
+      "team2": "R REN. MONTEGNEE B (+ 15)",
+      "category": "R REN. MONTEGNEE B (+ 15)",
+      "location": "RBC STAVELOT A",
       "other": ""
     },
     {
@@ -618,7 +678,7 @@
     {
       "code": "507011",
       "date": "2026-09-06",
-      "time": "15:00",
+      "time": "11:00",
       "team1": "R REN. MONTEGNEE B",
       "team2": "RBC ALLEUR D",
       "category": "U 12 - MM H",
@@ -698,7 +758,7 @@
     {
       "code": "507161",
       "date": "2026-12-20",
-      "time": "15:00",
+      "time": "9:00",
       "team1": "R REN. MONTEGNEE B",
       "team2": "BC VERLAINE B",
       "category": "U 12 - MM H",
@@ -708,7 +768,7 @@
     {
       "code": "507191",
       "date": "2027-01-10",
-      "time": "15:00",
+      "time": "13:00",
       "team1": "R REN. MONTEGNEE B",
       "team2": "LA VILLERSOISE C",
       "category": "U 12 - MM H",
@@ -818,7 +878,7 @@
     {
       "code": "600032",
       "date": "2026-09-20",
-      "time": "15:00",
+      "time": "9:00",
       "team1": "R REN. MONTEGNEE",
       "team2": "ALL. FLEMALLE",
       "category": "U 14 - DD A",
@@ -868,7 +928,7 @@
     {
       "code": "600162",
       "date": "2026-12-20",
-      "time": "15:00",
+      "time": "9:00",
       "team1": "R REN. MONTEGNEE",
       "team2": "R HT-PRE OUGREE",
       "category": "U 14 - DD A",
@@ -888,7 +948,7 @@
     {
       "code": "600202",
       "date": "2027-01-17",
-      "time": "15:00",
+      "time": "9:00",
       "team1": "R REN. MONTEGNEE",
       "team2": "ATLAS A JUPILLE",
       "category": "U 14 - DD A",
@@ -1028,7 +1088,7 @@
     {
       "code": "493166",
       "date": "2026-12-20",
-      "time": "9:00",
+      "time": "11:00",
       "team1": "R REN. MONTEGNEE",
       "team2": "HANNUT BC",
       "category": "U 14 - PROV MM D",

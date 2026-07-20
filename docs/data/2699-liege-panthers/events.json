@@ -9,20 +9,20 @@
       "code": "AW224001",
       "date": "2026-08-15",
       "time": "18:45",
-      "team1": "ROYAL WATERLOO",
+      "team1": "ROYAL WATERLOO (+ 15)",
       "team2": "LIEGE PANTHERS A",
       "category": "AWBB DD - POULE D",
-      "location": "ROYAL WATERLOO",
+      "location": "ROYAL WATERLOO (+ 15)",
       "other": ""
     },
     {
       "code": "AW224003",
       "date": "2026-08-22",
       "time": "19:00",
-      "team1": "RBC HANEFFE",
+      "team1": "RBC HANEFFE (+ 10)",
       "team2": "LIEGE PANTHERS A",
       "category": "AWBB DD - POULE D",
-      "location": "RBC HANEFFE",
+      "location": "RBC HANEFFE (+ 10)",
       "other": ""
     },
     {
@@ -30,7 +30,7 @@
       "date": "2026-08-30",
       "time": "15:00",
       "team1": "LIEGE PANTHERS A",
-      "team2": "PEPINSTER EAST BELG",
+      "team2": "PEPINSTER EAST BELG (+ 8)",
       "category": "AWBB DD - POULE D",
       "location": "LIEGE PANTHERS A",
       "other": ""
@@ -39,10 +39,10 @@
       "code": "AW229001",
       "date": "2026-08-15",
       "time": "18:00",
-      "team1": "R.UN.BELLAIRE",
+      "team1": "R.UN.BELLAIRE (+ 10)",
       "team2": "LIEGE PANTHERS B",
       "category": "AWBB DD - POULE I",
-      "location": "R.UN.BELLAIRE",
+      "location": "R.UN.BELLAIRE (+ 10)",
       "other": ""
     },
     {
@@ -60,7 +60,7 @@
       "date": "2026-08-29",
       "time": "20:30",
       "team1": "LIEGE PANTHERS B",
-      "team2": "BC BONINNE B",
+      "team2": "BC BONINNE B (+ 8)",
       "category": "AWBB DD - POULE I",
       "location": "LIEGE PANTHERS B",
       "other": ""
@@ -296,9 +296,19 @@
       "other": ""
     },
     {
+      "code": "AW224006",
+      "date": "2026-08-30",
+      "time": "15:00",
+      "team1": "LIEGE PANTHERS A",
+      "team2": "PEPINSTER EAST BELG (+ 8)",
+      "category": "PEPINSTER EAST BELG (+ 8)",
+      "location": "LIEGE PANTHERS A",
+      "other": ""
+    },
+    {
       "code": "NADSE11ACA",
       "date": "2026-09-26",
-      "time": "9:00",
+      "time": "20:30",
       "team1": "PHANTOMS BOOM",
       "team2": "LIEGE PANTHERS A",
       "category": "TOP DIVISION WOMEN 1",
@@ -308,7 +318,7 @@
     {
       "code": "NADSE11AAF",
       "date": "2026-10-03",
-      "time": "9:00",
+      "time": "18:15",
       "team1": "LIEGE PANTHERS A",
       "team2": "KANG. MECHELEN",
       "category": "TOP DIVISION WOMEN 1",
@@ -316,19 +326,9 @@
       "other": ""
     },
     {
-      "code": "NADSE11AHA",
-      "date": "2026-10-10",
-      "time": "9:00",
-      "team1": "SPIROU BASKET",
-      "team2": "LIEGE PANTHERS A",
-      "category": "TOP DIVISION WOMEN 1",
-      "location": "SPIROU BASKET",
-      "other": ""
-    },
-    {
       "code": "NADSE11AAJ",
       "date": "2026-10-17",
-      "time": "9:00",
+      "time": "18:15",
       "team1": "LIEGE PANTHERS A",
       "team2": "BASKET LUMMEN",
       "category": "TOP DIVISION WOMEN 1",
@@ -338,7 +338,7 @@
     {
       "code": "NADSE11ABA",
       "date": "2026-10-24",
-      "time": "9:00",
+      "time": "20:30",
       "team1": "CASTORS BRAINE",
       "team2": "LIEGE PANTHERS A",
       "category": "TOP DIVISION WOMEN 1",
@@ -348,7 +348,7 @@
     {
       "code": "NADSE11AAL",
       "date": "2026-10-31",
-      "time": "9:00",
+      "time": "18:15",
       "team1": "LIEGE PANTHERS A",
       "team2": "LDP DONZA",
       "category": "TOP DIVISION WOMEN 1",
@@ -358,7 +358,7 @@
     {
       "code": "NADSE11AGA",
       "date": "2026-11-21",
-      "time": "9:00",
+      "time": "20:30",
       "team1": "NAMUR CAPITALE",
       "team2": "LIEGE PANTHERS A",
       "category": "TOP DIVISION WOMEN 1",
@@ -368,7 +368,7 @@
     {
       "code": "NADSE11AAD",
       "date": "2026-11-28",
-      "time": "9:00",
+      "time": "18:15",
       "team1": "LIEGE PANTHERS A",
       "team2": "BASKET WAREGEM",
       "category": "TOP DIVISION WOMEN 1",
@@ -378,7 +378,7 @@
     {
       "code": "NADSE11AEA",
       "date": "2026-12-05",
-      "time": "9:00",
+      "time": "20:45",
       "team1": "JEUGD GENTSON",
       "team2": "LIEGE PANTHERS A",
       "category": "TOP DIVISION WOMEN 1",
@@ -388,7 +388,7 @@
     {
       "code": "NADSE11AIA",
       "date": "2026-12-19",
-      "time": "9:00",
+      "time": "21:00",
       "team1": "KORTRIJK SPURS",
       "team2": "LIEGE PANTHERS A",
       "category": "TOP DIVISION WOMEN 1",
@@ -398,7 +398,7 @@
     {
       "code": "NADSE11AAC",
       "date": "2027-01-02",
-      "time": "9:00",
+      "time": "18:15",
       "team1": "LIEGE PANTHERS A",
       "team2": "PHANTOMS BOOM",
       "category": "TOP DIVISION WOMEN 1",
@@ -408,7 +408,7 @@
     {
       "code": "NADSE11AFA",
       "date": "2027-01-09",
-      "time": "9:00",
+      "time": "20:30",
       "team1": "KANG. MECHELEN",
       "team2": "LIEGE PANTHERS A",
       "category": "TOP DIVISION WOMEN 1",
@@ -418,7 +418,7 @@
     {
       "code": "NADSE11AAH",
       "date": "2027-01-16",
-      "time": "9:00",
+      "time": "18:15",
       "team1": "LIEGE PANTHERS A",
       "team2": "SPIROU BASKET",
       "category": "TOP DIVISION WOMEN 1",
@@ -428,7 +428,7 @@
     {
       "code": "NADSE11AJA",
       "date": "2027-01-23",
-      "time": "9:00",
+      "time": "17:30",
       "team1": "BASKET LUMMEN",
       "team2": "LIEGE PANTHERS A",
       "category": "TOP DIVISION WOMEN 1",
@@ -438,7 +438,7 @@
     {
       "code": "NADSE11AAB",
       "date": "2027-01-30",
-      "time": "9:00",
+      "time": "18:15",
       "team1": "LIEGE PANTHERS A",
       "team2": "CASTORS BRAINE",
       "category": "TOP DIVISION WOMEN 1",
@@ -448,7 +448,7 @@
     {
       "code": "NADSE11ALA",
       "date": "2027-02-20",
-      "time": "9:00",
+      "time": "18:30",
       "team1": "LDP DONZA",
       "team2": "LIEGE PANTHERS A",
       "category": "TOP DIVISION WOMEN 1",
@@ -458,7 +458,7 @@
     {
       "code": "NADSE11AAG",
       "date": "2027-02-27",
-      "time": "9:00",
+      "time": "18:15",
       "team1": "LIEGE PANTHERS A",
       "team2": "NAMUR CAPITALE",
       "category": "TOP DIVISION WOMEN 1",
@@ -468,7 +468,7 @@
     {
       "code": "NADSE11ADA",
       "date": "2027-03-06",
-      "time": "9:00",
+      "time": "20:30",
       "team1": "BASKET WAREGEM",
       "team2": "LIEGE PANTHERS A",
       "category": "TOP DIVISION WOMEN 1",
@@ -478,7 +478,7 @@
     {
       "code": "NADSE11AAE",
       "date": "2027-03-13",
-      "time": "9:00",
+      "time": "18:15",
       "team1": "LIEGE PANTHERS A",
       "team2": "JEUGD GENTSON",
       "category": "TOP DIVISION WOMEN 1",
@@ -488,7 +488,7 @@
     {
       "code": "NADSE11AAI",
       "date": "2027-03-27",
-      "time": "9:00",
+      "time": "18:15",
       "team1": "LIEGE PANTHERS A",
       "team2": "KORTRIJK SPURS",
       "category": "TOP DIVISION WOMEN 1",

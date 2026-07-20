@@ -168,7 +168,7 @@
     {
       "code": "415227",
       "date": "2027-01-31",
-      "time": "15:00",
+      "time": "17:00",
       "team1": "RBC ALLEUR D",
       "team2": "BC VERLAINE A",
       "category": "DD - DIVISION 2 B",
@@ -398,7 +398,7 @@
     {
       "code": "416215",
       "date": "2027-01-24",
-      "time": "11:30",
+      "time": "15:30",
       "team1": "BC VERLAINE B",
       "team2": "RBC VISE B",
       "category": "DD - DIVISION 3 A",
@@ -607,8 +607,8 @@
     },
     {
       "code": "410227",
-      "date": "2027-01-30",
-      "time": "18:30",
+      "date": "2027-01-31",
+      "time": "11:00",
       "team1": "HENRI-CHAPELLE C",
       "team2": "BC VERLAINE",
       "category": "MM - DIVISION 4 D",
@@ -686,6 +686,16 @@
       "other": ""
     },
     {
+      "code": "904003",
+      "date": "2026-08-23",
+      "time": "17:30",
+      "team1": "BC VERLAINE A",
+      "team2": "LA VILLERSOISE B (+ 5)",
+      "category": "PROVINCIALE DD - POULE D",
+      "location": "BC VERLAINE A",
+      "other": ""
+    },
+    {
       "code": "904005",
       "date": "2026-08-30",
       "time": "17:00",
@@ -696,8 +706,18 @@
       "other": ""
     },
     {
+      "code": "909001",
+      "date": "2026-08-15",
+      "time": "19:00",
+      "team1": "ATLAS A JUPILLE A",
+      "team2": "BC VERLAINE B (+ 10)",
+      "category": "PROVINCIALE DD - POULE I",
+      "location": "ATLAS A JUPILLE A",
+      "other": ""
+    },
+    {
       "code": "909003",
-      "date": "2026-08-27",
+      "date": "2026-08-22",
       "time": "20:30",
       "team1": "RBC BLEGNY B",
       "team2": "BC VERLAINE B (+ 5)",
@@ -957,7 +977,7 @@
     },
     {
       "code": "527144",
-      "date": "2026-12-05",
+      "date": "2026-12-06",
       "time": "13:00",
       "team1": "BC VERLAINE B",
       "team2": "BC CRISNEE",
@@ -1047,8 +1067,8 @@
     },
     {
       "code": "527294",
-      "date": "2027-03-20",
-      "time": "13:00",
+      "date": "2027-03-21",
+      "time": "9:30",
       "team1": "BC VERLAINE B",
       "team2": "RBC ESNEUX A",
       "category": "U 10 - MM H",
@@ -1096,16 +1116,6 @@
       "other": ""
     },
     {
-      "code": "502023",
-      "date": "2026-09-13",
-      "time": "10:45",
-      "team1": "BC VERLAINE A",
-      "team2": "BC COINTE A",
-      "category": "U 12 - MM C",
-      "location": "BC VERLAINE A",
-      "other": ""
-    },
-    {
       "code": "502031",
       "date": "2026-09-20",
       "time": "15:00",
@@ -1137,7 +1147,7 @@
     },
     {
       "code": "502073",
-      "date": "2026-10-18",
+      "date": "2026-10-17",
       "time": "10:45",
       "team1": "BC VERLAINE A",
       "team2": "ROYAL HERVE-BATTICE C",
@@ -1207,7 +1217,7 @@
     },
     {
       "code": "502193",
-      "date": "2027-01-10",
+      "date": "2027-01-03",
       "time": "10:45",
       "team1": "BC VERLAINE A",
       "team2": "ALL. FLEMALLE C",
@@ -1246,6 +1256,16 @@
       "other": ""
     },
     {
+      "code": "502023",
+      "date": "2027-02-07",
+      "time": "15:00",
+      "team1": "BC VERLAINE A",
+      "team2": "BC COINTE A",
+      "category": "U 12 - MM C",
+      "location": "BC VERLAINE A",
+      "other": ""
+    },
+    {
       "code": "502247",
       "date": "2027-02-14",
       "time": "14:00",
@@ -1257,7 +1277,7 @@
     },
     {
       "code": "502252",
-      "date": "2027-02-20",
+      "date": "2027-02-21",
       "time": "9:30",
       "team1": "RB TILFF A",
       "team2": "BC VERLAINE A",
@@ -1356,6 +1376,16 @@
       "other": ""
     },
     {
+      "code": "507294",
+      "date": "2026-10-17",
+      "time": "13:00",
+      "team1": "BC VERLAINE B",
+      "team2": "GIANTS BRAIVES C",
+      "category": "U 12 - MM H",
+      "location": "BC VERLAINE B",
+      "other": ""
+    },
+    {
       "code": "507106",
       "date": "2026-11-07",
       "time": "13:00",
@@ -1387,8 +1417,8 @@
     },
     {
       "code": "507144",
-      "date": "2026-12-06",
-      "time": "13:30",
+      "date": "2026-12-05",
+      "time": "13:00",
       "team1": "BC VERLAINE B",
       "team2": "RBC ALLEUR D",
       "category": "U 12 - MM H",
@@ -1408,7 +1438,7 @@
     {
       "code": "507161",
       "date": "2026-12-20",
-      "time": "15:00",
+      "time": "9:00",
       "team1": "R REN. MONTEGNEE B",
       "team2": "BC VERLAINE B",
       "category": "U 12 - MM H",
@@ -1461,16 +1491,6 @@
       "time": "13:00",
       "team1": "BC VERLAINE B",
       "team2": "R REN. MONTEGNEE B",
-      "category": "U 12 - MM H",
-      "location": "BC VERLAINE B",
-      "other": ""
-    },
-    {
-      "code": "507294",
-      "date": "2027-03-20",
-      "time": "13:00",
-      "team1": "BC VERLAINE B",
-      "team2": "GIANTS BRAIVES C",
       "category": "U 12 - MM H",
       "location": "BC VERLAINE B",
       "other": ""
@@ -1686,6 +1706,16 @@
       "other": ""
     },
     {
+      "code": "493113",
+      "date": "2026-10-17",
+      "time": "13:00",
+      "team1": "UN HUY BASKET",
+      "team2": "BC VERLAINE",
+      "category": "U 14 - PROV MM D",
+      "location": "UN HUY BASKET",
+      "other": ""
+    },
+    {
       "code": "493104",
       "date": "2026-11-08",
       "time": "13:00",
@@ -1693,16 +1723,6 @@
       "team2": "R HT-PRE OUGREE",
       "category": "U 14 - PROV MM D",
       "location": "BC VERLAINE",
-      "other": ""
-    },
-    {
-      "code": "493113",
-      "date": "2026-11-14",
-      "time": "13:00",
-      "team1": "UN HUY BASKET",
-      "team2": "BC VERLAINE",
-      "category": "U 14 - PROV MM D",
-      "location": "UN HUY BASKET",
       "other": ""
     },
     {
@@ -2327,8 +2347,8 @@
     },
     {
       "code": "553326",
-      "date": "2027-04-11",
-      "time": "10:30",
+      "date": "2027-04-10",
+      "time": "17:00",
       "team1": "BC SPRIMONT B",
       "team2": "BC VERLAINE",
       "category": "U 7 - MM D",
@@ -2448,7 +2468,7 @@
     {
       "code": "544221",
       "date": "2027-01-30",
-      "time": "9:00",
+      "time": "11:00",
       "team1": "LA VILLERSOISE A",
       "team2": "BC VERLAINE",
       "category": "U 8 - MM E",
