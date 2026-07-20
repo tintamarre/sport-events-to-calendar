@@ -1,16 +1,14 @@
 <template>
-  <div class="bg-white rounded-lg border border-neutral-200">
+  <div class="card">
     <!-- Mobile toggle header -->
     <button
       @click="isExpanded = !isExpanded"
       class="w-full md:hidden flex items-center justify-between px-4 py-3 text-left"
     >
-      <span class="font-medium text-neutral-800">Filtres</span>
+      <span class="font-medium text-slate-800">Filtres</span>
       <svg
-        :class="['w-5 h-5 text-neutral-500 transition-transform', isExpanded ? 'rotate-180' : '']"
-        fill="none"
-        viewBox="0 0 24 24"
-        stroke="currentColor"
+        :class="['w-5 h-5 text-slate-500 transition-transform', isExpanded ? 'rotate-180' : '']"
+        fill="none" viewBox="0 0 24 24" stroke="currentColor"
       >
         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
       </svg>
@@ -18,9 +16,9 @@
 
     <!-- Filter content -->
     <div :class="['md:block', isExpanded ? 'block' : 'hidden']">
-      <div class="p-4 space-y-4 md:space-y-0">
-        <!-- Main filters grid -->
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
+      <div class="p-4 space-y-4">
+        <!-- Club + Category -->
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
           <div>
             <label class="form-label">Club</label>
             <select
@@ -41,7 +39,7 @@
               :value="selectedCategory"
               @change="$emit('update:selectedCategory', ($event.target as HTMLSelectElement).value)"
               :disabled="!selectedClub"
-              class="form-select disabled:bg-neutral-100 disabled:cursor-not-allowed disabled:text-neutral-400"
+              class="form-select disabled:bg-slate-100 disabled:cursor-not-allowed disabled:text-slate-400"
             >
               <option value="">Toutes les catégories</option>
               <option v-for="cat in currentCategories" :key="cat" :value="cat">
@@ -49,64 +47,60 @@
               </option>
             </select>
           </div>
+        </div>
 
-          <div>
-            <label class="form-label">Date début</label>
+        <!-- Search -->
+        <div class="relative">
+          <svg class="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-slate-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+          </svg>
+          <input
+            type="text"
+            :value="searchText"
+            @input="$emit('update:searchText', ($event.target as HTMLInputElement).value)"
+            placeholder="Rechercher une équipe, une salle…"
+            class="form-input pl-10"
+          />
+        </div>
+
+        <!-- Period: presets + custom range -->
+        <div class="pt-3 border-t border-slate-100 space-y-3">
+          <div class="flex flex-wrap items-center gap-2">
+            <span class="text-xs font-semibold uppercase tracking-wide text-slate-500 mr-1">Période</span>
+            <button
+              v-for="p in presets" :key="p.key"
+              @click="choosePreset(p.key)"
+              :class="['chip', activePreset === p.key ? 'chip-active' : 'chip-idle']"
+            >
+              {{ p.label }}
+            </button>
+            <button
+              v-if="dateFrom || dateTo"
+              @click="clearDates"
+              class="ml-auto text-sm text-slate-500 hover:text-court-600 transition inline-flex items-center gap-1"
+            >
+              <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+              </svg>
+              Effacer
+            </button>
+          </div>
+
+          <div class="flex flex-col sm:flex-row sm:items-center gap-2 text-sm">
+            <label class="text-slate-500">Du</label>
             <input
               type="date"
               :value="dateFrom"
-              @input="$emit('update:dateFrom', ($event.target as HTMLInputElement).value)"
-              class="form-input"
+              @input="onDateInput('from', ($event.target as HTMLInputElement).value)"
+              class="form-input sm:w-auto tnum"
             />
-          </div>
-
-          <div>
-            <label class="form-label">Date fin</label>
+            <label class="text-slate-500 sm:ml-1">au</label>
             <input
               type="date"
               :value="dateTo"
-              @input="$emit('update:dateTo', ($event.target as HTMLInputElement).value)"
-              class="form-input"
+              @input="onDateInput('to', ($event.target as HTMLInputElement).value)"
+              class="form-input sm:w-auto tnum"
             />
-          </div>
-        </div>
-
-        <!-- Search and preset buttons -->
-        <div class="flex flex-col md:flex-row gap-3 pt-4 border-t border-neutral-100 mt-4">
-          <div class="flex-1">
-            <div class="relative">
-              <svg class="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-neutral-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
-              </svg>
-              <input
-                type="text"
-                :value="searchText"
-                @input="$emit('update:searchText', ($event.target as HTMLInputElement).value)"
-                placeholder="Rechercher une équipe..."
-                class="form-input pl-10"
-              />
-            </div>
-          </div>
-
-          <div class="flex flex-wrap gap-2">
-            <button
-              @click="$emit('applyPreset', 'today')"
-              class="btn btn-secondary text-sm"
-            >
-              Aujourd'hui
-            </button>
-            <button
-              @click="$emit('applyPreset', 'week')"
-              class="btn btn-secondary text-sm"
-            >
-              Cette semaine
-            </button>
-            <button
-              @click="$emit('applyPreset', 'month')"
-              class="btn btn-secondary text-sm"
-            >
-              Ce mois
-            </button>
           </div>
         </div>
       </div>
@@ -115,7 +109,7 @@
 </template>
 
 <script setup lang="ts">
-import { computed, ref } from 'vue'
+import { computed, ref, watch } from 'vue'
 import type { Club } from '../types'
 
 const props = defineProps<{
@@ -127,7 +121,7 @@ const props = defineProps<{
   searchText: string
 }>()
 
-defineEmits<{
+const emit = defineEmits<{
   'update:selectedClub': [value: string]
   'update:selectedCategory': [value: string]
   'update:dateFrom': [value: string]
@@ -136,11 +130,39 @@ defineEmits<{
   'applyPreset': [preset: 'today' | 'week' | 'month']
 }>()
 
+const presets = [
+  { key: 'today', label: "Aujourd'hui" },
+  { key: 'week', label: 'Cette semaine' },
+  { key: 'month', label: 'Ce mois' },
+] as const
+
 const isExpanded = ref(false)
+const activePreset = ref<'today' | 'week' | 'month' | ''>('')
 
 const currentCategories = computed(() => {
   if (!props.selectedClub) return []
   const club = props.clubs.find(c => c.slug === props.selectedClub)
   return club?.categories || []
+})
+
+function choosePreset(key: 'today' | 'week' | 'month') {
+  activePreset.value = key
+  emit('applyPreset', key)
+}
+
+function onDateInput(which: 'from' | 'to', value: string) {
+  activePreset.value = ''
+  emit(which === 'from' ? 'update:dateFrom' : 'update:dateTo', value)
+}
+
+function clearDates() {
+  activePreset.value = ''
+  emit('update:dateFrom', '')
+  emit('update:dateTo', '')
+}
+
+// Reset the highlighted preset if the dates get cleared elsewhere
+watch(() => [props.dateFrom, props.dateTo], ([from, to]) => {
+  if (!from && !to) activePreset.value = ''
 })
 </script>

@@ -2,13 +2,13 @@
   <div>
     <!-- Loading state -->
     <div v-if="loading" class="flex flex-col items-center justify-center py-16">
-      <div class="w-10 h-10 border-2 border-indigo-200 border-t-indigo-600 rounded-full animate-spin"></div>
-      <p class="mt-4 text-neutral-500 text-sm">Chargement des matchs...</p>
+      <div class="w-10 h-10 border-2 border-court-200 border-t-court-600 rounded-full animate-spin"></div>
+      <p class="mt-4 text-slate-500 text-sm">Chargement des matchs…</p>
     </div>
 
     <!-- Error state -->
     <div v-else-if="error" class="max-w-lg mx-auto">
-      <div class="bg-red-50 border border-red-200 rounded-lg p-4">
+      <div class="bg-red-50 border border-red-200 rounded-xl p-4">
         <div class="flex items-start gap-3">
           <svg class="w-5 h-5 text-red-500 mt-0.5 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4m0 4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
@@ -41,13 +41,14 @@
       <!-- Club selected -->
       <div v-if="selectedClub" class="mt-4">
         <!-- Club header -->
-        <div class="bg-white rounded-lg border border-neutral-200 p-4 mb-4">
+        <div class="card p-4 mb-4">
           <div class="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-3">
             <div>
-              <h2 class="text-xl font-semibold text-neutral-800">{{ clubName }}</h2>
-              <p class="text-neutral-500 text-sm mt-0.5">
-                <span class="font-medium text-indigo-600">{{ filteredEvents.length }}</span>
-                match{{ filteredEvents.length > 1 ? 's' : '' }} trouvé{{ filteredEvents.length > 1 ? 's' : '' }}
+              <h2 class="font-display uppercase tracking-wide text-xl md:text-2xl font-semibold text-slate-900">{{ clubName }}</h2>
+              <p class="text-slate-500 text-sm mt-0.5">
+                <span class="font-semibold text-court-600 tnum">{{ filteredEvents.length }}</span>
+                match{{ filteredEvents.length > 1 ? 's' : '' }}
+                <span v-if="selectedCategory || dateFrom || dateTo || searchText">après filtrage</span>
               </p>
             </div>
             <div class="flex flex-wrap gap-2">
@@ -55,7 +56,7 @@
                 v-if="csvUrl"
                 :href="csvUrl"
                 download
-                class="btn btn-secondary text-sm flex items-center gap-1.5"
+                class="btn btn-secondary text-sm gap-1.5"
               >
                 <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
@@ -65,27 +66,27 @@
               <button
                 v-if="events.length > 0"
                 @click="handleICSDownload"
-                class="btn btn-primary text-sm flex items-center gap-1.5"
+                class="btn btn-primary text-sm gap-1.5"
               >
                 <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
                 </svg>
-                iCal
+                Ajouter au calendrier
               </button>
             </div>
           </div>
         </div>
 
-        <EventList :events="filteredEvents" />
+        <EventList :events="filteredEvents" :clubName="clubName" />
       </div>
 
       <!-- No club selected -->
-      <div v-else class="text-center py-12 bg-white rounded-lg border border-neutral-200 mt-4">
-        <div class="w-16 h-16 bg-indigo-50 rounded-full flex items-center justify-center mx-auto mb-4">
+      <div v-else class="text-center py-14 card mt-4">
+        <div class="w-16 h-16 bg-court-100 rounded-full flex items-center justify-center mx-auto mb-4">
           <span class="text-3xl">🏀</span>
         </div>
-        <h3 class="text-lg font-medium text-neutral-700 mb-1">Choisissez votre club</h3>
-        <p class="text-neutral-500 text-sm">Sélectionnez un club ci-dessus pour consulter le calendrier des matchs</p>
+        <h3 class="font-display uppercase tracking-wide text-xl font-semibold text-slate-800 mb-1">Choisissez votre club</h3>
+        <p class="text-slate-500 text-sm">Sélectionnez un club ci-dessus pour voir ses matchs et les ajouter à votre agenda.</p>
       </div>
     </div>
   </div>
