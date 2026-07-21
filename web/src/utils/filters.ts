@@ -3,7 +3,7 @@ import { parseDate } from './dataLoader'
 
 export function filterEvents(events: CalendarEvent[], filters: FilterOptions): CalendarEvent[] {
   return events.filter(event => {
-    if (filters.category && event.category !== filters.category) {
+    if (filters.categories && filters.categories.length > 0 && !filters.categories.includes(event.category)) {
       return false
     }
 

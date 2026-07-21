@@ -29,18 +29,13 @@
           </div>
 
           <div>
-            <label class="form-label">Catégorie</label>
-            <select
-              :value="selectedCategory"
-              @change="$emit('update:selectedCategory', ($event.target as HTMLSelectElement).value)"
+            <label class="form-label">Catégories</label>
+            <CategoryMultiSelect
+              :categories="currentCategories"
+              :modelValue="selectedCategories"
               :disabled="!selectedClub"
-              class="form-select disabled:bg-slate-100 disabled:cursor-not-allowed disabled:text-slate-400"
-            >
-              <option value="">Toutes les catégories</option>
-              <option v-for="cat in currentCategories" :key="cat" :value="cat">
-                {{ cat }}
-              </option>
-            </select>
+              @update:modelValue="$emit('update:selectedCategories', $event)"
+            />
           </div>
         </div>
 
@@ -106,12 +101,13 @@
 <script setup lang="ts">
 import { computed, ref, watch } from 'vue'
 import ClubCombobox from './ClubCombobox.vue'
+import CategoryMultiSelect from './CategoryMultiSelect.vue'
 import type { Club } from '../types'
 
 const props = defineProps<{
   clubs: Club[]
   selectedClub: string
-  selectedCategory: string
+  selectedCategories: string[]
   dateFrom: string
   dateTo: string
   searchText: string
@@ -119,7 +115,7 @@ const props = defineProps<{
 
 const emit = defineEmits<{
   'update:selectedClub': [value: string]
-  'update:selectedCategory': [value: string]
+  'update:selectedCategories': [value: string[]]
   'update:dateFrom': [value: string]
   'update:dateTo': [value: string]
   'update:searchText': [value: string]

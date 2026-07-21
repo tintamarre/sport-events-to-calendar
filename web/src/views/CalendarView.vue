@@ -26,12 +26,12 @@
       <FilterPanel
         :clubs="manifest?.clubs || []"
         :selectedClub="selectedClub"
-        :selectedCategory="selectedCategory"
+        :selectedCategories="selectedCategories"
         :dateFrom="dateFrom"
         :dateTo="dateTo"
         :searchText="searchText"
         @update:selectedClub="updateClub"
-        @update:selectedCategory="updateCategory"
+        @update:selectedCategories="updateCategories"
         @update:dateFrom="updateDateFrom"
         @update:dateTo="updateDateTo"
         @update:searchText="updateSearchText"
@@ -48,7 +48,7 @@
               <p class="text-slate-500 text-sm mt-0.5">
                 <span class="font-semibold text-court-600 tnum">{{ filteredEvents.length }}</span>
                 match{{ filteredEvents.length > 1 ? 's' : '' }}
-                <span v-if="selectedCategory || dateFrom || dateTo || searchText">après filtrage</span>
+                <span v-if="selectedCategories.length || dateFrom || dateTo || searchText">après filtrage</span>
               </p>
             </div>
             <div class="flex flex-wrap gap-2">
@@ -110,7 +110,7 @@ const loading = ref(true)
 const error = ref<string | null>(null)
 
 const selectedClub = ref<string>('')
-const selectedCategory = ref<string>('')
+const selectedCategories = ref<string[]>([])
 const dateFrom = ref<string>('')
 const dateTo = ref<string>('')
 const searchText = ref<string>('')
@@ -122,8 +122,6 @@ const currentClub = computed(() => {
 
 const clubName = computed(() => currentClub.value?.name || '')
 
-const categories = computed(() => currentClub.value?.categories || [])
-
 const csvUrl = computed(() => {
   if (!currentClub.value) return ''
   const base = import.meta.env.DEV ? '' : '/sport-events-to-calendar'
@@ -133,24 +131,26 @@ const csvUrl = computed(() => {
 function handleICSDownload() {
   if (!currentClub.value) return
 
-  const eventsToDownload = selectedCategory.value
-    ? filteredEvents.value
-    : events.value
+  const cats = selectedCategories.value
+  const eventsToDownload = cats.length ? filteredEvents.value : events.value
 
-  const calName = selectedCategory.value
-    ? `${clubName.value} - ${selectedCategory.value}`
-    : clubName.value
+  let calName = clubName.value
+  let filename = `${currentClub.value.slug}.ics`
 
-  const filename = selectedCategory.value
-    ? `${currentClub.value.slug}-${selectedCategory.value.toLowerCase().replace(/\s+/g, '-')}.ics`
-    : `${currentClub.value.slug}.ics`
+  if (cats.length === 1) {
+    calName = `${clubName.value} - ${cats[0]}`
+    filename = `${currentClub.value.slug}-${cats[0].toLowerCase().replace(/\s+/g, '-')}.ics`
+  } else if (cats.length > 1) {
+    calName = `${clubName.value} - sélection`
+    filename = `${currentClub.value.slug}-selection.ics`
+  }
 
   downloadICS(eventsToDownload, calName, filename)
 }
 
 const filteredEvents = computed(() => {
   const filtered = filterEvents(events.value, {
-    category: selectedCategory.value || undefined,
+    categories: selectedCategories.value,
     dateFrom: dateFrom.value || undefined,
     dateTo: dateTo.value || undefined,
     searchText: searchText.value || undefined
@@ -160,7 +160,7 @@ const filteredEvents = computed(() => {
 
 async function updateClub(clubSlug: string) {
   selectedClub.value = clubSlug
-  selectedCategory.value = ''
+  selectedCategories.value = []
   events.value = []
 
   if (clubSlug && currentClub.value) {
@@ -177,8 +177,8 @@ async function updateClub(clubSlug: string) {
   updateUrl()
 }
 
-function updateCategory(category: string) {
-  selectedCategory.value = category
+function updateCategories(categories: string[]) {
+  selectedCategories.value = categories
   updateUrl()
 }
 
@@ -223,7 +223,7 @@ function updateUrl() {
   const query: any = {}
 
   if (selectedClub.value) query.club = selectedClub.value
-  if (selectedCategory.value) query.category = selectedCategory.value
+  if (selectedCategories.value.length) query.category = selectedCategories.value
   if (dateFrom.value) query.from = dateFrom.value
   if (dateTo.value) query.to = dateTo.value
   if (searchText.value) query.q = searchText.value
@@ -237,8 +237,12 @@ function loadFromUrl() {
   if (query.club && typeof query.club === 'string') {
     selectedClub.value = query.club
   }
-  if (query.category && typeof query.category === 'string') {
-    selectedCategory.value = query.category
+  if (query.category) {
+    selectedCategories.value = Array.isArray(query.category)
+      ? query.category.filter((c): c is string => typeof c === 'string')
+      : [query.category]
+  } else {
+    selectedCategories.value = []
   }
   if (query.from && typeof query.from === 'string') {
     dateFrom.value = query.from

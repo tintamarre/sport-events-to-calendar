@@ -35,7 +35,7 @@ export interface ClubData {
 
 export interface FilterOptions {
   club?: string
-  category?: string
+  categories?: string[]
   dateFrom?: string
   dateTo?: string
   searchText?: string
