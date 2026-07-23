@@ -16,16 +16,6 @@
       "other": ""
     },
     {
-      "code": "414022",
-      "date": "2026-09-13",
-      "time": "15:00",
-      "team1": "ALL. FLEMALLE A",
-      "team2": "R HT-PRE OUGREE A",
-      "category": "DD - DIVISION 2 A",
-      "location": "ALL. FLEMALLE A",
-      "other": ""
-    },
-    {
       "code": "414033",
       "date": "2026-09-26",
       "time": "20:00",
@@ -68,7 +58,7 @@
     {
       "code": "414083",
       "date": "2026-10-24",
-      "time": "20:00",
+      "time": "21:00",
       "team1": "R HT-PRE OUGREE A",
       "team2": "CRISTAL SGH A",
       "category": "DD - DIVISION 2 A",
@@ -78,7 +68,7 @@
     {
       "code": "414112",
       "date": "2026-11-15",
-      "time": "13:00",
+      "time": "17:00",
       "team1": "PEPINSTER EAST BELG B",
       "team2": "R HT-PRE OUGREE A",
       "category": "DD - DIVISION 2 A",
@@ -118,7 +108,7 @@
     {
       "code": "414155",
       "date": "2026-12-12",
-      "time": "21:00",
+      "time": "19:00",
       "team1": "ABC WAREMME B",
       "team2": "R HT-PRE OUGREE A",
       "category": "DD - DIVISION 2 A",
@@ -168,11 +158,21 @@
     {
       "code": "414223",
       "date": "2027-01-30",
-      "time": "20:00",
+      "time": "17:00",
       "team1": "R HT-PRE OUGREE A",
       "team2": "ALL. FLEMALLE A",
       "category": "DD - DIVISION 2 A",
       "location": "R HT-PRE OUGREE A",
+      "other": ""
+    },
+    {
+      "code": "414022",
+      "date": "2027-02-07",
+      "time": "15:00",
+      "team1": "ALL. FLEMALLE A",
+      "team2": "R HT-PRE OUGREE A",
+      "category": "DD - DIVISION 2 A",
+      "location": "ALL. FLEMALLE A",
       "other": ""
     },
     {
@@ -208,7 +208,7 @@
     {
       "code": "414273",
       "date": "2027-03-06",
-      "time": "20:00",
+      "time": "19:00",
       "team1": "R HT-PRE OUGREE A",
       "team2": "LA VILLERSOISE A",
       "category": "DD - DIVISION 2 A",
@@ -276,16 +276,6 @@
       "other": ""
     },
     {
-      "code": "418013",
-      "date": "2026-09-06",
-      "time": "15:00",
-      "team1": "LA VILLERSOISE B",
-      "team2": "R HT-PRE OUGREE B",
-      "category": "DD - DIVISION 3 C",
-      "location": "LA VILLERSOISE B",
-      "other": ""
-    },
-    {
       "code": "418025",
       "date": "2026-09-13",
       "time": "14:00",
@@ -293,6 +283,16 @@
       "team2": "R HT-PRE OUGREE B",
       "category": "DD - DIVISION 3 C",
       "location": "PRAYON TROOZ D",
+      "other": ""
+    },
+    {
+      "code": "418013",
+      "date": "2026-09-27",
+      "time": "15:00",
+      "team1": "LA VILLERSOISE B",
+      "team2": "R HT-PRE OUGREE B",
+      "category": "DD - DIVISION 3 C",
+      "location": "LA VILLERSOISE B",
       "other": ""
     },
     {
@@ -638,7 +638,7 @@
     {
       "code": "405255",
       "date": "2027-02-21",
-      "time": "13:30",
+      "time": "11:30",
       "team1": "RJS GRIVEGNEE",
       "team2": "R HT-PRE OUGREE A",
       "category": "MM - DIVISION 3 B",
@@ -768,7 +768,7 @@
     {
       "code": "412086",
       "date": "2026-10-24",
-      "time": "18:00",
+      "time": "19:00",
       "team1": "R HT-PRE OUGREE B",
       "team2": "RBC WELKENRAEDT B",
       "category": "MM - DIVISION 4 F",
@@ -817,8 +817,8 @@
     },
     {
       "code": "412163",
-      "date": "2026-12-20",
-      "time": "17:00",
+      "date": "2026-12-19",
+      "time": "20:00",
       "team1": "ROYAL ANS BC B",
       "team2": "R HT-PRE OUGREE B",
       "category": "MM - DIVISION 4 F",
@@ -996,6 +996,16 @@
       "other": ""
     },
     {
+      "code": "807003",
+      "date": "2026-08-23",
+      "time": "17:00",
+      "team1": "PEPINSTER EAST BELG C",
+      "team2": "R HT-PRE OUGREE B (+ 10)",
+      "category": "PROVINCIALE MM - POULE G",
+      "location": "PEPINSTER EAST BELG C",
+      "other": ""
+    },
+    {
       "code": "807006",
       "date": "2026-08-29",
       "time": "20:00",
@@ -1068,7 +1078,7 @@
     {
       "code": "528124",
       "date": "2026-11-21",
-      "time": "11:00",
+      "time": "13:00",
       "team1": "ABC WAREMME B",
       "team2": "R HT-PRE OUGREE",
       "category": "U 10 - MM I",
@@ -1328,7 +1338,7 @@
     {
       "code": "507295",
       "date": "2027-03-20",
-      "time": "16:00",
+      "time": "12:00",
       "team1": "R HT-PRE OUGREE",
       "team2": "RBC ALLEUR D",
       "category": "U 12 - MM H",
@@ -1373,7 +1383,7 @@
       "team2": "R HT-PRE OUGREE",
       "category": "U 14 - DD A",
       "location": "ABC WAREMME",
-      "other": ""
+      "other": "(Ho Oreye)"
     },
     {
       "code": "600056",
@@ -1458,7 +1468,7 @@
     {
       "code": "600226",
       "date": "2027-01-30",
-      "time": "14:00",
+      "time": "13:00",
       "team1": "R HT-PRE OUGREE",
       "team2": "ABC WAREMME",
       "category": "U 14 - DD A",
@@ -1478,7 +1488,7 @@
     {
       "code": "600243",
       "date": "2027-02-14",
-      "time": "15:00",
+      "time": "15:30",
       "team1": "BC VERLAINE",
       "team2": "R HT-PRE OUGREE",
       "category": "U 14 - DD A",
@@ -1538,7 +1548,7 @@
     {
       "code": "493025",
       "date": "2026-09-12",
-      "time": "13:00",
+      "time": "9:00",
       "team1": "LA VILLERSOISE",
       "team2": "R HT-PRE OUGREE",
       "category": "U 14 - PROV MM D",
@@ -1628,7 +1638,7 @@
     {
       "code": "493226",
       "date": "2027-01-30",
-      "time": "16:00",
+      "time": "15:00",
       "team1": "R HT-PRE OUGREE",
       "team2": "LA VILLERSOISE",
       "category": "U 14 - PROV MM D",
@@ -1688,7 +1698,7 @@
     {
       "code": "470022",
       "date": "2026-09-12",
-      "time": "17:00",
+      "time": "18:00",
       "team1": "DF BC MALMEDY",
       "team2": "R HT-PRE OUGREE",
       "category": "U 16 - PROV MM A",
@@ -1848,7 +1858,7 @@
     {
       "code": "470322",
       "date": "2027-04-10",
-      "time": "14:00",
+      "time": "10:00",
       "team1": "BBC EUPEN",
       "team2": "R HT-PRE OUGREE",
       "category": "U 16 - PROV MM A",
@@ -2128,7 +2138,7 @@
     {
       "code": "552222",
       "date": "2027-01-30",
-      "time": "12:00",
+      "time": "11:30",
       "team1": "R HT-PRE OUGREE",
       "team2": "ROYAL BC WANZE",
       "category": "U 7 - MM C",
@@ -2338,7 +2348,7 @@
     {
       "code": "543223",
       "date": "2027-01-30",
-      "time": "12:00",
+      "time": "11:30",
       "team1": "R HT-PRE OUGREE",
       "team2": "R.UN.BELLAIRE",
       "category": "U 8 - MM D",
@@ -2378,7 +2388,7 @@
     {
       "code": "543333",
       "date": "2027-04-17",
-      "time": "12:00",
+      "time": "16:00",
       "team1": "R HT-PRE OUGREE",
       "team2": "BC SPRIMONT A",
       "category": "U 8 - MM D",

@@ -36,6 +36,36 @@
       "other": ""
     },
     {
+      "code": "763001",
+      "date": "2026-08-29",
+      "time": "10:00",
+      "team1": "RBC ESNEUX A",
+      "team2": "HARIMALIA BC",
+      "category": "CPE PROV MINIMES MM",
+      "location": "RBC ESNEUX A",
+      "other": ""
+    },
+    {
+      "code": "763007",
+      "date": "2026-08-29",
+      "time": "14:00",
+      "team1": "RBC ESNEUX B",
+      "team2": "CRISTAL SGH B",
+      "category": "CPE PROV MINIMES MM",
+      "location": "RBC ESNEUX B",
+      "other": ""
+    },
+    {
+      "code": "764001",
+      "date": "2026-08-29",
+      "time": "12:00",
+      "team1": "RBC ESNEUX A",
+      "team2": "ROYAL MOSA AC 1941",
+      "category": "CPE PROV PUPILLES MM",
+      "location": "RBC ESNEUX A",
+      "other": ""
+    },
+    {
       "code": "764006",
       "date": "2026-08-30",
       "time": "11:00",
@@ -48,7 +78,7 @@
     {
       "code": "413013",
       "date": "2026-09-06",
-      "time": "10:00",
+      "time": "12:00",
       "team1": "RBC ESNEUX B",
       "team2": "RBC BLEGNY A",
       "category": "DD - DIVISION 1",
@@ -58,7 +88,7 @@
     {
       "code": "413023",
       "date": "2026-09-13",
-      "time": "10:00",
+      "time": "12:00",
       "team1": "RBC ESNEUX B",
       "team2": "HANNUT BC",
       "category": "DD - DIVISION 1",
@@ -77,8 +107,8 @@
     },
     {
       "code": "413053",
-      "date": "2026-10-04",
-      "time": "10:00",
+      "date": "2026-10-03",
+      "time": "21:00",
       "team1": "RBC ESNEUX B",
       "team2": "BC SPRIMONT A",
       "category": "DD - DIVISION 1",
@@ -86,19 +116,9 @@
       "other": ""
     },
     {
-      "code": "413064",
-      "date": "2026-10-10",
-      "time": "21:00",
-      "team1": "RBC CROATIA OUPEYE",
-      "team2": "RBC ESNEUX B",
-      "category": "DD - DIVISION 1",
-      "location": "RBC CROATIA OUPEYE",
-      "other": ""
-    },
-    {
       "code": "413073",
       "date": "2026-10-18",
-      "time": "10:00",
+      "time": "12:00",
       "team1": "RBC ESNEUX B",
       "team2": "RBC ALLEUR C",
       "category": "DD - DIVISION 1",
@@ -106,9 +126,19 @@
       "other": ""
     },
     {
+      "code": "413303",
+      "date": "2026-10-21",
+      "time": "20:30",
+      "team1": "RBC ESNEUX B",
+      "team2": "RBC CROATIA OUPEYE",
+      "category": "DD - DIVISION 1",
+      "location": "RBC ESNEUX B",
+      "other": ""
+    },
+    {
       "code": "413085",
       "date": "2026-10-24",
-      "time": "19:00",
+      "time": "21:00",
       "team1": "ABC WAREMME A",
       "team2": "RBC ESNEUX B",
       "category": "DD - DIVISION 1",
@@ -158,7 +188,7 @@
     {
       "code": "413153",
       "date": "2026-12-13",
-      "time": "10:00",
+      "time": "18:00",
       "team1": "RBC ESNEUX B",
       "team2": "RBC HANEFFE B",
       "category": "DD - DIVISION 1",
@@ -178,7 +208,7 @@
     {
       "code": "413193",
       "date": "2027-01-10",
-      "time": "10:00",
+      "time": "12:00",
       "team1": "RBC ESNEUX B",
       "team2": "ATLAS A JUPILLE A",
       "category": "DD - DIVISION 1",
@@ -218,7 +248,7 @@
     {
       "code": "413247",
       "date": "2027-02-13",
-      "time": "17:00",
+      "time": "21:00",
       "team1": "BC SPRIMONT A",
       "team2": "RBC ESNEUX B",
       "category": "DD - DIVISION 1",
@@ -248,7 +278,7 @@
     {
       "code": "413283",
       "date": "2027-03-14",
-      "time": "10:00",
+      "time": "13:00",
       "team1": "RBC ESNEUX B",
       "team2": "RABC ENSIVAL",
       "category": "DD - DIVISION 1",
@@ -258,7 +288,7 @@
     {
       "code": "413293",
       "date": "2027-03-21",
-      "time": "10:00",
+      "time": "16:00",
       "team1": "RBC ESNEUX B",
       "team2": "HENRI-CHAPELLE A",
       "category": "DD - DIVISION 1",
@@ -266,13 +296,13 @@
       "other": ""
     },
     {
-      "code": "413303",
-      "date": "2027-03-28",
-      "time": "10:00",
-      "team1": "RBC ESNEUX B",
-      "team2": "RBC CROATIA OUPEYE",
+      "code": "413064",
+      "date": "2027-03-27",
+      "time": "20:00",
+      "team1": "RBC CROATIA OUPEYE",
+      "team2": "RBC ESNEUX B",
       "category": "DD - DIVISION 1",
-      "location": "RBC ESNEUX B",
+      "location": "RBC CROATIA OUPEYE",
       "other": ""
     },
     {
@@ -338,7 +368,7 @@
     {
       "code": "417053",
       "date": "2026-10-03",
-      "time": "18:00",
+      "time": "17:00",
       "team1": "RBC ESNEUX C",
       "team2": "RBC DISON-ANDRIMONT B",
       "category": "DD - DIVISION 3 B",
@@ -367,8 +397,8 @@
     },
     {
       "code": "417143",
-      "date": "2026-12-05",
-      "time": "18:00",
+      "date": "2026-12-06",
+      "time": "12:00",
       "team1": "RBC ESNEUX C",
       "team2": "ABC WAREMME C",
       "category": "DD - DIVISION 3 B",
@@ -378,7 +408,7 @@
     {
       "code": "417153",
       "date": "2026-12-12",
-      "time": "18:00",
+      "time": "20:00",
       "team1": "RBC ESNEUX C",
       "team2": "ATLAS A JUPILLE B",
       "category": "DD - DIVISION 3 B",
@@ -448,7 +478,7 @@
     {
       "code": "417255",
       "date": "2027-02-20",
-      "time": "18:30",
+      "time": "19:00",
       "team1": "ABC WAREMME C",
       "team2": "RBC ESNEUX C",
       "category": "DD - DIVISION 3 B",
@@ -488,7 +518,7 @@
     {
       "code": "417323",
       "date": "2027-04-10",
-      "time": "18:00",
+      "time": "20:00",
       "team1": "RBC ESNEUX C",
       "team2": "CS OUTREMEUSE",
       "category": "DD - DIVISION 3 B",
@@ -648,7 +678,7 @@
     {
       "code": "AW105101",
       "date": "2027-02-07",
-      "time": "14:00",
+      "time": "15:00",
       "team1": "RBC ESNEUX A",
       "team2": "RCS NATOYE",
       "category": "DD - REGIONALE 2 A",
@@ -747,8 +777,8 @@
     },
     {
       "code": "411036",
-      "date": "2026-09-19",
-      "time": "17:00",
+      "date": "2026-09-20",
+      "time": "14:00",
       "team1": "RBC HANEFFE B",
       "team2": "RBC ESNEUX",
       "category": "MM - DIVISION 4 E",
@@ -828,7 +858,7 @@
     {
       "code": "411155",
       "date": "2026-12-12",
-      "time": "20:00",
+      "time": "18:00",
       "team1": "RBC ESNEUX",
       "team2": "THEUX BC D",
       "category": "MM - DIVISION 4 E",
@@ -877,8 +907,8 @@
     },
     {
       "code": "411245",
-      "date": "2027-02-13",
-      "time": "20:00",
+      "date": "2027-02-14",
+      "time": "10:00",
       "team1": "RBC ESNEUX",
       "team2": "R.UN.BELLAIRE C",
       "category": "MM - DIVISION 4 E",
@@ -967,8 +997,8 @@
     },
     {
       "code": "527016",
-      "date": "2026-09-05",
-      "time": "10:30",
+      "date": "2026-09-06",
+      "time": "10:00",
       "team1": "RBC ESNEUX A",
       "team2": "RBC ALLEUR B",
       "category": "U 10 - MM H",
@@ -1018,7 +1048,7 @@
     {
       "code": "527106",
       "date": "2026-11-07",
-      "time": "10:30",
+      "time": "9:00",
       "team1": "RBC ESNEUX A",
       "team2": "BC VERLAINE B",
       "category": "U 10 - MM H",
@@ -1078,7 +1108,7 @@
     {
       "code": "527203",
       "date": "2027-01-16",
-      "time": "14:45",
+      "time": "9:00",
       "team1": "RBC ALLEUR B",
       "team2": "RBC ESNEUX A",
       "category": "U 10 - MM H",
@@ -1108,7 +1138,7 @@
     {
       "code": "527236",
       "date": "2027-02-06",
-      "time": "10:30",
+      "time": "9:00",
       "team1": "RBC ESNEUX A",
       "team2": "CRISTAL SGH B",
       "category": "U 10 - MM H",
@@ -1406,19 +1436,9 @@
       "other": ""
     },
     {
-      "code": "500086",
-      "date": "2026-10-24",
-      "time": "9:00",
-      "team1": "RBC ESNEUX A",
-      "team2": "PEPINSTER EAST BELG A",
-      "category": "U 12 - MM A",
-      "location": "RBC ESNEUX A",
-      "other": ""
-    },
-    {
       "code": "500106",
       "date": "2026-11-07",
-      "time": "9:00",
+      "time": "10:30",
       "team1": "RBC ESNEUX A",
       "team2": "BC BELLEFLAMME",
       "category": "U 12 - MM A",
@@ -1446,21 +1466,21 @@
       "other": ""
     },
     {
-      "code": "500146",
-      "date": "2026-12-05",
+      "code": "500156",
+      "date": "2026-11-29",
       "time": "9:00",
       "team1": "RBC ESNEUX A",
-      "team2": "GIANTS BRAIVES A",
+      "team2": "ROYAL HERVE-BATTICE B",
       "category": "U 12 - MM A",
       "location": "RBC ESNEUX A",
       "other": ""
     },
     {
-      "code": "500156",
-      "date": "2026-12-12",
+      "code": "500146",
+      "date": "2026-12-05",
       "time": "9:00",
       "team1": "RBC ESNEUX A",
-      "team2": "ROYAL HERVE-BATTICE B",
+      "team2": "GIANTS BRAIVES A",
       "category": "U 12 - MM A",
       "location": "RBC ESNEUX A",
       "other": ""
@@ -1567,22 +1587,12 @@
     },
     {
       "code": "500332",
-      "date": "2027-04-18",
-      "time": "15:00",
+      "date": "2027-04-17",
+      "time": "17:00",
       "team1": "ROYAL HERVE-BATTICE B",
       "team2": "RBC ESNEUX A",
       "category": "U 12 - MM A",
       "location": "ROYAL HERVE-BATTICE B",
-      "other": ""
-    },
-    {
-      "code": "500342",
-      "date": "2027-04-24",
-      "time": "11:00",
-      "team1": "PEPINSTER EAST BELG A",
-      "team2": "RBC ESNEUX A",
-      "category": "U 12 - MM A",
-      "location": "PEPINSTER EAST BELG A",
       "other": ""
     },
     {
@@ -1647,8 +1657,8 @@
     },
     {
       "code": "502085",
-      "date": "2026-10-24",
-      "time": "10:30",
+      "date": "2026-10-25",
+      "time": "11:30",
       "team1": "RBC ESNEUX B",
       "team2": "BC VERLAINE A",
       "category": "U 12 - MM C",
@@ -1788,7 +1798,7 @@
     {
       "code": "502295",
       "date": "2027-03-20",
-      "time": "10:30",
+      "time": "12:30",
       "team1": "RBC ESNEUX B",
       "team2": "RB TILFF A",
       "category": "U 12 - MM C",
@@ -1838,7 +1848,7 @@
     {
       "code": "601036",
       "date": "2026-09-19",
-      "time": "9:00",
+      "time": "10:30",
       "team1": "RBC ESNEUX",
       "team2": "BC COINTE",
       "category": "U 14 - DD B",
@@ -1878,7 +1888,7 @@
     {
       "code": "601126",
       "date": "2026-11-21",
-      "time": "9:00",
+      "time": "10:30",
       "team1": "RBC ESNEUX",
       "team2": "RBC BLEGNY",
       "category": "U 14 - DD B",
@@ -1938,7 +1948,7 @@
     {
       "code": "601226",
       "date": "2027-01-30",
-      "time": "9:00",
+      "time": "10:30",
       "team1": "RBC ESNEUX",
       "team2": "PRAYON TROOZ",
       "category": "U 14 - DD B",
@@ -2027,8 +2037,8 @@
     },
     {
       "code": "481105",
-      "date": "2026-11-08",
-      "time": "12:00",
+      "date": "2026-11-07",
+      "time": "16:00",
       "team1": "RBC ESNEUX A",
       "team2": "RB TILFF A",
       "category": "U 14 - ELITES MM B",
@@ -2067,8 +2077,8 @@
     },
     {
       "code": "481155",
-      "date": "2026-12-13",
-      "time": "12:00",
+      "date": "2026-12-12",
+      "time": "13:00",
       "team1": "RBC ESNEUX A",
       "team2": "ABC WAREMME A",
       "category": "U 14 - ELITES MM B",
@@ -2118,7 +2128,7 @@
     {
       "code": "481235",
       "date": "2027-02-07",
-      "time": "12:00",
+      "time": "13:00",
       "team1": "RBC ESNEUX A",
       "team2": "GIANTS BRAIVES A",
       "category": "U 14 - ELITES MM B",
@@ -2137,7 +2147,7 @@
     },
     {
       "code": "481285",
-      "date": "2027-03-14",
+      "date": "2027-03-13",
       "time": "12:00",
       "team1": "RBC ESNEUX A",
       "team2": "BC SPRIMONT A",
@@ -2157,10 +2167,20 @@
     },
     {
       "code": "481305",
-      "date": "2027-03-28",
-      "time": "12:00",
+      "date": "2027-03-27",
+      "time": "9:00",
       "team1": "RBC ESNEUX A",
       "team2": "BC COINTE A",
+      "category": "U 14 - ELITES MM B",
+      "location": "RBC ESNEUX A",
+      "other": ""
+    },
+    {
+      "code": "481335",
+      "date": "2027-04-03",
+      "time": "16:30",
+      "team1": "RBC ESNEUX A",
+      "team2": "COLLEGE S LOUIS",
       "category": "U 14 - ELITES MM B",
       "location": "RBC ESNEUX A",
       "other": ""
@@ -2173,16 +2193,6 @@
       "team2": "RBC ESNEUX A",
       "category": "U 14 - ELITES MM B",
       "location": "HENRI-CHAPELLE A",
-      "other": ""
-    },
-    {
-      "code": "481335",
-      "date": "2027-04-18",
-      "time": "12:00",
-      "team1": "RBC ESNEUX A",
-      "team2": "COLLEGE S LOUIS",
-      "category": "U 14 - ELITES MM B",
-      "location": "RBC ESNEUX A",
       "other": ""
     },
     {
@@ -2213,6 +2223,16 @@
       "team2": "RBC AWANS B",
       "category": "U 14 - PROV MM B",
       "location": "RBC ESNEUX B",
+      "other": ""
+    },
+    {
+      "code": "491321",
+      "date": "2026-10-17",
+      "time": "11:00",
+      "team1": "ROYAL HERVE-BATTICE",
+      "team2": "RBC ESNEUX B",
+      "category": "U 14 - PROV MM B",
+      "location": "ROYAL HERVE-BATTICE",
       "other": ""
     },
     {
@@ -2308,7 +2328,7 @@
     {
       "code": "491235",
       "date": "2027-02-07",
-      "time": "10:00",
+      "time": "9:00",
       "team1": "RBC ESNEUX B",
       "team2": "RBC DISON-ANDRIMONT",
       "category": "U 14 - PROV MM B",
@@ -2328,7 +2348,7 @@
     {
       "code": "491285",
       "date": "2027-03-14",
-      "time": "10:00",
+      "time": "9:00",
       "team1": "RBC ESNEUX B",
       "team2": "RBC BLEGNY",
       "category": "U 14 - PROV MM B",
@@ -2346,19 +2366,9 @@
       "other": ""
     },
     {
-      "code": "491321",
-      "date": "2027-04-10",
-      "time": "17:00",
-      "team1": "ROYAL HERVE-BATTICE",
-      "team2": "RBC ESNEUX B",
-      "category": "U 14 - PROV MM B",
-      "location": "ROYAL HERVE-BATTICE",
-      "other": ""
-    },
-    {
       "code": "491335",
-      "date": "2027-04-18",
-      "time": "10:00",
+      "date": "2027-04-03",
+      "time": "10:30",
       "team1": "RBC ESNEUX B",
       "team2": "RB TILFF B",
       "category": "U 14 - PROV MM B",
@@ -2388,7 +2398,7 @@
     {
       "code": "451035",
       "date": "2026-09-19",
-      "time": "13:00",
+      "time": "16:30",
       "team1": "RBC ESNEUX A",
       "team2": "ROYAL BC WANZE A",
       "category": "U 16 - ELITES MM B",
@@ -2398,7 +2408,7 @@
     {
       "code": "451055",
       "date": "2026-10-03",
-      "time": "13:00",
+      "time": "9:00",
       "team1": "RBC ESNEUX A",
       "team2": "RBC AWANS A",
       "category": "U 16 - ELITES MM B",
@@ -2418,7 +2428,7 @@
     {
       "code": "451105",
       "date": "2026-11-07",
-      "time": "13:00",
+      "time": "14:00",
       "team1": "RBC ESNEUX A",
       "team2": "HARIMALIA BC",
       "category": "U 16 - ELITES MM B",
@@ -2438,7 +2448,7 @@
     {
       "code": "451125",
       "date": "2026-11-21",
-      "time": "13:00",
+      "time": "16:30",
       "team1": "RBC ESNEUX A",
       "team2": "ABC WAREMME A",
       "category": "U 16 - ELITES MM B",
@@ -2488,7 +2498,7 @@
     {
       "code": "451225",
       "date": "2027-01-30",
-      "time": "13:00",
+      "time": "14:30",
       "team1": "RBC ESNEUX A",
       "team2": "RBC ALLEUR",
       "category": "U 16 - ELITES MM B",
@@ -2498,7 +2508,7 @@
     {
       "code": "451235",
       "date": "2027-02-06",
-      "time": "13:00",
+      "time": "12:30",
       "team1": "RBC ESNEUX A",
       "team2": "GIANTS BRAIVES A",
       "category": "U 16 - ELITES MM B",
@@ -2558,7 +2568,7 @@
     {
       "code": "471035",
       "date": "2026-09-19",
-      "time": "11:00",
+      "time": "14:30",
       "team1": "RBC ESNEUX B",
       "team2": "VAIL. JUPILLE",
       "category": "U 16 - PROV MM B",
@@ -2568,7 +2578,7 @@
     {
       "code": "471105",
       "date": "2026-11-07",
-      "time": "11:00",
+      "time": "12:00",
       "team1": "RBC ESNEUX B",
       "team2": "PEPINSTER EAST BELG B",
       "category": "U 16 - PROV MM B",
@@ -2578,7 +2588,7 @@
     {
       "code": "471116",
       "date": "2026-11-14",
-      "time": "17:00",
+      "time": "15:00",
       "team1": "R 4A AYWAILLE-HAMOIR",
       "team2": "RBC ESNEUX B",
       "category": "U 16 - PROV MM B",
@@ -2588,7 +2598,7 @@
     {
       "code": "471125",
       "date": "2026-11-21",
-      "time": "11:00",
+      "time": "14:30",
       "team1": "RBC ESNEUX B",
       "team2": "ATLAS A JUPILLE B",
       "category": "U 16 - PROV MM B",
@@ -2598,7 +2608,7 @@
     {
       "code": "471143",
       "date": "2026-12-06",
-      "time": "17:00",
+      "time": "13:00",
       "team1": "ROYAL ANS BC",
       "team2": "RBC ESNEUX B",
       "category": "U 16 - PROV MM B",
@@ -2658,7 +2668,7 @@
     {
       "code": "471235",
       "date": "2027-02-06",
-      "time": "11:00",
+      "time": "10:30",
       "team1": "RBC ESNEUX B",
       "team2": "R 4A AYWAILLE-HAMOIR",
       "category": "U 16 - PROV MM B",
@@ -2668,7 +2678,7 @@
     {
       "code": "471285",
       "date": "2027-03-13",
-      "time": "11:00",
+      "time": "14:00",
       "team1": "RBC ESNEUX B",
       "team2": "UN HUY BASKET",
       "category": "U 16 - PROV MM B",
@@ -2738,7 +2748,7 @@
     {
       "code": "431055",
       "date": "2026-10-04",
-      "time": "14:00",
+      "time": "16:00",
       "team1": "RBC ESNEUX",
       "team2": "RBC AWANS",
       "category": "U 18 - ELITES MM B",
@@ -2758,7 +2768,7 @@
     {
       "code": "431105",
       "date": "2026-11-08",
-      "time": "14:00",
+      "time": "16:00",
       "team1": "RBC ESNEUX",
       "team2": "HARIMALIA BC",
       "category": "U 18 - ELITES MM B",
@@ -2778,7 +2788,7 @@
     {
       "code": "431125",
       "date": "2026-11-22",
-      "time": "14:00",
+      "time": "16:00",
       "team1": "RBC ESNEUX",
       "team2": "BC BELLEFLAMME A",
       "category": "U 18 - ELITES MM B",
@@ -2798,7 +2808,7 @@
     {
       "code": "431155",
       "date": "2026-12-13",
-      "time": "14:00",
+      "time": "12:00",
       "team1": "RBC ESNEUX",
       "team2": "ABC WAREMME B",
       "category": "U 18 - ELITES MM B",
@@ -2827,8 +2837,8 @@
     },
     {
       "code": "431205",
-      "date": "2027-01-17",
-      "time": "14:00",
+      "date": "2027-01-16",
+      "time": "15:00",
       "team1": "RBC ESNEUX",
       "team2": "ROYAL MOSA AC 1941",
       "category": "U 18 - ELITES MM B",
@@ -2848,7 +2858,7 @@
     {
       "code": "431225",
       "date": "2027-01-31",
-      "time": "14:00",
+      "time": "16:00",
       "team1": "RBC ESNEUX",
       "team2": "RABC ENSIVAL",
       "category": "U 18 - ELITES MM B",
@@ -2858,7 +2868,7 @@
     {
       "code": "431235",
       "date": "2027-02-07",
-      "time": "14:00",
+      "time": "11:00",
       "team1": "RBC ESNEUX",
       "team2": "PRAYON TROOZ",
       "category": "U 18 - ELITES MM B",
@@ -2878,7 +2888,7 @@
     {
       "code": "431285",
       "date": "2027-03-14",
-      "time": "14:00",
+      "time": "17:00",
       "team1": "RBC ESNEUX",
       "team2": "COLLEGE S LOUIS",
       "category": "U 18 - ELITES MM B",
@@ -2906,6 +2916,16 @@
       "other": ""
     },
     {
+      "code": "431335",
+      "date": "2027-04-03",
+      "time": "14:30",
+      "team1": "RBC ESNEUX",
+      "team2": "ROYAL BC NINANE",
+      "category": "U 18 - ELITES MM B",
+      "location": "RBC ESNEUX",
+      "other": ""
+    },
+    {
       "code": "431321",
       "date": "2027-04-11",
       "time": "15:00",
@@ -2916,19 +2936,9 @@
       "other": ""
     },
     {
-      "code": "431335",
-      "date": "2027-04-18",
-      "time": "14:00",
-      "team1": "RBC ESNEUX",
-      "team2": "ROYAL BC NINANE",
-      "category": "U 18 - ELITES MM B",
-      "location": "RBC ESNEUX",
-      "other": ""
-    },
-    {
       "code": "580017",
       "date": "2026-09-06",
-      "time": "9:00",
+      "time": "11:00",
       "team1": "ROYAL HERVE-BATTICE",
       "team2": "RBC ESNEUX",
       "category": "U 19 - DD",
@@ -2943,7 +2953,7 @@
       "team2": "RBC ESNEUX",
       "category": "U 19 - DD",
       "location": "ABC WAREMME B",
-      "other": ""
+      "other": "(Ho Oreye)"
     },
     {
       "code": "580035",
@@ -2958,7 +2968,7 @@
     {
       "code": "580055",
       "date": "2026-10-04",
-      "time": "16:00",
+      "time": "14:00",
       "team1": "RBC ESNEUX",
       "team2": "RBC AWANS B",
       "category": "U 19 - DD",
@@ -3008,7 +3018,7 @@
     {
       "code": "580105",
       "date": "2026-11-08",
-      "time": "16:00",
+      "time": "14:00",
       "team1": "RBC ESNEUX",
       "team2": "LA VILLERSOISE",
       "category": "U 19 - DD",
@@ -3028,7 +3038,7 @@
     {
       "code": "580125",
       "date": "2026-11-22",
-      "time": "16:00",
+      "time": "14:00",
       "team1": "RBC ESNEUX",
       "team2": "ABC WAREMME A",
       "category": "U 19 - DD",
@@ -3038,7 +3048,7 @@
     {
       "code": "580135",
       "date": "2026-11-29",
-      "time": "16:00",
+      "time": "14:00",
       "team1": "RBC ESNEUX",
       "team2": "RBC VISE",
       "category": "U 19 - DD",
@@ -3068,7 +3078,7 @@
     {
       "code": "580165",
       "date": "2026-12-20",
-      "time": "16:00",
+      "time": "10:00",
       "team1": "RBC ESNEUX",
       "team2": "PRAYON TROOZ",
       "category": "U 19 - DD",
@@ -3108,7 +3118,7 @@
     {
       "code": "580225",
       "date": "2027-01-31",
-      "time": "16:00",
+      "time": "14:00",
       "team1": "RBC ESNEUX",
       "team2": "ABC WAREMME B",
       "category": "U 19 - DD",
@@ -3148,7 +3158,7 @@
     {
       "code": "580275",
       "date": "2027-03-07",
-      "time": "16:00",
+      "time": "14:00",
       "team1": "RBC ESNEUX",
       "team2": "ATLAS A JUPILLE",
       "category": "U 19 - DD",
@@ -3158,7 +3168,7 @@
     {
       "code": "580285",
       "date": "2027-03-14",
-      "time": "16:00",
+      "time": "15:00",
       "team1": "RBC ESNEUX",
       "team2": "RBC BLEGNY",
       "category": "U 19 - DD",
@@ -3188,7 +3198,7 @@
     {
       "code": "580315",
       "date": "2027-04-04",
-      "time": "16:00",
+      "time": "14:00",
       "team1": "RBC ESNEUX",
       "team2": "ROYAL BC NINANE A",
       "category": "U 19 - DD",
@@ -3218,7 +3228,7 @@
     {
       "code": "580345",
       "date": "2027-04-25",
-      "time": "16:00",
+      "time": "14:00",
       "team1": "RBC ESNEUX",
       "team2": "ROYAL BC NINANE B",
       "category": "U 19 - DD",
@@ -3248,7 +3258,7 @@
     {
       "code": "420035",
       "date": "2026-09-19",
-      "time": "15:00",
+      "time": "12:30",
       "team1": "RBC ESNEUX",
       "team2": "ROYAL BC WANZE",
       "category": "U 21 - MM",
@@ -3258,7 +3268,7 @@
     {
       "code": "420055",
       "date": "2026-10-03",
-      "time": "15:00",
+      "time": "11:00",
       "team1": "RBC ESNEUX",
       "team2": "RBC AWANS",
       "category": "U 21 - MM",
@@ -3278,7 +3288,7 @@
     {
       "code": "420075",
       "date": "2026-10-17",
-      "time": "15:00",
+      "time": "11:00",
       "team1": "RBC ESNEUX",
       "team2": "MAIL. COMBLAIN",
       "category": "U 21 - MM",
@@ -3307,8 +3317,8 @@
     },
     {
       "code": "420105",
-      "date": "2026-11-07",
-      "time": "15:00",
+      "date": "2026-11-08",
+      "time": "12:00",
       "team1": "RBC ESNEUX",
       "team2": "R 4A AYWAILLE-HAMOIR",
       "category": "U 21 - MM",
@@ -3328,7 +3338,7 @@
     {
       "code": "420125",
       "date": "2026-11-21",
-      "time": "15:00",
+      "time": "12:30",
       "team1": "RBC ESNEUX",
       "team2": "BBC EUPEN",
       "category": "U 21 - MM",
@@ -3337,8 +3347,8 @@
     },
     {
       "code": "420135",
-      "date": "2026-11-28",
-      "time": "15:00",
+      "date": "2026-11-29",
+      "time": "12:00",
       "team1": "RBC ESNEUX",
       "team2": "ROYAL BC NINANE",
       "category": "U 21 - MM",
@@ -3367,8 +3377,8 @@
     },
     {
       "code": "420165",
-      "date": "2026-12-19",
-      "time": "15:00",
+      "date": "2026-12-20",
+      "time": "12:00",
       "team1": "RBC ESNEUX",
       "team2": "BC SPRIMONT",
       "category": "U 21 - MM",
@@ -3387,8 +3397,8 @@
     },
     {
       "code": "420205",
-      "date": "2027-01-16",
-      "time": "15:00",
+      "date": "2027-01-17",
+      "time": "14:00",
       "team1": "RBC ESNEUX",
       "team2": "HENRI-CHAPELLE",
       "category": "U 21 - MM",
@@ -3408,7 +3418,7 @@
     {
       "code": "420225",
       "date": "2027-01-30",
-      "time": "15:00",
+      "time": "12:30",
       "team1": "RBC ESNEUX",
       "team2": "RBC ALLEUR",
       "category": "U 21 - MM",
@@ -3437,8 +3447,8 @@
     },
     {
       "code": "420255",
-      "date": "2027-02-20",
-      "time": "15:00",
+      "date": "2027-02-21",
+      "time": "12:00",
       "team1": "RBC ESNEUX",
       "team2": "RBC DISON-ANDRIMONT",
       "category": "U 21 - MM",
@@ -3447,8 +3457,8 @@
     },
     {
       "code": "420275",
-      "date": "2027-03-06",
-      "time": "15:00",
+      "date": "2027-03-07",
+      "time": "12:00",
       "team1": "RBC ESNEUX",
       "team2": "ROYAL SPA BC",
       "category": "U 21 - MM",
@@ -3458,7 +3468,7 @@
     {
       "code": "420285",
       "date": "2027-03-13",
-      "time": "15:00",
+      "time": "16:00",
       "team1": "RBC ESNEUX",
       "team2": "MARCHIN BASKET",
       "category": "U 21 - MM",
@@ -3487,8 +3497,8 @@
     },
     {
       "code": "420315",
-      "date": "2027-04-03",
-      "time": "15:00",
+      "date": "2027-04-04",
+      "time": "12:00",
       "team1": "RBC ESNEUX",
       "team2": "BC COINTE",
       "category": "U 21 - MM",
@@ -3517,8 +3527,8 @@
     },
     {
       "code": "420345",
-      "date": "2027-04-24",
-      "time": "15:00",
+      "date": "2027-04-25",
+      "time": "12:00",
       "team1": "RBC ESNEUX",
       "team2": "THEUX BC",
       "category": "U 21 - MM",
@@ -3527,8 +3537,8 @@
     },
     {
       "code": "553015",
-      "date": "2026-09-05",
-      "time": "13:30",
+      "date": "2026-09-06",
+      "time": "10:00",
       "team1": "RBC ESNEUX",
       "team2": "ROYAL ANS BC",
       "category": "U 7 - MM D",
@@ -3558,7 +3568,7 @@
     {
       "code": "553065",
       "date": "2026-10-10",
-      "time": "13:30",
+      "time": "12:00",
       "team1": "RBC ESNEUX",
       "team2": "UN HUY BASKET",
       "category": "U 7 - MM D",
@@ -3578,7 +3588,7 @@
     {
       "code": "553115",
       "date": "2026-11-14",
-      "time": "13:30",
+      "time": "9:00",
       "team1": "RBC ESNEUX",
       "team2": "BC SPRIMONT B",
       "category": "U 7 - MM D",
@@ -3598,7 +3608,7 @@
     {
       "code": "553145",
       "date": "2026-12-05",
-      "time": "13:30",
+      "time": "12:00",
       "team1": "RBC ESNEUX",
       "team2": "LA VILLERSOISE",
       "category": "U 7 - MM D",
@@ -3608,7 +3618,7 @@
     {
       "code": "553154",
       "date": "2026-12-12",
-      "time": "9:00",
+      "time": "11:00",
       "team1": "ABC WAREMME B",
       "team2": "RBC ESNEUX",
       "category": "U 7 - MM D",
@@ -3618,7 +3628,7 @@
     {
       "code": "553165",
       "date": "2026-12-19",
-      "time": "13:30",
+      "time": "9:00",
       "team1": "RBC ESNEUX",
       "team2": "RBC HANEFFE",
       "category": "U 7 - MM D",
@@ -3628,7 +3638,7 @@
     {
       "code": "553195",
       "date": "2027-01-09",
-      "time": "13:30",
+      "time": "12:00",
       "team1": "RBC ESNEUX",
       "team2": "BC VERLAINE",
       "category": "U 7 - MM D",
@@ -3688,7 +3698,7 @@
     {
       "code": "553295",
       "date": "2027-03-20",
-      "time": "13:30",
+      "time": "11:00",
       "team1": "RBC ESNEUX",
       "team2": "ROYAL BC NINANE B",
       "category": "U 7 - MM D",
@@ -3708,7 +3718,7 @@
     {
       "code": "553325",
       "date": "2027-04-10",
-      "time": "13:30",
+      "time": "9:00",
       "team1": "RBC ESNEUX",
       "team2": "RSW LIEGE BASKET",
       "category": "U 7 - MM D",
@@ -3727,8 +3737,8 @@
     },
     {
       "code": "544016",
-      "date": "2026-09-06",
-      "time": "10:00",
+      "date": "2026-09-05",
+      "time": "10:30",
       "team1": "RBC ESNEUX B",
       "team2": "FLERON BBC",
       "category": "U 8 - MM E",
@@ -3748,7 +3758,7 @@
     {
       "code": "544033",
       "date": "2026-09-19",
-      "time": "13:30",
+      "time": "9:00",
       "team1": "RBC ESNEUX B",
       "team2": "ALL. FLEMALLE A",
       "category": "U 8 - MM E",
@@ -3768,7 +3778,7 @@
     {
       "code": "544103",
       "date": "2026-11-07",
-      "time": "13:30",
+      "time": "9:00",
       "team1": "RBC ESNEUX B",
       "team2": "LA VILLERSOISE A",
       "category": "U 8 - MM E",
@@ -3788,7 +3798,7 @@
     {
       "code": "544123",
       "date": "2026-11-21",
-      "time": "13:30",
+      "time": "9:00",
       "team1": "RBC ESNEUX B",
       "team2": "HANNUT BC A",
       "category": "U 8 - MM E",
@@ -3827,8 +3837,8 @@
     },
     {
       "code": "544203",
-      "date": "2027-01-16",
-      "time": "13:30",
+      "date": "2027-01-17",
+      "time": "10:00",
       "team1": "FLERON BBC",
       "team2": "RBC ESNEUX B",
       "category": "U 8 - MM E",
@@ -3848,7 +3858,7 @@
     {
       "code": "544223",
       "date": "2027-01-30",
-      "time": "13:30",
+      "time": "9:00",
       "team1": "RBC ESNEUX B",
       "team2": "BC COINTE A",
       "category": "U 8 - MM E",
@@ -3858,7 +3868,7 @@
     {
       "code": "544233",
       "date": "2027-02-06",
-      "time": "13:30",
+      "time": "9:00",
       "team1": "RBC ESNEUX B",
       "team2": "BC VERLAINE",
       "category": "U 8 - MM E",
@@ -3988,7 +3998,7 @@
     {
       "code": "545165",
       "date": "2026-12-19",
-      "time": "12:00",
+      "time": "14:00",
       "team1": "RBC ESNEUX A",
       "team2": "CONDROZ MODAVE BB",
       "category": "U 8 - MM F",
@@ -4058,7 +4068,7 @@
     {
       "code": "545295",
       "date": "2027-03-20",
-      "time": "12:00",
+      "time": "11:00",
       "team1": "RBC ESNEUX A",
       "team2": "BC COINTE B",
       "category": "U 8 - MM F",

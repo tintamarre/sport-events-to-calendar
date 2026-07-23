@@ -66,6 +66,16 @@
       "other": ""
     },
     {
+      "code": "761008",
+      "date": "2026-11-01",
+      "time": "13:00",
+      "team1": "THEUX BC",
+      "team2": "ROYAL SPA BC",
+      "category": "CPE PROV JUNIORS",
+      "location": "THEUX BC",
+      "other": ""
+    },
+    {
       "code": "763004",
       "date": "2026-08-29",
       "time": "13:00",
@@ -73,6 +83,16 @@
       "team2": "ROYAL SPA BC B",
       "category": "CPE PROV MINIMES MM",
       "location": "ORP JAUCHE",
+      "other": ""
+    },
+    {
+      "code": "764016",
+      "date": "2026-08-29",
+      "time": "15:00",
+      "team1": "ROYAL SPA BC",
+      "team2": "BC COINTE B",
+      "category": "CPE PROV PUPILLES MM",
+      "location": "ROYAL SPA BC",
       "other": ""
     },
     {
@@ -238,7 +258,7 @@
     {
       "code": "418325",
       "date": "2027-04-11",
-      "time": "16:00",
+      "time": "14:00",
       "team1": "PRAYON TROOZ D",
       "team2": "ROYAL SPA BC B",
       "category": "DD - DIVISION 3 C",
@@ -248,7 +268,7 @@
     {
       "code": "418331",
       "date": "2027-04-18",
-      "time": "12:00",
+      "time": "17:00",
       "team1": "ROYAL SPA BC B",
       "team2": "ROYAL HERVE-BATTICE E",
       "category": "DD - DIVISION 3 C",
@@ -488,7 +508,7 @@
     {
       "code": "402026",
       "date": "2026-09-12",
-      "time": "19:00",
+      "time": "17:00",
       "team1": "ESL UNITED E",
       "team2": "ROYAL SPA BC C",
       "category": "MM - DIVISION 2 A",
@@ -587,8 +607,8 @@
     },
     {
       "code": "402152",
-      "date": "2026-12-12",
-      "time": "21:00",
+      "date": "2026-12-13",
+      "time": "15:00",
       "team1": "PEPINSTER EAST BELG C",
       "team2": "ROYAL SPA BC C",
       "category": "MM - DIVISION 2 A",
@@ -857,8 +877,8 @@
     },
     {
       "code": "403165",
-      "date": "2026-12-19",
-      "time": "20:00",
+      "date": "2026-12-18",
+      "time": "21:00",
       "team1": "ABC WAREMME B",
       "team2": "ROYAL SPA BC B",
       "category": "MM - DIVISION 2 B",
@@ -888,7 +908,7 @@
     {
       "code": "403211",
       "date": "2027-01-23",
-      "time": "19:00",
+      "time": "21:00",
       "team1": "RBC AWANS A",
       "team2": "ROYAL SPA BC B",
       "category": "MM - DIVISION 2 B",
@@ -928,7 +948,7 @@
     {
       "code": "403274",
       "date": "2027-03-06",
-      "time": "21:00",
+      "time": "19:00",
       "team1": "RBC HANEFFE A",
       "team2": "ROYAL SPA BC B",
       "category": "MM - DIVISION 2 B",
@@ -1368,7 +1388,7 @@
     {
       "code": "412245",
       "date": "2027-02-13",
-      "time": "20:00",
+      "time": "17:00",
       "team1": "ABC WAREMME C",
       "team2": "ROYAL SPA BC E",
       "category": "MM - DIVISION 4 F",
@@ -2218,7 +2238,7 @@
     {
       "code": "525193",
       "date": "2027-01-09",
-      "time": "14:45",
+      "time": "16:45",
       "team1": "RBC ALLEUR A",
       "team2": "ROYAL SPA BC C",
       "category": "U 10 - MM F",
@@ -2378,7 +2398,7 @@
     {
       "code": "503024",
       "date": "2026-11-28",
-      "time": "15:00",
+      "time": "13:00",
       "team1": "GIANTS BRAIVES B",
       "team2": "ROYAL SPA BC",
       "category": "U 12 - MM D",
@@ -2407,8 +2427,8 @@
     },
     {
       "code": "503193",
-      "date": "2027-01-09",
-      "time": "16:30",
+      "date": "2027-01-10",
+      "time": "09:00",
       "team1": "RBC ALLEUR B",
       "team2": "ROYAL SPA BC",
       "category": "U 12 - MM D",
@@ -2703,7 +2723,7 @@
       "team2": "ROYAL SPA BC",
       "category": "U 16 - DD A",
       "location": "ABC WAREMME",
-      "other": ""
+      "other": "(Ho de Oreye)"
     },
     {
       "code": "590051",
@@ -2998,7 +3018,7 @@
     {
       "code": "450245",
       "date": "2027-02-13",
-      "time": "17:00",
+      "time": "12:30",
       "team1": "PEPINSTER EAST BELG A",
       "team2": "ROYAL SPA BC A",
       "category": "U 16 - ELITES MM A",
@@ -3237,8 +3257,8 @@
     },
     {
       "code": "440024",
-      "date": "2026-09-13",
-      "time": "13:00",
+      "date": "2026-09-12",
+      "time": "17:00",
       "team1": "HARIMALIA BC",
       "team2": "ROYAL SPA BC",
       "category": "U 18 - PROV MM A",
@@ -3247,7 +3267,7 @@
     },
     {
       "code": "440031",
-      "date": "2026-09-19",
+      "date": "2026-10-03",
       "time": "15:00",
       "team1": "ROYAL SPA BC",
       "team2": "ROYAL ANS BC",
@@ -3508,12 +3528,12 @@
     {
       "code": "420031",
       "date": "2026-09-19",
-      "time": "17:00",
-      "team1": "ROYAL SPA BC",
-      "team2": "ROYAL ANS BC",
+      "time": "16:00",
+      "team1": "ROYAL ANS BC",
+      "team2": "ROYAL SPA BC",
       "category": "U 21 - MM",
-      "location": "ROYAL SPA BC",
-      "other": ""
+      "location": "ROYAL ANS BC",
+      "other": "(terrain ext ans)"
     },
     {
       "code": "420066",
@@ -3637,12 +3657,12 @@
     },
     {
       "code": "420193",
-      "date": "2027-01-10",
-      "time": "15:00",
-      "team1": "ROYAL ANS BC",
-      "team2": "ROYAL SPA BC",
+      "date": "2027-01-09",
+      "time": "17:00",
+      "team1": "ROYAL SPA BC",
+      "team2": "ROYAL ANS BC",
       "category": "U 21 - MM",
-      "location": "ROYAL ANS BC",
+      "location": "ROYAL SPA BC",
       "other": ""
     },
     {
@@ -3717,8 +3737,8 @@
     },
     {
       "code": "420275",
-      "date": "2027-03-06",
-      "time": "15:00",
+      "date": "2027-03-07",
+      "time": "12:00",
       "team1": "RBC ESNEUX",
       "team2": "ROYAL SPA BC",
       "category": "U 21 - MM",

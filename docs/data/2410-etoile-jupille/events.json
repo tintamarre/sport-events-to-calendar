@@ -108,21 +108,21 @@
     {
       "code": "416113",
       "date": "2026-11-15",
-      "time": "13:00",
-      "team1": "UN HUY BASKET C",
-      "team2": "ETOILE JUPILLE",
-      "category": "DD - DIVISION 3 A",
-      "location": "UN HUY BASKET C",
-      "other": ""
-    },
-    {
-      "code": "416124",
-      "date": "2026-11-22",
       "time": "15:30",
       "team1": "ETOILE JUPILLE",
       "team2": "UN HUY BASKET C",
       "category": "DD - DIVISION 3 A",
       "location": "ETOILE JUPILLE",
+      "other": ""
+    },
+    {
+      "code": "416124",
+      "date": "2026-11-22",
+      "time": "10:30",
+      "team1": "UN HUY BASKET C",
+      "team2": "ETOILE JUPILLE",
+      "category": "DD - DIVISION 3 A",
+      "location": "UN HUY BASKET C",
       "other": ""
     },
     {
@@ -497,8 +497,8 @@
     },
     {
       "code": "401346",
-      "date": "2027-04-25",
-      "time": "13:00",
+      "date": "2027-04-24",
+      "time": "21:00",
       "team1": "ROYAL HERVE-BATTICE A",
       "team2": "ETOILE JUPILLE A",
       "category": "MM - DIVISION 1",
@@ -998,7 +998,7 @@
     {
       "code": "409021",
       "date": "2026-09-12",
-      "time": "21:00",
+      "time": "19:00",
       "team1": "RBC AWANS C",
       "team2": "ETOILE JUPILLE C",
       "category": "MM - DIVISION 4 C",
@@ -1038,7 +1038,7 @@
     {
       "code": "409075",
       "date": "2026-10-17",
-      "time": "18:00",
+      "time": "19:30",
       "team1": "ABC WAREMME D",
       "team2": "ETOILE JUPILLE C",
       "category": "MM - DIVISION 4 C",
@@ -1256,6 +1256,16 @@
       "other": ""
     },
     {
+      "code": "801005",
+      "date": "2026-08-28",
+      "time": "21:00",
+      "team1": "HANNUT BC A",
+      "team2": "ETOILE JUPILLE B (+ 10)",
+      "category": "PROVINCIALE MM - POULE A",
+      "location": "HANNUT BC A",
+      "other": ""
+    },
+    {
       "code": "805001",
       "date": "2026-08-16",
       "time": "13:00",
@@ -1366,16 +1376,6 @@
       "other": ""
     },
     {
-      "code": "500104",
-      "date": "2026-11-07",
-      "time": "13:00",
-      "team1": "ETOILE JUPILLE",
-      "team2": "PEPINSTER EAST BELG A",
-      "category": "U 12 - MM A",
-      "location": "ETOILE JUPILLE",
-      "other": ""
-    },
-    {
       "code": "500117",
       "date": "2026-11-14",
       "time": "9:30",
@@ -1408,7 +1408,7 @@
     {
       "code": "500154",
       "date": "2026-12-12",
-      "time": "9:00",
+      "time": "12:00",
       "team1": "BC BELLEFLAMME",
       "team2": "ETOILE JUPILLE",
       "category": "U 12 - MM A",
@@ -1513,16 +1513,6 @@
       "team2": "ETOILE JUPILLE",
       "category": "U 12 - MM A",
       "location": "LA VILLERSOISE A",
-      "other": ""
-    },
-    {
-      "code": "500292",
-      "date": "2027-03-20",
-      "time": "11:00",
-      "team1": "PEPINSTER EAST BELG A",
-      "team2": "ETOILE JUPILLE",
-      "category": "U 12 - MM A",
-      "location": "PEPINSTER EAST BELG A",
       "other": ""
     },
     {
@@ -1948,7 +1938,7 @@
     {
       "code": "480242",
       "date": "2027-02-13",
-      "time": "12:00",
+      "time": "11:00",
       "team1": "BC BELLEFLAMME",
       "team2": "ETOILE JUPILLE",
       "category": "U 14 - ELITES MM A",
@@ -1968,7 +1958,7 @@
     {
       "code": "480296",
       "date": "2027-03-21",
-      "time": "9:00",
+      "time": "14:30",
       "team1": "RBC ALLEUR A",
       "team2": "ETOILE JUPILLE",
       "category": "U 14 - ELITES MM A",
@@ -2138,7 +2128,7 @@
     {
       "code": "470242",
       "date": "2027-02-13",
-      "time": "17:00",
+      "time": "18:00",
       "team1": "DF BC MALMEDY",
       "team2": "ETOILE JUPILLE",
       "category": "U 16 - PROV MM A",

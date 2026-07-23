@@ -36,16 +36,6 @@
       "other": ""
     },
     {
-      "code": "401027",
-      "date": "2026-09-12",
-      "time": "18:30",
-      "team1": "RB UNION LIEGE A",
-      "team2": "ESL UNITED C",
-      "category": "MM - DIVISION 1",
-      "location": "RB UNION LIEGE A",
-      "other": ""
-    },
-    {
       "code": "401032",
       "date": "2026-09-19",
       "time": "19:00",
@@ -107,8 +97,8 @@
     },
     {
       "code": "401111",
-      "date": "2026-11-14",
-      "time": "21:00",
+      "date": "2026-11-15",
+      "time": "17:00",
       "team1": "ATLAS A JUPILLE A",
       "team2": "RB UNION LIEGE A",
       "category": "MM - DIVISION 1",
@@ -121,6 +111,16 @@
       "time": "18:30",
       "team1": "RB UNION LIEGE A",
       "team2": "ALL. FLEMALLE A",
+      "category": "MM - DIVISION 1",
+      "location": "RB UNION LIEGE A",
+      "other": ""
+    },
+    {
+      "code": "401027",
+      "date": "2026-11-28",
+      "time": "18:30",
+      "team1": "RB UNION LIEGE A",
+      "team2": "ESL UNITED C",
       "category": "MM - DIVISION 1",
       "location": "RB UNION LIEGE A",
       "other": ""
@@ -298,7 +298,7 @@
     {
       "code": "405027",
       "date": "2026-09-12",
-      "time": "20:30",
+      "time": "19:30",
       "team1": "RB UNION LIEGE B",
       "team2": "RJS GRIVEGNEE",
       "category": "MM - DIVISION 3 B",
@@ -456,6 +456,16 @@
       "other": ""
     },
     {
+      "code": "405331",
+      "date": "2027-02-06",
+      "time": "21:00",
+      "team1": "RBC VISE C",
+      "team2": "RB UNION LIEGE B",
+      "category": "MM - DIVISION 3 B",
+      "location": "RBC VISE C",
+      "other": ""
+    },
+    {
       "code": "405247",
       "date": "2027-02-13",
       "time": "20:30",
@@ -523,16 +533,6 @@
       "team2": "AVENIR JUPILLE A",
       "category": "MM - DIVISION 3 B",
       "location": "RB UNION LIEGE B",
-      "other": ""
-    },
-    {
-      "code": "405331",
-      "date": "2027-04-17",
-      "time": "21:00",
-      "team1": "RBC VISE C",
-      "team2": "RB UNION LIEGE B",
-      "category": "MM - DIVISION 3 B",
-      "location": "RBC VISE C",
       "other": ""
     },
     {

@@ -57,8 +57,8 @@
     },
     {
       "code": "416015",
-      "date": "2026-10-18",
-      "time": "13:30",
+      "date": "2026-10-16",
+      "time": "21:00",
       "team1": "BC VERLAINE B",
       "team2": "ORP JAUCHE",
       "category": "DD - DIVISION 3 A",
@@ -528,7 +528,7 @@
     {
       "code": "409125",
       "date": "2026-11-21",
-      "time": "18:00",
+      "time": "21:00",
       "team1": "ABC WAREMME D",
       "team2": "ORP JAUCHE A",
       "category": "MM - DIVISION 4 C",
@@ -896,16 +896,6 @@
       "other": ""
     },
     {
-      "code": "504062",
-      "date": "2026-10-10",
-      "time": "14:45",
-      "team1": "RBC ALLEUR A",
-      "team2": "ORP JAUCHE",
-      "category": "U 12 - MM E",
-      "location": "RBC ALLEUR A",
-      "other": ""
-    },
-    {
       "code": "504143",
       "date": "2026-10-17",
       "time": "17:00",
@@ -933,6 +923,16 @@
       "team2": "RBC AWANS",
       "category": "U 12 - MM E",
       "location": "ORP JAUCHE",
+      "other": ""
+    },
+    {
+      "code": "504062",
+      "date": "2026-11-28",
+      "time": "14:45",
+      "team1": "RBC ALLEUR A",
+      "team2": "ORP JAUCHE",
+      "category": "U 12 - MM E",
+      "location": "RBC ALLEUR A",
       "other": ""
     },
     {
@@ -1037,8 +1037,8 @@
     },
     {
       "code": "493015",
-      "date": "2026-09-05",
-      "time": "13:00",
+      "date": "2026-09-06",
+      "time": "11:00",
       "team1": "LA VILLERSOISE",
       "team2": "ORP JAUCHE",
       "category": "U 14 - PROV MM D",
@@ -1207,8 +1207,8 @@
     },
     {
       "code": "591026",
-      "date": "2026-09-13",
-      "time": "9:00",
+      "date": "2026-09-12",
+      "time": "11:00",
       "team1": "ALL. FLEMALLE B",
       "team2": "ORP JAUCHE",
       "category": "U 16 - DD B",
@@ -1327,8 +1327,8 @@
     },
     {
       "code": "591292",
-      "date": "2027-03-20",
-      "time": "12:30",
+      "date": "2027-03-21",
+      "time": "15:00",
       "team1": "HENRI-CHAPELLE",
       "team2": "ORP JAUCHE",
       "category": "U 16 - DD B",
@@ -1418,7 +1418,7 @@
     {
       "code": "472154",
       "date": "2026-12-13",
-      "time": "9:00",
+      "time": "11:00",
       "team1": "ROYAL BC WANZE B",
       "team2": "ORP JAUCHE",
       "category": "U 16 - PROV MM C",
@@ -1518,7 +1518,7 @@
     {
       "code": "430015",
       "date": "2026-09-05",
-      "time": "11:00",
+      "time": "9:00",
       "team1": "ORP JAUCHE",
       "team2": "ABC WAREMME A",
       "category": "U 18 - ELITES MM A",

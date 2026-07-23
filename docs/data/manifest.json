@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-21T07:47:02.333Z",
+  "lastUpdated": "2026-07-23T22:58:42.662Z",
   "clubs": [
     {
       "id": "709",
@@ -417,6 +417,7 @@
       "categories": [
         "AWBB DD - POULE H",
         "COUPE AWBB U12 -GARCONS",
+        "CPE PROV CADETS",
         "CPE PROV PUPILLES MM",
         "DD - DIVISION 1",
         "DD - REGIONALE 2 A",
@@ -471,6 +472,7 @@
       "icsFiles": {
         "AWBB DD - POULE H": "/data/1058-bc-belleflamme/awbb-dd-poule-h.ics",
         "COUPE AWBB U12 -GARCONS": "/data/1058-bc-belleflamme/coupe-awbb-u12-garcons.ics",
+        "CPE PROV CADETS": "/data/1058-bc-belleflamme/cpe-prov-cadets.ics",
         "CPE PROV PUPILLES MM": "/data/1058-bc-belleflamme/cpe-prov-pupilles-mm.ics",
         "DD - DIVISION 1": "/data/1058-bc-belleflamme/dd-division-1.ics",
         "DD - REGIONALE 2 A": "/data/1058-bc-belleflamme/dd-regionale-2-a.ics",
@@ -1678,6 +1680,7 @@
       "name": "Harimalia Bc",
       "slug": "2211-harimalia-bc",
       "categories": [
+        "CPE PROV MINIMES MM",
         "CPE PROV PUPILLES MM",
         "MM - DIVISION 1",
         "MM - DIVISION 2 A",
@@ -1712,6 +1715,7 @@
       "jsonPath": "/data/2211-harimalia-bc/events.json",
       "csvPath": "/data/2211-harimalia-bc/2211-harimalia-bc.csv",
       "icsFiles": {
+        "CPE PROV MINIMES MM": "/data/2211-harimalia-bc/cpe-prov-minimes-mm.ics",
         "CPE PROV PUPILLES MM": "/data/2211-harimalia-bc/cpe-prov-pupilles-mm.ics",
         "MM - DIVISION 1": "/data/2211-harimalia-bc/mm-division-1.ics",
         "MM - DIVISION 2 A": "/data/2211-harimalia-bc/mm-division-2-a.ics",
@@ -2065,6 +2069,8 @@
       "name": "Marchin Basket",
       "slug": "2744-marchin-basket",
       "categories": [
+        "CPE PROV CADETS",
+        "CPE PROV MINIMES MM",
         "U 14 - PROV MM D",
         "U 16 - PROV MM B",
         "U 16 - PROV MM C",
@@ -2075,6 +2081,8 @@
       "jsonPath": "/data/2744-marchin-basket/events.json",
       "csvPath": "/data/2744-marchin-basket/2744-marchin-basket.csv",
       "icsFiles": {
+        "CPE PROV CADETS": "/data/2744-marchin-basket/cpe-prov-cadets.ics",
+        "CPE PROV MINIMES MM": "/data/2744-marchin-basket/cpe-prov-minimes-mm.ics",
         "U 14 - PROV MM D": "/data/2744-marchin-basket/u-14-prov-mm-d.ics",
         "U 16 - PROV MM B": "/data/2744-marchin-basket/u-16-prov-mm-b.ics",
         "U 16 - PROV MM C": "/data/2744-marchin-basket/u-16-prov-mm-c.ics",
@@ -2146,6 +2154,7 @@
         "COUPE AWBB U19 - FILLES",
         "CPE PROV CADETS",
         "CPE PROV MINIMES MM",
+        "CPE PROV PUPILLES MM",
         "DD - DIVISION 1",
         "DD - DIVISION 2 A",
         "DD - DIVISION 2 B",
@@ -2203,6 +2212,7 @@
         "COUPE AWBB U19 - FILLES": "/data/46-pepinster-east-b/coupe-awbb-u19-filles.ics",
         "CPE PROV CADETS": "/data/46-pepinster-east-b/cpe-prov-cadets.ics",
         "CPE PROV MINIMES MM": "/data/46-pepinster-east-b/cpe-prov-minimes-mm.ics",
+        "CPE PROV PUPILLES MM": "/data/46-pepinster-east-b/cpe-prov-pupilles-mm.ics",
         "DD - DIVISION 1": "/data/46-pepinster-east-b/dd-division-1.ics",
         "DD - DIVISION 2 A": "/data/46-pepinster-east-b/dd-division-2-a.ics",
         "DD - DIVISION 2 B": "/data/46-pepinster-east-b/dd-division-2-b.ics",
@@ -2257,6 +2267,8 @@
       "slug": "78-prayon-trooz",
       "categories": [
         "AWBB DD - POULE C",
+        "CPE PROV MINIMES MM",
+        "CPE PROV PUPILLES MM",
         "DD - DIVISION 2 A",
         "DD - DIVISION 2 B",
         "DD - DIVISION 3 C",
@@ -2297,6 +2309,8 @@
       "csvPath": "/data/78-prayon-trooz/78-prayon-trooz.csv",
       "icsFiles": {
         "AWBB DD - POULE C": "/data/78-prayon-trooz/awbb-dd-poule-c.ics",
+        "CPE PROV MINIMES MM": "/data/78-prayon-trooz/cpe-prov-minimes-mm.ics",
+        "CPE PROV PUPILLES MM": "/data/78-prayon-trooz/cpe-prov-pupilles-mm.ics",
         "DD - DIVISION 2 A": "/data/78-prayon-trooz/dd-division-2-a.ics",
         "DD - DIVISION 2 B": "/data/78-prayon-trooz/dd-division-2-b.ics",
         "DD - DIVISION 3 C": "/data/78-prayon-trooz/dd-division-3-c.ics",
@@ -3183,6 +3197,7 @@
         "CPE PROV CADETS",
         "CPE PROV CADETTES",
         "CPE PROV DAMES",
+        "CPE PROV MINIMES MM",
         "CPE PROV PUPILLES MM",
         "DD - DIVISION 1",
         "DD - DIVISION 3 A",
@@ -3223,6 +3238,7 @@
         "CPE PROV CADETS": "/data/44-rbc-esneux/cpe-prov-cadets.ics",
         "CPE PROV CADETTES": "/data/44-rbc-esneux/cpe-prov-cadettes.ics",
         "CPE PROV DAMES": "/data/44-rbc-esneux/cpe-prov-dames.ics",
+        "CPE PROV MINIMES MM": "/data/44-rbc-esneux/cpe-prov-minimes-mm.ics",
         "CPE PROV PUPILLES MM": "/data/44-rbc-esneux/cpe-prov-pupilles-mm.ics",
         "DD - DIVISION 1": "/data/44-rbc-esneux/dd-division-1.ics",
         "DD - DIVISION 3 A": "/data/44-rbc-esneux/dd-division-3-a.ics",
@@ -3341,6 +3357,7 @@
       "categories": [
         "AWBB MM - POULE H",
         "CPE PROV CADETS",
+        "CPE PROV MINIMES MM",
         "DD - DIVISION 2 A",
         "DD - DIVISION 2 B",
         "MM - DIVISION 1",
@@ -3372,6 +3389,7 @@
       "icsFiles": {
         "AWBB MM - POULE H": "/data/691-rbc-stavelot/awbb-mm-poule-h.ics",
         "CPE PROV CADETS": "/data/691-rbc-stavelot/cpe-prov-cadets.ics",
+        "CPE PROV MINIMES MM": "/data/691-rbc-stavelot/cpe-prov-minimes-mm.ics",
         "DD - DIVISION 2 A": "/data/691-rbc-stavelot/dd-division-2-a.ics",
         "DD - DIVISION 2 B": "/data/691-rbc-stavelot/dd-division-2-b.ics",
         "MM - DIVISION 1": "/data/691-rbc-stavelot/mm-division-1.ics",
@@ -3406,6 +3424,7 @@
       "categories": [
         "COUPE AWBB U16 - GARCONS",
         "COUPE AWBB U18 - GARCONS",
+        "CPE PROV CADETS",
         "DD - DIVISION 2 A",
         "DD - DIVISION 2 B",
         "DD - DIVISION 3 A",
@@ -3462,6 +3481,7 @@
       "icsFiles": {
         "COUPE AWBB U16 - GARCONS": "/data/1245-rbc-vise/coupe-awbb-u16-garcons.ics",
         "COUPE AWBB U18 - GARCONS": "/data/1245-rbc-vise/coupe-awbb-u18-garcons.ics",
+        "CPE PROV CADETS": "/data/1245-rbc-vise/cpe-prov-cadets.ics",
         "DD - DIVISION 2 A": "/data/1245-rbc-vise/dd-division-2-a.ics",
         "DD - DIVISION 2 B": "/data/1245-rbc-vise/dd-division-2-b.ics",
         "DD - DIVISION 3 A": "/data/1245-rbc-vise/dd-division-3-a.ics",
@@ -3580,6 +3600,7 @@
       "slug": "1338-ren-montegnee",
       "categories": [
         "CPE PROV PUPILLES DD",
+        "CPE PROV PUPILLES MM",
         "DD - DIVISION 3 A",
         "MM - DIVISION 4 B",
         "MM - DIVISION 4 C",
@@ -3599,6 +3620,7 @@
       "csvPath": "/data/1338-ren-montegnee/1338-ren-montegnee.csv",
       "icsFiles": {
         "CPE PROV PUPILLES DD": "/data/1338-ren-montegnee/cpe-prov-pupilles-dd.ics",
+        "CPE PROV PUPILLES MM": "/data/1338-ren-montegnee/cpe-prov-pupilles-mm.ics",
         "DD - DIVISION 3 A": "/data/1338-ren-montegnee/dd-division-3-a.ics",
         "MM - DIVISION 4 B": "/data/1338-ren-montegnee/mm-division-4-b.ics",
         "MM - DIVISION 4 C": "/data/1338-ren-montegnee/mm-division-4-c.ics",
@@ -3916,6 +3938,7 @@
       "slug": "108-royal-mosa-ac-1941",
       "categories": [
         "CPE PROV CADETS",
+        "CPE PROV PUPILLES MM",
         "MM - DIVISION 2 A",
         "MM - DIVISION 2 B",
         "MM - DIVISION 4 A",
@@ -3941,6 +3964,7 @@
       "csvPath": "/data/108-royal-mosa-ac-1941/108-royal-mosa-ac-1941.csv",
       "icsFiles": {
         "CPE PROV CADETS": "/data/108-royal-mosa-ac-1941/cpe-prov-cadets.ics",
+        "CPE PROV PUPILLES MM": "/data/108-royal-mosa-ac-1941/cpe-prov-pupilles-mm.ics",
         "MM - DIVISION 2 A": "/data/108-royal-mosa-ac-1941/mm-division-2-a.ics",
         "MM - DIVISION 2 B": "/data/108-royal-mosa-ac-1941/mm-division-2-b.ics",
         "MM - DIVISION 4 A": "/data/108-royal-mosa-ac-1941/mm-division-4-a.ics",
@@ -3971,7 +3995,9 @@
         "AWBB DD - POULE N",
         "AWBB MM - POULE C",
         "CPE PROV CADETS",
+        "CPE PROV JUNIORS",
         "CPE PROV MINIMES MM",
+        "CPE PROV PUPILLES MM",
         "DD - DIVISION 1",
         "DD - DIVISION 3 C",
         "DD - REGIONALE 2 B",
@@ -4012,7 +4038,9 @@
         "AWBB DD - POULE N": "/data/91-royal-spa-bc/awbb-dd-poule-n.ics",
         "AWBB MM - POULE C": "/data/91-royal-spa-bc/awbb-mm-poule-c.ics",
         "CPE PROV CADETS": "/data/91-royal-spa-bc/cpe-prov-cadets.ics",
+        "CPE PROV JUNIORS": "/data/91-royal-spa-bc/cpe-prov-juniors.ics",
         "CPE PROV MINIMES MM": "/data/91-royal-spa-bc/cpe-prov-minimes-mm.ics",
+        "CPE PROV PUPILLES MM": "/data/91-royal-spa-bc/cpe-prov-pupilles-mm.ics",
         "DD - DIVISION 1": "/data/91-royal-spa-bc/dd-division-1.ics",
         "DD - DIVISION 3 C": "/data/91-royal-spa-bc/dd-division-3-c.ics",
         "DD - REGIONALE 2 B": "/data/91-royal-spa-bc/dd-regionale-2-b.ics",
@@ -4138,6 +4166,8 @@
       "slug": "2061-theux-bc",
       "categories": [
         "AWBB MM - POULE N",
+        "CPE PROV CADETS",
+        "CPE PROV JUNIORS",
         "MM - DIVISION 1",
         "MM - DIVISION 3 A",
         "MM - DIVISION 3 C",
@@ -4171,6 +4201,8 @@
       "csvPath": "/data/2061-theux-bc/2061-theux-bc.csv",
       "icsFiles": {
         "AWBB MM - POULE N": "/data/2061-theux-bc/awbb-mm-poule-n.ics",
+        "CPE PROV CADETS": "/data/2061-theux-bc/cpe-prov-cadets.ics",
+        "CPE PROV JUNIORS": "/data/2061-theux-bc/cpe-prov-juniors.ics",
         "MM - DIVISION 1": "/data/2061-theux-bc/mm-division-1.ics",
         "MM - DIVISION 3 A": "/data/2061-theux-bc/mm-division-3-a.ics",
         "MM - DIVISION 3 C": "/data/2061-theux-bc/mm-division-3-c.ics",

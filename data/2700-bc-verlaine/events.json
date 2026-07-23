@@ -56,16 +56,6 @@
       "other": ""
     },
     {
-      "code": "415074",
-      "date": "2026-10-18",
-      "time": "13:00",
-      "team1": "ROYAL BC WANZE",
-      "team2": "BC VERLAINE A",
-      "category": "DD - DIVISION 2 B",
-      "location": "ROYAL BC WANZE",
-      "other": ""
-    },
-    {
       "code": "415085",
       "date": "2026-10-25",
       "time": "17:30",
@@ -103,6 +93,16 @@
       "team2": "BC VERLAINE A",
       "category": "DD - DIVISION 2 B",
       "location": "RBC HANEFFE C",
+      "other": ""
+    },
+    {
+      "code": "415074",
+      "date": "2026-11-29",
+      "time": "13:00",
+      "team1": "ROYAL BC WANZE",
+      "team2": "BC VERLAINE A",
+      "category": "DD - DIVISION 2 B",
+      "location": "ROYAL BC WANZE",
       "other": ""
     },
     {
@@ -237,8 +237,8 @@
     },
     {
       "code": "415325",
-      "date": "2027-04-11",
-      "time": "17:30",
+      "date": "2027-04-07",
+      "time": "20:00",
       "team1": "BC VERLAINE A",
       "team2": "RBC STAVELOT",
       "category": "DD - DIVISION 2 B",
@@ -297,8 +297,8 @@
     },
     {
       "code": "416015",
-      "date": "2026-10-18",
-      "time": "13:30",
+      "date": "2026-10-16",
+      "time": "21:00",
       "team1": "BC VERLAINE B",
       "team2": "ORP JAUCHE",
       "category": "DD - DIVISION 3 A",
@@ -888,7 +888,7 @@
     {
       "code": "523326",
       "date": "2027-04-10",
-      "time": "9:30",
+      "time": "11:30",
       "team1": "COLLEGE S LOUIS",
       "team2": "BC VERLAINE A",
       "category": "U 10 - MM D",
@@ -947,7 +947,7 @@
     },
     {
       "code": "527114",
-      "date": "2026-10-18",
+      "date": "2026-10-17",
       "time": "10:45",
       "team1": "BC VERLAINE B",
       "team2": "RBC ALLEUR B",
@@ -958,7 +958,7 @@
     {
       "code": "527106",
       "date": "2026-11-07",
-      "time": "10:30",
+      "time": "9:00",
       "team1": "RBC ESNEUX A",
       "team2": "BC VERLAINE B",
       "category": "U 10 - MM H",
@@ -1038,7 +1038,7 @@
     {
       "code": "527233",
       "date": "2027-02-06",
-      "time": "14:45",
+      "time": "9:00",
       "team1": "RBC ALLEUR B",
       "team2": "BC VERLAINE B",
       "category": "U 10 - MM H",
@@ -1157,8 +1157,8 @@
     },
     {
       "code": "502085",
-      "date": "2026-10-24",
-      "time": "10:30",
+      "date": "2026-10-25",
+      "time": "11:30",
       "team1": "RBC ESNEUX B",
       "team2": "BC VERLAINE A",
       "category": "U 12 - MM C",
@@ -1267,8 +1267,8 @@
     },
     {
       "code": "502247",
-      "date": "2027-02-14",
-      "time": "14:00",
+      "date": "2027-02-13",
+      "time": "17:00",
       "team1": "BC SPRIMONT A",
       "team2": "BC VERLAINE A",
       "category": "U 12 - MM C",
@@ -1288,7 +1288,7 @@
     {
       "code": "502283",
       "date": "2027-03-14",
-      "time": "10:45",
+      "time": "9:30",
       "team1": "BC VERLAINE A",
       "team2": "MAIL. COMBLAIN",
       "category": "U 12 - MM C",
@@ -1318,7 +1318,7 @@
     {
       "code": "502323",
       "date": "2027-04-11",
-      "time": "10:45",
+      "time": "9:30",
       "team1": "BC VERLAINE A",
       "team2": "COLLEGE S LOUIS A",
       "category": "U 12 - MM C",
@@ -1343,6 +1343,16 @@
       "team2": "RBC ESNEUX B",
       "category": "U 12 - MM C",
       "location": "BC VERLAINE A",
+      "other": ""
+    },
+    {
+      "code": "507284",
+      "date": "2026-09-12",
+      "time": "13:00",
+      "team1": "BC VERLAINE B",
+      "team2": "R REN. MONTEGNEE B",
+      "category": "U 12 - MM H",
+      "location": "BC VERLAINE B",
       "other": ""
     },
     {
@@ -1486,16 +1496,6 @@
       "other": ""
     },
     {
-      "code": "507284",
-      "date": "2027-03-13",
-      "time": "13:00",
-      "team1": "BC VERLAINE B",
-      "team2": "R REN. MONTEGNEE B",
-      "category": "U 12 - MM H",
-      "location": "BC VERLAINE B",
-      "other": ""
-    },
-    {
       "code": "507303",
       "date": "2027-03-27",
       "time": "9:00",
@@ -1518,7 +1518,7 @@
     {
       "code": "507332",
       "date": "2027-04-17",
-      "time": "9:00",
+      "time": "16:30",
       "team1": "RBC ALLEUR D",
       "team2": "BC VERLAINE B",
       "category": "U 12 - MM H",
@@ -1638,7 +1638,7 @@
     {
       "code": "600243",
       "date": "2027-02-14",
-      "time": "15:00",
+      "time": "15:30",
       "team1": "BC VERLAINE",
       "team2": "R HT-PRE OUGREE",
       "category": "U 14 - DD A",
@@ -1758,7 +1758,7 @@
     {
       "code": "493195",
       "date": "2027-01-09",
-      "time": "13:00",
+      "time": "11:00",
       "team1": "LA VILLERSOISE",
       "team2": "BC VERLAINE",
       "category": "U 14 - PROV MM D",
@@ -1887,8 +1887,8 @@
     },
     {
       "code": "591106",
-      "date": "2026-11-08",
-      "time": "9:00",
+      "date": "2026-11-07",
+      "time": "13:00",
       "team1": "ALL. FLEMALLE B",
       "team2": "BC VERLAINE",
       "category": "U 16 - DD B",
@@ -2268,7 +2268,7 @@
     {
       "code": "553195",
       "date": "2027-01-09",
-      "time": "13:30",
+      "time": "12:00",
       "team1": "RBC ESNEUX",
       "team2": "BC VERLAINE",
       "category": "U 7 - MM D",
@@ -2396,6 +2396,16 @@
       "other": ""
     },
     {
+      "code": "544294",
+      "date": "2026-10-17",
+      "time": "13:00",
+      "team1": "BC VERLAINE",
+      "team2": "FLERON BBC",
+      "category": "U 8 - MM E",
+      "location": "BC VERLAINE",
+      "other": ""
+    },
+    {
       "code": "544106",
       "date": "2026-11-08",
       "time": "10:00",
@@ -2478,7 +2488,7 @@
     {
       "code": "544233",
       "date": "2027-02-06",
-      "time": "13:30",
+      "time": "9:00",
       "team1": "RBC ESNEUX B",
       "team2": "BC VERLAINE",
       "category": "U 8 - MM E",
@@ -2501,16 +2511,6 @@
       "time": "11:00",
       "team1": "BC VERLAINE",
       "team2": "ALL. FLEMALLE A",
-      "category": "U 8 - MM E",
-      "location": "BC VERLAINE",
-      "other": ""
-    },
-    {
-      "code": "544294",
-      "date": "2027-03-20",
-      "time": "11:00",
-      "team1": "BC VERLAINE",
-      "team2": "FLERON BBC",
       "category": "U 8 - MM E",
       "location": "BC VERLAINE",
       "other": ""

@@ -88,11 +88,11 @@
     {
       "code": "415012",
       "date": "2026-09-06",
-      "time": "16:00",
-      "team1": "ROYAL BC NINANE A",
-      "team2": "ROYAL BASKET OTHEE",
+      "time": "11:45",
+      "team1": "ROYAL BASKET OTHEE",
+      "team2": "ROYAL BC NINANE A",
       "category": "DD - DIVISION 2 B",
-      "location": "ROYAL BC NINANE A",
+      "location": "ROYAL BASKET OTHEE",
       "other": ""
     },
     {
@@ -227,12 +227,12 @@
     },
     {
       "code": "415201",
-      "date": "2027-01-17",
-      "time": "11:45",
-      "team1": "ROYAL BASKET OTHEE",
-      "team2": "ROYAL BC NINANE A",
+      "date": "2027-01-16",
+      "time": "21:00",
+      "team1": "ROYAL BC NINANE A",
+      "team2": "ROYAL BASKET OTHEE",
       "category": "DD - DIVISION 2 B",
-      "location": "ROYAL BASKET OTHEE",
+      "location": "ROYAL BC NINANE A",
       "other": ""
     },
     {
@@ -268,7 +268,7 @@
     {
       "code": "415253",
       "date": "2027-02-21",
-      "time": "13:00",
+      "time": "15:00",
       "team1": "ROYAL ANS BC",
       "team2": "ROYAL BC NINANE A",
       "category": "DD - DIVISION 2 B",
@@ -368,7 +368,7 @@
     {
       "code": "418032",
       "date": "2026-09-20",
-      "time": "12:00",
+      "time": "14:00",
       "team1": "ROYAL BC NINANE B",
       "team2": "ROYAL HERVE-BATTICE E",
       "category": "DD - DIVISION 3 C",
@@ -868,7 +868,7 @@
     {
       "code": "407144",
       "date": "2026-12-05",
-      "time": "21:00",
+      "time": "17:00",
       "team1": "RABC ENSIVAL D",
       "team2": "ROYAL BC NINANE E",
       "category": "MM - DIVISION 4 A",
@@ -1918,7 +1918,7 @@
     {
       "code": "520194",
       "date": "2027-01-09",
-      "time": "10:15",
+      "time": "13:30",
       "team1": "BC BELLEFLAMME A",
       "team2": "ROYAL BC NINANE A",
       "category": "U 10 - MM A",
@@ -2278,7 +2278,7 @@
     {
       "code": "501113",
       "date": "2026-11-14",
-      "time": "15:00",
+      "time": "9:00",
       "team1": "ROYAL BC NINANE",
       "team2": "UN HUY BASKET A",
       "category": "U 12 - MM B",
@@ -2378,7 +2378,7 @@
     {
       "code": "501252",
       "date": "2027-02-20",
-      "time": "9:00",
+      "time": "15:00",
       "team1": "UN HUY BASKET A",
       "team2": "ROYAL BC NINANE",
       "category": "U 12 - MM B",
@@ -2617,8 +2617,8 @@
     },
     {
       "code": "431013",
-      "date": "2026-09-06",
-      "time": "14:00",
+      "date": "2026-09-05",
+      "time": "16:00",
       "team1": "ROYAL BC NINANE",
       "team2": "PRAYON TROOZ",
       "category": "U 18 - ELITES MM B",
@@ -2816,6 +2816,16 @@
       "other": ""
     },
     {
+      "code": "431335",
+      "date": "2027-04-03",
+      "time": "14:30",
+      "team1": "RBC ESNEUX",
+      "team2": "ROYAL BC NINANE",
+      "category": "U 18 - ELITES MM B",
+      "location": "RBC ESNEUX",
+      "other": ""
+    },
+    {
       "code": "431323",
       "date": "2027-04-10",
       "time": "16:30",
@@ -2823,16 +2833,6 @@
       "team2": "PEPINSTER EAST BELG",
       "category": "U 18 - ELITES MM B",
       "location": "ROYAL BC NINANE",
-      "other": ""
-    },
-    {
-      "code": "431335",
-      "date": "2027-04-18",
-      "time": "14:00",
-      "team1": "RBC ESNEUX",
-      "team2": "ROYAL BC NINANE",
-      "category": "U 18 - ELITES MM B",
-      "location": "RBC ESNEUX",
       "other": ""
     },
     {
@@ -3096,16 +3096,6 @@
       "other": ""
     },
     {
-      "code": "580155",
-      "date": "2026-12-12",
-      "time": "15:15",
-      "team1": "RBC BLEGNY",
-      "team2": "ROYAL BC NINANE B",
-      "category": "U 19 - DD",
-      "location": "RBC BLEGNY",
-      "other": ""
-    },
-    {
       "code": "580157",
       "date": "2026-12-13",
       "time": "9:00",
@@ -3113,6 +3103,16 @@
       "team2": "ROYAL BC NINANE A",
       "category": "U 19 - DD",
       "location": "ROYAL HERVE-BATTICE",
+      "other": ""
+    },
+    {
+      "code": "580155",
+      "date": "2026-12-13",
+      "time": "11:00",
+      "team1": "RBC BLEGNY",
+      "team2": "ROYAL BC NINANE B",
+      "category": "U 19 - DD",
+      "location": "RBC BLEGNY",
       "other": ""
     },
     {
@@ -3368,7 +3368,7 @@
     {
       "code": "580315",
       "date": "2027-04-04",
-      "time": "16:00",
+      "time": "14:00",
       "team1": "RBC ESNEUX",
       "team2": "ROYAL BC NINANE A",
       "category": "U 19 - DD",
@@ -3428,7 +3428,7 @@
     {
       "code": "580345",
       "date": "2027-04-25",
-      "time": "16:00",
+      "time": "14:00",
       "team1": "RBC ESNEUX",
       "team2": "ROYAL BC NINANE B",
       "category": "U 19 - DD",
@@ -3547,8 +3547,8 @@
     },
     {
       "code": "420135",
-      "date": "2026-11-28",
-      "time": "15:00",
+      "date": "2026-11-29",
+      "time": "12:00",
       "team1": "RBC ESNEUX",
       "team2": "ROYAL BC NINANE",
       "category": "U 21 - MM",
@@ -3647,8 +3647,8 @@
     },
     {
       "code": "420258",
-      "date": "2027-02-21",
-      "time": "17:00",
+      "date": "2027-02-20",
+      "time": "14:45",
       "team1": "RBC ALLEUR",
       "team2": "ROYAL BC NINANE",
       "category": "U 21 - MM",
@@ -3798,7 +3798,7 @@
     {
       "code": "552145",
       "date": "2026-12-05",
-      "time": "9:30",
+      "time": "11:00",
       "team1": "CRISTAL SGH A",
       "team2": "ROYAL BC NINANE A",
       "category": "U 7 - MM C",
@@ -4036,16 +4036,6 @@
       "other": ""
     },
     {
-      "code": "553212",
-      "date": "2027-01-23",
-      "time": "10:00",
-      "team1": "ROYAL BC NINANE B",
-      "team2": "UN HUY BASKET",
-      "category": "U 7 - MM D",
-      "location": "ROYAL BC NINANE B",
-      "other": ""
-    },
-    {
       "code": "553223",
       "date": "2027-01-30",
       "time": "11:00",
@@ -4076,9 +4066,19 @@
       "other": ""
     },
     {
+      "code": "553212",
+      "date": "2027-03-06",
+      "time": "10:00",
+      "team1": "ROYAL BC NINANE B",
+      "team2": "UN HUY BASKET",
+      "category": "U 7 - MM D",
+      "location": "ROYAL BC NINANE B",
+      "other": ""
+    },
+    {
       "code": "553295",
       "date": "2027-03-20",
-      "time": "13:30",
+      "time": "11:00",
       "team1": "RBC ESNEUX",
       "team2": "ROYAL BC NINANE B",
       "category": "U 7 - MM D",
@@ -4168,7 +4168,7 @@
     {
       "code": "542111",
       "date": "2026-11-14",
-      "time": "9:00",
+      "time": "11:00",
       "team1": "ROYAL HERVE-BATTICE B",
       "team2": "ROYAL BC NINANE",
       "category": "U 8 - MM C",

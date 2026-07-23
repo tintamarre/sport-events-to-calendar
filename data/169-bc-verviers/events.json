@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "402017",
-      "date": "2026-09-06",
-      "time": "11:00",
-      "team1": "FLERON BBC A",
-      "team2": "BC VERVIERS B",
-      "category": "MM - DIVISION 2 A",
-      "location": "FLERON BBC A",
-      "other": ""
-    },
-    {
       "code": "402022",
       "date": "2026-09-12",
       "time": "17:00",
@@ -108,7 +98,7 @@
     {
       "code": "402143",
       "date": "2026-12-06",
-      "time": "17:00",
+      "time": "15:00",
       "team1": "LA VILLERSOISE A",
       "team2": "BC VERVIERS B",
       "category": "MM - DIVISION 2 A",
@@ -137,8 +127,8 @@
     },
     {
       "code": "402191",
-      "date": "2027-01-09",
-      "time": "21:00",
+      "date": "2027-01-10",
+      "time": "17:00",
       "team1": "ATLAS A JUPILLE B",
       "team2": "BC VERVIERS B",
       "category": "MM - DIVISION 2 A",
@@ -196,6 +186,16 @@
       "other": ""
     },
     {
+      "code": "402017",
+      "date": "2027-02-28",
+      "time": "11:00",
+      "team1": "FLERON BBC A",
+      "team2": "BC VERVIERS B",
+      "category": "MM - DIVISION 2 A",
+      "location": "FLERON BBC A",
+      "other": ""
+    },
+    {
       "code": "402273",
       "date": "2027-03-06",
       "time": "19:00",
@@ -238,7 +238,7 @@
     {
       "code": "402326",
       "date": "2027-04-10",
-      "time": "19:00",
+      "time": "17:00",
       "team1": "ESL UNITED E",
       "team2": "BC VERVIERS B",
       "category": "MM - DIVISION 2 A",
@@ -338,7 +338,7 @@
     {
       "code": "403101",
       "date": "2026-11-07",
-      "time": "19:00",
+      "time": "21:00",
       "team1": "RBC AWANS A",
       "team2": "BC VERVIERS C",
       "category": "MM - DIVISION 2 B",
@@ -358,7 +358,7 @@
     {
       "code": "403124",
       "date": "2026-11-21",
-      "time": "21:00",
+      "time": "19:00",
       "team1": "RBC HANEFFE A",
       "team2": "BC VERVIERS C",
       "category": "MM - DIVISION 2 B",
@@ -408,7 +408,7 @@
     {
       "code": "403216",
       "date": "2027-01-24",
-      "time": "12:00",
+      "time": "14:00",
       "team1": "ESL UNITED D",
       "team2": "BC VERVIERS C",
       "category": "MM - DIVISION 2 B",
@@ -526,16 +526,6 @@
       "other": ""
     },
     {
-      "code": "406017",
-      "date": "2026-09-06",
-      "time": "13:00",
-      "team1": "FLERON BBC B",
-      "team2": "BC VERVIERS D",
-      "category": "MM - DIVISION 3 C",
-      "location": "FLERON BBC B",
-      "other": ""
-    },
-    {
       "code": "406033",
       "date": "2026-09-19",
       "time": "17:00",
@@ -627,8 +617,8 @@
     },
     {
       "code": "406143",
-      "date": "2026-12-05",
-      "time": "17:00",
+      "date": "2026-12-06",
+      "time": "11:00",
       "team1": "RABC ENSIVAL C",
       "team2": "BC VERVIERS D",
       "category": "MM - DIVISION 3 C",
@@ -713,6 +703,16 @@
       "team2": "RBC WELKENRAEDT A",
       "category": "MM - DIVISION 3 C",
       "location": "BC VERVIERS D",
+      "other": ""
+    },
+    {
+      "code": "406017",
+      "date": "2027-02-28",
+      "time": "13:00",
+      "team1": "FLERON BBC B",
+      "team2": "BC VERVIERS D",
+      "category": "MM - DIVISION 3 C",
+      "location": "FLERON BBC B",
       "other": ""
     },
     {
@@ -1657,7 +1657,7 @@
     },
     {
       "code": "431221",
-      "date": "2027-01-31",
+      "date": "2027-01-30",
       "time": "13:00",
       "team1": "BC BELLEFLAMME A",
       "team2": "BC VERVIERS A",

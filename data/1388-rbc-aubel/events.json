@@ -37,8 +37,8 @@
     },
     {
       "code": "406034",
-      "date": "2026-09-20",
-      "time": "12:15",
+      "date": "2026-09-19",
+      "time": "19:30",
       "team1": "RBC AUBEL",
       "team2": "BC REVEIL",
       "category": "MM - DIVISION 3 C",
@@ -81,6 +81,16 @@
       "time": "12:15",
       "team1": "RBC AUBEL",
       "team2": "BBC EUPEN A",
+      "category": "MM - DIVISION 3 C",
+      "location": "RBC AUBEL",
+      "other": ""
+    },
+    {
+      "code": "406224",
+      "date": "2026-10-31",
+      "time": "20:00",
+      "team1": "RBC AUBEL",
+      "team2": "RBC STAVELOT B",
       "category": "MM - DIVISION 3 C",
       "location": "RBC AUBEL",
       "other": ""
@@ -171,16 +181,6 @@
       "time": "12:15",
       "team1": "RBC AUBEL",
       "team2": "RBC BLEGNY A",
-      "category": "MM - DIVISION 3 C",
-      "location": "RBC AUBEL",
-      "other": ""
-    },
-    {
-      "code": "406224",
-      "date": "2027-01-30",
-      "time": "20:00",
-      "team1": "RBC AUBEL",
-      "team2": "RBC STAVELOT B",
       "category": "MM - DIVISION 3 C",
       "location": "RBC AUBEL",
       "other": ""
@@ -296,16 +296,6 @@
       "other": ""
     },
     {
-      "code": "520014",
-      "date": "2026-09-05",
-      "time": "10:15",
-      "team1": "BC BELLEFLAMME A",
-      "team2": "RBC AUBEL A",
-      "category": "U 10 - MM A",
-      "location": "BC BELLEFLAMME A",
-      "other": ""
-    },
-    {
       "code": "520021",
       "date": "2026-09-12",
       "time": "11:00",
@@ -337,7 +327,7 @@
     },
     {
       "code": "520063",
-      "date": "2026-10-10",
+      "date": "2026-10-31",
       "time": "9:00",
       "team1": "THEUX BC A",
       "team2": "RBC AUBEL A",
@@ -363,6 +353,16 @@
       "team2": "ALL. FLEMALLE A",
       "category": "U 10 - MM A",
       "location": "RBC AUBEL A",
+      "other": ""
+    },
+    {
+      "code": "520014",
+      "date": "2026-11-29",
+      "time": "9:00",
+      "team1": "BC BELLEFLAMME A",
+      "team2": "RBC AUBEL A",
+      "category": "U 10 - MM A",
+      "location": "BC BELLEFLAMME A",
       "other": ""
     },
     {
@@ -478,7 +478,7 @@
     {
       "code": "520326",
       "date": "2027-04-11",
-      "time": "13:00",
+      "time": "9:00",
       "team1": "ALL. FLEMALLE A",
       "team2": "RBC AUBEL A",
       "category": "U 10 - MM A",
@@ -757,7 +757,7 @@
     },
     {
       "code": "505142",
-      "date": "2026-12-05",
+      "date": "2026-11-29",
       "time": "10:30",
       "team1": "BC BELLEFLAMME C",
       "team2": "RBC AUBEL",
@@ -1367,8 +1367,8 @@
     },
     {
       "code": "580224",
-      "date": "2027-01-31",
-      "time": "10:15",
+      "date": "2027-01-29",
+      "time": "19:30",
       "team1": "RBC AUBEL",
       "team2": "RBC AWANS B",
       "category": "U 19 - DD",
@@ -1927,8 +1927,8 @@
     },
     {
       "code": "540014",
-      "date": "2026-10-10",
-      "time": "11:00",
+      "date": "2026-10-17",
+      "time": "15:00",
       "team1": "VAIL. JUPILLE",
       "team2": "RBC AUBEL A",
       "category": "U 8 - MM A",

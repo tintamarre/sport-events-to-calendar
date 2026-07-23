@@ -6,6 +6,26 @@
   },
   "events": [
     {
+      "code": "762005",
+      "date": "2026-08-29",
+      "time": "15:00",
+      "team1": "BC BELLEFLAMME A",
+      "team2": "MARCHIN BASKET",
+      "category": "CPE PROV CADETS",
+      "location": "BC BELLEFLAMME A",
+      "other": ""
+    },
+    {
+      "code": "763010",
+      "date": "2026-08-29",
+      "time": "16:00",
+      "team1": "PEPINSTER EAST BELG A",
+      "team2": "MARCHIN BASKET",
+      "category": "CPE PROV MINIMES MM",
+      "location": "PEPINSTER EAST BELG A",
+      "other": ""
+    },
+    {
       "code": "493016",
       "date": "2026-09-06",
       "time": "9:00",
@@ -58,12 +78,12 @@
     {
       "code": "493145",
       "date": "2026-12-05",
-      "time": "13:00",
+      "time": "12:00",
       "team1": "LA VILLERSOISE",
       "team2": "MARCHIN BASKET",
       "category": "U 14 - PROV MM D",
       "location": "LA VILLERSOISE",
-      "other": ""
+      "other": "(petit pole ballon warem"
     },
     {
       "code": "493153",
@@ -408,7 +428,7 @@
     {
       "code": "440143",
       "date": "2026-12-06",
-      "time": "13:00",
+      "time": "15:00",
       "team1": "ROYAL ANS BC",
       "team2": "MARCHIN BASKET",
       "category": "U 18 - PROV MM A",
@@ -608,7 +628,7 @@
     {
       "code": "420145",
       "date": "2026-12-06",
-      "time": "16:30",
+      "time": "17:00",
       "team1": "MARCHIN BASKET",
       "team2": "RBC ALLEUR",
       "category": "U 21 - MM",
@@ -717,8 +737,8 @@
     },
     {
       "code": "420278",
-      "date": "2027-03-07",
-      "time": "17:00",
+      "date": "2027-03-06",
+      "time": "12:45",
       "team1": "RBC ALLEUR",
       "team2": "MARCHIN BASKET",
       "category": "U 21 - MM",
@@ -728,7 +748,7 @@
     {
       "code": "420285",
       "date": "2027-03-13",
-      "time": "15:00",
+      "time": "16:00",
       "team1": "RBC ESNEUX",
       "team2": "MARCHIN BASKET",
       "category": "U 21 - MM",

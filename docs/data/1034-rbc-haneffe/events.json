@@ -158,7 +158,7 @@
     {
       "code": "413153",
       "date": "2026-12-13",
-      "time": "10:00",
+      "time": "18:00",
       "team1": "RBC ESNEUX B",
       "team2": "RBC HANEFFE B",
       "category": "DD - DIVISION 1",
@@ -187,7 +187,7 @@
     },
     {
       "code": "413214",
-      "date": "2027-01-23",
+      "date": "2027-01-24",
       "time": "15:00",
       "team1": "RABC ENSIVAL",
       "team2": "RBC HANEFFE B",
@@ -226,19 +226,9 @@
       "other": ""
     },
     {
-      "code": "413275",
-      "date": "2027-03-07",
-      "time": "16:00",
-      "team1": "RBC HANEFFE B",
-      "team2": "HANNUT BC",
-      "category": "DD - DIVISION 1",
-      "location": "RBC HANEFFE B",
-      "other": ""
-    },
-    {
       "code": "413285",
       "date": "2027-03-13",
-      "time": "19:00",
+      "time": "21:00",
       "team1": "ABC WAREMME A",
       "team2": "RBC HANEFFE B",
       "category": "DD - DIVISION 1",
@@ -261,6 +251,16 @@
       "time": "16:00",
       "team1": "RBC HANEFFE B",
       "team2": "BC BELLEFLAMME B",
+      "category": "DD - DIVISION 1",
+      "location": "RBC HANEFFE B",
+      "other": ""
+    },
+    {
+      "code": "413275",
+      "date": "2027-04-04",
+      "time": "16:00",
+      "team1": "RBC HANEFFE B",
+      "team2": "HANNUT BC",
       "category": "DD - DIVISION 1",
       "location": "RBC HANEFFE B",
       "other": ""
@@ -347,8 +347,8 @@
     },
     {
       "code": "415083",
-      "date": "2026-10-25",
-      "time": "13:00",
+      "date": "2026-10-27",
+      "time": "20:30",
       "team1": "ROYAL ANS BC",
       "team2": "RBC HANEFFE C",
       "category": "DD - DIVISION 2 B",
@@ -567,8 +567,8 @@
     },
     {
       "code": "418031",
-      "date": "2026-09-20",
-      "time": "14:00",
+      "date": "2026-09-19",
+      "time": "17:00",
       "team1": "RBC HANEFFE D",
       "team2": "LA VILLERSOISE B",
       "category": "DD - DIVISION 3 C",
@@ -917,8 +917,8 @@
     },
     {
       "code": "AW105095",
-      "date": "2027-04-03",
-      "time": "19:00",
+      "date": "2027-04-04",
+      "time": "12:00",
       "team1": "RBC HANEFFE A",
       "team2": "T.E.F. KAIN",
       "category": "DD - REGIONALE 2 A",
@@ -968,7 +968,7 @@
     {
       "code": "403021",
       "date": "2026-09-12",
-      "time": "19:00",
+      "time": "21:00",
       "team1": "RBC AWANS A",
       "team2": "RBC HANEFFE A",
       "category": "MM - DIVISION 2 B",
@@ -978,7 +978,7 @@
     {
       "code": "403034",
       "date": "2026-09-19",
-      "time": "21:00",
+      "time": "19:00",
       "team1": "RBC HANEFFE A",
       "team2": "ESL UNITED D",
       "category": "MM - DIVISION 2 B",
@@ -998,7 +998,7 @@
     {
       "code": "403075",
       "date": "2026-10-17",
-      "time": "20:00",
+      "time": "17:30",
       "team1": "ABC WAREMME B",
       "team2": "RBC HANEFFE A",
       "category": "MM - DIVISION 2 B",
@@ -1048,7 +1048,7 @@
     {
       "code": "403124",
       "date": "2026-11-21",
-      "time": "21:00",
+      "time": "19:00",
       "team1": "RBC HANEFFE A",
       "team2": "BC VERVIERS C",
       "category": "MM - DIVISION 2 B",
@@ -1088,7 +1088,7 @@
     {
       "code": "403196",
       "date": "2027-01-10",
-      "time": "12:00",
+      "time": "10:00",
       "team1": "ESL UNITED D",
       "team2": "RBC HANEFFE A",
       "category": "MM - DIVISION 2 B",
@@ -1108,7 +1108,7 @@
     {
       "code": "403214",
       "date": "2027-01-23",
-      "time": "21:00",
+      "time": "17:00",
       "team1": "RBC HANEFFE A",
       "team2": "ABC WAREMME B",
       "category": "MM - DIVISION 2 B",
@@ -1148,7 +1148,7 @@
     {
       "code": "403274",
       "date": "2027-03-06",
-      "time": "21:00",
+      "time": "19:00",
       "team1": "RBC HANEFFE A",
       "team2": "ROYAL SPA BC B",
       "category": "MM - DIVISION 2 B",
@@ -1237,8 +1237,8 @@
     },
     {
       "code": "411036",
-      "date": "2026-09-19",
-      "time": "17:00",
+      "date": "2026-09-20",
+      "time": "14:00",
       "team1": "RBC HANEFFE B",
       "team2": "RBC ESNEUX",
       "category": "MM - DIVISION 4 E",
@@ -1348,7 +1348,7 @@
     {
       "code": "411212",
       "date": "2027-01-23",
-      "time": "19:00",
+      "time": "21:00",
       "team1": "BC BELLEFLAMME F",
       "team2": "RBC HANEFFE B",
       "category": "MM - DIVISION 4 E",
@@ -1668,7 +1668,7 @@
     {
       "code": "527335",
       "date": "2027-04-17",
-      "time": "13:00",
+      "time": "11:00",
       "team1": "ABC WAREMME C",
       "team2": "RBC HANEFFE A",
       "category": "U 10 - MM H",
@@ -1716,6 +1716,16 @@
       "other": ""
     },
     {
+      "code": "528153",
+      "date": "2026-10-24",
+      "time": "11:00",
+      "team1": "RBC HANEFFE B",
+      "team2": "UN HUY BASKET A",
+      "category": "U 10 - MM I",
+      "location": "RBC HANEFFE B",
+      "other": ""
+    },
+    {
       "code": "528101",
       "date": "2026-11-08",
       "time": "13:00",
@@ -1741,16 +1751,6 @@
       "time": "15:30",
       "team1": "RBC HANEFFE B",
       "team2": "ORP JAUCHE",
-      "category": "U 10 - MM I",
-      "location": "RBC HANEFFE B",
-      "other": ""
-    },
-    {
-      "code": "528153",
-      "date": "2026-12-12",
-      "time": "15:30",
-      "team1": "RBC HANEFFE B",
-      "team2": "UN HUY BASKET A",
       "category": "U 10 - MM I",
       "location": "RBC HANEFFE B",
       "other": ""
@@ -1866,16 +1866,6 @@
       "other": ""
     },
     {
-      "code": "503022",
-      "date": "2026-09-13",
-      "time": "9:00",
-      "team1": "RBC VISE B",
-      "team2": "RBC HANEFFE",
-      "category": "U 12 - MM D",
-      "location": "RBC VISE B",
-      "other": ""
-    },
-    {
       "code": "503033",
       "date": "2026-09-19",
       "time": "15:00",
@@ -1883,6 +1873,16 @@
       "team2": "BC SPRIMONT B",
       "category": "U 12 - MM D",
       "location": "RBC HANEFFE",
+      "other": ""
+    },
+    {
+      "code": "503022",
+      "date": "2026-09-26",
+      "time": "15:00",
+      "team1": "RBC VISE B",
+      "team2": "RBC HANEFFE",
+      "category": "U 12 - MM D",
+      "location": "RBC VISE B",
       "other": ""
     },
     {
@@ -2027,8 +2027,8 @@
     },
     {
       "code": "503304",
-      "date": "2027-03-27",
-      "time": "12:30",
+      "date": "2027-03-28",
+      "time": "11:00",
       "team1": "PEPINSTER EAST BELG B",
       "team2": "RBC HANEFFE",
       "category": "U 12 - MM D",
@@ -2348,7 +2348,7 @@
     {
       "code": "553165",
       "date": "2026-12-19",
-      "time": "13:30",
+      "time": "9:00",
       "team1": "RBC ESNEUX",
       "team2": "RBC HANEFFE",
       "category": "U 7 - MM D",
@@ -2358,7 +2358,7 @@
     {
       "code": "553193",
       "date": "2027-01-09",
-      "time": "13:00",
+      "time": "13:30",
       "team1": "CONDROZ MODAVE BB",
       "team2": "RBC HANEFFE",
       "category": "U 7 - MM D",
