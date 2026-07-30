@@ -6,7 +6,17 @@
   },
   "events": [
     {
-      "code": "628",
+      "code": "AW244003",
+      "date": "2026-08-22",
+      "time": "13:00",
+      "team1": "RBC VISE",
+      "team2": "BC SAINT-HUBERT",
+      "category": "COUPE AWBB U14 - GARCONS",
+      "location": "RBC VISE",
+      "other": ""
+    },
+    {
+      "code": "AW243020",
       "date": "2026-08-23",
       "time": "13:00",
       "team1": "R EXC BRUXELLES",
@@ -16,7 +26,7 @@
       "other": ""
     },
     {
-      "code": "517",
+      "code": "AW242009",
       "date": "2026-08-22",
       "time": "15:00",
       "team1": "R 4A AYWAILLE-HAMOIR",
@@ -33,6 +43,16 @@
       "team2": "RBC VISE",
       "category": "CPE PROV CADETS",
       "location": "PEPINSTER EAST BELG",
+      "other": ""
+    },
+    {
+      "code": "764013",
+      "date": "2026-08-29",
+      "time": "13:00",
+      "team1": "UN HUY BASKET",
+      "team2": "RBC VISE B",
+      "category": "CPE PROV PUPILLES MM",
+      "location": "UN HUY BASKET",
       "other": ""
     },
     {
@@ -176,16 +196,6 @@
       "other": ""
     },
     {
-      "code": "414192",
-      "date": "2027-01-10",
-      "time": "13:00",
-      "team1": "PEPINSTER EAST BELG B",
-      "team2": "RBC VISE A",
-      "category": "DD - DIVISION 2 A",
-      "location": "PEPINSTER EAST BELG B",
-      "other": ""
-    },
-    {
       "code": "414207",
       "date": "2027-01-16",
       "time": "21:00",
@@ -213,6 +223,16 @@
       "team2": "ABC WAREMME B",
       "category": "DD - DIVISION 2 A",
       "location": "RBC VISE A",
+      "other": ""
+    },
+    {
+      "code": "414192",
+      "date": "2027-02-07",
+      "time": "11:00",
+      "team1": "PEPINSTER EAST BELG B",
+      "team2": "RBC VISE A",
+      "category": "DD - DIVISION 2 A",
+      "location": "PEPINSTER EAST BELG B",
       "other": ""
     },
     {
@@ -1526,6 +1546,16 @@
       "other": ""
     },
     {
+      "code": "915004",
+      "date": "2026-08-22",
+      "time": "20:00",
+      "team1": "ABC WAREMME C (+ 5)",
+      "team2": "RBC VISE A",
+      "category": "PROVINCIALE DD - POULE O",
+      "location": "ABC WAREMME C (+ 5)",
+      "other": ""
+    },
+    {
       "code": "915005",
       "date": "2026-08-29",
       "time": "21:00",
@@ -1533,6 +1563,16 @@
       "team2": "ROYAL ANS BC",
       "category": "PROVINCIALE DD - POULE O",
       "location": "RBC VISE A",
+      "other": ""
+    },
+    {
+      "code": "810002",
+      "date": "2026-08-16",
+      "time": "15:00",
+      "team1": "RBC VISE C",
+      "team2": "RB TILFF C",
+      "category": "PROVINCIALE MM - POULE J",
+      "location": "RBC VISE C",
       "other": ""
     },
     {
@@ -2776,6 +2816,16 @@
       "other": ""
     },
     {
+      "code": "491024",
+      "date": "2026-09-13",
+      "time": "9:00",
+      "team1": "RBC VISE B",
+      "team2": "ROYAL HERVE-BATTICE",
+      "category": "U 14 - PROV MM B",
+      "location": "RBC VISE B",
+      "other": ""
+    },
+    {
       "code": "491035",
       "date": "2026-09-19",
       "time": "13:00",
@@ -2793,16 +2843,6 @@
       "team2": "RBC VISE B",
       "category": "U 14 - PROV MM B",
       "location": "BC COINTE B",
-      "other": ""
-    },
-    {
-      "code": "491024",
-      "date": "2026-10-03",
-      "time": "13:00",
-      "team1": "RBC VISE B",
-      "team2": "ROYAL HERVE-BATTICE",
-      "category": "U 14 - PROV MM B",
-      "location": "RBC VISE B",
       "other": ""
     },
     {
@@ -2986,6 +3026,16 @@
       "other": ""
     },
     {
+      "code": "AW132019",
+      "date": "2026-09-26",
+      "time": "11:00",
+      "team1": "RBC VISE",
+      "team2": "CANTER SCHAERBEEK",
+      "category": "U 14 - SILVER REGIONAUX A",
+      "location": "RBC VISE",
+      "other": ""
+    },
+    {
       "code": "AW132012",
       "date": "2026-10-03",
       "time": "13:00",
@@ -3001,16 +3051,6 @@
       "time": "13:00",
       "team1": "RBC VISE",
       "team2": "ROYAL GALLIA BEEZ",
-      "category": "U 14 - SILVER REGIONAUX A",
-      "location": "RBC VISE",
-      "other": ""
-    },
-    {
-      "code": "AW132019",
-      "date": "2026-11-07",
-      "time": "13:00",
-      "team1": "RBC VISE",
-      "team2": "CANTER SCHAERBEEK",
       "category": "U 14 - SILVER REGIONAUX A",
       "location": "RBC VISE",
       "other": ""
@@ -4157,8 +4197,8 @@
     },
     {
       "code": "AW109009",
-      "date": "2026-10-24",
-      "time": "13:00",
+      "date": "2026-10-25",
+      "time": "15:00",
       "team1": "RBC VISE",
       "team2": "BC RANSART CHARLEROI",
       "category": "U 21 - SILVER REGIONAUX A",

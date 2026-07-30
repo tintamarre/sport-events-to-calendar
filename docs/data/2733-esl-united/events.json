@@ -26,7 +26,7 @@
       "other": ""
     },
     {
-      "code": "613",
+      "code": "AW243027",
       "date": "2026-08-22",
       "time": "14:30",
       "team1": "DPK CARNIERES A",
@@ -36,7 +36,7 @@
       "other": ""
     },
     {
-      "code": "509",
+      "code": "AW242014",
       "date": "2026-08-21",
       "time": "20:00",
       "team1": "ESL UNITED",
@@ -46,7 +46,7 @@
       "other": ""
     },
     {
-      "code": "407",
+      "code": "AW241030",
       "date": "2026-08-30",
       "time": "17:45",
       "team1": "ESL UNITED B",
@@ -327,8 +327,8 @@
     },
     {
       "code": "402026",
-      "date": "2026-09-12",
-      "time": "17:00",
+      "date": "2026-09-11",
+      "time": "21:00",
       "team1": "ESL UNITED E",
       "team2": "ROYAL SPA BC C",
       "category": "MM - DIVISION 2 A",
@@ -538,7 +538,7 @@
     {
       "code": "402301",
       "date": "2027-03-27",
-      "time": "21:00",
+      "time": "19:00",
       "team1": "BC BELLEFLAMME C",
       "team2": "ESL UNITED E",
       "category": "MM - DIVISION 2 A",
@@ -847,8 +847,8 @@
     },
     {
       "code": "404026",
-      "date": "2026-09-11",
-      "time": "21:00",
+      "date": "2026-09-13",
+      "time": "17:00",
       "team1": "ESL UNITED F",
       "team2": "RBC DISON-ANDRIMONT B",
       "category": "MM - DIVISION 3 A",
@@ -1277,8 +1277,8 @@
     },
     {
       "code": "AW100144",
-      "date": "2027-01-31",
-      "time": "15:00",
+      "date": "2027-01-29",
+      "time": "20:30",
       "team1": "RPC ANDERLECHT",
       "team2": "ESL UNITED A",
       "category": "MM - REGIONALE 1",
@@ -1607,8 +1607,8 @@
     },
     {
       "code": "AW101176",
-      "date": "2027-04-10",
-      "time": "19:00",
+      "date": "2027-04-09",
+      "time": "21:00",
       "team1": "ROYAL SPA BC A",
       "team2": "ESL UNITED B",
       "category": "MM - REGIONALE 2 A",
@@ -1633,6 +1633,16 @@
       "team2": "UCCLE EUROPE",
       "category": "MM - REGIONALE 2 A",
       "location": "ESL UNITED B",
+      "other": ""
+    },
+    {
+      "code": "829002",
+      "date": "2026-08-16",
+      "time": "13:00",
+      "team1": "CRISTAL SGH C (+ 5)",
+      "team2": "ESL UNITED F",
+      "category": "PROVINCIALE MM - POULE CC",
+      "location": "CRISTAL SGH C (+ 5)",
       "other": ""
     },
     {
@@ -1676,6 +1686,16 @@
       "other": ""
     },
     {
+      "code": "822004",
+      "date": "2026-08-23",
+      "time": "11:30",
+      "team1": "BC VERLAINE (+ 10)",
+      "team2": "ESL UNITED D",
+      "category": "PROVINCIALE MM - POULE V",
+      "location": "BC VERLAINE (+ 10)",
+      "other": ""
+    },
+    {
       "code": "822005",
       "date": "2026-08-29",
       "time": "20:45",
@@ -1688,7 +1708,7 @@
     {
       "code": "AW130002",
       "date": "2026-09-06",
-      "time": "11:00",
+      "time": "10:00",
       "team1": "UNITED B WOLUWE",
       "team2": "ESL UNITED",
       "category": "U 14 - GOLD REGIONAUX A",
@@ -1717,8 +1737,8 @@
     },
     {
       "code": "AW130010",
-      "date": "2026-10-04",
-      "time": "13:00",
+      "date": "2026-10-03",
+      "time": "17:00",
       "team1": "ESL UNITED",
       "team2": "BC GENAPPE-LOTHIER",
       "category": "U 14 - GOLD REGIONAUX A",
@@ -1777,8 +1797,8 @@
     },
     {
       "code": "AW130016",
-      "date": "2026-12-13",
-      "time": "9:30",
+      "date": "2026-12-12",
+      "time": "15:00",
       "team1": "ESL UNITED",
       "team2": "R.B.C. BELGRADE",
       "category": "U 14 - GOLD REGIONAUX A",
@@ -1807,8 +1827,8 @@
     },
     {
       "code": "AW122006",
-      "date": "2026-09-19",
-      "time": "13:00",
+      "date": "2026-09-20",
+      "time": "11:30",
       "team1": "DPK CARNIERES",
       "team2": "ESL UNITED",
       "category": "U 16 - GOLD REGIONAUX B",
@@ -1868,7 +1888,7 @@
     {
       "code": "AW122028",
       "date": "2026-12-05",
-      "time": "10:45",
+      "time": "14:45",
       "team1": "ESL UNITED",
       "team2": "DPK CARNIERES",
       "category": "U 16 - GOLD REGIONAUX B",
@@ -2017,8 +2037,8 @@
     },
     {
       "code": "AW114010",
-      "date": "2026-10-04",
-      "time": "15:00",
+      "date": "2026-10-03",
+      "time": "19:00",
       "team1": "ESL UNITED",
       "team2": "DPK CARNIERES",
       "category": "U 18 - GOLD REGIONAUX B",
@@ -2068,7 +2088,7 @@
     {
       "code": "AW114030",
       "date": "2026-12-05",
-      "time": "15:00",
+      "time": "10:00",
       "team1": "B55 ACADEMY XL",
       "team2": "ESL UNITED",
       "category": "U 18 - GOLD REGIONAUX B",
@@ -2157,8 +2177,8 @@
     },
     {
       "code": "AW108026",
-      "date": "2026-11-21",
-      "time": "11:30",
+      "date": "2026-11-22",
+      "time": "12:30",
       "team1": "ROYAL IV BRUSSELS",
       "team2": "ESL UNITED",
       "category": "U 21 - GOLD REGIONAUX B",

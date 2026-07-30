@@ -36,6 +36,16 @@
       "other": ""
     },
     {
+      "code": "AW244004",
+      "date": "2026-08-22",
+      "time": "11:00",
+      "team1": "RBC HANEFFE",
+      "team2": "NUTS BASTOGNE",
+      "category": "COUPE AWBB U14 - GARCONS",
+      "location": "RBC HANEFFE",
+      "other": ""
+    },
+    {
       "code": "413016",
       "date": "2026-09-06",
       "time": "13:00",
@@ -68,7 +78,7 @@
     {
       "code": "413062",
       "date": "2026-10-10",
-      "time": "17:00",
+      "time": "21:00",
       "team1": "BC BELLEFLAMME B",
       "team2": "RBC HANEFFE B",
       "category": "DD - DIVISION 1",
@@ -556,16 +566,6 @@
       "other": ""
     },
     {
-      "code": "418024",
-      "date": "2026-09-12",
-      "time": "19:00",
-      "team1": "RBC BLEGNY C",
-      "team2": "RBC HANEFFE D",
-      "category": "DD - DIVISION 3 C",
-      "location": "RBC BLEGNY C",
-      "other": ""
-    },
-    {
       "code": "418031",
       "date": "2026-09-19",
       "time": "17:00",
@@ -573,6 +573,16 @@
       "team2": "LA VILLERSOISE B",
       "category": "DD - DIVISION 3 C",
       "location": "RBC HANEFFE D",
+      "other": ""
+    },
+    {
+      "code": "418024",
+      "date": "2026-09-26",
+      "time": "18:30",
+      "team1": "RBC BLEGNY C",
+      "team2": "RBC HANEFFE D",
+      "category": "DD - DIVISION 3 C",
+      "location": "RBC BLEGNY C",
       "other": ""
     },
     {
@@ -748,7 +758,7 @@
     {
       "code": "AW105011",
       "date": "2026-09-19",
-      "time": "19:00",
+      "time": "21:00",
       "team1": "RBC HANEFFE A",
       "team2": "RCS NATOYE",
       "category": "DD - REGIONALE 2 A",
@@ -758,7 +768,7 @@
     {
       "code": "AW105005",
       "date": "2026-10-03",
-      "time": "21:00",
+      "time": "19:00",
       "team1": "RBC ESNEUX A",
       "team2": "RBC HANEFFE A",
       "category": "DD - REGIONALE 2 A",
@@ -818,7 +828,7 @@
     {
       "code": "AW105065",
       "date": "2026-11-21",
-      "time": "19:00",
+      "time": "21:00",
       "team1": "RBC HANEFFE A",
       "team2": "REBOND OTTIGNIES",
       "category": "DD - REGIONALE 2 A",
@@ -898,7 +908,7 @@
     {
       "code": "AW105113",
       "date": "2027-03-06",
-      "time": "19:00",
+      "time": "21:00",
       "team1": "RBC HANEFFE A",
       "team2": "CENTRE GAUME TINTIGNY",
       "category": "DD - REGIONALE 2 A",
@@ -1436,6 +1446,26 @@
       "other": ""
     },
     {
+      "code": "903002",
+      "date": "2026-08-15",
+      "time": "17:00",
+      "team1": "RBC HANEFFE C",
+      "team2": "BC SPRIMONT C (+ 5)",
+      "category": "PROVINCIALE DD - POULE C",
+      "location": "RBC HANEFFE C",
+      "other": ""
+    },
+    {
+      "code": "903004",
+      "date": "2026-08-23",
+      "time": "15:30",
+      "team1": "RBC HANEFFE C (+ 5)",
+      "team2": "ABC WAREMME A",
+      "category": "PROVINCIALE DD - POULE C",
+      "location": "RBC HANEFFE C (+ 5)",
+      "other": ""
+    },
+    {
       "code": "903006",
       "date": "2026-08-29",
       "time": "21:00",
@@ -1446,6 +1476,66 @@
       "other": ""
     },
     {
+      "code": "907002",
+      "date": "2026-08-16",
+      "time": "10:00",
+      "team1": "RBC HANEFFE D (+ 5)",
+      "team2": "ROYAL BC NINANE A",
+      "category": "PROVINCIALE DD - POULE G",
+      "location": "RBC HANEFFE D (+ 5)",
+      "other": ""
+    },
+    {
+      "code": "907004",
+      "date": "2026-08-23",
+      "time": "17:30",
+      "team1": "RBC HANEFFE D (+ 10)",
+      "team2": "RBC ALLEUR C",
+      "category": "PROVINCIALE DD - POULE G",
+      "location": "RBC HANEFFE D (+ 10)",
+      "other": ""
+    },
+    {
+      "code": "907006",
+      "date": "2026-08-29",
+      "time": "18:30",
+      "team1": "DF BC MALMEDY",
+      "team2": "RBC HANEFFE D",
+      "category": "PROVINCIALE DD - POULE G",
+      "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "910001",
+      "date": "2026-08-16",
+      "time": "12:00",
+      "team1": "RBC HANEFFE B",
+      "team2": "VAIL. JUPILLE (+ 10)",
+      "category": "PROVINCIALE DD - POULE J",
+      "location": "RBC HANEFFE B",
+      "other": ""
+    },
+    {
+      "code": "910004",
+      "date": "2026-08-22",
+      "time": "18:00",
+      "team1": "UN HUY BASKET C (+ 10)",
+      "team2": "RBC HANEFFE B",
+      "category": "PROVINCIALE DD - POULE J",
+      "location": "UN HUY BASKET C (+ 10)",
+      "other": ""
+    },
+    {
+      "code": "910005",
+      "date": "2026-08-30",
+      "time": "12:00",
+      "team1": "RBC HANEFFE B",
+      "team2": "BC SPRIMONT B (+ 5)",
+      "category": "PROVINCIALE DD - POULE J",
+      "location": "RBC HANEFFE B",
+      "other": ""
+    },
+    {
       "code": "831004",
       "date": "2026-08-23",
       "time": "13:00",
@@ -1453,6 +1543,16 @@
       "team2": "RBC HANEFFE A",
       "category": "PROVINCIALE MM - POULE EE",
       "location": "RABC ENSIVAL D (+ 10)",
+      "other": ""
+    },
+    {
+      "code": "831005",
+      "date": "2026-08-29",
+      "time": "20:00",
+      "team1": "RBC HANEFFE A",
+      "team2": "RBC BLEGNY C (+ 10)",
+      "category": "PROVINCIALE MM - POULE EE",
+      "location": "RBC HANEFFE A",
       "other": ""
     },
     {
@@ -1907,8 +2007,8 @@
     },
     {
       "code": "503114",
-      "date": "2026-11-14",
-      "time": "15:00",
+      "date": "2026-11-15",
+      "time": "13:00",
       "team1": "GIANTS BRAIVES B",
       "team2": "RBC HANEFFE",
       "category": "U 12 - MM D",
@@ -1948,7 +2048,7 @@
     {
       "code": "503153",
       "date": "2026-12-13",
-      "time": "17:00",
+      "time": "15:00",
       "team1": "RBC ALLEUR B",
       "team2": "RBC HANEFFE",
       "category": "U 12 - MM D",
@@ -2067,8 +2167,8 @@
     },
     {
       "code": "AW133008",
-      "date": "2026-09-13",
-      "time": "11:00",
+      "date": "2026-09-12",
+      "time": "11:15",
       "team1": "BC GENAPPE-LOTHIER",
       "team2": "RBC HANEFFE",
       "category": "U 14 - SILVER REGIONAUX B",

@@ -56,9 +56,9 @@
       "other": ""
     },
     {
-      "code": "711",
+      "code": "AW244002",
       "date": "2026-08-22",
-      "time": "12:00",
+      "time": "10:00",
       "team1": "OLYMPIC MSM",
       "team2": "HENRI-CHAPELLE A",
       "category": "COUPE AWBB U14 - GARCONS",
@@ -66,7 +66,7 @@
       "other": ""
     },
     {
-      "code": "721",
+      "code": "AW244015",
       "date": "2026-08-22",
       "time": "10:30",
       "team1": "HENRI-CHAPELLE B",
@@ -76,7 +76,7 @@
       "other": ""
     },
     {
-      "code": "1019",
+      "code": "AW247047",
       "date": "2026-09-26",
       "time": "12:30",
       "team1": "HENRI-CHAPELLE",
@@ -84,6 +84,16 @@
       "category": "COUPE AWBB U16 - FILLES",
       "location": "HENRI-CHAPELLE",
       "other": ""
+    },
+    {
+      "code": "762024",
+      "date": "2026-09-26",
+      "time": "15:00",
+      "team1": "CRISTAL SGH A",
+      "team2": "HENRI-CHAPELLE",
+      "category": "CPE PROV CADETS",
+      "location": "CRISTAL SGH A",
+      "other": "(Salle Grâce-Hollogne)"
     },
     {
       "code": "763008",
@@ -408,7 +418,7 @@
     {
       "code": "415076",
       "date": "2026-10-18",
-      "time": "11:00",
+      "time": "13:00",
       "team1": "HENRI-CHAPELLE B",
       "team2": "ALL. FLEMALLE B",
       "category": "DD - DIVISION 2 B",
@@ -427,7 +437,7 @@
     },
     {
       "code": "415107",
-      "date": "2026-11-07",
+      "date": "2026-10-31",
       "time": "17:00",
       "team1": "R 4A AYWAILLE-HAMOIR A",
       "team2": "HENRI-CHAPELLE B",
@@ -1167,8 +1177,8 @@
     },
     {
       "code": "404122",
-      "date": "2026-11-21",
-      "time": "17:00",
+      "date": "2026-11-22",
+      "time": "14:00",
       "team1": "BC BELLEFLAMME D",
       "team2": "HENRI-CHAPELLE B",
       "category": "MM - DIVISION 3 A",
@@ -1438,7 +1448,7 @@
     {
       "code": "407157",
       "date": "2026-12-12",
-      "time": "20:30",
+      "time": "18:30",
       "team1": "HENRI-CHAPELLE D",
       "team2": "RBC STAVELOT C",
       "category": "MM - DIVISION 4 A",
@@ -1453,16 +1463,6 @@
       "team2": "HENRI-CHAPELLE D",
       "category": "MM - DIVISION 4 A",
       "location": "ETOILE JUPILLE D",
-      "other": ""
-    },
-    {
-      "code": "407197",
-      "date": "2027-01-09",
-      "time": "18:30",
-      "team1": "HENRI-CHAPELLE D",
-      "team2": "ROYAL BC NINANE E",
-      "category": "MM - DIVISION 4 A",
-      "location": "HENRI-CHAPELLE D",
       "other": ""
     },
     {
@@ -1493,6 +1493,16 @@
       "team2": "HENRI-CHAPELLE D",
       "category": "MM - DIVISION 4 A",
       "location": "RB TILFF E",
+      "other": ""
+    },
+    {
+      "code": "407197",
+      "date": "2027-02-06",
+      "time": "20:30",
+      "team1": "HENRI-CHAPELLE D",
+      "team2": "ROYAL BC NINANE E",
+      "category": "MM - DIVISION 4 A",
+      "location": "HENRI-CHAPELLE D",
       "other": ""
     },
     {
@@ -1786,9 +1796,19 @@
       "other": ""
     },
     {
-      "code": "902001",
-      "date": "2026-08-16",
+      "code": "902005",
+      "date": "2026-08-30",
       "time": "11:00",
+      "team1": "HENRI-CHAPELLE A",
+      "team2": "PEPINSTER EAST BELG B (+ 5)",
+      "category": "PEPINSTER EAST BELG B (+ 5)",
+      "location": "HENRI-CHAPELLE A",
+      "other": ""
+    },
+    {
+      "code": "902001",
+      "date": "2026-08-15",
+      "time": "18:30",
       "team1": "HENRI-CHAPELLE A",
       "team2": "PRAYON TROOZ D (+ 10)",
       "category": "PROVINCIALE DD - POULE B",
@@ -1806,6 +1826,16 @@
       "other": ""
     },
     {
+      "code": "902005",
+      "date": "2026-08-30",
+      "time": "11:00",
+      "team1": "HENRI-CHAPELLE A",
+      "team2": "PEPINSTER EAST BELG B (+",
+      "category": "PROVINCIALE DD - POULE B",
+      "location": "HENRI-CHAPELLE A",
+      "other": ""
+    },
+    {
       "code": "905002",
       "date": "2026-08-16",
       "time": "14:00",
@@ -1818,7 +1848,7 @@
     {
       "code": "905003",
       "date": "2026-08-23",
-      "time": "11:00",
+      "time": "13:00",
       "team1": "HENRI-CHAPELLE B",
       "team2": "ETOILE JUPILLE (+ 5)",
       "category": "PROVINCIALE DD - POULE E",
@@ -1856,14 +1886,44 @@
       "other": ""
     },
     {
+      "code": "803006",
+      "date": "2026-08-29",
+      "time": "18:30",
+      "team1": "HENRI-CHAPELLE D (+ 5)",
+      "team2": "R HT-PRE OUGREE A",
+      "category": "PROVINCIALE MM - POULE C",
+      "location": "HENRI-CHAPELLE D (+ 5)",
+      "other": ""
+    },
+    {
+      "code": "814001",
+      "date": "2026-08-15",
+      "time": "20:30",
+      "team1": "HENRI-CHAPELLE A",
+      "team2": "BCM HERSTAL B (+ 15)",
+      "category": "PROVINCIALE MM - POULE N",
+      "location": "HENRI-CHAPELLE A",
+      "other": ""
+    },
+    {
       "code": "814004",
       "date": "2026-08-20",
-      "time": "20:00",
+      "time": "21:00",
       "team1": "R 4A AYWAILLE-HAMOIR B (",
       "team2": "HENRI-CHAPELLE A",
       "category": "PROVINCIALE MM - POULE N",
       "location": "R 4A AYWAILLE-HAMOIR B (",
       "other": "(Salle Hamoir)"
+    },
+    {
+      "code": "814005",
+      "date": "2026-08-29",
+      "time": "20:30",
+      "team1": "HENRI-CHAPELLE A",
+      "team2": "R.UN.BELLAIRE B (+ 10)",
+      "category": "PROVINCIALE MM - POULE N",
+      "location": "HENRI-CHAPELLE A",
+      "other": ""
     },
     {
       "code": "525011",
@@ -2746,16 +2806,6 @@
       "other": ""
     },
     {
-      "code": "506123",
-      "date": "2026-11-21",
-      "time": "13:00",
-      "team1": "RB TILFF B",
-      "team2": "HENRI-CHAPELLE C",
-      "category": "U 12 - MM G",
-      "location": "RB TILFF B",
-      "other": ""
-    },
-    {
       "code": "506142",
       "date": "2026-12-05",
       "time": "14:30",
@@ -2866,16 +2916,6 @@
       "other": ""
     },
     {
-      "code": "506322",
-      "date": "2027-04-10",
-      "time": "14:30",
-      "team1": "HENRI-CHAPELLE C",
-      "team2": "RB TILFF B",
-      "category": "U 12 - MM G",
-      "location": "HENRI-CHAPELLE C",
-      "other": ""
-    },
-    {
       "code": "506334",
       "date": "2027-04-17",
       "time": "13:00",
@@ -2928,7 +2968,7 @@
     {
       "code": "480103",
       "date": "2026-11-08",
-      "time": "13:00",
+      "time": "15:00",
       "team1": "HENRI-CHAPELLE B",
       "team2": "BC SPRIMONT B",
       "category": "U 14 - ELITES MM A",
@@ -3048,7 +3088,7 @@
     {
       "code": "480291",
       "date": "2027-03-21",
-      "time": "9:00",
+      "time": "11:00",
       "team1": "BC SPRIMONT B",
       "team2": "HENRI-CHAPELLE B",
       "category": "U 14 - ELITES MM A",
@@ -3808,7 +3848,7 @@
     {
       "code": "420205",
       "date": "2027-01-17",
-      "time": "14:00",
+      "time": "10:00",
       "team1": "RBC ESNEUX",
       "team2": "HENRI-CHAPELLE",
       "category": "U 21 - MM",

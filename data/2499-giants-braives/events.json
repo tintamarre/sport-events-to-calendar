@@ -6,7 +6,7 @@
   },
   "events": [
     {
-      "code": "530",
+      "code": "AW242019",
       "date": "2026-08-23",
       "time": "13:30",
       "team1": "BBL'9 FLENU",
@@ -478,7 +478,7 @@
     {
       "code": "410056",
       "date": "2026-10-03",
-      "time": "21:00",
+      "time": "19:00",
       "team1": "GIANTS BRAIVES B",
       "team2": "RBC ALLEUR E",
       "category": "MM - DIVISION 4 D",
@@ -688,7 +688,7 @@
     {
       "code": "901003",
       "date": "2026-08-23",
-      "time": "10:00",
+      "time": "13:00",
       "team1": "ROYAL BC WANZE",
       "team2": "GIANTS BRAIVES (+ 5)",
       "category": "PROVINCIALE DD - POULE A",
@@ -703,6 +703,16 @@
       "team2": "LA VILLERSOISE A",
       "category": "PROVINCIALE DD - POULE A",
       "location": "GIANTS BRAIVES (+ 5)",
+      "other": ""
+    },
+    {
+      "code": "822002",
+      "date": "2026-08-16",
+      "time": "11:30",
+      "team1": "BC VERLAINE",
+      "team2": "GIANTS BRAIVES A",
+      "category": "PROVINCIALE MM - POULE V",
+      "location": "BC VERLAINE",
       "other": ""
     },
     {
@@ -1367,8 +1377,8 @@
     },
     {
       "code": "503114",
-      "date": "2026-11-14",
-      "time": "15:00",
+      "date": "2026-11-15",
+      "time": "13:00",
       "team1": "GIANTS BRAIVES B",
       "team2": "RBC HANEFFE",
       "category": "U 12 - MM D",

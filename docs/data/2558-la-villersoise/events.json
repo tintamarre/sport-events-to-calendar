@@ -6,13 +6,33 @@
   },
   "events": [
     {
-      "code": "607",
+      "code": "AW245012",
+      "date": "2026-08-22",
+      "time": "9:00",
+      "team1": "LA VILLERSOISE",
+      "team2": "ROYAL BC CINEY",
+      "category": "COUPE AWBB U12 -GARCONS",
+      "location": "LA VILLERSOISE",
+      "other": ""
+    },
+    {
+      "code": "AW243028",
       "date": "2026-08-22",
       "time": "14:30",
       "team1": "R.B.C. BELGRADE B",
       "team2": "LA VILLERSOISE",
       "category": "COUPE AWBB U16 - GARCONS",
       "location": "R.B.C. BELGRADE B",
+      "other": ""
+    },
+    {
+      "code": "AW242025",
+      "date": "2026-08-22",
+      "time": "16:00",
+      "team1": "FRESH AIR B",
+      "team2": "LA VILLERSOISE",
+      "category": "COUPE AWBB U18 - GARCONS",
+      "location": "FRESH AIR B",
       "other": ""
     },
     {
@@ -397,8 +417,8 @@
     },
     {
       "code": "418214",
-      "date": "2027-01-23",
-      "time": "19:00",
+      "date": "2027-01-24",
+      "time": "17:00",
       "team1": "RBC BLEGNY C",
       "team2": "LA VILLERSOISE B",
       "category": "DD - DIVISION 3 C",
@@ -757,8 +777,8 @@
     },
     {
       "code": "405032",
-      "date": "2026-09-19",
-      "time": "19:00",
+      "date": "2026-09-27",
+      "time": "17:00",
       "team1": "LA VILLERSOISE B",
       "team2": "RB UNION LIEGE B",
       "category": "MM - DIVISION 3 B",
@@ -1436,6 +1456,16 @@
       "other": ""
     },
     {
+      "code": "901004",
+      "date": "2026-08-12",
+      "time": "21:00",
+      "team1": "LA VILLERSOISE A (+ 5)",
+      "team2": "HANNUT BC",
+      "category": "PROVINCIALE DD - POULE A",
+      "location": "LA VILLERSOISE A (+ 5)",
+      "other": ""
+    },
+    {
       "code": "901002",
       "date": "2026-08-15",
       "time": "17:00",
@@ -1510,9 +1540,19 @@
       "date": "2026-08-30",
       "time": "13:00",
       "team1": "LA VILLERSOISE C (+ 5)",
-      "team2": "ROYAL BC WANZE B",
+      "team2": "ROYAL BC WANZE C",
       "category": "PROVINCIALE MM - POULE B",
       "location": "LA VILLERSOISE C (+ 5)",
+      "other": ""
+    },
+    {
+      "code": "828004",
+      "date": "2026-08-23",
+      "time": "11:30",
+      "team1": "HARIMALIA BC D (+ 10)",
+      "team2": "LA VILLERSOISE A",
+      "category": "PROVINCIALE MM - POULE BB",
+      "location": "HARIMALIA BC D (+ 10)",
       "other": ""
     },
     {
@@ -2788,7 +2828,7 @@
     {
       "code": "AW153011",
       "date": "2026-10-03",
-      "time": "11:00",
+      "time": "13:00",
       "team1": "RCS NATOYE",
       "team2": "LA VILLERSOISE",
       "category": "U 14 - SILVER REGIONALES B",
@@ -3148,7 +3188,7 @@
     {
       "code": "AW146012",
       "date": "2026-10-03",
-      "time": "13:00",
+      "time": "15:30",
       "team1": "RCS NATOYE",
       "team2": "LA VILLERSOISE",
       "category": "U 16 - SILVER REGIONALES A",

@@ -106,7 +106,7 @@
       "other": ""
     },
     {
-      "code": "501",
+      "code": "AW242013",
       "date": "2026-08-21",
       "time": "20:30",
       "team1": "ANDENNE BASKET",
@@ -116,13 +116,23 @@
       "other": ""
     },
     {
-      "code": "901",
+      "code": "AW246012",
       "date": "2026-08-22",
       "time": "15:00",
       "team1": "BBC LEUZE",
       "team2": "PEPINSTER EAST BELG",
       "category": "COUPE AWBB U19 - FILLES",
       "location": "BBC LEUZE",
+      "other": ""
+    },
+    {
+      "code": "206",
+      "date": "2026-08-14",
+      "time": "20:30",
+      "team1": "PEPINSTER EAST BELG",
+      "team2": "BASKET ZONHOVEN",
+      "category": "CPE BELG DAMES",
+      "location": "PEPINSTER EAST BELG",
       "other": ""
     },
     {
@@ -163,6 +173,16 @@
       "team2": "ROYAL BC WANZE",
       "category": "CPE PROV PUPILLES MM",
       "location": "PEPINSTER EAST BELG A",
+      "other": ""
+    },
+    {
+      "code": "764012",
+      "date": "2026-08-30",
+      "time": "13:00",
+      "team1": "BC VERLAINE",
+      "team2": "PEPINSTER EAST BELG B",
+      "category": "CPE PROV PUPILLES MM",
+      "location": "BC VERLAINE",
       "other": ""
     },
     {
@@ -296,16 +316,6 @@
       "other": ""
     },
     {
-      "code": "414192",
-      "date": "2027-01-10",
-      "time": "13:00",
-      "team1": "PEPINSTER EAST BELG B",
-      "team2": "RBC VISE A",
-      "category": "DD - DIVISION 2 A",
-      "location": "PEPINSTER EAST BELG B",
-      "other": ""
-    },
-    {
       "code": "414201",
       "date": "2027-01-17",
       "time": "17:00",
@@ -331,6 +341,16 @@
       "time": "13:00",
       "team1": "PEPINSTER EAST BELG B",
       "team2": "LA VILLERSOISE A",
+      "category": "DD - DIVISION 2 A",
+      "location": "PEPINSTER EAST BELG B",
+      "other": ""
+    },
+    {
+      "code": "414192",
+      "date": "2027-02-07",
+      "time": "11:00",
+      "team1": "PEPINSTER EAST BELG B",
+      "team2": "RBC VISE A",
       "category": "DD - DIVISION 2 A",
       "location": "PEPINSTER EAST BELG B",
       "other": ""
@@ -687,8 +707,8 @@
     },
     {
       "code": "402065",
-      "date": "2026-10-11",
-      "time": "10:00",
+      "date": "2026-10-10",
+      "time": "17:00",
       "team1": "PRAYON TROOZ A",
       "team2": "PEPINSTER EAST BELG C",
       "category": "MM - DIVISION 2 A",
@@ -787,8 +807,8 @@
     },
     {
       "code": "402201",
-      "date": "2027-01-16",
-      "time": "21:00",
+      "date": "2027-01-17",
+      "time": "15:00",
       "team1": "BC BELLEFLAMME C",
       "team2": "PEPINSTER EAST BELG C",
       "category": "MM - DIVISION 2 A",
@@ -1376,6 +1396,26 @@
       "other": ""
     },
     {
+      "code": "902005",
+      "date": "2026-08-30",
+      "time": "11:00",
+      "team1": "HENRI-CHAPELLE A",
+      "team2": "PEPINSTER EAST BELG B (+ 5)",
+      "category": "PEPINSTER EAST BELG B (+ 5)",
+      "location": "HENRI-CHAPELLE A",
+      "other": ""
+    },
+    {
+      "code": "807005",
+      "date": "2026-08-29",
+      "time": "17:00",
+      "team1": "ABC WAREMME A",
+      "team2": "PEPINSTER EAST BELG C (+ 5)",
+      "category": "PEPINSTER EAST BELG C (+ 5)",
+      "location": "ABC WAREMME A",
+      "other": ""
+    },
+    {
       "code": "815005",
       "date": "2026-08-30",
       "time": "15:00",
@@ -1396,6 +1436,26 @@
       "other": ""
     },
     {
+      "code": "902003",
+      "date": "2026-08-23",
+      "time": "13:00",
+      "team1": "PEPINSTER EAST BELG B",
+      "team2": "PRAYON TROOZ D (+ 5)",
+      "category": "PROVINCIALE DD - POULE B",
+      "location": "PEPINSTER EAST BELG B",
+      "other": ""
+    },
+    {
+      "code": "902005",
+      "date": "2026-08-30",
+      "time": "11:00",
+      "team1": "HENRI-CHAPELLE A",
+      "team2": "PEPINSTER EAST BELG B (+",
+      "category": "PROVINCIALE DD - POULE B",
+      "location": "HENRI-CHAPELLE A",
+      "other": ""
+    },
+    {
       "code": "807002",
       "date": "2026-08-15",
       "time": "19:00",
@@ -1413,6 +1473,16 @@
       "team2": "R HT-PRE OUGREE B (+ 10)",
       "category": "PROVINCIALE MM - POULE G",
       "location": "PEPINSTER EAST BELG C",
+      "other": ""
+    },
+    {
+      "code": "807005",
+      "date": "2026-08-29",
+      "time": "17:00",
+      "team1": "ABC WAREMME A",
+      "team2": "PEPINSTER EAST BELG C (+",
+      "category": "PROVINCIALE MM - POULE G",
+      "location": "ABC WAREMME A",
       "other": ""
     },
     {
@@ -1567,8 +1637,8 @@
     },
     {
       "code": "NAHSE21BDC",
-      "date": "2026-12-19",
-      "time": "19:00",
+      "date": "2026-12-20",
+      "time": "15:00",
       "team1": "PEPINSTER EAST BELG A",
       "team2": "KBBC OOSTKAMP",
       "category": "TOP DIVISION MEN 2 B",
@@ -1616,6 +1686,16 @@
       "other": ""
     },
     {
+      "code": "NAHSE21BMD",
+      "date": "2027-02-12",
+      "time": "21:00",
+      "team1": "BC SPRIMONT A",
+      "team2": "PEPINSTER EAST BELG A",
+      "category": "TOP DIVISION MEN 2 B",
+      "location": "BC SPRIMONT A",
+      "other": ""
+    },
+    {
       "code": "NAHSE21BDF",
       "date": "2027-02-20",
       "time": "19:00",
@@ -1623,16 +1703,6 @@
       "team2": "ROYAL BC NINANE",
       "category": "TOP DIVISION MEN 2 B",
       "location": "PEPINSTER EAST BELG A",
-      "other": ""
-    },
-    {
-      "code": "NAHSE21BMD",
-      "date": "2027-02-27",
-      "time": "19:00",
-      "team1": "BC SPRIMONT A",
-      "team2": "PEPINSTER EAST BELG A",
-      "category": "TOP DIVISION MEN 2 B",
-      "location": "BC SPRIMONT A",
       "other": ""
     },
     {
@@ -2606,16 +2676,6 @@
       "other": ""
     },
     {
-      "code": "505234",
-      "date": "2027-02-07",
-      "time": "14:30",
-      "team1": "RBC AUBEL",
-      "team2": "PEPINSTER EAST BELG C",
-      "category": "U 12 - MM F",
-      "location": "RBC AUBEL",
-      "other": ""
-    },
-    {
       "code": "505246",
       "date": "2027-02-13",
       "time": "13:00",
@@ -2623,6 +2683,16 @@
       "team2": "PEPINSTER EAST BELG C",
       "category": "U 12 - MM F",
       "location": "RBC DISON-ANDRIMONT A",
+      "other": ""
+    },
+    {
+      "code": "505234",
+      "date": "2027-03-07",
+      "time": "14:30",
+      "team1": "RBC AUBEL",
+      "team2": "PEPINSTER EAST BELG C",
+      "category": "U 12 - MM F",
+      "location": "RBC AUBEL",
       "other": ""
     },
     {
@@ -3738,7 +3808,7 @@
     {
       "code": "AW141039",
       "date": "2026-12-05",
-      "time": "11:00",
+      "time": "13:30",
       "team1": "RCS NATOYE",
       "team2": "PEPINSTER EAST BELG",
       "category": "U 19 - SILVER REGIONALES A",
@@ -3757,8 +3827,8 @@
     },
     {
       "code": "AW141043",
-      "date": "2026-12-20",
-      "time": "11:00",
+      "date": "2026-12-19",
+      "time": "14:30",
       "team1": "PEPINSTER EAST BELG",
       "team2": "RE PONT-DE-LOUP",
       "category": "U 19 - SILVER REGIONALES A",

@@ -496,6 +496,16 @@
       "other": ""
     },
     {
+      "code": "811001",
+      "date": "2026-08-12",
+      "time": "20:00",
+      "team1": "CRISTAL SGH A",
+      "team2": "BBC EUPEN B (+ 15)",
+      "category": "PROVINCIALE MM - POULE K",
+      "location": "CRISTAL SGH A",
+      "other": ""
+    },
+    {
       "code": "811003",
       "date": "2026-08-16",
       "time": "13:30",
@@ -503,6 +513,16 @@
       "team2": "BBC EUPEN B (+ 10)",
       "category": "PROVINCIALE MM - POULE K",
       "location": "HARIMALIA BC A",
+      "other": ""
+    },
+    {
+      "code": "811006",
+      "date": "2026-08-30",
+      "time": "13:00",
+      "team1": "BBC EUPEN B",
+      "team2": "ABC WAREMME C",
+      "category": "PROVINCIALE MM - POULE K",
+      "location": "BBC EUPEN B",
       "other": ""
     },
     {
@@ -726,16 +746,6 @@
       "other": ""
     },
     {
-      "code": "506056",
-      "date": "2026-10-03",
-      "time": "12:00",
-      "team1": "BBC EUPEN",
-      "team2": "RB TILFF B",
-      "category": "U 12 - MM G",
-      "location": "BBC EUPEN",
-      "other": ""
-    },
-    {
       "code": "506066",
       "date": "2026-10-11",
       "time": "9:00",
@@ -833,16 +843,6 @@
       "team2": "BBC EUPEN",
       "category": "U 12 - MM G",
       "location": "RBC BLEGNY",
-      "other": ""
-    },
-    {
-      "code": "506243",
-      "date": "2027-02-13",
-      "time": "11:00",
-      "team1": "RB TILFF B",
-      "team2": "BBC EUPEN",
-      "category": "U 12 - MM G",
-      "location": "RB TILFF B",
       "other": ""
     },
     {
@@ -1377,8 +1377,8 @@
     },
     {
       "code": "441226",
-      "date": "2027-01-30",
-      "time": "16:00",
+      "date": "2027-01-31",
+      "time": "12:00",
       "team1": "BBC EUPEN",
       "team2": "UN HUY BASKET",
       "category": "U 18 - PROV MM B",

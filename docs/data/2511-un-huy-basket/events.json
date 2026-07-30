@@ -66,6 +66,26 @@
       "other": ""
     },
     {
+      "code": "763005",
+      "date": "2026-08-29",
+      "time": "11:00",
+      "team1": "UN HUY BASKET",
+      "team2": "ROYAL BC WANZE",
+      "category": "CPE PROV MINIMES MM",
+      "location": "UN HUY BASKET",
+      "other": ""
+    },
+    {
+      "code": "764013",
+      "date": "2026-08-29",
+      "time": "13:00",
+      "team1": "UN HUY BASKET",
+      "team2": "RBC VISE B",
+      "category": "CPE PROV PUPILLES MM",
+      "location": "UN HUY BASKET",
+      "other": ""
+    },
+    {
       "code": "416013",
       "date": "2026-09-06",
       "time": "13:00",
@@ -308,7 +328,7 @@
     {
       "code": "AW104028",
       "date": "2026-10-11",
-      "time": "16:00",
+      "time": "10:00",
       "team1": "RCS NATOYE",
       "team2": "UN HUY BASKET B",
       "category": "DD - REGIONALE 1",
@@ -366,21 +386,21 @@
       "other": ""
     },
     {
-      "code": "AW104105",
-      "date": "2026-12-20",
-      "time": "13:00",
-      "team1": "UN HUY BASKET B",
-      "team2": "PRAYON TROOZ A",
-      "category": "DD - REGIONALE 1",
-      "location": "UN HUY BASKET B",
-      "other": ""
-    },
-    {
       "code": "AW104075",
       "date": "2027-01-09",
       "time": "19:00",
       "team1": "UN HUY BASKET B",
       "team2": "LIEGE PANTHERS C",
+      "category": "DD - REGIONALE 1",
+      "location": "UN HUY BASKET B",
+      "other": ""
+    },
+    {
+      "code": "AW104105",
+      "date": "2027-01-24",
+      "time": "10:30",
+      "team1": "UN HUY BASKET B",
+      "team2": "PRAYON TROOZ A",
       "category": "DD - REGIONALE 1",
       "location": "UN HUY BASKET B",
       "other": ""
@@ -446,6 +466,16 @@
       "other": ""
     },
     {
+      "code": "AW104041",
+      "date": "2027-03-25",
+      "time": "20:30",
+      "team1": "PRAYON TROOZ A",
+      "team2": "UN HUY BASKET B",
+      "category": "DD - REGIONALE 1",
+      "location": "PRAYON TROOZ A",
+      "other": ""
+    },
+    {
       "code": "AW104093",
       "date": "2027-04-03",
       "time": "19:00",
@@ -458,7 +488,7 @@
     {
       "code": "AW104062",
       "date": "2027-04-10",
-      "time": "18:00",
+      "time": "17:30",
       "team1": "BC COINTE A",
       "team2": "UN HUY BASKET B",
       "category": "DD - REGIONALE 1",
@@ -473,16 +503,6 @@
       "team2": "UN HUY BASKET B",
       "category": "DD - REGIONALE 1",
       "location": "FLOREAL NEUFCHATEAU",
-      "other": ""
-    },
-    {
-      "code": "AW104041",
-      "date": "2027-04-24",
-      "time": "19:00",
-      "team1": "PRAYON TROOZ A",
-      "team2": "UN HUY BASKET B",
-      "category": "DD - REGIONALE 1",
-      "location": "PRAYON TROOZ A",
       "other": ""
     },
     {
@@ -706,6 +726,26 @@
       "other": ""
     },
     {
+      "code": "910002",
+      "date": "2026-08-16",
+      "time": "13:00",
+      "team1": "UN HUY BASKET C (+ 5)",
+      "team2": "BC SPRIMONT B",
+      "category": "PROVINCIALE DD - POULE J",
+      "location": "UN HUY BASKET C (+ 5)",
+      "other": ""
+    },
+    {
+      "code": "910004",
+      "date": "2026-08-22",
+      "time": "18:00",
+      "team1": "UN HUY BASKET C (+ 10)",
+      "team2": "RBC HANEFFE B",
+      "category": "PROVINCIALE DD - POULE J",
+      "location": "UN HUY BASKET C (+ 10)",
+      "other": ""
+    },
+    {
       "code": "910006",
       "date": "2026-08-29",
       "time": "18:00",
@@ -713,6 +753,26 @@
       "team2": "UN HUY BASKET C",
       "category": "PROVINCIALE DD - POULE J",
       "location": "VAIL. JUPILLE",
+      "other": ""
+    },
+    {
+      "code": "825002",
+      "date": "2026-08-16",
+      "time": "15:00",
+      "team1": "UN HUY BASKET",
+      "team2": "ORP JAUCHE A",
+      "category": "PROVINCIALE MM - POULE Y",
+      "location": "UN HUY BASKET",
+      "other": ""
+    },
+    {
+      "code": "825004",
+      "date": "2026-08-22",
+      "time": "20:00",
+      "team1": "UN HUY BASKET (+ 10)",
+      "team2": "BC SPRIMONT C",
+      "category": "PROVINCIALE MM - POULE Y",
+      "location": "UN HUY BASKET (+ 10)",
       "other": ""
     },
     {
@@ -797,8 +857,8 @@
     },
     {
       "code": "AW103026",
-      "date": "2026-11-21",
-      "time": "19:00",
+      "date": "2026-11-22",
+      "time": "11:00",
       "team1": "BC BONINNE",
       "team2": "UN HUY BASKET",
       "category": "TOP DIVISION WOMEN R",
@@ -1596,6 +1656,16 @@
       "other": ""
     },
     {
+      "code": "504063",
+      "date": "2026-10-10",
+      "time": "13:00",
+      "team1": "UN HUY BASKET B",
+      "team2": "RB TILFF B",
+      "category": "U 12 - MM E",
+      "location": "UN HUY BASKET B",
+      "other": ""
+    },
+    {
       "code": "504103",
       "date": "2026-11-07",
       "time": "13:30",
@@ -1733,6 +1803,16 @@
       "team2": "UN HUY BASKET B",
       "category": "U 12 - MM E",
       "location": "RBC AWANS",
+      "other": ""
+    },
+    {
+      "code": "504304",
+      "date": "2027-03-27",
+      "time": "11:00",
+      "team1": "RB TILFF B",
+      "team2": "UN HUY BASKET B",
+      "category": "U 12 - MM E",
+      "location": "RB TILFF B",
       "other": ""
     },
     {
@@ -2547,8 +2627,8 @@
     },
     {
       "code": "441226",
-      "date": "2027-01-30",
-      "time": "16:00",
+      "date": "2027-01-31",
+      "time": "12:00",
       "team1": "BBC EUPEN",
       "team2": "UN HUY BASKET",
       "category": "U 18 - PROV MM B",

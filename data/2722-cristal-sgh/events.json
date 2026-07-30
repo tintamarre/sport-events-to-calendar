@@ -36,6 +36,46 @@
       "other": ""
     },
     {
+      "code": "AW245017",
+      "date": "2026-08-22",
+      "time": "13:30",
+      "team1": "CRISTAL SGH A",
+      "team2": "RCS NATOYE A",
+      "category": "COUPE AWBB U12 -GARCONS",
+      "location": "CRISTAL SGH A",
+      "other": ""
+    },
+    {
+      "code": "AW242020",
+      "date": "2026-08-23",
+      "time": "15:00",
+      "team1": "CRISTAL SGH",
+      "team2": "COLLEGE S LOUIS",
+      "category": "COUPE AWBB U18 - GARCONS",
+      "location": "CRISTAL SGH",
+      "other": ""
+    },
+    {
+      "code": "AW241021",
+      "date": "2026-08-23",
+      "time": "11:00",
+      "team1": "CRISTAL SGH",
+      "team2": "RCS NATOYE",
+      "category": "COUPE AWBB U21 - GARCONS",
+      "location": "CRISTAL SGH",
+      "other": ""
+    },
+    {
+      "code": "762024",
+      "date": "2026-09-26",
+      "time": "15:00",
+      "team1": "CRISTAL SGH A",
+      "team2": "HENRI-CHAPELLE",
+      "category": "CPE PROV CADETS",
+      "location": "CRISTAL SGH A",
+      "other": "(Salle Grâce-Hollogne)"
+    },
+    {
       "code": "762020",
       "date": "2026-09-27",
       "time": "9:30",
@@ -46,6 +86,16 @@
       "other": ""
     },
     {
+      "code": "773006",
+      "date": "2026-10-31",
+      "time": "13:00",
+      "team1": "CRISTAL SGH",
+      "team2": "RBC AWANS",
+      "category": "CPE PROV MINIMES DD",
+      "location": "CRISTAL SGH",
+      "other": ""
+    },
+    {
       "code": "763007",
       "date": "2026-08-29",
       "time": "14:00",
@@ -53,6 +103,26 @@
       "team2": "CRISTAL SGH B",
       "category": "CPE PROV MINIMES MM",
       "location": "RBC ESNEUX B",
+      "other": ""
+    },
+    {
+      "code": "763002",
+      "date": "2026-08-30",
+      "time": "11:00",
+      "team1": "ATLAS A JUPILLE A",
+      "team2": "CRISTAL SGH A",
+      "category": "CPE PROV MINIMES MM",
+      "location": "ATLAS A JUPILLE A",
+      "other": ""
+    },
+    {
+      "code": "774004",
+      "date": "2026-10-31",
+      "time": "11:00",
+      "team1": "CRISTAL SGH",
+      "team2": "RBC ESNEUX",
+      "category": "CPE PROV PUPILLES DD",
+      "location": "CRISTAL SGH",
       "other": ""
     },
     {
@@ -1038,7 +1108,7 @@
     {
       "code": "410052",
       "date": "2026-10-04",
-      "time": "11:00",
+      "time": "12:00",
       "team1": "BC BELLEFLAMME E",
       "team2": "CRISTAL SGH C",
       "category": "MM - DIVISION 4 D",
@@ -1303,7 +1373,7 @@
       "team2": "CRISTAL SGH D",
       "category": "MM - DIVISION 4 F",
       "location": "BCM HERSTAL C",
-      "other": ""
+      "other": "(Hall M. Daerden)"
     },
     {
       "code": "412106",
@@ -1476,6 +1546,46 @@
       "other": ""
     },
     {
+      "code": "912003",
+      "date": "2026-08-23",
+      "time": "17:00",
+      "team1": "CRISTAL SGH A",
+      "team2": "RBC BLEGNY C (+ 5)",
+      "category": "PROVINCIALE DD - POULE L",
+      "location": "CRISTAL SGH A",
+      "other": ""
+    },
+    {
+      "code": "912005",
+      "date": "2026-08-30",
+      "time": "12:00",
+      "team1": "RBC ESNEUX B",
+      "team2": "CRISTAL SGH A (+ 5)",
+      "category": "PROVINCIALE DD - POULE L",
+      "location": "RBC ESNEUX B",
+      "other": ""
+    },
+    {
+      "code": "913002",
+      "date": "2026-08-16",
+      "time": "17:00",
+      "team1": "CRISTAL SGH B (+ 5)",
+      "team2": "R HT-PRE OUGREE A",
+      "category": "PROVINCIALE DD - POULE M",
+      "location": "CRISTAL SGH B (+ 5)",
+      "other": ""
+    },
+    {
+      "code": "913004",
+      "date": "2026-08-22",
+      "time": "17:30",
+      "team1": "CRISTAL SGH B (+ 10)",
+      "team2": "RBC CROATIA OUPEYE",
+      "category": "PROVINCIALE DD - POULE M",
+      "location": "CRISTAL SGH B (+ 10)",
+      "other": ""
+    },
+    {
       "code": "913006",
       "date": "2026-08-30",
       "time": "12:00",
@@ -1483,6 +1593,26 @@
       "team2": "CRISTAL SGH B",
       "category": "PROVINCIALE DD - POULE M",
       "location": "ROYAL SPA BC B",
+      "other": ""
+    },
+    {
+      "code": "829002",
+      "date": "2026-08-16",
+      "time": "13:00",
+      "team1": "CRISTAL SGH C (+ 5)",
+      "team2": "ESL UNITED F",
+      "category": "PROVINCIALE MM - POULE CC",
+      "location": "CRISTAL SGH C (+ 5)",
+      "other": ""
+    },
+    {
+      "code": "829004",
+      "date": "2026-08-22",
+      "time": "19:30",
+      "team1": "CRISTAL SGH C (+ 10)",
+      "team2": "RBC DISON-ANDRIMONT A",
+      "category": "PROVINCIALE MM - POULE CC",
+      "location": "CRISTAL SGH C (+ 10)",
       "other": ""
     },
     {
@@ -1503,6 +1633,46 @@
       "team2": "CRISTAL SGH B",
       "category": "PROVINCIALE MM - POULE D",
       "location": "ROYAL BC NINANE C",
+      "other": ""
+    },
+    {
+      "code": "804006",
+      "date": "2026-08-30",
+      "time": "17:00",
+      "team1": "CRISTAL SGH B",
+      "team2": "THEUX BC C (+ 5)",
+      "category": "PROVINCIALE MM - POULE D",
+      "location": "CRISTAL SGH B",
+      "other": ""
+    },
+    {
+      "code": "811001",
+      "date": "2026-08-12",
+      "time": "20:00",
+      "team1": "CRISTAL SGH A",
+      "team2": "BBC EUPEN B (+ 15)",
+      "category": "PROVINCIALE MM - POULE K",
+      "location": "CRISTAL SGH A",
+      "other": ""
+    },
+    {
+      "code": "811004",
+      "date": "2026-08-22",
+      "time": "17:00",
+      "team1": "ABC WAREMME C (+ 15)",
+      "team2": "CRISTAL SGH A",
+      "category": "PROVINCIALE MM - POULE K",
+      "location": "ABC WAREMME C (+ 15)",
+      "other": ""
+    },
+    {
+      "code": "811005",
+      "date": "2026-08-26",
+      "time": "20:00",
+      "team1": "CRISTAL SGH A",
+      "team2": "HARIMALIA BC A (+ 5)",
+      "category": "PROVINCIALE MM - POULE K",
+      "location": "CRISTAL SGH A",
       "other": ""
     },
     {

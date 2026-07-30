@@ -88,7 +88,7 @@
     {
       "code": "AW104016",
       "date": "2026-09-13",
-      "time": "16:00",
+      "time": "18:00",
       "team1": "RCS NATOYE",
       "team2": "LIEGE PANTHERS C",
       "category": "DD - REGIONALE 1",
@@ -258,7 +258,7 @@
     {
       "code": "AW104091",
       "date": "2027-04-03",
-      "time": "20:30",
+      "time": "18:15",
       "team1": "LIEGE PANTHERS C",
       "team2": "GANSHOREN DAMES",
       "category": "DD - REGIONALE 1",
@@ -548,7 +548,7 @@
     {
       "code": "AW103035",
       "date": "2026-11-08",
-      "time": "16:00",
+      "time": "11:00",
       "team1": "ROYAL BC CINEY",
       "team2": "LIEGE PANTHERS B",
       "category": "TOP DIVISION WOMEN R",
@@ -677,8 +677,8 @@
     },
     {
       "code": "AW103069",
-      "date": "2027-04-04",
-      "time": "17:00",
+      "date": "2027-04-03",
+      "time": "20:30",
       "team1": "LIEGE PANTHERS B",
       "team2": "BC BONINNE",
       "category": "TOP DIVISION WOMEN R",
@@ -788,7 +788,7 @@
     {
       "code": "AW151030",
       "date": "2026-12-06",
-      "time": "17:00",
+      "time": "11:00",
       "team1": "GANSHOREN DAMES",
       "team2": "LIEGE PANTHERS",
       "category": "U 14 - GOLD REGIONALES B",
@@ -898,7 +898,7 @@
     {
       "code": "AW145016",
       "date": "2026-12-13",
-      "time": "15:00",
+      "time": "11:00",
       "team1": "LIEGE PANTHERS",
       "team2": "GANSHOREN DAMES",
       "category": "U 16 - GOLD REGIONALES B",
@@ -956,6 +956,16 @@
       "other": ""
     },
     {
+      "code": "AW147022",
+      "date": "2026-11-04",
+      "time": "19:00",
+      "team1": "LIEGE PANTHERS",
+      "team2": "ALL. FLEMALLE",
+      "category": "U 16 - SILVER REGIONALES B",
+      "location": "LIEGE PANTHERS",
+      "other": ""
+    },
+    {
       "code": "AW147020",
       "date": "2026-11-07",
       "time": "15:30",
@@ -963,16 +973,6 @@
       "team2": "LIEGE PANTHERS",
       "category": "U 16 - SILVER REGIONALES B",
       "location": "TOURNAI WAPITI",
-      "other": ""
-    },
-    {
-      "code": "AW147022",
-      "date": "2026-11-14",
-      "time": "13:30",
-      "team1": "LIEGE PANTHERS",
-      "team2": "ALL. FLEMALLE",
-      "category": "U 16 - SILVER REGIONALES B",
-      "location": "LIEGE PANTHERS",
       "other": ""
     },
     {
@@ -1128,7 +1128,7 @@
     {
       "code": "AW142013",
       "date": "2026-10-03",
-      "time": "9:30",
+      "time": "11:30",
       "team1": "LIEGE PANTHERS",
       "team2": "TOURNAI WAPITI",
       "category": "U 19 - SILVER REGIONALES B",
@@ -1148,7 +1148,7 @@
     {
       "code": "AW142049",
       "date": "2026-10-24",
-      "time": "9:30",
+      "time": "11:30",
       "team1": "LIEGE PANTHERS",
       "team2": "BC BELLEFLAMME",
       "category": "U 19 - SILVER REGIONALES B",
@@ -1168,7 +1168,7 @@
     {
       "code": "AW142029",
       "date": "2026-11-14",
-      "time": "9:30",
+      "time": "11:30",
       "team1": "LIEGE PANTHERS",
       "team2": "BBC LIBRAMONT",
       "category": "U 19 - SILVER REGIONALES B",
@@ -1188,7 +1188,7 @@
     {
       "code": "AW142053",
       "date": "2026-11-28",
-      "time": "9:30",
+      "time": "11:30",
       "team1": "LIEGE PANTHERS",
       "team2": "PRAYON TROOZ",
       "category": "U 19 - SILVER REGIONALES B",
@@ -1198,7 +1198,7 @@
     {
       "code": "AW142037",
       "date": "2026-12-05",
-      "time": "11:00",
+      "time": "11:30",
       "team1": "LIEGE PANTHERS",
       "team2": "MONS CAPITALE",
       "category": "U 19 - SILVER REGIONALES B",
@@ -1208,7 +1208,7 @@
     {
       "code": "AW142021",
       "date": "2026-12-12",
-      "time": "9:30",
+      "time": "11:30",
       "team1": "LIEGE PANTHERS",
       "team2": "NAMUR CAPITALE",
       "category": "U 19 - SILVER REGIONALES B",
