@@ -256,16 +256,6 @@
       "other": ""
     },
     {
-      "code": "409056",
-      "date": "2026-10-03",
-      "time": "19:00",
-      "team1": "GIANTS BRAIVES A",
-      "team2": "LA VILLERSOISE C",
-      "category": "MM - DIVISION 4 C",
-      "location": "GIANTS BRAIVES A",
-      "other": ""
-    },
-    {
       "code": "409061",
       "date": "2026-10-10",
       "time": "19:00",
@@ -307,7 +297,7 @@
     },
     {
       "code": "409126",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "time": "19:00",
       "team1": "GIANTS BRAIVES A",
       "team2": "ROYALE US AWANS B",
@@ -353,6 +343,16 @@
       "team2": "GIANTS BRAIVES A",
       "category": "MM - DIVISION 4 C",
       "location": "ORP JAUCHE A",
+      "other": ""
+    },
+    {
+      "code": "409056",
+      "date": "2027-01-16",
+      "time": "21:00",
+      "team1": "GIANTS BRAIVES A",
+      "team2": "LA VILLERSOISE C",
+      "category": "MM - DIVISION 4 C",
+      "location": "GIANTS BRAIVES A",
       "other": ""
     },
     {
@@ -778,11 +778,11 @@
     {
       "code": "527112",
       "date": "2026-11-14",
-      "time": "11:30",
-      "team1": "BC COINTE C",
-      "team2": "GIANTS BRAIVES A",
+      "time": "15:00",
+      "team1": "GIANTS BRAIVES A",
+      "team2": "BC COINTE C",
       "category": "U 10 - MM H",
-      "location": "BC COINTE C",
+      "location": "GIANTS BRAIVES A",
       "other": ""
     },
     {
@@ -857,12 +857,12 @@
     },
     {
       "code": "527231",
-      "date": "2027-02-07",
-      "time": "9:00",
-      "team1": "GIANTS BRAIVES A",
-      "team2": "BC COINTE C",
+      "date": "2027-02-06",
+      "time": "10:15",
+      "team1": "BC COINTE C",
+      "team2": "GIANTS BRAIVES A",
       "category": "U 10 - MM H",
-      "location": "GIANTS BRAIVES A",
+      "location": "BC COINTE C",
       "other": ""
     },
     {
@@ -937,8 +937,8 @@
     },
     {
       "code": "528033",
-      "date": "2026-09-20",
-      "time": "9:00",
+      "date": "2026-09-19",
+      "time": "15:00",
       "team1": "GIANTS BRAIVES B",
       "team2": "UN HUY BASKET A",
       "category": "U 10 - MM I",
@@ -1047,8 +1047,8 @@
     },
     {
       "code": "528241",
-      "date": "2027-02-13",
-      "time": "15:00",
+      "date": "2027-02-14",
+      "time": "9:00",
       "team1": "GIANTS BRAIVES B",
       "team2": "ORP JAUCHE",
       "category": "U 10 - MM I",
@@ -1327,7 +1327,7 @@
     },
     {
       "code": "503014",
-      "date": "2026-09-06",
+      "date": "2026-09-05",
       "time": "13:00",
       "team1": "GIANTS BRAIVES B",
       "team2": "PEPINSTER EAST BELG B",
@@ -1487,8 +1487,8 @@
     },
     {
       "code": "503284",
-      "date": "2027-03-13",
-      "time": "15:00",
+      "date": "2027-03-14",
+      "time": "9:00",
       "team1": "GIANTS BRAIVES B",
       "team2": "BC SPRIMONT B",
       "category": "U 12 - MM D",
@@ -1517,7 +1517,7 @@
     },
     {
       "code": "503332",
-      "date": "2027-04-18",
+      "date": "2027-04-24",
       "time": "15:00",
       "team1": "RBC VISE B",
       "team2": "GIANTS BRAIVES B",
@@ -1526,19 +1526,9 @@
       "other": ""
     },
     {
-      "code": "507016",
-      "date": "2026-09-05",
-      "time": "13:00",
-      "team1": "GIANTS BRAIVES C",
-      "team2": "LA VILLERSOISE C",
-      "category": "U 12 - MM H",
-      "location": "GIANTS BRAIVES C",
-      "other": ""
-    },
-    {
       "code": "507026",
-      "date": "2026-09-13",
-      "time": "9:00",
+      "date": "2026-09-12",
+      "time": "13:00",
       "team1": "GIANTS BRAIVES C",
       "team2": "RJS GRIVEGNEE",
       "category": "U 12 - MM H",
@@ -1686,6 +1676,16 @@
       "other": ""
     },
     {
+      "code": "507016",
+      "date": "2027-03-21",
+      "time": "9:00",
+      "team1": "GIANTS BRAIVES C",
+      "team2": "LA VILLERSOISE C",
+      "category": "U 12 - MM H",
+      "location": "GIANTS BRAIVES C",
+      "other": ""
+    },
+    {
       "code": "507306",
       "date": "2027-03-27",
       "time": "13:00",
@@ -1738,7 +1738,7 @@
     {
       "code": "480053",
       "date": "2026-10-04",
-      "time": "11:00",
+      "time": "13:00",
       "team1": "RBC VISE A",
       "team2": "GIANTS BRAIVES B",
       "category": "U 14 - ELITES MM A",
@@ -1806,16 +1806,6 @@
       "other": ""
     },
     {
-      "code": "480196",
-      "date": "2027-01-10",
-      "time": "11:00",
-      "team1": "GIANTS BRAIVES B",
-      "team2": "BC BELLEFLAMME",
-      "category": "U 14 - ELITES MM A",
-      "location": "GIANTS BRAIVES B",
-      "other": ""
-    },
-    {
       "code": "480203",
       "date": "2027-01-16",
       "time": "11:00",
@@ -1861,6 +1851,16 @@
       "time": "11:00",
       "team1": "GIANTS BRAIVES B",
       "team2": "RBC VISE A",
+      "category": "U 14 - ELITES MM A",
+      "location": "GIANTS BRAIVES B",
+      "other": ""
+    },
+    {
+      "code": "480196",
+      "date": "2027-03-07",
+      "time": "13:00",
+      "team1": "GIANTS BRAIVES B",
+      "team2": "BC BELLEFLAMME",
       "category": "U 14 - ELITES MM A",
       "location": "GIANTS BRAIVES B",
       "other": ""

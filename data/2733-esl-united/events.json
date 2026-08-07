@@ -1146,16 +1146,6 @@
       "other": ""
     },
     {
-      "code": "AW100044",
-      "date": "2026-10-17",
-      "time": "21:00",
-      "team1": "RCS NATOYE",
-      "team2": "ESL UNITED A",
-      "category": "MM - REGIONALE 1",
-      "location": "RCS NATOYE",
-      "other": ""
-    },
-    {
       "code": "AW100053",
       "date": "2026-10-25",
       "time": "14:30",
@@ -1183,6 +1173,16 @@
       "team2": "BB GEMBLOUX",
       "category": "MM - REGIONALE 1",
       "location": "ESL UNITED A",
+      "other": ""
+    },
+    {
+      "code": "AW100044",
+      "date": "2026-11-10",
+      "time": "21:00",
+      "team1": "RCS NATOYE",
+      "team2": "ESL UNITED A",
+      "category": "MM - REGIONALE 1",
+      "location": "RCS NATOYE",
       "other": ""
     },
     {
@@ -1527,8 +1527,8 @@
     },
     {
       "code": "AW101110",
-      "date": "2027-01-29",
-      "time": "21:00",
+      "date": "2027-01-31",
+      "time": "14:00",
       "team1": "ESL UNITED B",
       "team2": "BC SPRIMONT B",
       "category": "MM - REGIONALE 2 A",
@@ -1727,8 +1727,8 @@
     },
     {
       "code": "AW130004",
-      "date": "2026-09-20",
-      "time": "17:00",
+      "date": "2026-09-19",
+      "time": "13:00",
       "team1": "ESL UNITED",
       "team2": "UCCLE EUROPE",
       "category": "U 14 - GOLD REGIONAUX A",
@@ -2028,7 +2028,7 @@
     {
       "code": "AW114004",
       "date": "2026-09-20",
-      "time": "13:00",
+      "time": "17:00",
       "team1": "ESL UNITED",
       "team2": "B55 ACADEMY XL",
       "category": "U 18 - GOLD REGIONAUX B",

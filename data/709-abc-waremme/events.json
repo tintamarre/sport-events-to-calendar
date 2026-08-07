@@ -80,9 +80,19 @@
       "date": "2026-08-29",
       "time": "13:00",
       "team1": "RABC ENSIVAL A",
-      "team2": "ABC WAREMME A",
+      "team2": "ABC WAREMME C",
       "category": "CPE PROV PUPILLES MM",
       "location": "RABC ENSIVAL A",
+      "other": ""
+    },
+    {
+      "code": "764014",
+      "date": "2026-08-29",
+      "time": "15:00",
+      "team1": "ABC WAREMME B",
+      "team2": "MAIL. COMBLAIN",
+      "category": "CPE PROV PUPILLES MM",
+      "location": "ABC WAREMME B",
       "other": ""
     },
     {
@@ -1897,8 +1907,8 @@
     },
     {
       "code": "811004",
-      "date": "2026-08-22",
-      "time": "17:00",
+      "date": "2026-08-23",
+      "time": "10:00",
       "team1": "ABC WAREMME C (+ 15)",
       "team2": "CRISTAL SGH A",
       "category": "PROVINCIALE MM - POULE K",
@@ -1923,16 +1933,6 @@
       "team2": "ROYAL HERVE-BATTICE D (+ 5)",
       "category": "ROYAL HERVE-BATTICE D (+ 5)",
       "location": "ABC WAREMME A",
-      "other": ""
-    },
-    {
-      "code": "522021",
-      "date": "2026-09-13",
-      "time": "9:00",
-      "team1": "LA VILLERSOISE A",
-      "team2": "ABC WAREMME A",
-      "category": "U 10 - MM C",
-      "location": "LA VILLERSOISE A",
       "other": ""
     },
     {
@@ -2003,6 +2003,16 @@
       "team2": "BC SPRIMONT B",
       "category": "U 10 - MM C",
       "location": "ABC WAREMME A",
+      "other": ""
+    },
+    {
+      "code": "522021",
+      "date": "2026-11-29",
+      "time": "11:00",
+      "team1": "LA VILLERSOISE A",
+      "team2": "ABC WAREMME A",
+      "category": "U 10 - MM C",
+      "location": "LA VILLERSOISE A",
       "other": ""
     },
     {
@@ -3467,8 +3477,8 @@
     },
     {
       "code": "AW154004",
-      "date": "2026-09-19",
-      "time": "9:00",
+      "date": "2026-09-20",
+      "time": "11:00",
       "team1": "ABC WAREMME",
       "team2": "EAST BELGIUM BCA",
       "category": "U 14 - SILVER REGIONALES C",
@@ -3507,8 +3517,8 @@
     },
     {
       "code": "AW154022",
-      "date": "2026-11-14",
-      "time": "9:00",
+      "date": "2026-11-15",
+      "time": "10:00",
       "team1": "ABC WAREMME",
       "team2": "NAMUR CAPITALE",
       "category": "U 14 - SILVER REGIONALES C",
@@ -3537,8 +3547,8 @@
     },
     {
       "code": "AW154016",
-      "date": "2026-12-12",
-      "time": "9:00",
+      "date": "2026-12-13",
+      "time": "11:00",
       "team1": "ABC WAREMME",
       "team2": "BC BELLEFLAMME",
       "category": "U 14 - SILVER REGIONALES C",

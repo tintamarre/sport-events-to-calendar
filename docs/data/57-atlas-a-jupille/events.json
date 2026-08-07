@@ -166,16 +166,6 @@
       "other": ""
     },
     {
-      "code": "413111",
-      "date": "2026-11-14",
-      "time": "19:00",
-      "team1": "ATLAS A JUPILLE A",
-      "team2": "BC SPRIMONT A",
-      "category": "DD - DIVISION 1",
-      "location": "ATLAS A JUPILLE A",
-      "other": ""
-    },
-    {
       "code": "413126",
       "date": "2026-11-21",
       "time": "19:00",
@@ -211,6 +201,16 @@
       "time": "19:00",
       "team1": "ATLAS A JUPILLE A",
       "team2": "RBC BLEGNY A",
+      "category": "DD - DIVISION 1",
+      "location": "ATLAS A JUPILLE A",
+      "other": ""
+    },
+    {
+      "code": "413111",
+      "date": "2026-12-20",
+      "time": "13:00",
+      "team1": "ATLAS A JUPILLE A",
+      "team2": "BC SPRIMONT A",
       "category": "DD - DIVISION 1",
       "location": "ATLAS A JUPILLE A",
       "other": ""
@@ -1387,8 +1387,8 @@
     },
     {
       "code": "909004",
-      "date": "2026-08-23",
-      "time": "12:00",
+      "date": "2026-08-22",
+      "time": "17:00",
       "team1": "MAIL. COMBLAIN (+ 10)",
       "team2": "ATLAS A JUPILLE A",
       "category": "PROVINCIALE DD - POULE I",
@@ -3098,7 +3098,7 @@
     {
       "code": "AW113006",
       "date": "2026-09-19",
-      "time": "13:00",
+      "time": "11:00",
       "team1": "BC SPRIMONT",
       "team2": "ATLAS A JUPILLE",
       "category": "U 18 - GOLD REGIONAUX A",

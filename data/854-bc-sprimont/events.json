@@ -236,16 +236,6 @@
       "other": ""
     },
     {
-      "code": "413111",
-      "date": "2026-11-14",
-      "time": "19:00",
-      "team1": "ATLAS A JUPILLE A",
-      "team2": "BC SPRIMONT A",
-      "category": "DD - DIVISION 1",
-      "location": "ATLAS A JUPILLE A",
-      "other": ""
-    },
-    {
       "code": "413127",
       "date": "2026-11-21",
       "time": "20:30",
@@ -283,6 +273,16 @@
       "team2": "BC SPRIMONT A",
       "category": "DD - DIVISION 1",
       "location": "RABC ENSIVAL",
+      "other": ""
+    },
+    {
+      "code": "413111",
+      "date": "2026-12-20",
+      "time": "13:00",
+      "team1": "ATLAS A JUPILLE A",
+      "team2": "BC SPRIMONT A",
+      "category": "DD - DIVISION 1",
+      "location": "ATLAS A JUPILLE A",
       "other": ""
     },
     {
@@ -856,6 +856,16 @@
       "other": ""
     },
     {
+      "code": "416331",
+      "date": "2027-04-04",
+      "time": "13:00",
+      "team1": "BC SPRIMONT C",
+      "team2": "R REN. MONTEGNEE",
+      "category": "DD - DIVISION 3 A",
+      "location": "BC SPRIMONT C",
+      "other": ""
+    },
+    {
       "code": "416325",
       "date": "2027-04-11",
       "time": "13:30",
@@ -863,16 +873,6 @@
       "team2": "BC SPRIMONT C",
       "category": "DD - DIVISION 3 A",
       "location": "BC VERLAINE B",
-      "other": ""
-    },
-    {
-      "code": "416331",
-      "date": "2027-04-18",
-      "time": "17:00",
-      "team1": "BC SPRIMONT C",
-      "team2": "R REN. MONTEGNEE",
-      "category": "DD - DIVISION 3 A",
-      "location": "BC SPRIMONT C",
       "other": ""
     },
     {
@@ -1128,7 +1128,7 @@
     {
       "code": "403347",
       "date": "2027-04-24",
-      "time": "20:00",
+      "time": "17:00",
       "team1": "BC SPRIMONT C",
       "team2": "RBC AWANS A",
       "category": "MM - DIVISION 2 B",
@@ -1346,21 +1346,21 @@
       "other": ""
     },
     {
-      "code": "405297",
-      "date": "2027-03-20",
-      "time": "19:00",
-      "team1": "BC SPRIMONT D",
-      "team2": "RJS GRIVEGNEE",
-      "category": "MM - DIVISION 3 B",
-      "location": "BC SPRIMONT D",
-      "other": ""
-    },
-    {
       "code": "405307",
       "date": "2027-03-27",
       "time": "19:00",
       "team1": "BC SPRIMONT D",
       "team2": "RB UNION LIEGE B",
+      "category": "MM - DIVISION 3 B",
+      "location": "BC SPRIMONT D",
+      "other": ""
+    },
+    {
+      "code": "405297",
+      "date": "2027-04-04",
+      "time": "11:00",
+      "team1": "BC SPRIMONT D",
+      "team2": "RJS GRIVEGNEE",
       "category": "MM - DIVISION 3 B",
       "location": "BC SPRIMONT D",
       "other": ""
@@ -1757,8 +1757,8 @@
     },
     {
       "code": "AW101110",
-      "date": "2027-01-29",
-      "time": "21:00",
+      "date": "2027-01-31",
+      "time": "14:00",
       "team1": "ESL UNITED B",
       "team2": "BC SPRIMONT B",
       "category": "MM - REGIONALE 2 A",
@@ -1818,7 +1818,7 @@
     {
       "code": "AW101153",
       "date": "2027-03-27",
-      "time": "19:00",
+      "time": "21:00",
       "team1": "BC ERPENT",
       "team2": "BC SPRIMONT B",
       "category": "MM - REGIONALE 2 A",
@@ -2508,7 +2508,7 @@
     {
       "code": "521102",
       "date": "2026-11-08",
-      "time": "12:30",
+      "time": "9:00",
       "team1": "PEPINSTER EAST BELG B",
       "team2": "BC SPRIMONT D",
       "category": "U 10 - MM B",
@@ -3437,8 +3437,8 @@
     },
     {
       "code": "503284",
-      "date": "2027-03-13",
-      "time": "15:00",
+      "date": "2027-03-14",
+      "time": "9:00",
       "team1": "GIANTS BRAIVES B",
       "team2": "BC SPRIMONT B",
       "category": "U 12 - MM D",
@@ -4308,7 +4308,7 @@
     {
       "code": "AW121004",
       "date": "2026-09-19",
-      "time": "15:00",
+      "time": "13:00",
       "team1": "BC SPRIMONT",
       "team2": "UCCLE EUROPE",
       "category": "U 16 - GOLD REGIONAUX A",
@@ -4408,7 +4408,7 @@
     {
       "code": "AW113006",
       "date": "2026-09-19",
-      "time": "13:00",
+      "time": "11:00",
       "team1": "BC SPRIMONT",
       "team2": "ATLAS A JUPILLE",
       "category": "U 18 - GOLD REGIONAUX A",
@@ -4508,7 +4508,7 @@
     {
       "code": "AW116006",
       "date": "2026-09-19",
-      "time": "11:00",
+      "time": "15:00",
       "team1": "BC SPRIMONT",
       "team2": "SPIROU BASKET",
       "category": "U 18 - SILVER REGIONAUX B",
@@ -4578,7 +4578,7 @@
     {
       "code": "AW116018",
       "date": "2026-12-12",
-      "time": "13:00",
+      "time": "9:00",
       "team1": "BC SPRIMONT",
       "team2": "JS ENTITE ENGHIEN",
       "category": "U 18 - SILVER REGIONAUX B",
@@ -5456,6 +5456,16 @@
       "other": ""
     },
     {
+      "code": "544102",
+      "date": "2026-09-26",
+      "time": "9:00",
+      "team1": "BC COINTE A",
+      "team2": "BC SPRIMONT B",
+      "category": "U 8 - MM E",
+      "location": "BC COINTE A",
+      "other": ""
+    },
+    {
       "code": "544051",
       "date": "2026-10-03",
       "time": "9:00",
@@ -5473,16 +5483,6 @@
       "team2": "HANNUT BC A",
       "category": "U 8 - MM E",
       "location": "BC SPRIMONT B",
-      "other": ""
-    },
-    {
-      "code": "544102",
-      "date": "2026-11-07",
-      "time": "10:15",
-      "team1": "BC COINTE A",
-      "team2": "BC SPRIMONT B",
-      "category": "U 8 - MM E",
-      "location": "BC COINTE A",
       "other": ""
     },
     {

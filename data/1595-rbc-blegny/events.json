@@ -157,8 +157,8 @@
     },
     {
       "code": "413167",
-      "date": "2026-12-18",
-      "time": "20:00",
+      "date": "2026-12-19",
+      "time": "18:30",
       "team1": "RBC BLEGNY A",
       "team2": "RBC CROATIA OUPEYE",
       "category": "DD - DIVISION 1",
@@ -736,16 +736,6 @@
       "other": ""
     },
     {
-      "code": "405015",
-      "date": "2026-09-04",
-      "time": "20:00",
-      "team1": "RBC BLEGNY B",
-      "team2": "AVENIR JUPILLE A",
-      "category": "MM - DIVISION 3 B",
-      "location": "RBC BLEGNY B",
-      "other": ""
-    },
-    {
       "code": "405025",
       "date": "2026-09-11",
       "time": "20:00",
@@ -801,6 +791,16 @@
       "time": "20:00",
       "team1": "RBC BLEGNY B",
       "team2": "HARIMALIA BC C",
+      "category": "MM - DIVISION 3 B",
+      "location": "RBC BLEGNY B",
+      "other": ""
+    },
+    {
+      "code": "405015",
+      "date": "2026-10-30",
+      "time": "20:00",
+      "team1": "RBC BLEGNY B",
+      "team2": "AVENIR JUPILLE A",
       "category": "MM - DIVISION 3 B",
       "location": "RBC BLEGNY B",
       "other": ""
@@ -2546,6 +2546,16 @@
       "other": ""
     },
     {
+      "code": "591333",
+      "date": "2026-10-18",
+      "time": "13:00",
+      "team1": "RBC VISE",
+      "team2": "RBC BLEGNY",
+      "category": "U 16 - DD B",
+      "location": "RBC VISE",
+      "other": ""
+    },
+    {
       "code": "591115",
       "date": "2026-11-14",
       "time": "13:30",
@@ -2663,16 +2673,6 @@
       "team2": "ATLAS A JUPILLE",
       "category": "U 16 - DD B",
       "location": "RBC BLEGNY",
-      "other": ""
-    },
-    {
-      "code": "591333",
-      "date": "2027-04-18",
-      "time": "13:00",
-      "team1": "RBC VISE",
-      "team2": "RBC BLEGNY",
-      "category": "U 16 - DD B",
-      "location": "RBC VISE",
       "other": ""
     },
     {

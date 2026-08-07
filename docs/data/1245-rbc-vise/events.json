@@ -78,7 +78,7 @@
     {
       "code": "414037",
       "date": "2026-09-19",
-      "time": "21:00",
+      "time": "19:00",
       "team1": "RBC VISE A",
       "team2": "PEPINSTER EAST BELG B",
       "category": "DD - DIVISION 2 A",
@@ -196,16 +196,6 @@
       "other": ""
     },
     {
-      "code": "414207",
-      "date": "2027-01-16",
-      "time": "21:00",
-      "team1": "RBC VISE A",
-      "team2": "LA VILLERSOISE A",
-      "category": "DD - DIVISION 2 A",
-      "location": "RBC VISE A",
-      "other": ""
-    },
-    {
       "code": "414213",
       "date": "2027-01-23",
       "time": "20:00",
@@ -291,6 +281,16 @@
       "time": "21:00",
       "team1": "RBC VISE A",
       "team2": "BC SPRIMONT B",
+      "category": "DD - DIVISION 2 A",
+      "location": "RBC VISE A",
+      "other": ""
+    },
+    {
+      "code": "414207",
+      "date": "2027-04-04",
+      "time": "11:00",
+      "team1": "RBC VISE A",
+      "team2": "LA VILLERSOISE A",
       "category": "DD - DIVISION 2 A",
       "location": "RBC VISE A",
       "other": ""
@@ -538,7 +538,7 @@
     {
       "code": "402032",
       "date": "2026-09-19",
-      "time": "19:00",
+      "time": "21:00",
       "team1": "RBC VISE A",
       "team2": "FLERON BBC A",
       "category": "MM - DIVISION 2 A",
@@ -1268,7 +1268,7 @@
     {
       "code": "405306",
       "date": "2027-03-27",
-      "time": "21:00",
+      "time": "19:00",
       "team1": "R HT-PRE OUGREE A",
       "team2": "RBC VISE C",
       "category": "MM - DIVISION 3 B",
@@ -1558,7 +1558,7 @@
     {
       "code": "915005",
       "date": "2026-08-29",
-      "time": "21:00",
+      "time": "19:00",
       "team1": "RBC VISE A",
       "team2": "ROYAL ANS BC",
       "category": "PROVINCIALE DD - POULE O",
@@ -1628,7 +1628,7 @@
     {
       "code": "821005",
       "date": "2026-08-29",
-      "time": "19:00",
+      "time": "21:00",
       "team1": "RBC VISE A",
       "team2": "RBC AUBEL (+ 5)",
       "category": "PROVINCIALE MM - POULE U",
@@ -2607,7 +2607,7 @@
     },
     {
       "code": "503332",
-      "date": "2027-04-18",
+      "date": "2027-04-24",
       "time": "15:00",
       "team1": "RBC VISE B",
       "team2": "GIANTS BRAIVES B",
@@ -2648,7 +2648,7 @@
     {
       "code": "480053",
       "date": "2026-10-04",
-      "time": "11:00",
+      "time": "13:00",
       "team1": "RBC VISE A",
       "team2": "GIANTS BRAIVES B",
       "category": "U 14 - ELITES MM A",
@@ -3116,6 +3116,16 @@
       "other": ""
     },
     {
+      "code": "591333",
+      "date": "2026-10-18",
+      "time": "13:00",
+      "team1": "RBC VISE",
+      "team2": "RBC BLEGNY",
+      "category": "U 16 - DD B",
+      "location": "RBC VISE",
+      "other": ""
+    },
+    {
       "code": "591103",
       "date": "2026-11-07",
       "time": "15:00",
@@ -3246,16 +3256,6 @@
       "other": ""
     },
     {
-      "code": "591333",
-      "date": "2027-04-18",
-      "time": "13:00",
-      "team1": "RBC VISE",
-      "team2": "RBC BLEGNY",
-      "category": "U 16 - DD B",
-      "location": "RBC VISE",
-      "other": ""
-    },
-    {
       "code": "450024",
       "date": "2026-09-12",
       "time": "11:00",
@@ -3308,7 +3308,7 @@
     {
       "code": "450114",
       "date": "2026-11-15",
-      "time": "11:00",
+      "time": "17:00",
       "team1": "RBC VISE",
       "team2": "THEUX BC",
       "category": "U 16 - ELITES MM A",
@@ -3787,8 +3787,8 @@
     },
     {
       "code": "AW115012",
-      "date": "2026-10-04",
-      "time": "15:00",
+      "date": "2026-10-03",
+      "time": "17:00",
       "team1": "RBC VISE",
       "team2": "BC FRAIRE-PHILIPPEVILLE",
       "category": "U 18 - SILVER REGIONAUX A",
@@ -4178,7 +4178,7 @@
     {
       "code": "AW109012",
       "date": "2026-10-04",
-      "time": "13:00",
+      "time": "11:00",
       "team1": "RBC VISE",
       "team2": "CEP FLEURUS",
       "category": "U 21 - SILVER REGIONAUX A",
