@@ -1646,16 +1646,6 @@
       "other": ""
     },
     {
-      "code": "811001",
-      "date": "2026-08-12",
-      "time": "20:00",
-      "team1": "CRISTAL SGH A",
-      "team2": "BBC EUPEN B (+ 15)",
-      "category": "PROVINCIALE MM - POULE K",
-      "location": "CRISTAL SGH A",
-      "other": ""
-    },
-    {
       "code": "811004",
       "date": "2026-08-23",
       "time": "10:00",
@@ -4986,16 +4976,6 @@
       "other": ""
     },
     {
-      "code": "551024",
-      "date": "2026-09-12",
-      "time": "13:30",
-      "team1": "CRISTAL SGH B",
-      "team2": "ALL. FLEMALLE",
-      "category": "U 7 - MM B",
-      "location": "CRISTAL SGH B",
-      "other": ""
-    },
-    {
       "code": "551052",
       "date": "2026-10-03",
       "time": "10:15",
@@ -5177,12 +5157,12 @@
     },
     {
       "code": "552015",
-      "date": "2026-09-05",
+      "date": "2026-09-06",
       "time": "9:30",
-      "team1": "CRISTAL SGH A",
-      "team2": "RB TILFF",
+      "team1": "RB TILFF",
+      "team2": "CRISTAL SGH A",
       "category": "U 7 - MM C",
-      "location": "CRISTAL SGH A",
+      "location": "RB TILFF",
       "other": ""
     },
     {
@@ -5279,10 +5259,10 @@
       "code": "552205",
       "date": "2027-01-17",
       "time": "9:30",
-      "team1": "RB TILFF",
-      "team2": "CRISTAL SGH A",
+      "team1": "CRISTAL SGH A",
+      "team2": "RB TILFF",
       "category": "U 7 - MM C",
-      "location": "RB TILFF",
+      "location": "CRISTAL SGH A",
       "other": ""
     },
     {
@@ -5353,16 +5333,6 @@
       "team2": "CRISTAL SGH A",
       "category": "U 7 - MM C",
       "location": "ROYAL BC NINANE A",
-      "other": ""
-    },
-    {
-      "code": "541024",
-      "date": "2026-09-12",
-      "time": "13:30",
-      "team1": "CRISTAL SGH B",
-      "team2": "ROYAL SPA BC B",
-      "category": "U 8 - MM B",
-      "location": "CRISTAL SGH B",
       "other": ""
     },
     {
@@ -5658,7 +5628,7 @@
     {
       "code": "542205",
       "date": "2027-01-17",
-      "time": "9:30",
+      "time": "11:00",
       "team1": "RB TILFF A",
       "team2": "CRISTAL SGH A",
       "category": "U 8 - MM C",

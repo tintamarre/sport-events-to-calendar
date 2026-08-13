@@ -56,42 +56,82 @@
       "other": ""
     },
     {
-      "code": "AWBNAHSEPCAB",
+      "code": "AW5",
       "date": "2026-08-16",
       "time": "17:00",
       "team1": "BC ASSE-TERNAT",
       "team2": "BC SPRIMONT",
       "category": "BELGIQUE MM - POULE C",
       "location": "BC ASSE-TERNAT",
-      "other": ""
+      "other": "BNAHSEPCAB"
     },
     {
-      "code": "AWBNAHSEPCBC",
+      "code": "AW21",
       "date": "2026-08-19",
       "time": "21:00",
       "team1": "BC SPRIMONT",
       "team2": "BASKET WAREGEM",
       "category": "BELGIQUE MM - POULE C",
       "location": "BC SPRIMONT",
-      "other": ""
+      "other": "BNAHSEPCBC"
     },
     {
-      "code": "AWBNAHSEPCBD",
+      "code": "AW37",
       "date": "2026-08-22",
       "time": "19:00",
       "team1": "BC SPRIMONT",
       "team2": "UBCF QUAREGNON",
       "category": "BELGIQUE MM - POULE C",
       "location": "BC SPRIMONT",
-      "other": ""
+      "other": "BNAHSEPCBD"
     },
     {
-      "code": "AWBNAHSEPCEB",
+      "code": "AW70",
       "date": "2026-08-29",
       "time": "18:00",
       "team1": "BCCA NEUFCHATEAU",
       "team2": "BC SPRIMONT",
       "category": "BELGIQUE MM - POULE C",
+      "location": "BCCA NEUFCHATEAU",
+      "other": "BNAHSEPCEB"
+    },
+    {
+      "code": "AW5",
+      "date": "2026-08-16",
+      "time": "17:00",
+      "team1": "BC ASSE-TERNAT",
+      "team2": "BC SPRIMONT",
+      "category": "BNAHSEPCAB",
+      "location": "BC ASSE-TERNAT",
+      "other": ""
+    },
+    {
+      "code": "AW21",
+      "date": "2026-08-19",
+      "time": "21:00",
+      "team1": "BC SPRIMONT",
+      "team2": "BASKET WAREGEM",
+      "category": "BNAHSEPCBC",
+      "location": "BC SPRIMONT",
+      "other": ""
+    },
+    {
+      "code": "AW37",
+      "date": "2026-08-22",
+      "time": "19:00",
+      "team1": "BC SPRIMONT",
+      "team2": "UBCF QUAREGNON",
+      "category": "BNAHSEPCBD",
+      "location": "BC SPRIMONT",
+      "other": ""
+    },
+    {
+      "code": "AW70",
+      "date": "2026-08-29",
+      "time": "18:00",
+      "team1": "BCCA NEUFCHATEAU",
+      "team2": "BC SPRIMONT",
+      "category": "BNAHSEPCEB",
       "location": "BCCA NEUFCHATEAU",
       "other": ""
     },
@@ -1933,16 +1973,6 @@
       "team2": "RBC ALLEUR D (+ 5)",
       "category": "PROVINCIALE DD - POULE P",
       "location": "BC SPRIMONT A",
-      "other": ""
-    },
-    {
-      "code": "809004",
-      "date": "2026-08-08",
-      "time": "19:00",
-      "team1": "BC SPRIMONT D (+ 10)",
-      "team2": "ROYAL HERVE-BATTICE A",
-      "category": "PROVINCIALE MM - POULE I",
-      "location": "BC SPRIMONT D (+ 10)",
       "other": ""
     },
     {
@@ -4896,16 +4926,6 @@
       "other": ""
     },
     {
-      "code": "552026",
-      "date": "2026-09-13",
-      "time": "9:00",
-      "team1": "BC SPRIMONT A",
-      "team2": "RB TILFF",
-      "category": "U 7 - MM C",
-      "location": "BC SPRIMONT A",
-      "other": ""
-    },
-    {
       "code": "552032",
       "date": "2026-09-19",
       "time": "11:45",
@@ -5071,16 +5091,6 @@
       "time": "13:30",
       "team1": "BC SPRIMONT B",
       "team2": "LA VILLERSOISE",
-      "category": "U 7 - MM D",
-      "location": "BC SPRIMONT B",
-      "other": ""
-    },
-    {
-      "code": "553026",
-      "date": "2026-09-13",
-      "time": "10:30",
-      "team1": "BC SPRIMONT B",
-      "team2": "ROYAL ANS BC",
       "category": "U 7 - MM D",
       "location": "BC SPRIMONT B",
       "other": ""
@@ -5443,16 +5453,6 @@
       "team2": "BC SPRIMONT A",
       "category": "U 8 - MM D",
       "location": "R HT-PRE OUGREE",
-      "other": ""
-    },
-    {
-      "code": "544025",
-      "date": "2026-09-12",
-      "time": "15:30",
-      "team1": "BC SPRIMONT B",
-      "team2": "GIANTS BRAIVES A",
-      "category": "U 8 - MM E",
-      "location": "BC SPRIMONT B",
       "other": ""
     },
     {

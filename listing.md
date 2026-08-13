@@ -8,7 +8,7 @@ Les agendas sont mis à jour automatiquement toutes semaines.
 
 [L'agenda global](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/CPLi%C3%A8ge.ics) est également disponible.
 
-Dernière mise à jour: 07/08/2026 01:29:16
+Dernière mise à jour: 13/08/2026 22:16:22
 
 ## [44 RBC ESNEUX](http://www.cpliege.be/clubs/club0044.asp)
 
@@ -135,6 +135,9 @@ Dernière mise à jour: 07/08/2026 01:29:16
 * [AWBB DD - POULE D](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/46-pepinster-east-b/awbb-dd-poule-d.ics)
 * [AWBB MM - POULE E](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/46-pepinster-east-b/awbb-mm-poule-e.ics)
 * [BELGIQUE MM - POULE J](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/46-pepinster-east-b/belgique-mm-poule-j.ics)
+* [BNAHSEPJAC](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/46-pepinster-east-b/bnahsepjac.ics)
+* [BNAHSEPJBC](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/46-pepinster-east-b/bnahsepjbc.ics)
+* [BNAHSEPJCB](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/46-pepinster-east-b/bnahsepjcb.ics)
 * [COUPE AWBB U18 - GARCONS](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/46-pepinster-east-b/coupe-awbb-u18-garcons.ics)
 * [COUPE AWBB U19 - FILLES](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/46-pepinster-east-b/coupe-awbb-u19-filles.ics)
 * [CPE BELG DAMES](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/46-pepinster-east-b/cpe-belg-dames.ics)
@@ -774,6 +777,10 @@ Dernière mise à jour: 07/08/2026 01:29:16
 * [AWBB DD - POULE L](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/854-bc-sprimont/awbb-dd-poule-l.ics)
 * [AWBB MM - POULE B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/854-bc-sprimont/awbb-mm-poule-b.ics)
 * [BELGIQUE MM - POULE C](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/854-bc-sprimont/belgique-mm-poule-c.ics)
+* [BNAHSEPCAB](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/854-bc-sprimont/bnahsepcab.ics)
+* [BNAHSEPCBC](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/854-bc-sprimont/bnahsepcbc.ics)
+* [BNAHSEPCBD](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/854-bc-sprimont/bnahsepcbd.ics)
+* [BNAHSEPCEB](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/854-bc-sprimont/bnahsepceb.ics)
 * [COUPE AWBB U12 -GARCONS](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/854-bc-sprimont/coupe-awbb-u12-garcons.ics)
 * [COUPE AWBB U14 - GARCONS](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/854-bc-sprimont/coupe-awbb-u14-garcons.ics)
 * [COUPE AWBB U16 - GARCONS](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/854-bc-sprimont/coupe-awbb-u16-garcons.ics)
@@ -1242,6 +1249,9 @@ Dernière mise à jour: 07/08/2026 01:29:16
 * [JSON](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1200-bc-ninane/events.json)
 * [AWBB MM - POULE K](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1200-bc-ninane/awbb-mm-poule-k.ics)
 * [BELGIQUE MM - POULE G](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1200-bc-ninane/belgique-mm-poule-g.ics)
+* [BNAHSEPGAC](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1200-bc-ninane/bnahsepgac.ics)
+* [BNAHSEPGBC](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1200-bc-ninane/bnahsepgbc.ics)
+* [BNAHSEPGCB](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1200-bc-ninane/bnahsepgcb.ics)
 * [COUPE AWBB U21 - GARCONS](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1200-bc-ninane/coupe-awbb-u21-garcons.ics)
 * [CPE PROV CADETS](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1200-bc-ninane/cpe-prov-cadets.ics)
 * [DD - DIVISION 2 B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/1200-bc-ninane/dd-division-2-b.ics)

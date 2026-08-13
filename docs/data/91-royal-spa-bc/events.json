@@ -67,7 +67,7 @@
     },
     {
       "code": "761008",
-      "date": "2026-11-01",
+      "date": "2026-10-31",
       "time": "13:00",
       "team1": "THEUX BC",
       "team2": "ROYAL SPA BC",
@@ -648,7 +648,7 @@
     {
       "code": "402212",
       "date": "2027-01-23",
-      "time": "19:00",
+      "time": "17:00",
       "team1": "RBC VISE A",
       "team2": "ROYAL SPA BC C",
       "category": "MM - DIVISION 2 A",
@@ -1456,16 +1456,6 @@
       "other": ""
     },
     {
-      "code": "AW101002",
-      "date": "2026-09-05",
-      "time": "20:30",
-      "team1": "ROYAL GALLIA BEEZ",
-      "team2": "ROYAL SPA BC A",
-      "category": "MM - REGIONALE 2 A",
-      "location": "ROYAL GALLIA BEEZ",
-      "other": ""
-    },
-    {
       "code": "AW101008",
       "date": "2026-09-19",
       "time": "19:00",
@@ -1513,6 +1503,16 @@
       "team2": "ROYAL SPA BC A",
       "category": "MM - REGIONALE 2 A",
       "location": "PEPINSTER EAST BELG B",
+      "other": ""
+    },
+    {
+      "code": "AW101002",
+      "date": "2026-10-31",
+      "time": "20:30",
+      "team1": "ROYAL GALLIA BEEZ",
+      "team2": "ROYAL SPA BC A",
+      "category": "MM - REGIONALE 2 A",
+      "location": "ROYAL GALLIA BEEZ",
       "other": ""
     },
     {
@@ -1723,16 +1723,6 @@
       "team2": "CRISTAL SGH B",
       "category": "PROVINCIALE DD - POULE M",
       "location": "ROYAL SPA BC B",
-      "other": ""
-    },
-    {
-      "code": "809001",
-      "date": "2026-08-12",
-      "time": "21:00",
-      "team1": "ROYAL HERVE-BATTICE A",
-      "team2": "ROYAL SPA BC D (+ 15)",
-      "category": "PROVINCIALE MM - POULE I",
-      "location": "ROYAL HERVE-BATTICE A",
       "other": ""
     },
     {
@@ -3826,16 +3816,6 @@
       "other": ""
     },
     {
-      "code": "550024",
-      "date": "2026-09-12",
-      "time": "10:00",
-      "team1": "VAIL. JUPILLE",
-      "team2": "ROYAL SPA BC A",
-      "category": "U 7 - MM A",
-      "location": "VAIL. JUPILLE",
-      "other": ""
-    },
-    {
       "code": "550031",
       "date": "2026-09-19",
       "time": "09:00",
@@ -4026,16 +4006,6 @@
       "other": ""
     },
     {
-      "code": "540024",
-      "date": "2026-09-12",
-      "time": "10:00",
-      "team1": "VAIL. JUPILLE",
-      "team2": "ROYAL SPA BC A",
-      "category": "U 8 - MM A",
-      "location": "VAIL. JUPILLE",
-      "other": ""
-    },
-    {
       "code": "540031",
       "date": "2026-09-19",
       "time": "09:00",
@@ -4223,16 +4193,6 @@
       "team2": "ROYAL SPA BC B",
       "category": "U 8 - MM B",
       "location": "HARIMALIA BC",
-      "other": ""
-    },
-    {
-      "code": "541024",
-      "date": "2026-09-12",
-      "time": "13:30",
-      "team1": "CRISTAL SGH B",
-      "team2": "ROYAL SPA BC B",
-      "category": "U 8 - MM B",
-      "location": "CRISTAL SGH B",
       "other": ""
     },
     {

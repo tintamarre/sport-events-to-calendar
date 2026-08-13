@@ -8,7 +8,7 @@
     {
       "code": "AW224002",
       "date": "2026-08-15",
-      "time": "19:00",
+      "time": "21:00",
       "team1": "RBC HANEFFE ( + 5)",
       "team2": "PEPINSTER EAST BELG",
       "category": "AWBB DD - POULE D",
@@ -18,7 +18,7 @@
     {
       "code": "AW224004",
       "date": "2026-08-23",
-      "time": "13:00",
+      "time": "11:00",
       "team1": "PEPINSTER EAST BELG",
       "team2": "ROYAL WATERLOO (+ 16)",
       "category": "AWBB DD - POULE D",
@@ -27,8 +27,8 @@
     },
     {
       "code": "AW224006",
-      "date": "2026-08-30",
-      "time": "15:00",
+      "date": "2026-08-29",
+      "time": "18:15",
       "team1": "LIEGE PANTHERS A",
       "team2": "PEPINSTER EAST BELG (+ 8)",
       "category": "AWBB DD - POULE D",
@@ -66,42 +66,62 @@
       "other": ""
     },
     {
-      "code": "AWBNAHSEPJCA",
-      "date": "2026-08-12",
-      "time": "20:30",
-      "team1": "PEPINSTER EAST BELG",
-      "team2": "ANTWERP GIANTS B",
-      "category": "BELGIQUE MM - POULE J",
-      "location": "PEPINSTER EAST BELG",
-      "other": ""
-    },
-    {
-      "code": "AWBNAHSEPJBC",
+      "code": "AW32",
       "date": "2026-08-14",
       "time": "21:00",
       "team1": "HASSELT BT",
       "team2": "PEPINSTER EAST BELG",
       "category": "BELGIQUE MM - POULE J",
       "location": "HASSELT BT",
-      "other": ""
+      "other": "BNAHSEPJBC"
     },
     {
-      "code": "AWBNAHSEPJAC",
+      "code": "AW64",
       "date": "2026-08-23",
       "time": "17:00",
       "team1": "ANTWERP GIANTS B",
       "team2": "PEPINSTER EAST BELG",
       "category": "BELGIQUE MM - POULE J",
       "location": "ANTWERP GIANTS B",
-      "other": ""
+      "other": "BNAHSEPJAC"
     },
     {
-      "code": "AWBNAHSEPJCB",
+      "code": "AW84",
       "date": "2026-08-29",
       "time": "19:00",
       "team1": "PEPINSTER EAST BELG",
       "team2": "HASSELT BT",
       "category": "BELGIQUE MM - POULE J",
+      "location": "PEPINSTER EAST BELG",
+      "other": "BNAHSEPJCB"
+    },
+    {
+      "code": "AW64",
+      "date": "2026-08-23",
+      "time": "17:00",
+      "team1": "ANTWERP GIANTS B",
+      "team2": "PEPINSTER EAST BELG",
+      "category": "BNAHSEPJAC",
+      "location": "ANTWERP GIANTS B",
+      "other": ""
+    },
+    {
+      "code": "AW32",
+      "date": "2026-08-14",
+      "time": "21:00",
+      "team1": "HASSELT BT",
+      "team2": "PEPINSTER EAST BELG",
+      "category": "BNAHSEPJBC",
+      "location": "HASSELT BT",
+      "other": ""
+    },
+    {
+      "code": "AW84",
+      "date": "2026-08-29",
+      "time": "19:00",
+      "team1": "PEPINSTER EAST BELG",
+      "team2": "HASSELT BT",
+      "category": "BNAHSEPJCB",
       "location": "PEPINSTER EAST BELG",
       "other": ""
     },
@@ -527,8 +547,8 @@
     },
     {
       "code": "AW104056",
-      "date": "2026-12-05",
-      "time": "20:00",
+      "date": "2026-12-06",
+      "time": "11:00",
       "team1": "PEPINSTER EAST BELG A",
       "team2": "RE PONT-DE-LOUP",
       "category": "DD - REGIONALE 1",
@@ -1387,8 +1407,8 @@
     },
     {
       "code": "AW224006",
-      "date": "2026-08-30",
-      "time": "15:00",
+      "date": "2026-08-29",
+      "time": "18:15",
       "team1": "LIEGE PANTHERS A",
       "team2": "PEPINSTER EAST BELG (+ 8)",
       "category": "PEPINSTER EAST BELG (+ 8)",
@@ -3728,7 +3748,7 @@
     {
       "code": "AW141016",
       "date": "2026-10-03",
-      "time": "14:00",
+      "time": "16:00",
       "team1": "RE PONT-DE-LOUP",
       "team2": "PEPINSTER EAST BELG",
       "category": "U 19 - SILVER REGIONALES A",
@@ -3843,16 +3863,6 @@
       "team2": "PEPINSTER EAST BELG A",
       "category": "U 7 - MM A",
       "location": "ROYAL HERVE-BATTICE B",
-      "other": ""
-    },
-    {
-      "code": "550022",
-      "date": "2026-09-12",
-      "time": "9:00",
-      "team1": "PEPINSTER EAST BELG A",
-      "team2": "THEUX BC",
-      "category": "U 7 - MM A",
-      "location": "PEPINSTER EAST BELG A",
       "other": ""
     },
     {
@@ -4043,16 +4053,6 @@
       "team2": "PEPINSTER EAST BELG B",
       "category": "U 7 - MM B",
       "location": "RBC VISE B",
-      "other": ""
-    },
-    {
-      "code": "551022",
-      "date": "2026-09-12",
-      "time": "9:00",
-      "team1": "PEPINSTER EAST BELG B",
-      "team2": "ROYAL HERVE-BATTICE A",
-      "category": "U 7 - MM B",
-      "location": "PEPINSTER EAST BELG B",
       "other": ""
     },
     {
@@ -4443,16 +4443,6 @@
       "team2": "PEPINSTER EAST BELG B",
       "category": "U 8 - MM B",
       "location": "HENRI-CHAPELLE B",
-      "other": ""
-    },
-    {
-      "code": "541022",
-      "date": "2026-09-12",
-      "time": "10:45",
-      "team1": "PEPINSTER EAST BELG B",
-      "team2": "PRAYON TROOZ",
-      "category": "U 8 - MM B",
-      "location": "PEPINSTER EAST BELG B",
       "other": ""
     },
     {
