@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "AW225001",
-      "date": "2026-08-16",
-      "time": "13:00",
-      "team1": "ATLAS A JUPILLE (+ 15)",
-      "team2": "CASTORS BRAINE A",
-      "category": "AWBB DD - POULE E",
-      "location": "ATLAS A JUPILLE (+ 15)",
-      "other": ""
-    },
-    {
       "code": "AW225004",
       "date": "2026-08-23",
       "time": "13:00",
@@ -36,16 +26,6 @@
       "other": ""
     },
     {
-      "code": "AW210002",
-      "date": "2026-08-15",
-      "time": "21:00",
-      "team1": "ATLAS A JUPILLE",
-      "team2": "R LINTHOUT BC B",
-      "category": "AWBB MM - POULE J",
-      "location": "ATLAS A JUPILLE",
-      "other": ""
-    },
-    {
       "code": "AW210003",
       "date": "2026-08-22",
       "time": "21:00",
@@ -63,6 +43,16 @@
       "team2": "ATLAS A JUPILLE",
       "category": "AWBB MM - POULE J",
       "location": "UBC BINCHE",
+      "other": ""
+    },
+    {
+      "code": "AW243013",
+      "date": "2026-08-23",
+      "time": "17:00",
+      "team1": "BC BELLEFLAMME",
+      "team2": "ATLAS A JUPILLE",
+      "category": "COUPE AWBB U16 - GARCONS",
+      "location": "BC BELLEFLAMME",
       "other": ""
     },
     {
@@ -1346,16 +1336,6 @@
       "other": ""
     },
     {
-      "code": "908002",
-      "date": "2026-08-15",
-      "time": "17:00",
-      "team1": "ATLAS A JUPILLE B (+ 5)",
-      "team2": "PRAYON TROOZ A",
-      "category": "PROVINCIALE DD - POULE H",
-      "location": "ATLAS A JUPILLE B (+ 5)",
-      "other": ""
-    },
-    {
       "code": "908004",
       "date": "2026-08-22",
       "time": "19:00",
@@ -1363,26 +1343,6 @@
       "team2": "RBC BLEGNY A",
       "category": "PROVINCIALE DD - POULE H",
       "location": "ATLAS A JUPILLE B (+ 10)",
-      "other": ""
-    },
-    {
-      "code": "908006",
-      "date": "2026-08-29",
-      "time": "19:00",
-      "team1": "R 4A AYWAILLE-HAMOIR B",
-      "team2": "ATLAS A JUPILLE B",
-      "category": "PROVINCIALE DD - POULE H",
-      "location": "R 4A AYWAILLE-HAMOIR B",
-      "other": ""
-    },
-    {
-      "code": "909001",
-      "date": "2026-08-15",
-      "time": "19:00",
-      "team1": "ATLAS A JUPILLE A",
-      "team2": "BC VERLAINE B (+ 10)",
-      "category": "PROVINCIALE DD - POULE I",
-      "location": "ATLAS A JUPILLE A",
       "other": ""
     },
     {
@@ -1402,16 +1362,6 @@
       "team1": "ATLAS A JUPILLE A",
       "team2": "RBC BLEGNY B (+ 5)",
       "category": "PROVINCIALE DD - POULE I",
-      "location": "ATLAS A JUPILLE A",
-      "other": ""
-    },
-    {
-      "code": "804001",
-      "date": "2026-08-16",
-      "time": "17:00",
-      "team1": "ATLAS A JUPILLE A",
-      "team2": "CRISTAL SGH B (+ 10)",
-      "category": "PROVINCIALE MM - POULE D",
       "location": "ATLAS A JUPILLE A",
       "other": ""
     },
@@ -1436,16 +1386,6 @@
       "other": ""
     },
     {
-      "code": "808002",
-      "date": "2026-08-16",
-      "time": "15:00",
-      "team1": "ATLAS A JUPILLE C",
-      "team2": "ROYAL HERVE-BATTICE B",
-      "category": "PROVINCIALE MM - POULE H",
-      "location": "ATLAS A JUPILLE C",
-      "other": ""
-    },
-    {
       "code": "808004",
       "date": "2026-08-23",
       "time": "13:00",
@@ -1463,16 +1403,6 @@
       "team2": "ATLAS A JUPILLE C",
       "category": "PROVINCIALE MM - POULE H",
       "location": "ROYAL ANS BC (+ 5)",
-      "other": ""
-    },
-    {
-      "code": "815001",
-      "date": "2026-08-14",
-      "time": "20:00",
-      "team1": "ATLAS A JUPILLE B",
-      "team2": "RBC BLEGNY B (+ 10)",
-      "category": "PROVINCIALE MM - POULE O",
-      "location": "ATLAS A JUPILLE B",
       "other": ""
     },
     {

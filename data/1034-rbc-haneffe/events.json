@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "AW224002",
-      "date": "2026-08-15",
-      "time": "21:00",
-      "team1": "RBC HANEFFE ( + 5)",
-      "team2": "PEPINSTER EAST BELG",
-      "category": "AWBB DD - POULE D",
-      "location": "RBC HANEFFE ( + 5)",
-      "other": ""
-    },
-    {
       "code": "AW224003",
       "date": "2026-08-23",
       "time": "13:30",
@@ -37,11 +27,21 @@
     },
     {
       "code": "AW244004",
-      "date": "2026-08-22",
-      "time": "11:00",
+      "date": "2026-08-23",
+      "time": "11:30",
       "team1": "RBC HANEFFE",
       "team2": "NUTS BASTOGNE",
       "category": "COUPE AWBB U14 - GARCONS",
+      "location": "RBC HANEFFE",
+      "other": ""
+    },
+    {
+      "code": "AW243014",
+      "date": "2026-08-23",
+      "time": "9:30",
+      "team1": "RBC HANEFFE",
+      "team2": "OLYMPIC MSM",
+      "category": "COUPE AWBB U16 - GARCONS",
       "location": "RBC HANEFFE",
       "other": ""
     },
@@ -1446,16 +1446,6 @@
       "other": ""
     },
     {
-      "code": "903002",
-      "date": "2026-08-15",
-      "time": "17:00",
-      "team1": "RBC HANEFFE C",
-      "team2": "BC SPRIMONT C (+ 5)",
-      "category": "PROVINCIALE DD - POULE C",
-      "location": "RBC HANEFFE C",
-      "other": ""
-    },
-    {
       "code": "903004",
       "date": "2026-08-23",
       "time": "15:30",
@@ -1476,16 +1466,6 @@
       "other": ""
     },
     {
-      "code": "907004",
-      "date": "2026-08-23",
-      "time": "17:30",
-      "team1": "RBC HANEFFE D (+ 10)",
-      "team2": "RBC ALLEUR C",
-      "category": "PROVINCIALE DD - POULE G",
-      "location": "RBC HANEFFE D (+ 10)",
-      "other": ""
-    },
-    {
       "code": "907006",
       "date": "2026-08-29",
       "time": "18:30",
@@ -1493,16 +1473,6 @@
       "team2": "RBC HANEFFE D",
       "category": "PROVINCIALE DD - POULE G",
       "location": "DF BC MALMEDY",
-      "other": ""
-    },
-    {
-      "code": "910001",
-      "date": "2026-08-16",
-      "time": "12:00",
-      "team1": "RBC HANEFFE B",
-      "team2": "VAIL. JUPILLE (+ 10)",
-      "category": "PROVINCIALE DD - POULE J",
-      "location": "RBC HANEFFE B",
       "other": ""
     },
     {
@@ -1543,16 +1513,6 @@
       "team2": "RBC BLEGNY C (+ 10)",
       "category": "PROVINCIALE MM - POULE EE",
       "location": "RBC HANEFFE A",
-      "other": ""
-    },
-    {
-      "code": "832002",
-      "date": "2026-08-16",
-      "time": "15:00",
-      "team1": "RBC CROATIA OUPEYE",
-      "team2": "RBC HANEFFE B",
-      "category": "PROVINCIALE MM - POULE FF",
-      "location": "RBC CROATIA OUPEYE",
       "other": ""
     },
     {

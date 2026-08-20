@@ -578,7 +578,7 @@
     {
       "code": "410206",
       "date": "2027-01-16",
-      "time": "21:00",
+      "time": "19:00",
       "team1": "GIANTS BRAIVES B",
       "team2": "CRISTAL SGH C",
       "category": "MM - DIVISION 4 D",
@@ -676,16 +676,6 @@
       "other": ""
     },
     {
-      "code": "901001",
-      "date": "2026-08-16",
-      "time": "10:00",
-      "team1": "HANNUT BC",
-      "team2": "GIANTS BRAIVES (+ 10)",
-      "category": "PROVINCIALE DD - POULE A",
-      "location": "HANNUT BC",
-      "other": ""
-    },
-    {
       "code": "901003",
       "date": "2026-08-23",
       "time": "13:00",
@@ -703,16 +693,6 @@
       "team2": "LA VILLERSOISE A",
       "category": "PROVINCIALE DD - POULE A",
       "location": "GIANTS BRAIVES (+ 5)",
-      "other": ""
-    },
-    {
-      "code": "822002",
-      "date": "2026-08-16",
-      "time": "11:30",
-      "team1": "BC VERLAINE",
-      "team2": "GIANTS BRAIVES A",
-      "category": "PROVINCIALE MM - POULE V",
-      "location": "BC VERLAINE",
       "other": ""
     },
     {
@@ -818,12 +798,12 @@
     {
       "code": "527156",
       "date": "2026-12-12",
-      "time": "13:00",
+      "time": "9:00",
       "team1": "R 4A AYWAILLE-HAMOIR B",
       "team2": "GIANTS BRAIVES A",
       "category": "U 10 - MM H",
       "location": "R 4A AYWAILLE-HAMOIR B",
-      "other": ""
+      "other": "(Ho Aywaille)"
     },
     {
       "code": "527161",
@@ -1688,12 +1668,12 @@
     {
       "code": "507306",
       "date": "2027-03-27",
-      "time": "13:00",
+      "time": "9:00",
       "team1": "R 4A AYWAILLE-HAMOIR",
       "team2": "GIANTS BRAIVES C",
       "category": "U 12 - MM H",
       "location": "R 4A AYWAILLE-HAMOIR",
-      "other": "(ho Hamoir rue du mouli"
+      "other": "(HO Aywaille)"
     },
     {
       "code": "507331",
@@ -2488,7 +2468,7 @@
     {
       "code": "AW119014",
       "date": "2026-10-10",
-      "time": "15:00",
+      "time": "13:00",
       "team1": "SAR CHANTEMELLE",
       "team2": "GIANTS BRAIVES",
       "category": "U 18 - BRONZE REGIONAUX A",
@@ -2716,16 +2696,6 @@
       "other": ""
     },
     {
-      "code": "545013",
-      "date": "2026-09-05",
-      "time": "13:30",
-      "team1": "CONDROZ MODAVE BB",
-      "team2": "GIANTS BRAIVES B",
-      "category": "U 8 - MM F",
-      "location": "CONDROZ MODAVE BB",
-      "other": ""
-    },
-    {
       "code": "545036",
       "date": "2026-09-19",
       "time": "15:00",
@@ -2776,13 +2746,13 @@
       "other": ""
     },
     {
-      "code": "545156",
+      "code": "545013",
       "date": "2026-12-12",
       "time": "15:00",
-      "team1": "GIANTS BRAIVES B",
-      "team2": "ALL. FLEMALLE B",
+      "team1": "CONDROZ MODAVE BB",
+      "team2": "GIANTS BRAIVES B",
       "category": "U 8 - MM F",
-      "location": "GIANTS BRAIVES B",
+      "location": "CONDROZ MODAVE BB",
       "other": ""
     },
     {
@@ -2843,6 +2813,16 @@
       "team2": "GIANTS BRAIVES B",
       "category": "U 8 - MM F",
       "location": "ORP JAUCHE",
+      "other": ""
+    },
+    {
+      "code": "545156",
+      "date": "2027-03-07",
+      "time": "9:00",
+      "team1": "GIANTS BRAIVES B",
+      "team2": "ALL. FLEMALLE B",
+      "category": "U 8 - MM F",
+      "location": "GIANTS BRAIVES B",
       "other": ""
     },
     {

@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "AW208002",
-      "date": "2026-08-16",
-      "time": "14:00",
-      "team1": "BC HOTTON",
-      "team2": "RBC STAVELOT",
-      "category": "AWBB MM - POULE H",
-      "location": "BC HOTTON",
-      "other": ""
-    },
-    {
       "code": "AW208004",
       "date": "2026-08-21",
       "time": "20:00",
@@ -1056,26 +1046,6 @@
       "other": "(Hall d'Hamoir)"
     },
     {
-      "code": "805002",
-      "date": "2026-08-16",
-      "time": "15:30",
-      "team1": "HARIMALIA BC B",
-      "team2": "RBC STAVELOT B",
-      "category": "PROVINCIALE MM - POULE E",
-      "location": "HARIMALIA BC B",
-      "other": ""
-    },
-    {
-      "code": "805003",
-      "date": "2026-08-23",
-      "time": "11:00",
-      "team1": "RBC STAVELOT B",
-      "team2": "DF BC MALMEDY (+ 5)",
-      "category": "PROVINCIALE MM - POULE E",
-      "location": "RBC STAVELOT B",
-      "other": ""
-    },
-    {
       "code": "805005",
       "date": "2026-08-30",
       "time": "13:00",
@@ -1083,16 +1053,6 @@
       "team2": "RBC STAVELOT B (+ 10)",
       "category": "PROVINCIALE MM - POULE E",
       "location": "ETOILE JUPILLE A",
-      "other": ""
-    },
-    {
-      "code": "806001",
-      "date": "2026-08-15",
-      "time": "19:00",
-      "team1": "RBC STAVELOT A",
-      "team2": "R REN. MONTEGNEE B (+ 15)",
-      "category": "PROVINCIALE MM - POULE F",
-      "location": "RBC STAVELOT A",
       "other": ""
     },
     {
@@ -1106,6 +1066,16 @@
       "other": ""
     },
     {
+      "code": "806001",
+      "date": "2026-08-26",
+      "time": "20:30",
+      "team1": "RBC STAVELOT A",
+      "team2": "R REN. MONTEGNEE B (+ 15)",
+      "category": "PROVINCIALE MM - POULE F",
+      "location": "RBC STAVELOT A",
+      "other": ""
+    },
+    {
       "code": "806005",
       "date": "2026-08-29",
       "time": "19:00",
@@ -1113,16 +1083,6 @@
       "team2": "RB UNION LIEGE B (+ 10)",
       "category": "PROVINCIALE MM - POULE F",
       "location": "RBC STAVELOT A",
-      "other": ""
-    },
-    {
-      "code": "823002",
-      "date": "2026-08-16",
-      "time": "13:00",
-      "team1": "RBC DISON-ANDRIMONT C",
-      "team2": "RBC STAVELOT C",
-      "category": "PROVINCIALE MM - POULE W",
-      "location": "RBC DISON-ANDRIMONT C",
       "other": ""
     },
     {
@@ -1137,8 +1097,8 @@
     },
     {
       "code": "806001",
-      "date": "2026-08-15",
-      "time": "19:00",
+      "date": "2026-08-26",
+      "time": "20:30",
       "team1": "RBC STAVELOT A",
       "team2": "R REN. MONTEGNEE B (+ 15)",
       "category": "R REN. MONTEGNEE B (+ 15)",

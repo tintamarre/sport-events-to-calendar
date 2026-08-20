@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "AW211001",
-      "date": "2026-08-16",
-      "time": "15:00",
-      "team1": "CRISTAL SGH (+ 5)",
-      "team2": "ROYAL BC NINANE",
-      "category": "AWBB MM - POULE K",
-      "location": "CRISTAL SGH (+ 5)",
-      "other": ""
-    },
-    {
       "code": "AW211003",
       "date": "2026-08-22",
       "time": "20:30",
@@ -36,16 +26,6 @@
       "other": ""
     },
     {
-      "code": "AW61",
-      "date": "2026-08-16",
-      "time": "18:00",
-      "team1": "CROONEN LOMMEL",
-      "team2": "ROYAL BC NINANE",
-      "category": "BELGIQUE MM - POULE G",
-      "location": "CROONEN LOMMEL",
-      "other": "BNAHSEPGAC"
-    },
-    {
       "code": "AW29",
       "date": "2026-08-23",
       "time": "17:15",
@@ -64,16 +44,6 @@
       "category": "BELGIQUE MM - POULE G",
       "location": "ROYAL BC NINANE",
       "other": "BNAHSEPGCB"
-    },
-    {
-      "code": "AW61",
-      "date": "2026-08-16",
-      "time": "18:00",
-      "team1": "CROONEN LOMMEL",
-      "team2": "ROYAL BC NINANE",
-      "category": "BNAHSEPGAC",
-      "location": "CROONEN LOMMEL",
-      "other": ""
     },
     {
       "code": "AW29",
@@ -97,8 +67,8 @@
     },
     {
       "code": "AW241008",
-      "date": "2026-08-23",
-      "time": "13:45",
+      "date": "2026-09-06",
+      "time": "11:00",
       "team1": "ROYAL WATERLOO",
       "team2": "ROYAL BC NINANE",
       "category": "COUPE AWBB U21 - GARCONS",
@@ -1496,16 +1466,6 @@
       "other": ""
     },
     {
-      "code": "905002",
-      "date": "2026-08-16",
-      "time": "14:00",
-      "team1": "ROYAL BC NINANE B (+ 5)",
-      "team2": "HENRI-CHAPELLE B",
-      "category": "PROVINCIALE DD - POULE E",
-      "location": "ROYAL BC NINANE B (+ 5)",
-      "other": ""
-    },
-    {
       "code": "905004",
       "date": "2026-08-22",
       "time": "17:00",
@@ -1526,16 +1486,6 @@
       "other": ""
     },
     {
-      "code": "907003",
-      "date": "2026-08-22",
-      "time": "19:00",
-      "team1": "ROYAL BC NINANE A",
-      "team2": "DF BC MALMEDY (+ 5)",
-      "category": "PROVINCIALE DD - POULE G",
-      "location": "ROYAL BC NINANE A",
-      "other": ""
-    },
-    {
       "code": "907005",
       "date": "2026-08-30",
       "time": "11:00",
@@ -1546,16 +1496,6 @@
       "other": ""
     },
     {
-      "code": "828002",
-      "date": "2026-08-16",
-      "time": "11:30",
-      "team1": "HARIMALIA BC D",
-      "team2": "ROYAL BC NINANE E",
-      "category": "PROVINCIALE MM - POULE BB",
-      "location": "HARIMALIA BC D",
-      "other": ""
-    },
-    {
       "code": "828005",
       "date": "2026-08-30",
       "time": "17:00",
@@ -1563,16 +1503,6 @@
       "team2": "ROYAL BC NINANE E (+ 10)",
       "category": "PROVINCIALE MM - POULE BB",
       "location": "LA VILLERSOISE A",
-      "other": ""
-    },
-    {
-      "code": "804002",
-      "date": "2026-08-16",
-      "time": "11:00",
-      "team1": "THEUX BC C (+ 5)",
-      "team2": "ROYAL BC NINANE C",
-      "category": "PROVINCIALE MM - POULE D",
-      "location": "THEUX BC C (+ 5)",
       "other": ""
     },
     {
@@ -1596,13 +1526,13 @@
       "other": ""
     },
     {
-      "code": "NAHSE21BFM",
+      "code": "NAHSE21BMF",
       "date": "2026-09-05",
       "time": "19:00",
-      "team1": "ROYAL BC NINANE",
-      "team2": "BC SPRIMONT A",
+      "team1": "BC SPRIMONT A",
+      "team2": "ROYAL BC NINANE",
       "category": "TOP DIVISION MEN 2 B",
-      "location": "ROYAL BC NINANE",
+      "location": "BC SPRIMONT A",
       "other": ""
     },
     {
@@ -1736,13 +1666,13 @@
       "other": ""
     },
     {
-      "code": "NAHSE21BMF",
-      "date": "2027-01-16",
-      "time": "19:00",
-      "team1": "BC SPRIMONT A",
-      "team2": "ROYAL BC NINANE",
+      "code": "NAHSE21BFM",
+      "date": "2027-01-17",
+      "time": "18:00",
+      "team1": "ROYAL BC NINANE",
+      "team2": "BC SPRIMONT A",
       "category": "TOP DIVISION MEN 2 B",
-      "location": "BC SPRIMONT A",
+      "location": "ROYAL BC NINANE",
       "other": ""
     },
     {

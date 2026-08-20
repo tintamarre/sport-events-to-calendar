@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-13T22:19:56.672Z",
+  "lastUpdated": "2026-08-20T22:10:12.843Z",
   "clubs": [
     {
       "id": "709",
@@ -272,6 +272,7 @@
       "categories": [
         "AWBB DD - POULE E",
         "AWBB MM - POULE J",
+        "COUPE AWBB U16 - GARCONS",
         "COUPE AWBB U18 - GARCONS",
         "CPE PROV CADETS",
         "CPE PROV CADETTES",
@@ -321,6 +322,7 @@
       "icsFiles": {
         "AWBB DD - POULE E": "/data/57-atlas-a-jupille/awbb-dd-poule-e.ics",
         "AWBB MM - POULE J": "/data/57-atlas-a-jupille/awbb-mm-poule-j.ics",
+        "COUPE AWBB U16 - GARCONS": "/data/57-atlas-a-jupille/coupe-awbb-u16-garcons.ics",
         "COUPE AWBB U18 - GARCONS": "/data/57-atlas-a-jupille/coupe-awbb-u18-garcons.ics",
         "CPE PROV CADETS": "/data/57-atlas-a-jupille/cpe-prov-cadets.ics",
         "CPE PROV CADETTES": "/data/57-atlas-a-jupille/cpe-prov-cadettes.ics",
@@ -442,6 +444,7 @@
         "AWBB DD - POULE H",
         "COUPE AWBB U12 -GARCONS",
         "COUPE AWBB U14 - GARCONS",
+        "COUPE AWBB U16 - GARCONS",
         "CPE PROV CADETS",
         "CPE PROV PUPILLES MM",
         "DD - DIVISION 1",
@@ -498,6 +501,7 @@
         "AWBB DD - POULE H": "/data/1058-bc-belleflamme/awbb-dd-poule-h.ics",
         "COUPE AWBB U12 -GARCONS": "/data/1058-bc-belleflamme/coupe-awbb-u12-garcons.ics",
         "COUPE AWBB U14 - GARCONS": "/data/1058-bc-belleflamme/coupe-awbb-u14-garcons.ics",
+        "COUPE AWBB U16 - GARCONS": "/data/1058-bc-belleflamme/coupe-awbb-u16-garcons.ics",
         "CPE PROV CADETS": "/data/1058-bc-belleflamme/cpe-prov-cadets.ics",
         "CPE PROV PUPILLES MM": "/data/1058-bc-belleflamme/cpe-prov-pupilles-mm.ics",
         "DD - DIVISION 1": "/data/1058-bc-belleflamme/dd-division-1.ics",
@@ -1827,6 +1831,7 @@
         "AWBB MM - POULE M",
         "COUPE AWBB U14 - GARCONS",
         "COUPE AWBB U16 - FILLES",
+        "COUPE AWBB U16 - GARCONS",
         "CPE PROV CADETS",
         "CPE PROV MINIMES MM",
         "CPE PROV PUPILLES DD",
@@ -1874,6 +1879,7 @@
         "AWBB MM - POULE M": "/data/1377-henri-chapelle/awbb-mm-poule-m.ics",
         "COUPE AWBB U14 - GARCONS": "/data/1377-henri-chapelle/coupe-awbb-u14-garcons.ics",
         "COUPE AWBB U16 - FILLES": "/data/1377-henri-chapelle/coupe-awbb-u16-filles.ics",
+        "COUPE AWBB U16 - GARCONS": "/data/1377-henri-chapelle/coupe-awbb-u16-garcons.ics",
         "CPE PROV CADETS": "/data/1377-henri-chapelle/cpe-prov-cadets.ics",
         "CPE PROV MINIMES MM": "/data/1377-henri-chapelle/cpe-prov-minimes-mm.ics",
         "CPE PROV PUPILLES DD": "/data/1377-henri-chapelle/cpe-prov-pupilles-dd.ics",
@@ -1921,6 +1927,7 @@
       "slug": "2558-la-villersoise",
       "categories": [
         "COUPE AWBB U12 -GARCONS",
+        "COUPE AWBB U16 - FILLES",
         "COUPE AWBB U16 - GARCONS",
         "COUPE AWBB U18 - GARCONS",
         "CPE PROV CADETS",
@@ -1975,6 +1982,7 @@
       "csvPath": "/data/2558-la-villersoise/2558-la-villersoise.csv",
       "icsFiles": {
         "COUPE AWBB U12 -GARCONS": "/data/2558-la-villersoise/coupe-awbb-u12-garcons.ics",
+        "COUPE AWBB U16 - FILLES": "/data/2558-la-villersoise/coupe-awbb-u16-filles.ics",
         "COUPE AWBB U16 - GARCONS": "/data/2558-la-villersoise/coupe-awbb-u16-garcons.ics",
         "COUPE AWBB U18 - GARCONS": "/data/2558-la-villersoise/coupe-awbb-u18-garcons.ics",
         "CPE PROV CADETS": "/data/2558-la-villersoise/cpe-prov-cadets.ics",
@@ -3386,6 +3394,7 @@
       "categories": [
         "AWBB DD - POULE D",
         "COUPE AWBB U14 - GARCONS",
+        "COUPE AWBB U16 - GARCONS",
         "DD - DIVISION 1",
         "DD - DIVISION 2 A",
         "DD - DIVISION 2 B",
@@ -3426,6 +3435,7 @@
       "icsFiles": {
         "AWBB DD - POULE D": "/data/1034-rbc-haneffe/awbb-dd-poule-d.ics",
         "COUPE AWBB U14 - GARCONS": "/data/1034-rbc-haneffe/coupe-awbb-u14-garcons.ics",
+        "COUPE AWBB U16 - GARCONS": "/data/1034-rbc-haneffe/coupe-awbb-u16-garcons.ics",
         "DD - DIVISION 1": "/data/1034-rbc-haneffe/dd-division-1.ics",
         "DD - DIVISION 2 A": "/data/1034-rbc-haneffe/dd-division-2-a.ics",
         "DD - DIVISION 2 B": "/data/1034-rbc-haneffe/dd-division-2-b.ics",
@@ -3537,6 +3547,7 @@
         "COUPE AWBB U14 - GARCONS",
         "COUPE AWBB U16 - GARCONS",
         "COUPE AWBB U18 - GARCONS",
+        "COUPE AWBB U21 - GARCONS",
         "CPE PROV CADETS",
         "CPE PROV PUPILLES MM",
         "DD - DIVISION 2 A",
@@ -3596,6 +3607,7 @@
         "COUPE AWBB U14 - GARCONS": "/data/1245-rbc-vise/coupe-awbb-u14-garcons.ics",
         "COUPE AWBB U16 - GARCONS": "/data/1245-rbc-vise/coupe-awbb-u16-garcons.ics",
         "COUPE AWBB U18 - GARCONS": "/data/1245-rbc-vise/coupe-awbb-u18-garcons.ics",
+        "COUPE AWBB U21 - GARCONS": "/data/1245-rbc-vise/coupe-awbb-u21-garcons.ics",
         "CPE PROV CADETS": "/data/1245-rbc-vise/cpe-prov-cadets.ics",
         "CPE PROV PUPILLES MM": "/data/1245-rbc-vise/cpe-prov-pupilles-mm.ics",
         "DD - DIVISION 2 A": "/data/1245-rbc-vise/dd-division-2-a.ics",

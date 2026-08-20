@@ -8,7 +8,7 @@
     {
       "code": "AW244003",
       "date": "2026-08-22",
-      "time": "13:00",
+      "time": "15:00",
       "team1": "RBC VISE",
       "team2": "BC SAINT-HUBERT",
       "category": "COUPE AWBB U14 - GARCONS",
@@ -33,6 +33,16 @@
       "team2": "RBC VISE",
       "category": "COUPE AWBB U18 - GARCONS",
       "location": "R 4A AYWAILLE-HAMOIR",
+      "other": ""
+    },
+    {
+      "code": "AW241044",
+      "date": "2026-09-26",
+      "time": "13:00",
+      "team1": "RBC VISE",
+      "team2": "AW241024",
+      "category": "COUPE AWBB U21 - GARCONS",
+      "location": "RBC VISE",
       "other": ""
     },
     {
@@ -546,6 +556,16 @@
       "other": ""
     },
     {
+      "code": "402305",
+      "date": "2026-09-27",
+      "time": "11:30",
+      "team1": "ROYAL MOSA AC 1941 A",
+      "team2": "RBC VISE A",
+      "category": "MM - DIVISION 2 A",
+      "location": "ROYAL MOSA AC 1941 A",
+      "other": ""
+    },
+    {
       "code": "402054",
       "date": "2026-10-03",
       "time": "19:00",
@@ -638,7 +658,7 @@
     {
       "code": "402162",
       "date": "2026-12-19",
-      "time": "19:00",
+      "time": "17:00",
       "team1": "RBC VISE A",
       "team2": "PEPINSTER EAST BELG C",
       "category": "MM - DIVISION 2 A",
@@ -733,16 +753,6 @@
       "team2": "RBC VISE A",
       "category": "MM - DIVISION 2 A",
       "location": "PRAYON TROOZ A",
-      "other": ""
-    },
-    {
-      "code": "402305",
-      "date": "2027-04-04",
-      "time": "11:30",
-      "team1": "ROYAL MOSA AC 1941 A",
-      "team2": "RBC VISE A",
-      "category": "MM - DIVISION 2 A",
-      "location": "ROYAL MOSA AC 1941 A",
       "other": ""
     },
     {
@@ -898,7 +908,7 @@
     {
       "code": "403162",
       "date": "2026-12-19",
-      "time": "17:00",
+      "time": "19:00",
       "team1": "RBC VISE B",
       "team2": "HARIMALIA BC A",
       "category": "MM - DIVISION 2 B",
@@ -958,7 +968,7 @@
     {
       "code": "403252",
       "date": "2027-02-20",
-      "time": "17:00",
+      "time": "21:00",
       "team1": "RBC VISE B",
       "team2": "BC VERVIERS C",
       "category": "MM - DIVISION 2 B",
@@ -1228,7 +1238,7 @@
     {
       "code": "405251",
       "date": "2027-02-20",
-      "time": "21:00",
+      "time": "17:00",
       "team1": "RBC VISE C",
       "team2": "ROYAL BC WANZE B",
       "category": "MM - DIVISION 3 B",
@@ -1516,16 +1526,6 @@
       "other": ""
     },
     {
-      "code": "911002",
-      "date": "2026-08-15",
-      "time": "19:00",
-      "team1": "RBC VISE B (+ 5)",
-      "team2": "R.UN.BELLAIRE B",
-      "category": "PROVINCIALE DD - POULE K",
-      "location": "RBC VISE B (+ 5)",
-      "other": ""
-    },
-    {
       "code": "911004",
       "date": "2026-08-23",
       "time": "15:00",
@@ -1566,16 +1566,6 @@
       "other": ""
     },
     {
-      "code": "810002",
-      "date": "2026-08-16",
-      "time": "15:00",
-      "team1": "RBC VISE C",
-      "team2": "RB TILFF C",
-      "category": "PROVINCIALE MM - POULE J",
-      "location": "RBC VISE C",
-      "other": ""
-    },
-    {
       "code": "810004",
       "date": "2026-08-22",
       "time": "17:00",
@@ -1593,16 +1583,6 @@
       "team2": "RBC VISE C",
       "category": "PROVINCIALE MM - POULE J",
       "location": "RBC AWANS B (+ 5)",
-      "other": ""
-    },
-    {
-      "code": "819002",
-      "date": "2026-08-16",
-      "time": "17:00",
-      "team1": "RBC VISE D (+ 5)",
-      "team2": "BBC EUPEN A",
-      "category": "PROVINCIALE MM - POULE S",
-      "location": "RBC VISE D (+ 5)",
       "other": ""
     },
     {

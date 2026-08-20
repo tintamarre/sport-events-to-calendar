@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "AW216003",
-      "date": "2026-08-15",
-      "time": "18:00",
-      "team1": "ROYAL GALLIA BEEZ B (+ 5)",
-      "team2": "ESL UNITED B",
-      "category": "AWBB MM - POULE P",
-      "location": "ROYAL GALLIA BEEZ B (+ 5)",
-      "other": ""
-    },
-    {
       "code": "AW216005",
       "date": "2026-08-28",
       "time": "21:00",
@@ -28,11 +18,21 @@
     {
       "code": "AW243027",
       "date": "2026-08-22",
-      "time": "14:30",
+      "time": "12:00",
       "team1": "DPK CARNIERES A",
       "team2": "ESL UNITED B",
       "category": "COUPE AWBB U16 - GARCONS",
       "location": "DPK CARNIERES A",
+      "other": ""
+    },
+    {
+      "code": "AW243012",
+      "date": "2026-08-23",
+      "time": "18:00",
+      "team1": "ESL UNITED A",
+      "team2": "BC CENTRE GAUME",
+      "category": "COUPE AWBB U16 - GARCONS",
+      "location": "ESL UNITED A",
       "other": ""
     },
     {
@@ -217,8 +217,8 @@
     },
     {
       "code": "401225",
-      "date": "2027-01-29",
-      "time": "19:00",
+      "date": "2027-01-31",
+      "time": "12:00",
       "team1": "ESL UNITED C",
       "team2": "RB UNION LIEGE A",
       "category": "MM - DIVISION 1",
@@ -1636,16 +1636,6 @@
       "other": ""
     },
     {
-      "code": "829002",
-      "date": "2026-08-16",
-      "time": "13:00",
-      "team1": "CRISTAL SGH C (+ 5)",
-      "team2": "ESL UNITED F",
-      "category": "PROVINCIALE MM - POULE CC",
-      "location": "CRISTAL SGH C (+ 5)",
-      "other": ""
-    },
-    {
       "code": "829005",
       "date": "2026-08-29",
       "time": "21:00",
@@ -1653,16 +1643,6 @@
       "team2": "ESL UNITED F (+ 5)",
       "category": "PROVINCIALE MM - POULE CC",
       "location": "RBC DISON-ANDRIMONT A",
-      "other": ""
-    },
-    {
-      "code": "813001",
-      "date": "2026-08-14",
-      "time": "19:00",
-      "team1": "ESL UNITED C",
-      "team2": "BC SPRIMONT E (+ 15)",
-      "category": "PROVINCIALE MM - POULE M",
-      "location": "ESL UNITED C",
       "other": ""
     },
     {

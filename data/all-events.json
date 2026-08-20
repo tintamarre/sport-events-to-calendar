@@ -1,16 +1,6 @@
 {
-  "lastUpdated": "2026-08-13T22:19:47.771057Z",
+  "lastUpdated": "2026-08-20T22:10:04.371650Z",
   "events": [
-    {
-      "code": "AW233001",
-      "date": "2026-08-16",
-      "time": "14:00",
-      "team1": "RBC ESNEUX",
-      "team2": "HENRI-CHAPELLE (+ 8)",
-      "category": "AWBB DD - POULE M",
-      "location": "RBC ESNEUX",
-      "other": ""
-    },
     {
       "code": "AW233005",
       "date": "2026-08-29",
@@ -982,16 +972,6 @@
       "other": ""
     },
     {
-      "code": "906001",
-      "date": "2026-08-15",
-      "time": "19:00",
-      "team1": "ROYAL HERVE-BATTICE C",
-      "team2": "RBC ESNEUX C (+ 10)",
-      "category": "PROVINCIALE DD - POULE F",
-      "location": "ROYAL HERVE-BATTICE C",
-      "other": ""
-    },
-    {
       "code": "906003",
       "date": "2026-08-23",
       "time": "15:00",
@@ -1009,16 +989,6 @@
       "team2": "R HT-PRE OUGREE B",
       "category": "PROVINCIALE DD - POULE F",
       "location": "RBC ESNEUX C",
-      "other": ""
-    },
-    {
-      "code": "912001",
-      "date": "2026-08-16",
-      "time": "12:00",
-      "team1": "RBC ESNEUX B",
-      "team2": "RBC BLEGNY C (+ 10)",
-      "category": "PROVINCIALE DD - POULE L",
-      "location": "RBC ESNEUX B",
       "other": ""
     },
     {
@@ -5283,8 +5253,8 @@
     },
     {
       "code": "407206",
-      "date": "2027-01-16",
-      "time": "20:00",
+      "date": "2027-01-17",
+      "time": "15:00",
       "team1": "BBC EUPEN B",
       "team2": "RABC ENSIVAL D",
       "category": "MM - DIVISION 4 A",
@@ -5382,16 +5352,6 @@
       "other": ""
     },
     {
-      "code": "911001",
-      "date": "2026-08-15",
-      "time": "17:00",
-      "team1": "RABC ENSIVAL A",
-      "team2": "RBC DISON-ANDRIMONT B (",
-      "category": "PROVINCIALE DD - POULE K",
-      "location": "RABC ENSIVAL A",
-      "other": ""
-    },
-    {
       "code": "911004",
       "date": "2026-08-23",
       "time": "15:00",
@@ -5412,16 +5372,6 @@
       "other": ""
     },
     {
-      "code": "801002",
-      "date": "2026-08-15",
-      "time": "19:00",
-      "team1": "RABC ENSIVAL B",
-      "team2": "ETOILE JUPILLE B",
-      "category": "PROVINCIALE MM - POULE A",
-      "location": "RABC ENSIVAL B",
-      "other": ""
-    },
-    {
       "code": "801004",
       "date": "2026-08-23",
       "time": "11:00",
@@ -5439,16 +5389,6 @@
       "team2": "RABC ENSIVAL B",
       "category": "PROVINCIALE MM - POULE A",
       "location": "RBC WELKENRAEDT B (+ 5)",
-      "other": ""
-    },
-    {
-      "code": "831002",
-      "date": "2026-08-15",
-      "time": "21:00",
-      "team1": "RABC ENSIVAL D",
-      "team2": "RBC BLEGNY C",
-      "category": "PROVINCIALE MM - POULE EE",
-      "location": "RABC ENSIVAL D",
       "other": ""
     },
     {
@@ -5478,16 +5418,6 @@
       "team1": "RABC ENSIVAL A",
       "team2": "RBC HANEFFE B (+ 10)",
       "category": "PROVINCIALE MM - POULE FF",
-      "location": "RABC ENSIVAL A",
-      "other": ""
-    },
-    {
-      "code": "911001",
-      "date": "2026-08-15",
-      "time": "17:00",
-      "team1": "RABC ENSIVAL A",
-      "team2": "RBC DISON-ANDRIMONT B (+ 10)",
-      "category": "RBC DISON-ANDRIMONT B (+ 10)",
       "location": "RABC ENSIVAL A",
       "other": ""
     },
@@ -7782,16 +7712,6 @@
       "other": ""
     },
     {
-      "code": "912002",
-      "date": "2026-08-16",
-      "time": "11:00",
-      "team1": "R REN. MONTEGNEE A (+ 5)",
-      "team2": "CRISTAL SGH A",
-      "category": "PROVINCIALE DD - POULE L",
-      "location": "R REN. MONTEGNEE A (+ 5)",
-      "other": ""
-    },
-    {
       "code": "912006",
       "date": "2026-08-29",
       "time": "18:00",
@@ -7802,16 +7722,6 @@
       "other": ""
     },
     {
-      "code": "806001",
-      "date": "2026-08-15",
-      "time": "19:00",
-      "team1": "RBC STAVELOT A",
-      "team2": "R REN. MONTEGNEE B (+ 15)",
-      "category": "PROVINCIALE MM - POULE F",
-      "location": "RBC STAVELOT A",
-      "other": ""
-    },
-    {
       "code": "806003",
       "date": "2026-08-23",
       "time": "13:00",
@@ -7819,6 +7729,16 @@
       "team2": "RB UNION LIEGE B",
       "category": "PROVINCIALE MM - POULE F",
       "location": "R REN. MONTEGNEE B (+ 5)",
+      "other": ""
+    },
+    {
+      "code": "806001",
+      "date": "2026-08-26",
+      "time": "20:30",
+      "team1": "RBC STAVELOT A",
+      "team2": "R REN. MONTEGNEE B (+ 15)",
+      "category": "PROVINCIALE MM - POULE F",
+      "location": "RBC STAVELOT A",
       "other": ""
     },
     {
@@ -7833,8 +7753,8 @@
     },
     {
       "code": "806001",
-      "date": "2026-08-15",
-      "time": "19:00",
+      "date": "2026-08-26",
+      "time": "20:30",
       "team1": "RBC STAVELOT A",
       "team2": "R REN. MONTEGNEE B (+ 15)",
       "category": "R REN. MONTEGNEE B (+ 15)",
@@ -8669,16 +8589,6 @@
       "team2": "R REN. MONTEGNEE",
       "category": "U 8 - MM F",
       "location": "ALL. FLEMALLE B",
-      "other": ""
-    },
-    {
-      "code": "AW203001",
-      "date": "2026-08-14",
-      "time": "21:00",
-      "team1": "ETOILE JUPILLE (+ 5)",
-      "team2": "ROYAL SPA BC",
-      "category": "AWBB MM - POULE C",
-      "location": "ETOILE JUPILLE (+ 5)",
       "other": ""
     },
     {
@@ -9812,16 +9722,6 @@
       "other": ""
     },
     {
-      "code": "905001",
-      "date": "2026-08-16",
-      "time": "13:00",
-      "team1": "R.UN.BELLAIRE A",
-      "team2": "ETOILE JUPILLE (+ 10)",
-      "category": "PROVINCIALE DD - POULE E",
-      "location": "R.UN.BELLAIRE A",
-      "other": ""
-    },
-    {
       "code": "905003",
       "date": "2026-08-23",
       "time": "13:00",
@@ -9862,26 +9762,6 @@
       "other": ""
     },
     {
-      "code": "805001",
-      "date": "2026-08-16",
-      "time": "13:00",
-      "team1": "ETOILE JUPILLE A",
-      "team2": "DF BC MALMEDY (+ 15)",
-      "category": "PROVINCIALE MM - POULE E",
-      "location": "ETOILE JUPILLE A",
-      "other": ""
-    },
-    {
-      "code": "805004",
-      "date": "2026-08-19",
-      "time": "21:00",
-      "team1": "HARIMALIA BC B (+ 10)",
-      "team2": "ETOILE JUPILLE A",
-      "category": "PROVINCIALE MM - POULE E",
-      "location": "HARIMALIA BC B (+ 10)",
-      "other": ""
-    },
-    {
       "code": "805005",
       "date": "2026-08-30",
       "time": "13:00",
@@ -9889,16 +9769,6 @@
       "team2": "RBC STAVELOT B (+ 10)",
       "category": "PROVINCIALE MM - POULE E",
       "location": "ETOILE JUPILLE A",
-      "other": ""
-    },
-    {
-      "code": "820002",
-      "date": "2026-08-16",
-      "time": "11:00",
-      "team1": "ETOILE JUPILLE C (+ 5)",
-      "team2": "ROYALE US AWANS A",
-      "category": "PROVINCIALE MM - POULE T",
-      "location": "ETOILE JUPILLE C (+ 5)",
       "other": ""
     },
     {
@@ -10732,16 +10602,6 @@
       "other": ""
     },
     {
-      "code": "AW216003",
-      "date": "2026-08-15",
-      "time": "18:00",
-      "team1": "ROYAL GALLIA BEEZ B (+ 5)",
-      "team2": "ESL UNITED B",
-      "category": "AWBB MM - POULE P",
-      "location": "ROYAL GALLIA BEEZ B (+ 5)",
-      "other": ""
-    },
-    {
       "code": "AW216005",
       "date": "2026-08-28",
       "time": "21:00",
@@ -10754,11 +10614,21 @@
     {
       "code": "AW243027",
       "date": "2026-08-22",
-      "time": "14:30",
+      "time": "12:00",
       "team1": "DPK CARNIERES A",
       "team2": "ESL UNITED B",
       "category": "COUPE AWBB U16 - GARCONS",
       "location": "DPK CARNIERES A",
+      "other": ""
+    },
+    {
+      "code": "AW243012",
+      "date": "2026-08-23",
+      "time": "18:00",
+      "team1": "ESL UNITED A",
+      "team2": "BC CENTRE GAUME",
+      "category": "COUPE AWBB U16 - GARCONS",
+      "location": "ESL UNITED A",
       "other": ""
     },
     {
@@ -10923,8 +10793,8 @@
     },
     {
       "code": "401225",
-      "date": "2027-01-29",
-      "time": "19:00",
+      "date": "2027-01-31",
+      "time": "12:00",
       "team1": "ESL UNITED C",
       "team2": "RB UNION LIEGE A",
       "category": "MM - DIVISION 1",
@@ -12282,16 +12152,6 @@
       "other": ""
     },
     {
-      "code": "829002",
-      "date": "2026-08-16",
-      "time": "13:00",
-      "team1": "CRISTAL SGH C (+ 5)",
-      "team2": "ESL UNITED F",
-      "category": "PROVINCIALE MM - POULE CC",
-      "location": "CRISTAL SGH C (+ 5)",
-      "other": ""
-    },
-    {
       "code": "829005",
       "date": "2026-08-29",
       "time": "21:00",
@@ -12299,16 +12159,6 @@
       "team2": "ESL UNITED F (+ 5)",
       "category": "PROVINCIALE MM - POULE CC",
       "location": "RBC DISON-ANDRIMONT A",
-      "other": ""
-    },
-    {
-      "code": "813001",
-      "date": "2026-08-14",
-      "time": "19:00",
-      "team1": "ESL UNITED C",
-      "team2": "BC SPRIMONT E (+ 15)",
-      "category": "PROVINCIALE MM - POULE M",
-      "location": "ESL UNITED C",
       "other": ""
     },
     {
@@ -12852,16 +12702,6 @@
       "other": ""
     },
     {
-      "code": "AW224002",
-      "date": "2026-08-15",
-      "time": "21:00",
-      "team1": "RBC HANEFFE ( + 5)",
-      "team2": "PEPINSTER EAST BELG",
-      "category": "AWBB DD - POULE D",
-      "location": "RBC HANEFFE ( + 5)",
-      "other": ""
-    },
-    {
       "code": "AW224004",
       "date": "2026-08-23",
       "time": "11:00",
@@ -12879,16 +12719,6 @@
       "team2": "PEPINSTER EAST BELG (+ 8)",
       "category": "AWBB DD - POULE D",
       "location": "LIEGE PANTHERS A",
-      "other": ""
-    },
-    {
-      "code": "AW205001",
-      "date": "2026-08-14",
-      "time": "21:00",
-      "team1": "HANNUT BC (+ 5)",
-      "team2": "PEPINSTER EAST BELG",
-      "category": "AWBB MM - POULE E",
-      "location": "HANNUT BC (+ 5)",
       "other": ""
     },
     {
@@ -12910,16 +12740,6 @@
       "category": "AWBB MM - POULE E",
       "location": "PEPINSTER EAST BELG",
       "other": ""
-    },
-    {
-      "code": "AW32",
-      "date": "2026-08-14",
-      "time": "21:00",
-      "team1": "HASSELT BT",
-      "team2": "PEPINSTER EAST BELG",
-      "category": "BELGIQUE MM - POULE J",
-      "location": "HASSELT BT",
-      "other": "BNAHSEPJBC"
     },
     {
       "code": "AW64",
@@ -12952,16 +12772,6 @@
       "other": ""
     },
     {
-      "code": "AW32",
-      "date": "2026-08-14",
-      "time": "21:00",
-      "team1": "HASSELT BT",
-      "team2": "PEPINSTER EAST BELG",
-      "category": "BNAHSEPJBC",
-      "location": "HASSELT BT",
-      "other": ""
-    },
-    {
       "code": "AW84",
       "date": "2026-08-29",
       "time": "19:00",
@@ -12989,16 +12799,6 @@
       "team2": "PEPINSTER EAST BELG",
       "category": "COUPE AWBB U19 - FILLES",
       "location": "BBC LEUZE",
-      "other": ""
-    },
-    {
-      "code": "206",
-      "date": "2026-08-14",
-      "time": "20:30",
-      "team1": "PEPINSTER EAST BELG",
-      "team2": "BASKET ZONHOVEN",
-      "category": "CPE BELG DAMES",
-      "location": "PEPINSTER EAST BELG",
       "other": ""
     },
     {
@@ -13634,7 +13434,7 @@
     {
       "code": "402162",
       "date": "2026-12-19",
-      "time": "19:00",
+      "time": "17:00",
       "team1": "RBC VISE A",
       "team2": "PEPINSTER EAST BELG C",
       "category": "MM - DIVISION 2 A",
@@ -14212,16 +14012,6 @@
       "other": ""
     },
     {
-      "code": "902002",
-      "date": "2026-08-15",
-      "time": "17:00",
-      "team1": "R 4A AYWAILLE-HAMOIR A",
-      "team2": "PEPINSTER EAST BELG B",
-      "category": "PROVINCIALE DD - POULE B",
-      "location": "R 4A AYWAILLE-HAMOIR A",
-      "other": ""
-    },
-    {
       "code": "902003",
       "date": "2026-08-23",
       "time": "13:00",
@@ -14242,16 +14032,6 @@
       "other": ""
     },
     {
-      "code": "807002",
-      "date": "2026-08-15",
-      "time": "19:00",
-      "team1": "LA VILLERSOISE B (+ 5)",
-      "team2": "PEPINSTER EAST BELG C",
-      "category": "PROVINCIALE MM - POULE G",
-      "location": "LA VILLERSOISE B (+ 5)",
-      "other": ""
-    },
-    {
       "code": "807003",
       "date": "2026-08-23",
       "time": "17:00",
@@ -14269,16 +14049,6 @@
       "team2": "PEPINSTER EAST BELG C (+",
       "category": "PROVINCIALE MM - POULE G",
       "location": "ABC WAREMME A",
-      "other": ""
-    },
-    {
-      "code": "815002",
-      "date": "2026-08-16",
-      "time": "13:30",
-      "team1": "ROYAL MOSA AC 1941 B",
-      "team2": "PEPINSTER EAST BELG D",
-      "category": "PROVINCIALE MM - POULE O",
-      "location": "ROYAL MOSA AC 1941 B",
       "other": ""
     },
     {
@@ -15132,16 +14902,6 @@
       "other": ""
     },
     {
-      "code": "503021",
-      "date": "2026-09-13",
-      "time": "15:30",
-      "team1": "BC SPRIMONT B",
-      "team2": "PEPINSTER EAST BELG B",
-      "category": "U 12 - MM D",
-      "location": "BC SPRIMONT B",
-      "other": ""
-    },
-    {
       "code": "503034",
       "date": "2026-09-19",
       "time": "12:30",
@@ -15169,6 +14929,16 @@
       "team2": "PEPINSTER EAST BELG B",
       "category": "U 12 - MM D",
       "location": "RBC HANEFFE",
+      "other": ""
+    },
+    {
+      "code": "503021",
+      "date": "2026-10-17",
+      "time": "10:30",
+      "team1": "BC SPRIMONT B",
+      "team2": "PEPINSTER EAST BELG B",
+      "category": "U 12 - MM D",
+      "location": "BC SPRIMONT B",
       "other": ""
     },
     {
@@ -15663,7 +15433,7 @@
     },
     {
       "code": "490023",
-      "date": "2026-09-12",
+      "date": "2026-09-13",
       "time": "11:00",
       "team1": "PEPINSTER EAST BELG B",
       "team2": "HARIMALIA BC",
@@ -18532,46 +18302,6 @@
       "other": ""
     },
     {
-      "code": "908001",
-      "date": "2026-08-14",
-      "time": "20:00",
-      "team1": "RBC BLEGNY A",
-      "team2": "R 4A AYWAILLE-HAMOIR B (",
-      "category": "PROVINCIALE DD - POULE H",
-      "location": "RBC BLEGNY A",
-      "other": ""
-    },
-    {
-      "code": "908003",
-      "date": "2026-08-22",
-      "time": "21:00",
-      "team1": "PRAYON TROOZ A",
-      "team2": "R 4A AYWAILLE-HAMOIR B (",
-      "category": "PROVINCIALE DD - POULE H",
-      "location": "PRAYON TROOZ A",
-      "other": ""
-    },
-    {
-      "code": "908006",
-      "date": "2026-08-29",
-      "time": "19:00",
-      "team1": "R 4A AYWAILLE-HAMOIR B",
-      "team2": "ATLAS A JUPILLE B",
-      "category": "PROVINCIALE DD - POULE H",
-      "location": "R 4A AYWAILLE-HAMOIR B",
-      "other": ""
-    },
-    {
-      "code": "814002",
-      "date": "2026-08-15",
-      "time": "19:00",
-      "team1": "R 4A AYWAILLE-HAMOIR B",
-      "team2": "R.UN.BELLAIRE B",
-      "category": "PROVINCIALE MM - POULE N",
-      "location": "R 4A AYWAILLE-HAMOIR B",
-      "other": ""
-    },
-    {
       "code": "814004",
       "date": "2026-08-20",
       "time": "21:00",
@@ -18589,16 +18319,6 @@
       "team2": "R 4A AYWAILLE-HAMOIR B",
       "category": "PROVINCIALE MM - POULE N",
       "location": "BCM HERSTAL B (+ 5)",
-      "other": ""
-    },
-    {
-      "code": "817002",
-      "date": "2026-08-15",
-      "time": "19:30",
-      "team1": "THUNDER CONDROZ",
-      "team2": "R 4A AYWAILLE-HAMOIR C",
-      "category": "PROVINCIALE MM - POULE Q",
-      "location": "THUNDER CONDROZ",
       "other": ""
     },
     {
@@ -18639,26 +18359,6 @@
       "team2": "ROYALE US AWANS B (+ 10)",
       "category": "PROVINCIALE MM - POULE X",
       "location": "R 4A AYWAILLE-HAMOIR A",
-      "other": ""
-    },
-    {
-      "code": "908001",
-      "date": "2026-08-14",
-      "time": "20:00",
-      "team1": "RBC BLEGNY A",
-      "team2": "R 4A AYWAILLE-HAMOIR B (+ 10)",
-      "category": "R 4A AYWAILLE-HAMOIR B (+ 10)",
-      "location": "RBC BLEGNY A",
-      "other": ""
-    },
-    {
-      "code": "908003",
-      "date": "2026-08-22",
-      "time": "21:00",
-      "team1": "PRAYON TROOZ A",
-      "team2": "R 4A AYWAILLE-HAMOIR B (+ 5)",
-      "category": "R 4A AYWAILLE-HAMOIR B (+ 5)",
-      "location": "PRAYON TROOZ A",
       "other": ""
     },
     {
@@ -19114,12 +18814,12 @@
     {
       "code": "527156",
       "date": "2026-12-12",
-      "time": "13:00",
+      "time": "9:00",
       "team1": "R 4A AYWAILLE-HAMOIR B",
       "team2": "GIANTS BRAIVES A",
       "category": "U 10 - MM H",
       "location": "R 4A AYWAILLE-HAMOIR B",
-      "other": ""
+      "other": "(Ho Aywaille)"
     },
     {
       "code": "527162",
@@ -19364,12 +19064,12 @@
     {
       "code": "507306",
       "date": "2027-03-27",
-      "time": "13:00",
+      "time": "9:00",
       "team1": "R 4A AYWAILLE-HAMOIR",
       "team2": "GIANTS BRAIVES C",
       "category": "U 12 - MM H",
       "location": "R 4A AYWAILLE-HAMOIR",
-      "other": "(ho Hamoir rue du mouli"
+      "other": "(HO Aywaille)"
     },
     {
       "code": "507324",
@@ -19614,7 +19314,7 @@
     {
       "code": "471226",
       "date": "2027-01-30",
-      "time": "17:00",
+      "time": "15:00",
       "team1": "R 4A AYWAILLE-HAMOIR",
       "team2": "MARCHIN BASKET",
       "category": "U 16 - PROV MM B",
@@ -20872,16 +20572,6 @@
       "other": ""
     },
     {
-      "code": "AW213002",
-      "date": "2026-08-16",
-      "time": "15:00",
-      "team1": "BC OHEY",
-      "team2": "HENRI-CHAPELLE",
-      "category": "AWBB MM - POULE M",
-      "location": "BC OHEY",
-      "other": ""
-    },
-    {
       "code": "AW213004",
       "date": "2026-08-22",
       "time": "20:30",
@@ -20904,7 +20594,7 @@
     {
       "code": "AW244002",
       "date": "2026-08-22",
-      "time": "10:00",
+      "time": "12:00",
       "team1": "OLYMPIC MSM",
       "team2": "HENRI-CHAPELLE A",
       "category": "COUPE AWBB U14 - GARCONS",
@@ -20928,6 +20618,16 @@
       "team1": "HENRI-CHAPELLE",
       "team2": "REBOND OTTIGNIES",
       "category": "COUPE AWBB U16 - FILLES",
+      "location": "HENRI-CHAPELLE",
+      "other": ""
+    },
+    {
+      "code": "AW243004",
+      "date": "2026-08-23",
+      "time": "15:00",
+      "team1": "HENRI-CHAPELLE",
+      "team2": "BC MARCHE",
+      "category": "COUPE AWBB U16 - GARCONS",
       "location": "HENRI-CHAPELLE",
       "other": ""
     },
@@ -22362,26 +22062,6 @@
       "other": ""
     },
     {
-      "code": "902001",
-      "date": "2026-08-15",
-      "time": "18:30",
-      "team1": "HENRI-CHAPELLE A",
-      "team2": "PRAYON TROOZ D (+ 10)",
-      "category": "PROVINCIALE DD - POULE B",
-      "location": "HENRI-CHAPELLE A",
-      "other": ""
-    },
-    {
-      "code": "905002",
-      "date": "2026-08-16",
-      "time": "14:00",
-      "team1": "ROYAL BC NINANE B (+ 5)",
-      "team2": "HENRI-CHAPELLE B",
-      "category": "PROVINCIALE DD - POULE E",
-      "location": "ROYAL BC NINANE B (+ 5)",
-      "other": ""
-    },
-    {
       "code": "905005",
       "date": "2026-08-30",
       "time": "13:00",
@@ -22389,16 +22069,6 @@
       "team2": "HENRI-CHAPELLE B (+ 5)",
       "category": "PROVINCIALE DD - POULE E",
       "location": "R.UN.BELLAIRE A",
-      "other": ""
-    },
-    {
-      "code": "803001",
-      "date": "2026-08-13",
-      "time": "21:00",
-      "team1": "THEUX BC A",
-      "team2": "HENRI-CHAPELLE D (+ 15)",
-      "category": "PROVINCIALE MM - POULE C",
-      "location": "THEUX BC A",
       "other": ""
     },
     {
@@ -22419,16 +22089,6 @@
       "team2": "R HT-PRE OUGREE A",
       "category": "PROVINCIALE MM - POULE C",
       "location": "HENRI-CHAPELLE D (+ 5)",
-      "other": ""
-    },
-    {
-      "code": "814001",
-      "date": "2026-08-15",
-      "time": "20:30",
-      "team1": "HENRI-CHAPELLE A",
-      "team2": "BCM HERSTAL B (+ 15)",
-      "category": "PROVINCIALE MM - POULE N",
-      "location": "HENRI-CHAPELLE A",
       "other": ""
     },
     {
@@ -27132,16 +26792,6 @@
       "other": ""
     },
     {
-      "code": "AW225001",
-      "date": "2026-08-16",
-      "time": "13:00",
-      "team1": "ATLAS A JUPILLE (+ 15)",
-      "team2": "CASTORS BRAINE A",
-      "category": "AWBB DD - POULE E",
-      "location": "ATLAS A JUPILLE (+ 15)",
-      "other": ""
-    },
-    {
       "code": "AW225004",
       "date": "2026-08-23",
       "time": "13:00",
@@ -27162,16 +26812,6 @@
       "other": ""
     },
     {
-      "code": "AW210002",
-      "date": "2026-08-15",
-      "time": "21:00",
-      "team1": "ATLAS A JUPILLE",
-      "team2": "R LINTHOUT BC B",
-      "category": "AWBB MM - POULE J",
-      "location": "ATLAS A JUPILLE",
-      "other": ""
-    },
-    {
       "code": "AW210003",
       "date": "2026-08-22",
       "time": "21:00",
@@ -27189,6 +26829,16 @@
       "team2": "ATLAS A JUPILLE",
       "category": "AWBB MM - POULE J",
       "location": "UBC BINCHE",
+      "other": ""
+    },
+    {
+      "code": "AW243013",
+      "date": "2026-08-23",
+      "time": "17:00",
+      "team1": "BC BELLEFLAMME",
+      "team2": "ATLAS A JUPILLE",
+      "category": "COUPE AWBB U16 - GARCONS",
+      "location": "BC BELLEFLAMME",
       "other": ""
     },
     {
@@ -28082,16 +27732,6 @@
       "other": ""
     },
     {
-      "code": "908002",
-      "date": "2026-08-15",
-      "time": "17:00",
-      "team1": "ATLAS A JUPILLE B (+ 5)",
-      "team2": "PRAYON TROOZ A",
-      "category": "PROVINCIALE DD - POULE H",
-      "location": "ATLAS A JUPILLE B (+ 5)",
-      "other": ""
-    },
-    {
       "code": "908004",
       "date": "2026-08-22",
       "time": "19:00",
@@ -28099,16 +27739,6 @@
       "team2": "RBC BLEGNY A",
       "category": "PROVINCIALE DD - POULE H",
       "location": "ATLAS A JUPILLE B (+ 10)",
-      "other": ""
-    },
-    {
-      "code": "909001",
-      "date": "2026-08-15",
-      "time": "19:00",
-      "team1": "ATLAS A JUPILLE A",
-      "team2": "BC VERLAINE B (+ 10)",
-      "category": "PROVINCIALE DD - POULE I",
-      "location": "ATLAS A JUPILLE A",
       "other": ""
     },
     {
@@ -28128,16 +27758,6 @@
       "team1": "ATLAS A JUPILLE A",
       "team2": "RBC BLEGNY B (+ 5)",
       "category": "PROVINCIALE DD - POULE I",
-      "location": "ATLAS A JUPILLE A",
-      "other": ""
-    },
-    {
-      "code": "804001",
-      "date": "2026-08-16",
-      "time": "17:00",
-      "team1": "ATLAS A JUPILLE A",
-      "team2": "CRISTAL SGH B (+ 10)",
-      "category": "PROVINCIALE MM - POULE D",
       "location": "ATLAS A JUPILLE A",
       "other": ""
     },
@@ -28162,16 +27782,6 @@
       "other": ""
     },
     {
-      "code": "808002",
-      "date": "2026-08-16",
-      "time": "15:00",
-      "team1": "ATLAS A JUPILLE C",
-      "team2": "ROYAL HERVE-BATTICE B",
-      "category": "PROVINCIALE MM - POULE H",
-      "location": "ATLAS A JUPILLE C",
-      "other": ""
-    },
-    {
       "code": "808004",
       "date": "2026-08-23",
       "time": "13:00",
@@ -28189,16 +27799,6 @@
       "team2": "ATLAS A JUPILLE C",
       "category": "PROVINCIALE MM - POULE H",
       "location": "ROYAL ANS BC (+ 5)",
-      "other": ""
-    },
-    {
-      "code": "815001",
-      "date": "2026-08-14",
-      "time": "20:00",
-      "team1": "ATLAS A JUPILLE B",
-      "team2": "RBC BLEGNY B (+ 10)",
-      "category": "PROVINCIALE MM - POULE O",
-      "location": "ATLAS A JUPILLE B",
       "other": ""
     },
     {
@@ -30434,7 +30034,7 @@
     {
       "code": "405251",
       "date": "2027-02-20",
-      "time": "21:00",
+      "time": "17:00",
       "team1": "RBC VISE C",
       "team2": "ROYAL BC WANZE B",
       "category": "MM - DIVISION 3 B",
@@ -30762,16 +30362,6 @@
       "other": ""
     },
     {
-      "code": "901002",
-      "date": "2026-08-15",
-      "time": "17:00",
-      "team1": "LA VILLERSOISE A",
-      "team2": "ROYAL BC WANZE",
-      "category": "PROVINCIALE DD - POULE A",
-      "location": "LA VILLERSOISE A",
-      "other": ""
-    },
-    {
       "code": "901003",
       "date": "2026-08-23",
       "time": "13:00",
@@ -30789,16 +30379,6 @@
       "team2": "ROYAL BC WANZE (+ 5)",
       "category": "PROVINCIALE DD - POULE A",
       "location": "HANNUT BC",
-      "other": ""
-    },
-    {
-      "code": "802002",
-      "date": "2026-08-16",
-      "time": "15:00",
-      "team1": "ROYAL BC WANZE C",
-      "team2": "HANNUT BC B",
-      "category": "PROVINCIALE MM - POULE B",
-      "location": "ROYAL BC WANZE C",
       "other": ""
     },
     {
@@ -33192,16 +32772,6 @@
       "other": ""
     },
     {
-      "code": "821002",
-      "date": "2026-08-14",
-      "time": "20:30",
-      "team1": "RBC ALLEUR E (+ 5)",
-      "team2": "RBC AUBEL",
-      "category": "PROVINCIALE MM - POULE U",
-      "location": "RBC ALLEUR E (+ 5)",
-      "other": ""
-    },
-    {
       "code": "821005",
       "date": "2026-08-29",
       "time": "21:00",
@@ -34993,8 +34563,8 @@
     },
     {
       "code": "407116",
-      "date": "2026-11-14",
-      "time": "20:00",
+      "date": "2026-11-15",
+      "time": "16:00",
       "team1": "BBC EUPEN B",
       "team2": "RB TILFF E",
       "category": "MM - DIVISION 4 A",
@@ -35092,16 +34662,6 @@
       "other": ""
     },
     {
-      "code": "811003",
-      "date": "2026-08-16",
-      "time": "13:30",
-      "team1": "HARIMALIA BC A",
-      "team2": "BBC EUPEN B (+ 10)",
-      "category": "PROVINCIALE MM - POULE K",
-      "location": "HARIMALIA BC A",
-      "other": ""
-    },
-    {
       "code": "811006",
       "date": "2026-08-30",
       "time": "13:00",
@@ -35109,16 +34669,6 @@
       "team2": "ABC WAREMME C",
       "category": "PROVINCIALE MM - POULE K",
       "location": "BBC EUPEN B",
-      "other": ""
-    },
-    {
-      "code": "819002",
-      "date": "2026-08-16",
-      "time": "17:00",
-      "team1": "RBC VISE D (+ 5)",
-      "team2": "BBC EUPEN A",
-      "category": "PROVINCIALE MM - POULE S",
-      "location": "RBC VISE D (+ 5)",
       "other": ""
     },
     {
@@ -37062,16 +36612,6 @@
       "other": ""
     },
     {
-      "code": "806002",
-      "date": "2026-08-15",
-      "time": "21:00",
-      "team1": "BC COINTE B",
-      "team2": "RB UNION LIEGE B",
-      "category": "PROVINCIALE MM - POULE F",
-      "location": "BC COINTE B",
-      "other": ""
-    },
-    {
       "code": "806005",
       "date": "2026-08-29",
       "time": "19:00",
@@ -37079,16 +36619,6 @@
       "team2": "RB UNION LIEGE B (+ 10)",
       "category": "PROVINCIALE MM - POULE F",
       "location": "RBC STAVELOT A",
-      "other": ""
-    },
-    {
-      "code": "812001",
-      "date": "2026-08-17",
-      "time": "20:00",
-      "team1": "RB UNION LIEGE A",
-      "team2": "BC BELLEFLAMME E (+ 15)",
-      "category": "PROVINCIALE MM - POULE L",
-      "location": "RB UNION LIEGE A",
       "other": ""
     },
     {
@@ -37712,16 +37242,6 @@
       "other": ""
     },
     {
-      "code": "914002",
-      "date": "2026-08-15",
-      "time": "19:00",
-      "team1": "RBC AWANS A (+ 5)",
-      "team2": "RBC WELKENRAEDT",
-      "category": "PROVINCIALE DD - POULE N",
-      "location": "RBC AWANS A (+ 5)",
-      "other": ""
-    },
-    {
       "code": "914005",
       "date": "2026-08-29",
       "time": "19:00",
@@ -37729,26 +37249,6 @@
       "team2": "RBC WELKENRAEDT",
       "category": "PROVINCIALE DD - POULE N",
       "location": "RBC DISON-ANDRIMONT A",
-      "other": ""
-    },
-    {
-      "code": "801001",
-      "date": "2026-08-16",
-      "time": "12:00",
-      "team1": "HANNUT BC A",
-      "team2": "RBC WELKENRAEDT B (+ 15)",
-      "category": "PROVINCIALE MM - POULE A",
-      "location": "HANNUT BC A",
-      "other": ""
-    },
-    {
-      "code": "803002",
-      "date": "2026-08-15",
-      "time": "21:00",
-      "team1": "R HT-PRE OUGREE A",
-      "team2": "RBC WELKENRAEDT A",
-      "category": "PROVINCIALE MM - POULE C",
-      "location": "R HT-PRE OUGREE A",
       "other": ""
     },
     {
@@ -37769,16 +37269,6 @@
       "team2": "RBC WELKENRAEDT A (+ 10)",
       "category": "RBC WELKENRAEDT A (+ 10)",
       "location": "THEUX BC A",
-      "other": ""
-    },
-    {
-      "code": "801001",
-      "date": "2026-08-16",
-      "time": "12:00",
-      "team1": "HANNUT BC A",
-      "team2": "RBC WELKENRAEDT B (+ 15)",
-      "category": "RBC WELKENRAEDT B (+ 15)",
-      "location": "HANNUT BC A",
       "other": ""
     },
     {
@@ -39112,16 +38602,6 @@
       "other": ""
     },
     {
-      "code": "906002",
-      "date": "2026-08-15",
-      "time": "19:00",
-      "team1": "R HT-PRE OUGREE B (+ 5)",
-      "team2": "ALL. FLEMALLE A",
-      "category": "PROVINCIALE DD - POULE F",
-      "location": "R HT-PRE OUGREE B (+ 5)",
-      "other": ""
-    },
-    {
       "code": "906004",
       "date": "2026-08-22",
       "time": "17:00",
@@ -39129,16 +38609,6 @@
       "team2": "ROYAL HERVE-BATTICE C",
       "category": "PROVINCIALE DD - POULE F",
       "location": "R HT-PRE OUGREE B (+ 10)",
-      "other": ""
-    },
-    {
-      "code": "913002",
-      "date": "2026-08-16",
-      "time": "17:00",
-      "team1": "CRISTAL SGH B (+ 5)",
-      "team2": "R HT-PRE OUGREE A",
-      "category": "PROVINCIALE DD - POULE M",
-      "location": "CRISTAL SGH B (+ 5)",
       "other": ""
     },
     {
@@ -39169,16 +38639,6 @@
       "team2": "THEUX BC A",
       "category": "PROVINCIALE MM - POULE C",
       "location": "R HT-PRE OUGREE A (+ 10)",
-      "other": ""
-    },
-    {
-      "code": "807001",
-      "date": "2026-08-15",
-      "time": "17:00",
-      "team1": "ABC WAREMME A",
-      "team2": "R HT-PRE OUGREE B (+ 15)",
-      "category": "PROVINCIALE MM - POULE G",
-      "location": "ABC WAREMME A",
       "other": ""
     },
     {
@@ -40744,7 +40204,7 @@
     {
       "code": "410206",
       "date": "2027-01-16",
-      "time": "21:00",
+      "time": "19:00",
       "team1": "GIANTS BRAIVES B",
       "team2": "CRISTAL SGH C",
       "category": "MM - DIVISION 4 D",
@@ -40822,16 +40282,6 @@
       "other": ""
     },
     {
-      "code": "901001",
-      "date": "2026-08-16",
-      "time": "10:00",
-      "team1": "HANNUT BC",
-      "team2": "GIANTS BRAIVES (+ 10)",
-      "category": "PROVINCIALE DD - POULE A",
-      "location": "HANNUT BC",
-      "other": ""
-    },
-    {
       "code": "901006",
       "date": "2026-08-30",
       "time": "13:00",
@@ -40839,16 +40289,6 @@
       "team2": "LA VILLERSOISE A",
       "category": "PROVINCIALE DD - POULE A",
       "location": "GIANTS BRAIVES (+ 5)",
-      "other": ""
-    },
-    {
-      "code": "822002",
-      "date": "2026-08-16",
-      "time": "11:30",
-      "team1": "BC VERLAINE",
-      "team2": "GIANTS BRAIVES A",
-      "category": "PROVINCIALE MM - POULE V",
-      "location": "BC VERLAINE",
       "other": ""
     },
     {
@@ -42154,7 +41594,7 @@
     {
       "code": "AW119014",
       "date": "2026-10-10",
-      "time": "15:00",
+      "time": "13:00",
       "team1": "SAR CHANTEMELLE",
       "team2": "GIANTS BRAIVES",
       "category": "U 18 - BRONZE REGIONAUX A",
@@ -42362,16 +41802,6 @@
       "other": ""
     },
     {
-      "code": "545013",
-      "date": "2026-09-05",
-      "time": "13:30",
-      "team1": "CONDROZ MODAVE BB",
-      "team2": "GIANTS BRAIVES B",
-      "category": "U 8 - MM F",
-      "location": "CONDROZ MODAVE BB",
-      "other": ""
-    },
-    {
       "code": "545036",
       "date": "2026-09-19",
       "time": "15:00",
@@ -42402,13 +41832,13 @@
       "other": ""
     },
     {
-      "code": "545156",
+      "code": "545013",
       "date": "2026-12-12",
       "time": "15:00",
-      "team1": "GIANTS BRAIVES B",
-      "team2": "ALL. FLEMALLE B",
+      "team1": "CONDROZ MODAVE BB",
+      "team2": "GIANTS BRAIVES B",
       "category": "U 8 - MM F",
-      "location": "GIANTS BRAIVES B",
+      "location": "CONDROZ MODAVE BB",
       "other": ""
     },
     {
@@ -42459,6 +41889,16 @@
       "team2": "GIANTS BRAIVES B",
       "category": "U 8 - MM F",
       "location": "ORP JAUCHE",
+      "other": ""
+    },
+    {
+      "code": "545156",
+      "date": "2027-03-07",
+      "time": "9:00",
+      "team1": "GIANTS BRAIVES B",
+      "team2": "ALL. FLEMALLE B",
+      "category": "U 8 - MM F",
+      "location": "GIANTS BRAIVES B",
       "other": ""
     },
     {
@@ -42819,16 +42259,6 @@
       "team2": "THUNDER CONDROZ",
       "category": "U 12 - MM E",
       "location": "ORP JAUCHE",
-      "other": ""
-    },
-    {
-      "code": "AW223002",
-      "date": "2026-08-15",
-      "time": "19:30",
-      "team1": "RB ALLIANCE ARLON (+ 5)",
-      "team2": "PRAYON TROOZ",
-      "category": "AWBB DD - POULE C",
-      "location": "RB ALLIANCE ARLON (+ 5)",
       "other": ""
     },
     {
@@ -43654,7 +43084,7 @@
     {
       "code": "402074",
       "date": "2026-10-17",
-      "time": "21:00",
+      "time": "17:00",
       "team1": "VAIL. JUPILLE A",
       "team2": "PRAYON TROOZ A",
       "category": "MM - DIVISION 2 A",
@@ -44069,26 +43499,6 @@
       "team2": "PRAYON TROOZ A (+ 5)",
       "category": "PROVINCIALE DD - POULE H",
       "location": "RBC BLEGNY A",
-      "other": ""
-    },
-    {
-      "code": "817001",
-      "date": "2026-08-16",
-      "time": "14:00",
-      "team1": "PRAYON TROOZ A",
-      "team2": "THEUX BC B (+ 5)",
-      "category": "PROVINCIALE MM - POULE Q",
-      "location": "PRAYON TROOZ A",
-      "other": ""
-    },
-    {
-      "code": "826002",
-      "date": "2026-08-16",
-      "time": "16:00",
-      "team1": "PRAYON TROOZ B (+ 5)",
-      "team2": "RBC DISON-ANDRIMONT B",
-      "category": "PROVINCIALE MM - POULE Z",
-      "location": "PRAYON TROOZ B (+ 5)",
       "other": ""
     },
     {
@@ -45642,16 +45052,6 @@
       "other": ""
     },
     {
-      "code": "AW208002",
-      "date": "2026-08-16",
-      "time": "14:00",
-      "team1": "BC HOTTON",
-      "team2": "RBC STAVELOT",
-      "category": "AWBB MM - POULE H",
-      "location": "BC HOTTON",
-      "other": ""
-    },
-    {
       "code": "AW208004",
       "date": "2026-08-21",
       "time": "20:00",
@@ -46282,26 +45682,6 @@
       "other": ""
     },
     {
-      "code": "805002",
-      "date": "2026-08-16",
-      "time": "15:30",
-      "team1": "HARIMALIA BC B",
-      "team2": "RBC STAVELOT B",
-      "category": "PROVINCIALE MM - POULE E",
-      "location": "HARIMALIA BC B",
-      "other": ""
-    },
-    {
-      "code": "805003",
-      "date": "2026-08-23",
-      "time": "11:00",
-      "team1": "RBC STAVELOT B",
-      "team2": "DF BC MALMEDY (+ 5)",
-      "category": "PROVINCIALE MM - POULE E",
-      "location": "RBC STAVELOT B",
-      "other": ""
-    },
-    {
       "code": "806004",
       "date": "2026-08-22",
       "time": "19:00",
@@ -46309,16 +45689,6 @@
       "team2": "RBC STAVELOT A",
       "category": "PROVINCIALE MM - POULE F",
       "location": "BC COINTE B (+ 10)",
-      "other": ""
-    },
-    {
-      "code": "823002",
-      "date": "2026-08-16",
-      "time": "13:00",
-      "team1": "RBC DISON-ANDRIMONT C",
-      "team2": "RBC STAVELOT C",
-      "category": "PROVINCIALE MM - POULE W",
-      "location": "RBC DISON-ANDRIMONT C",
       "other": ""
     },
     {
@@ -47332,16 +46702,6 @@
       "other": ""
     },
     {
-      "code": "AW228002",
-      "date": "2026-08-16",
-      "time": "17:00",
-      "team1": "BC BELLEFLAMME",
-      "team2": "RBC ALLEUR B",
-      "category": "AWBB DD - POULE H",
-      "location": "BC BELLEFLAMME",
-      "other": ""
-    },
-    {
       "code": "AW228004",
       "date": "2026-08-22",
       "time": "20:30",
@@ -47379,16 +46739,6 @@
       "team2": "ROYAL SPA BC (+ 8)",
       "category": "AWBB DD - POULE N",
       "location": "RBC ALLEUR A",
-      "other": ""
-    },
-    {
-      "code": "AW210001",
-      "date": "2026-08-15",
-      "time": "19:00",
-      "team1": "UBC BINCHE (+ 5 )",
-      "team2": "RBC ALLEUR",
-      "category": "AWBB MM - POULE J",
-      "location": "UBC BINCHE (+ 5 )",
       "other": ""
     },
     {
@@ -49112,16 +48462,6 @@
       "other": ""
     },
     {
-      "code": "907004",
-      "date": "2026-08-23",
-      "time": "17:30",
-      "team1": "RBC HANEFFE D (+ 10)",
-      "team2": "RBC ALLEUR C",
-      "category": "PROVINCIALE DD - POULE G",
-      "location": "RBC HANEFFE D (+ 10)",
-      "other": ""
-    },
-    {
       "code": "907005",
       "date": "2026-08-30",
       "time": "11:00",
@@ -49129,16 +48469,6 @@
       "team2": "ROYAL BC NINANE A (+ 5)",
       "category": "PROVINCIALE DD - POULE G",
       "location": "RBC ALLEUR C",
-      "other": ""
-    },
-    {
-      "code": "916002",
-      "date": "2026-08-16",
-      "time": "13:00",
-      "team1": "ROYALE US AWANS",
-      "team2": "RBC ALLEUR D",
-      "category": "PROVINCIALE DD - POULE P",
-      "location": "ROYALE US AWANS",
       "other": ""
     },
     {
@@ -51122,16 +50452,6 @@
       "other": ""
     },
     {
-      "code": "AW227001",
-      "date": "2026-08-15",
-      "time": "19:00",
-      "team1": "BC MALONNE (+ 15)",
-      "team2": "UN HUY BASKET A",
-      "category": "AWBB DD - POULE G",
-      "location": "BC MALONNE (+ 15)",
-      "other": ""
-    },
-    {
       "code": "AW227003",
       "date": "2026-08-22",
       "time": "17:30",
@@ -51149,16 +50469,6 @@
       "team2": "REBOND OTTIGNIES B (+ 16",
       "category": "AWBB DD - POULE G",
       "location": "UN HUY BASKET A",
-      "other": ""
-    },
-    {
-      "code": "202",
-      "date": "2026-08-16",
-      "time": "15:00",
-      "team1": "GANSHOREN DAMES",
-      "team2": "UN HUY BASKET",
-      "category": "CPE BELG DAMES",
-      "location": "GANSHOREN DAMES",
       "other": ""
     },
     {
@@ -51672,16 +50982,6 @@
       "other": ""
     },
     {
-      "code": "910002",
-      "date": "2026-08-16",
-      "time": "13:00",
-      "team1": "UN HUY BASKET C (+ 5)",
-      "team2": "BC SPRIMONT B",
-      "category": "PROVINCIALE DD - POULE J",
-      "location": "UN HUY BASKET C (+ 5)",
-      "other": ""
-    },
-    {
       "code": "910004",
       "date": "2026-08-22",
       "time": "18:00",
@@ -51699,16 +50999,6 @@
       "team2": "UN HUY BASKET C",
       "category": "PROVINCIALE DD - POULE J",
       "location": "VAIL. JUPILLE",
-      "other": ""
-    },
-    {
-      "code": "825002",
-      "date": "2026-08-16",
-      "time": "15:00",
-      "team1": "UN HUY BASKET",
-      "team2": "ORP JAUCHE A",
-      "category": "PROVINCIALE MM - POULE Y",
-      "location": "UN HUY BASKET",
       "other": ""
     },
     {
@@ -53742,16 +53032,6 @@
       "other": ""
     },
     {
-      "code": "910001",
-      "date": "2026-08-16",
-      "time": "12:00",
-      "team1": "RBC HANEFFE B",
-      "team2": "VAIL. JUPILLE (+ 10)",
-      "category": "PROVINCIALE DD - POULE J",
-      "location": "RBC HANEFFE B",
-      "other": ""
-    },
-    {
       "code": "910003",
       "date": "2026-08-22",
       "time": "17:00",
@@ -53759,16 +53039,6 @@
       "team2": "VAIL. JUPILLE (+ 5)",
       "category": "PROVINCIALE DD - POULE J",
       "location": "BC SPRIMONT B",
-      "other": ""
-    },
-    {
-      "code": "827002",
-      "date": "2026-08-15",
-      "time": "17:00",
-      "team1": "VAIL. JUPILLE C",
-      "team2": "BC COINTE C",
-      "category": "PROVINCIALE MM - POULE AA",
-      "location": "VAIL. JUPILLE C",
       "other": ""
     },
     {
@@ -53782,16 +53052,6 @@
       "other": ""
     },
     {
-      "code": "813002",
-      "date": "2026-08-15",
-      "time": "19:00",
-      "team1": "VAIL. JUPILLE B",
-      "team2": "FLERON BBC B",
-      "category": "PROVINCIALE MM - POULE M",
-      "location": "VAIL. JUPILLE B",
-      "other": ""
-    },
-    {
       "code": "813006",
       "date": "2026-08-30",
       "time": "17:00",
@@ -53799,16 +53059,6 @@
       "team2": "VAIL. JUPILLE B",
       "category": "PROVINCIALE MM - POULE M",
       "location": "BC SPRIMONT E (+ 5)",
-      "other": ""
-    },
-    {
-      "code": "816001",
-      "date": "2026-08-15",
-      "time": "21:00",
-      "team1": "VAIL. JUPILLE A",
-      "team2": "BC BELLEFLAMME D (+ 5)",
-      "category": "PROVINCIALE MM - POULE P",
-      "location": "VAIL. JUPILLE A",
       "other": ""
     },
     {
@@ -54652,16 +53902,6 @@
       "other": ""
     },
     {
-      "code": "AW235001",
-      "date": "2026-08-16",
-      "time": "15:00",
-      "team1": "ROYAL HERVE-BATTICE B",
-      "team2": "ABC WAREMME (+ 8)",
-      "category": "AWBB DD - POULE O",
-      "location": "ROYAL HERVE-BATTICE B",
-      "other": ""
-    },
-    {
       "code": "AW235003",
       "date": "2026-08-22",
       "time": "19:00",
@@ -54684,7 +53924,7 @@
     {
       "code": "AW244023",
       "date": "2026-08-23",
-      "time": "10:00",
+      "time": "12:30",
       "team1": "RB ALLIANCE ARLON",
       "team2": "ABC WAREMME",
       "category": "COUPE AWBB U14 - GARCONS",
@@ -54694,7 +53934,7 @@
     {
       "code": "AW242001",
       "date": "2026-08-22",
-      "time": "9:00",
+      "time": "10:00",
       "team1": "ABC WAREMME",
       "team2": "FRESH AIR A",
       "category": "COUPE AWBB U18 - GARCONS",
@@ -55842,16 +55082,6 @@
       "other": ""
     },
     {
-      "code": "903001",
-      "date": "2026-08-15",
-      "time": "19:00",
-      "team1": "ABC WAREMME A",
-      "team2": "ROYAL HERVE-BATTICE D (+",
-      "category": "PROVINCIALE DD - POULE C",
-      "location": "ABC WAREMME A",
-      "other": ""
-    },
-    {
       "code": "903004",
       "date": "2026-08-23",
       "time": "15:30",
@@ -55869,16 +55099,6 @@
       "team2": "BC SPRIMONT C (+ 10)",
       "category": "PROVINCIALE DD - POULE C",
       "location": "ABC WAREMME A",
-      "other": ""
-    },
-    {
-      "code": "904002",
-      "date": "2026-08-16",
-      "time": "18:00",
-      "team1": "ABC WAREMME B",
-      "team2": "BC VERLAINE A",
-      "category": "PROVINCIALE DD - POULE D",
-      "location": "ABC WAREMME B",
       "other": ""
     },
     {
@@ -55902,16 +55122,6 @@
       "other": ""
     },
     {
-      "code": "915002",
-      "date": "2026-08-15",
-      "time": "20:00",
-      "team1": "ABC WAREMME C (+ 5)",
-      "team2": "ROYAL ANS BC",
-      "category": "PROVINCIALE DD - POULE O",
-      "location": "ABC WAREMME C (+ 5)",
-      "other": ""
-    },
-    {
       "code": "915004",
       "date": "2026-08-22",
       "time": "20:00",
@@ -55929,36 +55139,6 @@
       "team2": "ABC WAREMME A",
       "category": "PROVINCIALE MM - POULE G",
       "location": "LA VILLERSOISE B (+ 10)",
-      "other": ""
-    },
-    {
-      "code": "811002",
-      "date": "2026-08-15",
-      "time": "18:00",
-      "team1": "ABC WAREMME C (+ 10)",
-      "team2": "HARIMALIA BC A",
-      "category": "PROVINCIALE MM - POULE K",
-      "location": "ABC WAREMME C (+ 10)",
-      "other": ""
-    },
-    {
-      "code": "811004",
-      "date": "2026-08-23",
-      "time": "10:00",
-      "team1": "ABC WAREMME C (+ 15)",
-      "team2": "CRISTAL SGH A",
-      "category": "PROVINCIALE MM - POULE K",
-      "location": "ABC WAREMME C (+ 15)",
-      "other": ""
-    },
-    {
-      "code": "903001",
-      "date": "2026-08-15",
-      "time": "19:00",
-      "team1": "ABC WAREMME A",
-      "team2": "ROYAL HERVE-BATTICE D (+ 5)",
-      "category": "ROYAL HERVE-BATTICE D (+ 5)",
-      "location": "ABC WAREMME A",
       "other": ""
     },
     {
@@ -56903,7 +56083,7 @@
     },
     {
       "code": "AW154015",
-      "date": "2026-10-10",
+      "date": "2026-10-11",
       "time": "11:00",
       "team1": "NAMUR CAPITALE",
       "team2": "ABC WAREMME",
@@ -58442,16 +57622,6 @@
       "other": ""
     },
     {
-      "code": "AW203002",
-      "date": "2026-08-14",
-      "time": "21:00",
-      "team1": "ALL. FLEMALLE (+ 5)",
-      "team2": "BC SAINT-HUBERT A",
-      "category": "AWBB MM - POULE C",
-      "location": "ALL. FLEMALLE (+ 5)",
-      "other": ""
-    },
-    {
       "code": "AW203003",
       "date": "2026-08-22",
       "time": "19:00",
@@ -59472,16 +58642,6 @@
       "other": ""
     },
     {
-      "code": "808001",
-      "date": "2026-08-13",
-      "time": "21:00",
-      "team1": "ALL. FLEMALLE A",
-      "team2": "ROYAL ANS BC (+ 15)",
-      "category": "PROVINCIALE MM - POULE H",
-      "location": "ALL. FLEMALLE A",
-      "other": ""
-    },
-    {
       "code": "808005",
       "date": "2026-08-29",
       "time": "19:00",
@@ -59499,16 +58659,6 @@
       "team2": "ALL. FLEMALLE B",
       "category": "PROVINCIALE MM - POULE L",
       "location": "BC BELLEFLAMME E (+ 5)",
-      "other": ""
-    },
-    {
-      "code": "818002",
-      "date": "2026-08-14",
-      "time": "19:00",
-      "team1": "ALL. FLEMALLE C (+ 5)",
-      "team2": "BC VERVIERS D",
-      "category": "PROVINCIALE MM - POULE R",
-      "location": "ALL. FLEMALLE C (+ 5)",
       "other": ""
     },
     {
@@ -61722,16 +60872,6 @@
       "other": ""
     },
     {
-      "code": "AW147015",
-      "date": "2026-10-11",
-      "time": "09:00",
-      "team1": "ALL. FLEMALLE",
-      "team2": "LIEGE PANTHERS",
-      "category": "U 16 - SILVER REGIONALES B",
-      "location": "ALL. FLEMALLE",
-      "other": ""
-    },
-    {
       "code": "AW147011",
       "date": "2026-10-17",
       "time": "13:00",
@@ -61739,6 +60879,16 @@
       "team2": "ALL. FLEMALLE",
       "category": "U 16 - SILVER REGIONALES B",
       "location": "NAMUR CAPITALE",
+      "other": ""
+    },
+    {
+      "code": "AW147015",
+      "date": "2026-10-18",
+      "time": "15:00",
+      "team1": "ALL. FLEMALLE",
+      "team2": "LIEGE PANTHERS",
+      "category": "U 16 - SILVER REGIONALES B",
+      "location": "ALL. FLEMALLE",
       "other": ""
     },
     {
@@ -62562,6 +61712,16 @@
       "other": ""
     },
     {
+      "code": "545156",
+      "date": "2027-03-07",
+      "time": "09:00",
+      "team1": "GIANTS BRAIVES B",
+      "team2": "ALL. FLEMALLE B",
+      "category": "U 8 - MM F",
+      "location": "GIANTS BRAIVES B",
+      "other": ""
+    },
+    {
       "code": "545293",
       "date": "2027-03-20",
       "time": "13:30",
@@ -62583,12 +61743,22 @@
     },
     {
       "code": "AW245012",
-      "date": "2026-08-22",
-      "time": "9:00",
+      "date": "2026-08-23",
+      "time": "15:00",
       "team1": "LA VILLERSOISE",
       "team2": "ROYAL BC CINEY",
       "category": "COUPE AWBB U12 -GARCONS",
       "location": "LA VILLERSOISE",
+      "other": ""
+    },
+    {
+      "code": "AW247003",
+      "date": "2026-08-22",
+      "time": "17:00",
+      "team1": "LA VILLERSOISE B",
+      "team2": "RE PONT-DE-LOUP B",
+      "category": "COUPE AWBB U16 - FILLES",
+      "location": "LA VILLERSOISE B",
       "other": ""
     },
     {
@@ -63452,16 +62622,6 @@
       "other": ""
     },
     {
-      "code": "904001",
-      "date": "2026-08-15",
-      "time": "19:00",
-      "team1": "BC BELLEFLAMME B",
-      "team2": "LA VILLERSOISE B (+ 10)",
-      "category": "PROVINCIALE DD - POULE D",
-      "location": "BC BELLEFLAMME B",
-      "other": ""
-    },
-    {
       "code": "904003",
       "date": "2026-08-23",
       "time": "17:30",
@@ -63469,16 +62629,6 @@
       "team2": "LA VILLERSOISE B (+ 5)",
       "category": "PROVINCIALE DD - POULE D",
       "location": "BC VERLAINE A",
-      "other": ""
-    },
-    {
-      "code": "802001",
-      "date": "2026-08-14",
-      "time": "21:00",
-      "team1": "BC BELLEFLAMME B",
-      "team2": "LA VILLERSOISE C (+ 15)",
-      "category": "PROVINCIALE MM - POULE B",
-      "location": "BC BELLEFLAMME B",
       "other": ""
     },
     {
@@ -65352,16 +64502,6 @@
       "other": ""
     },
     {
-      "code": "AW234001",
-      "date": "2026-08-16",
-      "time": "15:00",
-      "team1": "ROYAL SPA BC",
-      "team2": "REBC TEMPLEUVE (+ 8)",
-      "category": "AWBB DD - POULE N",
-      "location": "ROYAL SPA BC",
-      "other": ""
-    },
-    {
       "code": "AW203006",
       "date": "2026-08-28",
       "time": "21:00",
@@ -65373,7 +64513,7 @@
     },
     {
       "code": "761008",
-      "date": "2026-10-31",
+      "date": "2026-11-01",
       "time": "13:00",
       "team1": "THEUX BC",
       "team2": "ROYAL SPA BC",
@@ -65554,7 +64694,7 @@
     {
       "code": "AW106019",
       "date": "2026-10-03",
-      "time": "17:00",
+      "time": "21:00",
       "team1": "ROYAL SPA BC A",
       "team2": "BBC LIBRAMONT",
       "category": "DD - REGIONALE 2 B",
@@ -66389,16 +65529,6 @@
       "team2": "ROYAL SPA BC A",
       "category": "MM - REGIONALE 2 A",
       "location": "CHALET WOL ST PIERRE",
-      "other": ""
-    },
-    {
-      "code": "913001",
-      "date": "2026-08-16",
-      "time": "17:00",
-      "team1": "RBC CROATIA OUPEYE",
-      "team2": "ROYAL SPA BC B (+ 10)",
-      "category": "PROVINCIALE DD - POULE M",
-      "location": "RBC CROATIA OUPEYE",
       "other": ""
     },
     {
@@ -68262,16 +67392,6 @@
       "other": ""
     },
     {
-      "code": "AW232001",
-      "date": "2026-08-16",
-      "time": "12:00",
-      "team1": "RCS NATOYE C",
-      "team2": "BC SPRIMONT (+ 16)",
-      "category": "AWBB DD - POULE L",
-      "location": "RCS NATOYE C",
-      "other": ""
-    },
-    {
       "code": "AW232003",
       "date": "2026-08-22",
       "time": "21:00",
@@ -68279,16 +67399,6 @@
       "team2": "BC LA RULLES A",
       "category": "AWBB DD - POULE L",
       "location": "BC SPRIMONT (+ 10)",
-      "other": ""
-    },
-    {
-      "code": "AW202001",
-      "date": "2026-08-15",
-      "time": "20:00",
-      "team1": "R ECLAIR PONT-DE-LOUP (+",
-      "team2": "BC SPRIMONT",
-      "category": "AWBB MM - POULE B",
-      "location": "R ECLAIR PONT-DE-LOUP (+",
       "other": ""
     },
     {
@@ -68312,26 +67422,6 @@
       "other": ""
     },
     {
-      "code": "AW5",
-      "date": "2026-08-16",
-      "time": "17:00",
-      "team1": "BC ASSE-TERNAT",
-      "team2": "BC SPRIMONT",
-      "category": "BELGIQUE MM - POULE C",
-      "location": "BC ASSE-TERNAT",
-      "other": "BNAHSEPCAB"
-    },
-    {
-      "code": "AW21",
-      "date": "2026-08-19",
-      "time": "21:00",
-      "team1": "BC SPRIMONT",
-      "team2": "BASKET WAREGEM",
-      "category": "BELGIQUE MM - POULE C",
-      "location": "BC SPRIMONT",
-      "other": "BNAHSEPCBC"
-    },
-    {
       "code": "AW37",
       "date": "2026-08-22",
       "time": "19:00",
@@ -68350,26 +67440,6 @@
       "category": "BELGIQUE MM - POULE C",
       "location": "BCCA NEUFCHATEAU",
       "other": "BNAHSEPCEB"
-    },
-    {
-      "code": "AW5",
-      "date": "2026-08-16",
-      "time": "17:00",
-      "team1": "BC ASSE-TERNAT",
-      "team2": "BC SPRIMONT",
-      "category": "BNAHSEPCAB",
-      "location": "BC ASSE-TERNAT",
-      "other": ""
-    },
-    {
-      "code": "AW21",
-      "date": "2026-08-19",
-      "time": "21:00",
-      "team1": "BC SPRIMONT",
-      "team2": "BASKET WAREGEM",
-      "category": "BNAHSEPCBC",
-      "location": "BC SPRIMONT",
-      "other": ""
     },
     {
       "code": "AW37",
@@ -68393,8 +67463,8 @@
     },
     {
       "code": "AW245018",
-      "date": "2026-08-22",
-      "time": "14:00",
+      "date": "2026-08-23",
+      "time": "10:00",
       "team1": "UCCLE EUROPE",
       "team2": "BC SPRIMONT B",
       "category": "COUPE AWBB U12 -GARCONS",
@@ -68403,7 +67473,7 @@
     },
     {
       "code": "AW244001",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "13:30",
       "team1": "BC CENTRE GAUME",
       "team2": "BC SPRIMONT",
@@ -68422,16 +67492,6 @@
       "other": ""
     },
     {
-      "code": "AW242030",
-      "date": "2026-08-22",
-      "time": "15:00",
-      "team1": "LA LOUVIERE AM",
-      "team2": "BC SPRIMONT B",
-      "category": "COUPE AWBB U18 - GARCONS",
-      "location": "LA LOUVIERE AM",
-      "other": ""
-    },
-    {
       "code": "AW242023",
       "date": "2026-08-23",
       "time": "12:00",
@@ -68439,6 +67499,16 @@
       "team2": "BC SPRIMONT",
       "category": "COUPE AWBB U18 - GARCONS",
       "location": "UCCLE EUROPE A",
+      "other": ""
+    },
+    {
+      "code": "AW242030",
+      "date": "2026-08-23",
+      "time": "17:00",
+      "team1": "LA LOUVIERE AM",
+      "team2": "BC SPRIMONT B",
+      "category": "COUPE AWBB U18 - GARCONS",
+      "location": "LA LOUVIERE AM",
       "other": ""
     },
     {
@@ -69412,16 +68482,6 @@
       "other": ""
     },
     {
-      "code": "903002",
-      "date": "2026-08-15",
-      "time": "17:00",
-      "team1": "RBC HANEFFE C",
-      "team2": "BC SPRIMONT C (+ 5)",
-      "category": "PROVINCIALE DD - POULE C",
-      "location": "RBC HANEFFE C",
-      "other": ""
-    },
-    {
       "code": "903003",
       "date": "2026-08-22",
       "time": "19:00",
@@ -69452,16 +68512,6 @@
       "other": ""
     },
     {
-      "code": "809002",
-      "date": "2026-08-16",
-      "time": "13:00",
-      "team1": "BC SPRIMONT D (+ 5)",
-      "team2": "RB TILFF B",
-      "category": "PROVINCIALE MM - POULE I",
-      "location": "BC SPRIMONT D (+ 5)",
-      "other": ""
-    },
-    {
       "code": "813003",
       "date": "2026-08-23",
       "time": "13:00",
@@ -69482,13 +68532,13 @@
       "other": ""
     },
     {
-      "code": "NAHSE21BFM",
+      "code": "NAHSE21BMF",
       "date": "2026-09-05",
       "time": "19:00",
-      "team1": "ROYAL BC NINANE",
-      "team2": "BC SPRIMONT A",
+      "team1": "BC SPRIMONT A",
+      "team2": "ROYAL BC NINANE",
       "category": "TOP DIVISION MEN 2 B",
-      "location": "ROYAL BC NINANE",
+      "location": "BC SPRIMONT A",
       "other": ""
     },
     {
@@ -69612,13 +68662,13 @@
       "other": ""
     },
     {
-      "code": "NAHSE21BMF",
-      "date": "2027-01-16",
-      "time": "19:00",
-      "team1": "BC SPRIMONT A",
-      "team2": "ROYAL BC NINANE",
+      "code": "NAHSE21BFM",
+      "date": "2027-01-17",
+      "time": "18:00",
+      "team1": "ROYAL BC NINANE",
+      "team2": "BC SPRIMONT A",
       "category": "TOP DIVISION MEN 2 B",
-      "location": "BC SPRIMONT A",
+      "location": "ROYAL BC NINANE",
       "other": ""
     },
     {
@@ -69673,7 +68723,7 @@
     },
     {
       "code": "NAHSE21BMI",
-      "date": "2027-03-20",
+      "date": "2027-03-19",
       "time": "21:00",
       "team1": "BC SPRIMONT A",
       "team2": "STELLA LEUVEN",
@@ -72562,16 +71612,6 @@
       "other": ""
     },
     {
-      "code": "909002",
-      "date": "2026-08-16",
-      "time": "12:00",
-      "team1": "MAIL. COMBLAIN (+ 5)",
-      "team2": "RBC BLEGNY B",
-      "category": "PROVINCIALE DD - POULE I",
-      "location": "MAIL. COMBLAIN (+ 5)",
-      "other": ""
-    },
-    {
       "code": "909003",
       "date": "2026-08-22",
       "time": "20:30",
@@ -73842,16 +72882,6 @@
       "other": ""
     },
     {
-      "code": "AW212001",
-      "date": "2026-08-16",
-      "time": "11:30",
-      "team1": "BBC LIBRAMONT (+ 5)",
-      "team2": "RB TILFF",
-      "category": "AWBB MM - POULE L",
-      "location": "BBC LIBRAMONT (+ 5)",
-      "other": ""
-    },
-    {
       "code": "AW212003",
       "date": "2026-08-22",
       "time": "20:00",
@@ -74542,16 +73572,6 @@
       "other": ""
     },
     {
-      "code": "810002",
-      "date": "2026-08-16",
-      "time": "15:00",
-      "team1": "RBC VISE C",
-      "team2": "RB TILFF C",
-      "category": "PROVINCIALE MM - POULE J",
-      "location": "RBC VISE C",
-      "other": ""
-    },
-    {
       "code": "810003",
       "date": "2026-08-22",
       "time": "16:30",
@@ -74569,16 +73589,6 @@
       "team2": "RB TILFF C (+ 10)",
       "category": "PROVINCIALE MM - POULE J",
       "location": "BC COINTE A",
-      "other": ""
-    },
-    {
-      "code": "824002",
-      "date": "2026-08-16",
-      "time": "16:00",
-      "team1": "RB TILFF D",
-      "team2": "ROYALE US AWANS B",
-      "category": "PROVINCIALE MM - POULE X",
-      "location": "RB TILFF D",
       "other": ""
     },
     {
@@ -75173,8 +74183,8 @@
     },
     {
       "code": "491031",
-      "date": "2026-09-19",
-      "time": "15:00",
+      "date": "2026-09-20",
+      "time": "9:00",
       "team1": "ROYAL HERVE-BATTICE",
       "team2": "RB TILFF B",
       "category": "U 14 - PROV MM B",
@@ -75862,16 +74872,6 @@
       "other": ""
     },
     {
-      "code": "832002",
-      "date": "2026-08-16",
-      "time": "15:00",
-      "team1": "RBC CROATIA OUPEYE",
-      "team2": "RBC HANEFFE B",
-      "category": "PROVINCIALE MM - POULE FF",
-      "location": "RBC CROATIA OUPEYE",
-      "other": ""
-    },
-    {
       "code": "418016",
       "date": "2026-09-05",
       "time": "17:00",
@@ -76052,16 +75052,6 @@
       "other": ""
     },
     {
-      "code": "907003",
-      "date": "2026-08-22",
-      "time": "19:00",
-      "team1": "ROYAL BC NINANE A",
-      "team2": "DF BC MALMEDY (+ 5)",
-      "category": "PROVINCIALE DD - POULE G",
-      "location": "ROYAL BC NINANE A",
-      "other": ""
-    },
-    {
       "code": "907006",
       "date": "2026-08-29",
       "time": "18:30",
@@ -76069,16 +75059,6 @@
       "team2": "RBC HANEFFE D",
       "category": "PROVINCIALE DD - POULE G",
       "location": "DF BC MALMEDY",
-      "other": ""
-    },
-    {
-      "code": "805006",
-      "date": "2026-08-29",
-      "time": "20:30",
-      "team1": "DF BC MALMEDY (+ 5)",
-      "team2": "HARIMALIA BC B",
-      "category": "PROVINCIALE MM - POULE E",
-      "location": "DF BC MALMEDY (+ 5)",
       "other": ""
     },
     {
@@ -76432,6 +75412,16 @@
       "other": ""
     },
     {
+      "code": "402305",
+      "date": "2026-09-27",
+      "time": "11:30",
+      "team1": "ROYAL MOSA AC 1941 A",
+      "team2": "RBC VISE A",
+      "category": "MM - DIVISION 2 A",
+      "location": "ROYAL MOSA AC 1941 A",
+      "other": ""
+    },
+    {
       "code": "402062",
       "date": "2026-10-10",
       "time": "21:00",
@@ -76477,16 +75467,6 @@
       "time": "11:30",
       "team1": "ROYAL MOSA AC 1941 A",
       "team2": "FLERON BBC A",
-      "category": "MM - DIVISION 2 A",
-      "location": "ROYAL MOSA AC 1941 A",
-      "other": ""
-    },
-    {
-      "code": "402305",
-      "date": "2027-04-04",
-      "time": "11:30",
-      "team1": "ROYAL MOSA AC 1941 A",
-      "team2": "RBC VISE A",
       "category": "MM - DIVISION 2 A",
       "location": "ROYAL MOSA AC 1941 A",
       "other": ""
@@ -78724,7 +77704,7 @@
     {
       "code": "403252",
       "date": "2027-02-20",
-      "time": "17:00",
+      "time": "21:00",
       "team1": "RBC VISE B",
       "team2": "BC VERVIERS C",
       "category": "MM - DIVISION 2 B",
@@ -78854,7 +77834,7 @@
     {
       "code": "406017",
       "date": "2027-02-28",
-      "time": "13:00",
+      "time": "9:00",
       "team1": "FLERON BBC B",
       "team2": "BC VERVIERS D",
       "category": "MM - DIVISION 3 C",
@@ -79524,7 +78504,7 @@
     {
       "code": "AW245031",
       "date": "2026-08-23",
-      "time": "13:00",
+      "time": "15:00",
       "team1": "RE PONT-DE-LOUP",
       "team2": "RSW LIEGE BASKET",
       "category": "COUPE AWBB U12 -GARCONS",
@@ -79534,21 +78514,11 @@
     {
       "code": "AW244005",
       "date": "2026-08-22",
-      "time": "12:00",
+      "time": "15:00",
       "team1": "RSW LIEGE BASKET",
       "team2": "EAST BELGIUM BCA A",
       "category": "COUPE AWBB U14 - GARCONS",
       "location": "RSW LIEGE BASKET",
-      "other": ""
-    },
-    {
-      "code": "AW242021",
-      "date": "2026-08-22",
-      "time": "15:30",
-      "team1": "BC CENTRE GAUME",
-      "team2": "RSW LIEGE BASKET A",
-      "category": "COUPE AWBB U18 - GARCONS",
-      "location": "BC CENTRE GAUME",
       "other": ""
     },
     {
@@ -79559,6 +78529,16 @@
       "team2": "RSW LIEGE BASKET B",
       "category": "COUPE AWBB U18 - GARCONS",
       "location": "CASTORS BRAINE A",
+      "other": ""
+    },
+    {
+      "code": "AW242021",
+      "date": "2026-08-23",
+      "time": "15:45",
+      "team1": "BC CENTRE GAUME",
+      "team2": "RSW LIEGE BASKET A",
+      "category": "COUPE AWBB U18 - GARCONS",
+      "location": "BC CENTRE GAUME",
       "other": ""
     },
     {
@@ -80129,16 +79109,6 @@
       "team2": "R LINTHOUT BC",
       "category": "MM - REGIONALE 2 B",
       "location": "RSW LIEGE BASKET B",
-      "other": ""
-    },
-    {
-      "code": "830002",
-      "date": "2026-08-16",
-      "time": "11:00",
-      "team1": "RSW LIEGE BASKET C (+ 5)",
-      "team2": "RJS GRIVEGNEE",
-      "category": "PROVINCIALE MM - POULE DD",
-      "location": "RSW LIEGE BASKET C (+ 5)",
       "other": ""
     },
     {
@@ -81022,16 +79992,6 @@
       "other": ""
     },
     {
-      "code": "AW224001",
-      "date": "2026-08-15",
-      "time": "18:45",
-      "team1": "ROYAL WATERLOO (+ 15)",
-      "team2": "LIEGE PANTHERS A",
-      "category": "AWBB DD - POULE D",
-      "location": "ROYAL WATERLOO (+ 15)",
-      "other": ""
-    },
-    {
       "code": "AW224003",
       "date": "2026-08-23",
       "time": "13:30",
@@ -81039,16 +79999,6 @@
       "team2": "LIEGE PANTHERS A",
       "category": "AWBB DD - POULE D",
       "location": "RBC HANEFFE (+ 10)",
-      "other": ""
-    },
-    {
-      "code": "AW229001",
-      "date": "2026-08-14",
-      "time": "20:15",
-      "team1": "R.UN.BELLAIRE (+ 10)",
-      "team2": "LIEGE PANTHERS B",
-      "category": "AWBB DD - POULE I",
-      "location": "R.UN.BELLAIRE (+ 10)",
       "other": ""
     },
     {
@@ -81068,16 +80018,6 @@
       "team1": "LIEGE PANTHERS B",
       "team2": "BC BONINNE B (+ 8)",
       "category": "AWBB DD - POULE I",
-      "location": "LIEGE PANTHERS B",
-      "other": ""
-    },
-    {
-      "code": "205",
-      "date": "2026-08-13",
-      "time": "20:00",
-      "team1": "LIEGE PANTHERS B",
-      "team2": "BBC BRASSCHAAT",
-      "category": "CPE BELG DAMES",
       "location": "LIEGE PANTHERS B",
       "other": ""
     },
@@ -81832,16 +80772,6 @@
       "other": ""
     },
     {
-      "code": "AW147015",
-      "date": "2026-10-11",
-      "time": "9:00",
-      "team1": "ALL. FLEMALLE",
-      "team2": "LIEGE PANTHERS",
-      "category": "U 16 - SILVER REGIONALES B",
-      "location": "ALL. FLEMALLE",
-      "other": ""
-    },
-    {
       "code": "AW147020",
       "date": "2026-11-07",
       "time": "15:30",
@@ -82353,11 +81283,21 @@
     },
     {
       "code": "AW244004",
-      "date": "2026-08-22",
-      "time": "11:00",
+      "date": "2026-08-23",
+      "time": "11:30",
       "team1": "RBC HANEFFE",
       "team2": "NUTS BASTOGNE",
       "category": "COUPE AWBB U14 - GARCONS",
+      "location": "RBC HANEFFE",
+      "other": ""
+    },
+    {
+      "code": "AW243014",
+      "date": "2026-08-23",
+      "time": "9:30",
+      "team1": "RBC HANEFFE",
+      "team2": "OLYMPIC MSM",
+      "category": "COUPE AWBB U16 - GARCONS",
       "location": "RBC HANEFFE",
       "other": ""
     },
@@ -83452,16 +82392,6 @@
       "other": ""
     },
     {
-      "code": "AW213001",
-      "date": "2026-08-16",
-      "time": "13:00",
-      "team1": "ROYAL HERVE-BATTICE (+ 5)",
-      "team2": "CEP FLEURUS",
-      "category": "AWBB MM - POULE M",
-      "location": "ROYAL HERVE-BATTICE (+ 5)",
-      "other": ""
-    },
-    {
       "code": "AW213005",
       "date": "2026-08-30",
       "time": "13:00",
@@ -83473,21 +82403,11 @@
     },
     {
       "code": "AW245025",
-      "date": "2026-08-23",
+      "date": "2026-08-22",
       "time": "13:00",
       "team1": "ROYAL HERVE-BATTICE",
       "team2": "R MURPROTEC NIVELLES",
       "category": "COUPE AWBB U12 -GARCONS",
-      "location": "ROYAL HERVE-BATTICE",
-      "other": ""
-    },
-    {
-      "code": "208",
-      "date": "2026-08-15",
-      "time": "17:00",
-      "team1": "ROYAL HERVE-BATTICE",
-      "team2": "CASTORS BRAINE B",
-      "category": "CPE BELG DAMES",
       "location": "ROYAL HERVE-BATTICE",
       "other": ""
     },
@@ -86402,16 +85322,6 @@
       "other": ""
     },
     {
-      "code": "AW244008",
-      "date": "2026-08-23",
-      "time": "09:00",
-      "team1": "BC BELLEFLAMME",
-      "team2": "BC RANSART CHARLEROI",
-      "category": "COUPE AWBB U14 - GARCONS",
-      "location": "BC BELLEFLAMME",
-      "other": ""
-    },
-    {
       "code": "764010",
       "date": "2026-08-29",
       "time": "09:30",
@@ -89032,6 +87942,16 @@
       "other": ""
     },
     {
+      "code": "AW243021",
+      "date": "2026-08-29",
+      "time": "13:00",
+      "team1": "BC MALONNE B",
+      "team2": "EAST BELGIUM BCA A",
+      "category": "COUPE AWBB U16 - GARCONS",
+      "location": "BC MALONNE B",
+      "other": ""
+    },
+    {
       "code": "AW242016",
       "date": "2026-08-30",
       "time": "9:30",
@@ -90362,16 +89282,6 @@
       "other": ""
     },
     {
-      "code": "810001",
-      "date": "2026-08-16",
-      "time": "14:00",
-      "team1": "BC COINTE A",
-      "team2": "RBC AWANS B (+ 15)",
-      "category": "PROVINCIALE MM - POULE J",
-      "location": "BC COINTE A",
-      "other": ""
-    },
-    {
       "code": "810006",
       "date": "2026-08-29",
       "time": "18:00",
@@ -91182,16 +90092,6 @@
       "other": ""
     },
     {
-      "code": "AW211001",
-      "date": "2026-08-16",
-      "time": "15:00",
-      "team1": "CRISTAL SGH (+ 5)",
-      "team2": "ROYAL BC NINANE",
-      "category": "AWBB MM - POULE K",
-      "location": "CRISTAL SGH (+ 5)",
-      "other": ""
-    },
-    {
       "code": "AW211003",
       "date": "2026-08-22",
       "time": "20:30",
@@ -91212,16 +90112,6 @@
       "other": ""
     },
     {
-      "code": "AW61",
-      "date": "2026-08-16",
-      "time": "18:00",
-      "team1": "CROONEN LOMMEL",
-      "team2": "ROYAL BC NINANE",
-      "category": "BELGIQUE MM - POULE G",
-      "location": "CROONEN LOMMEL",
-      "other": "BNAHSEPGAC"
-    },
-    {
       "code": "AW29",
       "date": "2026-08-23",
       "time": "17:15",
@@ -91240,16 +90130,6 @@
       "category": "BELGIQUE MM - POULE G",
       "location": "ROYAL BC NINANE",
       "other": "BNAHSEPGCB"
-    },
-    {
-      "code": "AW61",
-      "date": "2026-08-16",
-      "time": "18:00",
-      "team1": "CROONEN LOMMEL",
-      "team2": "ROYAL BC NINANE",
-      "category": "BNAHSEPGAC",
-      "location": "CROONEN LOMMEL",
-      "other": ""
     },
     {
       "code": "AW29",
@@ -91273,8 +90153,8 @@
     },
     {
       "code": "AW241008",
-      "date": "2026-08-23",
-      "time": "13:45",
+      "date": "2026-09-06",
+      "time": "11:00",
       "team1": "ROYAL WATERLOO",
       "team2": "ROYAL BC NINANE",
       "category": "COUPE AWBB U21 - GARCONS",
@@ -91639,26 +90519,6 @@
       "team2": "R.UN.BELLAIRE A",
       "category": "PROVINCIALE DD - POULE E",
       "location": "ROYAL BC NINANE B (+ 10)",
-      "other": ""
-    },
-    {
-      "code": "828002",
-      "date": "2026-08-16",
-      "time": "11:30",
-      "team1": "HARIMALIA BC D",
-      "team2": "ROYAL BC NINANE E",
-      "category": "PROVINCIALE MM - POULE BB",
-      "location": "HARIMALIA BC D",
-      "other": ""
-    },
-    {
-      "code": "804002",
-      "date": "2026-08-16",
-      "time": "11:00",
-      "team1": "THEUX BC C (+ 5)",
-      "team2": "ROYAL BC NINANE C",
-      "category": "PROVINCIALE MM - POULE D",
-      "location": "THEUX BC C (+ 5)",
       "other": ""
     },
     {
@@ -92342,16 +91202,6 @@
       "other": ""
     },
     {
-      "code": "AW214002",
-      "date": "2026-08-16",
-      "time": "13:00",
-      "team1": "THEUX BC",
-      "team2": "RCBE 2000",
-      "category": "AWBB MM - POULE N",
-      "location": "THEUX BC",
-      "other": ""
-    },
-    {
       "code": "AW214003",
       "date": "2026-08-23",
       "time": "11:00",
@@ -93003,8 +91853,8 @@
     },
     {
       "code": "AW245017",
-      "date": "2026-08-22",
-      "time": "13:30",
+      "date": "2026-08-23",
+      "time": "13:00",
       "team1": "CRISTAL SGH A",
       "team2": "RCS NATOYE A",
       "category": "COUPE AWBB U12 -GARCONS",
@@ -93133,8 +91983,8 @@
     },
     {
       "code": "406087",
-      "date": "2026-10-25",
-      "time": "13:00",
+      "date": "2026-10-21",
+      "time": "21:00",
       "team1": "FLERON BBC B",
       "team2": "CRISTAL SGH B",
       "category": "MM - DIVISION 3 C",
@@ -95114,7 +93964,7 @@
     {
       "code": "403162",
       "date": "2026-12-19",
-      "time": "17:00",
+      "time": "19:00",
       "team1": "RBC VISE B",
       "team2": "HARIMALIA BC A",
       "category": "MM - DIVISION 2 B",
@@ -95562,16 +94412,6 @@
       "other": ""
     },
     {
-      "code": "AW205002",
-      "date": "2026-08-16",
-      "time": "13:00",
-      "team1": "OLYMPIC MSM B (+ 5)",
-      "team2": "MAIL. COMBLAIN",
-      "category": "AWBB MM - POULE E",
-      "location": "OLYMPIC MSM B (+ 5)",
-      "other": ""
-    },
-    {
       "code": "AW205004",
       "date": "2026-08-22",
       "time": "20:00",
@@ -95864,7 +94704,7 @@
     {
       "code": "AW244003",
       "date": "2026-08-22",
-      "time": "13:00",
+      "time": "15:00",
       "team1": "RBC VISE",
       "team2": "BC SAINT-HUBERT",
       "category": "COUPE AWBB U14 - GARCONS",
@@ -95879,6 +94719,16 @@
       "team2": "RBC VISE",
       "category": "COUPE AWBB U16 - GARCONS",
       "location": "R EXC BRUXELLES",
+      "other": ""
+    },
+    {
+      "code": "AW241044",
+      "date": "2026-09-26",
+      "time": "13:00",
+      "team1": "RBC VISE",
+      "team2": "AW241024",
+      "category": "COUPE AWBB U21 - GARCONS",
+      "location": "RBC VISE",
       "other": ""
     },
     {
@@ -95979,16 +94829,6 @@
       "team2": "R.UN.BELLAIRE D",
       "category": "MM - DIVISION 4 D",
       "location": "RBC VISE D",
-      "other": ""
-    },
-    {
-      "code": "911002",
-      "date": "2026-08-15",
-      "time": "19:00",
-      "team1": "RBC VISE B (+ 5)",
-      "team2": "R.UN.BELLAIRE B",
-      "category": "PROVINCIALE DD - POULE K",
-      "location": "RBC VISE B (+ 5)",
       "other": ""
     },
     {
@@ -96672,16 +95512,6 @@
       "other": ""
     },
     {
-      "code": "AW223001",
-      "date": "2026-08-19",
-      "time": "20:00",
-      "team1": "HANNUT BC (+ 15)",
-      "team2": "NAMUR CAPITALE A",
-      "category": "AWBB DD - POULE C",
-      "location": "HANNUT BC (+ 15)",
-      "other": ""
-    },
-    {
       "code": "AW223005",
       "date": "2026-08-29",
       "time": "19:00",
@@ -96864,7 +95694,7 @@
     {
       "code": "AW245001",
       "date": "2026-08-22",
-      "time": "9:30",
+      "time": "10:00",
       "team1": "CONDROZ MODAVE BB",
       "team2": "BC MALONNE",
       "category": "COUPE AWBB U12 -GARCONS",
@@ -97232,16 +96062,6 @@
       "other": ""
     },
     {
-      "code": "816002",
-      "date": "2026-08-16",
-      "time": "15:00",
-      "team1": "BC TORES LIEGE",
-      "team2": "R.UN.BELLAIRE C",
-      "category": "PROVINCIALE MM - POULE P",
-      "location": "BC TORES LIEGE",
-      "other": ""
-    },
-    {
       "code": "505011",
       "date": "2026-09-06",
       "time": "11:00",
@@ -97272,16 +96092,6 @@
       "other": ""
     },
     {
-      "code": "AW222002",
-      "date": "2026-08-15",
-      "time": "19:00",
-      "team1": "CENTRE GAUME TINTIGNY (",
-      "team2": "BC COINTE",
-      "category": "AWBB DD - POULE B",
-      "location": "CENTRE GAUME TINTIGNY (",
-      "other": ""
-    },
-    {
       "code": "AW222004",
       "date": "2026-08-22",
       "time": "17:00",
@@ -97299,16 +96109,6 @@
       "team2": "BC COINTE (+ 8)",
       "category": "AWBB DD - POULE B",
       "location": "ROYAL BC CINEY A",
-      "other": ""
-    },
-    {
-      "code": "AW202002",
-      "date": "2026-08-15",
-      "time": "19:00",
-      "team1": "BC COINTE (+ 5)",
-      "team2": "ROYAL GALLIA BEEZ A",
-      "category": "AWBB MM - POULE B",
-      "location": "BC COINTE (+ 5)",
       "other": ""
     },
     {

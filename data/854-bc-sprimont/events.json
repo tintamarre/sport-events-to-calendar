@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "AW232001",
-      "date": "2026-08-16",
-      "time": "12:00",
-      "team1": "RCS NATOYE C",
-      "team2": "BC SPRIMONT (+ 16)",
-      "category": "AWBB DD - POULE L",
-      "location": "RCS NATOYE C",
-      "other": ""
-    },
-    {
       "code": "AW232003",
       "date": "2026-08-22",
       "time": "21:00",
@@ -23,16 +13,6 @@
       "team2": "BC LA RULLES A",
       "category": "AWBB DD - POULE L",
       "location": "BC SPRIMONT (+ 10)",
-      "other": ""
-    },
-    {
-      "code": "AW202001",
-      "date": "2026-08-15",
-      "time": "20:00",
-      "team1": "R ECLAIR PONT-DE-LOUP (+",
-      "team2": "BC SPRIMONT",
-      "category": "AWBB MM - POULE B",
-      "location": "R ECLAIR PONT-DE-LOUP (+",
       "other": ""
     },
     {
@@ -56,26 +36,6 @@
       "other": ""
     },
     {
-      "code": "AW5",
-      "date": "2026-08-16",
-      "time": "17:00",
-      "team1": "BC ASSE-TERNAT",
-      "team2": "BC SPRIMONT",
-      "category": "BELGIQUE MM - POULE C",
-      "location": "BC ASSE-TERNAT",
-      "other": "BNAHSEPCAB"
-    },
-    {
-      "code": "AW21",
-      "date": "2026-08-19",
-      "time": "21:00",
-      "team1": "BC SPRIMONT",
-      "team2": "BASKET WAREGEM",
-      "category": "BELGIQUE MM - POULE C",
-      "location": "BC SPRIMONT",
-      "other": "BNAHSEPCBC"
-    },
-    {
       "code": "AW37",
       "date": "2026-08-22",
       "time": "19:00",
@@ -94,26 +54,6 @@
       "category": "BELGIQUE MM - POULE C",
       "location": "BCCA NEUFCHATEAU",
       "other": "BNAHSEPCEB"
-    },
-    {
-      "code": "AW5",
-      "date": "2026-08-16",
-      "time": "17:00",
-      "team1": "BC ASSE-TERNAT",
-      "team2": "BC SPRIMONT",
-      "category": "BNAHSEPCAB",
-      "location": "BC ASSE-TERNAT",
-      "other": ""
-    },
-    {
-      "code": "AW21",
-      "date": "2026-08-19",
-      "time": "21:00",
-      "team1": "BC SPRIMONT",
-      "team2": "BASKET WAREGEM",
-      "category": "BNAHSEPCBC",
-      "location": "BC SPRIMONT",
-      "other": ""
     },
     {
       "code": "AW37",
@@ -137,8 +77,8 @@
     },
     {
       "code": "AW245018",
-      "date": "2026-08-22",
-      "time": "14:00",
+      "date": "2026-08-23",
+      "time": "10:00",
       "team1": "UCCLE EUROPE",
       "team2": "BC SPRIMONT B",
       "category": "COUPE AWBB U12 -GARCONS",
@@ -147,7 +87,7 @@
     },
     {
       "code": "AW244001",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "13:30",
       "team1": "BC CENTRE GAUME",
       "team2": "BC SPRIMONT",
@@ -166,16 +106,6 @@
       "other": ""
     },
     {
-      "code": "AW242030",
-      "date": "2026-08-22",
-      "time": "15:00",
-      "team1": "LA LOUVIERE AM",
-      "team2": "BC SPRIMONT B",
-      "category": "COUPE AWBB U18 - GARCONS",
-      "location": "LA LOUVIERE AM",
-      "other": ""
-    },
-    {
       "code": "AW242023",
       "date": "2026-08-23",
       "time": "12:00",
@@ -183,6 +113,16 @@
       "team2": "BC SPRIMONT",
       "category": "COUPE AWBB U18 - GARCONS",
       "location": "UCCLE EUROPE A",
+      "other": ""
+    },
+    {
+      "code": "AW242030",
+      "date": "2026-08-23",
+      "time": "17:00",
+      "team1": "LA LOUVIERE AM",
+      "team2": "BC SPRIMONT B",
+      "category": "COUPE AWBB U18 - GARCONS",
+      "location": "LA LOUVIERE AM",
       "other": ""
     },
     {
@@ -1896,16 +1836,6 @@
       "other": ""
     },
     {
-      "code": "903002",
-      "date": "2026-08-15",
-      "time": "17:00",
-      "team1": "RBC HANEFFE C",
-      "team2": "BC SPRIMONT C (+ 5)",
-      "category": "PROVINCIALE DD - POULE C",
-      "location": "RBC HANEFFE C",
-      "other": ""
-    },
-    {
       "code": "903003",
       "date": "2026-08-22",
       "time": "19:00",
@@ -1923,16 +1853,6 @@
       "team2": "BC SPRIMONT C (+ 10)",
       "category": "PROVINCIALE DD - POULE C",
       "location": "ABC WAREMME A",
-      "other": ""
-    },
-    {
-      "code": "910002",
-      "date": "2026-08-16",
-      "time": "13:00",
-      "team1": "UN HUY BASKET C (+ 5)",
-      "team2": "BC SPRIMONT B",
-      "category": "PROVINCIALE DD - POULE J",
-      "location": "UN HUY BASKET C (+ 5)",
       "other": ""
     },
     {
@@ -1976,16 +1896,6 @@
       "other": ""
     },
     {
-      "code": "809002",
-      "date": "2026-08-16",
-      "time": "13:00",
-      "team1": "BC SPRIMONT D (+ 5)",
-      "team2": "RB TILFF B",
-      "category": "PROVINCIALE MM - POULE I",
-      "location": "BC SPRIMONT D (+ 5)",
-      "other": ""
-    },
-    {
       "code": "809006",
       "date": "2026-08-29",
       "time": "17:00",
@@ -1993,16 +1903,6 @@
       "team2": "BC SPRIMONT D",
       "category": "PROVINCIALE MM - POULE I",
       "location": "ROYAL SPA BC D (+ 5)",
-      "other": ""
-    },
-    {
-      "code": "813001",
-      "date": "2026-08-14",
-      "time": "19:00",
-      "team1": "ESL UNITED C",
-      "team2": "BC SPRIMONT E (+ 15)",
-      "category": "PROVINCIALE MM - POULE M",
-      "location": "ESL UNITED C",
       "other": ""
     },
     {
@@ -2046,13 +1946,13 @@
       "other": ""
     },
     {
-      "code": "NAHSE21BFM",
+      "code": "NAHSE21BMF",
       "date": "2026-09-05",
       "time": "19:00",
-      "team1": "ROYAL BC NINANE",
-      "team2": "BC SPRIMONT A",
+      "team1": "BC SPRIMONT A",
+      "team2": "ROYAL BC NINANE",
       "category": "TOP DIVISION MEN 2 B",
-      "location": "ROYAL BC NINANE",
+      "location": "BC SPRIMONT A",
       "other": ""
     },
     {
@@ -2186,13 +2086,13 @@
       "other": ""
     },
     {
-      "code": "NAHSE21BMF",
-      "date": "2027-01-16",
-      "time": "19:00",
-      "team1": "BC SPRIMONT A",
-      "team2": "ROYAL BC NINANE",
+      "code": "NAHSE21BFM",
+      "date": "2027-01-17",
+      "time": "18:00",
+      "team1": "ROYAL BC NINANE",
+      "team2": "BC SPRIMONT A",
       "category": "TOP DIVISION MEN 2 B",
-      "location": "BC SPRIMONT A",
+      "location": "ROYAL BC NINANE",
       "other": ""
     },
     {
@@ -2257,7 +2157,7 @@
     },
     {
       "code": "NAHSE21BMI",
-      "date": "2027-03-20",
+      "date": "2027-03-19",
       "time": "21:00",
       "team1": "BC SPRIMONT A",
       "team2": "STELLA LEUVEN",
@@ -3326,16 +3226,6 @@
       "other": ""
     },
     {
-      "code": "503021",
-      "date": "2026-09-13",
-      "time": "15:30",
-      "team1": "BC SPRIMONT B",
-      "team2": "PEPINSTER EAST BELG B",
-      "category": "U 12 - MM D",
-      "location": "BC SPRIMONT B",
-      "other": ""
-    },
-    {
       "code": "503033",
       "date": "2026-09-19",
       "time": "15:00",
@@ -3371,6 +3261,16 @@
       "time": "9:00",
       "team1": "BC SPRIMONT B",
       "team2": "ROYAL SPA BC",
+      "category": "U 12 - MM D",
+      "location": "BC SPRIMONT B",
+      "other": ""
+    },
+    {
+      "code": "503021",
+      "date": "2026-10-17",
+      "time": "10:30",
+      "team1": "BC SPRIMONT B",
+      "team2": "PEPINSTER EAST BELG B",
       "category": "U 12 - MM D",
       "location": "BC SPRIMONT B",
       "other": ""

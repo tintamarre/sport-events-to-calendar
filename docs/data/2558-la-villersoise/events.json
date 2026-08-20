@@ -7,12 +7,22 @@
   "events": [
     {
       "code": "AW245012",
-      "date": "2026-08-22",
-      "time": "9:00",
+      "date": "2026-08-23",
+      "time": "15:00",
       "team1": "LA VILLERSOISE",
       "team2": "ROYAL BC CINEY",
       "category": "COUPE AWBB U12 -GARCONS",
       "location": "LA VILLERSOISE",
+      "other": ""
+    },
+    {
+      "code": "AW247003",
+      "date": "2026-08-22",
+      "time": "17:00",
+      "team1": "LA VILLERSOISE B",
+      "team2": "RE PONT-DE-LOUP B",
+      "category": "COUPE AWBB U16 - FILLES",
+      "location": "LA VILLERSOISE B",
       "other": ""
     },
     {
@@ -1456,16 +1466,6 @@
       "other": ""
     },
     {
-      "code": "901002",
-      "date": "2026-08-15",
-      "time": "17:00",
-      "team1": "LA VILLERSOISE A",
-      "team2": "ROYAL BC WANZE",
-      "category": "PROVINCIALE DD - POULE A",
-      "location": "LA VILLERSOISE A",
-      "other": ""
-    },
-    {
       "code": "901006",
       "date": "2026-08-30",
       "time": "13:00",
@@ -1473,16 +1473,6 @@
       "team2": "LA VILLERSOISE A",
       "category": "PROVINCIALE DD - POULE A",
       "location": "GIANTS BRAIVES (+ 5)",
-      "other": ""
-    },
-    {
-      "code": "904001",
-      "date": "2026-08-15",
-      "time": "19:00",
-      "team1": "BC BELLEFLAMME B",
-      "team2": "LA VILLERSOISE B (+ 10)",
-      "category": "PROVINCIALE DD - POULE D",
-      "location": "BC BELLEFLAMME B",
       "other": ""
     },
     {
@@ -1503,16 +1493,6 @@
       "team2": "ABC WAREMME B",
       "category": "PROVINCIALE DD - POULE D",
       "location": "LA VILLERSOISE B (+ 5)",
-      "other": ""
-    },
-    {
-      "code": "802001",
-      "date": "2026-08-14",
-      "time": "21:00",
-      "team1": "BC BELLEFLAMME B",
-      "team2": "LA VILLERSOISE C (+ 15)",
-      "category": "PROVINCIALE MM - POULE B",
-      "location": "BC BELLEFLAMME B",
       "other": ""
     },
     {
@@ -1553,16 +1533,6 @@
       "team2": "ROYAL BC NINANE E (+ 10)",
       "category": "PROVINCIALE MM - POULE BB",
       "location": "LA VILLERSOISE A",
-      "other": ""
-    },
-    {
-      "code": "807002",
-      "date": "2026-08-15",
-      "time": "19:00",
-      "team1": "LA VILLERSOISE B (+ 5)",
-      "team2": "PEPINSTER EAST BELG C",
-      "category": "PROVINCIALE MM - POULE G",
-      "location": "LA VILLERSOISE B (+ 5)",
       "other": ""
     },
     {

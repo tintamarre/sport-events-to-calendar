@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "AW233001",
-      "date": "2026-08-16",
-      "time": "14:00",
-      "team1": "RBC ESNEUX",
-      "team2": "HENRI-CHAPELLE (+ 8)",
-      "category": "AWBB DD - POULE M",
-      "location": "RBC ESNEUX",
-      "other": ""
-    },
-    {
       "code": "AW233003",
       "date": "2026-08-23",
       "time": "11:00",
@@ -23,16 +13,6 @@
       "team2": "UN HUY BASKET B",
       "category": "AWBB DD - POULE M",
       "location": "HENRI-CHAPELLE (+ 10)",
-      "other": ""
-    },
-    {
-      "code": "AW213002",
-      "date": "2026-08-16",
-      "time": "15:00",
-      "team1": "BC OHEY",
-      "team2": "HENRI-CHAPELLE",
-      "category": "AWBB MM - POULE M",
-      "location": "BC OHEY",
       "other": ""
     },
     {
@@ -58,7 +38,7 @@
     {
       "code": "AW244002",
       "date": "2026-08-22",
-      "time": "10:00",
+      "time": "12:00",
       "team1": "OLYMPIC MSM",
       "team2": "HENRI-CHAPELLE A",
       "category": "COUPE AWBB U14 - GARCONS",
@@ -82,6 +62,16 @@
       "team1": "HENRI-CHAPELLE",
       "team2": "REBOND OTTIGNIES",
       "category": "COUPE AWBB U16 - FILLES",
+      "location": "HENRI-CHAPELLE",
+      "other": ""
+    },
+    {
+      "code": "AW243004",
+      "date": "2026-08-23",
+      "time": "15:00",
+      "team1": "HENRI-CHAPELLE",
+      "team2": "BC MARCHE",
+      "category": "COUPE AWBB U16 - GARCONS",
       "location": "HENRI-CHAPELLE",
       "other": ""
     },
@@ -1806,16 +1796,6 @@
       "other": ""
     },
     {
-      "code": "902001",
-      "date": "2026-08-15",
-      "time": "18:30",
-      "team1": "HENRI-CHAPELLE A",
-      "team2": "PRAYON TROOZ D (+ 10)",
-      "category": "PROVINCIALE DD - POULE B",
-      "location": "HENRI-CHAPELLE A",
-      "other": ""
-    },
-    {
       "code": "902004",
       "date": "2026-08-22",
       "time": "17:00",
@@ -1833,16 +1813,6 @@
       "team2": "PEPINSTER EAST BELG B (+",
       "category": "PROVINCIALE DD - POULE B",
       "location": "HENRI-CHAPELLE A",
-      "other": ""
-    },
-    {
-      "code": "905002",
-      "date": "2026-08-16",
-      "time": "14:00",
-      "team1": "ROYAL BC NINANE B (+ 5)",
-      "team2": "HENRI-CHAPELLE B",
-      "category": "PROVINCIALE DD - POULE E",
-      "location": "ROYAL BC NINANE B (+ 5)",
       "other": ""
     },
     {
@@ -1866,16 +1836,6 @@
       "other": ""
     },
     {
-      "code": "803001",
-      "date": "2026-08-13",
-      "time": "21:00",
-      "team1": "THEUX BC A",
-      "team2": "HENRI-CHAPELLE D (+ 15)",
-      "category": "PROVINCIALE MM - POULE C",
-      "location": "THEUX BC A",
-      "other": ""
-    },
-    {
       "code": "803003",
       "date": "2026-08-22",
       "time": "19:00",
@@ -1893,16 +1853,6 @@
       "team2": "R HT-PRE OUGREE A",
       "category": "PROVINCIALE MM - POULE C",
       "location": "HENRI-CHAPELLE D (+ 5)",
-      "other": ""
-    },
-    {
-      "code": "814001",
-      "date": "2026-08-15",
-      "time": "20:30",
-      "team1": "HENRI-CHAPELLE A",
-      "team2": "BCM HERSTAL B (+ 15)",
-      "category": "PROVINCIALE MM - POULE N",
-      "location": "HENRI-CHAPELLE A",
       "other": ""
     },
     {

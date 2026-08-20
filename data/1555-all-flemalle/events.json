@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "AW203002",
-      "date": "2026-08-14",
-      "time": "21:00",
-      "team1": "ALL. FLEMALLE (+ 5)",
-      "team2": "BC SAINT-HUBERT A",
-      "category": "AWBB MM - POULE C",
-      "location": "ALL. FLEMALLE (+ 5)",
-      "other": ""
-    },
-    {
       "code": "AW203003",
       "date": "2026-08-22",
       "time": "19:00",
@@ -1716,16 +1706,6 @@
       "other": ""
     },
     {
-      "code": "906002",
-      "date": "2026-08-15",
-      "time": "19:00",
-      "team1": "R HT-PRE OUGREE B (+ 5)",
-      "team2": "ALL. FLEMALLE A",
-      "category": "PROVINCIALE DD - POULE F",
-      "location": "R HT-PRE OUGREE B (+ 5)",
-      "other": ""
-    },
-    {
       "code": "906003",
       "date": "2026-08-23",
       "time": "15:00",
@@ -1743,16 +1723,6 @@
       "team2": "ALL. FLEMALLE A (+ 5)",
       "category": "PROVINCIALE DD - POULE F",
       "location": "ROYAL HERVE-BATTICE C",
-      "other": ""
-    },
-    {
-      "code": "808001",
-      "date": "2026-08-13",
-      "time": "21:00",
-      "team1": "ALL. FLEMALLE A",
-      "team2": "ROYAL ANS BC (+ 15)",
-      "category": "PROVINCIALE MM - POULE H",
-      "location": "ALL. FLEMALLE A",
       "other": ""
     },
     {
@@ -1793,16 +1763,6 @@
       "team2": "ALL. FLEMALLE B",
       "category": "PROVINCIALE MM - POULE L",
       "location": "BC BELLEFLAMME E (+ 5)",
-      "other": ""
-    },
-    {
-      "code": "818002",
-      "date": "2026-08-14",
-      "time": "19:00",
-      "team1": "ALL. FLEMALLE C (+ 5)",
-      "team2": "BC VERVIERS D",
-      "category": "PROVINCIALE MM - POULE R",
-      "location": "ALL. FLEMALLE C (+ 5)",
       "other": ""
     },
     {
@@ -5076,16 +5036,6 @@
       "other": ""
     },
     {
-      "code": "AW147015",
-      "date": "2026-10-11",
-      "time": "09:00",
-      "team1": "ALL. FLEMALLE",
-      "team2": "LIEGE PANTHERS",
-      "category": "U 16 - SILVER REGIONALES B",
-      "location": "ALL. FLEMALLE",
-      "other": ""
-    },
-    {
       "code": "AW147011",
       "date": "2026-10-17",
       "time": "13:00",
@@ -5093,6 +5043,16 @@
       "team2": "ALL. FLEMALLE",
       "category": "U 16 - SILVER REGIONALES B",
       "location": "NAMUR CAPITALE",
+      "other": ""
+    },
+    {
+      "code": "AW147015",
+      "date": "2026-10-18",
+      "time": "15:00",
+      "team1": "ALL. FLEMALLE",
+      "team2": "LIEGE PANTHERS",
+      "category": "U 16 - SILVER REGIONALES B",
+      "location": "ALL. FLEMALLE",
       "other": ""
     },
     {
@@ -6266,16 +6226,6 @@
       "other": ""
     },
     {
-      "code": "545156",
-      "date": "2026-12-12",
-      "time": "15:00",
-      "team1": "GIANTS BRAIVES B",
-      "team2": "ALL. FLEMALLE B",
-      "category": "U 8 - MM F",
-      "location": "GIANTS BRAIVES B",
-      "other": ""
-    },
-    {
       "code": "545161",
       "date": "2026-12-19",
       "time": "11:00",
@@ -6323,6 +6273,16 @@
       "team2": "ORP JAUCHE",
       "category": "U 8 - MM F",
       "location": "ALL. FLEMALLE B",
+      "other": ""
+    },
+    {
+      "code": "545156",
+      "date": "2027-03-07",
+      "time": "09:00",
+      "team1": "GIANTS BRAIVES B",
+      "team2": "ALL. FLEMALLE B",
+      "category": "U 8 - MM F",
+      "location": "GIANTS BRAIVES B",
       "other": ""
     },
     {

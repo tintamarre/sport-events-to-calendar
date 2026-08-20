@@ -1476,16 +1476,6 @@
       "other": ""
     },
     {
-      "code": "902002",
-      "date": "2026-08-15",
-      "time": "17:00",
-      "team1": "R 4A AYWAILLE-HAMOIR A",
-      "team2": "PEPINSTER EAST BELG B",
-      "category": "PROVINCIALE DD - POULE B",
-      "location": "R 4A AYWAILLE-HAMOIR A",
-      "other": ""
-    },
-    {
       "code": "902004",
       "date": "2026-08-22",
       "time": "17:00",
@@ -1506,46 +1496,6 @@
       "other": ""
     },
     {
-      "code": "908001",
-      "date": "2026-08-14",
-      "time": "20:00",
-      "team1": "RBC BLEGNY A",
-      "team2": "R 4A AYWAILLE-HAMOIR B (",
-      "category": "PROVINCIALE DD - POULE H",
-      "location": "RBC BLEGNY A",
-      "other": ""
-    },
-    {
-      "code": "908003",
-      "date": "2026-08-22",
-      "time": "21:00",
-      "team1": "PRAYON TROOZ A",
-      "team2": "R 4A AYWAILLE-HAMOIR B (",
-      "category": "PROVINCIALE DD - POULE H",
-      "location": "PRAYON TROOZ A",
-      "other": ""
-    },
-    {
-      "code": "908006",
-      "date": "2026-08-29",
-      "time": "19:00",
-      "team1": "R 4A AYWAILLE-HAMOIR B",
-      "team2": "ATLAS A JUPILLE B",
-      "category": "PROVINCIALE DD - POULE H",
-      "location": "R 4A AYWAILLE-HAMOIR B",
-      "other": ""
-    },
-    {
-      "code": "814002",
-      "date": "2026-08-15",
-      "time": "19:00",
-      "team1": "R 4A AYWAILLE-HAMOIR B",
-      "team2": "R.UN.BELLAIRE B",
-      "category": "PROVINCIALE MM - POULE N",
-      "location": "R 4A AYWAILLE-HAMOIR B",
-      "other": ""
-    },
-    {
       "code": "814004",
       "date": "2026-08-20",
       "time": "21:00",
@@ -1563,16 +1513,6 @@
       "team2": "R 4A AYWAILLE-HAMOIR B",
       "category": "PROVINCIALE MM - POULE N",
       "location": "BCM HERSTAL B (+ 5)",
-      "other": ""
-    },
-    {
-      "code": "817002",
-      "date": "2026-08-15",
-      "time": "19:30",
-      "team1": "THUNDER CONDROZ",
-      "team2": "R 4A AYWAILLE-HAMOIR C",
-      "category": "PROVINCIALE MM - POULE Q",
-      "location": "THUNDER CONDROZ",
       "other": ""
     },
     {
@@ -1613,26 +1553,6 @@
       "team2": "ROYALE US AWANS B (+ 10)",
       "category": "PROVINCIALE MM - POULE X",
       "location": "R 4A AYWAILLE-HAMOIR A",
-      "other": ""
-    },
-    {
-      "code": "908001",
-      "date": "2026-08-14",
-      "time": "20:00",
-      "team1": "RBC BLEGNY A",
-      "team2": "R 4A AYWAILLE-HAMOIR B (+ 10)",
-      "category": "R 4A AYWAILLE-HAMOIR B (+ 10)",
-      "location": "RBC BLEGNY A",
-      "other": ""
-    },
-    {
-      "code": "908003",
-      "date": "2026-08-22",
-      "time": "21:00",
-      "team1": "PRAYON TROOZ A",
-      "team2": "R 4A AYWAILLE-HAMOIR B (+ 5)",
-      "category": "R 4A AYWAILLE-HAMOIR B (+ 5)",
-      "location": "PRAYON TROOZ A",
       "other": ""
     },
     {
@@ -2118,12 +2038,12 @@
     {
       "code": "527156",
       "date": "2026-12-12",
-      "time": "13:00",
+      "time": "9:00",
       "team1": "R 4A AYWAILLE-HAMOIR B",
       "team2": "GIANTS BRAIVES A",
       "category": "U 10 - MM H",
       "location": "R 4A AYWAILLE-HAMOIR B",
-      "other": ""
+      "other": "(Ho Aywaille)"
     },
     {
       "code": "527162",
@@ -2398,12 +2318,12 @@
     {
       "code": "507306",
       "date": "2027-03-27",
-      "time": "13:00",
+      "time": "9:00",
       "team1": "R 4A AYWAILLE-HAMOIR",
       "team2": "GIANTS BRAIVES C",
       "category": "U 12 - MM H",
       "location": "R 4A AYWAILLE-HAMOIR",
-      "other": "(ho Hamoir rue du mouli"
+      "other": "(HO Aywaille)"
     },
     {
       "code": "507324",
@@ -2698,7 +2618,7 @@
     {
       "code": "471226",
       "date": "2027-01-30",
-      "time": "17:00",
+      "time": "15:00",
       "team1": "R 4A AYWAILLE-HAMOIR",
       "team2": "MARCHIN BASKET",
       "category": "U 16 - PROV MM B",

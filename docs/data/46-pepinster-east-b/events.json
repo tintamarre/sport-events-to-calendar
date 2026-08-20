@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "AW224002",
-      "date": "2026-08-15",
-      "time": "21:00",
-      "team1": "RBC HANEFFE ( + 5)",
-      "team2": "PEPINSTER EAST BELG",
-      "category": "AWBB DD - POULE D",
-      "location": "RBC HANEFFE ( + 5)",
-      "other": ""
-    },
-    {
       "code": "AW224004",
       "date": "2026-08-23",
       "time": "11:00",
@@ -33,16 +23,6 @@
       "team2": "PEPINSTER EAST BELG (+ 8)",
       "category": "AWBB DD - POULE D",
       "location": "LIEGE PANTHERS A",
-      "other": ""
-    },
-    {
-      "code": "AW205001",
-      "date": "2026-08-14",
-      "time": "21:00",
-      "team1": "HANNUT BC (+ 5)",
-      "team2": "PEPINSTER EAST BELG",
-      "category": "AWBB MM - POULE E",
-      "location": "HANNUT BC (+ 5)",
       "other": ""
     },
     {
@@ -64,16 +44,6 @@
       "category": "AWBB MM - POULE E",
       "location": "PEPINSTER EAST BELG",
       "other": ""
-    },
-    {
-      "code": "AW32",
-      "date": "2026-08-14",
-      "time": "21:00",
-      "team1": "HASSELT BT",
-      "team2": "PEPINSTER EAST BELG",
-      "category": "BELGIQUE MM - POULE J",
-      "location": "HASSELT BT",
-      "other": "BNAHSEPJBC"
     },
     {
       "code": "AW64",
@@ -106,16 +76,6 @@
       "other": ""
     },
     {
-      "code": "AW32",
-      "date": "2026-08-14",
-      "time": "21:00",
-      "team1": "HASSELT BT",
-      "team2": "PEPINSTER EAST BELG",
-      "category": "BNAHSEPJBC",
-      "location": "HASSELT BT",
-      "other": ""
-    },
-    {
       "code": "AW84",
       "date": "2026-08-29",
       "time": "19:00",
@@ -143,16 +103,6 @@
       "team2": "PEPINSTER EAST BELG",
       "category": "COUPE AWBB U19 - FILLES",
       "location": "BBC LEUZE",
-      "other": ""
-    },
-    {
-      "code": "206",
-      "date": "2026-08-14",
-      "time": "20:30",
-      "team1": "PEPINSTER EAST BELG",
-      "team2": "BASKET ZONHOVEN",
-      "category": "CPE BELG DAMES",
-      "location": "PEPINSTER EAST BELG",
       "other": ""
     },
     {
@@ -808,7 +758,7 @@
     {
       "code": "402162",
       "date": "2026-12-19",
-      "time": "19:00",
+      "time": "17:00",
       "team1": "RBC VISE A",
       "team2": "PEPINSTER EAST BELG C",
       "category": "MM - DIVISION 2 A",
@@ -1446,16 +1396,6 @@
       "other": ""
     },
     {
-      "code": "902002",
-      "date": "2026-08-15",
-      "time": "17:00",
-      "team1": "R 4A AYWAILLE-HAMOIR A",
-      "team2": "PEPINSTER EAST BELG B",
-      "category": "PROVINCIALE DD - POULE B",
-      "location": "R 4A AYWAILLE-HAMOIR A",
-      "other": ""
-    },
-    {
       "code": "902003",
       "date": "2026-08-23",
       "time": "13:00",
@@ -1476,16 +1416,6 @@
       "other": ""
     },
     {
-      "code": "807002",
-      "date": "2026-08-15",
-      "time": "19:00",
-      "team1": "LA VILLERSOISE B (+ 5)",
-      "team2": "PEPINSTER EAST BELG C",
-      "category": "PROVINCIALE MM - POULE G",
-      "location": "LA VILLERSOISE B (+ 5)",
-      "other": ""
-    },
-    {
       "code": "807003",
       "date": "2026-08-23",
       "time": "17:00",
@@ -1503,16 +1433,6 @@
       "team2": "PEPINSTER EAST BELG C (+",
       "category": "PROVINCIALE MM - POULE G",
       "location": "ABC WAREMME A",
-      "other": ""
-    },
-    {
-      "code": "815002",
-      "date": "2026-08-16",
-      "time": "13:30",
-      "team1": "ROYAL MOSA AC 1941 B",
-      "team2": "PEPINSTER EAST BELG D",
-      "category": "PROVINCIALE MM - POULE O",
-      "location": "ROYAL MOSA AC 1941 B",
       "other": ""
     },
     {
@@ -2366,16 +2286,6 @@
       "other": ""
     },
     {
-      "code": "503021",
-      "date": "2026-09-13",
-      "time": "15:30",
-      "team1": "BC SPRIMONT B",
-      "team2": "PEPINSTER EAST BELG B",
-      "category": "U 12 - MM D",
-      "location": "BC SPRIMONT B",
-      "other": ""
-    },
-    {
       "code": "503034",
       "date": "2026-09-19",
       "time": "12:30",
@@ -2403,6 +2313,16 @@
       "team2": "PEPINSTER EAST BELG B",
       "category": "U 12 - MM D",
       "location": "RBC HANEFFE",
+      "other": ""
+    },
+    {
+      "code": "503021",
+      "date": "2026-10-17",
+      "time": "10:30",
+      "team1": "BC SPRIMONT B",
+      "team2": "PEPINSTER EAST BELG B",
+      "category": "U 12 - MM D",
+      "location": "BC SPRIMONT B",
       "other": ""
     },
     {
@@ -2967,7 +2887,7 @@
     },
     {
       "code": "490023",
-      "date": "2026-09-12",
+      "date": "2026-09-13",
       "time": "11:00",
       "team1": "PEPINSTER EAST BELG B",
       "team2": "HARIMALIA BC",
