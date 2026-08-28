@@ -6,26 +6,6 @@
   },
   "events": [
     {
-      "code": "AW232003",
-      "date": "2026-08-22",
-      "time": "21:00",
-      "team1": "BC SPRIMONT (+ 10)",
-      "team2": "BC LA RULLES A",
-      "category": "AWBB DD - POULE L",
-      "location": "BC SPRIMONT (+ 10)",
-      "other": ""
-    },
-    {
-      "code": "AW202003",
-      "date": "2026-08-20",
-      "time": "21:00",
-      "team1": "BC COINTE (+ 5)",
-      "team2": "BC SPRIMONT",
-      "category": "AWBB MM - POULE B",
-      "location": "BC COINTE (+ 5)",
-      "other": ""
-    },
-    {
       "code": "AW202006",
       "date": "2026-08-30",
       "time": "11:00",
@@ -34,16 +14,6 @@
       "category": "AWBB MM - POULE B",
       "location": "BC SPRIMONT",
       "other": ""
-    },
-    {
-      "code": "AW37",
-      "date": "2026-08-22",
-      "time": "19:00",
-      "team1": "BC SPRIMONT",
-      "team2": "UBCF QUAREGNON",
-      "category": "BELGIQUE MM - POULE C",
-      "location": "BC SPRIMONT",
-      "other": "BNAHSEPCBD"
     },
     {
       "code": "AW70",
@@ -56,16 +26,6 @@
       "other": "BNAHSEPCEB"
     },
     {
-      "code": "AW37",
-      "date": "2026-08-22",
-      "time": "19:00",
-      "team1": "BC SPRIMONT",
-      "team2": "UBCF QUAREGNON",
-      "category": "BNAHSEPCBD",
-      "location": "BC SPRIMONT",
-      "other": ""
-    },
-    {
       "code": "AW70",
       "date": "2026-08-29",
       "time": "18:00",
@@ -73,56 +33,6 @@
       "team2": "BC SPRIMONT",
       "category": "BNAHSEPCEB",
       "location": "BCCA NEUFCHATEAU",
-      "other": ""
-    },
-    {
-      "code": "AW245018",
-      "date": "2026-08-23",
-      "time": "10:00",
-      "team1": "UCCLE EUROPE",
-      "team2": "BC SPRIMONT B",
-      "category": "COUPE AWBB U12 -GARCONS",
-      "location": "UCCLE EUROPE",
-      "other": ""
-    },
-    {
-      "code": "AW244001",
-      "date": "2026-08-23",
-      "time": "13:30",
-      "team1": "BC CENTRE GAUME",
-      "team2": "BC SPRIMONT",
-      "category": "COUPE AWBB U14 - GARCONS",
-      "location": "BC CENTRE GAUME",
-      "other": ""
-    },
-    {
-      "code": "AW243017",
-      "date": "2026-08-22",
-      "time": "15:00",
-      "team1": "BC SPRIMONT B",
-      "team2": "FLOREAL NEUFCHATEAU",
-      "category": "COUPE AWBB U16 - GARCONS",
-      "location": "BC SPRIMONT B",
-      "other": ""
-    },
-    {
-      "code": "AW242023",
-      "date": "2026-08-23",
-      "time": "12:00",
-      "team1": "UCCLE EUROPE A",
-      "team2": "BC SPRIMONT",
-      "category": "COUPE AWBB U18 - GARCONS",
-      "location": "UCCLE EUROPE A",
-      "other": ""
-    },
-    {
-      "code": "AW242030",
-      "date": "2026-08-23",
-      "time": "17:00",
-      "team1": "LA LOUVIERE AM",
-      "team2": "BC SPRIMONT B",
-      "category": "COUPE AWBB U18 - GARCONS",
-      "location": "LA LOUVIERE AM",
       "other": ""
     },
     {
@@ -1836,16 +1746,6 @@
       "other": ""
     },
     {
-      "code": "903003",
-      "date": "2026-08-22",
-      "time": "19:00",
-      "team1": "BC SPRIMONT C (+ 5)",
-      "team2": "ROYAL HERVE-BATTICE D",
-      "category": "PROVINCIALE DD - POULE C",
-      "location": "BC SPRIMONT C (+ 5)",
-      "other": ""
-    },
-    {
       "code": "903005",
       "date": "2026-08-29",
       "time": "19:00",
@@ -1856,16 +1756,6 @@
       "other": ""
     },
     {
-      "code": "910003",
-      "date": "2026-08-22",
-      "time": "17:00",
-      "team1": "BC SPRIMONT B",
-      "team2": "VAIL. JUPILLE (+ 5)",
-      "category": "PROVINCIALE DD - POULE J",
-      "location": "BC SPRIMONT B",
-      "other": ""
-    },
-    {
       "code": "910005",
       "date": "2026-08-30",
       "time": "12:00",
@@ -1873,16 +1763,6 @@
       "team2": "BC SPRIMONT B (+ 5)",
       "category": "PROVINCIALE DD - POULE J",
       "location": "RBC HANEFFE B",
-      "other": ""
-    },
-    {
-      "code": "916004",
-      "date": "2026-08-23",
-      "time": "17:00",
-      "team1": "ROYALE US AWANS (+ 5)",
-      "team2": "BC SPRIMONT A",
-      "category": "PROVINCIALE DD - POULE P",
-      "location": "ROYALE US AWANS (+ 5)",
       "other": ""
     },
     {
@@ -1906,16 +1786,6 @@
       "other": ""
     },
     {
-      "code": "813003",
-      "date": "2026-08-23",
-      "time": "13:00",
-      "team1": "FLERON BBC B",
-      "team2": "BC SPRIMONT E (+ 5)",
-      "category": "PROVINCIALE MM - POULE M",
-      "location": "FLERON BBC B",
-      "other": ""
-    },
-    {
       "code": "813006",
       "date": "2026-08-30",
       "time": "17:00",
@@ -1923,16 +1793,6 @@
       "team2": "VAIL. JUPILLE B",
       "category": "PROVINCIALE MM - POULE M",
       "location": "BC SPRIMONT E (+ 5)",
-      "other": ""
-    },
-    {
-      "code": "825004",
-      "date": "2026-08-22",
-      "time": "20:00",
-      "team1": "UN HUY BASKET (+ 10)",
-      "team2": "BC SPRIMONT C",
-      "category": "PROVINCIALE MM - POULE Y",
-      "location": "UN HUY BASKET (+ 10)",
       "other": ""
     },
     {

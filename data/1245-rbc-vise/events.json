@@ -6,36 +6,6 @@
   },
   "events": [
     {
-      "code": "AW244003",
-      "date": "2026-08-22",
-      "time": "15:00",
-      "team1": "RBC VISE",
-      "team2": "BC SAINT-HUBERT",
-      "category": "COUPE AWBB U14 - GARCONS",
-      "location": "RBC VISE",
-      "other": ""
-    },
-    {
-      "code": "AW243020",
-      "date": "2026-08-23",
-      "time": "13:00",
-      "team1": "R EXC BRUXELLES",
-      "team2": "RBC VISE",
-      "category": "COUPE AWBB U16 - GARCONS",
-      "location": "R EXC BRUXELLES",
-      "other": ""
-    },
-    {
-      "code": "AW242009",
-      "date": "2026-08-22",
-      "time": "15:00",
-      "team1": "R 4A AYWAILLE-HAMOIR",
-      "team2": "RBC VISE",
-      "category": "COUPE AWBB U18 - GARCONS",
-      "location": "R 4A AYWAILLE-HAMOIR",
-      "other": ""
-    },
-    {
       "code": "AW241044",
       "date": "2026-09-26",
       "time": "13:00",
@@ -1526,16 +1496,6 @@
       "other": ""
     },
     {
-      "code": "911004",
-      "date": "2026-08-23",
-      "time": "15:00",
-      "team1": "RBC VISE B (+ 10)",
-      "team2": "RABC ENSIVAL A",
-      "category": "PROVINCIALE DD - POULE K",
-      "location": "RBC VISE B (+ 10)",
-      "other": ""
-    },
-    {
       "code": "911006",
       "date": "2026-08-29",
       "time": "17:00",
@@ -1543,16 +1503,6 @@
       "team2": "RBC VISE B",
       "category": "PROVINCIALE DD - POULE K",
       "location": "RBC DISON-ANDRIMONT B",
-      "other": ""
-    },
-    {
-      "code": "915004",
-      "date": "2026-08-22",
-      "time": "20:00",
-      "team1": "ABC WAREMME C (+ 5)",
-      "team2": "RBC VISE A",
-      "category": "PROVINCIALE DD - POULE O",
-      "location": "ABC WAREMME C (+ 5)",
       "other": ""
     },
     {
@@ -1566,16 +1516,6 @@
       "other": ""
     },
     {
-      "code": "810004",
-      "date": "2026-08-22",
-      "time": "17:00",
-      "team1": "RBC VISE C (+ 10)",
-      "team2": "BC COINTE A",
-      "category": "PROVINCIALE MM - POULE J",
-      "location": "RBC VISE C (+ 10)",
-      "other": ""
-    },
-    {
       "code": "810006",
       "date": "2026-08-29",
       "time": "18:00",
@@ -1583,26 +1523,6 @@
       "team2": "RBC VISE C",
       "category": "PROVINCIALE MM - POULE J",
       "location": "RBC AWANS B (+ 5)",
-      "other": ""
-    },
-    {
-      "code": "819004",
-      "date": "2026-08-23",
-      "time": "17:00",
-      "team1": "RBC VISE D (+ 10)",
-      "team2": "BC VERVIERS B",
-      "category": "PROVINCIALE MM - POULE S",
-      "location": "RBC VISE D (+ 10)",
-      "other": ""
-    },
-    {
-      "code": "821004",
-      "date": "2026-08-22",
-      "time": "18:30",
-      "team1": "RBC ALLEUR E (+ 10)",
-      "team2": "RBC VISE A",
-      "category": "PROVINCIALE MM - POULE U",
-      "location": "RBC ALLEUR E (+ 10)",
       "other": ""
     },
     {
@@ -2606,16 +2526,6 @@
       "other": ""
     },
     {
-      "code": "480023",
-      "date": "2026-09-13",
-      "time": "11:00",
-      "team1": "RBC VISE A",
-      "team2": "RABC ENSIVAL A",
-      "category": "U 14 - ELITES MM A",
-      "location": "RBC VISE A",
-      "other": ""
-    },
-    {
       "code": "480031",
       "date": "2026-09-19",
       "time": "10:30",
@@ -2628,9 +2538,19 @@
     {
       "code": "480053",
       "date": "2026-10-04",
-      "time": "13:00",
+      "time": "9:00",
       "team1": "RBC VISE A",
       "team2": "GIANTS BRAIVES B",
+      "category": "U 14 - ELITES MM A",
+      "location": "RBC VISE A",
+      "other": ""
+    },
+    {
+      "code": "480023",
+      "date": "2026-10-18",
+      "time": "17:00",
+      "team1": "RBC VISE A",
+      "team2": "RABC ENSIVAL A",
       "category": "U 14 - ELITES MM A",
       "location": "RBC VISE A",
       "other": ""
@@ -2828,7 +2748,7 @@
     {
       "code": "491014",
       "date": "2026-10-04",
-      "time": "9:00",
+      "time": "13:00",
       "team1": "RBC VISE B",
       "team2": "MAIL. COMBLAIN",
       "category": "U 14 - PROV MM B",
@@ -4626,6 +4546,16 @@
       "other": ""
     },
     {
+      "code": "541025",
+      "date": "2026-09-13",
+      "time": "9:00",
+      "team1": "RBC VISE",
+      "team2": "THEUX BC B",
+      "category": "U 8 - MM B",
+      "location": "RBC VISE",
+      "other": ""
+    },
+    {
       "code": "541034",
       "date": "2026-09-20",
       "time": "9:00",
@@ -4743,6 +4673,16 @@
       "team2": "CRISTAL SGH B",
       "category": "U 8 - MM B",
       "location": "RBC VISE",
+      "other": ""
+    },
+    {
+      "code": "541226",
+      "date": "2027-01-30",
+      "time": "9:00",
+      "team1": "THEUX BC B",
+      "team2": "RBC VISE",
+      "category": "U 8 - MM B",
+      "location": "THEUX BC B",
       "other": ""
     },
     {

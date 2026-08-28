@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "AW224004",
-      "date": "2026-08-23",
-      "time": "11:00",
-      "team1": "PEPINSTER EAST BELG",
-      "team2": "ROYAL WATERLOO (+ 16)",
-      "category": "AWBB DD - POULE D",
-      "location": "PEPINSTER EAST BELG",
-      "other": ""
-    },
-    {
       "code": "AW224006",
       "date": "2026-08-29",
       "time": "18:15",
@@ -23,16 +13,6 @@
       "team2": "PEPINSTER EAST BELG (+ 8)",
       "category": "AWBB DD - POULE D",
       "location": "LIEGE PANTHERS A",
-      "other": ""
-    },
-    {
-      "code": "AW205003",
-      "date": "2026-08-23",
-      "time": "13:00",
-      "team1": "OLYMPIC MSM B (+ 5)",
-      "team2": "PEPINSTER EAST BELG",
-      "category": "AWBB MM - POULE E",
-      "location": "OLYMPIC MSM B (+ 5)",
       "other": ""
     },
     {
@@ -46,16 +26,6 @@
       "other": ""
     },
     {
-      "code": "AW64",
-      "date": "2026-08-23",
-      "time": "17:00",
-      "team1": "ANTWERP GIANTS B",
-      "team2": "PEPINSTER EAST BELG",
-      "category": "BELGIQUE MM - POULE J",
-      "location": "ANTWERP GIANTS B",
-      "other": "BNAHSEPJAC"
-    },
-    {
       "code": "AW84",
       "date": "2026-08-29",
       "time": "19:00",
@@ -66,16 +36,6 @@
       "other": "BNAHSEPJCB"
     },
     {
-      "code": "AW64",
-      "date": "2026-08-23",
-      "time": "17:00",
-      "team1": "ANTWERP GIANTS B",
-      "team2": "PEPINSTER EAST BELG",
-      "category": "BNAHSEPJAC",
-      "location": "ANTWERP GIANTS B",
-      "other": ""
-    },
-    {
       "code": "AW84",
       "date": "2026-08-29",
       "time": "19:00",
@@ -83,26 +43,6 @@
       "team2": "HASSELT BT",
       "category": "BNAHSEPJCB",
       "location": "PEPINSTER EAST BELG",
-      "other": ""
-    },
-    {
-      "code": "AW242013",
-      "date": "2026-08-21",
-      "time": "20:30",
-      "team1": "ANDENNE BASKET",
-      "team2": "PEPINSTER EAST BELG",
-      "category": "COUPE AWBB U18 - GARCONS",
-      "location": "ANDENNE BASKET",
-      "other": ""
-    },
-    {
-      "code": "AW246012",
-      "date": "2026-08-22",
-      "time": "15:00",
-      "team1": "BBC LEUZE",
-      "team2": "PEPINSTER EAST BELG",
-      "category": "COUPE AWBB U19 - FILLES",
-      "location": "BBC LEUZE",
       "other": ""
     },
     {
@@ -1396,16 +1336,6 @@
       "other": ""
     },
     {
-      "code": "902003",
-      "date": "2026-08-23",
-      "time": "13:00",
-      "team1": "PEPINSTER EAST BELG B",
-      "team2": "PRAYON TROOZ D (+ 5)",
-      "category": "PROVINCIALE DD - POULE B",
-      "location": "PEPINSTER EAST BELG B",
-      "other": ""
-    },
-    {
       "code": "902005",
       "date": "2026-08-30",
       "time": "11:00",
@@ -1416,16 +1346,6 @@
       "other": ""
     },
     {
-      "code": "807003",
-      "date": "2026-08-23",
-      "time": "17:00",
-      "team1": "PEPINSTER EAST BELG C",
-      "team2": "R HT-PRE OUGREE B (+ 10)",
-      "category": "PROVINCIALE MM - POULE G",
-      "location": "PEPINSTER EAST BELG C",
-      "other": ""
-    },
-    {
       "code": "807005",
       "date": "2026-08-29",
       "time": "17:00",
@@ -1433,16 +1353,6 @@
       "team2": "PEPINSTER EAST BELG C (+",
       "category": "PROVINCIALE MM - POULE G",
       "location": "ABC WAREMME A",
-      "other": ""
-    },
-    {
-      "code": "815003",
-      "date": "2026-08-23",
-      "time": "15:00",
-      "team1": "PEPINSTER EAST BELG D (+",
-      "team2": "RBC BLEGNY B",
-      "category": "PROVINCIALE MM - POULE O",
-      "location": "PEPINSTER EAST BELG D (+",
       "other": ""
     },
     {
@@ -1696,16 +1606,6 @@
       "other": ""
     },
     {
-      "code": "520012",
-      "date": "2026-09-05",
-      "time": "9:00",
-      "team1": "PEPINSTER EAST BELG A",
-      "team2": "ROYAL SPA BC A",
-      "category": "U 10 - MM A",
-      "location": "PEPINSTER EAST BELG A",
-      "other": ""
-    },
-    {
       "code": "520036",
       "date": "2026-09-20",
       "time": "9:00",
@@ -1763,6 +1663,16 @@
       "team2": "PEPINSTER EAST BELG A",
       "category": "U 10 - MM A",
       "location": "THEUX BC A",
+      "other": ""
+    },
+    {
+      "code": "520012",
+      "date": "2026-11-29",
+      "time": "9:00",
+      "team1": "PEPINSTER EAST BELG A",
+      "team2": "ROYAL SPA BC A",
+      "category": "U 10 - MM A",
+      "location": "PEPINSTER EAST BELG A",
       "other": ""
     },
     {
@@ -4239,10 +4149,10 @@
       "code": "540152",
       "date": "2026-12-12",
       "time": "9:00",
-      "team1": "THEUX BC",
+      "team1": "THEUX BC A",
       "team2": "PEPINSTER EAST BELG A",
       "category": "U 8 - MM A",
-      "location": "THEUX BC",
+      "location": "THEUX BC A",
       "other": ""
     },
     {
@@ -4270,7 +4180,7 @@
       "date": "2027-01-23",
       "time": "10:45",
       "team1": "PEPINSTER EAST BELG A",
-      "team2": "THEUX BC",
+      "team2": "THEUX BC A",
       "category": "U 8 - MM A",
       "location": "PEPINSTER EAST BELG A",
       "other": ""
@@ -4446,6 +4356,16 @@
       "other": ""
     },
     {
+      "code": "541162",
+      "date": "2026-12-19",
+      "time": "10:45",
+      "team1": "PEPINSTER EAST BELG B",
+      "team2": "THEUX BC B",
+      "category": "U 8 - MM B",
+      "location": "PEPINSTER EAST BELG B",
+      "other": ""
+    },
+    {
       "code": "541196",
       "date": "2027-01-09",
       "time": "9:00",
@@ -4503,6 +4423,16 @@
       "team2": "RBC AUBEL B",
       "category": "U 8 - MM B",
       "location": "PEPINSTER EAST BELG B",
+      "other": ""
+    },
+    {
+      "code": "541286",
+      "date": "2027-03-13",
+      "time": "9:00",
+      "team1": "THEUX BC B",
+      "team2": "PEPINSTER EAST BELG B",
+      "category": "U 8 - MM B",
+      "location": "THEUX BC B",
       "other": ""
     },
     {

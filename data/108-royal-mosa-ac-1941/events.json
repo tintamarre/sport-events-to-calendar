@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "AW242004",
-      "date": "2026-08-23",
-      "time": "11:30",
-      "team1": "ROYAL MOSA AC 1941",
-      "team2": "UBCF QUAREGNON",
-      "category": "COUPE AWBB U18 - GARCONS",
-      "location": "ROYAL MOSA AC 1941",
-      "other": ""
-    },
-    {
       "code": "762020",
       "date": "2026-09-27",
       "time": "9:30",
@@ -516,16 +506,6 @@
       "other": ""
     },
     {
-      "code": "815004",
-      "date": "2026-08-23",
-      "time": "13:30",
-      "team1": "ROYAL MOSA AC 1941 B (+",
-      "team2": "ATLAS A JUPILLE B",
-      "category": "PROVINCIALE MM - POULE O",
-      "location": "ROYAL MOSA AC 1941 B (+",
-      "other": ""
-    },
-    {
       "code": "815006",
       "date": "2026-08-28",
       "time": "20:00",
@@ -533,16 +513,6 @@
       "team2": "ROYAL MOSA AC 1941 B (+",
       "category": "PROVINCIALE MM - POULE O",
       "location": "RBC BLEGNY B",
-      "other": ""
-    },
-    {
-      "code": "820004",
-      "date": "2026-08-23",
-      "time": "17:00",
-      "team1": "ETOILE JUPILLE C (+ 10)",
-      "team2": "ROYAL MOSA AC 1941 A",
-      "category": "PROVINCIALE MM - POULE T",
-      "location": "ETOILE JUPILLE C (+ 10)",
       "other": ""
     },
     {
@@ -1676,6 +1646,16 @@
       "other": ""
     },
     {
+      "code": "541116",
+      "date": "2026-11-14",
+      "time": "9:00",
+      "team1": "THEUX BC B",
+      "team2": "ROYAL MOSA AC 1941",
+      "category": "U 8 - MM B",
+      "location": "THEUX BC B",
+      "other": ""
+    },
+    {
       "code": "541125",
       "date": "2026-11-21",
       "time": "9:30",
@@ -1751,6 +1731,16 @@
       "time": "9:30",
       "team1": "ROYAL MOSA AC 1941",
       "team2": "RABC ENSIVAL",
+      "category": "U 8 - MM B",
+      "location": "ROYAL MOSA AC 1941",
+      "other": ""
+    },
+    {
+      "code": "541235",
+      "date": "2027-02-06",
+      "time": "9:30",
+      "team1": "ROYAL MOSA AC 1941",
+      "team2": "THEUX BC B",
       "category": "U 8 - MM B",
       "location": "ROYAL MOSA AC 1941",
       "other": ""

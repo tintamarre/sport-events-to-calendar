@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "AW222004",
-      "date": "2026-08-22",
-      "time": "17:00",
-      "team1": "BC COINTE",
-      "team2": "GANSHOREN DAMES B (+ 16",
-      "category": "AWBB DD - POULE B",
-      "location": "BC COINTE",
-      "other": ""
-    },
-    {
       "code": "AW222006",
       "date": "2026-08-29",
       "time": "18:00",
@@ -23,16 +13,6 @@
       "team2": "BC COINTE (+ 8)",
       "category": "AWBB DD - POULE B",
       "location": "ROYAL BC CINEY A",
-      "other": ""
-    },
-    {
-      "code": "AW202003",
-      "date": "2026-08-20",
-      "time": "21:00",
-      "team1": "BC COINTE (+ 5)",
-      "team2": "BC SPRIMONT",
-      "category": "AWBB MM - POULE B",
-      "location": "BC COINTE (+ 5)",
       "other": ""
     },
     {
@@ -73,16 +53,6 @@
       "team2": "BC COINTE A",
       "category": "DD - REGIONALE 1",
       "location": "GANSHOREN DAMES",
-      "other": ""
-    },
-    {
-      "code": "AW104014",
-      "date": "2026-09-12",
-      "time": "17:00",
-      "team1": "BC COINTE A",
-      "team2": "RBC ALLEUR A",
-      "category": "DD - REGIONALE 1",
-      "location": "BC COINTE A",
       "other": ""
     },
     {
@@ -197,12 +167,22 @@
     },
     {
       "code": "AW104081",
-      "date": "2027-01-31",
-      "time": "15:00",
+      "date": "2027-01-23",
+      "time": "18:30",
       "team1": "RBC ALLEUR A",
       "team2": "BC COINTE A",
       "category": "DD - REGIONALE 1",
       "location": "RBC ALLEUR A",
+      "other": ""
+    },
+    {
+      "code": "AW104014",
+      "date": "2027-01-30",
+      "time": "17:00",
+      "team1": "BC COINTE A",
+      "team2": "RBC ALLEUR A",
+      "category": "DD - REGIONALE 1",
+      "location": "BC COINTE A",
       "other": ""
     },
     {
@@ -283,16 +263,6 @@
       "team2": "RCS NATOYE",
       "category": "DD - REGIONALE 1",
       "location": "BC COINTE A",
-      "other": ""
-    },
-    {
-      "code": "AW222004",
-      "date": "2026-08-22",
-      "time": "17:00",
-      "team1": "BC COINTE",
-      "team2": "GANSHOREN DAMES B (+ 16)",
-      "category": "GANSHOREN DAMES B (+ 16)",
-      "location": "BC COINTE",
       "other": ""
     },
     {
@@ -1046,16 +1016,6 @@
       "other": ""
     },
     {
-      "code": "806004",
-      "date": "2026-08-22",
-      "time": "19:00",
-      "team1": "BC COINTE B (+ 10)",
-      "team2": "RBC STAVELOT A",
-      "category": "PROVINCIALE MM - POULE F",
-      "location": "BC COINTE B (+ 10)",
-      "other": ""
-    },
-    {
       "code": "806006",
       "date": "2026-08-30",
       "time": "11:00",
@@ -1063,16 +1023,6 @@
       "team2": "BC COINTE B",
       "category": "PROVINCIALE MM - POULE F",
       "location": "R REN. MONTEGNEE B (+ 5)",
-      "other": ""
-    },
-    {
-      "code": "810004",
-      "date": "2026-08-22",
-      "time": "17:00",
-      "team1": "RBC VISE C (+ 10)",
-      "team2": "BC COINTE A",
-      "category": "PROVINCIALE MM - POULE J",
-      "location": "RBC VISE C (+ 10)",
       "other": ""
     },
     {
@@ -2578,7 +2528,7 @@
     {
       "code": "491222",
       "date": "2027-01-30",
-      "time": "15:30",
+      "time": "15:00",
       "team1": "BC COINTE B",
       "team2": "RB TILFF B",
       "category": "U 14 - PROV MM B",

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20T22:10:12.843Z",
+  "lastUpdated": "2026-08-28T00:57:34.726Z",
   "clubs": [
     {
       "id": "709",
@@ -1381,6 +1381,7 @@
       "categories": [
         "DD - DIVISION 3 B",
         "DD - DIVISION 3 C",
+        "Forfait visité",
         "MM - DIVISION 4 A",
         "MM - DIVISION 4 E",
         "PROVINCIALE DD - POULE G",
@@ -1400,6 +1401,7 @@
       "icsFiles": {
         "DD - DIVISION 3 B": "/data/2657-df-bc-malmedy/dd-division-3-b.ics",
         "DD - DIVISION 3 C": "/data/2657-df-bc-malmedy/dd-division-3-c.ics",
+        "Forfait visité": "/data/2657-df-bc-malmedy/forfait-visite.ics",
         "MM - DIVISION 4 A": "/data/2657-df-bc-malmedy/mm-division-4-a.ics",
         "MM - DIVISION 4 E": "/data/2657-df-bc-malmedy/mm-division-4-e.ics",
         "PROVINCIALE DD - POULE G": "/data/2657-df-bc-malmedy/provinciale-dd-poule-g.ics",
@@ -1549,6 +1551,7 @@
         "CPE PROV PUPILLES MM",
         "DD - DIVISION 3 A",
         "DD - DIVISION 3 C",
+        "Forfait visiteur",
         "MM - DIVISION 1",
         "MM - DIVISION 3 A",
         "MM - DIVISION 4 A",
@@ -1572,6 +1575,7 @@
         "CPE PROV PUPILLES MM": "/data/2410-etoile-jupille/cpe-prov-pupilles-mm.ics",
         "DD - DIVISION 3 A": "/data/2410-etoile-jupille/dd-division-3-a.ics",
         "DD - DIVISION 3 C": "/data/2410-etoile-jupille/dd-division-3-c.ics",
+        "Forfait visiteur": "/data/2410-etoile-jupille/forfait-visiteur.ics",
         "MM - DIVISION 1": "/data/2410-etoile-jupille/mm-division-1.ics",
         "MM - DIVISION 3 A": "/data/2410-etoile-jupille/mm-division-3-a.ics",
         "MM - DIVISION 4 A": "/data/2410-etoile-jupille/mm-division-4-a.ics",
@@ -1593,6 +1597,7 @@
       "name": "Fleron Bbc",
       "slug": "2724-fleron-bbc",
       "categories": [
+        "Forfait visiteur",
         "MM - DIVISION 2 A",
         "MM - DIVISION 3 A",
         "MM - DIVISION 3 C",
@@ -1608,6 +1613,7 @@
       "jsonPath": "/data/2724-fleron-bbc/events.json",
       "csvPath": "/data/2724-fleron-bbc/2724-fleron-bbc.csv",
       "icsFiles": {
+        "Forfait visiteur": "/data/2724-fleron-bbc/forfait-visiteur.ics",
         "MM - DIVISION 2 A": "/data/2724-fleron-bbc/mm-division-2-a.ics",
         "MM - DIVISION 3 A": "/data/2724-fleron-bbc/mm-division-3-a.ics",
         "MM - DIVISION 3 C": "/data/2724-fleron-bbc/mm-division-3-c.ics",
@@ -1935,6 +1941,7 @@
         "DD - DIVISION 2 A",
         "DD - DIVISION 3 A",
         "DD - DIVISION 3 C",
+        "Forfait visité",
         "MM - DIVISION 2 A",
         "MM - DIVISION 3 A",
         "MM - DIVISION 3 B",
@@ -1990,6 +1997,7 @@
         "DD - DIVISION 2 A": "/data/2558-la-villersoise/dd-division-2-a.ics",
         "DD - DIVISION 3 A": "/data/2558-la-villersoise/dd-division-3-a.ics",
         "DD - DIVISION 3 C": "/data/2558-la-villersoise/dd-division-3-c.ics",
+        "Forfait visité": "/data/2558-la-villersoise/forfait-visite.ics",
         "MM - DIVISION 2 A": "/data/2558-la-villersoise/mm-division-2-a.ics",
         "MM - DIVISION 3 A": "/data/2558-la-villersoise/mm-division-3-a.ics",
         "MM - DIVISION 3 B": "/data/2558-la-villersoise/mm-division-3-b.ics",
@@ -2559,6 +2567,7 @@
         "DD - DIVISION 2 A",
         "DD - DIVISION 3 B",
         "DD - DIVISION 3 C",
+        "Forfait visiteur",
         "MM - DIVISION 3 B",
         "MM - DIVISION 4 B",
         "MM - DIVISION 4 D",
@@ -2590,6 +2599,7 @@
         "DD - DIVISION 2 A": "/data/1429-r-ht-pre-ougree/dd-division-2-a.ics",
         "DD - DIVISION 3 B": "/data/1429-r-ht-pre-ougree/dd-division-3-b.ics",
         "DD - DIVISION 3 C": "/data/1429-r-ht-pre-ougree/dd-division-3-c.ics",
+        "Forfait visiteur": "/data/1429-r-ht-pre-ougree/forfait-visiteur.ics",
         "MM - DIVISION 3 B": "/data/1429-r-ht-pre-ougree/mm-division-3-b.ics",
         "MM - DIVISION 4 B": "/data/1429-r-ht-pre-ougree/mm-division-4-b.ics",
         "MM - DIVISION 4 D": "/data/1429-r-ht-pre-ougree/mm-division-4-d.ics",
@@ -3208,6 +3218,7 @@
       "slug": "914-rbc-croatia-oupeye",
       "categories": [
         "DD - DIVISION 1",
+        "Forfait visiteur",
         "MM - DIVISION 4 B",
         "MM - DIVISION 4 C",
         "PROVINCIALE DD - POULE M",
@@ -3217,6 +3228,7 @@
       "csvPath": "/data/914-rbc-croatia-oupeye/914-rbc-croatia-oupeye.csv",
       "icsFiles": {
         "DD - DIVISION 1": "/data/914-rbc-croatia-oupeye/dd-division-1.ics",
+        "Forfait visiteur": "/data/914-rbc-croatia-oupeye/forfait-visiteur.ics",
         "MM - DIVISION 4 B": "/data/914-rbc-croatia-oupeye/mm-division-4-b.ics",
         "MM - DIVISION 4 C": "/data/914-rbc-croatia-oupeye/mm-division-4-c.ics",
         "PROVINCIALE DD - POULE M": "/data/914-rbc-croatia-oupeye/provinciale-dd-poule-m.ics",
@@ -3402,6 +3414,7 @@
         "DD - DIVISION 3 C",
         "DD - REGIONALE 2 A",
         "DD - REGIONALE 2 B",
+        "Forfait visité",
         "MM - DIVISION 1",
         "MM - DIVISION 2 B",
         "MM - DIVISION 3 B",
@@ -3443,6 +3456,7 @@
         "DD - DIVISION 3 C": "/data/1034-rbc-haneffe/dd-division-3-c.ics",
         "DD - REGIONALE 2 A": "/data/1034-rbc-haneffe/dd-regionale-2-a.ics",
         "DD - REGIONALE 2 B": "/data/1034-rbc-haneffe/dd-regionale-2-b.ics",
+        "Forfait visité": "/data/1034-rbc-haneffe/forfait-visite.ics",
         "MM - DIVISION 1": "/data/1034-rbc-haneffe/mm-division-1.ics",
         "MM - DIVISION 2 B": "/data/1034-rbc-haneffe/mm-division-2-b.ics",
         "MM - DIVISION 3 B": "/data/1034-rbc-haneffe/mm-division-3-b.ics",
@@ -3482,6 +3496,7 @@
         "CPE PROV MINIMES MM",
         "DD - DIVISION 2 A",
         "DD - DIVISION 2 B",
+        "Forfait visiteur",
         "MM - DIVISION 1",
         "MM - DIVISION 2 A",
         "MM - DIVISION 3 C",
@@ -3514,6 +3529,7 @@
         "CPE PROV MINIMES MM": "/data/691-rbc-stavelot/cpe-prov-minimes-mm.ics",
         "DD - DIVISION 2 A": "/data/691-rbc-stavelot/dd-division-2-a.ics",
         "DD - DIVISION 2 B": "/data/691-rbc-stavelot/dd-division-2-b.ics",
+        "Forfait visiteur": "/data/691-rbc-stavelot/forfait-visiteur.ics",
         "MM - DIVISION 1": "/data/691-rbc-stavelot/mm-division-1.ics",
         "MM - DIVISION 2 A": "/data/691-rbc-stavelot/mm-division-2-a.ics",
         "MM - DIVISION 3 C": "/data/691-rbc-stavelot/mm-division-3-c.ics",
@@ -4331,7 +4347,8 @@
         "U 21 - MM",
         "U 21 - MM A",
         "U 7 - MM A",
-        "U 8 - MM A"
+        "U 8 - MM A",
+        "U 8 - MM B"
       ],
       "jsonPath": "/data/2061-theux-bc/events.json",
       "csvPath": "/data/2061-theux-bc/2061-theux-bc.csv",
@@ -4366,7 +4383,8 @@
         "U 21 - MM A": "/data/2061-theux-bc/u-21-mm-a.ics",
         "U 21 - MM": "/data/2061-theux-bc/u-21-mm.ics",
         "U 7 - MM A": "/data/2061-theux-bc/u-7-mm-a.ics",
-        "U 8 - MM A": "/data/2061-theux-bc/u-8-mm-a.ics"
+        "U 8 - MM A": "/data/2061-theux-bc/u-8-mm-a.ics",
+        "U 8 - MM B": "/data/2061-theux-bc/u-8-mm-b.ics"
       }
     },
     {

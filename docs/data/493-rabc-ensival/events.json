@@ -1296,16 +1296,6 @@
       "other": ""
     },
     {
-      "code": "911004",
-      "date": "2026-08-23",
-      "time": "15:00",
-      "team1": "RBC VISE B (+ 10)",
-      "team2": "RABC ENSIVAL A",
-      "category": "PROVINCIALE DD - POULE K",
-      "location": "RBC VISE B (+ 10)",
-      "other": ""
-    },
-    {
       "code": "911005",
       "date": "2026-08-29",
       "time": "17:00",
@@ -1316,16 +1306,6 @@
       "other": ""
     },
     {
-      "code": "801004",
-      "date": "2026-08-23",
-      "time": "11:00",
-      "team1": "RABC ENSIVAL B (+ 10)",
-      "team2": "HANNUT BC A",
-      "category": "PROVINCIALE MM - POULE A",
-      "location": "RABC ENSIVAL B (+ 10)",
-      "other": ""
-    },
-    {
       "code": "801006",
       "date": "2026-08-30",
       "time": "12:30",
@@ -1333,26 +1313,6 @@
       "team2": "RABC ENSIVAL B",
       "category": "PROVINCIALE MM - POULE A",
       "location": "RBC WELKENRAEDT B (+ 5)",
-      "other": ""
-    },
-    {
-      "code": "831004",
-      "date": "2026-08-23",
-      "time": "13:00",
-      "team1": "RABC ENSIVAL D (+ 10)",
-      "team2": "RBC HANEFFE A",
-      "category": "PROVINCIALE MM - POULE EE",
-      "location": "RABC ENSIVAL D (+ 10)",
-      "other": ""
-    },
-    {
-      "code": "832004",
-      "date": "2026-08-22",
-      "time": "19:30",
-      "team1": "RBC CROATIA OUPEYE (+ 10",
-      "team2": "RABC ENSIVAL A",
-      "category": "PROVINCIALE MM - POULE FF",
-      "location": "RBC CROATIA OUPEYE (+ 10",
       "other": ""
     },
     {
@@ -2276,16 +2236,6 @@
       "other": ""
     },
     {
-      "code": "480023",
-      "date": "2026-09-13",
-      "time": "11:00",
-      "team1": "RBC VISE A",
-      "team2": "RABC ENSIVAL A",
-      "category": "U 14 - ELITES MM A",
-      "location": "RBC VISE A",
-      "other": ""
-    },
-    {
       "code": "480036",
       "date": "2026-09-20",
       "time": "9:00",
@@ -2303,6 +2253,16 @@
       "team2": "RABC ENSIVAL A",
       "category": "U 14 - ELITES MM A",
       "location": "CRISTAL SGH A",
+      "other": ""
+    },
+    {
+      "code": "480023",
+      "date": "2026-10-18",
+      "time": "17:00",
+      "team1": "RBC VISE A",
+      "team2": "RABC ENSIVAL A",
+      "category": "U 14 - ELITES MM A",
+      "location": "RBC VISE A",
       "other": ""
     },
     {
@@ -3096,6 +3056,16 @@
       "other": ""
     },
     {
+      "code": "541066",
+      "date": "2026-10-10",
+      "time": "9:00",
+      "team1": "RABC ENSIVAL",
+      "team2": "THEUX BC B",
+      "category": "U 8 - MM B",
+      "location": "RABC ENSIVAL",
+      "other": ""
+    },
+    {
       "code": "541106",
       "date": "2026-11-07",
       "time": "11:00",
@@ -3233,6 +3203,16 @@
       "team2": "RABC ENSIVAL",
       "category": "U 8 - MM B",
       "location": "CRISTAL SGH B",
+      "other": ""
+    },
+    {
+      "code": "541306",
+      "date": "2027-03-27",
+      "time": "9:00",
+      "team1": "THEUX BC B",
+      "team2": "RABC ENSIVAL",
+      "category": "U 8 - MM B",
+      "location": "THEUX BC B",
       "other": ""
     },
     {

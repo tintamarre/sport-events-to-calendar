@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "AW214003",
-      "date": "2026-08-23",
-      "time": "11:00",
-      "team1": "THEUX BC (+ 5)",
-      "team2": "UCCLE EUROPE B",
-      "category": "AWBB MM - POULE N",
-      "location": "THEUX BC (+ 5)",
-      "other": ""
-    },
-    {
       "code": "AW214005",
       "date": "2026-08-29",
       "time": "18:00",
@@ -1006,16 +996,6 @@
       "other": ""
     },
     {
-      "code": "803004",
-      "date": "2026-08-22",
-      "time": "21:00",
-      "team1": "R HT-PRE OUGREE A (+ 10)",
-      "team2": "THEUX BC A",
-      "category": "PROVINCIALE MM - POULE C",
-      "location": "R HT-PRE OUGREE A (+ 10)",
-      "other": ""
-    },
-    {
       "code": "803005",
       "date": "2026-08-27",
       "time": "21:00",
@@ -1026,16 +1006,6 @@
       "other": ""
     },
     {
-      "code": "804004",
-      "date": "2026-08-23",
-      "time": "11:00",
-      "team1": "THEUX BC C (+ 15)",
-      "team2": "ATLAS A JUPILLE A",
-      "category": "PROVINCIALE MM - POULE D",
-      "location": "THEUX BC C (+ 15)",
-      "other": ""
-    },
-    {
       "code": "804006",
       "date": "2026-08-30",
       "time": "17:00",
@@ -1043,16 +1013,6 @@
       "team2": "THEUX BC C (+ 5)",
       "category": "PROVINCIALE MM - POULE D",
       "location": "CRISTAL SGH B",
-      "other": ""
-    },
-    {
-      "code": "817003",
-      "date": "2026-08-22",
-      "time": "19:00",
-      "team1": "R 4A AYWAILLE-HAMOIR C (",
-      "team2": "THEUX BC B",
-      "category": "PROVINCIALE MM - POULE Q",
-      "location": "R 4A AYWAILLE-HAMOIR C (",
       "other": ""
     },
     {
@@ -2929,10 +2889,10 @@
       "code": "540012",
       "date": "2026-09-05",
       "time": "9:00",
-      "team1": "THEUX BC",
+      "team1": "THEUX BC A",
       "team2": "ROYAL SPA BC A",
       "category": "U 8 - MM A",
-      "location": "THEUX BC",
+      "location": "THEUX BC A",
       "other": ""
     },
     {
@@ -2940,7 +2900,7 @@
       "date": "2026-09-19",
       "time": "10:30",
       "team1": "BBC EUPEN",
-      "team2": "THEUX BC",
+      "team2": "THEUX BC A",
       "category": "U 8 - MM A",
       "location": "BBC EUPEN",
       "other": ""
@@ -2949,10 +2909,10 @@
       "code": "540052",
       "date": "2026-10-03",
       "time": "9:00",
-      "team1": "THEUX BC",
+      "team1": "THEUX BC A",
       "team2": "VAIL. JUPILLE",
       "category": "U 8 - MM A",
-      "location": "THEUX BC",
+      "location": "THEUX BC A",
       "other": ""
     },
     {
@@ -2960,7 +2920,7 @@
       "date": "2026-10-10",
       "time": "10:15",
       "team1": "RBC BLEGNY",
-      "team2": "THEUX BC",
+      "team2": "THEUX BC A",
       "category": "U 8 - MM A",
       "location": "RBC BLEGNY",
       "other": ""
@@ -2970,7 +2930,7 @@
       "date": "2026-11-07",
       "time": "9:00",
       "team1": "RBC DISON-ANDRIMONT",
-      "team2": "THEUX BC",
+      "team2": "THEUX BC A",
       "category": "U 8 - MM A",
       "location": "RBC DISON-ANDRIMONT",
       "other": ""
@@ -2979,30 +2939,30 @@
       "code": "540112",
       "date": "2026-11-14",
       "time": "9:00",
-      "team1": "THEUX BC",
+      "team1": "THEUX BC A",
       "team2": "RBC STAVELOT",
       "category": "U 8 - MM A",
-      "location": "THEUX BC",
+      "location": "THEUX BC A",
       "other": ""
     },
     {
       "code": "540142",
       "date": "2026-12-05",
       "time": "9:00",
-      "team1": "THEUX BC",
+      "team1": "THEUX BC A",
       "team2": "RBC AUBEL A",
       "category": "U 8 - MM A",
-      "location": "THEUX BC",
+      "location": "THEUX BC A",
       "other": ""
     },
     {
       "code": "540152",
       "date": "2026-12-12",
       "time": "9:00",
-      "team1": "THEUX BC",
+      "team1": "THEUX BC A",
       "team2": "PEPINSTER EAST BELG A",
       "category": "U 8 - MM A",
-      "location": "THEUX BC",
+      "location": "THEUX BC A",
       "other": ""
     },
     {
@@ -3010,7 +2970,7 @@
       "date": "2026-12-20",
       "time": "9:00",
       "team1": "HENRI-CHAPELLE A",
-      "team2": "THEUX BC",
+      "team2": "THEUX BC A",
       "category": "U 8 - MM A",
       "location": "HENRI-CHAPELLE A",
       "other": ""
@@ -3019,10 +2979,10 @@
       "code": "540192",
       "date": "2027-01-09",
       "time": "9:00",
-      "team1": "THEUX BC",
+      "team1": "THEUX BC A",
       "team2": "BBC EUPEN",
       "category": "U 8 - MM A",
-      "location": "THEUX BC",
+      "location": "THEUX BC A",
       "other": ""
     },
     {
@@ -3030,7 +2990,7 @@
       "date": "2027-01-17",
       "time": "9:00",
       "team1": "ROYAL SPA BC A",
-      "team2": "THEUX BC",
+      "team2": "THEUX BC A",
       "category": "U 8 - MM A",
       "location": "ROYAL SPA BC A",
       "other": ""
@@ -3040,7 +3000,7 @@
       "date": "2027-01-23",
       "time": "10:45",
       "team1": "PEPINSTER EAST BELG A",
-      "team2": "THEUX BC",
+      "team2": "THEUX BC A",
       "category": "U 8 - MM A",
       "location": "PEPINSTER EAST BELG A",
       "other": ""
@@ -3049,10 +3009,10 @@
       "code": "540222",
       "date": "2027-01-30",
       "time": "9:00",
-      "team1": "THEUX BC",
+      "team1": "THEUX BC A",
       "team2": "BC VERVIERS",
       "category": "U 8 - MM A",
-      "location": "THEUX BC",
+      "location": "THEUX BC A",
       "other": ""
     },
     {
@@ -3060,7 +3020,7 @@
       "date": "2027-02-06",
       "time": "9:00",
       "team1": "RBC STAVELOT",
-      "team2": "THEUX BC",
+      "team2": "THEUX BC A",
       "category": "U 8 - MM A",
       "location": "RBC STAVELOT",
       "other": ""
@@ -3070,7 +3030,7 @@
       "date": "2027-02-13",
       "time": "10:00",
       "team1": "VAIL. JUPILLE",
-      "team2": "THEUX BC",
+      "team2": "THEUX BC A",
       "category": "U 8 - MM A",
       "location": "VAIL. JUPILLE",
       "other": ""
@@ -3079,30 +3039,30 @@
       "code": "540282",
       "date": "2027-03-13",
       "time": "9:00",
-      "team1": "THEUX BC",
+      "team1": "THEUX BC A",
       "team2": "HENRI-CHAPELLE A",
       "category": "U 8 - MM A",
-      "location": "THEUX BC",
+      "location": "THEUX BC A",
       "other": ""
     },
     {
       "code": "540292",
       "date": "2027-03-20",
       "time": "9:00",
-      "team1": "THEUX BC",
+      "team1": "THEUX BC A",
       "team2": "RBC DISON-ANDRIMONT",
       "category": "U 8 - MM A",
-      "location": "THEUX BC",
+      "location": "THEUX BC A",
       "other": ""
     },
     {
       "code": "540302",
       "date": "2027-03-27",
       "time": "9:00",
-      "team1": "THEUX BC",
+      "team1": "THEUX BC A",
       "team2": "RBC BLEGNY",
       "category": "U 8 - MM A",
-      "location": "THEUX BC",
+      "location": "THEUX BC A",
       "other": ""
     },
     {
@@ -3110,9 +3070,229 @@
       "date": "2027-04-17",
       "time": "9:00",
       "team1": "RBC AUBEL A",
-      "team2": "THEUX BC",
+      "team2": "THEUX BC A",
       "category": "U 8 - MM A",
       "location": "RBC AUBEL A",
+      "other": ""
+    },
+    {
+      "code": "541013",
+      "date": "2026-09-05",
+      "time": "9:00",
+      "team1": "RBC ALLEUR",
+      "team2": "THEUX BC B",
+      "category": "U 8 - MM B",
+      "location": "RBC ALLEUR",
+      "other": ""
+    },
+    {
+      "code": "541025",
+      "date": "2026-09-13",
+      "time": "9:00",
+      "team1": "RBC VISE",
+      "team2": "THEUX BC B",
+      "category": "U 8 - MM B",
+      "location": "RBC VISE",
+      "other": ""
+    },
+    {
+      "code": "541036",
+      "date": "2026-09-19",
+      "time": "9:00",
+      "team1": "THEUX BC B",
+      "team2": "HARIMALIA BC",
+      "category": "U 8 - MM B",
+      "location": "THEUX BC B",
+      "other": ""
+    },
+    {
+      "code": "541056",
+      "date": "2026-10-03",
+      "time": "9:00",
+      "team1": "THEUX BC B",
+      "team2": "PRAYON TROOZ",
+      "category": "U 8 - MM B",
+      "location": "THEUX BC B",
+      "other": ""
+    },
+    {
+      "code": "541066",
+      "date": "2026-10-10",
+      "time": "9:00",
+      "team1": "RABC ENSIVAL",
+      "team2": "THEUX BC B",
+      "category": "U 8 - MM B",
+      "location": "RABC ENSIVAL",
+      "other": ""
+    },
+    {
+      "code": "541104",
+      "date": "2026-11-08",
+      "time": "9:00",
+      "team1": "RBC AUBEL B",
+      "team2": "THEUX BC B",
+      "category": "U 8 - MM B",
+      "location": "RBC AUBEL B",
+      "other": ""
+    },
+    {
+      "code": "541116",
+      "date": "2026-11-14",
+      "time": "9:00",
+      "team1": "THEUX BC B",
+      "team2": "ROYAL MOSA AC 1941",
+      "category": "U 8 - MM B",
+      "location": "THEUX BC B",
+      "other": ""
+    },
+    {
+      "code": "541126",
+      "date": "2026-11-21",
+      "time": "9:00",
+      "team1": "THEUX BC B",
+      "team2": "CRISTAL SGH B",
+      "category": "U 8 - MM B",
+      "location": "THEUX BC B",
+      "other": ""
+    },
+    {
+      "code": "541141",
+      "date": "2026-12-05",
+      "time": "10:00",
+      "team1": "ROYAL SPA BC B",
+      "team2": "THEUX BC B",
+      "category": "U 8 - MM B",
+      "location": "ROYAL SPA BC B",
+      "other": ""
+    },
+    {
+      "code": "541156",
+      "date": "2026-12-12",
+      "time": "9:00",
+      "team1": "THEUX BC B",
+      "team2": "HENRI-CHAPELLE B",
+      "category": "U 8 - MM B",
+      "location": "THEUX BC B",
+      "other": ""
+    },
+    {
+      "code": "541162",
+      "date": "2026-12-19",
+      "time": "10:45",
+      "team1": "PEPINSTER EAST BELG B",
+      "team2": "THEUX BC B",
+      "category": "U 8 - MM B",
+      "location": "PEPINSTER EAST BELG B",
+      "other": ""
+    },
+    {
+      "code": "541192",
+      "date": "2027-01-09",
+      "time": "15:00",
+      "team1": "HARIMALIA BC",
+      "team2": "THEUX BC B",
+      "category": "U 8 - MM B",
+      "location": "HARIMALIA BC",
+      "other": ""
+    },
+    {
+      "code": "541206",
+      "date": "2027-01-16",
+      "time": "9:00",
+      "team1": "THEUX BC B",
+      "team2": "RBC ALLEUR",
+      "category": "U 8 - MM B",
+      "location": "THEUX BC B",
+      "other": ""
+    },
+    {
+      "code": "541211",
+      "date": "2027-01-24",
+      "time": "9:00",
+      "team1": "HENRI-CHAPELLE B",
+      "team2": "THEUX BC B",
+      "category": "U 8 - MM B",
+      "location": "HENRI-CHAPELLE B",
+      "other": ""
+    },
+    {
+      "code": "541226",
+      "date": "2027-01-30",
+      "time": "9:00",
+      "team1": "THEUX BC B",
+      "team2": "RBC VISE",
+      "category": "U 8 - MM B",
+      "location": "THEUX BC B",
+      "other": ""
+    },
+    {
+      "code": "541235",
+      "date": "2027-02-06",
+      "time": "9:30",
+      "team1": "ROYAL MOSA AC 1941",
+      "team2": "THEUX BC B",
+      "category": "U 8 - MM B",
+      "location": "ROYAL MOSA AC 1941",
+      "other": ""
+    },
+    {
+      "code": "541243",
+      "date": "2027-02-14",
+      "time": "9:00",
+      "team1": "PRAYON TROOZ",
+      "team2": "THEUX BC B",
+      "category": "U 8 - MM B",
+      "location": "PRAYON TROOZ",
+      "other": ""
+    },
+    {
+      "code": "541286",
+      "date": "2027-03-13",
+      "time": "9:00",
+      "team1": "THEUX BC B",
+      "team2": "PEPINSTER EAST BELG B",
+      "category": "U 8 - MM B",
+      "location": "THEUX BC B",
+      "other": ""
+    },
+    {
+      "code": "541296",
+      "date": "2027-03-20",
+      "time": "9:00",
+      "team1": "THEUX BC B",
+      "team2": "RBC AUBEL B",
+      "category": "U 8 - MM B",
+      "location": "THEUX BC B",
+      "other": ""
+    },
+    {
+      "code": "541306",
+      "date": "2027-03-27",
+      "time": "9:00",
+      "team1": "THEUX BC B",
+      "team2": "RABC ENSIVAL",
+      "category": "U 8 - MM B",
+      "location": "THEUX BC B",
+      "other": ""
+    },
+    {
+      "code": "541324",
+      "date": "2027-04-10",
+      "time": "13:30",
+      "team1": "CRISTAL SGH B",
+      "team2": "THEUX BC B",
+      "category": "U 8 - MM B",
+      "location": "CRISTAL SGH B",
+      "other": ""
+    },
+    {
+      "code": "541336",
+      "date": "2027-04-17",
+      "time": "9:00",
+      "team1": "THEUX BC B",
+      "team2": "ROYAL SPA BC B",
+      "category": "U 8 - MM B",
+      "location": "THEUX BC B",
       "other": ""
     }
   ]

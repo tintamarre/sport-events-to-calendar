@@ -6,26 +6,6 @@
   },
   "events": [
     {
-      "code": "AW233003",
-      "date": "2026-08-23",
-      "time": "11:00",
-      "team1": "HENRI-CHAPELLE (+ 10)",
-      "team2": "UN HUY BASKET B",
-      "category": "AWBB DD - POULE M",
-      "location": "HENRI-CHAPELLE (+ 10)",
-      "other": ""
-    },
-    {
-      "code": "AW213004",
-      "date": "2026-08-22",
-      "time": "20:30",
-      "team1": "HENRI-CHAPELLE",
-      "team2": "ROYAL HERVE-BATTICE",
-      "category": "AWBB MM - POULE M",
-      "location": "HENRI-CHAPELLE",
-      "other": ""
-    },
-    {
       "code": "AW213006",
       "date": "2026-08-30",
       "time": "15:00",
@@ -36,42 +16,12 @@
       "other": ""
     },
     {
-      "code": "AW244002",
-      "date": "2026-08-22",
-      "time": "12:00",
-      "team1": "OLYMPIC MSM",
-      "team2": "HENRI-CHAPELLE A",
-      "category": "COUPE AWBB U14 - GARCONS",
-      "location": "OLYMPIC MSM",
-      "other": ""
-    },
-    {
-      "code": "AW244015",
-      "date": "2026-08-22",
-      "time": "10:30",
-      "team1": "HENRI-CHAPELLE B",
-      "team2": "EAST BELGIUM BCA B",
-      "category": "COUPE AWBB U14 - GARCONS",
-      "location": "HENRI-CHAPELLE B",
-      "other": ""
-    },
-    {
       "code": "AW247047",
       "date": "2026-09-26",
       "time": "12:30",
       "team1": "HENRI-CHAPELLE",
       "team2": "REBOND OTTIGNIES",
       "category": "COUPE AWBB U16 - FILLES",
-      "location": "HENRI-CHAPELLE",
-      "other": ""
-    },
-    {
-      "code": "AW243004",
-      "date": "2026-08-23",
-      "time": "15:00",
-      "team1": "HENRI-CHAPELLE",
-      "team2": "BC MARCHE",
-      "category": "COUPE AWBB U16 - GARCONS",
       "location": "HENRI-CHAPELLE",
       "other": ""
     },
@@ -1796,16 +1746,6 @@
       "other": ""
     },
     {
-      "code": "902004",
-      "date": "2026-08-22",
-      "time": "17:00",
-      "team1": "R 4A AYWAILLE-HAMOIR A (",
-      "team2": "HENRI-CHAPELLE A",
-      "category": "PROVINCIALE DD - POULE B",
-      "location": "R 4A AYWAILLE-HAMOIR A (",
-      "other": ""
-    },
-    {
       "code": "902005",
       "date": "2026-08-30",
       "time": "11:00",
@@ -1813,16 +1753,6 @@
       "team2": "PEPINSTER EAST BELG B (+",
       "category": "PROVINCIALE DD - POULE B",
       "location": "HENRI-CHAPELLE A",
-      "other": ""
-    },
-    {
-      "code": "905003",
-      "date": "2026-08-23",
-      "time": "13:00",
-      "team1": "HENRI-CHAPELLE B",
-      "team2": "ETOILE JUPILLE (+ 5)",
-      "category": "PROVINCIALE DD - POULE E",
-      "location": "HENRI-CHAPELLE B",
       "other": ""
     },
     {
@@ -1836,16 +1766,6 @@
       "other": ""
     },
     {
-      "code": "803003",
-      "date": "2026-08-22",
-      "time": "19:00",
-      "team1": "RBC WELKENRAEDT A",
-      "team2": "HENRI-CHAPELLE D (+ 5)",
-      "category": "PROVINCIALE MM - POULE C",
-      "location": "RBC WELKENRAEDT A",
-      "other": ""
-    },
-    {
       "code": "803006",
       "date": "2026-08-29",
       "time": "18:30",
@@ -1854,16 +1774,6 @@
       "category": "PROVINCIALE MM - POULE C",
       "location": "HENRI-CHAPELLE D (+ 5)",
       "other": ""
-    },
-    {
-      "code": "814004",
-      "date": "2026-08-20",
-      "time": "21:00",
-      "team1": "R 4A AYWAILLE-HAMOIR B (",
-      "team2": "HENRI-CHAPELLE A",
-      "category": "PROVINCIALE MM - POULE N",
-      "location": "R 4A AYWAILLE-HAMOIR B (",
-      "other": "(Salle Hamoir)"
     },
     {
       "code": "814005",
@@ -4400,7 +4310,7 @@
       "date": "2026-12-20",
       "time": "9:00",
       "team1": "HENRI-CHAPELLE A",
-      "team2": "THEUX BC",
+      "team2": "THEUX BC A",
       "category": "U 8 - MM A",
       "location": "HENRI-CHAPELLE A",
       "other": ""
@@ -4449,10 +4359,10 @@
       "code": "540282",
       "date": "2027-03-13",
       "time": "9:00",
-      "team1": "THEUX BC",
+      "team1": "THEUX BC A",
       "team2": "HENRI-CHAPELLE A",
       "category": "U 8 - MM A",
-      "location": "THEUX BC",
+      "location": "THEUX BC A",
       "other": ""
     },
     {
@@ -4586,6 +4496,16 @@
       "other": ""
     },
     {
+      "code": "541156",
+      "date": "2026-12-12",
+      "time": "9:00",
+      "team1": "THEUX BC B",
+      "team2": "HENRI-CHAPELLE B",
+      "category": "U 8 - MM B",
+      "location": "THEUX BC B",
+      "other": ""
+    },
+    {
       "code": "541161",
       "date": "2026-12-20",
       "time": "9:00",
@@ -4603,6 +4523,16 @@
       "team2": "HENRI-CHAPELLE B",
       "category": "U 8 - MM B",
       "location": "PEPINSTER EAST BELG B",
+      "other": ""
+    },
+    {
+      "code": "541211",
+      "date": "2027-01-24",
+      "time": "9:00",
+      "team1": "HENRI-CHAPELLE B",
+      "team2": "THEUX BC B",
+      "category": "U 8 - MM B",
+      "location": "HENRI-CHAPELLE B",
       "other": ""
     },
     {

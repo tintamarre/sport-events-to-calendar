@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "AW208004",
-      "date": "2026-08-21",
-      "time": "20:00",
-      "team1": "RBC STAVELOT",
-      "team2": "WEZEMBEEK OPPEM",
-      "category": "AWBB MM - POULE H",
-      "location": "RBC STAVELOT",
-      "other": ""
-    },
-    {
       "code": "AW208006",
       "date": "2026-08-30",
       "time": "14:00",
@@ -303,6 +293,26 @@
       "team2": "RBC STAVELOT",
       "category": "DD - DIVISION 2 B",
       "location": "RBC ALLEUR D",
+      "other": ""
+    },
+    {
+      "code": "823005",
+      "date": "2026-08-30",
+      "time": "11:00",
+      "team1": "FLERON BBC A",
+      "team2": "RBC STAVELOT C (+ 10)",
+      "category": "Forfait visiteur",
+      "location": "FLERON BBC A",
+      "other": ""
+    },
+    {
+      "code": "805005",
+      "date": "2026-08-30",
+      "time": "13:00",
+      "team1": "ETOILE JUPILLE A",
+      "team2": "RBC STAVELOT B (+ 10)",
+      "category": "Forfait visiteur",
+      "location": "ETOILE JUPILLE A",
       "other": ""
     },
     {
@@ -1056,26 +1066,6 @@
       "other": ""
     },
     {
-      "code": "806004",
-      "date": "2026-08-22",
-      "time": "19:00",
-      "team1": "BC COINTE B (+ 10)",
-      "team2": "RBC STAVELOT A",
-      "category": "PROVINCIALE MM - POULE F",
-      "location": "BC COINTE B (+ 10)",
-      "other": ""
-    },
-    {
-      "code": "806001",
-      "date": "2026-08-26",
-      "time": "20:30",
-      "team1": "RBC STAVELOT A",
-      "team2": "R REN. MONTEGNEE B (+ 15)",
-      "category": "PROVINCIALE MM - POULE F",
-      "location": "RBC STAVELOT A",
-      "other": ""
-    },
-    {
       "code": "806005",
       "date": "2026-08-29",
       "time": "19:00",
@@ -1093,16 +1083,6 @@
       "team2": "RBC STAVELOT C (+ 10)",
       "category": "PROVINCIALE MM - POULE W",
       "location": "FLERON BBC A",
-      "other": ""
-    },
-    {
-      "code": "806001",
-      "date": "2026-08-26",
-      "time": "20:30",
-      "team1": "RBC STAVELOT A",
-      "team2": "R REN. MONTEGNEE B (+ 15)",
-      "category": "R REN. MONTEGNEE B (+ 15)",
-      "location": "RBC STAVELOT A",
       "other": ""
     },
     {
@@ -2469,10 +2449,10 @@
       "code": "540112",
       "date": "2026-11-14",
       "time": "9:00",
-      "team1": "THEUX BC",
+      "team1": "THEUX BC A",
       "team2": "RBC STAVELOT",
       "category": "U 8 - MM A",
-      "location": "THEUX BC",
+      "location": "THEUX BC A",
       "other": ""
     },
     {
@@ -2540,7 +2520,7 @@
       "date": "2027-02-06",
       "time": "9:00",
       "team1": "RBC STAVELOT",
-      "team2": "THEUX BC",
+      "team2": "THEUX BC A",
       "category": "U 8 - MM A",
       "location": "RBC STAVELOT",
       "other": ""

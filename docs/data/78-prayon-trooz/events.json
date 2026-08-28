@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "AW223004",
-      "date": "2026-08-22",
-      "time": "19:00",
-      "team1": "PRAYON TROOZ",
-      "team2": "HANNUT BC (+ 16)",
-      "category": "AWBB DD - POULE C",
-      "location": "PRAYON TROOZ",
-      "other": ""
-    },
-    {
       "code": "AW223006",
       "date": "2026-08-29",
       "time": "17:30",
@@ -1236,16 +1226,6 @@
       "other": ""
     },
     {
-      "code": "407015",
-      "date": "2026-09-05",
-      "time": "21:00",
-      "team1": "PRAYON TROOZ B",
-      "team2": "ETOILE JUPILLE D",
-      "category": "MM - DIVISION 4 A",
-      "location": "PRAYON TROOZ B",
-      "other": ""
-    },
-    {
       "code": "407025",
       "date": "2026-09-12",
       "time": "19:00",
@@ -1313,6 +1293,16 @@
       "team2": "PRAYON TROOZ B",
       "category": "MM - DIVISION 4 A",
       "location": "RB TILFF E",
+      "other": ""
+    },
+    {
+      "code": "407015",
+      "date": "2026-11-28",
+      "time": "21:00",
+      "team1": "PRAYON TROOZ B",
+      "team2": "ETOILE JUPILLE D",
+      "category": "MM - DIVISION 4 A",
+      "location": "PRAYON TROOZ B",
       "other": ""
     },
     {
@@ -1676,16 +1666,6 @@
       "other": ""
     },
     {
-      "code": "902003",
-      "date": "2026-08-23",
-      "time": "13:00",
-      "team1": "PEPINSTER EAST BELG B",
-      "team2": "PRAYON TROOZ D (+ 5)",
-      "category": "PROVINCIALE DD - POULE B",
-      "location": "PEPINSTER EAST BELG B",
-      "other": ""
-    },
-    {
       "code": "902006",
       "date": "2026-08-30",
       "time": "16:00",
@@ -1706,16 +1686,6 @@
       "other": ""
     },
     {
-      "code": "817004",
-      "date": "2026-08-22",
-      "time": "19:30",
-      "team1": "THUNDER CONDROZ (+ 10)",
-      "team2": "PRAYON TROOZ A",
-      "category": "PROVINCIALE MM - POULE Q",
-      "location": "THUNDER CONDROZ (+ 10)",
-      "other": ""
-    },
-    {
       "code": "817005",
       "date": "2026-08-30",
       "time": "14:00",
@@ -1723,16 +1693,6 @@
       "team2": "R 4A AYWAILLE-HAMOIR C (",
       "category": "PROVINCIALE MM - POULE Q",
       "location": "PRAYON TROOZ A",
-      "other": ""
-    },
-    {
-      "code": "826004",
-      "date": "2026-08-22",
-      "time": "17:00",
-      "team1": "PRAYON TROOZ B (+ 10)",
-      "team2": "RBC ALLEUR B",
-      "category": "PROVINCIALE MM - POULE Z",
-      "location": "PRAYON TROOZ B (+ 10)",
       "other": ""
     },
     {
@@ -3688,7 +3648,7 @@
     {
       "code": "AW142048",
       "date": "2026-10-17",
-      "time": "15:00",
+      "time": "9:00",
       "team1": "PRAYON TROOZ",
       "team2": "BBC LIBRAMONT",
       "category": "U 19 - SILVER REGIONALES B",
@@ -3783,6 +3743,16 @@
       "team2": "HENRI-CHAPELLE B",
       "category": "U 8 - MM B",
       "location": "PRAYON TROOZ",
+      "other": ""
+    },
+    {
+      "code": "541056",
+      "date": "2026-10-03",
+      "time": "9:00",
+      "team1": "THEUX BC B",
+      "team2": "PRAYON TROOZ",
+      "category": "U 8 - MM B",
+      "location": "THEUX BC B",
       "other": ""
     },
     {
@@ -3881,6 +3851,16 @@
       "time": "13:00",
       "team1": "PRAYON TROOZ",
       "team2": "PEPINSTER EAST BELG B",
+      "category": "U 8 - MM B",
+      "location": "PRAYON TROOZ",
+      "other": ""
+    },
+    {
+      "code": "541243",
+      "date": "2027-02-14",
+      "time": "9:00",
+      "team1": "PRAYON TROOZ",
+      "team2": "THEUX BC B",
       "category": "U 8 - MM B",
       "location": "PRAYON TROOZ",
       "other": ""

@@ -6,26 +6,6 @@
   },
   "events": [
     {
-      "code": "AW235003",
-      "date": "2026-08-22",
-      "time": "19:00",
-      "team1": "ABC WAREMME (+ 10)",
-      "team2": "BCCA NEUFCHATEAU",
-      "category": "AWBB DD - POULE O",
-      "location": "ABC WAREMME (+ 10)",
-      "other": ""
-    },
-    {
-      "code": "AW216001",
-      "date": "2026-08-22",
-      "time": "21:00",
-      "team1": "ABC WAREMME",
-      "team2": "ROYAL GALLIA BEEZ B",
-      "category": "AWBB MM - POULE P",
-      "location": "ABC WAREMME",
-      "other": ""
-    },
-    {
       "code": "AW216005",
       "date": "2026-08-28",
       "time": "21:00",
@@ -33,26 +13,6 @@
       "team2": "ABC WAREMME (+ 8)",
       "category": "AWBB MM - POULE P",
       "location": "ESL UNITED B",
-      "other": ""
-    },
-    {
-      "code": "AW244023",
-      "date": "2026-08-23",
-      "time": "12:30",
-      "team1": "RB ALLIANCE ARLON",
-      "team2": "ABC WAREMME",
-      "category": "COUPE AWBB U14 - GARCONS",
-      "location": "RB ALLIANCE ARLON",
-      "other": ""
-    },
-    {
-      "code": "AW242001",
-      "date": "2026-08-22",
-      "time": "10:00",
-      "team1": "ABC WAREMME",
-      "team2": "FRESH AIR A",
-      "category": "COUPE AWBB U18 - GARCONS",
-      "location": "ABC WAREMME",
       "other": ""
     },
     {
@@ -1776,16 +1736,6 @@
       "other": ""
     },
     {
-      "code": "903004",
-      "date": "2026-08-23",
-      "time": "15:30",
-      "team1": "RBC HANEFFE C (+ 5)",
-      "team2": "ABC WAREMME A",
-      "category": "PROVINCIALE DD - POULE C",
-      "location": "RBC HANEFFE C (+ 5)",
-      "other": ""
-    },
-    {
       "code": "903005",
       "date": "2026-08-29",
       "time": "19:00",
@@ -1796,16 +1746,6 @@
       "other": ""
     },
     {
-      "code": "904004",
-      "date": "2026-08-22",
-      "time": "18:00",
-      "team1": "ABC WAREMME B (+ 5)",
-      "team2": "BC BELLEFLAMME B",
-      "category": "PROVINCIALE DD - POULE D",
-      "location": "ABC WAREMME B (+ 5)",
-      "other": ""
-    },
-    {
       "code": "904006",
       "date": "2026-08-30",
       "time": "15:00",
@@ -1813,26 +1753,6 @@
       "team2": "ABC WAREMME B",
       "category": "PROVINCIALE DD - POULE D",
       "location": "LA VILLERSOISE B (+ 5)",
-      "other": ""
-    },
-    {
-      "code": "915004",
-      "date": "2026-08-22",
-      "time": "20:00",
-      "team1": "ABC WAREMME C (+ 5)",
-      "team2": "RBC VISE A",
-      "category": "PROVINCIALE DD - POULE O",
-      "location": "ABC WAREMME C (+ 5)",
-      "other": ""
-    },
-    {
-      "code": "807004",
-      "date": "2026-08-23",
-      "time": "17:00",
-      "team1": "LA VILLERSOISE B (+ 10)",
-      "team2": "ABC WAREMME A",
-      "category": "PROVINCIALE MM - POULE G",
-      "location": "LA VILLERSOISE B (+ 10)",
       "other": ""
     },
     {
@@ -2326,6 +2246,16 @@
       "other": ""
     },
     {
+      "code": "528142",
+      "date": "2026-12-05",
+      "time": "15:00",
+      "team1": "BC BELLEFLAMME C",
+      "team2": "ABC WAREMME B",
+      "category": "U 10 - MM I",
+      "location": "BC BELLEFLAMME C",
+      "other": ""
+    },
+    {
       "code": "528155",
       "date": "2026-12-12",
       "time": "13:00",
@@ -2433,6 +2363,16 @@
       "team2": "ABC WAREMME B",
       "category": "U 10 - MM I",
       "location": "R HT-PRE OUGREE",
+      "other": ""
+    },
+    {
+      "code": "528334",
+      "date": "2027-04-17",
+      "time": "11:00",
+      "team1": "ABC WAREMME B",
+      "team2": "BC BELLEFLAMME C",
+      "category": "U 10 - MM I",
+      "location": "ABC WAREMME B",
       "other": ""
     },
     {
@@ -3478,7 +3418,7 @@
     {
       "code": "AW133002",
       "date": "2026-09-05",
-      "time": "15:00",
+      "time": "11:00",
       "team1": "B.C.BOUSSU",
       "team2": "ABC WAREMME",
       "category": "U 14 - SILVER REGIONAUX B",

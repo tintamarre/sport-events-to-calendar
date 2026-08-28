@@ -6,46 +6,6 @@
   },
   "events": [
     {
-      "code": "AW245012",
-      "date": "2026-08-23",
-      "time": "15:00",
-      "team1": "LA VILLERSOISE",
-      "team2": "ROYAL BC CINEY",
-      "category": "COUPE AWBB U12 -GARCONS",
-      "location": "LA VILLERSOISE",
-      "other": ""
-    },
-    {
-      "code": "AW247003",
-      "date": "2026-08-22",
-      "time": "17:00",
-      "team1": "LA VILLERSOISE B",
-      "team2": "RE PONT-DE-LOUP B",
-      "category": "COUPE AWBB U16 - FILLES",
-      "location": "LA VILLERSOISE B",
-      "other": ""
-    },
-    {
-      "code": "AW243028",
-      "date": "2026-08-22",
-      "time": "14:30",
-      "team1": "R.B.C. BELGRADE B",
-      "team2": "LA VILLERSOISE",
-      "category": "COUPE AWBB U16 - GARCONS",
-      "location": "R.B.C. BELGRADE B",
-      "other": ""
-    },
-    {
-      "code": "AW242025",
-      "date": "2026-08-22",
-      "time": "16:00",
-      "team1": "FRESH AIR B",
-      "team2": "LA VILLERSOISE",
-      "category": "COUPE AWBB U18 - GARCONS",
-      "location": "FRESH AIR B",
-      "other": ""
-    },
-    {
       "code": "762003",
       "date": "2026-08-30",
       "time": "15:00",
@@ -503,6 +463,16 @@
       "team2": "LA VILLERSOISE B",
       "category": "DD - DIVISION 3 C",
       "location": "CRISTAL SGH B",
+      "other": ""
+    },
+    {
+      "code": "901006",
+      "date": "2026-08-30",
+      "time": "13:00",
+      "team1": "GIANTS BRAIVES (+ 5)",
+      "team2": "LA VILLERSOISE A",
+      "category": "Forfait visité",
+      "location": "GIANTS BRAIVES (+ 5)",
       "other": ""
     },
     {
@@ -1476,16 +1446,6 @@
       "other": ""
     },
     {
-      "code": "904003",
-      "date": "2026-08-23",
-      "time": "17:30",
-      "team1": "BC VERLAINE A",
-      "team2": "LA VILLERSOISE B (+ 5)",
-      "category": "PROVINCIALE DD - POULE D",
-      "location": "BC VERLAINE A",
-      "other": ""
-    },
-    {
       "code": "904006",
       "date": "2026-08-30",
       "time": "15:00",
@@ -1493,16 +1453,6 @@
       "team2": "ABC WAREMME B",
       "category": "PROVINCIALE DD - POULE D",
       "location": "LA VILLERSOISE B (+ 5)",
-      "other": ""
-    },
-    {
-      "code": "802003",
-      "date": "2026-08-22",
-      "time": "15:30",
-      "team1": "HANNUT BC B",
-      "team2": "LA VILLERSOISE C (+ 5)",
-      "category": "PROVINCIALE MM - POULE B",
-      "location": "HANNUT BC B",
       "other": ""
     },
     {
@@ -1516,16 +1466,6 @@
       "other": ""
     },
     {
-      "code": "828004",
-      "date": "2026-08-23",
-      "time": "11:30",
-      "team1": "HARIMALIA BC D (+ 10)",
-      "team2": "LA VILLERSOISE A",
-      "category": "PROVINCIALE MM - POULE BB",
-      "location": "HARIMALIA BC D (+ 10)",
-      "other": ""
-    },
-    {
       "code": "828005",
       "date": "2026-08-30",
       "time": "17:00",
@@ -1533,16 +1473,6 @@
       "team2": "ROYAL BC NINANE E (+ 10)",
       "category": "PROVINCIALE MM - POULE BB",
       "location": "LA VILLERSOISE A",
-      "other": ""
-    },
-    {
-      "code": "807004",
-      "date": "2026-08-23",
-      "time": "17:00",
-      "team1": "LA VILLERSOISE B (+ 10)",
-      "team2": "ABC WAREMME A",
-      "category": "PROVINCIALE MM - POULE G",
-      "location": "LA VILLERSOISE B (+ 10)",
       "other": ""
     },
     {

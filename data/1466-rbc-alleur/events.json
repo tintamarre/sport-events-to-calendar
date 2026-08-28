@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "AW228004",
-      "date": "2026-08-22",
-      "time": "20:30",
-      "team1": "RBC ALLEUR B",
-      "team2": "PROFONDEVILLE SHARKS (+",
-      "category": "AWBB DD - POULE H",
-      "location": "RBC ALLEUR B",
-      "other": ""
-    },
-    {
       "code": "AW228006",
       "date": "2026-08-30",
       "time": "14:00",
@@ -23,16 +13,6 @@
       "team2": "RBC ALLEUR B (+ 16)",
       "category": "AWBB DD - POULE H",
       "location": "BC BONINNE A",
-      "other": ""
-    },
-    {
-      "code": "AW234003",
-      "date": "2026-08-22",
-      "time": "18:00",
-      "team1": "REBC TEMPLEUVE (+ 10)",
-      "team2": "RBC ALLEUR A",
-      "category": "AWBB DD - POULE N",
-      "location": "REBC TEMPLEUVE (+ 10)",
       "other": ""
     },
     {
@@ -46,52 +26,12 @@
       "other": ""
     },
     {
-      "code": "AW210003",
-      "date": "2026-08-22",
-      "time": "21:00",
-      "team1": "ATLAS A JUPILLE (+ 5)",
-      "team2": "RBC ALLEUR",
-      "category": "AWBB MM - POULE J",
-      "location": "ATLAS A JUPILLE (+ 5)",
-      "other": ""
-    },
-    {
       "code": "AW210006",
       "date": "2026-08-29",
       "time": "20:30",
       "team1": "RBC ALLEUR",
       "team2": "R LINTHOUT BC B (+ 8)",
       "category": "AWBB MM - POULE J",
-      "location": "RBC ALLEUR",
-      "other": ""
-    },
-    {
-      "code": "AW243029",
-      "date": "2026-08-23",
-      "time": "17:00",
-      "team1": "RBC ALLEUR",
-      "team2": "UNITED B WOLUWE",
-      "category": "COUPE AWBB U16 - GARCONS",
-      "location": "RBC ALLEUR",
-      "other": ""
-    },
-    {
-      "code": "AW246002",
-      "date": "2026-08-22",
-      "time": "10:45",
-      "team1": "RBC ALLEUR",
-      "team2": "TOURNAI WAPITI",
-      "category": "COUPE AWBB U19 - FILLES",
-      "location": "RBC ALLEUR",
-      "other": ""
-    },
-    {
-      "code": "AW241026",
-      "date": "2026-08-23",
-      "time": "15:00",
-      "team1": "RBC ALLEUR",
-      "team2": "OLYMPIC MSM",
-      "category": "COUPE AWBB U21 - GARCONS",
       "location": "RBC ALLEUR",
       "other": ""
     },
@@ -636,16 +576,6 @@
       "other": ""
     },
     {
-      "code": "AW104014",
-      "date": "2026-09-12",
-      "time": "17:00",
-      "team1": "BC COINTE A",
-      "team2": "RBC ALLEUR A",
-      "category": "DD - REGIONALE 1",
-      "location": "BC COINTE A",
-      "other": ""
-    },
-    {
       "code": "AW104009",
       "date": "2026-09-19",
       "time": "18:30",
@@ -767,12 +697,22 @@
     },
     {
       "code": "AW104081",
-      "date": "2027-01-31",
-      "time": "15:00",
+      "date": "2027-01-23",
+      "time": "18:30",
       "team1": "RBC ALLEUR A",
       "team2": "BC COINTE A",
       "category": "DD - REGIONALE 1",
       "location": "RBC ALLEUR A",
+      "other": ""
+    },
+    {
+      "code": "AW104014",
+      "date": "2027-01-30",
+      "time": "17:00",
+      "team1": "BC COINTE A",
+      "team2": "RBC ALLEUR A",
+      "category": "DD - REGIONALE 1",
+      "location": "BC COINTE A",
       "other": ""
     },
     {
@@ -2276,16 +2216,6 @@
       "other": ""
     },
     {
-      "code": "AW228004",
-      "date": "2026-08-22",
-      "time": "20:30",
-      "team1": "RBC ALLEUR B",
-      "team2": "PROFONDEVILLE SHARKS (+ 8)",
-      "category": "PROFONDEVILLE SHARKS (+ 8)",
-      "location": "RBC ALLEUR B",
-      "other": ""
-    },
-    {
       "code": "907005",
       "date": "2026-08-30",
       "time": "11:00",
@@ -2303,26 +2233,6 @@
       "team2": "RBC ALLEUR D (+ 5)",
       "category": "PROVINCIALE DD - POULE P",
       "location": "BC SPRIMONT A",
-      "other": ""
-    },
-    {
-      "code": "821004",
-      "date": "2026-08-22",
-      "time": "18:30",
-      "team1": "RBC ALLEUR E (+ 10)",
-      "team2": "RBC VISE A",
-      "category": "PROVINCIALE MM - POULE U",
-      "location": "RBC ALLEUR E (+ 10)",
-      "other": ""
-    },
-    {
-      "code": "826004",
-      "date": "2026-08-22",
-      "time": "17:00",
-      "team1": "PRAYON TROOZ B (+ 10)",
-      "team2": "RBC ALLEUR B",
-      "category": "PROVINCIALE MM - POULE Z",
-      "location": "PRAYON TROOZ B (+ 10)",
       "other": ""
     },
     {
@@ -5036,6 +4946,16 @@
       "other": ""
     },
     {
+      "code": "541013",
+      "date": "2026-09-05",
+      "time": "9:00",
+      "team1": "RBC ALLEUR",
+      "team2": "THEUX BC B",
+      "category": "U 8 - MM B",
+      "location": "RBC ALLEUR",
+      "other": ""
+    },
+    {
       "code": "541031",
       "date": "2026-09-19",
       "time": "10:00",
@@ -5133,6 +5053,16 @@
       "team2": "ROYAL SPA BC B",
       "category": "U 8 - MM B",
       "location": "RBC ALLEUR",
+      "other": ""
+    },
+    {
+      "code": "541206",
+      "date": "2027-01-16",
+      "time": "9:00",
+      "team1": "THEUX BC B",
+      "team2": "RBC ALLEUR",
+      "category": "U 8 - MM B",
+      "location": "THEUX BC B",
       "other": ""
     },
     {

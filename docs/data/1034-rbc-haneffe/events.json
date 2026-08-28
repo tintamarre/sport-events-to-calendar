@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "AW224003",
-      "date": "2026-08-23",
-      "time": "13:30",
-      "team1": "RBC HANEFFE (+ 10)",
-      "team2": "LIEGE PANTHERS A",
-      "category": "AWBB DD - POULE D",
-      "location": "RBC HANEFFE (+ 10)",
-      "other": ""
-    },
-    {
       "code": "AW224005",
       "date": "2026-08-29",
       "time": "18:45",
@@ -23,26 +13,6 @@
       "team2": "RBC HANEFFE",
       "category": "AWBB DD - POULE D",
       "location": "ROYAL WATERLOO (+ 5)",
-      "other": ""
-    },
-    {
-      "code": "AW244004",
-      "date": "2026-08-23",
-      "time": "11:30",
-      "team1": "RBC HANEFFE",
-      "team2": "NUTS BASTOGNE",
-      "category": "COUPE AWBB U14 - GARCONS",
-      "location": "RBC HANEFFE",
-      "other": ""
-    },
-    {
-      "code": "AW243014",
-      "date": "2026-08-23",
-      "time": "9:30",
-      "team1": "RBC HANEFFE",
-      "team2": "OLYMPIC MSM",
-      "category": "COUPE AWBB U16 - GARCONS",
-      "location": "RBC HANEFFE",
       "other": ""
     },
     {
@@ -966,6 +936,16 @@
       "other": ""
     },
     {
+      "code": "907006",
+      "date": "2026-08-29",
+      "time": "18:30",
+      "team1": "DF BC MALMEDY",
+      "team2": "RBC HANEFFE D",
+      "category": "Forfait visité",
+      "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
       "code": "403015",
       "date": "2026-09-04",
       "time": "20:45",
@@ -1446,16 +1426,6 @@
       "other": ""
     },
     {
-      "code": "903004",
-      "date": "2026-08-23",
-      "time": "15:30",
-      "team1": "RBC HANEFFE C (+ 5)",
-      "team2": "ABC WAREMME A",
-      "category": "PROVINCIALE DD - POULE C",
-      "location": "RBC HANEFFE C (+ 5)",
-      "other": ""
-    },
-    {
       "code": "903006",
       "date": "2026-08-29",
       "time": "21:00",
@@ -1476,16 +1446,6 @@
       "other": ""
     },
     {
-      "code": "910004",
-      "date": "2026-08-22",
-      "time": "18:00",
-      "team1": "UN HUY BASKET C (+ 10)",
-      "team2": "RBC HANEFFE B",
-      "category": "PROVINCIALE DD - POULE J",
-      "location": "UN HUY BASKET C (+ 10)",
-      "other": ""
-    },
-    {
       "code": "910005",
       "date": "2026-08-30",
       "time": "12:00",
@@ -1493,16 +1453,6 @@
       "team2": "BC SPRIMONT B (+ 5)",
       "category": "PROVINCIALE DD - POULE J",
       "location": "RBC HANEFFE B",
-      "other": ""
-    },
-    {
-      "code": "831004",
-      "date": "2026-08-23",
-      "time": "13:00",
-      "team1": "RABC ENSIVAL D (+ 10)",
-      "team2": "RBC HANEFFE A",
-      "category": "PROVINCIALE MM - POULE EE",
-      "location": "RABC ENSIVAL D (+ 10)",
       "other": ""
     },
     {
@@ -1736,6 +1686,16 @@
       "other": ""
     },
     {
+      "code": "528023",
+      "date": "2026-09-12",
+      "time": "15:30",
+      "team1": "RBC HANEFFE B",
+      "team2": "BC BELLEFLAMME C",
+      "category": "U 10 - MM I",
+      "location": "RBC HANEFFE B",
+      "other": ""
+    },
+    {
       "code": "528031",
       "date": "2026-09-20",
       "time": "13:00",
@@ -1843,6 +1803,16 @@
       "team2": "RBC HANEFFE B",
       "category": "U 10 - MM I",
       "location": "UN HUY BASKET A",
+      "other": ""
+    },
+    {
+      "code": "528222",
+      "date": "2027-01-30",
+      "time": "15:00",
+      "team1": "BC BELLEFLAMME C",
+      "team2": "RBC HANEFFE B",
+      "category": "U 10 - MM I",
+      "location": "BC BELLEFLAMME C",
       "other": ""
     },
     {

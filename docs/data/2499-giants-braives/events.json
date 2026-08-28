@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "AW242019",
-      "date": "2026-08-23",
-      "time": "13:30",
-      "team1": "BBL'9 FLENU",
-      "team2": "GIANTS BRAIVES",
-      "category": "COUPE AWBB U18 - GARCONS",
-      "location": "BBL'9 FLENU",
-      "other": ""
-    },
-    {
       "code": "763009",
       "date": "2026-08-30",
       "time": "9:00",
@@ -233,6 +223,16 @@
       "team2": "RBC AWANS A",
       "category": "DD - DIVISION 3 A",
       "location": "GIANTS BRAIVES",
+      "other": ""
+    },
+    {
+      "code": "901006",
+      "date": "2026-08-30",
+      "time": "13:00",
+      "team1": "GIANTS BRAIVES (+ 5)",
+      "team2": "LA VILLERSOISE A",
+      "category": "Forfait visité",
+      "location": "GIANTS BRAIVES (+ 5)",
       "other": ""
     },
     {
@@ -676,16 +676,6 @@
       "other": ""
     },
     {
-      "code": "901003",
-      "date": "2026-08-23",
-      "time": "13:00",
-      "team1": "ROYAL BC WANZE",
-      "team2": "GIANTS BRAIVES (+ 5)",
-      "category": "PROVINCIALE DD - POULE A",
-      "location": "ROYAL BC WANZE",
-      "other": ""
-    },
-    {
       "code": "901006",
       "date": "2026-08-30",
       "time": "13:00",
@@ -956,6 +946,16 @@
       "other": ""
     },
     {
+      "code": "528112",
+      "date": "2026-11-14",
+      "time": "15:00",
+      "team1": "BC BELLEFLAMME C",
+      "team2": "GIANTS BRAIVES B",
+      "category": "U 10 - MM I",
+      "location": "BC BELLEFLAMME C",
+      "other": ""
+    },
+    {
       "code": "528121",
       "date": "2026-11-28",
       "time": "9:00",
@@ -1023,6 +1023,16 @@
       "team2": "GIANTS BRAIVES B",
       "category": "U 10 - MM I",
       "location": "ABC WAREMME B",
+      "other": ""
+    },
+    {
+      "code": "528231",
+      "date": "2027-02-07",
+      "time": "13:00",
+      "team1": "GIANTS BRAIVES B",
+      "team2": "BC BELLEFLAMME C",
+      "category": "U 10 - MM I",
+      "location": "GIANTS BRAIVES B",
       "other": ""
     },
     {
@@ -1506,16 +1516,6 @@
       "other": ""
     },
     {
-      "code": "507026",
-      "date": "2026-09-12",
-      "time": "13:00",
-      "team1": "GIANTS BRAIVES C",
-      "team2": "RJS GRIVEGNEE",
-      "category": "U 12 - MM H",
-      "location": "GIANTS BRAIVES C",
-      "other": ""
-    },
-    {
       "code": "507032",
       "date": "2026-09-19",
       "time": "9:00",
@@ -1591,6 +1591,16 @@
       "time": "13:00",
       "team1": "GIANTS BRAIVES C",
       "team2": "R REN. MONTEGNEE B",
+      "category": "U 12 - MM H",
+      "location": "GIANTS BRAIVES C",
+      "other": ""
+    },
+    {
+      "code": "507026",
+      "date": "2026-12-12",
+      "time": "13:00",
+      "team1": "GIANTS BRAIVES C",
+      "team2": "RJS GRIVEGNEE",
       "category": "U 12 - MM H",
       "location": "GIANTS BRAIVES C",
       "other": ""
@@ -1718,7 +1728,7 @@
     {
       "code": "480053",
       "date": "2026-10-04",
-      "time": "13:00",
+      "time": "9:00",
       "team1": "RBC VISE A",
       "team2": "GIANTS BRAIVES B",
       "category": "U 14 - ELITES MM A",

@@ -6,52 +6,12 @@
   },
   "events": [
     {
-      "code": "AW211004",
-      "date": "2026-08-22",
-      "time": "20:30",
-      "team1": "BC MONTAGNARD",
-      "team2": "CRISTAL SGH",
-      "category": "AWBB MM - POULE K",
-      "location": "BC MONTAGNARD",
-      "other": ""
-    },
-    {
       "code": "AW211005",
       "date": "2026-08-30",
       "time": "15:00",
       "team1": "CRISTAL SGH",
       "team2": "REBOND OTTIGNIES",
       "category": "AWBB MM - POULE K",
-      "location": "CRISTAL SGH",
-      "other": ""
-    },
-    {
-      "code": "AW245017",
-      "date": "2026-08-23",
-      "time": "13:00",
-      "team1": "CRISTAL SGH A",
-      "team2": "RCS NATOYE A",
-      "category": "COUPE AWBB U12 -GARCONS",
-      "location": "CRISTAL SGH A",
-      "other": ""
-    },
-    {
-      "code": "AW242020",
-      "date": "2026-08-23",
-      "time": "15:00",
-      "team1": "CRISTAL SGH",
-      "team2": "COLLEGE S LOUIS",
-      "category": "COUPE AWBB U18 - GARCONS",
-      "location": "CRISTAL SGH",
-      "other": ""
-    },
-    {
-      "code": "AW241021",
-      "date": "2026-08-23",
-      "time": "11:00",
-      "team1": "CRISTAL SGH",
-      "team2": "RCS NATOYE",
-      "category": "COUPE AWBB U21 - GARCONS",
       "location": "CRISTAL SGH",
       "other": ""
     },
@@ -967,8 +927,8 @@
     },
     {
       "code": "406206",
-      "date": "2027-01-16",
-      "time": "18:00",
+      "date": "2027-01-17",
+      "time": "13:00",
       "team1": "BBC EUPEN A",
       "team2": "CRISTAL SGH B",
       "category": "MM - DIVISION 3 C",
@@ -1526,16 +1486,6 @@
       "other": ""
     },
     {
-      "code": "912003",
-      "date": "2026-08-23",
-      "time": "17:00",
-      "team1": "CRISTAL SGH A",
-      "team2": "RBC BLEGNY C (+ 5)",
-      "category": "PROVINCIALE DD - POULE L",
-      "location": "CRISTAL SGH A",
-      "other": ""
-    },
-    {
       "code": "912005",
       "date": "2026-08-30",
       "time": "12:00",
@@ -1543,16 +1493,6 @@
       "team2": "CRISTAL SGH A (+ 5)",
       "category": "PROVINCIALE DD - POULE L",
       "location": "RBC ESNEUX B",
-      "other": ""
-    },
-    {
-      "code": "913004",
-      "date": "2026-08-22",
-      "time": "17:30",
-      "team1": "CRISTAL SGH B (+ 10)",
-      "team2": "RBC CROATIA OUPEYE",
-      "category": "PROVINCIALE DD - POULE M",
-      "location": "CRISTAL SGH B (+ 10)",
       "other": ""
     },
     {
@@ -1566,26 +1506,6 @@
       "other": ""
     },
     {
-      "code": "829004",
-      "date": "2026-08-22",
-      "time": "19:30",
-      "team1": "CRISTAL SGH C (+ 10)",
-      "team2": "RBC DISON-ANDRIMONT A",
-      "category": "PROVINCIALE MM - POULE CC",
-      "location": "CRISTAL SGH C (+ 10)",
-      "other": ""
-    },
-    {
-      "code": "804003",
-      "date": "2026-08-22",
-      "time": "21:00",
-      "team1": "ROYAL BC NINANE C",
-      "team2": "CRISTAL SGH B",
-      "category": "PROVINCIALE MM - POULE D",
-      "location": "ROYAL BC NINANE C",
-      "other": ""
-    },
-    {
       "code": "804006",
       "date": "2026-08-30",
       "time": "17:00",
@@ -1593,16 +1513,6 @@
       "team2": "THEUX BC C (+ 5)",
       "category": "PROVINCIALE MM - POULE D",
       "location": "CRISTAL SGH B",
-      "other": ""
-    },
-    {
-      "code": "811005",
-      "date": "2026-08-26",
-      "time": "20:00",
-      "team1": "CRISTAL SGH A",
-      "team2": "HARIMALIA BC A (+ 5)",
-      "category": "PROVINCIALE MM - POULE K",
-      "location": "CRISTAL SGH A",
       "other": ""
     },
     {
@@ -2206,6 +2116,16 @@
       "other": ""
     },
     {
+      "code": "528036",
+      "date": "2026-09-19",
+      "time": "9:30",
+      "team1": "CRISTAL SGH C",
+      "team2": "BC BELLEFLAMME C",
+      "category": "U 10 - MM I",
+      "location": "CRISTAL SGH C",
+      "other": ""
+    },
+    {
       "code": "528056",
       "date": "2026-10-03",
       "time": "9:30",
@@ -2273,6 +2193,16 @@
       "team2": "GIANTS BRAIVES B",
       "category": "U 10 - MM I",
       "location": "CRISTAL SGH C",
+      "other": ""
+    },
+    {
+      "code": "528192",
+      "date": "2027-01-09",
+      "time": "15:00",
+      "team1": "BC BELLEFLAMME C",
+      "team2": "CRISTAL SGH C",
+      "category": "U 10 - MM I",
+      "location": "BC BELLEFLAMME C",
       "other": ""
     },
     {
@@ -4878,7 +4808,7 @@
     {
       "code": "AW110026",
       "date": "2026-11-21",
-      "time": "17:00",
+      "time": "11:00",
       "team1": "R UAA ETTERBEEK",
       "team2": "CRISTAL SGH",
       "category": "U 21 - SILVER REGIONAUX B",
@@ -5336,6 +5266,16 @@
       "other": ""
     },
     {
+      "code": "541126",
+      "date": "2026-11-21",
+      "time": "9:00",
+      "team1": "THEUX BC B",
+      "team2": "CRISTAL SGH B",
+      "category": "U 8 - MM B",
+      "location": "THEUX BC B",
+      "other": ""
+    },
+    {
       "code": "541144",
       "date": "2026-12-05",
       "time": "9:30",
@@ -5453,6 +5393,16 @@
       "team2": "CRISTAL SGH B",
       "category": "U 8 - MM B",
       "location": "RBC ALLEUR",
+      "other": ""
+    },
+    {
+      "code": "541324",
+      "date": "2027-04-10",
+      "time": "13:30",
+      "team1": "CRISTAL SGH B",
+      "team2": "THEUX BC B",
+      "category": "U 8 - MM B",
+      "location": "CRISTAL SGH B",
       "other": ""
     },
     {

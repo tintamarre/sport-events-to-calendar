@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "AW227003",
-      "date": "2026-08-22",
-      "time": "17:30",
-      "team1": "CASTORS BRAINE B (+ 10)",
-      "team2": "UN HUY BASKET A",
-      "category": "AWBB DD - POULE G",
-      "location": "CASTORS BRAINE B (+ 10)",
-      "other": ""
-    },
-    {
       "code": "AW227006",
       "date": "2026-08-30",
       "time": "15:00",
@@ -23,16 +13,6 @@
       "team2": "REBOND OTTIGNIES B (+ 16",
       "category": "AWBB DD - POULE G",
       "location": "UN HUY BASKET A",
-      "other": ""
-    },
-    {
-      "code": "AW233003",
-      "date": "2026-08-23",
-      "time": "11:00",
-      "team1": "HENRI-CHAPELLE (+ 10)",
-      "team2": "UN HUY BASKET B",
-      "category": "AWBB DD - POULE M",
-      "location": "HENRI-CHAPELLE (+ 10)",
       "other": ""
     },
     {
@@ -706,16 +686,6 @@
       "other": ""
     },
     {
-      "code": "910004",
-      "date": "2026-08-22",
-      "time": "18:00",
-      "team1": "UN HUY BASKET C (+ 10)",
-      "team2": "RBC HANEFFE B",
-      "category": "PROVINCIALE DD - POULE J",
-      "location": "UN HUY BASKET C (+ 10)",
-      "other": ""
-    },
-    {
       "code": "910006",
       "date": "2026-08-29",
       "time": "18:00",
@@ -723,16 +693,6 @@
       "team2": "UN HUY BASKET C",
       "category": "PROVINCIALE DD - POULE J",
       "location": "VAIL. JUPILLE",
-      "other": ""
-    },
-    {
-      "code": "825004",
-      "date": "2026-08-22",
-      "time": "20:00",
-      "team1": "UN HUY BASKET (+ 10)",
-      "team2": "BC SPRIMONT C",
-      "category": "PROVINCIALE MM - POULE Y",
-      "location": "UN HUY BASKET (+ 10)",
       "other": ""
     },
     {
@@ -1226,6 +1186,16 @@
       "other": ""
     },
     {
+      "code": "528123",
+      "date": "2026-11-21",
+      "time": "9:00",
+      "team1": "UN HUY BASKET A",
+      "team2": "BC BELLEFLAMME C",
+      "category": "U 10 - MM I",
+      "location": "UN HUY BASKET A",
+      "other": ""
+    },
+    {
       "code": "528145",
       "date": "2026-12-05",
       "time": "12:00",
@@ -1323,6 +1293,16 @@
       "team2": "UN HUY BASKET A",
       "category": "U 10 - MM I",
       "location": "ABC WAREMME B",
+      "other": ""
+    },
+    {
+      "code": "528322",
+      "date": "2027-04-10",
+      "time": "15:00",
+      "team1": "BC BELLEFLAMME C",
+      "team2": "UN HUY BASKET A",
+      "category": "U 10 - MM I",
+      "location": "BC BELLEFLAMME C",
       "other": ""
     },
     {
