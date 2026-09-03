@@ -6,36 +6,6 @@
   },
   "events": [
     {
-      "code": "762001",
-      "date": "2026-08-29",
-      "time": "15:00",
-      "team1": "RABC ENSIVAL A",
-      "team2": "RBC ESNEUX",
-      "category": "CPE PROV CADETS",
-      "location": "RABC ENSIVAL A",
-      "other": ""
-    },
-    {
-      "code": "764017",
-      "date": "2026-08-29",
-      "time": "14:00",
-      "team1": "RBC AWANS",
-      "team2": "RABC ENSIVAL B",
-      "category": "CPE PROV PUPILLES MM",
-      "location": "RBC AWANS",
-      "other": ""
-    },
-    {
-      "code": "764008",
-      "date": "2026-08-29",
-      "time": "13:00",
-      "team1": "RABC ENSIVAL A",
-      "team2": "ABC WAREMME C",
-      "category": "CPE PROV PUPILLES MM",
-      "location": "RABC ENSIVAL A",
-      "other": ""
-    },
-    {
       "code": "413015",
       "date": "2026-09-05",
       "time": "19:15",
@@ -47,8 +17,8 @@
     },
     {
       "code": "413021",
-      "date": "2026-09-12",
-      "time": "18:30",
+      "date": "2026-09-13",
+      "time": "17:00",
       "team1": "HENRI-CHAPELLE A",
       "team2": "RABC ENSIVAL",
       "category": "DD - DIVISION 1",
@@ -1296,36 +1266,6 @@
       "other": ""
     },
     {
-      "code": "911005",
-      "date": "2026-08-29",
-      "time": "17:00",
-      "team1": "RABC ENSIVAL A",
-      "team2": "R.UN.BELLAIRE B (+ 5)",
-      "category": "PROVINCIALE DD - POULE K",
-      "location": "RABC ENSIVAL A",
-      "other": ""
-    },
-    {
-      "code": "801006",
-      "date": "2026-08-30",
-      "time": "12:30",
-      "team1": "RBC WELKENRAEDT B (+ 5)",
-      "team2": "RABC ENSIVAL B",
-      "category": "PROVINCIALE MM - POULE A",
-      "location": "RBC WELKENRAEDT B (+ 5)",
-      "other": ""
-    },
-    {
-      "code": "832005",
-      "date": "2026-08-29",
-      "time": "19:00",
-      "team1": "RABC ENSIVAL A",
-      "team2": "RBC HANEFFE B (+ 10)",
-      "category": "PROVINCIALE MM - POULE FF",
-      "location": "RABC ENSIVAL A",
-      "other": ""
-    },
-    {
       "code": "525013",
       "date": "2026-09-05",
       "time": "9:00",
@@ -1693,7 +1633,7 @@
       "team2": "RABC ENSIVAL A",
       "category": "U 12 - MM F",
       "location": "PEPINSTER EAST BELG C",
-      "other": ""
+      "other": "(Ho au paire)"
     },
     {
       "code": "505025",
@@ -2433,7 +2373,7 @@
       "team2": "RABC ENSIVAL B",
       "category": "U 14 - PROV MM A",
       "location": "PEPINSTER EAST BELG B",
-      "other": ""
+      "other": "(Ho au paire)"
     },
     {
       "code": "490025",
@@ -2867,8 +2807,8 @@
     },
     {
       "code": "441103",
-      "date": "2026-11-08",
-      "time": "13:00",
+      "date": "2026-11-07",
+      "time": "9:00",
       "team1": "RABC ENSIVAL",
       "team2": "R.UN.BELLAIRE",
       "category": "U 18 - PROV MM B",
@@ -3057,7 +2997,7 @@
     },
     {
       "code": "541066",
-      "date": "2026-10-10",
+      "date": "2026-10-11",
       "time": "9:00",
       "team1": "RABC ENSIVAL",
       "team2": "THEUX BC B",

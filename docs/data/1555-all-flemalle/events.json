@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "AW203005",
-      "date": "2026-08-28",
-      "time": "21:00",
-      "team1": "ETOILE JUPILLE",
-      "team2": "ALL. FLEMALLE",
-      "category": "AWBB MM - POULE C",
-      "location": "ETOILE JUPILLE",
-      "other": ""
-    },
-    {
       "code": "414011",
       "date": "2026-09-06",
       "time": "13:00",
@@ -1478,7 +1468,7 @@
     {
       "code": "412014",
       "date": "2026-09-05",
-      "time": "17:30",
+      "time": "19:00",
       "team1": "CRISTAL SGH D",
       "team2": "ALL. FLEMALLE D",
       "category": "MM - DIVISION 4 F",
@@ -1693,46 +1683,6 @@
       "team2": "AVENIR JUPILLE B",
       "category": "MM - DIVISION 4 F",
       "location": "ALL. FLEMALLE D",
-      "other": ""
-    },
-    {
-      "code": "906005",
-      "date": "2026-08-29",
-      "time": "19:00",
-      "team1": "ROYAL HERVE-BATTICE C",
-      "team2": "ALL. FLEMALLE A (+ 5)",
-      "category": "PROVINCIALE DD - POULE F",
-      "location": "ROYAL HERVE-BATTICE C",
-      "other": ""
-    },
-    {
-      "code": "808005",
-      "date": "2026-08-29",
-      "time": "19:00",
-      "team1": "ALL. FLEMALLE A",
-      "team2": "ROYAL HERVE-BATTICE B (+",
-      "category": "PROVINCIALE MM - POULE H",
-      "location": "ALL. FLEMALLE A",
-      "other": ""
-    },
-    {
-      "code": "812006",
-      "date": "2026-08-29",
-      "time": "19:00",
-      "team1": "BC BELLEFLAMME E (+ 5)",
-      "team2": "ALL. FLEMALLE B",
-      "category": "PROVINCIALE MM - POULE L",
-      "location": "BC BELLEFLAMME E (+ 5)",
-      "other": ""
-    },
-    {
-      "code": "808005",
-      "date": "2026-08-29",
-      "time": "19:00",
-      "team1": "ALL. FLEMALLE A",
-      "team2": "ROYAL HERVE-BATTICE B (+ 10)",
-      "category": "ROYAL HERVE-BATTICE B (+ 10)",
-      "location": "ALL. FLEMALLE A",
       "other": ""
     },
     {
@@ -2336,16 +2286,6 @@
       "other": ""
     },
     {
-      "code": "528012",
-      "date": "2026-09-05",
-      "time": "15:00",
-      "team1": "BC BELLEFLAMME C",
-      "team2": "ALL. FLEMALLE D",
-      "category": "U 10 - MM I",
-      "location": "BC BELLEFLAMME C",
-      "other": ""
-    },
-    {
       "code": "528024",
       "date": "2026-09-13",
       "time": "09:00",
@@ -2383,6 +2323,16 @@
       "team2": "ALL. FLEMALLE D",
       "category": "U 10 - MM I",
       "location": "GIANTS BRAIVES B",
+      "other": ""
+    },
+    {
+      "code": "528012",
+      "date": "2026-10-18",
+      "time": "13:00",
+      "team1": "BC BELLEFLAMME C",
+      "team2": "ALL. FLEMALLE D",
+      "category": "U 10 - MM I",
+      "location": "BC BELLEFLAMME C",
       "other": ""
     },
     {
@@ -2866,16 +2816,6 @@
       "other": ""
     },
     {
-      "code": "501157",
-      "date": "2026-12-12",
-      "time": "11:00",
-      "team1": "ALL. FLEMALLE D",
-      "team2": "RBC STAVELOT A",
-      "category": "U 12 - MM B",
-      "location": "ALL. FLEMALLE D",
-      "other": ""
-    },
-    {
       "code": "501164",
       "date": "2026-12-19",
       "time": "11:00",
@@ -2993,16 +2933,6 @@
       "team2": "ETOILE JUPILLE B",
       "category": "U 12 - MM B",
       "location": "ALL. FLEMALLE D",
-      "other": ""
-    },
-    {
-      "code": "501331",
-      "date": "2027-04-17",
-      "time": "11:00",
-      "team1": "RBC STAVELOT A",
-      "team2": "ALL. FLEMALLE D",
-      "category": "U 12 - MM B",
-      "location": "RBC STAVELOT A",
       "other": ""
     },
     {
@@ -4927,7 +4857,7 @@
     },
     {
       "code": "472244",
-      "date": "2027-02-14",
+      "date": "2027-03-06",
       "time": "09:00",
       "team1": "ROYAL BC WANZE B",
       "team2": "ALL. FLEMALLE B",
@@ -4973,16 +4903,6 @@
       "team2": "ALL. FLEMALLE B",
       "category": "U 16 - PROV MM C",
       "location": "CRISTAL SGH B",
-      "other": ""
-    },
-    {
-      "code": "AW147003",
-      "date": "2026-09-06",
-      "time": "13:00",
-      "team1": "EAST BELGIUM BCA",
-      "team2": "ALL. FLEMALLE",
-      "category": "U 16 - SILVER REGIONALES B",
-      "location": "EAST BELGIUM BCA",
       "other": ""
     },
     {
@@ -5033,6 +4953,16 @@
       "team2": "ALL. FLEMALLE",
       "category": "U 16 - SILVER REGIONALES B",
       "location": "LIEGE PANTHERS",
+      "other": ""
+    },
+    {
+      "code": "AW147003",
+      "date": "2026-11-07",
+      "time": "15:00",
+      "team1": "EAST BELGIUM BCA",
+      "team2": "ALL. FLEMALLE",
+      "category": "U 16 - SILVER REGIONALES B",
+      "location": "EAST BELGIUM BCA",
       "other": ""
     },
     {
@@ -5166,16 +5096,6 @@
       "other": ""
     },
     {
-      "code": "430151",
-      "date": "2026-12-13",
-      "time": "13:00",
-      "team1": "RSW LIEGE BASKET",
-      "team2": "ALL. FLEMALLE",
-      "category": "U 18 - ELITES MM A",
-      "location": "RSW LIEGE BASKET",
-      "other": ""
-    },
-    {
       "code": "430166",
       "date": "2026-12-19",
       "time": "15:00",
@@ -5203,16 +5123,6 @@
       "team2": "ALL. FLEMALLE",
       "category": "U 18 - ELITES MM A",
       "location": "BC VERVIERS B",
-      "other": ""
-    },
-    {
-      "code": "430216",
-      "date": "2027-01-23",
-      "time": "15:00",
-      "team1": "ALL. FLEMALLE",
-      "team2": "RSW LIEGE BASKET",
-      "category": "U 18 - ELITES MM A",
-      "location": "ALL. FLEMALLE",
       "other": ""
     },
     {

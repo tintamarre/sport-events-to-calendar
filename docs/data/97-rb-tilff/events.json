@@ -6,31 +6,11 @@
   },
   "events": [
     {
-      "code": "AW212006",
-      "date": "2026-08-28",
-      "time": "20:45",
-      "team1": "RB TILFF",
-      "team2": "B.C.BOUSSU (+ 8)",
-      "category": "AWBB MM - POULE L",
-      "location": "RB TILFF",
-      "other": ""
-    },
-    {
-      "code": "764010",
-      "date": "2026-08-29",
-      "time": "9:30",
-      "team1": "RB TILFF B",
-      "team2": "BC BELLEFLAMME",
-      "category": "CPE PROV PUPILLES MM",
-      "location": "RB TILFF B",
-      "other": ""
-    },
-    {
       "code": "764020",
       "date": "2026-09-26",
       "time": "9:30",
       "team1": "RB TILFF A",
-      "team2": "764011",
+      "team2": "PEPINSTER EAST BELG A",
       "category": "CPE PROV PUPILLES MM",
       "location": "RB TILFF A",
       "other": ""
@@ -1236,16 +1216,6 @@
       "other": ""
     },
     {
-      "code": "810005",
-      "date": "2026-08-30",
-      "time": "14:00",
-      "team1": "BC COINTE A",
-      "team2": "RB TILFF C (+ 10)",
-      "category": "PROVINCIALE MM - POULE J",
-      "location": "BC COINTE A",
-      "other": ""
-    },
-    {
       "code": "521015",
       "date": "2026-09-05",
       "time": "12:00",
@@ -2066,16 +2036,6 @@
       "other": ""
     },
     {
-      "code": "504014",
-      "date": "2026-09-06",
-      "time": "10:30",
-      "team1": "ROYAL BC WANZE B",
-      "team2": "RB TILFF B",
-      "category": "U 12 - MM E",
-      "location": "ROYAL BC WANZE B",
-      "other": ""
-    },
-    {
       "code": "504034",
       "date": "2026-09-20",
       "time": "16:00",
@@ -2133,6 +2093,16 @@
       "team2": "ALL. FLEMALLE E",
       "category": "U 12 - MM E",
       "location": "RB TILFF B",
+      "other": ""
+    },
+    {
+      "code": "504014",
+      "date": "2026-11-29",
+      "time": "13:00",
+      "team1": "ROYAL BC WANZE B",
+      "team2": "RB TILFF B",
+      "category": "U 12 - MM E",
+      "location": "ROYAL BC WANZE B",
       "other": ""
     },
     {
@@ -2823,7 +2793,7 @@
       "team2": "RB TILFF A",
       "category": "U 8 - MM C",
       "location": "CRISTAL SGH A",
-      "other": ""
+      "other": "(R des 18 Bonniers 4460"
     },
     {
       "code": "542035",

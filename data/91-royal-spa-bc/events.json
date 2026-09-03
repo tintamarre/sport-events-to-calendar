@@ -6,26 +6,6 @@
   },
   "events": [
     {
-      "code": "AW234005",
-      "date": "2026-08-29",
-      "time": "18:30",
-      "team1": "RBC ALLEUR A",
-      "team2": "ROYAL SPA BC (+ 8)",
-      "category": "AWBB DD - POULE N",
-      "location": "RBC ALLEUR A",
-      "other": ""
-    },
-    {
-      "code": "AW203006",
-      "date": "2026-08-28",
-      "time": "21:00",
-      "team1": "ROYAL SPA BC",
-      "team2": "BC SAINT-HUBERT A",
-      "category": "AWBB MM - POULE C",
-      "location": "ROYAL SPA BC",
-      "other": ""
-    },
-    {
       "code": "762022",
       "date": "2026-09-26",
       "time": "13:00",
@@ -43,26 +23,6 @@
       "team2": "ROYAL SPA BC",
       "category": "CPE PROV JUNIORS",
       "location": "THEUX BC",
-      "other": ""
-    },
-    {
-      "code": "763004",
-      "date": "2026-08-29",
-      "time": "13:00",
-      "team1": "ORP JAUCHE",
-      "team2": "ROYAL SPA BC B",
-      "category": "CPE PROV MINIMES MM",
-      "location": "ORP JAUCHE",
-      "other": ""
-    },
-    {
-      "code": "764016",
-      "date": "2026-08-29",
-      "time": "15:00",
-      "team1": "ROYAL SPA BC",
-      "team2": "BC COINTE B",
-      "category": "CPE PROV PUPILLES MM",
-      "location": "ROYAL SPA BC",
       "other": ""
     },
     {
@@ -1467,8 +1427,8 @@
     },
     {
       "code": "AW101044",
-      "date": "2026-10-24",
-      "time": "21:00",
+      "date": "2026-10-25",
+      "time": "14:00",
       "team1": "PEPINSTER EAST BELG B",
       "team2": "ROYAL SPA BC A",
       "category": "MM - REGIONALE 2 A",
@@ -1663,36 +1623,6 @@
       "team2": "PEPINSTER EAST BELG B",
       "category": "MM - REGIONALE 2 A",
       "location": "ROYAL SPA BC A",
-      "other": ""
-    },
-    {
-      "code": "913006",
-      "date": "2026-08-30",
-      "time": "12:00",
-      "team1": "ROYAL SPA BC B",
-      "team2": "CRISTAL SGH B",
-      "category": "PROVINCIALE DD - POULE M",
-      "location": "ROYAL SPA BC B",
-      "other": ""
-    },
-    {
-      "code": "809006",
-      "date": "2026-08-29",
-      "time": "17:00",
-      "team1": "ROYAL SPA BC D (+ 5)",
-      "team2": "BC SPRIMONT D",
-      "category": "PROVINCIALE MM - POULE I",
-      "location": "ROYAL SPA BC D (+ 5)",
-      "other": ""
-    },
-    {
-      "code": "818005",
-      "date": "2026-08-29",
-      "time": "19:00",
-      "team1": "ROYAL SPA BC C",
-      "team2": "BC VERVIERS D (+ 5)",
-      "category": "PROVINCIALE MM - POULE R",
-      "location": "ROYAL SPA BC C",
       "other": ""
     },
     {
@@ -1903,7 +1833,7 @@
       "team2": "ROYAL SPA BC B",
       "category": "U 10 - MM E",
       "location": "PEPINSTER EAST BELG C",
-      "other": ""
+      "other": "(Ho au paire)"
     },
     {
       "code": "524024",

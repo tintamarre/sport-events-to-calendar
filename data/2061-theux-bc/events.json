@@ -6,21 +6,11 @@
   },
   "events": [
     {
-      "code": "AW214005",
-      "date": "2026-08-29",
-      "time": "18:00",
-      "team1": "BBL'9 FLENU",
-      "team2": "THEUX BC",
-      "category": "AWBB MM - POULE N",
-      "location": "BBL'9 FLENU",
-      "other": ""
-    },
-    {
       "code": "762023",
       "date": "2026-09-26",
       "time": "9:00",
       "team1": "THEUX BC",
-      "team2": "762002",
+      "team2": "ORP JAUCHE",
       "category": "CPE PROV CADETS",
       "location": "THEUX BC",
       "other": ""
@@ -996,46 +986,6 @@
       "other": ""
     },
     {
-      "code": "803005",
-      "date": "2026-08-27",
-      "time": "21:00",
-      "team1": "THEUX BC A",
-      "team2": "RBC WELKENRAEDT A (+ 10)",
-      "category": "PROVINCIALE MM - POULE C",
-      "location": "THEUX BC A",
-      "other": ""
-    },
-    {
-      "code": "804006",
-      "date": "2026-08-30",
-      "time": "17:00",
-      "team1": "CRISTAL SGH B",
-      "team2": "THEUX BC C (+ 5)",
-      "category": "PROVINCIALE MM - POULE D",
-      "location": "CRISTAL SGH B",
-      "other": ""
-    },
-    {
-      "code": "817006",
-      "date": "2026-08-30",
-      "time": "15:00",
-      "team1": "THEUX BC B",
-      "team2": "THUNDER CONDROZ (+ 5)",
-      "category": "PROVINCIALE MM - POULE Q",
-      "location": "THEUX BC B",
-      "other": ""
-    },
-    {
-      "code": "803005",
-      "date": "2026-08-27",
-      "time": "21:00",
-      "team1": "THEUX BC A",
-      "team2": "RBC WELKENRAEDT A (+ 10)",
-      "category": "RBC WELKENRAEDT A (+ 10)",
-      "location": "THEUX BC A",
-      "other": ""
-    },
-    {
       "code": "520016",
       "date": "2026-09-06",
       "time": "13:00",
@@ -1436,16 +1386,6 @@
       "other": ""
     },
     {
-      "code": "501033",
-      "date": "2026-09-20",
-      "time": "11:00",
-      "team1": "THEUX BC A",
-      "team2": "RBC STAVELOT A",
-      "category": "U 12 - MM B",
-      "location": "THEUX BC A",
-      "other": ""
-    },
-    {
       "code": "501155",
       "date": "2026-09-26",
       "time": "15:00",
@@ -1543,16 +1483,6 @@
       "team2": "COLLEGE S LOUIS B",
       "category": "U 12 - MM B",
       "location": "THEUX BC A",
-      "other": ""
-    },
-    {
-      "code": "501191",
-      "date": "2027-01-09",
-      "time": "9:00",
-      "team1": "RBC STAVELOT A",
-      "team2": "THEUX BC A",
-      "category": "U 12 - MM B",
-      "location": "RBC STAVELOT A",
       "other": ""
     },
     {
@@ -3076,16 +3006,6 @@
       "other": ""
     },
     {
-      "code": "541013",
-      "date": "2026-09-05",
-      "time": "9:00",
-      "team1": "RBC ALLEUR",
-      "team2": "THEUX BC B",
-      "category": "U 8 - MM B",
-      "location": "RBC ALLEUR",
-      "other": ""
-    },
-    {
       "code": "541025",
       "date": "2026-09-13",
       "time": "9:00",
@@ -3106,6 +3026,16 @@
       "other": ""
     },
     {
+      "code": "541013",
+      "date": "2026-09-26",
+      "time": "11:00",
+      "team1": "RBC ALLEUR",
+      "team2": "THEUX BC B",
+      "category": "U 8 - MM B",
+      "location": "RBC ALLEUR",
+      "other": ""
+    },
+    {
       "code": "541056",
       "date": "2026-10-03",
       "time": "9:00",
@@ -3117,7 +3047,7 @@
     },
     {
       "code": "541066",
-      "date": "2026-10-10",
+      "date": "2026-10-11",
       "time": "9:00",
       "team1": "RABC ENSIVAL",
       "team2": "THEUX BC B",
@@ -3216,16 +3146,6 @@
       "other": ""
     },
     {
-      "code": "541226",
-      "date": "2027-01-30",
-      "time": "9:00",
-      "team1": "THEUX BC B",
-      "team2": "RBC VISE",
-      "category": "U 8 - MM B",
-      "location": "THEUX BC B",
-      "other": ""
-    },
-    {
       "code": "541235",
       "date": "2027-02-06",
       "time": "9:30",
@@ -3243,6 +3163,16 @@
       "team2": "THEUX BC B",
       "category": "U 8 - MM B",
       "location": "PRAYON TROOZ",
+      "other": ""
+    },
+    {
+      "code": "541226",
+      "date": "2027-02-20",
+      "time": "9:00",
+      "team1": "THEUX BC B",
+      "team2": "RBC VISE",
+      "category": "U 8 - MM B",
+      "location": "THEUX BC B",
       "other": ""
     },
     {
@@ -3278,7 +3208,7 @@
     {
       "code": "541324",
       "date": "2027-04-10",
-      "time": "13:30",
+      "time": "9:30",
       "team1": "CRISTAL SGH B",
       "team2": "THEUX BC B",
       "category": "U 8 - MM B",

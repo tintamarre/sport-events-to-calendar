@@ -6,56 +6,6 @@
   },
   "events": [
     {
-      "code": "AW228006",
-      "date": "2026-08-30",
-      "time": "14:00",
-      "team1": "BC BONINNE A",
-      "team2": "RBC ALLEUR B (+ 16)",
-      "category": "AWBB DD - POULE H",
-      "location": "BC BONINNE A",
-      "other": ""
-    },
-    {
-      "code": "AW234005",
-      "date": "2026-08-29",
-      "time": "18:30",
-      "team1": "RBC ALLEUR A",
-      "team2": "ROYAL SPA BC (+ 8)",
-      "category": "AWBB DD - POULE N",
-      "location": "RBC ALLEUR A",
-      "other": ""
-    },
-    {
-      "code": "AW210006",
-      "date": "2026-08-29",
-      "time": "20:30",
-      "team1": "RBC ALLEUR",
-      "team2": "R LINTHOUT BC B (+ 8)",
-      "category": "AWBB MM - POULE J",
-      "location": "RBC ALLEUR",
-      "other": ""
-    },
-    {
-      "code": "762003",
-      "date": "2026-08-30",
-      "time": "15:00",
-      "team1": "RBC ALLEUR",
-      "team2": "LA VILLERSOISE",
-      "category": "CPE PROV CADETS",
-      "location": "RBC ALLEUR",
-      "other": ""
-    },
-    {
-      "code": "764009",
-      "date": "2026-08-30",
-      "time": "9:00",
-      "team1": "RBC ALLEUR B",
-      "team2": "HENRI-CHAPELLE A",
-      "category": "CPE PROV PUPILLES MM",
-      "location": "RBC ALLEUR B",
-      "other": ""
-    },
-    {
       "code": "413016",
       "date": "2026-09-06",
       "time": "13:00",
@@ -2216,46 +2166,6 @@
       "other": ""
     },
     {
-      "code": "907005",
-      "date": "2026-08-30",
-      "time": "11:00",
-      "team1": "RBC ALLEUR C",
-      "team2": "ROYAL BC NINANE A (+ 5)",
-      "category": "PROVINCIALE DD - POULE G",
-      "location": "RBC ALLEUR C",
-      "other": ""
-    },
-    {
-      "code": "916005",
-      "date": "2026-08-30",
-      "time": "15:00",
-      "team1": "BC SPRIMONT A",
-      "team2": "RBC ALLEUR D (+ 5)",
-      "category": "PROVINCIALE DD - POULE P",
-      "location": "BC SPRIMONT A",
-      "other": ""
-    },
-    {
-      "code": "826005",
-      "date": "2026-08-30",
-      "time": "13:00",
-      "team1": "RBC ALLEUR B",
-      "team2": "RBC DISON-ANDRIMONT B (",
-      "category": "PROVINCIALE MM - POULE Z",
-      "location": "RBC ALLEUR B",
-      "other": ""
-    },
-    {
-      "code": "826005",
-      "date": "2026-08-30",
-      "time": "13:00",
-      "team1": "RBC ALLEUR B",
-      "team2": "RBC DISON-ANDRIMONT B (+ 5)",
-      "category": "RBC DISON-ANDRIMONT B (+ 5)",
-      "location": "RBC ALLEUR B",
-      "other": ""
-    },
-    {
       "code": "525013",
       "date": "2026-09-05",
       "time": "9:00",
@@ -4136,16 +4046,6 @@
       "other": ""
     },
     {
-      "code": "430141",
-      "date": "2026-12-06",
-      "time": "13:00",
-      "team1": "RSW LIEGE BASKET",
-      "team2": "RBC ALLEUR",
-      "category": "U 18 - ELITES MM A",
-      "location": "RSW LIEGE BASKET",
-      "other": ""
-    },
-    {
       "code": "430156",
       "date": "2026-12-13",
       "time": "11:00",
@@ -4263,16 +4163,6 @@
       "team2": "RBC ALLEUR",
       "category": "U 18 - ELITES MM A",
       "location": "VAIL. JUPILLE",
-      "other": ""
-    },
-    {
-      "code": "430336",
-      "date": "2027-04-18",
-      "time": "14:00",
-      "team1": "RBC ALLEUR",
-      "team2": "RSW LIEGE BASKET",
-      "category": "U 18 - ELITES MM A",
-      "location": "RBC ALLEUR",
       "other": ""
     },
     {
@@ -4946,16 +4836,6 @@
       "other": ""
     },
     {
-      "code": "541013",
-      "date": "2026-09-05",
-      "time": "9:00",
-      "team1": "RBC ALLEUR",
-      "team2": "THEUX BC B",
-      "category": "U 8 - MM B",
-      "location": "RBC ALLEUR",
-      "other": ""
-    },
-    {
       "code": "541031",
       "date": "2026-09-19",
       "time": "10:00",
@@ -4963,6 +4843,16 @@
       "team2": "RBC ALLEUR",
       "category": "U 8 - MM B",
       "location": "ROYAL SPA BC B",
+      "other": ""
+    },
+    {
+      "code": "541013",
+      "date": "2026-09-26",
+      "time": "11:00",
+      "team1": "RBC ALLEUR",
+      "team2": "THEUX BC B",
+      "category": "U 8 - MM B",
+      "location": "RBC ALLEUR",
       "other": ""
     },
     {

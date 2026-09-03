@@ -6,46 +6,6 @@
   },
   "events": [
     {
-      "code": "AW224006",
-      "date": "2026-08-29",
-      "time": "18:15",
-      "team1": "LIEGE PANTHERS A",
-      "team2": "PEPINSTER EAST BELG (+ 8)",
-      "category": "AWBB DD - POULE D",
-      "location": "LIEGE PANTHERS A",
-      "other": ""
-    },
-    {
-      "code": "AW205006",
-      "date": "2026-08-29",
-      "time": "21:00",
-      "team1": "PEPINSTER EAST BELG",
-      "team2": "MAIL. COMBLAIN",
-      "category": "AWBB MM - POULE E",
-      "location": "PEPINSTER EAST BELG",
-      "other": ""
-    },
-    {
-      "code": "AW84",
-      "date": "2026-08-29",
-      "time": "19:00",
-      "team1": "PEPINSTER EAST BELG",
-      "team2": "HASSELT BT",
-      "category": "BELGIQUE MM - POULE J",
-      "location": "PEPINSTER EAST BELG",
-      "other": "BNAHSEPJCB"
-    },
-    {
-      "code": "AW84",
-      "date": "2026-08-29",
-      "time": "19:00",
-      "team1": "PEPINSTER EAST BELG",
-      "team2": "HASSELT BT",
-      "category": "BNAHSEPJCB",
-      "location": "PEPINSTER EAST BELG",
-      "other": ""
-    },
-    {
       "code": "762016",
       "date": "2026-09-27",
       "time": "13:00",
@@ -56,43 +16,13 @@
       "other": ""
     },
     {
-      "code": "763010",
-      "date": "2026-08-29",
-      "time": "16:00",
-      "team1": "PEPINSTER EAST BELG A",
-      "team2": "MARCHIN BASKET",
-      "category": "CPE PROV MINIMES MM",
-      "location": "PEPINSTER EAST BELG A",
-      "other": ""
-    },
-    {
-      "code": "763011",
-      "date": "2026-08-30",
-      "time": "11:00",
-      "team1": "LA VILLERSOISE",
-      "team2": "PEPINSTER EAST BELG B",
-      "category": "CPE PROV MINIMES MM",
-      "location": "LA VILLERSOISE",
-      "other": ""
-    },
-    {
-      "code": "764011",
-      "date": "2026-08-29",
-      "time": "14:00",
-      "team1": "PEPINSTER EAST BELG A",
-      "team2": "ROYAL BC WANZE",
+      "code": "764020",
+      "date": "2026-09-26",
+      "time": "9:30",
+      "team1": "RB TILFF A",
+      "team2": "PEPINSTER EAST BELG A",
       "category": "CPE PROV PUPILLES MM",
-      "location": "PEPINSTER EAST BELG A",
-      "other": ""
-    },
-    {
-      "code": "764012",
-      "date": "2026-08-30",
-      "time": "13:00",
-      "team1": "BC VERLAINE",
-      "team2": "PEPINSTER EAST BELG B",
-      "category": "CPE PROV PUPILLES MM",
-      "location": "BC VERLAINE",
+      "location": "RB TILFF A",
       "other": ""
     },
     {
@@ -1117,8 +1047,8 @@
     },
     {
       "code": "AW101044",
-      "date": "2026-10-24",
-      "time": "21:00",
+      "date": "2026-10-25",
+      "time": "14:00",
       "team1": "PEPINSTER EAST BELG B",
       "team2": "ROYAL SPA BC A",
       "category": "MM - REGIONALE 2 A",
@@ -1147,8 +1077,8 @@
     },
     {
       "code": "AW101072",
-      "date": "2026-11-21",
-      "time": "21:00",
+      "date": "2026-11-22",
+      "time": "15:00",
       "team1": "PEPINSTER EAST BELG B",
       "team2": "CHALET WOL ST PIERRE",
       "category": "MM - REGIONALE 2 A",
@@ -1168,7 +1098,7 @@
     {
       "code": "AW101086",
       "date": "2026-12-19",
-      "time": "21:00",
+      "time": "19:00",
       "team1": "PEPINSTER EAST BELG B",
       "team2": "ROYAL GALLIA BEEZ",
       "category": "MM - REGIONALE 2 A",
@@ -1293,76 +1223,6 @@
       "team2": "PEPINSTER EAST BELG B",
       "category": "MM - REGIONALE 2 A",
       "location": "ROYAL SPA BC A",
-      "other": ""
-    },
-    {
-      "code": "AW224006",
-      "date": "2026-08-29",
-      "time": "18:15",
-      "team1": "LIEGE PANTHERS A",
-      "team2": "PEPINSTER EAST BELG (+ 8)",
-      "category": "PEPINSTER EAST BELG (+ 8)",
-      "location": "LIEGE PANTHERS A",
-      "other": ""
-    },
-    {
-      "code": "902005",
-      "date": "2026-08-30",
-      "time": "11:00",
-      "team1": "HENRI-CHAPELLE A",
-      "team2": "PEPINSTER EAST BELG B (+ 5)",
-      "category": "PEPINSTER EAST BELG B (+ 5)",
-      "location": "HENRI-CHAPELLE A",
-      "other": ""
-    },
-    {
-      "code": "807005",
-      "date": "2026-08-29",
-      "time": "17:00",
-      "team1": "ABC WAREMME A",
-      "team2": "PEPINSTER EAST BELG C (+ 5)",
-      "category": "PEPINSTER EAST BELG C (+ 5)",
-      "location": "ABC WAREMME A",
-      "other": ""
-    },
-    {
-      "code": "815005",
-      "date": "2026-08-30",
-      "time": "15:00",
-      "team1": "ATLAS A JUPILLE B",
-      "team2": "PEPINSTER EAST BELG D (+ 15)",
-      "category": "PEPINSTER EAST BELG D (+ 15)",
-      "location": "ATLAS A JUPILLE B",
-      "other": ""
-    },
-    {
-      "code": "902005",
-      "date": "2026-08-30",
-      "time": "11:00",
-      "team1": "HENRI-CHAPELLE A",
-      "team2": "PEPINSTER EAST BELG B (+",
-      "category": "PROVINCIALE DD - POULE B",
-      "location": "HENRI-CHAPELLE A",
-      "other": ""
-    },
-    {
-      "code": "807005",
-      "date": "2026-08-29",
-      "time": "17:00",
-      "team1": "ABC WAREMME A",
-      "team2": "PEPINSTER EAST BELG C (+",
-      "category": "PROVINCIALE MM - POULE G",
-      "location": "ABC WAREMME A",
-      "other": ""
-    },
-    {
-      "code": "815005",
-      "date": "2026-08-30",
-      "time": "15:00",
-      "team1": "ATLAS A JUPILLE B",
-      "team2": "PEPINSTER EAST BELG D (+",
-      "category": "PROVINCIALE MM - POULE O",
-      "location": "ATLAS A JUPILLE B",
       "other": ""
     },
     {
@@ -2013,7 +1873,7 @@
       "team2": "ROYAL SPA BC B",
       "category": "U 10 - MM E",
       "location": "PEPINSTER EAST BELG C",
-      "other": ""
+      "other": "(Ho au paire)"
     },
     {
       "code": "524036",
@@ -2393,7 +2253,7 @@
       "team2": "RABC ENSIVAL A",
       "category": "U 12 - MM F",
       "location": "PEPINSTER EAST BELG C",
-      "other": ""
+      "other": "(Ho au paire)"
     },
     {
       "code": "505023",
@@ -2403,7 +2263,7 @@
       "team2": "BC BELLEFLAMME C",
       "category": "U 12 - MM F",
       "location": "PEPINSTER EAST BELG C",
-      "other": ""
+      "other": "(Ho du paire)"
     },
     {
       "code": "505031",
@@ -2517,8 +2377,8 @@
     },
     {
       "code": "505222",
-      "date": "2027-01-30",
-      "time": "10:30",
+      "date": "2027-01-31",
+      "time": "15:00",
       "team1": "BC BELLEFLAMME C",
       "team2": "PEPINSTER EAST BELG C",
       "category": "U 12 - MM F",
@@ -2593,7 +2453,7 @@
       "team2": "BC BELLEFLAMME",
       "category": "U 14 - ELITES MM A",
       "location": "PEPINSTER EAST BELG A",
-      "other": ""
+      "other": "(Ho au paire)"
     },
     {
       "code": "480021",
@@ -2603,7 +2463,7 @@
       "team2": "ETOILE JUPILLE",
       "category": "U 14 - ELITES MM A",
       "location": "PEPINSTER EAST BELG A",
-      "other": ""
+      "other": "(Ho du paire)"
     },
     {
       "code": "480033",
@@ -2793,7 +2653,7 @@
       "team2": "RABC ENSIVAL B",
       "category": "U 14 - PROV MM A",
       "location": "PEPINSTER EAST BELG B",
-      "other": ""
+      "other": "(Ho au paire)"
     },
     {
       "code": "490023",
@@ -2803,7 +2663,7 @@
       "team2": "HARIMALIA BC",
       "category": "U 14 - PROV MM A",
       "location": "PEPINSTER EAST BELG B",
-      "other": ""
+      "other": "(Ho du paire)"
     },
     {
       "code": "490031",
@@ -2973,7 +2833,7 @@
       "team2": "RBC BLEGNY",
       "category": "U 16 - ELITES MM A",
       "location": "PEPINSTER EAST BELG A",
-      "other": ""
+      "other": "(Ho au paire)"
     },
     {
       "code": "450025",
@@ -2983,7 +2843,7 @@
       "team2": "BC SPRIMONT",
       "category": "U 16 - ELITES MM A",
       "location": "PEPINSTER EAST BELG A",
-      "other": ""
+      "other": "(Ho du paire)"
     },
     {
       "code": "450051",
@@ -3173,7 +3033,7 @@
       "team2": "ATLAS A JUPILLE B",
       "category": "U 16 - PROV MM B",
       "location": "PEPINSTER EAST BELG B",
-      "other": ""
+      "other": "(Ho au paire)"
     },
     {
       "code": "471023",
@@ -3343,7 +3203,7 @@
       "team2": "COLLEGE S LOUIS",
       "category": "U 18 - ELITES MM B",
       "location": "PEPINSTER EAST BELG",
-      "other": ""
+      "other": "(Ho du paire)"
     },
     {
       "code": "431032",

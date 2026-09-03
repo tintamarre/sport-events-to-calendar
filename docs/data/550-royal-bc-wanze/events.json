@@ -6,26 +6,6 @@
   },
   "events": [
     {
-      "code": "763005",
-      "date": "2026-08-29",
-      "time": "11:00",
-      "team1": "UN HUY BASKET",
-      "team2": "ROYAL BC WANZE",
-      "category": "CPE PROV MINIMES MM",
-      "location": "UN HUY BASKET",
-      "other": ""
-    },
-    {
-      "code": "764011",
-      "date": "2026-08-29",
-      "time": "14:00",
-      "team1": "PEPINSTER EAST BELG A",
-      "team2": "ROYAL BC WANZE",
-      "category": "CPE PROV PUPILLES MM",
-      "location": "PEPINSTER EAST BELG A",
-      "other": ""
-    },
-    {
       "code": "415024",
       "date": "2026-09-13",
       "time": "13:00",
@@ -806,16 +786,6 @@
       "other": ""
     },
     {
-      "code": "AW102004",
-      "date": "2026-08-30",
-      "time": "17:30",
-      "team1": "ROYAL BC WANZE A",
-      "team2": "B55 ACADEMY XL",
-      "category": "MM - REGIONALE 2 B",
-      "location": "ROYAL BC WANZE A",
-      "other": ""
-    },
-    {
       "code": "AW102012",
       "date": "2026-09-20",
       "time": "17:00",
@@ -1046,26 +1016,6 @@
       "other": ""
     },
     {
-      "code": "901005",
-      "date": "2026-08-27",
-      "time": "20:00",
-      "team1": "HANNUT BC",
-      "team2": "ROYAL BC WANZE (+ 5)",
-      "category": "PROVINCIALE DD - POULE A",
-      "location": "HANNUT BC",
-      "other": ""
-    },
-    {
-      "code": "802006",
-      "date": "2026-08-30",
-      "time": "13:00",
-      "team1": "LA VILLERSOISE C (+ 5)",
-      "team2": "ROYAL BC WANZE C",
-      "category": "PROVINCIALE MM - POULE B",
-      "location": "LA VILLERSOISE C (+ 5)",
-      "other": ""
-    },
-    {
       "code": "522035",
       "date": "2026-09-20",
       "time": "13:00",
@@ -1197,8 +1147,8 @@
     },
     {
       "code": "522244",
-      "date": "2027-02-14",
-      "time": "9:00",
+      "date": "2027-03-06",
+      "time": "11:00",
       "team1": "ROYAL BC WANZE A",
       "team2": "BC CRISNEE",
       "category": "U 10 - MM C",
@@ -1286,16 +1236,6 @@
       "other": ""
     },
     {
-      "code": "528052",
-      "date": "2026-10-03",
-      "time": "15:00",
-      "team1": "BC BELLEFLAMME C",
-      "team2": "ROYAL BC WANZE B",
-      "category": "U 10 - MM I",
-      "location": "BC BELLEFLAMME C",
-      "other": ""
-    },
-    {
       "code": "528064",
       "date": "2026-10-11",
       "time": "9:00",
@@ -1303,6 +1243,16 @@
       "team2": "RBC HANEFFE B",
       "category": "U 10 - MM I",
       "location": "ROYAL BC WANZE B",
+      "other": ""
+    },
+    {
+      "code": "528052",
+      "date": "2026-10-17",
+      "time": "13:00",
+      "team1": "BC BELLEFLAMME C",
+      "team2": "ROYAL BC WANZE B",
+      "category": "U 10 - MM I",
+      "location": "BC BELLEFLAMME C",
       "other": ""
     },
     {
@@ -1417,8 +1367,8 @@
     },
     {
       "code": "528244",
-      "date": "2027-02-14",
-      "time": "9:00",
+      "date": "2027-03-06",
+      "time": "15:00",
       "team1": "ROYAL BC WANZE B",
       "team2": "BC BELLEFLAMME C",
       "category": "U 10 - MM I",
@@ -1706,16 +1656,6 @@
       "other": ""
     },
     {
-      "code": "504014",
-      "date": "2026-09-06",
-      "time": "10:30",
-      "team1": "ROYAL BC WANZE B",
-      "team2": "RB TILFF B",
-      "category": "U 12 - MM E",
-      "location": "ROYAL BC WANZE B",
-      "other": ""
-    },
-    {
       "code": "504024",
       "date": "2026-09-13",
       "time": "9:00",
@@ -1771,6 +1711,16 @@
       "time": "10:30",
       "team1": "ROYAL BC WANZE B",
       "team2": "UN HUY BASKET B",
+      "category": "U 12 - MM E",
+      "location": "ROYAL BC WANZE B",
+      "other": ""
+    },
+    {
+      "code": "504014",
+      "date": "2026-11-29",
+      "time": "13:00",
+      "team1": "ROYAL BC WANZE B",
+      "team2": "RB TILFF B",
       "category": "U 12 - MM E",
       "location": "ROYAL BC WANZE B",
       "other": ""
@@ -2027,8 +1977,8 @@
     },
     {
       "code": "493244",
-      "date": "2027-02-14",
-      "time": "9:00",
+      "date": "2027-03-06",
+      "time": "13:00",
       "team1": "ROYAL BC WANZE",
       "team2": "HANNUT BC",
       "category": "U 14 - PROV MM D",
@@ -2366,16 +2316,6 @@
       "other": ""
     },
     {
-      "code": "472244",
-      "date": "2027-02-14",
-      "time": "9:00",
-      "team1": "ROYAL BC WANZE B",
-      "team2": "ALL. FLEMALLE B",
-      "category": "U 16 - PROV MM C",
-      "location": "ROYAL BC WANZE B",
-      "other": ""
-    },
-    {
       "code": "472126",
       "date": "2027-02-20",
       "time": "11:00",
@@ -2383,6 +2323,16 @@
       "team2": "ROYAL BC WANZE B",
       "category": "U 16 - PROV MM C",
       "location": "GIANTS BRAIVES B",
+      "other": ""
+    },
+    {
+      "code": "472244",
+      "date": "2027-03-06",
+      "time": "9:00",
+      "team1": "ROYAL BC WANZE B",
+      "team2": "ALL. FLEMALLE B",
+      "category": "U 16 - PROV MM C",
+      "location": "ROYAL BC WANZE B",
       "other": ""
     },
     {
@@ -2433,16 +2383,6 @@
       "team2": "ROYAL BC WANZE",
       "category": "U 18 - ELITES MM A",
       "location": "ABC WAREMME A",
-      "other": ""
-    },
-    {
-      "code": "430061",
-      "date": "2026-10-11",
-      "time": "11:00",
-      "team1": "ROYAL BC WANZE",
-      "team2": "RSW LIEGE BASKET",
-      "category": "U 18 - ELITES MM A",
-      "location": "ROYAL BC WANZE",
       "other": ""
     },
     {
@@ -2593,16 +2533,6 @@
       "team2": "ATLAS A JUPILLE",
       "category": "U 18 - ELITES MM A",
       "location": "ROYAL BC WANZE",
-      "other": ""
-    },
-    {
-      "code": "430301",
-      "date": "2027-03-28",
-      "time": "13:00",
-      "team1": "RSW LIEGE BASKET",
-      "team2": "ROYAL BC WANZE",
-      "category": "U 18 - ELITES MM A",
-      "location": "RSW LIEGE BASKET",
       "other": ""
     },
     {
@@ -3507,8 +3437,8 @@
     },
     {
       "code": "545244",
-      "date": "2027-02-14",
-      "time": "12:00",
+      "date": "2027-03-06",
+      "time": "9:00",
       "team1": "ROYAL BC WANZE",
       "team2": "HANNUT BC B",
       "category": "U 8 - MM F",
