@@ -6,13 +6,23 @@
   },
   "events": [
     {
-      "code": "415013",
-      "date": "2026-09-05",
+      "code": "760510",
+      "date": "2026-09-27",
       "time": "17:00",
       "team1": "RBC WELKENRAEDT",
-      "team2": "RBC ALLEUR D",
-      "category": "DD - DIVISION 2 B",
+      "team2": "MAIL. COMBLAIN (+  5)",
+      "category": "CPE PROV DAMES",
       "location": "RBC WELKENRAEDT",
+      "other": ""
+    },
+    {
+      "code": "760031",
+      "date": "2026-09-26",
+      "time": "19:00",
+      "team1": "RBC VISE A",
+      "team2": "RBC WELKENRAEDT A (+ 5)",
+      "category": "CPE PROV MESSIEURS",
+      "location": "RBC VISE A",
       "other": ""
     },
     {
@@ -266,16 +276,6 @@
       "other": ""
     },
     {
-      "code": "406012",
-      "date": "2026-09-05",
-      "time": "19:00",
-      "team1": "RBC WELKENRAEDT A",
-      "team2": "R.UN.BELLAIRE B",
-      "category": "MM - DIVISION 3 C",
-      "location": "RBC WELKENRAEDT A",
-      "other": ""
-    },
-    {
       "code": "406023",
       "date": "2026-09-12",
       "time": "21:00",
@@ -526,16 +526,6 @@
       "other": ""
     },
     {
-      "code": "412012",
-      "date": "2026-09-05",
-      "time": "21:00",
-      "team1": "RBC WELKENRAEDT B",
-      "team2": "ROYAL SPA BC E",
-      "category": "MM - DIVISION 4 F",
-      "location": "RBC WELKENRAEDT B",
-      "other": ""
-    },
-    {
       "code": "412023",
       "date": "2026-09-12",
       "time": "21:00",
@@ -611,16 +601,6 @@
       "time": "17:00",
       "team1": "RBC WELKENRAEDT B",
       "team2": "BCM HERSTAL C",
-      "category": "MM - DIVISION 4 F",
-      "location": "RBC WELKENRAEDT B",
-      "other": ""
-    },
-    {
-      "code": "412152",
-      "date": "2026-12-12",
-      "time": "21:00",
-      "team1": "RBC WELKENRAEDT B",
-      "team2": "ALL. FLEMALLE D",
       "category": "MM - DIVISION 4 F",
       "location": "RBC WELKENRAEDT B",
       "other": ""
@@ -726,16 +706,6 @@
       "other": ""
     },
     {
-      "code": "412336",
-      "date": "2027-04-17",
-      "time": "17:00",
-      "team1": "ALL. FLEMALLE D",
-      "team2": "RBC WELKENRAEDT B",
-      "category": "MM - DIVISION 4 F",
-      "location": "ALL. FLEMALLE D",
-      "other": ""
-    },
-    {
       "code": "412342",
       "date": "2027-04-24",
       "time": "21:00",
@@ -743,16 +713,6 @@
       "team2": "R HT-PRE OUGREE B",
       "category": "MM - DIVISION 4 F",
       "location": "RBC WELKENRAEDT B",
-      "other": ""
-    },
-    {
-      "code": "470013",
-      "date": "2026-09-05",
-      "time": "11:00",
-      "team1": "RBC WELKENRAEDT",
-      "team2": "RBC DISON-ANDRIMONT",
-      "category": "U 16 - PROV MM A",
-      "location": "RBC WELKENRAEDT",
       "other": ""
     },
     {
@@ -923,16 +883,6 @@
       "team2": "RBC WELKENRAEDT",
       "category": "U 16 - PROV MM A",
       "location": "PRAYON TROOZ",
-      "other": ""
-    },
-    {
-      "code": "441013",
-      "date": "2026-09-05",
-      "time": "13:00",
-      "team1": "RBC WELKENRAEDT",
-      "team2": "BBC EUPEN",
-      "category": "U 18 - PROV MM B",
-      "location": "RBC WELKENRAEDT",
       "other": ""
     },
     {
@@ -1123,16 +1073,6 @@
       "team2": "RBC WELKENRAEDT",
       "category": "U 18 - PROV MM B",
       "location": "BCM HERSTAL",
-      "other": ""
-    },
-    {
-      "code": "580013",
-      "date": "2026-09-05",
-      "time": "15:00",
-      "team1": "RBC WELKENRAEDT",
-      "team2": "ABC WAREMME A",
-      "category": "U 19 - DD",
-      "location": "RBC WELKENRAEDT",
       "other": ""
     },
     {

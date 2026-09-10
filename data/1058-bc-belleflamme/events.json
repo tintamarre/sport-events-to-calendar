@@ -6,13 +6,53 @@
   },
   "events": [
     {
-      "code": "413011",
-      "date": "2026-09-06",
-      "time": "11:00",
-      "team1": "HENRI-CHAPELLE A",
-      "team2": "BC BELLEFLAMME B",
-      "category": "DD - DIVISION 1",
-      "location": "HENRI-CHAPELLE A",
+      "code": "762021",
+      "date": "2026-09-26",
+      "time": "17:00",
+      "team1": "RBC AWANS A",
+      "team2": "BC BELLEFLAMME A",
+      "category": "CPE PROV CADETS",
+      "location": "RBC AWANS A",
+      "other": ""
+    },
+    {
+      "code": "762025",
+      "date": "2026-09-27",
+      "time": "16:00",
+      "team1": "BC BELLEFLAMME B",
+      "team2": "HARIMALIA BC A",
+      "category": "CPE PROV CADETS",
+      "location": "BC BELLEFLAMME B",
+      "other": ""
+    },
+    {
+      "code": "760513",
+      "date": "2026-09-27",
+      "time": "18:00",
+      "team1": "BC BELLEFLAMME B",
+      "team2": "RBC VISE B (+ 10)",
+      "category": "CPE PROV DAMES",
+      "location": "BC BELLEFLAMME B",
+      "other": ""
+    },
+    {
+      "code": "760021",
+      "date": "2026-09-25",
+      "time": "21:00",
+      "team1": "BC BELLEFLAMME B",
+      "team2": "RABC ENSIVAL A (+ 5)",
+      "category": "CPE PROV MESSIEURS",
+      "location": "BC BELLEFLAMME B",
+      "other": ""
+    },
+    {
+      "code": "764018",
+      "date": "2026-09-26",
+      "time": "09:00",
+      "team1": "BC BELLEFLAMME",
+      "team2": "HANNUT BC",
+      "category": "CPE PROV PUPILLES MM",
+      "location": "BC BELLEFLAMME",
       "other": ""
     },
     {
@@ -266,16 +306,6 @@
       "other": ""
     },
     {
-      "code": "AW105002",
-      "date": "2026-09-05",
-      "time": "19:00",
-      "team1": "BC BELLEFLAMME A",
-      "team2": "REBOND OTTIGNIES",
-      "category": "DD - REGIONALE 2 A",
-      "location": "BC BELLEFLAMME A",
-      "other": ""
-    },
-    {
       "code": "AW105015",
       "date": "2026-09-13",
       "time": "14:30",
@@ -486,16 +516,6 @@
       "other": ""
     },
     {
-      "code": "401013",
-      "date": "2026-09-04",
-      "time": "21:00",
-      "team1": "BC BELLEFLAMME B",
-      "team2": "HENRI-CHAPELLE A",
-      "category": "MM - DIVISION 1",
-      "location": "BC BELLEFLAMME B",
-      "other": ""
-    },
-    {
       "code": "401023",
       "date": "2026-09-11",
       "time": "21:00",
@@ -508,7 +528,7 @@
     {
       "code": "401031",
       "date": "2026-09-20",
-      "time": "17:00",
+      "time": "17:30",
       "team1": "ATLAS A JUPILLE A",
       "team2": "BC BELLEFLAMME B",
       "category": "MM - DIVISION 1",
@@ -743,16 +763,6 @@
       "team2": "ABC WAREMME A",
       "category": "MM - DIVISION 1",
       "location": "BC BELLEFLAMME B",
-      "other": ""
-    },
-    {
-      "code": "402012",
-      "date": "2026-09-05",
-      "time": "21:00",
-      "team1": "PEPINSTER EAST BELG C",
-      "team2": "BC BELLEFLAMME C",
-      "category": "MM - DIVISION 2 A",
-      "location": "PEPINSTER EAST BELG C",
       "other": ""
     },
     {
@@ -1006,16 +1016,6 @@
       "other": ""
     },
     {
-      "code": "404011",
-      "date": "2026-09-05",
-      "time": "19:00",
-      "team1": "ROYAL HERVE-BATTICE B",
-      "team2": "BC BELLEFLAMME D",
-      "category": "MM - DIVISION 3 A",
-      "location": "ROYAL HERVE-BATTICE B",
-      "other": ""
-    },
-    {
       "code": "404032",
       "date": "2026-09-19",
       "time": "17:00",
@@ -1263,16 +1263,6 @@
       "team2": "BC BELLEFLAMME D",
       "category": "MM - DIVISION 3 A",
       "location": "ATLAS A JUPILLE C",
-      "other": ""
-    },
-    {
-      "code": "410012",
-      "date": "2026-09-06",
-      "time": "11:00",
-      "team1": "BC BELLEFLAMME E",
-      "team2": "RSW LIEGE BASKET C",
-      "category": "MM - DIVISION 4 D",
-      "location": "BC BELLEFLAMME E",
       "other": ""
     },
     {
@@ -1703,16 +1693,6 @@
       "team2": "BC BELLEFLAMME F",
       "category": "MM - DIVISION 4 E",
       "location": "R.UN.BELLAIRE C",
-      "other": ""
-    },
-    {
-      "code": "AW100001",
-      "date": "2026-09-05",
-      "time": "20:00",
-      "team1": "R.B.C. BELGRADE",
-      "team2": "BC BELLEFLAMME A",
-      "category": "MM - REGIONALE 1",
-      "location": "R.B.C. BELGRADE",
       "other": ""
     },
     {
@@ -2206,16 +2186,6 @@
       "other": ""
     },
     {
-      "code": "522011",
-      "date": "2026-09-06",
-      "time": "09:00",
-      "team1": "LA VILLERSOISE A",
-      "team2": "BC BELLEFLAMME B",
-      "category": "U 10 - MM C",
-      "location": "LA VILLERSOISE A",
-      "other": ""
-    },
-    {
       "code": "522022",
       "date": "2026-09-13",
       "time": "09:00",
@@ -2487,8 +2457,8 @@
     },
     {
       "code": "528142",
-      "date": "2026-12-05",
-      "time": "15:00",
+      "date": "2026-11-29",
+      "time": "09:00",
       "team1": "BC BELLEFLAMME C",
       "team2": "ABC WAREMME B",
       "category": "U 10 - MM I",
@@ -2588,7 +2558,7 @@
     {
       "code": "528322",
       "date": "2027-04-10",
-      "time": "15:00",
+      "time": "09:00",
       "team1": "BC BELLEFLAMME C",
       "team2": "UN HUY BASKET A",
       "category": "U 10 - MM I",
@@ -2603,16 +2573,6 @@
       "team2": "BC BELLEFLAMME C",
       "category": "U 10 - MM I",
       "location": "ABC WAREMME B",
-      "other": ""
-    },
-    {
-      "code": "500014",
-      "date": "2026-09-05",
-      "time": "12:00",
-      "team1": "BC BELLEFLAMME",
-      "team2": "ROYAL HERVE-BATTICE A",
-      "category": "U 12 - MM A",
-      "location": "BC BELLEFLAMME",
       "other": ""
     },
     {
@@ -2823,16 +2783,6 @@
       "team2": "ALL. FLEMALLE A",
       "category": "U 12 - MM A",
       "location": "BC BELLEFLAMME",
-      "other": ""
-    },
-    {
-      "code": "501012",
-      "date": "2026-09-05",
-      "time": "09:00",
-      "team1": "BC BELLEFLAMME B",
-      "team2": "ROYAL MOSA AC 1941 A",
-      "category": "U 12 - MM B",
-      "location": "BC BELLEFLAMME B",
       "other": ""
     },
     {
@@ -3066,16 +3016,6 @@
       "other": ""
     },
     {
-      "code": "505012",
-      "date": "2026-09-05",
-      "time": "10:30",
-      "team1": "BC BELLEFLAMME C",
-      "team2": "HENRI-CHAPELLE B",
-      "category": "U 12 - MM F",
-      "location": "BC BELLEFLAMME C",
-      "other": ""
-    },
-    {
       "code": "505023",
       "date": "2026-09-12",
       "time": "10:45",
@@ -3264,16 +3204,6 @@
       "category": "U 12 - MM F",
       "location": "RBC AUBEL",
       "other": ""
-    },
-    {
-      "code": "480011",
-      "date": "2026-09-05",
-      "time": "15:00",
-      "team1": "PEPINSTER EAST BELG A",
-      "team2": "BC BELLEFLAMME",
-      "category": "U 14 - ELITES MM A",
-      "location": "PEPINSTER EAST BELG A",
-      "other": "(Ho au paire)"
     },
     {
       "code": "480022",
@@ -3466,16 +3396,6 @@
       "other": ""
     },
     {
-      "code": "AW151001",
-      "date": "2026-09-06",
-      "time": "11:00",
-      "team1": "TOURNAI WAPITI",
-      "team2": "BC BELLEFLAMME",
-      "category": "U 14 - GOLD REGIONALES B",
-      "location": "TOURNAI WAPITI",
-      "other": ""
-    },
-    {
       "code": "AW151008",
       "date": "2026-09-13",
       "time": "11:00",
@@ -3563,16 +3483,6 @@
       "team2": "BC BELLEFLAMME",
       "category": "U 14 - GOLD REGIONALES B",
       "location": "RBC ECLAIR",
-      "other": ""
-    },
-    {
-      "code": "AW131001",
-      "date": "2026-09-05",
-      "time": "16:00",
-      "team1": "BC BELLEFLAMME",
-      "team2": "R MURPROTEC NIVELLES",
-      "category": "U 14 - GOLD REGIONAUX B",
-      "location": "BC BELLEFLAMME",
       "other": ""
     },
     {
@@ -3666,16 +3576,6 @@
       "other": ""
     },
     {
-      "code": "AW154001",
-      "date": "2026-09-06",
-      "time": "13:00",
-      "team1": "BC BELLEFLAMME",
-      "team2": "DPK CARNIERES",
-      "category": "U 14 - SILVER REGIONALES C",
-      "location": "BC BELLEFLAMME",
-      "other": ""
-    },
-    {
       "code": "AW154007",
       "date": "2026-09-12",
       "time": "13:00",
@@ -3763,16 +3663,6 @@
       "team2": "BC BELLEFLAMME",
       "category": "U 14 - SILVER REGIONALES C",
       "location": "ABC WAREMME",
-      "other": ""
-    },
-    {
-      "code": "AW149002",
-      "date": "2026-09-06",
-      "time": "17:00",
-      "team1": "BC BELLEFLAMME",
-      "team2": "NUTS BASTOGNE",
-      "category": "U 16 - BRONZE REGIONALES B",
-      "location": "BC BELLEFLAMME",
       "other": ""
     },
     {
@@ -3866,16 +3756,6 @@
       "other": ""
     },
     {
-      "code": "AW144002",
-      "date": "2026-09-05",
-      "time": "14:00",
-      "team1": "BC BELLEFLAMME",
-      "team2": "REBOND OTTIGNIES",
-      "category": "U 16 - GOLD REGIONALES A",
-      "location": "BC BELLEFLAMME",
-      "other": ""
-    },
-    {
       "code": "AW144009",
       "date": "2026-09-12",
       "time": "13:30",
@@ -3963,16 +3843,6 @@
       "team2": "ROYAL BC CINEY",
       "category": "U 16 - GOLD REGIONALES A",
       "location": "BC BELLEFLAMME",
-      "other": ""
-    },
-    {
-      "code": "AW126001",
-      "date": "2026-09-06",
-      "time": "16:00",
-      "team1": "ESL UNITED",
-      "team2": "BC BELLEFLAMME",
-      "category": "U 16 - SILVER REGIONAUX D",
-      "location": "ESL UNITED",
       "other": ""
     },
     {
@@ -4266,16 +4136,6 @@
       "other": ""
     },
     {
-      "code": "431012",
-      "date": "2026-09-05",
-      "time": "17:00",
-      "team1": "HARIMALIA BC",
-      "team2": "BC BELLEFLAMME A",
-      "category": "U 18 - ELITES MM B",
-      "location": "HARIMALIA BC",
-      "other": ""
-    },
-    {
       "code": "431024",
       "date": "2026-09-12",
       "time": "15:30",
@@ -4486,16 +4346,6 @@
       "other": ""
     },
     {
-      "code": "AW142002",
-      "date": "2026-09-06",
-      "time": "15:00",
-      "team1": "BC BELLEFLAMME",
-      "team2": "LIEGE PANTHERS",
-      "category": "U 19 - SILVER REGIONALES B",
-      "location": "BC BELLEFLAMME",
-      "other": ""
-    },
-    {
       "code": "AW142006",
       "date": "2026-09-19",
       "time": "11:30",
@@ -4557,8 +4407,8 @@
     },
     {
       "code": "AW142036",
-      "date": "2026-11-07",
-      "time": "11:30",
+      "date": "2026-11-11",
+      "time": "11:00",
       "team1": "BBC LIBRAMONT",
       "team2": "BC BELLEFLAMME",
       "category": "U 19 - SILVER REGIONALES B",
@@ -4603,16 +4453,6 @@
       "team2": "BC BELLEFLAMME",
       "category": "U 19 - SILVER REGIONALES B",
       "location": "MONS CAPITALE",
-      "other": ""
-    },
-    {
-      "code": "552014",
-      "date": "2026-09-05",
-      "time": "09:00",
-      "team1": "ABC WAREMME A",
-      "team2": "BC BELLEFLAMME",
-      "category": "U 7 - MM C",
-      "location": "ABC WAREMME A",
       "other": ""
     },
     {
@@ -4686,6 +4526,16 @@
       "other": ""
     },
     {
+      "code": "552164",
+      "date": "2026-12-19",
+      "time": "09:00",
+      "team1": "BC BELLEFLAMME",
+      "team2": "RBC HANEFFE B",
+      "category": "U 7 - MM C",
+      "location": "BC BELLEFLAMME",
+      "other": ""
+    },
+    {
       "code": "552195",
       "date": "2027-01-09",
       "time": "09:30",
@@ -4746,6 +4596,16 @@
       "other": ""
     },
     {
+      "code": "552281",
+      "date": "2027-03-13",
+      "time": "11:00",
+      "team1": "RBC HANEFFE B",
+      "team2": "BC BELLEFLAMME",
+      "category": "U 7 - MM C",
+      "location": "RBC HANEFFE B",
+      "other": ""
+    },
+    {
       "code": "552304",
       "date": "2027-03-27",
       "time": "09:00",
@@ -4773,16 +4633,6 @@
       "team2": "ROYAL BC WANZE",
       "category": "U 7 - MM C",
       "location": "BC BELLEFLAMME",
-      "other": ""
-    },
-    {
-      "code": "542014",
-      "date": "2026-09-05",
-      "time": "11:00",
-      "team1": "ABC WAREMME A",
-      "team2": "BC BELLEFLAMME",
-      "category": "U 8 - MM C",
-      "location": "ABC WAREMME A",
       "other": ""
     },
     {

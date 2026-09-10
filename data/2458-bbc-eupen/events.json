@@ -6,6 +6,26 @@
   },
   "events": [
     {
+      "code": "762018",
+      "date": "2026-09-27",
+      "time": "11:00",
+      "team1": "BBC EUPEN",
+      "team2": "R.UN.BELLAIRE",
+      "category": "CPE PROV CADETS",
+      "location": "BBC EUPEN",
+      "other": ""
+    },
+    {
+      "code": "760012",
+      "date": "2026-09-27",
+      "time": "13:00",
+      "team1": "BBC EUPEN A (+ 10)",
+      "team2": "ETOILE JUPILLE A",
+      "category": "CPE PROV MESSIEURS",
+      "location": "BBC EUPEN A (+ 10)",
+      "other": ""
+    },
+    {
       "code": "406026",
       "date": "2026-09-11",
       "time": "19:00",
@@ -253,16 +273,6 @@
       "team2": "RBC AUBEL",
       "category": "MM - DIVISION 3 C",
       "location": "BBC EUPEN A",
-      "other": ""
-    },
-    {
-      "code": "407014",
-      "date": "2026-09-05",
-      "time": "17:00",
-      "team1": "RABC ENSIVAL D",
-      "team2": "BBC EUPEN B",
-      "category": "MM - DIVISION 4 A",
-      "location": "RABC ENSIVAL D",
       "other": ""
     },
     {
@@ -653,16 +663,6 @@
       "team2": "BC SANKT VITH",
       "category": "U 10 - MM G",
       "location": "BBC EUPEN",
-      "other": ""
-    },
-    {
-      "code": "506013",
-      "date": "2026-09-05",
-      "time": "11:00",
-      "team1": "THEUX BC B",
-      "team2": "BBC EUPEN",
-      "category": "U 12 - MM G",
-      "location": "THEUX BC B",
       "other": ""
     },
     {
@@ -1176,16 +1176,6 @@
       "other": ""
     },
     {
-      "code": "441013",
-      "date": "2026-09-05",
-      "time": "13:00",
-      "team1": "RBC WELKENRAEDT",
-      "team2": "BBC EUPEN",
-      "category": "U 18 - PROV MM B",
-      "location": "RBC WELKENRAEDT",
-      "other": ""
-    },
-    {
       "code": "441025",
       "date": "2026-09-13",
       "time": "11:00",
@@ -1208,7 +1198,7 @@
     {
       "code": "441056",
       "date": "2026-10-03",
-      "time": "16:00",
+      "time": "12:00",
       "team1": "BBC EUPEN",
       "team2": "RABC ENSIVAL",
       "category": "U 18 - PROV MM B",
@@ -1373,16 +1363,6 @@
       "team2": "R.UN.BELLAIRE",
       "category": "U 18 - PROV MM B",
       "location": "BBC EUPEN",
-      "other": ""
-    },
-    {
-      "code": "420013",
-      "date": "2026-09-06",
-      "time": "17:00",
-      "team1": "ROYAL ANS BC",
-      "team2": "BBC EUPEN",
-      "category": "U 21 - MM",
-      "location": "ROYAL ANS BC",
       "other": ""
     },
     {
@@ -1676,16 +1656,6 @@
       "other": ""
     },
     {
-      "code": "540013",
-      "date": "2026-09-05",
-      "time": "12:30",
-      "team1": "BC VERVIERS",
-      "team2": "BBC EUPEN",
-      "category": "U 8 - MM A",
-      "location": "BC VERVIERS",
-      "other": ""
-    },
-    {
       "code": "540036",
       "date": "2026-09-19",
       "time": "10:30",
@@ -1730,7 +1700,7 @@
       "date": "2026-11-22",
       "time": "10:00",
       "team1": "BBC EUPEN",
-      "team2": "VAIL. JUPILLE",
+      "team2": "VAIL. JUPILLE A",
       "category": "U 8 - MM A",
       "location": "BBC EUPEN",
       "other": ""
@@ -1849,10 +1819,10 @@
       "code": "540324",
       "date": "2027-04-10",
       "time": "10:00",
-      "team1": "VAIL. JUPILLE",
+      "team1": "VAIL. JUPILLE A",
       "team2": "BBC EUPEN",
       "category": "U 8 - MM A",
-      "location": "VAIL. JUPILLE",
+      "location": "VAIL. JUPILLE A",
       "other": ""
     },
     {

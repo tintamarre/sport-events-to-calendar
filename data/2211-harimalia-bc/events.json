@@ -6,13 +6,53 @@
   },
   "events": [
     {
-      "code": "403012",
-      "date": "2026-09-06",
-      "time": "13:30",
+      "code": "762025",
+      "date": "2026-09-27",
+      "time": "16:00",
+      "team1": "BC BELLEFLAMME B",
+      "team2": "HARIMALIA BC A",
+      "category": "CPE PROV CADETS",
+      "location": "BC BELLEFLAMME B",
+      "other": ""
+    },
+    {
+      "code": "762010",
+      "date": "2026-09-27",
+      "time": "10:00",
+      "team1": "HARIMALIA BC B",
+      "team2": "ROYAL BC NINANE",
+      "category": "CPE PROV CADETS",
+      "location": "HARIMALIA BC B",
+      "other": ""
+    },
+    {
+      "code": "760010",
+      "date": "2026-09-23",
+      "time": "21:00",
       "team1": "HARIMALIA BC A",
-      "team2": "ROYAL SPA BC B",
-      "category": "MM - DIVISION 2 B",
+      "team2": "HARIMALIA BC D (+ 10)",
+      "category": "CPE PROV MESSIEURS",
       "location": "HARIMALIA BC A",
+      "other": ""
+    },
+    {
+      "code": "760010",
+      "date": "2026-09-23",
+      "time": "21:00",
+      "team1": "HARIMALIA BC A",
+      "team2": "HARIMALIA BC D (+ 10)",
+      "category": "CPE PROV MESSIEURS",
+      "location": "HARIMALIA BC A",
+      "other": ""
+    },
+    {
+      "code": "760030",
+      "date": "2026-09-26",
+      "time": "17:30",
+      "team1": "ABC WAREMME A",
+      "team2": "HARIMALIA BC B (+ 10)",
+      "category": "CPE PROV MESSIEURS",
+      "location": "ABC WAREMME A",
       "other": ""
     },
     {
@@ -266,16 +306,6 @@
       "other": ""
     },
     {
-      "code": "404012",
-      "date": "2026-09-05",
-      "time": "19:00",
-      "team1": "HARIMALIA BC B",
-      "team2": "ATLAS A JUPILLE C",
-      "category": "MM - DIVISION 3 A",
-      "location": "HARIMALIA BC B",
-      "other": ""
-    },
-    {
       "code": "404023",
       "date": "2026-09-12",
       "time": "19:00",
@@ -523,16 +553,6 @@
       "team2": "ESL UNITED F",
       "category": "MM - DIVISION 3 A",
       "location": "HARIMALIA BC B",
-      "other": ""
-    },
-    {
-      "code": "405013",
-      "date": "2026-09-05",
-      "time": "21:00",
-      "team1": "HARIMALIA BC C",
-      "team2": "BC SPRIMONT D",
-      "category": "MM - DIVISION 3 B",
-      "location": "HARIMALIA BC C",
       "other": ""
     },
     {
@@ -786,16 +806,6 @@
       "other": ""
     },
     {
-      "code": "408012",
-      "date": "2026-09-06",
-      "time": "15:30",
-      "team1": "HARIMALIA BC D",
-      "team2": "ROYAL BASKET OTHEE",
-      "category": "MM - DIVISION 4 B",
-      "location": "HARIMALIA BC D",
-      "other": ""
-    },
-    {
       "code": "408023",
       "date": "2026-09-12",
       "time": "21:00",
@@ -1006,16 +1016,6 @@
       "other": ""
     },
     {
-      "code": "523012",
-      "date": "2026-09-05",
-      "time": "13:00",
-      "team1": "HARIMALIA BC",
-      "team2": "ATLAS A JUPILLE",
-      "category": "U 10 - MM D",
-      "location": "HARIMALIA BC",
-      "other": ""
-    },
-    {
       "code": "523023",
       "date": "2026-09-12",
       "time": "9:00",
@@ -1183,16 +1183,6 @@
       "team2": "HARIMALIA BC",
       "category": "U 10 - MM D",
       "location": "BC VERLAINE A",
-      "other": ""
-    },
-    {
-      "code": "503012",
-      "date": "2026-09-06",
-      "time": "9:00",
-      "team1": "HARIMALIA BC A",
-      "team2": "ROYAL SPA BC",
-      "category": "U 12 - MM D",
-      "location": "HARIMALIA BC A",
       "other": ""
     },
     {
@@ -1410,7 +1400,7 @@
       "date": "2026-10-04",
       "time": "9:00",
       "team1": "HARIMALIA BC B",
-      "team2": "BC VERLAINE B",
+      "team2": "ROYAL ANS BC C",
       "category": "U 12 - MM H",
       "location": "HARIMALIA BC B",
       "other": ""
@@ -1518,11 +1508,11 @@
     {
       "code": "507244",
       "date": "2027-02-13",
-      "time": "13:00",
-      "team1": "BC VERLAINE B",
+      "time": "10:45",
+      "team1": "ROYAL ANS BC C",
       "team2": "HARIMALIA BC B",
       "category": "U 12 - MM H",
-      "location": "BC VERLAINE B",
+      "location": "ROYAL ANS BC C",
       "other": ""
     },
     {
@@ -1563,16 +1553,6 @@
       "team2": "LA VILLERSOISE C",
       "category": "U 12 - MM H",
       "location": "HARIMALIA BC B",
-      "other": ""
-    },
-    {
-      "code": "490012",
-      "date": "2026-09-06",
-      "time": "11:00",
-      "team1": "HARIMALIA BC",
-      "team2": "ROYAL SPA BC",
-      "category": "U 14 - PROV MM A",
-      "location": "HARIMALIA BC",
       "other": ""
     },
     {
@@ -1746,16 +1726,6 @@
       "other": ""
     },
     {
-      "code": "451012",
-      "date": "2026-09-06",
-      "time": "11:00",
-      "team1": "HARIMALIA BC",
-      "team2": "ABC WAREMME A",
-      "category": "U 16 - ELITES MM B",
-      "location": "HARIMALIA BC",
-      "other": ""
-    },
-    {
       "code": "451023",
       "date": "2026-09-13",
       "time": "17:00",
@@ -1922,16 +1892,6 @@
       "team1": "HARIMALIA BC",
       "team2": "CRISTAL SGH A",
       "category": "U 16 - ELITES MM B",
-      "location": "HARIMALIA BC",
-      "other": ""
-    },
-    {
-      "code": "431012",
-      "date": "2026-09-05",
-      "time": "17:00",
-      "team1": "HARIMALIA BC",
-      "team2": "BC BELLEFLAMME A",
-      "category": "U 18 - ELITES MM B",
       "location": "HARIMALIA BC",
       "other": ""
     },
@@ -2306,208 +2266,8 @@
       "other": ""
     },
     {
-      "code": "550012",
-      "date": "2026-09-05",
-      "time": "13:00",
-      "team1": "HARIMALIA BC",
-      "team2": "ROYAL SPA BC A",
-      "category": "U 7 - MM A",
-      "location": "HARIMALIA BC",
-      "other": ""
-    },
-    {
-      "code": "550036",
-      "date": "2026-09-20",
-      "time": "9:00",
-      "team1": "HENRI-CHAPELLE A",
-      "team2": "HARIMALIA BC",
-      "category": "U 7 - MM A",
-      "location": "HENRI-CHAPELLE A",
-      "other": ""
-    },
-    {
-      "code": "550052",
-      "date": "2026-10-03",
-      "time": "13:00",
-      "team1": "HARIMALIA BC",
-      "team2": "VAIL. JUPILLE",
-      "category": "U 7 - MM A",
-      "location": "HARIMALIA BC",
-      "other": ""
-    },
-    {
-      "code": "550065",
-      "date": "2026-10-11",
-      "time": "9:00",
-      "team1": "RBC VISE A",
-      "team2": "HARIMALIA BC",
-      "category": "U 7 - MM A",
-      "location": "RBC VISE A",
-      "other": ""
-    },
-    {
-      "code": "550112",
-      "date": "2026-11-14",
-      "time": "13:00",
-      "team1": "HARIMALIA BC",
-      "team2": "ROYAL HERVE-BATTICE B",
-      "category": "U 7 - MM A",
-      "location": "HARIMALIA BC",
-      "other": ""
-    },
-    {
-      "code": "550123",
-      "date": "2026-11-22",
-      "time": "9:00",
-      "team1": "THEUX BC",
-      "team2": "HARIMALIA BC",
-      "category": "U 7 - MM A",
-      "location": "THEUX BC",
-      "other": ""
-    },
-    {
-      "code": "550142",
-      "date": "2026-12-05",
-      "time": "13:00",
-      "team1": "HARIMALIA BC",
-      "team2": "RBC AUBEL A",
-      "category": "U 7 - MM A",
-      "location": "HARIMALIA BC",
-      "other": ""
-    },
-    {
-      "code": "550152",
-      "date": "2026-12-12",
-      "time": "13:00",
-      "team1": "HARIMALIA BC",
-      "team2": "PEPINSTER EAST BELG A",
-      "category": "U 7 - MM A",
-      "location": "HARIMALIA BC",
-      "other": ""
-    },
-    {
-      "code": "550166",
-      "date": "2026-12-19",
-      "time": "11:30",
-      "team1": "R 4A AYWAILLE-HAMOIR A",
-      "team2": "HARIMALIA BC",
-      "category": "U 7 - MM A",
-      "location": "R 4A AYWAILLE-HAMOIR A",
-      "other": ""
-    },
-    {
-      "code": "550192",
-      "date": "2027-01-09",
-      "time": "13:00",
-      "team1": "HARIMALIA BC",
-      "team2": "HENRI-CHAPELLE A",
-      "category": "U 7 - MM A",
-      "location": "HARIMALIA BC",
-      "other": ""
-    },
-    {
-      "code": "550201",
-      "date": "2027-01-17",
-      "time": "9:00",
-      "team1": "ROYAL SPA BC A",
-      "team2": "HARIMALIA BC",
-      "category": "U 7 - MM A",
-      "location": "ROYAL SPA BC A",
-      "other": ""
-    },
-    {
-      "code": "550212",
-      "date": "2027-01-23",
-      "time": "9:00",
-      "team1": "PEPINSTER EAST BELG A",
-      "team2": "HARIMALIA BC",
-      "category": "U 7 - MM A",
-      "location": "PEPINSTER EAST BELG A",
-      "other": ""
-    },
-    {
-      "code": "550222",
-      "date": "2027-01-30",
-      "time": "13:00",
-      "team1": "HARIMALIA BC",
-      "team2": "BC VERVIERS",
-      "category": "U 7 - MM A",
-      "location": "HARIMALIA BC",
-      "other": ""
-    },
-    {
-      "code": "550231",
-      "date": "2027-02-06",
-      "time": "9:00",
-      "team1": "ROYAL HERVE-BATTICE B",
-      "team2": "HARIMALIA BC",
-      "category": "U 7 - MM A",
-      "location": "ROYAL HERVE-BATTICE B",
-      "other": ""
-    },
-    {
-      "code": "550244",
-      "date": "2027-02-13",
-      "time": "10:00",
-      "team1": "VAIL. JUPILLE",
-      "team2": "HARIMALIA BC",
-      "category": "U 7 - MM A",
-      "location": "VAIL. JUPILLE",
-      "other": ""
-    },
-    {
-      "code": "550282",
-      "date": "2027-03-13",
-      "time": "13:00",
-      "team1": "HARIMALIA BC",
-      "team2": "R 4A AYWAILLE-HAMOIR A",
-      "category": "U 7 - MM A",
-      "location": "HARIMALIA BC",
-      "other": ""
-    },
-    {
-      "code": "550302",
-      "date": "2027-03-27",
-      "time": "13:00",
-      "team1": "HARIMALIA BC",
-      "team2": "RBC VISE A",
-      "category": "U 7 - MM A",
-      "location": "HARIMALIA BC",
-      "other": ""
-    },
-    {
-      "code": "550322",
-      "date": "2027-04-10",
-      "time": "13:00",
-      "team1": "HARIMALIA BC",
-      "team2": "THEUX BC",
-      "category": "U 7 - MM A",
-      "location": "HARIMALIA BC",
-      "other": ""
-    },
-    {
-      "code": "550334",
-      "date": "2027-04-17",
-      "time": "9:00",
-      "team1": "RBC AUBEL A",
-      "team2": "HARIMALIA BC",
-      "category": "U 7 - MM A",
-      "location": "RBC AUBEL A",
-      "other": ""
-    },
-    {
-      "code": "541012",
-      "date": "2026-09-05",
-      "time": "15:00",
-      "team1": "HARIMALIA BC",
-      "team2": "ROYAL SPA BC B",
-      "category": "U 8 - MM B",
-      "location": "HARIMALIA BC",
-      "other": ""
-    },
-    {
       "code": "541036",
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "time": "9:00",
       "team1": "THEUX BC B",
       "team2": "HARIMALIA BC",
@@ -2533,16 +2293,6 @@
       "team2": "HARIMALIA BC",
       "category": "U 8 - MM B",
       "location": "RBC VISE",
-      "other": ""
-    },
-    {
-      "code": "541123",
-      "date": "2026-10-31",
-      "time": "9:00",
-      "team1": "PRAYON TROOZ",
-      "team2": "HARIMALIA BC",
-      "category": "U 8 - MM B",
-      "location": "PRAYON TROOZ",
       "other": ""
     },
     {
@@ -2681,16 +2431,6 @@
       "time": "15:00",
       "team1": "HARIMALIA BC",
       "team2": "RBC VISE",
-      "category": "U 8 - MM B",
-      "location": "HARIMALIA BC",
-      "other": ""
-    },
-    {
-      "code": "541322",
-      "date": "2027-04-10",
-      "time": "15:00",
-      "team1": "HARIMALIA BC",
-      "team2": "PRAYON TROOZ",
       "category": "U 8 - MM B",
       "location": "HARIMALIA BC",
       "other": ""

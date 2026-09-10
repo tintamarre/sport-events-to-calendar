@@ -6,13 +6,33 @@
   },
   "events": [
     {
-      "code": "406015",
-      "date": "2026-09-05",
-      "time": "17:00",
-      "team1": "RB TILFF C",
+      "code": "760022",
+      "date": "2026-09-27",
+      "time": "10:00",
+      "team1": "VAIL. JUPILLE A",
+      "team2": "RBC AUBEL (+ 5)",
+      "category": "CPE PROV MESSIEURS",
+      "location": "VAIL. JUPILLE A",
+      "other": ""
+    },
+    {
+      "code": "774001",
+      "date": "2026-09-26",
+      "time": "14:00",
+      "team1": "RBC AUBEL",
+      "team2": "RABC ENSIVAL",
+      "category": "CPE PROV PUPILLES DD",
+      "location": "RBC AUBEL",
+      "other": ""
+    },
+    {
+      "code": "764032",
+      "date": "2026-09-26",
+      "time": "14:45",
+      "team1": "RBC ALLEUR A",
       "team2": "RBC AUBEL",
-      "category": "MM - DIVISION 3 C",
-      "location": "RB TILFF C",
+      "category": "CPE PROV PUPILLES MM",
+      "location": "RBC ALLEUR A",
       "other": ""
     },
     {
@@ -646,16 +666,6 @@
       "other": ""
     },
     {
-      "code": "505014",
-      "date": "2026-09-05",
-      "time": "13:30",
-      "team1": "CRISTAL SGH C",
-      "team2": "RBC AUBEL",
-      "category": "U 12 - MM F",
-      "location": "CRISTAL SGH C",
-      "other": ""
-    },
-    {
       "code": "505021",
       "date": "2026-09-12",
       "time": "16:00",
@@ -843,16 +853,6 @@
       "team2": "BC BELLEFLAMME C",
       "category": "U 12 - MM F",
       "location": "RBC AUBEL",
-      "other": ""
-    },
-    {
-      "code": "601014",
-      "date": "2026-09-05",
-      "time": "17:00",
-      "team1": "RBC BLEGNY",
-      "team2": "RBC AUBEL",
-      "category": "U 14 - DD B",
-      "location": "RBC BLEGNY",
       "other": ""
     },
     {
@@ -1166,16 +1166,6 @@
       "other": ""
     },
     {
-      "code": "580016",
-      "date": "2026-09-05",
-      "time": "11:00",
-      "team1": "PRAYON TROOZ",
-      "team2": "RBC AUBEL",
-      "category": "U 19 - DD",
-      "location": "PRAYON TROOZ",
-      "other": ""
-    },
-    {
       "code": "580021",
       "date": "2026-09-12",
       "time": "11:00",
@@ -1466,16 +1456,6 @@
       "other": ""
     },
     {
-      "code": "550014",
-      "date": "2026-09-05",
-      "time": "10:00",
-      "team1": "VAIL. JUPILLE",
-      "team2": "RBC AUBEL A",
-      "category": "U 7 - MM A",
-      "location": "VAIL. JUPILLE",
-      "other": ""
-    },
-    {
       "code": "550054",
       "date": "2026-10-03",
       "time": "9:00",
@@ -1523,16 +1503,6 @@
       "team2": "R 4A AYWAILLE-HAMOIR A",
       "category": "U 7 - MM A",
       "location": "RBC AUBEL A",
-      "other": ""
-    },
-    {
-      "code": "550142",
-      "date": "2026-12-05",
-      "time": "13:00",
-      "team1": "HARIMALIA BC",
-      "team2": "RBC AUBEL A",
-      "category": "U 7 - MM A",
-      "location": "HARIMALIA BC",
       "other": ""
     },
     {
@@ -1646,206 +1616,6 @@
       "other": ""
     },
     {
-      "code": "550334",
-      "date": "2027-04-17",
-      "time": "9:00",
-      "team1": "RBC AUBEL A",
-      "team2": "HARIMALIA BC",
-      "category": "U 7 - MM A",
-      "location": "RBC AUBEL A",
-      "other": ""
-    },
-    {
-      "code": "551014",
-      "date": "2026-09-05",
-      "time": "13:30",
-      "team1": "CRISTAL SGH B",
-      "team2": "RBC AUBEL B",
-      "category": "U 7 - MM B",
-      "location": "CRISTAL SGH B",
-      "other": ""
-    },
-    {
-      "code": "551034",
-      "date": "2026-09-20",
-      "time": "9:00",
-      "team1": "RBC AUBEL B",
-      "team2": "RBC BLEGNY",
-      "category": "U 7 - MM B",
-      "location": "RBC AUBEL B",
-      "other": ""
-    },
-    {
-      "code": "551054",
-      "date": "2026-10-04",
-      "time": "9:00",
-      "team1": "RBC AUBEL B",
-      "team2": "PEPINSTER EAST BELG B",
-      "category": "U 7 - MM B",
-      "location": "RBC AUBEL B",
-      "other": ""
-    },
-    {
-      "code": "551063",
-      "date": "2026-10-10",
-      "time": "9:00",
-      "team1": "ROYAL HERVE-BATTICE A",
-      "team2": "RBC AUBEL B",
-      "category": "U 7 - MM B",
-      "location": "ROYAL HERVE-BATTICE A",
-      "other": ""
-    },
-    {
-      "code": "551104",
-      "date": "2026-11-08",
-      "time": "9:00",
-      "team1": "RBC AUBEL B",
-      "team2": "HENRI-CHAPELLE B",
-      "category": "U 7 - MM B",
-      "location": "RBC AUBEL B",
-      "other": ""
-    },
-    {
-      "code": "551113",
-      "date": "2026-11-14",
-      "time": "9:00",
-      "team1": "RBC ALLEUR",
-      "team2": "RBC AUBEL B",
-      "category": "U 7 - MM B",
-      "location": "RBC ALLEUR",
-      "other": ""
-    },
-    {
-      "code": "551124",
-      "date": "2026-11-22",
-      "time": "9:00",
-      "team1": "RBC AUBEL B",
-      "team2": "R 4A AYWAILLE-HAMOIR B",
-      "category": "U 7 - MM B",
-      "location": "RBC AUBEL B",
-      "other": ""
-    },
-    {
-      "code": "551142",
-      "date": "2026-12-05",
-      "time": "10:15",
-      "team1": "BC COINTE B",
-      "team2": "RBC AUBEL B",
-      "category": "U 7 - MM B",
-      "location": "BC COINTE B",
-      "other": ""
-    },
-    {
-      "code": "551164",
-      "date": "2026-12-20",
-      "time": "9:00",
-      "team1": "RBC AUBEL B",
-      "team2": "ALL. FLEMALLE",
-      "category": "U 7 - MM B",
-      "location": "RBC AUBEL B",
-      "other": ""
-    },
-    {
-      "code": "551195",
-      "date": "2027-01-09",
-      "time": "9:00",
-      "team1": "RBC BLEGNY",
-      "team2": "RBC AUBEL B",
-      "category": "U 7 - MM B",
-      "location": "RBC BLEGNY",
-      "other": ""
-    },
-    {
-      "code": "551204",
-      "date": "2027-01-17",
-      "time": "9:00",
-      "team1": "RBC AUBEL B",
-      "team2": "CRISTAL SGH B",
-      "category": "U 7 - MM B",
-      "location": "RBC AUBEL B",
-      "other": ""
-    },
-    {
-      "code": "551242",
-      "date": "2027-02-13",
-      "time": "9:00",
-      "team1": "PEPINSTER EAST BELG B",
-      "team2": "RBC AUBEL B",
-      "category": "U 7 - MM B",
-      "location": "PEPINSTER EAST BELG B",
-      "other": ""
-    },
-    {
-      "code": "551234",
-      "date": "2027-03-06",
-      "time": "9:00",
-      "team1": "RBC AUBEL B",
-      "team2": "RBC ALLEUR",
-      "category": "U 7 - MM B",
-      "location": "RBC AUBEL B",
-      "other": ""
-    },
-    {
-      "code": "551281",
-      "date": "2027-03-14",
-      "time": "11:00",
-      "team1": "ALL. FLEMALLE",
-      "team2": "RBC AUBEL B",
-      "category": "U 7 - MM B",
-      "location": "ALL. FLEMALLE",
-      "other": ""
-    },
-    {
-      "code": "551296",
-      "date": "2027-03-21",
-      "time": "9:00",
-      "team1": "HENRI-CHAPELLE B",
-      "team2": "RBC AUBEL B",
-      "category": "U 7 - MM B",
-      "location": "HENRI-CHAPELLE B",
-      "other": ""
-    },
-    {
-      "code": "551304",
-      "date": "2027-03-28",
-      "time": "9:00",
-      "team1": "RBC AUBEL B",
-      "team2": "ROYAL HERVE-BATTICE A",
-      "category": "U 7 - MM B",
-      "location": "RBC AUBEL B",
-      "other": ""
-    },
-    {
-      "code": "551224",
-      "date": "2027-04-04",
-      "time": "9:00",
-      "team1": "RBC AUBEL B",
-      "team2": "RBC VISE B",
-      "category": "U 7 - MM B",
-      "location": "RBC AUBEL B",
-      "other": ""
-    },
-    {
-      "code": "551326",
-      "date": "2027-04-10",
-      "time": "11:30",
-      "team1": "R 4A AYWAILLE-HAMOIR B",
-      "team2": "RBC AUBEL B",
-      "category": "U 7 - MM B",
-      "location": "R 4A AYWAILLE-HAMOIR B",
-      "other": ""
-    },
-    {
-      "code": "551334",
-      "date": "2027-04-18",
-      "time": "9:00",
-      "team1": "RBC AUBEL B",
-      "team2": "BC COINTE B",
-      "category": "U 7 - MM B",
-      "location": "RBC AUBEL B",
-      "other": ""
-    },
-    {
       "code": "540034",
       "date": "2026-09-20",
       "time": "14:15",
@@ -1869,10 +1639,10 @@
       "code": "540014",
       "date": "2026-10-17",
       "time": "9:00",
-      "team1": "VAIL. JUPILLE",
+      "team1": "VAIL. JUPILLE A",
       "team2": "RBC AUBEL A",
       "category": "U 8 - MM A",
-      "location": "VAIL. JUPILLE",
+      "location": "VAIL. JUPILLE A",
       "other": ""
     },
     {
@@ -1950,7 +1720,7 @@
       "date": "2027-01-16",
       "time": "9:00",
       "team1": "RBC AUBEL A",
-      "team2": "VAIL. JUPILLE",
+      "team2": "VAIL. JUPILLE A",
       "category": "U 8 - MM A",
       "location": "RBC AUBEL A",
       "other": ""
@@ -2053,16 +1823,6 @@
       "team2": "PEPINSTER EAST BELG B",
       "category": "U 8 - MM B",
       "location": "RBC AUBEL B",
-      "other": ""
-    },
-    {
-      "code": "541063",
-      "date": "2026-10-11",
-      "time": "9:00",
-      "team1": "PRAYON TROOZ",
-      "team2": "RBC AUBEL B",
-      "category": "U 8 - MM B",
-      "location": "PRAYON TROOZ",
       "other": ""
     },
     {
@@ -2213,16 +1973,6 @@
       "team2": "RBC AUBEL B",
       "category": "U 8 - MM B",
       "location": "THEUX BC B",
-      "other": ""
-    },
-    {
-      "code": "541304",
-      "date": "2027-03-28",
-      "time": "9:00",
-      "team1": "RBC AUBEL B",
-      "team2": "PRAYON TROOZ",
-      "category": "U 8 - MM B",
-      "location": "RBC AUBEL B",
       "other": ""
     },
     {

@@ -6,6 +6,26 @@
   },
   "events": [
     {
+      "code": "763015",
+      "date": "2026-09-26",
+      "time": "16:00",
+      "team1": "R.UN.BELLAIRE",
+      "team2": "R HT-PRE OUGREE",
+      "category": "CPE PROV MINIMES MM",
+      "location": "R.UN.BELLAIRE",
+      "other": ""
+    },
+    {
+      "code": "764029",
+      "date": "2026-09-26",
+      "time": "9:00",
+      "team1": "ABC WAREMME B",
+      "team2": "R HT-PRE OUGREE",
+      "category": "CPE PROV PUPILLES MM",
+      "location": "ABC WAREMME B",
+      "other": ""
+    },
+    {
       "code": "414033",
       "date": "2026-09-26",
       "time": "20:00",
@@ -276,16 +296,6 @@
       "other": ""
     },
     {
-      "code": "418013",
-      "date": "2026-09-27",
-      "time": "15:00",
-      "team1": "LA VILLERSOISE B",
-      "team2": "R HT-PRE OUGREE B",
-      "category": "DD - DIVISION 3 C",
-      "location": "LA VILLERSOISE B",
-      "other": ""
-    },
-    {
       "code": "418056",
       "date": "2026-10-03",
       "time": "19:00",
@@ -303,6 +313,16 @@
       "team2": "R HT-PRE OUGREE B",
       "category": "DD - DIVISION 3 C",
       "location": "ROYAL SPA BC B",
+      "other": ""
+    },
+    {
+      "code": "418013",
+      "date": "2026-10-31",
+      "time": "19:00",
+      "team1": "LA VILLERSOISE B",
+      "team2": "R HT-PRE OUGREE B",
+      "category": "DD - DIVISION 3 C",
+      "location": "LA VILLERSOISE B",
       "other": ""
     },
     {
@@ -706,26 +726,6 @@
       "other": ""
     },
     {
-      "code": "412016",
-      "date": "2026-09-05",
-      "time": "18:00",
-      "team1": "R HT-PRE OUGREE B",
-      "team2": "BCM HERSTAL C",
-      "category": "MM - DIVISION 4 F",
-      "location": "R HT-PRE OUGREE B",
-      "other": ""
-    },
-    {
-      "code": "412026",
-      "date": "2026-09-12",
-      "time": "18:00",
-      "team1": "R HT-PRE OUGREE B",
-      "team2": "ALL. FLEMALLE D",
-      "category": "MM - DIVISION 4 F",
-      "location": "R HT-PRE OUGREE B",
-      "other": ""
-    },
-    {
       "code": "412034",
       "date": "2026-09-19",
       "time": "19:00",
@@ -846,16 +846,6 @@
       "other": ""
     },
     {
-      "code": "412226",
-      "date": "2027-01-30",
-      "time": "17:00",
-      "team1": "ALL. FLEMALLE D",
-      "team2": "R HT-PRE OUGREE B",
-      "category": "MM - DIVISION 4 F",
-      "location": "ALL. FLEMALLE D",
-      "other": ""
-    },
-    {
       "code": "412256",
       "date": "2027-02-20",
       "time": "18:00",
@@ -923,16 +913,6 @@
       "team2": "R HT-PRE OUGREE B",
       "category": "MM - DIVISION 4 F",
       "location": "RBC WELKENRAEDT B",
-      "other": ""
-    },
-    {
-      "code": "528016",
-      "date": "2026-09-05",
-      "time": "14:00",
-      "team1": "R HT-PRE OUGREE",
-      "team2": "UN HUY BASKET A",
-      "category": "U 10 - MM I",
-      "location": "R HT-PRE OUGREE",
       "other": ""
     },
     {
@@ -1198,11 +1178,11 @@
     {
       "code": "507154",
       "date": "2026-12-12",
-      "time": "13:00",
-      "team1": "BC VERLAINE B",
+      "time": "10:45",
+      "team1": "ROYAL ANS BC C",
       "team2": "R HT-PRE OUGREE",
       "category": "U 12 - MM H",
-      "location": "BC VERLAINE B",
+      "location": "ROYAL ANS BC C",
       "other": ""
     },
     {
@@ -1230,7 +1210,7 @@
       "date": "2027-01-23",
       "time": "16:00",
       "team1": "R HT-PRE OUGREE",
-      "team2": "BC VERLAINE B",
+      "team2": "ROYAL ANS BC C",
       "category": "U 12 - MM H",
       "location": "R HT-PRE OUGREE",
       "other": ""
@@ -1466,16 +1446,6 @@
       "other": ""
     },
     {
-      "code": "493013",
-      "date": "2026-09-05",
-      "time": "13:00",
-      "team1": "UN HUY BASKET",
-      "team2": "R HT-PRE OUGREE",
-      "category": "U 14 - PROV MM D",
-      "location": "UN HUY BASKET",
-      "other": ""
-    },
-    {
       "code": "493025",
       "date": "2026-09-12",
       "time": "9:00",
@@ -1623,16 +1593,6 @@
       "team2": "R HT-PRE OUGREE",
       "category": "U 14 - PROV MM D",
       "location": "ROYAL BC WANZE",
-      "other": ""
-    },
-    {
-      "code": "470022",
-      "date": "2026-09-12",
-      "time": "18:00",
-      "team1": "DF BC MALMEDY",
-      "team2": "R HT-PRE OUGREE",
-      "category": "U 16 - PROV MM A",
-      "location": "DF BC MALMEDY",
       "other": ""
     },
     {
@@ -1806,16 +1766,6 @@
       "other": ""
     },
     {
-      "code": "440013",
-      "date": "2026-09-05",
-      "time": "10:45",
-      "team1": "ROYAL ANS BC",
-      "team2": "R HT-PRE OUGREE",
-      "category": "U 18 - PROV MM A",
-      "location": "ROYAL ANS BC",
-      "other": ""
-    },
-    {
       "code": "440056",
       "date": "2026-10-03",
       "time": "12:00",
@@ -1966,6 +1916,16 @@
       "other": ""
     },
     {
+      "code": "552031",
+      "date": "2026-09-19",
+      "time": "13:00",
+      "team1": "RBC HANEFFE B",
+      "team2": "R HT-PRE OUGREE",
+      "category": "U 7 - MM C",
+      "location": "RBC HANEFFE B",
+      "other": ""
+    },
+    {
       "code": "552064",
       "date": "2026-10-10",
       "time": "9:00",
@@ -2043,6 +2003,16 @@
       "team2": "R HT-PRE OUGREE",
       "category": "U 7 - MM C",
       "location": "CRISTAL SGH A",
+      "other": ""
+    },
+    {
+      "code": "552193",
+      "date": "2027-01-09",
+      "time": "10:00",
+      "team1": "R HT-PRE OUGREE",
+      "team2": "RBC HANEFFE B",
+      "category": "U 7 - MM C",
+      "location": "R HT-PRE OUGREE",
       "other": ""
     },
     {
@@ -2136,16 +2106,6 @@
       "other": ""
     },
     {
-      "code": "543016",
-      "date": "2026-09-05",
-      "time": "10:15",
-      "team1": "R 4A AYWAILLE-HAMOIR B",
-      "team2": "R HT-PRE OUGREE",
-      "category": "U 8 - MM D",
-      "location": "R 4A AYWAILLE-HAMOIR B",
-      "other": ""
-    },
-    {
       "code": "543033",
       "date": "2026-09-19",
       "time": "14:00",
@@ -2183,6 +2143,16 @@
       "team2": "R HT-PRE OUGREE",
       "category": "U 8 - MM D",
       "location": "ROYAL HERVE-BATTICE A",
+      "other": ""
+    },
+    {
+      "code": "543103",
+      "date": "2026-11-07",
+      "time": "12:00",
+      "team1": "R HT-PRE OUGREE",
+      "team2": "VAIL. JUPILLE B",
+      "category": "U 8 - MM D",
+      "location": "R HT-PRE OUGREE",
       "other": ""
     },
     {
@@ -2283,6 +2253,16 @@
       "team2": "R HT-PRE OUGREE",
       "category": "U 8 - MM D",
       "location": "RB TILFF B",
+      "other": ""
+    },
+    {
+      "code": "543291",
+      "date": "2027-03-20",
+      "time": "9:00",
+      "team1": "VAIL. JUPILLE B",
+      "team2": "R HT-PRE OUGREE",
+      "category": "U 8 - MM D",
+      "location": "VAIL. JUPILLE B",
       "other": ""
     },
     {

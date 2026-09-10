@@ -6,6 +6,26 @@
   },
   "events": [
     {
+      "code": "762021",
+      "date": "2026-09-26",
+      "time": "17:00",
+      "team1": "RBC AWANS A",
+      "team2": "BC BELLEFLAMME A",
+      "category": "CPE PROV CADETS",
+      "location": "RBC AWANS A",
+      "other": ""
+    },
+    {
+      "code": "760002",
+      "date": "2026-09-26",
+      "time": "19:00",
+      "team1": "RBC AWANS A",
+      "team2": "PRAYON TROOZ A",
+      "category": "CPE PROV MESSIEURS",
+      "location": "RBC AWANS A",
+      "other": ""
+    },
+    {
       "code": "773006",
       "date": "2026-10-31",
       "time": "13:00",
@@ -16,13 +36,23 @@
       "other": ""
     },
     {
-      "code": "416012",
-      "date": "2026-09-05",
-      "time": "19:00",
-      "team1": "RBC VISE B",
+      "code": "763025",
+      "date": "2026-09-26",
+      "time": "9:00",
+      "team1": "COLLEGE S LOUIS",
       "team2": "RBC AWANS A",
-      "category": "DD - DIVISION 3 A",
-      "location": "RBC VISE B",
+      "category": "CPE PROV MINIMES MM",
+      "location": "COLLEGE S LOUIS",
+      "other": ""
+    },
+    {
+      "code": "764026",
+      "date": "2026-09-27",
+      "time": "13:00",
+      "team1": "RBC VISE A",
+      "team2": "RBC AWANS",
+      "category": "CPE PROV PUPILLES MM",
+      "location": "RBC VISE A",
       "other": ""
     },
     {
@@ -216,16 +246,6 @@
       "other": ""
     },
     {
-      "code": "417012",
-      "date": "2026-09-05",
-      "time": "18:30",
-      "team1": "DF BC MALMEDY",
-      "team2": "RBC AWANS B",
-      "category": "DD - DIVISION 3 B",
-      "location": "DF BC MALMEDY",
-      "other": ""
-    },
-    {
       "code": "417031",
       "date": "2026-09-19",
       "time": "21:00",
@@ -413,16 +433,6 @@
       "team2": "BCM HERSTAL",
       "category": "DD - DIVISION 3 B",
       "location": "RBC AWANS B",
-      "other": ""
-    },
-    {
-      "code": "403011",
-      "date": "2026-09-05",
-      "time": "19:00",
-      "team1": "RBC AWANS A",
-      "team2": "RBC VISE B",
-      "category": "MM - DIVISION 2 B",
-      "location": "RBC AWANS A",
       "other": ""
     },
     {
@@ -676,16 +686,6 @@
       "other": ""
     },
     {
-      "code": "409011",
-      "date": "2026-09-05",
-      "time": "21:00",
-      "team1": "RBC AWANS C",
-      "team2": "BC COINTE C",
-      "category": "MM - DIVISION 4 C",
-      "location": "RBC AWANS C",
-      "other": ""
-    },
-    {
       "code": "409021",
       "date": "2026-09-12",
       "time": "19:00",
@@ -893,16 +893,6 @@
       "team2": "RBC AWANS C",
       "category": "MM - DIVISION 4 C",
       "location": "BC SPRIMONT E",
-      "other": ""
-    },
-    {
-      "code": "410011",
-      "date": "2026-09-06",
-      "time": "11:00",
-      "team1": "RBC AWANS D",
-      "team2": "RBC VISE D",
-      "category": "MM - DIVISION 4 D",
-      "location": "RBC AWANS D",
       "other": ""
     },
     {
@@ -1116,16 +1106,6 @@
       "other": ""
     },
     {
-      "code": "412011",
-      "date": "2026-09-04",
-      "time": "21:00",
-      "team1": "RBC AWANS B",
-      "team2": "ROYAL BC NINANE D",
-      "category": "MM - DIVISION 4 F",
-      "location": "RBC AWANS B",
-      "other": ""
-    },
-    {
       "code": "412021",
       "date": "2026-09-11",
       "time": "21:00",
@@ -1153,16 +1133,6 @@
       "team2": "RBC AWANS B",
       "category": "MM - DIVISION 4 F",
       "location": "BCM HERSTAL C",
-      "other": ""
-    },
-    {
-      "code": "412061",
-      "date": "2026-10-09",
-      "time": "21:00",
-      "team1": "RBC AWANS B",
-      "team2": "ALL. FLEMALLE D",
-      "category": "MM - DIVISION 4 F",
-      "location": "RBC AWANS B",
       "other": ""
     },
     {
@@ -1306,16 +1276,6 @@
       "other": ""
     },
     {
-      "code": "412306",
-      "date": "2027-03-27",
-      "time": "17:00",
-      "team1": "ALL. FLEMALLE D",
-      "team2": "RBC AWANS B",
-      "category": "MM - DIVISION 4 F",
-      "location": "ALL. FLEMALLE D",
-      "other": ""
-    },
-    {
       "code": "412282",
       "date": "2027-04-03",
       "time": "21:00",
@@ -1333,16 +1293,6 @@
       "team2": "RBC AWANS B",
       "category": "MM - DIVISION 4 F",
       "location": "ABC WAREMME C",
-      "other": ""
-    },
-    {
-      "code": "524011",
-      "date": "2026-09-06",
-      "time": "13:00",
-      "team1": "RBC AWANS",
-      "team2": "ROYAL BC NINANE B",
-      "category": "U 10 - MM E",
-      "location": "RBC AWANS",
       "other": ""
     },
     {
@@ -1513,16 +1463,6 @@
       "team2": "BC SPRIMONT C",
       "category": "U 10 - MM E",
       "location": "RBC AWANS",
-      "other": ""
-    },
-    {
-      "code": "504012",
-      "date": "2026-09-06",
-      "time": "11:00",
-      "team1": "ATLAS A JUPILLE",
-      "team2": "RBC AWANS",
-      "category": "U 12 - MM E",
-      "location": "ATLAS A JUPILLE",
       "other": ""
     },
     {
@@ -2056,16 +1996,6 @@
       "other": ""
     },
     {
-      "code": "591012",
-      "date": "2026-09-05",
-      "time": "12:30",
-      "team1": "HENRI-CHAPELLE",
-      "team2": "RBC AWANS",
-      "category": "U 16 - DD B",
-      "location": "HENRI-CHAPELLE",
-      "other": ""
-    },
-    {
       "code": "591024",
       "date": "2026-09-13",
       "time": "13:30",
@@ -2213,16 +2143,6 @@
       "team2": "ORP JAUCHE",
       "category": "U 16 - DD B",
       "location": "RBC AWANS",
-      "other": ""
-    },
-    {
-      "code": "451011",
-      "date": "2026-09-05",
-      "time": "11:00",
-      "team1": "RBC AWANS A",
-      "team2": "BC COINTE",
-      "category": "U 16 - ELITES MM B",
-      "location": "RBC AWANS A",
       "other": ""
     },
     {
@@ -2393,176 +2313,6 @@
       "team2": "RBC ALLEUR",
       "category": "U 16 - ELITES MM B",
       "location": "RBC AWANS A",
-      "other": ""
-    },
-    {
-      "code": "472012",
-      "date": "2026-09-05",
-      "time": "13:00",
-      "team1": "ALL. FLEMALLE B",
-      "team2": "RBC AWANS",
-      "category": "U 16 - PROV MM C",
-      "location": "ALL. FLEMALLE B",
-      "other": "(Ho Av de la vecqué Neu"
-    },
-    {
-      "code": "472024",
-      "date": "2026-09-13",
-      "time": "9:00",
-      "team1": "ROYAL BC WANZE B",
-      "team2": "RBC AWANS",
-      "category": "U 16 - PROV MM C",
-      "location": "ROYAL BC WANZE B",
-      "other": ""
-    },
-    {
-      "code": "472031",
-      "date": "2026-09-19",
-      "time": "17:00",
-      "team1": "RBC AWANS",
-      "team2": "BC VERLAINE",
-      "category": "U 16 - PROV MM C",
-      "location": "RBC AWANS",
-      "other": ""
-    },
-    {
-      "code": "472051",
-      "date": "2026-10-03",
-      "time": "17:00",
-      "team1": "RBC AWANS",
-      "team2": "ORP JAUCHE",
-      "category": "U 16 - PROV MM C",
-      "location": "RBC AWANS",
-      "other": ""
-    },
-    {
-      "code": "472103",
-      "date": "2026-11-07",
-      "time": "10:30",
-      "team1": "LA VILLERSOISE",
-      "team2": "RBC AWANS",
-      "category": "U 16 - PROV MM C",
-      "location": "LA VILLERSOISE",
-      "other": ""
-    },
-    {
-      "code": "472125",
-      "date": "2026-11-21",
-      "time": "14:30",
-      "team1": "BCM HERSTAL",
-      "team2": "RBC AWANS",
-      "category": "U 16 - PROV MM C",
-      "location": "BCM HERSTAL",
-      "other": ""
-    },
-    {
-      "code": "472141",
-      "date": "2026-12-05",
-      "time": "17:00",
-      "team1": "RBC AWANS",
-      "team2": "GIANTS BRAIVES B",
-      "category": "U 16 - PROV MM C",
-      "location": "RBC AWANS",
-      "other": ""
-    },
-    {
-      "code": "472164",
-      "date": "2026-12-19",
-      "time": "17:00",
-      "team1": "CRISTAL SGH B",
-      "team2": "RBC AWANS",
-      "category": "U 16 - PROV MM C",
-      "location": "CRISTAL SGH B",
-      "other": ""
-    },
-    {
-      "code": "472193",
-      "date": "2027-01-10",
-      "time": "15:30",
-      "team1": "BC VERLAINE",
-      "team2": "RBC AWANS",
-      "category": "U 16 - PROV MM C",
-      "location": "BC VERLAINE",
-      "other": ""
-    },
-    {
-      "code": "472201",
-      "date": "2027-01-16",
-      "time": "17:00",
-      "team1": "RBC AWANS",
-      "team2": "ALL. FLEMALLE B",
-      "category": "U 16 - PROV MM C",
-      "location": "RBC AWANS",
-      "other": ""
-    },
-    {
-      "code": "472221",
-      "date": "2027-01-30",
-      "time": "17:00",
-      "team1": "RBC AWANS",
-      "team2": "ROYAL BC WANZE B",
-      "category": "U 16 - PROV MM C",
-      "location": "RBC AWANS",
-      "other": ""
-    },
-    {
-      "code": "472245",
-      "date": "2027-02-13",
-      "time": "15:00",
-      "team1": "ORP JAUCHE",
-      "team2": "RBC AWANS",
-      "category": "U 16 - PROV MM C",
-      "location": "ORP JAUCHE",
-      "other": ""
-    },
-    {
-      "code": "472291",
-      "date": "2027-03-20",
-      "time": "17:00",
-      "team1": "RBC AWANS",
-      "team2": "LA VILLERSOISE",
-      "category": "U 16 - PROV MM C",
-      "location": "RBC AWANS",
-      "other": ""
-    },
-    {
-      "code": "472281",
-      "date": "2027-04-03",
-      "time": "17:00",
-      "team1": "RBC AWANS",
-      "team2": "CRISTAL SGH B",
-      "category": "U 16 - PROV MM C",
-      "location": "RBC AWANS",
-      "other": ""
-    },
-    {
-      "code": "472321",
-      "date": "2027-04-10",
-      "time": "17:00",
-      "team1": "RBC AWANS",
-      "team2": "BCM HERSTAL",
-      "category": "U 16 - PROV MM C",
-      "location": "RBC AWANS",
-      "other": ""
-    },
-    {
-      "code": "472336",
-      "date": "2027-04-17",
-      "time": "11:00",
-      "team1": "GIANTS BRAIVES B",
-      "team2": "RBC AWANS",
-      "category": "U 16 - PROV MM C",
-      "location": "GIANTS BRAIVES B",
-      "other": ""
-    },
-    {
-      "code": "431011",
-      "date": "2026-09-05",
-      "time": "13:00",
-      "team1": "RBC AWANS",
-      "team2": "PEPINSTER EAST BELG",
-      "category": "U 18 - ELITES MM B",
-      "location": "RBC AWANS",
       "other": ""
     },
     {
@@ -2776,16 +2526,6 @@
       "other": ""
     },
     {
-      "code": "441011",
-      "date": "2026-09-05",
-      "time": "15:00",
-      "team1": "RBC AWANS",
-      "team2": "ALL. FLEMALLE B",
-      "category": "U 18 - PROV MM B",
-      "location": "RBC AWANS",
-      "other": ""
-    },
-    {
       "code": "441021",
       "date": "2026-09-12",
       "time": "15:00",
@@ -2797,8 +2537,8 @@
     },
     {
       "code": "441033",
-      "date": "2026-09-20",
-      "time": "13:00",
+      "date": "2026-09-19",
+      "time": "11:00",
       "team1": "RABC ENSIVAL",
       "team2": "RBC AWANS",
       "category": "U 18 - PROV MM B",
@@ -2973,26 +2713,6 @@
       "team2": "UN HUY BASKET",
       "category": "U 18 - PROV MM B",
       "location": "RBC AWANS",
-      "other": ""
-    },
-    {
-      "code": "580015",
-      "date": "2026-09-05",
-      "time": "15:15",
-      "team1": "RBC BLEGNY",
-      "team2": "RBC AWANS A",
-      "category": "U 19 - DD",
-      "location": "RBC BLEGNY",
-      "other": ""
-    },
-    {
-      "code": "580011",
-      "date": "2026-09-05",
-      "time": "9:00",
-      "team1": "RBC AWANS B",
-      "team2": "ROYAL BC NINANE A",
-      "category": "U 19 - DD",
-      "location": "RBC AWANS B",
       "other": ""
     },
     {
@@ -3876,16 +3596,6 @@
       "other": ""
     },
     {
-      "code": "552011",
-      "date": "2026-09-06",
-      "time": "9:00",
-      "team1": "RBC AWANS",
-      "team2": "BC COINTE A",
-      "category": "U 7 - MM C",
-      "location": "RBC AWANS",
-      "other": ""
-    },
-    {
       "code": "552033",
       "date": "2026-09-19",
       "time": "9:00",
@@ -3903,6 +3613,16 @@
       "team2": "RBC AWANS",
       "category": "U 7 - MM C",
       "location": "RB TILFF",
+      "other": ""
+    },
+    {
+      "code": "552061",
+      "date": "2026-10-11",
+      "time": "9:00",
+      "team1": "RBC AWANS",
+      "team2": "RBC HANEFFE B",
+      "category": "U 7 - MM C",
+      "location": "RBC AWANS",
       "other": ""
     },
     {
@@ -4026,6 +3746,16 @@
       "other": ""
     },
     {
+      "code": "552301",
+      "date": "2027-03-27",
+      "time": "11:00",
+      "team1": "RBC HANEFFE B",
+      "team2": "RBC AWANS",
+      "category": "U 7 - MM C",
+      "location": "RBC HANEFFE B",
+      "other": ""
+    },
+    {
       "code": "552325",
       "date": "2027-04-10",
       "time": "9:30",
@@ -4042,16 +3772,6 @@
       "team1": "RBC AWANS",
       "team2": "BC SPRIMONT A",
       "category": "U 7 - MM C",
-      "location": "RBC AWANS",
-      "other": ""
-    },
-    {
-      "code": "542011",
-      "date": "2026-09-06",
-      "time": "9:00",
-      "team1": "RBC AWANS",
-      "team2": "ROYAL BC NINANE",
-      "category": "U 8 - MM C",
       "location": "RBC AWANS",
       "other": ""
     },

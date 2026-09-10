@@ -6,12 +6,22 @@
   },
   "events": [
     {
-      "code": "401017",
-      "date": "2026-09-05",
-      "time": "18:30",
+      "code": "760003",
+      "date": "2026-09-26",
+      "time": "17:00",
+      "team1": "RSW LIEGE BASKET C (+ 5)",
+      "team2": "RB UNION LIEGE B",
+      "category": "CPE PROV MESSIEURS",
+      "location": "RSW LIEGE BASKET C (+ 5)",
+      "other": ""
+    },
+    {
+      "code": "760011",
+      "date": "2026-09-26",
+      "time": "19:30",
       "team1": "RB UNION LIEGE A",
-      "team2": "THEUX BC A",
-      "category": "MM - DIVISION 1",
+      "team2": "RBC CROATIA OUPEYE (+ 1",
+      "category": "CPE PROV MESSIEURS",
       "location": "RB UNION LIEGE A",
       "other": ""
     },
@@ -266,16 +276,6 @@
       "other": ""
     },
     {
-      "code": "405017",
-      "date": "2026-09-05",
-      "time": "20:30",
-      "team1": "RB UNION LIEGE B",
-      "team2": "BC COINTE B",
-      "category": "MM - DIVISION 3 B",
-      "location": "RB UNION LIEGE B",
-      "other": ""
-    },
-    {
       "code": "405027",
       "date": "2026-09-12",
       "time": "19:30",
@@ -523,6 +523,16 @@
       "team2": "RB UNION LIEGE B",
       "category": "MM - DIVISION 3 B",
       "location": "ROYAL BC WANZE B",
+      "other": ""
+    },
+    {
+      "code": "760011",
+      "date": "2026-09-26",
+      "time": "19:30",
+      "team1": "RB UNION LIEGE A",
+      "team2": "RBC CROATIA OUPEYE (+ 15)",
+      "category": "RBC CROATIA OUPEYE (+ 15)",
+      "location": "RB UNION LIEGE A",
       "other": ""
     }
   ]

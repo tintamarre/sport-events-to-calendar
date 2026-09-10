@@ -6,13 +6,23 @@
   },
   "events": [
     {
-      "code": "413014",
-      "date": "2026-09-06",
-      "time": "17:00",
-      "team1": "RBC CROATIA OUPEYE",
-      "team2": "ROYAL HERVE-BATTICE C",
-      "category": "DD - DIVISION 1",
-      "location": "RBC CROATIA OUPEYE",
+      "code": "760508",
+      "date": "2026-09-27",
+      "time": "13:00",
+      "team1": "R.UN.BELLAIRE A",
+      "team2": "RBC CROATIA OUPEYE",
+      "category": "CPE PROV DAMES",
+      "location": "R.UN.BELLAIRE A",
+      "other": ""
+    },
+    {
+      "code": "760011",
+      "date": "2026-09-26",
+      "time": "19:30",
+      "team1": "RB UNION LIEGE A",
+      "team2": "RBC CROATIA OUPEYE (+ 1",
+      "category": "CPE PROV MESSIEURS",
+      "location": "RB UNION LIEGE A",
       "other": ""
     },
     {
@@ -266,16 +276,6 @@
       "other": ""
     },
     {
-      "code": "408014",
-      "date": "2026-09-06",
-      "time": "15:00",
-      "team1": "RBC CROATIA OUPEYE",
-      "team2": "RBC DISON-ANDRIMONT C",
-      "category": "MM - DIVISION 4 B",
-      "location": "RBC CROATIA OUPEYE",
-      "other": ""
-    },
-    {
       "code": "408024",
       "date": "2026-09-13",
       "time": "15:00",
@@ -483,6 +483,16 @@
       "team2": "RBC CROATIA OUPEYE",
       "category": "MM - DIVISION 4 B",
       "location": "MAIL. COMBLAIN B",
+      "other": ""
+    },
+    {
+      "code": "760011",
+      "date": "2026-09-26",
+      "time": "19:30",
+      "team1": "RB UNION LIEGE A",
+      "team2": "RBC CROATIA OUPEYE (+ 15)",
+      "category": "RBC CROATIA OUPEYE (+ 15)",
+      "location": "RB UNION LIEGE A",
       "other": ""
     }
   ]

@@ -6,6 +6,36 @@
   },
   "events": [
     {
+      "code": "762011",
+      "date": "2026-09-26",
+      "time": "15:00",
+      "team1": "BC VERVIERS",
+      "team2": "RBC ALLEUR",
+      "category": "CPE PROV CADETS",
+      "location": "BC VERVIERS",
+      "other": ""
+    },
+    {
+      "code": "760026",
+      "date": "2026-09-24",
+      "time": "20:30",
+      "team1": "ATLAS A JUPILLE A",
+      "team2": "BC VERVIERS B (+ 5)",
+      "category": "CPE PROV MESSIEURS",
+      "location": "ATLAS A JUPILLE A",
+      "other": ""
+    },
+    {
+      "code": "760025",
+      "date": "2026-09-26",
+      "time": "17:00",
+      "team1": "FLERON BBC A",
+      "team2": "BC VERVIERS D (+ 5)",
+      "category": "CPE PROV MESSIEURS",
+      "location": "FLERON BBC A",
+      "other": ""
+    },
+    {
       "code": "402022",
       "date": "2026-09-12",
       "time": "17:00",
@@ -263,16 +293,6 @@
       "team2": "BC VERVIERS B",
       "category": "MM - DIVISION 2 A",
       "location": "ROYAL MOSA AC 1941 A",
-      "other": ""
-    },
-    {
-      "code": "403013",
-      "date": "2026-09-05",
-      "time": "17:30",
-      "team1": "BC VERVIERS C",
-      "team2": "BC SPRIMONT C",
-      "category": "MM - DIVISION 2 B",
-      "location": "BC VERVIERS C",
       "other": ""
     },
     {
@@ -786,16 +806,6 @@
       "other": ""
     },
     {
-      "code": "AW100008",
-      "date": "2026-09-04",
-      "time": "20:30",
-      "team1": "BCJS ESTAIMPUIS",
-      "team2": "BC VERVIERS A",
-      "category": "MM - REGIONALE 1",
-      "location": "BCJS ESTAIMPUIS",
-      "other": ""
-    },
-    {
       "code": "AW100018",
       "date": "2026-09-12",
       "time": "21:00",
@@ -1086,16 +1096,6 @@
       "other": ""
     },
     {
-      "code": "524016",
-      "date": "2026-09-05",
-      "time": "12:00",
-      "team1": "BC SPRIMONT C",
-      "team2": "BC VERVIERS",
-      "category": "U 10 - MM E",
-      "location": "BC SPRIMONT C",
-      "other": ""
-    },
-    {
       "code": "524022",
       "date": "2026-09-12",
       "time": "9:00",
@@ -1263,16 +1263,6 @@
       "team2": "RBC DISON-ANDRIMONT B",
       "category": "U 10 - MM E",
       "location": "BC VERVIERS",
-      "other": ""
-    },
-    {
-      "code": "430016",
-      "date": "2026-09-05",
-      "time": "15:00",
-      "team1": "ALL. FLEMALLE",
-      "team2": "BC VERVIERS B",
-      "category": "U 18 - ELITES MM A",
-      "location": "ALL. FLEMALLE",
       "other": ""
     },
     {
@@ -1463,16 +1453,6 @@
       "team2": "ORP JAUCHE",
       "category": "U 18 - ELITES MM A",
       "location": "BC VERVIERS B",
-      "other": ""
-    },
-    {
-      "code": "431014",
-      "date": "2026-09-05",
-      "time": "14:00",
-      "team1": "BC VERVIERS A",
-      "team2": "ABC WAREMME B",
-      "category": "U 18 - ELITES MM B",
-      "location": "BC VERVIERS A",
       "other": ""
     },
     {
@@ -1686,16 +1666,6 @@
       "other": ""
     },
     {
-      "code": "550013",
-      "date": "2026-09-05",
-      "time": "12:30",
-      "team1": "BC VERVIERS",
-      "team2": "HENRI-CHAPELLE A",
-      "category": "U 7 - MM A",
-      "location": "BC VERVIERS",
-      "other": ""
-    },
-    {
       "code": "550031",
       "date": "2026-09-19",
       "time": "9:00",
@@ -1806,16 +1776,6 @@
       "other": ""
     },
     {
-      "code": "550222",
-      "date": "2027-01-30",
-      "time": "13:00",
-      "team1": "HARIMALIA BC",
-      "team2": "BC VERVIERS",
-      "category": "U 7 - MM A",
-      "location": "HARIMALIA BC",
-      "other": ""
-    },
-    {
       "code": "550246",
       "date": "2027-02-13",
       "time": "11:30",
@@ -1876,16 +1836,6 @@
       "other": ""
     },
     {
-      "code": "540013",
-      "date": "2026-09-05",
-      "time": "12:30",
-      "team1": "BC VERVIERS",
-      "team2": "BBC EUPEN",
-      "category": "U 8 - MM A",
-      "location": "BC VERVIERS",
-      "other": ""
-    },
-    {
       "code": "540031",
       "date": "2026-09-19",
       "time": "9:00",
@@ -1909,10 +1859,10 @@
       "code": "540064",
       "date": "2026-10-10",
       "time": "10:00",
-      "team1": "VAIL. JUPILLE",
+      "team1": "VAIL. JUPILLE A",
       "team2": "BC VERVIERS",
       "category": "U 8 - MM A",
-      "location": "VAIL. JUPILLE",
+      "location": "VAIL. JUPILLE A",
       "other": ""
     },
     {
@@ -2040,7 +1990,7 @@
       "date": "2027-03-27",
       "time": "12:30",
       "team1": "BC VERVIERS",
-      "team2": "VAIL. JUPILLE",
+      "team2": "VAIL. JUPILLE A",
       "category": "U 8 - MM A",
       "location": "BC VERVIERS",
       "other": ""

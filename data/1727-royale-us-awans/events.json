@@ -6,13 +6,23 @@
   },
   "events": [
     {
-      "code": "414012",
-      "date": "2026-09-06",
+      "code": "760018",
+      "date": "2026-09-27",
       "time": "13:00",
-      "team1": "PEPINSTER EAST BELG B",
-      "team2": "ROYALE US AWANS",
-      "category": "DD - DIVISION 2 A",
-      "location": "PEPINSTER EAST BELG B",
+      "team1": "ROYALE US AWANS B (+ 5)",
+      "team2": "THEUX BC B",
+      "category": "CPE PROV MESSIEURS",
+      "location": "ROYALE US AWANS B (+ 5)",
+      "other": ""
+    },
+    {
+      "code": "760016",
+      "date": "2026-09-27",
+      "time": "15:00",
+      "team1": "ROYALE US AWANS A",
+      "team2": "R 4A AYWAILLE-HAMOIR B",
+      "category": "CPE PROV MESSIEURS",
+      "location": "ROYALE US AWANS A",
       "other": ""
     },
     {
@@ -266,16 +276,6 @@
       "other": ""
     },
     {
-      "code": "405012",
-      "date": "2026-09-05",
-      "time": "17:00",
-      "team1": "HANNUT BC B",
-      "team2": "ROYALE US AWANS A",
-      "category": "MM - DIVISION 3 B",
-      "location": "HANNUT BC B",
-      "other": ""
-    },
-    {
       "code": "405031",
       "date": "2026-09-20",
       "time": "15:00",
@@ -523,16 +523,6 @@
       "team2": "LA VILLERSOISE B",
       "category": "MM - DIVISION 3 B",
       "location": "ROYALE US AWANS A",
-      "other": ""
-    },
-    {
-      "code": "409012",
-      "date": "2026-09-05",
-      "time": "21:00",
-      "team1": "HANNUT BC C",
-      "team2": "ROYALE US AWANS B",
-      "category": "MM - DIVISION 4 C",
-      "location": "HANNUT BC C",
       "other": ""
     },
     {

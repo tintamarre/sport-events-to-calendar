@@ -16,13 +16,33 @@
       "other": ""
     },
     {
-      "code": "415017",
-      "date": "2026-09-05",
-      "time": "19:00",
-      "team1": "R 4A AYWAILLE-HAMOIR A",
+      "code": "760015",
+      "date": "2026-09-26",
+      "time": "17:00",
+      "team1": "RABC ENSIVAL D",
       "team2": "ROYAL ANS BC",
-      "category": "DD - DIVISION 2 B",
-      "location": "R 4A AYWAILLE-HAMOIR A",
+      "category": "CPE PROV MESSIEURS",
+      "location": "RABC ENSIVAL D",
+      "other": ""
+    },
+    {
+      "code": "763017",
+      "date": "2026-09-26",
+      "time": "9:00",
+      "team1": "RBC ALLEUR",
+      "team2": "ROYAL ANS BC",
+      "category": "CPE PROV MINIMES MM",
+      "location": "RBC ALLEUR",
+      "other": ""
+    },
+    {
+      "code": "764033",
+      "date": "2026-09-27",
+      "time": "15:00",
+      "team1": "ROYAL ANS BC",
+      "team2": "GIANTS BRAIVES B",
+      "category": "CPE PROV PUPILLES MM",
+      "location": "ROYAL ANS BC",
       "other": ""
     },
     {
@@ -516,16 +536,6 @@
       "other": ""
     },
     {
-      "code": "412056",
-      "date": "2026-10-03",
-      "time": "17:00",
-      "team1": "ALL. FLEMALLE D",
-      "team2": "ROYAL ANS BC B",
-      "category": "MM - DIVISION 4 F",
-      "location": "ALL. FLEMALLE D",
-      "other": ""
-    },
-    {
       "code": "412063",
       "date": "2026-10-11",
       "time": "17:00",
@@ -666,16 +676,6 @@
       "other": ""
     },
     {
-      "code": "412243",
-      "date": "2027-03-21",
-      "time": "17:00",
-      "team1": "ROYAL ANS BC B",
-      "team2": "ALL. FLEMALLE D",
-      "category": "MM - DIVISION 4 F",
-      "location": "ROYAL ANS BC B",
-      "other": ""
-    },
-    {
       "code": "412304",
       "date": "2027-03-27",
       "time": "17:00",
@@ -713,16 +713,6 @@
       "team2": "ROYAL ANS BC B",
       "category": "MM - DIVISION 4 F",
       "location": "BCM HERSTAL C",
-      "other": ""
-    },
-    {
-      "code": "522016",
-      "date": "2026-09-05",
-      "time": "10:30",
-      "team1": "BC SPRIMONT B",
-      "team2": "ROYAL ANS BC A",
-      "category": "U 10 - MM C",
-      "location": "BC SPRIMONT B",
       "other": ""
     },
     {
@@ -916,16 +906,6 @@
       "other": ""
     },
     {
-      "code": "523013",
-      "date": "2026-09-06",
-      "time": "13:00",
-      "team1": "ROYAL ANS BC B",
-      "team2": "R 4A AYWAILLE-HAMOIR A",
-      "category": "U 10 - MM D",
-      "location": "ROYAL ANS BC B",
-      "other": ""
-    },
-    {
       "code": "523023",
       "date": "2026-09-12",
       "time": "9:00",
@@ -1093,16 +1073,6 @@
       "team2": "ROYAL ANS BC B",
       "category": "U 10 - MM D",
       "location": "RB TILFF C",
-      "other": ""
-    },
-    {
-      "code": "502016",
-      "date": "2026-09-06",
-      "time": "13:00",
-      "team1": "ROYAL HERVE-BATTICE C",
-      "team2": "ROYAL ANS BC A",
-      "category": "U 12 - MM C",
-      "location": "ROYAL HERVE-BATTICE C",
       "other": ""
     },
     {
@@ -1336,16 +1306,6 @@
       "other": ""
     },
     {
-      "code": "505016",
-      "date": "2026-09-05",
-      "time": "13:00",
-      "team1": "RBC DISON-ANDRIMONT A",
-      "team2": "ROYAL ANS BC B",
-      "category": "U 12 - MM F",
-      "location": "RBC DISON-ANDRIMONT A",
-      "other": ""
-    },
-    {
       "code": "505022",
       "date": "2026-09-12",
       "time": "10:15",
@@ -1536,13 +1496,183 @@
       "other": ""
     },
     {
-      "code": "481015",
-      "date": "2026-09-05",
+      "code": "507035",
+      "date": "2026-09-20",
+      "time": "9:30",
+      "team1": "RJS GRIVEGNEE",
+      "team2": "ROYAL ANS BC C",
+      "category": "U 12 - MM H",
+      "location": "RJS GRIVEGNEE",
+      "other": ""
+    },
+    {
+      "code": "507052",
+      "date": "2026-10-04",
       "time": "9:00",
-      "team1": "ROYAL ANS BC",
-      "team2": "RBC ESNEUX A",
-      "category": "U 14 - ELITES MM B",
-      "location": "ROYAL ANS BC",
+      "team1": "HARIMALIA BC B",
+      "team2": "ROYAL ANS BC C",
+      "category": "U 12 - MM H",
+      "location": "HARIMALIA BC B",
+      "other": ""
+    },
+    {
+      "code": "507064",
+      "date": "2026-10-10",
+      "time": "10:45",
+      "team1": "ROYAL ANS BC C",
+      "team2": "UN HUY BASKET C",
+      "category": "U 12 - MM H",
+      "location": "ROYAL ANS BC C",
+      "other": ""
+    },
+    {
+      "code": "507106",
+      "date": "2026-11-07",
+      "time": "13:00",
+      "team1": "GIANTS BRAIVES C",
+      "team2": "ROYAL ANS BC C",
+      "category": "U 12 - MM H",
+      "location": "GIANTS BRAIVES C",
+      "other": ""
+    },
+    {
+      "code": "507114",
+      "date": "2026-11-14",
+      "time": "10:45",
+      "team1": "ROYAL ANS BC C",
+      "team2": "LA VILLERSOISE C",
+      "category": "U 12 - MM H",
+      "location": "ROYAL ANS BC C",
+      "other": ""
+    },
+    {
+      "code": "507126",
+      "date": "2026-11-21",
+      "time": "13:00",
+      "team1": "R 4A AYWAILLE-HAMOIR",
+      "team2": "ROYAL ANS BC C",
+      "category": "U 12 - MM H",
+      "location": "R 4A AYWAILLE-HAMOIR",
+      "other": ""
+    },
+    {
+      "code": "507144",
+      "date": "2026-12-05",
+      "time": "10:45",
+      "team1": "ROYAL ANS BC C",
+      "team2": "RBC ALLEUR D",
+      "category": "U 12 - MM H",
+      "location": "ROYAL ANS BC C",
+      "other": ""
+    },
+    {
+      "code": "507154",
+      "date": "2026-12-12",
+      "time": "10:45",
+      "team1": "ROYAL ANS BC C",
+      "team2": "R HT-PRE OUGREE",
+      "category": "U 12 - MM H",
+      "location": "ROYAL ANS BC C",
+      "other": ""
+    },
+    {
+      "code": "507161",
+      "date": "2026-12-20",
+      "time": "15:00",
+      "team1": "R REN. MONTEGNEE B",
+      "team2": "ROYAL ANS BC C",
+      "category": "U 12 - MM H",
+      "location": "R REN. MONTEGNEE B",
+      "other": ""
+    },
+    {
+      "code": "507194",
+      "date": "2027-01-09",
+      "time": "10:45",
+      "team1": "ROYAL ANS BC C",
+      "team2": "RJS GRIVEGNEE",
+      "category": "U 12 - MM H",
+      "location": "ROYAL ANS BC C",
+      "other": ""
+    },
+    {
+      "code": "507215",
+      "date": "2027-01-23",
+      "time": "16:00",
+      "team1": "R HT-PRE OUGREE",
+      "team2": "ROYAL ANS BC C",
+      "category": "U 12 - MM H",
+      "location": "R HT-PRE OUGREE",
+      "other": ""
+    },
+    {
+      "code": "507233",
+      "date": "2027-02-06",
+      "time": "9:00",
+      "team1": "LA VILLERSOISE C",
+      "team2": "ROYAL ANS BC C",
+      "category": "U 12 - MM H",
+      "location": "LA VILLERSOISE C",
+      "other": ""
+    },
+    {
+      "code": "507244",
+      "date": "2027-02-13",
+      "time": "10:45",
+      "team1": "ROYAL ANS BC C",
+      "team2": "HARIMALIA BC B",
+      "category": "U 12 - MM H",
+      "location": "ROYAL ANS BC C",
+      "other": ""
+    },
+    {
+      "code": "507284",
+      "date": "2027-03-13",
+      "time": "10:45",
+      "team1": "ROYAL ANS BC C",
+      "team2": "R REN. MONTEGNEE B",
+      "category": "U 12 - MM H",
+      "location": "ROYAL ANS BC C",
+      "other": ""
+    },
+    {
+      "code": "507294",
+      "date": "2027-03-20",
+      "time": "10:45",
+      "team1": "ROYAL ANS BC C",
+      "team2": "GIANTS BRAIVES C",
+      "category": "U 12 - MM H",
+      "location": "ROYAL ANS BC C",
+      "other": ""
+    },
+    {
+      "code": "507303",
+      "date": "2027-03-27",
+      "time": "9:00",
+      "team1": "UN HUY BASKET C",
+      "team2": "ROYAL ANS BC C",
+      "category": "U 12 - MM H",
+      "location": "UN HUY BASKET C",
+      "other": ""
+    },
+    {
+      "code": "507324",
+      "date": "2027-04-10",
+      "time": "10:45",
+      "team1": "ROYAL ANS BC C",
+      "team2": "R 4A AYWAILLE-HAMOIR",
+      "category": "U 12 - MM H",
+      "location": "ROYAL ANS BC C",
+      "other": ""
+    },
+    {
+      "code": "507332",
+      "date": "2027-04-17",
+      "time": "9:00",
+      "team1": "RBC ALLEUR D",
+      "team2": "ROYAL ANS BC C",
+      "category": "U 12 - MM H",
+      "location": "RBC ALLEUR D",
       "other": ""
     },
     {
@@ -1736,16 +1866,6 @@
       "other": ""
     },
     {
-      "code": "471013",
-      "date": "2026-09-06",
-      "time": "15:00",
-      "team1": "ROYAL ANS BC",
-      "team2": "R 4A AYWAILLE-HAMOIR",
-      "category": "U 16 - PROV MM B",
-      "location": "ROYAL ANS BC",
-      "other": ""
-    },
-    {
       "code": "471023",
       "date": "2026-09-13",
       "time": "17:00",
@@ -1896,16 +2016,6 @@
       "other": ""
     },
     {
-      "code": "440013",
-      "date": "2026-09-05",
-      "time": "10:45",
-      "team1": "ROYAL ANS BC",
-      "team2": "R HT-PRE OUGREE",
-      "category": "U 18 - PROV MM A",
-      "location": "ROYAL ANS BC",
-      "other": ""
-    },
-    {
       "code": "440023",
       "date": "2026-09-13",
       "time": "13:00",
@@ -2053,16 +2163,6 @@
       "team2": "ROYAL ANS BC",
       "category": "U 18 - PROV MM A",
       "location": "MARCHIN BASKET",
-      "other": ""
-    },
-    {
-      "code": "420013",
-      "date": "2026-09-06",
-      "time": "17:00",
-      "team1": "ROYAL ANS BC",
-      "team2": "BBC EUPEN",
-      "category": "U 21 - MM",
-      "location": "ROYAL ANS BC",
       "other": ""
     },
     {
@@ -2353,16 +2453,6 @@
       "team2": "MARCHIN BASKET",
       "category": "U 21 - MM",
       "location": "ROYAL ANS BC",
-      "other": ""
-    },
-    {
-      "code": "553015",
-      "date": "2026-09-06",
-      "time": "10:00",
-      "team1": "RBC ESNEUX",
-      "team2": "ROYAL ANS BC",
-      "category": "U 7 - MM D",
-      "location": "RBC ESNEUX",
       "other": ""
     },
     {

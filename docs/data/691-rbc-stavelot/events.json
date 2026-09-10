@@ -16,12 +16,22 @@
       "other": ""
     },
     {
-      "code": "415021",
-      "date": "2026-09-12",
+      "code": "760032",
+      "date": "2026-09-26",
       "time": "17:00",
+      "team1": "RBC STAVELOT A",
+      "team2": "PEPINSTER EAST BELG D (+",
+      "category": "CPE PROV MESSIEURS",
+      "location": "RBC STAVELOT A",
+      "other": ""
+    },
+    {
+      "code": "763013",
+      "date": "2026-09-26",
+      "time": "15:00",
       "team1": "RBC STAVELOT",
-      "team2": "AVENIR JUPILLE",
-      "category": "DD - DIVISION 2 B",
+      "team2": "RBC DISON-ANDRIMONT",
+      "category": "CPE PROV MINIMES MM",
       "location": "RBC STAVELOT",
       "other": ""
     },
@@ -273,26 +283,6 @@
       "team2": "RBC STAVELOT",
       "category": "DD - DIVISION 2 B",
       "location": "RBC ALLEUR D",
-      "other": ""
-    },
-    {
-      "code": "401202",
-      "date": "2026-09-05",
-      "time": "19:00",
-      "team1": "BC COINTE A",
-      "team2": "RBC STAVELOT A",
-      "category": "MM - DIVISION 1",
-      "location": "BC COINTE A",
-      "other": ""
-    },
-    {
-      "code": "401021",
-      "date": "2026-09-12",
-      "time": "19:00",
-      "team1": "RBC STAVELOT A",
-      "team2": "ETOILE JUPILLE A",
-      "category": "MM - DIVISION 1",
-      "location": "RBC STAVELOT A",
       "other": ""
     },
     {
@@ -1014,6 +1004,16 @@
       "category": "MM - DIVISION 4 A",
       "location": "R 4A AYWAILLE-HAMOIR D",
       "other": "(Hall d'Hamoir)"
+    },
+    {
+      "code": "760032",
+      "date": "2026-09-26",
+      "time": "17:00",
+      "team1": "RBC STAVELOT A",
+      "team2": "PEPINSTER EAST BELG D (+ 15)",
+      "category": "PEPINSTER EAST BELG D (+ 15)",
+      "location": "RBC STAVELOT A",
+      "other": ""
     },
     {
       "code": "520021",
@@ -2160,7 +2160,7 @@
       "date": "2026-12-19",
       "time": "9:00",
       "team1": "RBC STAVELOT",
-      "team2": "VAIL. JUPILLE",
+      "team2": "VAIL. JUPILLE A",
       "category": "U 8 - MM A",
       "location": "RBC STAVELOT",
       "other": ""
@@ -2219,10 +2219,10 @@
       "code": "540284",
       "date": "2027-03-13",
       "time": "10:00",
-      "team1": "VAIL. JUPILLE",
+      "team1": "VAIL. JUPILLE A",
       "team2": "RBC STAVELOT",
       "category": "U 8 - MM A",
-      "location": "VAIL. JUPILLE",
+      "location": "VAIL. JUPILLE A",
       "other": ""
     },
     {

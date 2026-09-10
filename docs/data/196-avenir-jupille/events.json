@@ -6,36 +6,6 @@
   },
   "events": [
     {
-      "code": "415015",
-      "date": "2026-09-06",
-      "time": "17:30",
-      "team1": "BC VERLAINE A",
-      "team2": "AVENIR JUPILLE",
-      "category": "DD - DIVISION 2 B",
-      "location": "BC VERLAINE A",
-      "other": ""
-    },
-    {
-      "code": "415021",
-      "date": "2026-09-12",
-      "time": "17:00",
-      "team1": "RBC STAVELOT",
-      "team2": "AVENIR JUPILLE",
-      "category": "DD - DIVISION 2 B",
-      "location": "RBC STAVELOT",
-      "other": ""
-    },
-    {
-      "code": "415034",
-      "date": "2026-09-19",
-      "time": "17:00",
-      "team1": "AVENIR JUPILLE",
-      "team2": "PRAYON TROOZ C",
-      "category": "DD - DIVISION 2 B",
-      "location": "AVENIR JUPILLE",
-      "other": ""
-    },
-    {
       "code": "415054",
       "date": "2026-10-03",
       "time": "19:00",
@@ -53,6 +23,16 @@
       "team2": "AVENIR JUPILLE",
       "category": "DD - DIVISION 2 B",
       "location": "ROYAL ANS BC",
+      "other": ""
+    },
+    {
+      "code": "415034",
+      "date": "2026-10-13",
+      "time": "19:00",
+      "team1": "AVENIR JUPILLE",
+      "team2": "PRAYON TROOZ C",
+      "category": "DD - DIVISION 2 B",
+      "location": "AVENIR JUPILLE",
       "other": ""
     },
     {
@@ -526,16 +506,6 @@
       "other": ""
     },
     {
-      "code": "412015",
-      "date": "2026-09-05",
-      "time": "18:00",
-      "team1": "ABC WAREMME C",
-      "team2": "AVENIR JUPILLE B",
-      "category": "MM - DIVISION 4 F",
-      "location": "ABC WAREMME C",
-      "other": ""
-    },
-    {
       "code": "412021",
       "date": "2026-09-11",
       "time": "21:00",
@@ -583,16 +553,6 @@
       "team2": "AVENIR JUPILLE B",
       "category": "MM - DIVISION 4 F",
       "location": "BCM HERSTAL C",
-      "other": ""
-    },
-    {
-      "code": "412084",
-      "date": "2026-10-24",
-      "time": "17:00",
-      "team1": "AVENIR JUPILLE B",
-      "team2": "ALL. FLEMALLE D",
-      "category": "MM - DIVISION 4 F",
-      "location": "AVENIR JUPILLE B",
       "other": ""
     },
     {
@@ -733,16 +693,6 @@
       "team2": "CRISTAL SGH D",
       "category": "MM - DIVISION 4 F",
       "location": "AVENIR JUPILLE B",
-      "other": ""
-    },
-    {
-      "code": "412346",
-      "date": "2027-04-24",
-      "time": "17:00",
-      "team1": "ALL. FLEMALLE D",
-      "team2": "AVENIR JUPILLE B",
-      "category": "MM - DIVISION 4 F",
-      "location": "ALL. FLEMALLE D",
       "other": ""
     }
   ]

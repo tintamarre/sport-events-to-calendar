@@ -6,13 +6,43 @@
   },
   "events": [
     {
-      "code": "415015",
-      "date": "2026-09-06",
+      "code": "760505",
+      "date": "2026-09-27",
       "time": "17:30",
-      "team1": "BC VERLAINE A",
-      "team2": "AVENIR JUPILLE",
-      "category": "DD - DIVISION 2 B",
-      "location": "BC VERLAINE A",
+      "team1": "BC VERLAINE A (+ 5)",
+      "team2": "RBC HANEFFE B",
+      "category": "CPE PROV DAMES",
+      "location": "BC VERLAINE A (+ 5)",
+      "other": ""
+    },
+    {
+      "code": "760009",
+      "date": "2026-09-27",
+      "time": "15:30",
+      "team1": "BC VERLAINE (+  10)",
+      "team2": "ROYAL SPA BC C",
+      "category": "CPE PROV MESSIEURS",
+      "location": "BC VERLAINE (+  10)",
+      "other": ""
+    },
+    {
+      "code": "763018",
+      "date": "2026-09-26",
+      "time": "11:00",
+      "team1": "ROYAL SPA BC B",
+      "team2": "BC VERLAINE",
+      "category": "CPE PROV MINIMES MM",
+      "location": "ROYAL SPA BC B",
+      "other": ""
+    },
+    {
+      "code": "764022",
+      "date": "2026-09-26",
+      "time": "15:00",
+      "team1": "ORP JAUCHE",
+      "team2": "BC VERLAINE",
+      "category": "CPE PROV PUPILLES MM",
+      "location": "ORP JAUCHE",
       "other": ""
     },
     {
@@ -463,16 +493,6 @@
       "team2": "BC SPRIMONT C",
       "category": "DD - DIVISION 3 A",
       "location": "BC VERLAINE B",
-      "other": ""
-    },
-    {
-      "code": "410015",
-      "date": "2026-09-06",
-      "time": "13:30",
-      "team1": "BC VERLAINE",
-      "team2": "RBC BLEGNY C",
-      "category": "MM - DIVISION 4 D",
-      "location": "BC VERLAINE",
       "other": ""
     },
     {
@@ -1066,16 +1086,6 @@
       "other": ""
     },
     {
-      "code": "502013",
-      "date": "2026-09-06",
-      "time": "10:45",
-      "team1": "BC VERLAINE A",
-      "team2": "ALL. FLEMALLE B",
-      "category": "U 12 - MM C",
-      "location": "BC VERLAINE A",
-      "other": ""
-    },
-    {
       "code": "502031",
       "date": "2026-09-20",
       "time": "15:00",
@@ -1303,196 +1313,6 @@
       "team2": "RBC ESNEUX B",
       "category": "U 12 - MM C",
       "location": "BC VERLAINE A",
-      "other": ""
-    },
-    {
-      "code": "507284",
-      "date": "2026-09-12",
-      "time": "13:00",
-      "team1": "BC VERLAINE B",
-      "team2": "R REN. MONTEGNEE B",
-      "category": "U 12 - MM H",
-      "location": "BC VERLAINE B",
-      "other": ""
-    },
-    {
-      "code": "507035",
-      "date": "2026-09-20",
-      "time": "9:30",
-      "team1": "RJS GRIVEGNEE",
-      "team2": "BC VERLAINE B",
-      "category": "U 12 - MM H",
-      "location": "RJS GRIVEGNEE",
-      "other": ""
-    },
-    {
-      "code": "507052",
-      "date": "2026-10-04",
-      "time": "9:00",
-      "team1": "HARIMALIA BC B",
-      "team2": "BC VERLAINE B",
-      "category": "U 12 - MM H",
-      "location": "HARIMALIA BC B",
-      "other": ""
-    },
-    {
-      "code": "507064",
-      "date": "2026-10-10",
-      "time": "13:00",
-      "team1": "BC VERLAINE B",
-      "team2": "UN HUY BASKET C",
-      "category": "U 12 - MM H",
-      "location": "BC VERLAINE B",
-      "other": ""
-    },
-    {
-      "code": "507294",
-      "date": "2026-10-17",
-      "time": "13:00",
-      "team1": "BC VERLAINE B",
-      "team2": "GIANTS BRAIVES C",
-      "category": "U 12 - MM H",
-      "location": "BC VERLAINE B",
-      "other": ""
-    },
-    {
-      "code": "507106",
-      "date": "2026-11-07",
-      "time": "13:00",
-      "team1": "GIANTS BRAIVES C",
-      "team2": "BC VERLAINE B",
-      "category": "U 12 - MM H",
-      "location": "GIANTS BRAIVES C",
-      "other": ""
-    },
-    {
-      "code": "507114",
-      "date": "2026-11-14",
-      "time": "13:00",
-      "team1": "BC VERLAINE B",
-      "team2": "LA VILLERSOISE C",
-      "category": "U 12 - MM H",
-      "location": "BC VERLAINE B",
-      "other": ""
-    },
-    {
-      "code": "507126",
-      "date": "2026-11-21",
-      "time": "13:00",
-      "team1": "R 4A AYWAILLE-HAMOIR",
-      "team2": "BC VERLAINE B",
-      "category": "U 12 - MM H",
-      "location": "R 4A AYWAILLE-HAMOIR",
-      "other": "(ho Hamoir rue du mouli"
-    },
-    {
-      "code": "507144",
-      "date": "2026-12-05",
-      "time": "13:00",
-      "team1": "BC VERLAINE B",
-      "team2": "RBC ALLEUR D",
-      "category": "U 12 - MM H",
-      "location": "BC VERLAINE B",
-      "other": ""
-    },
-    {
-      "code": "507154",
-      "date": "2026-12-12",
-      "time": "13:00",
-      "team1": "BC VERLAINE B",
-      "team2": "R HT-PRE OUGREE",
-      "category": "U 12 - MM H",
-      "location": "BC VERLAINE B",
-      "other": ""
-    },
-    {
-      "code": "507161",
-      "date": "2026-12-20",
-      "time": "9:00",
-      "team1": "R REN. MONTEGNEE B",
-      "team2": "BC VERLAINE B",
-      "category": "U 12 - MM H",
-      "location": "R REN. MONTEGNEE B",
-      "other": ""
-    },
-    {
-      "code": "507194",
-      "date": "2027-01-09",
-      "time": "13:00",
-      "team1": "BC VERLAINE B",
-      "team2": "RJS GRIVEGNEE",
-      "category": "U 12 - MM H",
-      "location": "BC VERLAINE B",
-      "other": ""
-    },
-    {
-      "code": "507215",
-      "date": "2027-01-23",
-      "time": "16:00",
-      "team1": "R HT-PRE OUGREE",
-      "team2": "BC VERLAINE B",
-      "category": "U 12 - MM H",
-      "location": "R HT-PRE OUGREE",
-      "other": ""
-    },
-    {
-      "code": "507233",
-      "date": "2027-02-06",
-      "time": "9:00",
-      "team1": "LA VILLERSOISE C",
-      "team2": "BC VERLAINE B",
-      "category": "U 12 - MM H",
-      "location": "LA VILLERSOISE C",
-      "other": ""
-    },
-    {
-      "code": "507244",
-      "date": "2027-02-13",
-      "time": "13:00",
-      "team1": "BC VERLAINE B",
-      "team2": "HARIMALIA BC B",
-      "category": "U 12 - MM H",
-      "location": "BC VERLAINE B",
-      "other": ""
-    },
-    {
-      "code": "507303",
-      "date": "2027-03-27",
-      "time": "9:00",
-      "team1": "UN HUY BASKET C",
-      "team2": "BC VERLAINE B",
-      "category": "U 12 - MM H",
-      "location": "UN HUY BASKET C",
-      "other": ""
-    },
-    {
-      "code": "507324",
-      "date": "2027-04-10",
-      "time": "13:00",
-      "team1": "BC VERLAINE B",
-      "team2": "R 4A AYWAILLE-HAMOIR",
-      "category": "U 12 - MM H",
-      "location": "BC VERLAINE B",
-      "other": ""
-    },
-    {
-      "code": "507332",
-      "date": "2027-04-17",
-      "time": "16:30",
-      "team1": "RBC ALLEUR D",
-      "team2": "BC VERLAINE B",
-      "category": "U 12 - MM H",
-      "location": "RBC ALLEUR D",
-      "other": ""
-    },
-    {
-      "code": "600016",
-      "date": "2026-09-06",
-      "time": "11:00",
-      "team1": "ALL. FLEMALLE",
-      "team2": "BC VERLAINE",
-      "category": "U 14 - DD A",
-      "location": "ALL. FLEMALLE",
       "other": ""
     },
     {
@@ -1966,16 +1786,6 @@
       "other": ""
     },
     {
-      "code": "472013",
-      "date": "2026-09-06",
-      "time": "15:30",
-      "team1": "BC VERLAINE",
-      "team2": "GIANTS BRAIVES B",
-      "category": "U 16 - PROV MM C",
-      "location": "BC VERLAINE",
-      "other": ""
-    },
-    {
       "code": "472023",
       "date": "2026-09-13",
       "time": "15:30",
@@ -1983,16 +1793,6 @@
       "team2": "ALL. FLEMALLE B",
       "category": "U 16 - PROV MM C",
       "location": "BC VERLAINE",
-      "other": ""
-    },
-    {
-      "code": "472031",
-      "date": "2026-09-19",
-      "time": "17:00",
-      "team1": "RBC AWANS",
-      "team2": "BC VERLAINE",
-      "category": "U 16 - PROV MM C",
-      "location": "RBC AWANS",
       "other": ""
     },
     {
@@ -2016,16 +1816,6 @@
       "other": ""
     },
     {
-      "code": "472143",
-      "date": "2026-12-06",
-      "time": "15:30",
-      "team1": "BC VERLAINE",
-      "team2": "BCM HERSTAL",
-      "category": "U 16 - PROV MM C",
-      "location": "BC VERLAINE",
-      "other": ""
-    },
-    {
       "code": "472153",
       "date": "2026-12-13",
       "time": "15:30",
@@ -2043,16 +1833,6 @@
       "team2": "BC VERLAINE",
       "category": "U 16 - PROV MM C",
       "location": "ORP JAUCHE",
-      "other": ""
-    },
-    {
-      "code": "472193",
-      "date": "2027-01-10",
-      "time": "15:30",
-      "team1": "BC VERLAINE",
-      "team2": "RBC AWANS",
-      "category": "U 16 - PROV MM C",
-      "location": "BC VERLAINE",
       "other": ""
     },
     {
@@ -2113,26 +1893,6 @@
       "team2": "ROYAL BC WANZE B",
       "category": "U 16 - PROV MM C",
       "location": "BC VERLAINE",
-      "other": ""
-    },
-    {
-      "code": "472335",
-      "date": "2027-04-17",
-      "time": "14:30",
-      "team1": "BCM HERSTAL",
-      "team2": "BC VERLAINE",
-      "category": "U 16 - PROV MM C",
-      "location": "BCM HERSTAL",
-      "other": ""
-    },
-    {
-      "code": "553014",
-      "date": "2026-09-05",
-      "time": "9:00",
-      "team1": "ABC WAREMME B",
-      "team2": "BC VERLAINE",
-      "category": "U 7 - MM D",
-      "location": "ABC WAREMME B",
       "other": ""
     },
     {

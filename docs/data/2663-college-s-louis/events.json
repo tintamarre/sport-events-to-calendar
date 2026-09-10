@@ -6,6 +6,36 @@
   },
   "events": [
     {
+      "code": "763025",
+      "date": "2026-09-26",
+      "time": "9:00",
+      "team1": "COLLEGE S LOUIS",
+      "team2": "RBC AWANS A",
+      "category": "CPE PROV MINIMES MM",
+      "location": "COLLEGE S LOUIS",
+      "other": ""
+    },
+    {
+      "code": "764028",
+      "date": "2026-09-27",
+      "time": "16:00",
+      "team1": "COLLEGE S LOUIS",
+      "team2": "BC COINTE A",
+      "category": "CPE PROV PUPILLES MM",
+      "location": "COLLEGE S LOUIS",
+      "other": ""
+    },
+    {
+      "code": "521024",
+      "date": "2026-09-12",
+      "time": "11:30",
+      "team1": "CRISTAL SGH A",
+      "team2": "COLLEGE S LOUIS A",
+      "category": "Ec Av centenaire  ougree)",
+      "location": "CRISTAL SGH A",
+      "other": ""
+    },
+    {
       "code": "521024",
       "date": "2026-09-12",
       "time": "11:30",
@@ -13,7 +43,7 @@
       "team2": "COLLEGE S LOUIS A",
       "category": "U 10 - MM B",
       "location": "CRISTAL SGH A",
-      "other": ""
+      "other": "Ec Av centenaire  ougree"
     },
     {
       "code": "521031",
@@ -86,16 +116,6 @@
       "other": ""
     },
     {
-      "code": "521151",
-      "date": "2026-12-12",
-      "time": "11:30",
-      "team1": "COLLEGE S LOUIS A",
-      "team2": "ALL. FLEMALLE B",
-      "category": "U 10 - MM B",
-      "location": "COLLEGE S LOUIS A",
-      "other": ""
-    },
-    {
       "code": "521164",
       "date": "2026-12-20",
       "time": "10:00",
@@ -113,16 +133,6 @@
       "team2": "COLLEGE S LOUIS A",
       "category": "U 10 - MM B",
       "location": "UN HUY BASKET B",
-      "other": ""
-    },
-    {
-      "code": "521216",
-      "date": "2027-01-24",
-      "time": "15:00",
-      "team1": "ALL. FLEMALLE B",
-      "team2": "COLLEGE S LOUIS A",
-      "category": "U 10 - MM B",
-      "location": "ALL. FLEMALLE B",
       "other": ""
     },
     {
@@ -203,16 +213,6 @@
       "team2": "COLLEGE S LOUIS A",
       "category": "U 10 - MM B",
       "location": "ROYAL HERVE-BATTICE B",
-      "other": ""
-    },
-    {
-      "code": "523016",
-      "date": "2026-09-05",
-      "time": "9:30",
-      "team1": "COLLEGE S LOUIS",
-      "team2": "RBC VISE C",
-      "category": "U 10 - MM D",
-      "location": "COLLEGE S LOUIS",
       "other": ""
     },
     {
@@ -383,16 +383,6 @@
       "team2": "COLLEGE S LOUIS",
       "category": "U 10 - MM D",
       "location": "R REN. MONTEGNEE",
-      "other": ""
-    },
-    {
-      "code": "501016",
-      "date": "2026-09-05",
-      "time": "11:15",
-      "team1": "COLLEGE S LOUIS B",
-      "team2": "BCM HERSTAL",
-      "category": "U 12 - MM B",
-      "location": "COLLEGE S LOUIS B",
       "other": ""
     },
     {
@@ -866,16 +856,6 @@
       "other": ""
     },
     {
-      "code": "481013",
-      "date": "2026-09-05",
-      "time": "13:00",
-      "team1": "COLLEGE S LOUIS",
-      "team2": "GIANTS BRAIVES A",
-      "category": "U 14 - ELITES MM B",
-      "location": "COLLEGE S LOUIS",
-      "other": ""
-    },
-    {
       "code": "481023",
       "date": "2026-09-13",
       "time": "9:00",
@@ -1062,16 +1042,6 @@
       "team1": "COLLEGE S LOUIS",
       "team2": "BC COINTE A",
       "category": "U 14 - ELITES MM B",
-      "location": "COLLEGE S LOUIS",
-      "other": ""
-    },
-    {
-      "code": "450016",
-      "date": "2026-09-05",
-      "time": "15:00",
-      "team1": "COLLEGE S LOUIS",
-      "team2": "THEUX BC",
-      "category": "U 16 - ELITES MM A",
       "location": "COLLEGE S LOUIS",
       "other": ""
     },
@@ -1263,16 +1233,6 @@
       "team2": "COLLEGE S LOUIS",
       "category": "U 16 - ELITES MM A",
       "location": "RBC STAVELOT",
-      "other": ""
-    },
-    {
-      "code": "431016",
-      "date": "2026-09-05",
-      "time": "15:00",
-      "team1": "RABC ENSIVAL",
-      "team2": "COLLEGE S LOUIS",
-      "category": "U 18 - ELITES MM B",
-      "location": "RABC ENSIVAL",
       "other": ""
     },
     {

@@ -26,13 +26,43 @@
       "other": ""
     },
     {
-      "code": "401017",
-      "date": "2026-09-05",
-      "time": "18:30",
-      "team1": "RB UNION LIEGE A",
-      "team2": "THEUX BC A",
-      "category": "MM - DIVISION 1",
-      "location": "RB UNION LIEGE A",
+      "code": "760007",
+      "date": "2026-09-26",
+      "time": "19:00",
+      "team1": "THEUX BC A",
+      "team2": "HANNUT BC A",
+      "category": "CPE PROV MESSIEURS",
+      "location": "THEUX BC A",
+      "other": ""
+    },
+    {
+      "code": "760018",
+      "date": "2026-09-27",
+      "time": "13:00",
+      "team1": "ROYALE US AWANS B (+ 5)",
+      "team2": "THEUX BC B",
+      "category": "CPE PROV MESSIEURS",
+      "location": "ROYALE US AWANS B (+ 5)",
+      "other": ""
+    },
+    {
+      "code": "763022",
+      "date": "2026-09-27",
+      "time": "15:00",
+      "team1": "HENRI-CHAPELLE",
+      "team2": "THEUX BC",
+      "category": "CPE PROV MINIMES MM",
+      "location": "HENRI-CHAPELLE",
+      "other": ""
+    },
+    {
+      "code": "764027",
+      "date": "2026-09-26",
+      "time": "9:00",
+      "team1": "PRAYON TROOZ",
+      "team2": "THEUX BC",
+      "category": "CPE PROV PUPILLES MM",
+      "location": "PRAYON TROOZ",
       "other": ""
     },
     {
@@ -286,16 +316,6 @@
       "other": ""
     },
     {
-      "code": "404017",
-      "date": "2026-09-05",
-      "time": "21:00",
-      "team1": "R 4A AYWAILLE-HAMOIR B",
-      "team2": "THEUX BC B",
-      "category": "MM - DIVISION 3 A",
-      "location": "R 4A AYWAILLE-HAMOIR B",
-      "other": ""
-    },
-    {
       "code": "404033",
       "date": "2026-09-19",
       "time": "19:00",
@@ -543,16 +563,6 @@
       "team2": "THEUX BC B",
       "category": "MM - DIVISION 3 A",
       "location": "BCM HERSTAL A",
-      "other": ""
-    },
-    {
-      "code": "407017",
-      "date": "2026-09-05",
-      "time": "20:30",
-      "team1": "HENRI-CHAPELLE D",
-      "team2": "THEUX BC C",
-      "category": "MM - DIVISION 4 A",
-      "location": "HENRI-CHAPELLE D",
       "other": ""
     },
     {
@@ -986,16 +996,6 @@
       "other": ""
     },
     {
-      "code": "520016",
-      "date": "2026-09-06",
-      "time": "13:00",
-      "team1": "ALL. FLEMALLE A",
-      "team2": "THEUX BC A",
-      "category": "U 10 - MM A",
-      "location": "ALL. FLEMALLE A",
-      "other": ""
-    },
-    {
       "code": "520022",
       "date": "2026-09-12",
       "time": "9:00",
@@ -1186,16 +1186,6 @@
       "other": ""
     },
     {
-      "code": "526016",
-      "date": "2026-09-05",
-      "time": "9:00",
-      "team1": "RABC ENSIVAL A",
-      "team2": "THEUX BC B",
-      "category": "U 10 - MM G",
-      "location": "RABC ENSIVAL A",
-      "other": ""
-    },
-    {
       "code": "526022",
       "date": "2026-09-12",
       "time": "12:00",
@@ -1213,16 +1203,6 @@
       "team2": "HENRI-CHAPELLE B",
       "category": "U 10 - MM G",
       "location": "THEUX BC B",
-      "other": ""
-    },
-    {
-      "code": "526145",
-      "date": "2026-09-26",
-      "time": "15:00",
-      "team1": "PRAYON TROOZ",
-      "team2": "THEUX BC B",
-      "category": "U 10 - MM G",
-      "location": "PRAYON TROOZ",
       "other": ""
     },
     {
@@ -1263,6 +1243,16 @@
       "team2": "DF BC MALMEDY",
       "category": "U 10 - MM G",
       "location": "THEUX BC B",
+      "other": ""
+    },
+    {
+      "code": "526145",
+      "date": "2026-12-05",
+      "time": "11:00",
+      "team1": "PRAYON TROOZ",
+      "team2": "THEUX BC B",
+      "category": "U 10 - MM G",
+      "location": "PRAYON TROOZ",
       "other": ""
     },
     {
@@ -1366,16 +1356,6 @@
       "other": ""
     },
     {
-      "code": "501017",
-      "date": "2026-09-05",
-      "time": "11:00",
-      "team1": "ALL. FLEMALLE D",
-      "team2": "THEUX BC A",
-      "category": "U 12 - MM B",
-      "location": "ALL. FLEMALLE D",
-      "other": ""
-    },
-    {
       "code": "501022",
       "date": "2026-09-12",
       "time": "11:00",
@@ -1388,7 +1368,7 @@
     {
       "code": "501155",
       "date": "2026-09-26",
-      "time": "15:00",
+      "time": "11:00",
       "team1": "PRAYON TROOZ A",
       "team2": "THEUX BC A",
       "category": "U 12 - MM B",
@@ -1606,16 +1586,6 @@
       "other": ""
     },
     {
-      "code": "506013",
-      "date": "2026-09-05",
-      "time": "11:00",
-      "team1": "THEUX BC B",
-      "team2": "BBC EUPEN",
-      "category": "U 12 - MM G",
-      "location": "THEUX BC B",
-      "other": ""
-    },
-    {
       "code": "506023",
       "date": "2026-09-12",
       "time": "11:00",
@@ -1786,16 +1756,6 @@
       "other": ""
     },
     {
-      "code": "490016",
-      "date": "2026-09-05",
-      "time": "13:00",
-      "team1": "ALL. FLEMALLE B",
-      "team2": "THEUX BC",
-      "category": "U 14 - PROV MM A",
-      "location": "ALL. FLEMALLE B",
-      "other": ""
-    },
-    {
       "code": "490056",
       "date": "2026-10-03",
       "time": "15:00",
@@ -1963,16 +1923,6 @@
       "team2": "CRISTAL SGH B",
       "category": "U 14 - PROV MM A",
       "location": "THEUX BC",
-      "other": ""
-    },
-    {
-      "code": "450016",
-      "date": "2026-09-05",
-      "time": "15:00",
-      "team1": "COLLEGE S LOUIS",
-      "team2": "THEUX BC",
-      "category": "U 16 - ELITES MM A",
-      "location": "COLLEGE S LOUIS",
       "other": ""
     },
     {
@@ -2326,16 +2276,6 @@
       "other": ""
     },
     {
-      "code": "420018",
-      "date": "2026-09-06",
-      "time": "11:00",
-      "team1": "RBC ALLEUR",
-      "team2": "THEUX BC",
-      "category": "U 21 - MM",
-      "location": "RBC ALLEUR",
-      "other": ""
-    },
-    {
       "code": "420022",
       "date": "2026-09-13",
       "time": "13:00",
@@ -2626,16 +2566,6 @@
       "other": ""
     },
     {
-      "code": "550016",
-      "date": "2026-09-05",
-      "time": "11:30",
-      "team1": "R 4A AYWAILLE-HAMOIR A",
-      "team2": "THEUX BC",
-      "category": "U 7 - MM A",
-      "location": "R 4A AYWAILLE-HAMOIR A",
-      "other": ""
-    },
-    {
       "code": "550033",
       "date": "2026-09-20",
       "time": "9:00",
@@ -2683,16 +2613,6 @@
       "team2": "THEUX BC",
       "category": "U 7 - MM A",
       "location": "VAIL. JUPILLE",
-      "other": ""
-    },
-    {
-      "code": "550123",
-      "date": "2026-11-22",
-      "time": "9:00",
-      "team1": "THEUX BC",
-      "team2": "HARIMALIA BC",
-      "category": "U 7 - MM A",
-      "location": "THEUX BC",
       "other": ""
     },
     {
@@ -2796,16 +2716,6 @@
       "other": ""
     },
     {
-      "code": "550322",
-      "date": "2027-04-10",
-      "time": "13:00",
-      "team1": "HARIMALIA BC",
-      "team2": "THEUX BC",
-      "category": "U 7 - MM A",
-      "location": "HARIMALIA BC",
-      "other": ""
-    },
-    {
       "code": "550333",
       "date": "2027-04-18",
       "time": "9:00",
@@ -2813,16 +2723,6 @@
       "team2": "RBC VISE A",
       "category": "U 7 - MM A",
       "location": "THEUX BC",
-      "other": ""
-    },
-    {
-      "code": "540012",
-      "date": "2026-09-05",
-      "time": "9:00",
-      "team1": "THEUX BC A",
-      "team2": "ROYAL SPA BC A",
-      "category": "U 8 - MM A",
-      "location": "THEUX BC A",
       "other": ""
     },
     {
@@ -2840,7 +2740,7 @@
       "date": "2026-10-03",
       "time": "9:00",
       "team1": "THEUX BC A",
-      "team2": "VAIL. JUPILLE",
+      "team2": "VAIL. JUPILLE A",
       "category": "U 8 - MM A",
       "location": "THEUX BC A",
       "other": ""
@@ -2959,10 +2859,10 @@
       "code": "540244",
       "date": "2027-02-13",
       "time": "10:00",
-      "team1": "VAIL. JUPILLE",
+      "team1": "VAIL. JUPILLE A",
       "team2": "THEUX BC A",
       "category": "U 8 - MM A",
-      "location": "VAIL. JUPILLE",
+      "location": "VAIL. JUPILLE A",
       "other": ""
     },
     {
@@ -3017,7 +2917,7 @@
     },
     {
       "code": "541036",
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "time": "9:00",
       "team1": "THEUX BC B",
       "team2": "HARIMALIA BC",
@@ -3033,16 +2933,6 @@
       "team2": "THEUX BC B",
       "category": "U 8 - MM B",
       "location": "RBC ALLEUR",
-      "other": ""
-    },
-    {
-      "code": "541056",
-      "date": "2026-10-03",
-      "time": "9:00",
-      "team1": "THEUX BC B",
-      "team2": "PRAYON TROOZ",
-      "category": "U 8 - MM B",
-      "location": "THEUX BC B",
       "other": ""
     },
     {
@@ -3153,16 +3043,6 @@
       "team2": "THEUX BC B",
       "category": "U 8 - MM B",
       "location": "ROYAL MOSA AC 1941",
-      "other": ""
-    },
-    {
-      "code": "541243",
-      "date": "2027-02-14",
-      "time": "9:00",
-      "team1": "PRAYON TROOZ",
-      "team2": "THEUX BC B",
-      "category": "U 8 - MM B",
-      "location": "PRAYON TROOZ",
       "other": ""
     },
     {

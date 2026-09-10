@@ -6,6 +6,36 @@
   },
   "events": [
     {
+      "code": "762014",
+      "date": "2026-09-27",
+      "time": "11:00",
+      "team1": "ROYAL BC WANZE",
+      "team2": "RABC ENSIVAL B",
+      "category": "CPE PROV CADETS",
+      "location": "ROYAL BC WANZE",
+      "other": ""
+    },
+    {
+      "code": "760029",
+      "date": "2026-09-27",
+      "time": "15:00",
+      "team1": "CRISTAL SGH A",
+      "team2": "ROYAL BC WANZE C (+ 10)",
+      "category": "CPE PROV MESSIEURS",
+      "location": "CRISTAL SGH A",
+      "other": ""
+    },
+    {
+      "code": "763024",
+      "date": "2026-09-27",
+      "time": "13:00",
+      "team1": "ROYAL BC WANZE A",
+      "team2": "GIANTS BRAIVES B",
+      "category": "CPE PROV MINIMES MM",
+      "location": "ROYAL BC WANZE A",
+      "other": ""
+    },
+    {
       "code": "415024",
       "date": "2026-09-13",
       "time": "13:00",
@@ -2196,16 +2226,6 @@
       "other": ""
     },
     {
-      "code": "472024",
-      "date": "2026-09-13",
-      "time": "9:00",
-      "team1": "ROYAL BC WANZE B",
-      "team2": "RBC AWANS",
-      "category": "U 16 - PROV MM C",
-      "location": "ROYAL BC WANZE B",
-      "other": ""
-    },
-    {
       "code": "472014",
       "date": "2026-09-27",
       "time": "9:00",
@@ -2236,16 +2256,6 @@
       "other": ""
     },
     {
-      "code": "472035",
-      "date": "2026-10-17",
-      "time": "14:30",
-      "team1": "BCM HERSTAL",
-      "team2": "ROYAL BC WANZE B",
-      "category": "U 16 - PROV MM C",
-      "location": "BCM HERSTAL",
-      "other": ""
-    },
-    {
       "code": "472114",
       "date": "2026-11-15",
       "time": "9:00",
@@ -2261,16 +2271,6 @@
       "time": "11:00",
       "team1": "ROYAL BC WANZE B",
       "team2": "ORP JAUCHE",
-      "category": "U 16 - PROV MM C",
-      "location": "ROYAL BC WANZE B",
-      "other": ""
-    },
-    {
-      "code": "472194",
-      "date": "2027-01-10",
-      "time": "9:00",
-      "team1": "ROYAL BC WANZE B",
-      "team2": "BCM HERSTAL",
       "category": "U 16 - PROV MM C",
       "location": "ROYAL BC WANZE B",
       "other": ""
@@ -2293,16 +2293,6 @@
       "team2": "ROYAL BC WANZE B",
       "category": "U 16 - PROV MM C",
       "location": "ORP JAUCHE",
-      "other": ""
-    },
-    {
-      "code": "472221",
-      "date": "2027-01-30",
-      "time": "17:00",
-      "team1": "RBC AWANS",
-      "team2": "ROYAL BC WANZE B",
-      "category": "U 16 - PROV MM C",
-      "location": "RBC AWANS",
       "other": ""
     },
     {
@@ -3233,6 +3223,16 @@
       "team2": "ROYAL BC WANZE",
       "category": "U 7 - MM C",
       "location": "BC SPRIMONT A",
+      "other": ""
+    },
+    {
+      "code": "552201",
+      "date": "2027-01-16",
+      "time": "11:00",
+      "team1": "RBC HANEFFE B",
+      "team2": "ROYAL BC WANZE",
+      "category": "U 7 - MM C",
+      "location": "RBC HANEFFE B",
       "other": ""
     },
     {
