@@ -6,13 +6,63 @@
   },
   "events": [
     {
-      "code": "AW104016",
-      "date": "2026-09-13",
-      "time": "18:00",
-      "team1": "RCS NATOYE",
-      "team2": "LIEGE PANTHERS C",
-      "category": "DD - REGIONALE 1",
-      "location": "RCS NATOYE",
+      "code": "AW248037",
+      "date": "2026-09-26",
+      "time": "13:00",
+      "team1": "LIEGE PANTHERS",
+      "team2": "GANSHOREN DAMES A",
+      "category": "COUPE AWBB U14 - FILLES",
+      "location": "LIEGE PANTHERS",
+      "other": ""
+    },
+    {
+      "code": "AW247046",
+      "date": "2026-09-26",
+      "time": "11:00",
+      "team1": "LIEGE PANTHERS B",
+      "team2": "BBC LIBRAMONT",
+      "category": "COUPE AWBB U16 - FILLES",
+      "location": "LIEGE PANTHERS B",
+      "other": ""
+    },
+    {
+      "code": "AW247037",
+      "date": "2026-09-27",
+      "time": "9:00",
+      "team1": "EAST BELGIUM BCA B",
+      "team2": "LIEGE PANTHERS A",
+      "category": "COUPE AWBB U16 - FILLES",
+      "location": "EAST BELGIUM BCA B",
+      "other": ""
+    },
+    {
+      "code": "AW246040",
+      "date": "2026-09-26",
+      "time": "16:00",
+      "team1": "RE PONT-DE-LOUP A",
+      "team2": "LIEGE PANTHERS B",
+      "category": "COUPE AWBB U19 - FILLES",
+      "location": "RE PONT-DE-LOUP A",
+      "other": ""
+    },
+    {
+      "code": "AW246046",
+      "date": "2026-09-26",
+      "time": "13:00",
+      "team1": "LIEGE PANTHERS A",
+      "team2": "CASTORS BRAINE B",
+      "category": "COUPE AWBB U19 - FILLES",
+      "location": "LIEGE PANTHERS A",
+      "other": ""
+    },
+    {
+      "code": "217",
+      "date": "2026-09-19",
+      "time": "20:15",
+      "team1": "RED VIC WILRIJK",
+      "team2": "LIEGE PANTHERS A",
+      "category": "CPE BELG DAMES",
+      "location": "RED VIC WILRIJK",
       "other": ""
     },
     {
@@ -406,16 +456,6 @@
       "other": ""
     },
     {
-      "code": "AW103012",
-      "date": "2026-09-12",
-      "time": "19:00",
-      "team1": "RCS NATOYE",
-      "team2": "LIEGE PANTHERS B",
-      "category": "TOP DIVISION WOMEN R",
-      "location": "RCS NATOYE",
-      "other": ""
-    },
-    {
       "code": "AW103005",
       "date": "2026-09-20",
       "time": "17:00",
@@ -616,16 +656,6 @@
       "other": ""
     },
     {
-      "code": "AW151007",
-      "date": "2026-09-12",
-      "time": "13:30",
-      "team1": "TOURNAI WAPITI",
-      "team2": "LIEGE PANTHERS",
-      "category": "U 14 - GOLD REGIONALES B",
-      "location": "TOURNAI WAPITI",
-      "other": ""
-    },
-    {
       "code": "AW151010",
       "date": "2026-10-04",
       "time": "13:00",
@@ -703,16 +733,6 @@
       "team2": "RBC ECLAIR",
       "category": "U 14 - GOLD REGIONALES B",
       "location": "LIEGE PANTHERS",
-      "other": ""
-    },
-    {
-      "code": "AW145007",
-      "date": "2026-09-13",
-      "time": "11:00",
-      "team1": "GANSHOREN DAMES",
-      "team2": "LIEGE PANTHERS",
-      "category": "U 16 - GOLD REGIONALES B",
-      "location": "GANSHOREN DAMES",
       "other": ""
     },
     {
@@ -796,16 +816,6 @@
       "other": ""
     },
     {
-      "code": "AW147007",
-      "date": "2026-09-13",
-      "time": "13:00",
-      "team1": "GANSHOREN DAMES",
-      "team2": "LIEGE PANTHERS",
-      "category": "U 16 - SILVER REGIONALES B",
-      "location": "GANSHOREN DAMES",
-      "other": ""
-    },
-    {
       "code": "AW147004",
       "date": "2026-09-19",
       "time": "13:30",
@@ -886,16 +896,6 @@
       "other": ""
     },
     {
-      "code": "AW140007",
-      "date": "2026-09-13",
-      "time": "13:00",
-      "team1": "GANSHOREN DAMES",
-      "team2": "LIEGE PANTHERS",
-      "category": "U 19 - GOLD REGIONALES B",
-      "location": "GANSHOREN DAMES",
-      "other": ""
-    },
-    {
       "code": "AW140004",
       "date": "2026-09-19",
       "time": "11:30",
@@ -973,16 +973,6 @@
       "team2": "GANSHOREN DAMES",
       "category": "U 19 - GOLD REGIONALES B",
       "location": "LIEGE PANTHERS",
-      "other": ""
-    },
-    {
-      "code": "AW142012",
-      "date": "2026-09-12",
-      "time": "15:00",
-      "team1": "PRAYON TROOZ",
-      "team2": "LIEGE PANTHERS",
-      "category": "U 19 - SILVER REGIONALES B",
-      "location": "PRAYON TROOZ",
       "other": ""
     },
     {

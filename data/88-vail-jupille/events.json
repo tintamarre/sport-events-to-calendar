@@ -36,16 +36,6 @@
       "other": ""
     },
     {
-      "code": "416024",
-      "date": "2026-09-12",
-      "time": "21:00",
-      "team1": "VAIL. JUPILLE",
-      "team2": "RBC AWANS A",
-      "category": "DD - DIVISION 3 A",
-      "location": "VAIL. JUPILLE",
-      "other": ""
-    },
-    {
       "code": "416052",
       "date": "2026-10-03",
       "time": "19:00",
@@ -233,16 +223,6 @@
       "team2": "UN HUY BASKET C",
       "category": "DD - DIVISION 3 A",
       "location": "VAIL. JUPILLE",
-      "other": ""
-    },
-    {
-      "code": "402024",
-      "date": "2026-09-13",
-      "time": "10:00",
-      "team1": "VAIL. JUPILLE A",
-      "team2": "BC BELLEFLAMME C",
-      "category": "MM - DIVISION 2 A",
-      "location": "VAIL. JUPILLE A",
       "other": ""
     },
     {
@@ -486,16 +466,6 @@
       "other": ""
     },
     {
-      "code": "404024",
-      "date": "2026-09-12",
-      "time": "19:00",
-      "team1": "VAIL. JUPILLE B",
-      "team2": "ATLAS A JUPILLE C",
-      "category": "MM - DIVISION 3 A",
-      "location": "VAIL. JUPILLE B",
-      "other": ""
-    },
-    {
       "code": "404052",
       "date": "2026-10-03",
       "time": "19:00",
@@ -736,16 +706,6 @@
       "other": ""
     },
     {
-      "code": "411024",
-      "date": "2026-09-13",
-      "time": "12:00",
-      "team1": "VAIL. JUPILLE C",
-      "team2": "R.UN.BELLAIRE C",
-      "category": "MM - DIVISION 4 E",
-      "location": "VAIL. JUPILLE C",
-      "other": ""
-    },
-    {
       "code": "411035",
       "date": "2026-09-18",
       "time": "20:45",
@@ -946,16 +906,6 @@
       "other": ""
     },
     {
-      "code": "524024",
-      "date": "2026-09-12",
-      "time": "11:30",
-      "team1": "VAIL. JUPILLE",
-      "team2": "ROYAL SPA BC B",
-      "category": "U 10 - MM E",
-      "location": "VAIL. JUPILLE",
-      "other": ""
-    },
-    {
       "code": "524035",
       "date": "2026-09-19",
       "time": "9:00",
@@ -1123,16 +1073,6 @@
       "team2": "VAIL. JUPILLE",
       "category": "U 10 - MM E",
       "location": "ROYAL BC NINANE B",
-      "other": ""
-    },
-    {
-      "code": "501024",
-      "date": "2026-09-13",
-      "time": "14:00",
-      "team1": "VAIL. JUPILLE",
-      "team2": "ROYAL MOSA AC 1941 A",
-      "category": "U 12 - MM B",
-      "location": "VAIL. JUPILLE",
       "other": ""
     },
     {
@@ -1356,16 +1296,6 @@
       "other": ""
     },
     {
-      "code": "490024",
-      "date": "2026-09-12",
-      "time": "13:00",
-      "team1": "VAIL. JUPILLE",
-      "team2": "ROYAL SPA BC",
-      "category": "U 14 - PROV MM A",
-      "location": "VAIL. JUPILLE",
-      "other": ""
-    },
-    {
       "code": "490035",
       "date": "2026-09-20",
       "time": "11:30",
@@ -1466,16 +1396,6 @@
       "other": ""
     },
     {
-      "code": "490221",
-      "date": "2027-01-30",
-      "time": "11:00",
-      "team1": "ROYAL SPA BC",
-      "team2": "VAIL. JUPILLE",
-      "category": "U 14 - PROV MM A",
-      "location": "ROYAL SPA BC",
-      "other": ""
-    },
-    {
       "code": "490233",
       "date": "2027-02-07",
       "time": "15:00",
@@ -1522,16 +1442,6 @@
       "team1": "VAIL. JUPILLE",
       "team2": "RABC ENSIVAL B",
       "category": "U 14 - PROV MM A",
-      "location": "VAIL. JUPILLE",
-      "other": ""
-    },
-    {
-      "code": "471024",
-      "date": "2026-09-12",
-      "time": "15:00",
-      "team1": "VAIL. JUPILLE",
-      "team2": "ATLAS A JUPILLE B",
-      "category": "U 16 - PROV MM B",
       "location": "VAIL. JUPILLE",
       "other": ""
     },
@@ -2216,23 +2126,13 @@
       "other": ""
     },
     {
-      "code": "543024",
-      "date": "2026-09-12",
-      "time": "11:00",
-      "team1": "ABC WAREMME B",
+      "code": "543031",
+      "date": "2026-09-20",
+      "time": "10:00",
+      "team1": "RBC HANEFFE",
       "team2": "VAIL. JUPILLE B",
       "category": "U 8 - MM D",
-      "location": "ABC WAREMME B",
-      "other": ""
-    },
-    {
-      "code": "543031",
-      "date": "2026-09-19",
-      "time": "9:00",
-      "team1": "VAIL. JUPILLE B",
-      "team2": "RBC HANEFFE",
-      "category": "U 8 - MM D",
-      "location": "VAIL. JUPILLE B",
+      "location": "RBC HANEFFE",
       "other": ""
     },
     {
@@ -2248,11 +2148,11 @@
     {
       "code": "543061",
       "date": "2026-10-10",
-      "time": "10:30",
-      "team1": "RSW LIEGE BASKET",
-      "team2": "VAIL. JUPILLE B",
+      "time": "9:00",
+      "team1": "VAIL. JUPILLE B",
+      "team2": "RSW LIEGE BASKET",
       "category": "U 8 - MM D",
-      "location": "RSW LIEGE BASKET",
+      "location": "VAIL. JUPILLE B",
       "other": ""
     },
     {
@@ -2278,7 +2178,7 @@
     {
       "code": "543125",
       "date": "2026-11-22",
-      "time": "11:00",
+      "time": "12:30",
       "team1": "RB TILFF B",
       "team2": "VAIL. JUPILLE B",
       "category": "U 8 - MM D",
@@ -2298,7 +2198,7 @@
     {
       "code": "543164",
       "date": "2026-12-20",
-      "time": "14:00",
+      "time": "16:00",
       "team1": "MAIL. COMBLAIN",
       "team2": "VAIL. JUPILLE B",
       "category": "U 8 - MM D",
@@ -2308,11 +2208,11 @@
     {
       "code": "543193",
       "date": "2027-01-09",
-      "time": "11:00",
-      "team1": "RBC HANEFFE",
-      "team2": "VAIL. JUPILLE B",
+      "time": "9:00",
+      "team1": "VAIL. JUPILLE B",
+      "team2": "RBC HANEFFE",
       "category": "U 8 - MM D",
-      "location": "RBC HANEFFE",
+      "location": "VAIL. JUPILLE B",
       "other": ""
     },
     {
@@ -2388,11 +2288,11 @@
     {
       "code": "543301",
       "date": "2027-03-27",
-      "time": "9:00",
-      "team1": "VAIL. JUPILLE B",
-      "team2": "RSW LIEGE BASKET",
+      "time": "12:30",
+      "team1": "RSW LIEGE BASKET",
+      "team2": "VAIL. JUPILLE B",
       "category": "U 8 - MM D",
-      "location": "VAIL. JUPILLE B",
+      "location": "RSW LIEGE BASKET",
       "other": ""
     },
     {

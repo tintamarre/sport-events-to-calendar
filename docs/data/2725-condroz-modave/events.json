@@ -6,13 +6,43 @@
   },
   "events": [
     {
-      "code": "522023",
-      "date": "2026-09-12",
-      "time": "9:00",
+      "code": "AW245033",
+      "date": "2026-09-26",
+      "time": "15:00",
       "team1": "CONDROZ MODAVE BB",
-      "team2": "BC CRISNEE",
-      "category": "U 10 - MM C",
+      "team2": "ECOLE EUROPEENNE",
+      "category": "COUPE AWBB U12 -GARCONS",
       "location": "CONDROZ MODAVE BB",
+      "other": ""
+    },
+    {
+      "code": "AW244042",
+      "date": "2026-09-26",
+      "time": "9:00",
+      "team1": "R EXC BRUXELLES",
+      "team2": "CONDROZ MODAVE BB",
+      "category": "COUPE AWBB U14 - GARCONS",
+      "location": "R EXC BRUXELLES",
+      "other": ""
+    },
+    {
+      "code": "AW243045",
+      "date": "2026-09-26",
+      "time": "13:00",
+      "team1": "CONDROZ MODAVE BB B",
+      "team2": "BC SPRIMONT A",
+      "category": "COUPE AWBB U16 - GARCONS",
+      "location": "CONDROZ MODAVE BB B",
+      "other": ""
+    },
+    {
+      "code": "AW243037",
+      "date": "2026-09-27",
+      "time": "16:00",
+      "team1": "BC FRAIRE-PHILIPPEVILLE",
+      "team2": "CONDROZ MODAVE BB A",
+      "category": "COUPE AWBB U16 - GARCONS",
+      "location": "BC FRAIRE-PHILIPPEVILLE",
       "other": ""
     },
     {
@@ -194,16 +224,6 @@
       "category": "U 10 - MM C",
       "location": "RB TILFF B",
       "other": ""
-    },
-    {
-      "code": "500025",
-      "date": "2026-09-12",
-      "time": "13:00",
-      "team1": "CRISTAL SGH A",
-      "team2": "CONDROZ MODAVE BB",
-      "category": "U 12 - MM A",
-      "location": "CRISTAL SGH A",
-      "other": "(Ho 18 bonniers grace h)"
     },
     {
       "code": "500057",
@@ -406,16 +426,6 @@
       "other": ""
     },
     {
-      "code": "AW131017",
-      "date": "2026-09-13",
-      "time": "11:00",
-      "team1": "FRESH AIR",
-      "team2": "CONDROZ MODAVE BB",
-      "category": "U 14 - GOLD REGIONAUX B",
-      "location": "FRESH AIR",
-      "other": ""
-    },
-    {
       "code": "AW131004",
       "date": "2026-09-20",
       "time": "14:00",
@@ -583,16 +593,6 @@
       "team2": "B55 ACADEMY XL",
       "category": "U 16 - GOLD REGIONAUX B",
       "location": "CONDROZ MODAVE BB",
-      "other": ""
-    },
-    {
-      "code": "AW125009",
-      "date": "2026-09-12",
-      "time": "11:00",
-      "team1": "JS ENTITE ENGHIEN",
-      "team2": "CONDROZ MODAVE BB",
-      "category": "U 16 - SILVER REGIONAUX C",
-      "location": "JS ENTITE ENGHIEN",
       "other": ""
     },
     {
@@ -866,16 +866,6 @@
       "other": ""
     },
     {
-      "code": "545053",
-      "date": "2026-10-03",
-      "time": "13:30",
-      "team1": "CONDROZ MODAVE BB",
-      "team2": "R REN. MONTEGNEE",
-      "category": "U 8 - MM F",
-      "location": "CONDROZ MODAVE BB",
-      "other": ""
-    },
-    {
       "code": "545064",
       "date": "2026-10-11",
       "time": "12:00",
@@ -916,16 +906,6 @@
       "other": ""
     },
     {
-      "code": "545013",
-      "date": "2026-12-12",
-      "time": "15:00",
-      "team1": "CONDROZ MODAVE BB",
-      "team2": "GIANTS BRAIVES B",
-      "category": "U 8 - MM F",
-      "location": "CONDROZ MODAVE BB",
-      "other": ""
-    },
-    {
       "code": "545165",
       "date": "2026-12-19",
       "time": "14:00",
@@ -946,16 +926,6 @@
       "other": ""
     },
     {
-      "code": "545206",
-      "date": "2027-01-17",
-      "time": "13:00",
-      "team1": "GIANTS BRAIVES B",
-      "team2": "CONDROZ MODAVE BB",
-      "category": "U 8 - MM F",
-      "location": "GIANTS BRAIVES B",
-      "other": ""
-    },
-    {
       "code": "545222",
       "date": "2027-01-30",
       "time": "15:00",
@@ -963,16 +933,6 @@
       "team2": "CONDROZ MODAVE BB",
       "category": "U 8 - MM F",
       "location": "HANNUT BC B",
-      "other": ""
-    },
-    {
-      "code": "545246",
-      "date": "2027-02-14",
-      "time": "9:00",
-      "team1": "R REN. MONTEGNEE",
-      "team2": "CONDROZ MODAVE BB",
-      "category": "U 8 - MM F",
-      "location": "R REN. MONTEGNEE",
       "other": ""
     },
     {

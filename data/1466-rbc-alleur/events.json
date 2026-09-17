@@ -6,6 +6,36 @@
   },
   "events": [
     {
+      "code": "AW248040",
+      "date": "2026-09-27",
+      "time": "9:00",
+      "team1": "LA VILLERSOISE",
+      "team2": "RBC ALLEUR",
+      "category": "COUPE AWBB U14 - FILLES",
+      "location": "LA VILLERSOISE",
+      "other": ""
+    },
+    {
+      "code": "AW244047",
+      "date": "2026-09-27",
+      "time": "13:00",
+      "team1": "LA LOUVIERE AM",
+      "team2": "RBC ALLEUR",
+      "category": "COUPE AWBB U14 - GARCONS",
+      "location": "LA LOUVIERE AM",
+      "other": ""
+    },
+    {
+      "code": "AW247044",
+      "date": "2026-09-26",
+      "time": "12:45",
+      "team1": "RBC ALLEUR",
+      "team2": "NAMUR CAPITALE",
+      "category": "COUPE AWBB U16 - FILLES",
+      "location": "RBC ALLEUR",
+      "other": ""
+    },
+    {
       "code": "762011",
       "date": "2026-09-26",
       "time": "15:00",
@@ -63,16 +93,6 @@
       "team2": "RBC AUBEL",
       "category": "CPE PROV PUPILLES MM",
       "location": "RBC ALLEUR A",
-      "other": ""
-    },
-    {
-      "code": "413026",
-      "date": "2026-09-13",
-      "time": "13:00",
-      "team1": "RBC ALLEUR C",
-      "team2": "ROYAL HERVE-BATTICE C",
-      "category": "DD - DIVISION 1",
-      "location": "RBC ALLEUR C",
       "other": ""
     },
     {
@@ -313,16 +333,6 @@
       "team2": "RBC ALLEUR C",
       "category": "DD - DIVISION 1",
       "location": "HANNUT BC",
-      "other": ""
-    },
-    {
-      "code": "415025",
-      "date": "2026-09-13",
-      "time": "17:30",
-      "team1": "BC VERLAINE A",
-      "team2": "RBC ALLEUR D",
-      "category": "DD - DIVISION 2 B",
-      "location": "BC VERLAINE A",
       "other": ""
     },
     {
@@ -786,16 +796,6 @@
       "other": ""
     },
     {
-      "code": "AW106014",
-      "date": "2026-09-12",
-      "time": "20:00",
-      "team1": "BC BONINNE",
-      "team2": "RBC ALLEUR B",
-      "category": "DD - REGIONALE 2 B",
-      "location": "BC BONINNE",
-      "other": ""
-    },
-    {
       "code": "AW106009",
       "date": "2026-09-20",
       "time": "15:00",
@@ -1003,16 +1003,6 @@
       "team2": "RBC ALLEUR B",
       "category": "DD - REGIONALE 2 B",
       "location": "CEP FLEURUS",
-      "other": ""
-    },
-    {
-      "code": "402025",
-      "date": "2026-09-12",
-      "time": "17:00",
-      "team1": "PRAYON TROOZ A",
-      "team2": "RBC ALLEUR C",
-      "category": "MM - DIVISION 2 A",
-      "location": "PRAYON TROOZ A",
       "other": ""
     },
     {
@@ -1256,16 +1246,6 @@
       "other": ""
     },
     {
-      "code": "403024",
-      "date": "2026-09-12",
-      "time": "19:00",
-      "team1": "RBC ALLEUR B",
-      "team2": "ROYAL SPA BC B",
-      "category": "MM - DIVISION 2 B",
-      "location": "RBC ALLEUR B",
-      "other": ""
-    },
-    {
       "code": "403035",
       "date": "2026-09-18",
       "time": "20:00",
@@ -1506,16 +1486,6 @@
       "other": ""
     },
     {
-      "code": "409023",
-      "date": "2026-09-12",
-      "time": "21:00",
-      "team1": "RBC ALLEUR D",
-      "team2": "HANNUT BC C",
-      "category": "MM - DIVISION 4 C",
-      "location": "RBC ALLEUR D",
-      "other": ""
-    },
-    {
       "code": "409031",
       "date": "2026-09-20",
       "time": "13:00",
@@ -1713,16 +1683,6 @@
       "team2": "ORP JAUCHE A",
       "category": "MM - DIVISION 4 C",
       "location": "RBC ALLEUR D",
-      "other": ""
-    },
-    {
-      "code": "410022",
-      "date": "2026-09-13",
-      "time": "13:00",
-      "team1": "RBC VISE D",
-      "team2": "RBC ALLEUR E",
-      "category": "MM - DIVISION 4 D",
-      "location": "RBC VISE D",
       "other": ""
     },
     {
@@ -1933,16 +1893,6 @@
       "team2": "RBC ALLEUR E",
       "category": "MM - DIVISION 4 D",
       "location": "BCM HERSTAL B",
-      "other": ""
-    },
-    {
-      "code": "AW102017",
-      "date": "2026-09-11",
-      "time": "20:30",
-      "team1": "RBC ALLEUR A",
-      "team2": "ROYAL BC NINANE A",
-      "category": "MM - REGIONALE 2 B",
-      "location": "RBC ALLEUR A",
       "other": ""
     },
     {
@@ -2176,16 +2126,6 @@
       "other": ""
     },
     {
-      "code": "525023",
-      "date": "2026-09-12",
-      "time": "14:45",
-      "team1": "RBC ALLEUR A",
-      "team2": "ROYAL HERVE-BATTICE D",
-      "category": "U 10 - MM F",
-      "location": "RBC ALLEUR A",
-      "other": ""
-    },
-    {
       "code": "525031",
       "date": "2026-09-19",
       "time": "11:00",
@@ -2343,16 +2283,6 @@
       "team2": "RBC ALLEUR A",
       "category": "U 10 - MM F",
       "location": "CRISTAL SGH D",
-      "other": ""
-    },
-    {
-      "code": "527022",
-      "date": "2026-09-12",
-      "time": "9:00",
-      "team1": "BC CRISNEE",
-      "team2": "RBC ALLEUR B",
-      "category": "U 10 - MM H",
-      "location": "BC CRISNEE",
       "other": ""
     },
     {
@@ -2532,16 +2462,6 @@
       "team1": "RBC ALLEUR B",
       "team2": "CRISTAL SGH B",
       "category": "U 10 - MM H",
-      "location": "RBC ALLEUR B",
-      "other": ""
-    },
-    {
-      "code": "503023",
-      "date": "2026-09-13",
-      "time": "17:00",
-      "team1": "RBC ALLEUR B",
-      "team2": "HARIMALIA BC A",
-      "category": "U 12 - MM D",
       "location": "RBC ALLEUR B",
       "other": ""
     },
@@ -2736,16 +2656,6 @@
       "other": ""
     },
     {
-      "code": "504022",
-      "date": "2026-09-13",
-      "time": "9:00",
-      "team1": "RBC ALLEUR A",
-      "team2": "UN HUY BASKET B",
-      "category": "U 12 - MM E",
-      "location": "RBC ALLEUR A",
-      "other": ""
-    },
-    {
       "code": "504032",
       "date": "2026-09-19",
       "time": "16:30",
@@ -2936,16 +2846,6 @@
       "other": ""
     },
     {
-      "code": "507022",
-      "date": "2026-09-12",
-      "time": "9:00",
-      "team1": "RBC ALLEUR D",
-      "team2": "LA VILLERSOISE C",
-      "category": "U 12 - MM H",
-      "location": "RBC ALLEUR D",
-      "other": ""
-    },
-    {
       "code": "507032",
       "date": "2026-09-19",
       "time": "9:00",
@@ -3016,16 +2916,6 @@
       "other": ""
     },
     {
-      "code": "507162",
-      "date": "2026-12-19",
-      "time": "9:00",
-      "team1": "RBC ALLEUR D",
-      "team2": "R 4A AYWAILLE-HAMOIR",
-      "category": "U 12 - MM H",
-      "location": "RBC ALLEUR D",
-      "other": ""
-    },
-    {
       "code": "507202",
       "date": "2027-01-17",
       "time": "9:00",
@@ -3066,16 +2956,6 @@
       "other": ""
     },
     {
-      "code": "507286",
-      "date": "2027-03-13",
-      "time": "13:00",
-      "team1": "R 4A AYWAILLE-HAMOIR",
-      "team2": "RBC ALLEUR D",
-      "category": "U 12 - MM H",
-      "location": "R 4A AYWAILLE-HAMOIR",
-      "other": "(ho Hamoir rue du mouli"
-    },
-    {
       "code": "507295",
       "date": "2027-03-20",
       "time": "12:00",
@@ -3098,21 +2978,11 @@
     {
       "code": "507332",
       "date": "2027-04-17",
-      "time": "9:00",
+      "time": "16:30",
       "team1": "RBC ALLEUR D",
       "team2": "ROYAL ANS BC C",
       "category": "U 12 - MM H",
       "location": "RBC ALLEUR D",
-      "other": ""
-    },
-    {
-      "code": "480025",
-      "date": "2026-09-12",
-      "time": "11:00",
-      "team1": "CRISTAL SGH A",
-      "team2": "RBC ALLEUR A",
-      "category": "U 14 - ELITES MM A",
-      "location": "CRISTAL SGH A",
       "other": ""
     },
     {
@@ -3296,26 +3166,6 @@
       "other": ""
     },
     {
-      "code": "492026",
-      "date": "2026-09-12",
-      "time": "16:30",
-      "team1": "RBC ALLEUR B",
-      "team2": "PRAYON TROOZ",
-      "category": "U 14 - PROV MM C",
-      "location": "RBC ALLEUR B",
-      "other": ""
-    },
-    {
-      "code": "492032",
-      "date": "2026-09-19",
-      "time": "15:30",
-      "team1": "DF BC MALMEDY",
-      "team2": "RBC ALLEUR B",
-      "category": "U 14 - PROV MM C",
-      "location": "DF BC MALMEDY",
-      "other": ""
-    },
-    {
       "code": "492066",
       "date": "2026-10-10",
       "time": "16:45",
@@ -3446,16 +3296,6 @@
       "other": ""
     },
     {
-      "code": "AW152009",
-      "date": "2026-09-13",
-      "time": "11:00",
-      "team1": "RBC ALLEUR",
-      "team2": "BBC LIBRAMONT",
-      "category": "U 14 - SILVER REGIONALES A",
-      "location": "RBC ALLEUR",
-      "other": ""
-    },
-    {
       "code": "AW152004",
       "date": "2026-09-20",
       "time": "13:00",
@@ -3533,16 +3373,6 @@
       "team2": "RBC ALLEUR",
       "category": "U 14 - SILVER REGIONALES A",
       "location": "BBC LIBRAMONT",
-      "other": ""
-    },
-    {
-      "code": "451026",
-      "date": "2026-09-13",
-      "time": "15:00",
-      "team1": "RBC ALLEUR",
-      "team2": "RBC ESNEUX A",
-      "category": "U 16 - ELITES MM B",
-      "location": "RBC ALLEUR",
       "other": ""
     },
     {
@@ -3716,16 +3546,6 @@
       "other": ""
     },
     {
-      "code": "AW146008",
-      "date": "2026-09-12",
-      "time": "15:00",
-      "team1": "BC BONINNE",
-      "team2": "RBC ALLEUR",
-      "category": "U 16 - SILVER REGIONALES A",
-      "location": "BC BONINNE",
-      "other": ""
-    },
-    {
       "code": "AW146006",
       "date": "2026-09-19",
       "time": "12:45",
@@ -3806,16 +3626,6 @@
       "other": ""
     },
     {
-      "code": "AW126008",
-      "date": "2026-09-13",
-      "time": "15:00",
-      "team1": "BC BELLEFLAMME",
-      "team2": "RBC ALLEUR",
-      "category": "U 16 - SILVER REGIONAUX D",
-      "location": "BC BELLEFLAMME",
-      "other": ""
-    },
-    {
       "code": "AW126006",
       "date": "2026-09-20",
       "time": "11:00",
@@ -3893,16 +3703,6 @@
       "team2": "BC BELLEFLAMME",
       "category": "U 16 - SILVER REGIONAUX D",
       "location": "RBC ALLEUR",
-      "other": ""
-    },
-    {
-      "code": "430025",
-      "date": "2026-09-12",
-      "time": "17:00",
-      "team1": "ORP JAUCHE",
-      "team2": "RBC ALLEUR",
-      "category": "U 18 - ELITES MM A",
-      "location": "ORP JAUCHE",
       "other": ""
     },
     {
@@ -4086,16 +3886,6 @@
       "other": ""
     },
     {
-      "code": "AW139009",
-      "date": "2026-09-12",
-      "time": "10:45",
-      "team1": "RBC ALLEUR",
-      "team2": "NAMUR CAPITALE",
-      "category": "U 19 - GOLD REGIONALES A",
-      "location": "RBC ALLEUR",
-      "other": ""
-    },
-    {
       "code": "AW139004",
       "date": "2026-09-20",
       "time": "9:00",
@@ -4186,16 +3976,6 @@
       "other": ""
     },
     {
-      "code": "420028",
-      "date": "2026-09-12",
-      "time": "12:45",
-      "team1": "RBC ALLEUR",
-      "team2": "RBC ESNEUX",
-      "category": "U 21 - MM",
-      "location": "RBC ALLEUR",
-      "other": ""
-    },
-    {
       "code": "420032",
       "date": "2026-09-20",
       "time": "10:00",
@@ -4263,16 +4043,6 @@
       "team2": "RBC DISON-ANDRIMONT",
       "category": "U 21 - MM",
       "location": "RBC ALLEUR",
-      "other": ""
-    },
-    {
-      "code": "420112",
-      "date": "2026-11-15",
-      "time": "16:00",
-      "team1": "ROYAL BC NINANE",
-      "team2": "RBC ALLEUR",
-      "category": "U 21 - MM",
-      "location": "ROYAL BC NINANE",
       "other": ""
     },
     {
@@ -4386,16 +4156,6 @@
       "other": ""
     },
     {
-      "code": "420258",
-      "date": "2027-02-20",
-      "time": "14:45",
-      "team1": "RBC ALLEUR",
-      "team2": "ROYAL BC NINANE",
-      "category": "U 21 - MM",
-      "location": "RBC ALLEUR",
-      "other": ""
-    },
-    {
       "code": "420278",
       "date": "2027-03-06",
       "time": "12:45",
@@ -4473,16 +4233,6 @@
       "team2": "RBC ALLEUR",
       "category": "U 21 - MM",
       "location": "ROYAL SPA BC",
-      "other": ""
-    },
-    {
-      "code": "AW111008",
-      "date": "2026-09-13",
-      "time": "13:45",
-      "team1": "ROYAL WATERLOO",
-      "team2": "RBC ALLEUR",
-      "category": "U 21 - SILVER REGIONAUX C",
-      "location": "ROYAL WATERLOO",
       "other": ""
     },
     {

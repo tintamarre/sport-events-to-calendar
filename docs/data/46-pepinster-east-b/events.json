@@ -6,6 +6,26 @@
   },
   "events": [
     {
+      "code": "AW242039",
+      "date": "2026-09-26",
+      "time": "13:00",
+      "team1": "PEPINSTER EAST BELG",
+      "team2": "ESL UNITED",
+      "category": "COUPE AWBB U18 - GARCONS",
+      "location": "PEPINSTER EAST BELG",
+      "other": ""
+    },
+    {
+      "code": "AW246038",
+      "date": "2026-09-27",
+      "time": "13:00",
+      "team1": "MONS CAPITALE",
+      "team2": "PEPINSTER EAST BELG",
+      "category": "COUPE AWBB U19 - FILLES",
+      "location": "MONS CAPITALE",
+      "other": ""
+    },
+    {
       "code": "762016",
       "date": "2026-09-27",
       "time": "13:00",
@@ -43,16 +63,6 @@
       "team2": "PEPINSTER EAST BELG A",
       "category": "CPE PROV PUPILLES MM",
       "location": "RB TILFF A",
-      "other": ""
-    },
-    {
-      "code": "414023",
-      "date": "2026-09-13",
-      "time": "15:00",
-      "team1": "LA VILLERSOISE A",
-      "team2": "PEPINSTER EAST BELG B",
-      "category": "DD - DIVISION 2 A",
-      "location": "LA VILLERSOISE A",
       "other": ""
     },
     {
@@ -296,16 +306,6 @@
       "other": ""
     },
     {
-      "code": "AW104015",
-      "date": "2026-09-12",
-      "time": "19:00",
-      "team1": "UN HUY BASKET B",
-      "team2": "PEPINSTER EAST BELG A",
-      "category": "DD - REGIONALE 1",
-      "location": "UN HUY BASKET B",
-      "other": ""
-    },
-    {
       "code": "AW104012",
       "date": "2026-09-19",
       "time": "17:00",
@@ -503,16 +503,6 @@
       "team2": "CENTRE GAUME RULLES",
       "category": "DD - REGIONALE 1",
       "location": "PEPINSTER EAST BELG A",
-      "other": ""
-    },
-    {
-      "code": "402023",
-      "date": "2026-09-13",
-      "time": "17:00",
-      "team1": "LA VILLERSOISE A",
-      "team2": "PEPINSTER EAST BELG C",
-      "category": "MM - DIVISION 2 A",
-      "location": "LA VILLERSOISE A",
       "other": ""
     },
     {
@@ -756,16 +746,6 @@
       "other": ""
     },
     {
-      "code": "411023",
-      "date": "2026-09-12",
-      "time": "19:30",
-      "team1": "THUNDER CONDROZ",
-      "team2": "PEPINSTER EAST BELG D",
-      "category": "MM - DIVISION 4 E",
-      "location": "THUNDER CONDROZ",
-      "other": ""
-    },
-    {
       "code": "411037",
       "date": "2026-09-19",
       "time": "19:00",
@@ -966,26 +946,6 @@
       "other": ""
     },
     {
-      "code": "AW101016",
-      "date": "2026-09-12",
-      "time": "21:00",
-      "team1": "PEPINSTER EAST BELG B",
-      "team2": "UCCLE EUROPE",
-      "category": "MM - REGIONALE 2 A",
-      "location": "PEPINSTER EAST BELG B",
-      "other": ""
-    },
-    {
-      "code": "AW101009",
-      "date": "2026-09-19",
-      "time": "21:00",
-      "team1": "PEPINSTER EAST BELG B",
-      "team2": "BC SPRIMONT B",
-      "category": "MM - REGIONALE 2 A",
-      "location": "PEPINSTER EAST BELG B",
-      "other": ""
-    },
-    {
       "code": "AW101025",
       "date": "2026-10-03",
       "time": "20:00",
@@ -1051,6 +1011,16 @@
       "time": "15:00",
       "team1": "PEPINSTER EAST BELG B",
       "team2": "CHALET WOL ST PIERRE",
+      "category": "MM - REGIONALE 2 A",
+      "location": "PEPINSTER EAST BELG B",
+      "other": ""
+    },
+    {
+      "code": "AW101009",
+      "date": "2026-11-29",
+      "time": "13:00",
+      "team1": "PEPINSTER EAST BELG B",
+      "team2": "BC SPRIMONT B",
       "category": "MM - REGIONALE 2 A",
       "location": "PEPINSTER EAST BELG B",
       "other": ""
@@ -1203,16 +1173,6 @@
       "team2": "PEPINSTER EAST BELG D (+ 15)",
       "category": "PEPINSTER EAST BELG D (+ 15)",
       "location": "RBC STAVELOT A",
-      "other": ""
-    },
-    {
-      "code": "NAHSE21BDE",
-      "date": "2026-09-12",
-      "time": "19:00",
-      "team1": "PEPINSTER EAST BELG A",
-      "team2": "GUCO LIER B",
-      "category": "TOP DIVISION MEN 2 B",
-      "location": "PEPINSTER EAST BELG A",
       "other": ""
     },
     {
@@ -1636,24 +1596,14 @@
       "other": ""
     },
     {
-      "code": "521022",
-      "date": "2026-09-13",
-      "time": "9:00",
-      "team1": "PEPINSTER EAST BELG B",
-      "team2": "LA VILLERSOISE B",
-      "category": "U 10 - MM B",
-      "location": "PEPINSTER EAST BELG B",
-      "other": ""
-    },
-    {
       "code": "521054",
       "date": "2026-10-04",
-      "time": "10:00",
+      "time": "9:30",
       "team1": "MAIL. COMBLAIN",
       "team2": "PEPINSTER EAST BELG B",
       "category": "U 10 - MM B",
       "location": "MAIL. COMBLAIN",
-      "other": ""
+      "other": "(Ho Hamoir)"
     },
     {
       "code": "521062",
@@ -2166,16 +2116,6 @@
       "other": ""
     },
     {
-      "code": "505023",
-      "date": "2026-09-12",
-      "time": "10:45",
-      "team1": "PEPINSTER EAST BELG C",
-      "team2": "BC BELLEFLAMME C",
-      "category": "U 12 - MM F",
-      "location": "PEPINSTER EAST BELG C",
-      "other": "(Ho du paire)"
-    },
-    {
       "code": "505031",
       "date": "2026-09-20",
       "time": "13:00",
@@ -2354,16 +2294,6 @@
       "category": "U 12 - MM F",
       "location": "PEPINSTER EAST BELG C",
       "other": ""
-    },
-    {
-      "code": "480021",
-      "date": "2026-09-12",
-      "time": "12:45",
-      "team1": "PEPINSTER EAST BELG A",
-      "team2": "ETOILE JUPILLE",
-      "category": "U 14 - ELITES MM A",
-      "location": "PEPINSTER EAST BELG A",
-      "other": "(Ho du paire)"
     },
     {
       "code": "480033",
@@ -2546,26 +2476,6 @@
       "other": ""
     },
     {
-      "code": "490023",
-      "date": "2026-09-13",
-      "time": "11:00",
-      "team1": "PEPINSTER EAST BELG B",
-      "team2": "HARIMALIA BC",
-      "category": "U 14 - PROV MM A",
-      "location": "PEPINSTER EAST BELG B",
-      "other": "(Ho du paire)"
-    },
-    {
-      "code": "490031",
-      "date": "2026-09-19",
-      "time": "9:00",
-      "team1": "ROYAL SPA BC",
-      "team2": "PEPINSTER EAST BELG B",
-      "category": "U 14 - PROV MM A",
-      "location": "ROYAL SPA BC",
-      "other": ""
-    },
-    {
       "code": "490053",
       "date": "2026-10-03",
       "time": "15:00",
@@ -2623,16 +2533,6 @@
       "team2": "PEPINSTER EAST BELG B",
       "category": "U 14 - PROV MM A",
       "location": "CRISTAL SGH B",
-      "other": ""
-    },
-    {
-      "code": "490193",
-      "date": "2027-01-09",
-      "time": "13:00",
-      "team1": "PEPINSTER EAST BELG B",
-      "team2": "ROYAL SPA BC",
-      "category": "U 14 - PROV MM A",
-      "location": "PEPINSTER EAST BELG B",
       "other": ""
     },
     {
@@ -2714,16 +2614,6 @@
       "category": "U 14 - PROV MM A",
       "location": "RJS GRIVEGNEE",
       "other": ""
-    },
-    {
-      "code": "450025",
-      "date": "2026-09-12",
-      "time": "15:00",
-      "team1": "PEPINSTER EAST BELG A",
-      "team2": "BC SPRIMONT",
-      "category": "U 16 - ELITES MM A",
-      "location": "PEPINSTER EAST BELG A",
-      "other": "(Ho du paire)"
     },
     {
       "code": "450051",
@@ -2906,16 +2796,6 @@
       "other": ""
     },
     {
-      "code": "471023",
-      "date": "2026-09-13",
-      "time": "17:00",
-      "team1": "ROYAL ANS BC",
-      "team2": "PEPINSTER EAST BELG B",
-      "category": "U 16 - PROV MM B",
-      "location": "ROYAL ANS BC",
-      "other": ""
-    },
-    {
       "code": "471036",
       "date": "2026-09-19",
       "time": "17:00",
@@ -3056,26 +2936,6 @@
       "other": ""
     },
     {
-      "code": "431022",
-      "date": "2026-09-13",
-      "time": "13:00",
-      "team1": "PEPINSTER EAST BELG",
-      "team2": "COLLEGE S LOUIS",
-      "category": "U 18 - ELITES MM B",
-      "location": "PEPINSTER EAST BELG",
-      "other": "(Ho du paire)"
-    },
-    {
-      "code": "431032",
-      "date": "2026-09-20",
-      "time": "9:00",
-      "team1": "PEPINSTER EAST BELG",
-      "team2": "RABC ENSIVAL",
-      "category": "U 18 - ELITES MM B",
-      "location": "PEPINSTER EAST BELG",
-      "other": ""
-    },
-    {
       "code": "431054",
       "date": "2026-10-03",
       "time": "11:00",
@@ -3093,6 +2953,16 @@
       "team2": "PEPINSTER EAST BELG",
       "category": "U 18 - ELITES MM B",
       "location": "RBC ESNEUX",
+      "other": ""
+    },
+    {
+      "code": "431032",
+      "date": "2026-10-25",
+      "time": "16:00",
+      "team1": "PEPINSTER EAST BELG",
+      "team2": "RABC ENSIVAL",
+      "category": "U 18 - ELITES MM B",
+      "location": "PEPINSTER EAST BELG",
       "other": ""
     },
     {
@@ -3263,16 +3133,6 @@
       "team2": "BC VERVIERS A",
       "category": "U 18 - ELITES MM B",
       "location": "PEPINSTER EAST BELG",
-      "other": ""
-    },
-    {
-      "code": "AW141010",
-      "date": "2026-09-12",
-      "time": "13:00",
-      "team1": "BC BONINNE",
-      "team2": "PEPINSTER EAST BELG",
-      "category": "U 19 - SILVER REGIONALES A",
-      "location": "BC BONINNE",
       "other": ""
     },
     {
@@ -3558,7 +3418,7 @@
     {
       "code": "551032",
       "date": "2026-09-19",
-      "time": "14:45",
+      "time": "14:15",
       "team1": "PEPINSTER EAST BELG B",
       "team2": "R 4A AYWAILLE-HAMOIR B",
       "category": "U 7 - MM B",
@@ -4048,7 +3908,7 @@
     {
       "code": "541242",
       "date": "2027-02-13",
-      "time": "10:45",
+      "time": "9:00",
       "team1": "PEPINSTER EAST BELG B",
       "team2": "RBC AUBEL B",
       "category": "U 8 - MM B",

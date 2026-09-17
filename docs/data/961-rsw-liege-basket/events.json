@@ -6,6 +6,16 @@
   },
   "events": [
     {
+      "code": "AW242043",
+      "date": "2026-09-26",
+      "time": "14:30",
+      "team1": "RSW LIEGE BASKET A",
+      "team2": "BC FRAIRE-PHILIPPEVILLE",
+      "category": "COUPE AWBB U18 - GARCONS",
+      "location": "RSW LIEGE BASKET A",
+      "other": ""
+    },
+    {
       "code": "760003",
       "date": "2026-09-26",
       "time": "17:00",
@@ -223,16 +233,6 @@
       "team2": "RBC VISE D",
       "category": "MM - DIVISION 4 D",
       "location": "RSW LIEGE BASKET C",
-      "other": ""
-    },
-    {
-      "code": "AW100020",
-      "date": "2026-09-12",
-      "time": "21:00",
-      "team1": "RCS NATOYE",
-      "team2": "RSW LIEGE BASKET A",
-      "category": "MM - REGIONALE 1",
-      "location": "RCS NATOYE",
       "other": ""
     },
     {
@@ -746,16 +746,6 @@
       "other": ""
     },
     {
-      "code": "521021",
-      "date": "2026-09-12",
-      "time": "9:00",
-      "team1": "RSW LIEGE BASKET",
-      "team2": "MAIL. COMBLAIN",
-      "category": "U 10 - MM B",
-      "location": "RSW LIEGE BASKET",
-      "other": ""
-    },
-    {
       "code": "521033",
       "date": "2026-09-19",
       "time": "12:30",
@@ -913,16 +903,6 @@
       "team2": "RSW LIEGE BASKET",
       "category": "U 10 - MM B",
       "location": "BC SPRIMONT D",
-      "other": ""
-    },
-    {
-      "code": "500024",
-      "date": "2026-09-12",
-      "time": "9:00",
-      "team1": "BC BELLEFLAMME",
-      "team2": "RSW LIEGE BASKET",
-      "category": "U 12 - MM A",
-      "location": "BC BELLEFLAMME",
       "other": ""
     },
     {
@@ -1136,16 +1116,6 @@
       "other": ""
     },
     {
-      "code": "AW135007",
-      "date": "2026-09-12",
-      "time": "15:00",
-      "team1": "RCS NATOYE",
-      "team2": "RSW LIEGE BASKET",
-      "category": "U 14 - BRONZE REGIONAUX A",
-      "location": "RCS NATOYE",
-      "other": ""
-    },
-    {
       "code": "AW135004",
       "date": "2026-09-19",
       "time": "12:00",
@@ -1222,16 +1192,6 @@
       "team1": "RSW LIEGE BASKET",
       "team2": "RCS NATOYE",
       "category": "U 14 - BRONZE REGIONAUX A",
-      "location": "RSW LIEGE BASKET",
-      "other": ""
-    },
-    {
-      "code": "AW114017",
-      "date": "2026-09-12",
-      "time": "11:00",
-      "team1": "RSW LIEGE BASKET",
-      "team2": "B55 ACADEMY XL",
-      "category": "U 18 - GOLD REGIONAUX B",
       "location": "RSW LIEGE BASKET",
       "other": ""
     },
@@ -1313,16 +1273,6 @@
       "team2": "RSW LIEGE BASKET",
       "category": "U 18 - GOLD REGIONAUX B",
       "location": "B55 ACADEMY XL",
-      "other": ""
-    },
-    {
-      "code": "AW110008",
-      "date": "2026-09-12",
-      "time": "17:00",
-      "team1": "R UAA ETTERBEEK",
-      "team2": "RSW LIEGE BASKET",
-      "category": "U 21 - SILVER REGIONAUX B",
-      "location": "R UAA ETTERBEEK",
       "other": ""
     },
     {
@@ -1608,11 +1558,11 @@
     {
       "code": "543061",
       "date": "2026-10-10",
-      "time": "10:30",
-      "team1": "RSW LIEGE BASKET",
-      "team2": "VAIL. JUPILLE B",
+      "time": "9:00",
+      "team1": "VAIL. JUPILLE B",
+      "team2": "RSW LIEGE BASKET",
       "category": "U 8 - MM D",
-      "location": "RSW LIEGE BASKET",
+      "location": "VAIL. JUPILLE B",
       "other": ""
     },
     {
@@ -1738,11 +1688,11 @@
     {
       "code": "543301",
       "date": "2027-03-27",
-      "time": "9:00",
-      "team1": "VAIL. JUPILLE B",
-      "team2": "RSW LIEGE BASKET",
+      "time": "12:30",
+      "team1": "RSW LIEGE BASKET",
+      "team2": "VAIL. JUPILLE B",
       "category": "U 8 - MM D",
-      "location": "VAIL. JUPILLE B",
+      "location": "RSW LIEGE BASKET",
       "other": ""
     },
     {

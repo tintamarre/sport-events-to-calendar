@@ -6,6 +6,26 @@
   },
   "events": [
     {
+      "code": "AW248043",
+      "date": "2026-09-27",
+      "time": "12:00",
+      "team1": "R MURPROTEC NIVELLES",
+      "team2": "PRAYON TROOZ",
+      "category": "COUPE AWBB U14 - FILLES",
+      "location": "R MURPROTEC NIVELLES",
+      "other": ""
+    },
+    {
+      "code": "AW246048",
+      "date": "2026-09-26",
+      "time": "13:00",
+      "team1": "PRAYON TROOZ",
+      "team2": "EAST BELGIUM BCA A",
+      "category": "COUPE AWBB U19 - FILLES",
+      "location": "PRAYON TROOZ",
+      "other": ""
+    },
+    {
       "code": "762012",
       "date": "2026-09-26",
       "time": "15:00",
@@ -46,16 +66,6 @@
       "other": ""
     },
     {
-      "code": "414024",
-      "date": "2026-09-13",
-      "time": "12:00",
-      "team1": "PRAYON TROOZ B",
-      "team2": "ROYALE US AWANS",
-      "category": "DD - DIVISION 2 A",
-      "location": "PRAYON TROOZ B",
-      "other": ""
-    },
-    {
       "code": "414035",
       "date": "2026-09-19",
       "time": "19:30",
@@ -63,7 +73,7 @@
       "team2": "PRAYON TROOZ B",
       "category": "DD - DIVISION 2 A",
       "location": "CRISTAL SGH A",
-      "other": ""
+      "other": "(18 Bonniers)"
     },
     {
       "code": "414052",
@@ -296,26 +306,6 @@
       "other": ""
     },
     {
-      "code": "415026",
-      "date": "2026-09-13",
-      "time": "16:00",
-      "team1": "PRAYON TROOZ C",
-      "team2": "HENRI-CHAPELLE B",
-      "category": "DD - DIVISION 2 B",
-      "location": "PRAYON TROOZ C",
-      "other": ""
-    },
-    {
-      "code": "415016",
-      "date": "2026-09-26",
-      "time": "17:00",
-      "team1": "PRAYON TROOZ C",
-      "team2": "RBC HANEFFE C",
-      "category": "DD - DIVISION 2 B",
-      "location": "PRAYON TROOZ C",
-      "other": ""
-    },
-    {
       "code": "415057",
       "date": "2026-10-03",
       "time": "19:00",
@@ -486,6 +476,16 @@
       "other": ""
     },
     {
+      "code": "415016",
+      "date": "2027-02-27",
+      "time": "19:00",
+      "team1": "PRAYON TROOZ C",
+      "team2": "RBC HANEFFE C",
+      "category": "DD - DIVISION 2 B",
+      "location": "PRAYON TROOZ C",
+      "other": ""
+    },
+    {
       "code": "415271",
       "date": "2027-03-06",
       "time": "17:00",
@@ -553,16 +553,6 @@
       "team2": "ROYAL BC NINANE A",
       "category": "DD - DIVISION 2 B",
       "location": "PRAYON TROOZ C",
-      "other": ""
-    },
-    {
-      "code": "418025",
-      "date": "2026-09-13",
-      "time": "14:00",
-      "team1": "PRAYON TROOZ D",
-      "team2": "R HT-PRE OUGREE B",
-      "category": "DD - DIVISION 3 C",
-      "location": "PRAYON TROOZ D",
       "other": ""
     },
     {
@@ -936,16 +926,6 @@
       "other": ""
     },
     {
-      "code": "402025",
-      "date": "2026-09-12",
-      "time": "17:00",
-      "team1": "PRAYON TROOZ A",
-      "team2": "RBC ALLEUR C",
-      "category": "MM - DIVISION 2 A",
-      "location": "PRAYON TROOZ A",
-      "other": ""
-    },
-    {
       "code": "402036",
       "date": "2026-09-19",
       "time": "21:00",
@@ -1183,16 +1163,6 @@
       "team2": "LA VILLERSOISE A",
       "category": "MM - DIVISION 2 A",
       "location": "PRAYON TROOZ A",
-      "other": ""
-    },
-    {
-      "code": "407025",
-      "date": "2026-09-12",
-      "time": "19:00",
-      "team1": "PRAYON TROOZ B",
-      "team2": "R 4A AYWAILLE-HAMOIR D",
-      "category": "MM - DIVISION 4 A",
-      "location": "PRAYON TROOZ B",
       "other": ""
     },
     {
@@ -1616,16 +1586,6 @@
       "other": ""
     },
     {
-      "code": "526025",
-      "date": "2026-09-13",
-      "time": "9:00",
-      "team1": "PRAYON TROOZ",
-      "team2": "BBC EUPEN",
-      "category": "U 10 - MM G",
-      "location": "PRAYON TROOZ",
-      "other": ""
-    },
-    {
       "code": "526034",
       "date": "2026-09-19",
       "time": "10:00",
@@ -1633,6 +1593,16 @@
       "team2": "PRAYON TROOZ",
       "category": "U 10 - MM G",
       "location": "RBC AUBEL B",
+      "other": ""
+    },
+    {
+      "code": "526145",
+      "date": "2026-09-26",
+      "time": "11:00",
+      "team1": "PRAYON TROOZ",
+      "team2": "THEUX BC B",
+      "category": "U 10 - MM G",
+      "location": "PRAYON TROOZ",
       "other": ""
     },
     {
@@ -1686,16 +1656,6 @@
       "other": ""
     },
     {
-      "code": "526145",
-      "date": "2026-12-05",
-      "time": "11:00",
-      "team1": "PRAYON TROOZ",
-      "team2": "THEUX BC B",
-      "category": "U 10 - MM G",
-      "location": "PRAYON TROOZ",
-      "other": ""
-    },
-    {
       "code": "526195",
       "date": "2027-01-10",
       "time": "9:00",
@@ -1736,16 +1696,6 @@
       "other": ""
     },
     {
-      "code": "526245",
-      "date": "2027-02-14",
-      "time": "9:00",
-      "team1": "PRAYON TROOZ",
-      "team2": "BC SANKT VITH",
-      "category": "U 10 - MM G",
-      "location": "PRAYON TROOZ",
-      "other": ""
-    },
-    {
       "code": "526295",
       "date": "2027-03-21",
       "time": "10:30",
@@ -1763,6 +1713,16 @@
       "team2": "PRAYON TROOZ",
       "category": "U 10 - MM G",
       "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "526245",
+      "date": "2027-04-03",
+      "time": "12:00",
+      "team1": "PRAYON TROOZ",
+      "team2": "BC SANKT VITH",
+      "category": "U 10 - MM G",
+      "location": "PRAYON TROOZ",
       "other": ""
     },
     {
@@ -1786,16 +1746,6 @@
       "other": ""
     },
     {
-      "code": "501025",
-      "date": "2026-09-13",
-      "time": "10:30",
-      "team1": "PRAYON TROOZ A",
-      "team2": "HENRI-CHAPELLE A",
-      "category": "U 12 - MM B",
-      "location": "PRAYON TROOZ A",
-      "other": ""
-    },
-    {
       "code": "501036",
       "date": "2026-09-19",
       "time": "11:00",
@@ -1803,7 +1753,7 @@
       "team2": "PRAYON TROOZ A",
       "category": "U 12 - MM B",
       "location": "CRISTAL SGH B",
-      "other": ""
+      "other": "(E Av de centenaire ougr"
     },
     {
       "code": "501155",
@@ -2013,16 +1963,6 @@
       "team2": "UN HUY BASKET A",
       "category": "U 12 - MM B",
       "location": "PRAYON TROOZ A",
-      "other": ""
-    },
-    {
-      "code": "505025",
-      "date": "2026-09-13",
-      "time": "10:30",
-      "team1": "PRAYON TROOZ B",
-      "team2": "RABC ENSIVAL A",
-      "category": "U 12 - MM F",
-      "location": "PRAYON TROOZ B",
       "other": ""
     },
     {
@@ -2366,16 +2306,6 @@
       "other": ""
     },
     {
-      "code": "492026",
-      "date": "2026-09-12",
-      "time": "16:30",
-      "team1": "RBC ALLEUR B",
-      "team2": "PRAYON TROOZ",
-      "category": "U 14 - PROV MM C",
-      "location": "RBC ALLEUR B",
-      "other": ""
-    },
-    {
       "code": "492062",
       "date": "2026-10-10",
       "time": "15:30",
@@ -2526,16 +2456,6 @@
       "other": ""
     },
     {
-      "code": "AW153008",
-      "date": "2026-09-12",
-      "time": "13:00",
-      "team1": "PRAYON TROOZ",
-      "team2": "LA VILLERSOISE",
-      "category": "U 14 - SILVER REGIONALES B",
-      "location": "PRAYON TROOZ",
-      "other": ""
-    },
-    {
       "code": "AW153005",
       "date": "2026-09-19",
       "time": "13:00",
@@ -2603,16 +2523,6 @@
       "team2": "PRAYON TROOZ",
       "category": "U 14 - SILVER REGIONALES B",
       "location": "LA VILLERSOISE",
-      "other": ""
-    },
-    {
-      "code": "590025",
-      "date": "2026-09-12",
-      "time": "9:00",
-      "team1": "PRAYON TROOZ",
-      "team2": "ALL. FLEMALLE C",
-      "category": "U 16 - DD A",
-      "location": "PRAYON TROOZ",
       "other": ""
     },
     {
@@ -2926,16 +2836,6 @@
       "other": ""
     },
     {
-      "code": "431025",
-      "date": "2026-09-12",
-      "time": "11:30",
-      "team1": "ROYAL MOSA AC 1941",
-      "team2": "PRAYON TROOZ",
-      "category": "U 18 - ELITES MM B",
-      "location": "ROYAL MOSA AC 1941",
-      "other": ""
-    },
-    {
       "code": "431036",
       "date": "2026-09-19",
       "time": "15:00",
@@ -3132,16 +3032,6 @@
       "team1": "PRAYON TROOZ",
       "team2": "BC BELLEFLAMME A",
       "category": "U 18 - ELITES MM B",
-      "location": "PRAYON TROOZ",
-      "other": ""
-    },
-    {
-      "code": "580026",
-      "date": "2026-09-12",
-      "time": "11:00",
-      "team1": "PRAYON TROOZ",
-      "team2": "LA VILLERSOISE",
-      "category": "U 19 - DD",
       "location": "PRAYON TROOZ",
       "other": ""
     },
@@ -3422,16 +3312,6 @@
       "team1": "PRAYON TROOZ",
       "team2": "ROYAL BC WANZE",
       "category": "U 19 - DD",
-      "location": "PRAYON TROOZ",
-      "other": ""
-    },
-    {
-      "code": "AW142012",
-      "date": "2026-09-12",
-      "time": "15:00",
-      "team1": "PRAYON TROOZ",
-      "team2": "LIEGE PANTHERS",
-      "category": "U 19 - SILVER REGIONALES B",
       "location": "PRAYON TROOZ",
       "other": ""
     },

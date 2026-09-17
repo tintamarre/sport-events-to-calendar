@@ -6,6 +6,16 @@
   },
   "events": [
     {
+      "code": "102",
+      "date": "2026-09-27",
+      "time": "13:30",
+      "team1": "MAIL. COMBLAIN (+  5)",
+      "team2": "OLYMPIC MSM A",
+      "category": "COUPE AWBB MESSIEURS",
+      "location": "MAIL. COMBLAIN (+  5)",
+      "other": ""
+    },
+    {
       "code": "760510",
       "date": "2026-09-27",
       "time": "17:00",
@@ -236,26 +246,6 @@
       "other": ""
     },
     {
-      "code": "408021",
-      "date": "2026-09-13",
-      "time": "15:00",
-      "team1": "BC TORES LIEGE",
-      "team2": "MAIL. COMBLAIN B",
-      "category": "MM - DIVISION 4 B",
-      "location": "BC TORES LIEGE",
-      "other": ""
-    },
-    {
-      "code": "408034",
-      "date": "2026-09-20",
-      "time": "12:00",
-      "team1": "MAIL. COMBLAIN B",
-      "team2": "R REN. MONTEGNEE",
-      "category": "MM - DIVISION 4 B",
-      "location": "MAIL. COMBLAIN B",
-      "other": ""
-    },
-    {
       "code": "408054",
       "date": "2026-10-03",
       "time": "18:00",
@@ -291,6 +281,16 @@
       "time": "18:00",
       "team1": "MAIL. COMBLAIN B",
       "team2": "RBC DISON-ANDRIMONT C",
+      "category": "MM - DIVISION 4 B",
+      "location": "MAIL. COMBLAIN B",
+      "other": ""
+    },
+    {
+      "code": "408034",
+      "date": "2026-10-31",
+      "time": "18:00",
+      "team1": "MAIL. COMBLAIN B",
+      "team2": "R REN. MONTEGNEE",
       "category": "MM - DIVISION 4 B",
       "location": "MAIL. COMBLAIN B",
       "other": ""
@@ -443,16 +443,6 @@
       "team2": "MAIL. COMBLAIN B",
       "category": "MM - DIVISION 4 B",
       "location": "RBC DISON-ANDRIMONT C",
-      "other": ""
-    },
-    {
-      "code": "AW101015",
-      "date": "2026-09-12",
-      "time": "18:30",
-      "team1": "UNITED B WOLUWE",
-      "team2": "MAIL. COMBLAIN A",
-      "category": "MM - REGIONALE 2 A",
-      "location": "UNITED B WOLUWE",
       "other": ""
     },
     {
@@ -676,16 +666,6 @@
       "other": ""
     },
     {
-      "code": "521021",
-      "date": "2026-09-12",
-      "time": "9:00",
-      "team1": "RSW LIEGE BASKET",
-      "team2": "MAIL. COMBLAIN",
-      "category": "U 10 - MM B",
-      "location": "RSW LIEGE BASKET",
-      "other": ""
-    },
-    {
       "code": "521034",
       "date": "2026-09-20",
       "time": "14:00",
@@ -708,12 +688,12 @@
     {
       "code": "521054",
       "date": "2026-10-04",
-      "time": "10:00",
+      "time": "9:30",
       "team1": "MAIL. COMBLAIN",
       "team2": "PEPINSTER EAST BELG B",
       "category": "U 10 - MM B",
       "location": "MAIL. COMBLAIN",
-      "other": ""
+      "other": "(Ho Hamoir)"
     },
     {
       "code": "521063",
@@ -846,16 +826,6 @@
       "other": ""
     },
     {
-      "code": "502021",
-      "date": "2026-09-13",
-      "time": "9:00",
-      "team1": "LA VILLERSOISE B",
-      "team2": "MAIL. COMBLAIN",
-      "category": "U 12 - MM C",
-      "location": "LA VILLERSOISE B",
-      "other": ""
-    },
-    {
       "code": "502196",
       "date": "2026-09-19",
       "time": "15:00",
@@ -868,7 +838,7 @@
     {
       "code": "502054",
       "date": "2026-10-04",
-      "time": "12:00",
+      "time": "13:00",
       "team1": "MAIL. COMBLAIN",
       "team2": "RB TILFF A",
       "category": "U 12 - MM C",
@@ -1076,16 +1046,6 @@
       "other": ""
     },
     {
-      "code": "600021",
-      "date": "2026-09-13",
-      "time": "9:00",
-      "team1": "ATLAS A JUPILLE",
-      "team2": "MAIL. COMBLAIN",
-      "category": "U 14 - DD A",
-      "location": "ATLAS A JUPILLE",
-      "other": ""
-    },
-    {
       "code": "600195",
       "date": "2026-09-19",
       "time": "15:00",
@@ -1097,13 +1057,13 @@
     },
     {
       "code": "600054",
-      "date": "2026-10-03",
-      "time": "14:00",
+      "date": "2026-10-04",
+      "time": "13:00",
       "team1": "MAIL. COMBLAIN",
       "team2": "R REN. MONTEGNEE",
       "category": "U 14 - DD A",
       "location": "MAIL. COMBLAIN",
-      "other": ""
+      "other": "(Ho Hamoir)"
     },
     {
       "code": "600063",
@@ -1233,16 +1193,6 @@
       "team2": "MAIL. COMBLAIN",
       "category": "U 14 - DD A",
       "location": "ALL. FLEMALLE",
-      "other": ""
-    },
-    {
-      "code": "491021",
-      "date": "2026-09-13",
-      "time": "13:00",
-      "team1": "RBC AWANS B",
-      "team2": "MAIL. COMBLAIN",
-      "category": "U 14 - PROV MM B",
-      "location": "RBC AWANS B",
       "other": ""
     },
     {
@@ -1566,16 +1516,6 @@
       "other": ""
     },
     {
-      "code": "420021",
-      "date": "2026-09-12",
-      "time": "17:00",
-      "team1": "RBC AWANS",
-      "team2": "MAIL. COMBLAIN",
-      "category": "U 21 - MM",
-      "location": "RBC AWANS",
-      "other": ""
-    },
-    {
       "code": "420034",
       "date": "2026-09-19",
       "time": "12:30",
@@ -1587,8 +1527,8 @@
     },
     {
       "code": "420054",
-      "date": "2026-10-03",
-      "time": "16:00",
+      "date": "2026-10-04",
+      "time": "11:00",
       "team1": "MAIL. COMBLAIN",
       "team2": "BC COINTE",
       "category": "U 21 - MM",
@@ -1683,16 +1623,6 @@
       "team2": "MAIL. COMBLAIN",
       "category": "U 21 - MM",
       "location": "BBC EUPEN",
-      "other": ""
-    },
-    {
-      "code": "420152",
-      "date": "2026-12-13",
-      "time": "11:00",
-      "team1": "ROYAL BC NINANE",
-      "team2": "MAIL. COMBLAIN",
-      "category": "U 21 - MM",
-      "location": "ROYAL BC NINANE",
       "other": ""
     },
     {
@@ -1836,16 +1766,6 @@
       "other": ""
     },
     {
-      "code": "420334",
-      "date": "2027-04-17",
-      "time": "16:00",
-      "team1": "MAIL. COMBLAIN",
-      "team2": "ROYAL BC NINANE",
-      "category": "U 21 - MM",
-      "location": "MAIL. COMBLAIN",
-      "other": ""
-    },
-    {
       "code": "420346",
       "date": "2027-04-24",
       "time": "15:00",
@@ -1868,12 +1788,12 @@
     {
       "code": "543054",
       "date": "2026-10-04",
-      "time": "14:00",
+      "time": "9:30",
       "team1": "MAIL. COMBLAIN",
       "team2": "R.UN.BELLAIRE",
       "category": "U 8 - MM D",
       "location": "MAIL. COMBLAIN",
-      "other": ""
+      "other": "(Ho Hamoir)"
     },
     {
       "code": "543063",
@@ -1928,7 +1848,7 @@
     {
       "code": "543164",
       "date": "2026-12-20",
-      "time": "14:00",
+      "time": "16:00",
       "team1": "MAIL. COMBLAIN",
       "team2": "VAIL. JUPILLE B",
       "category": "U 8 - MM D",

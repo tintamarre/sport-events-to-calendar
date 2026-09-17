@@ -6,6 +6,16 @@
   },
   "events": [
     {
+      "code": "101",
+      "date": "2026-09-25",
+      "time": "21:00",
+      "team1": "ROYAL SPA BC (+  5)",
+      "team2": "BC VERVIERS",
+      "category": "COUPE AWBB MESSIEURS",
+      "location": "ROYAL SPA BC (+  5)",
+      "other": ""
+    },
+    {
       "code": "762011",
       "date": "2026-09-26",
       "time": "15:00",
@@ -33,16 +43,6 @@
       "team2": "BC VERVIERS D (+ 5)",
       "category": "CPE PROV MESSIEURS",
       "location": "FLERON BBC A",
-      "other": ""
-    },
-    {
-      "code": "402022",
-      "date": "2026-09-12",
-      "time": "17:00",
-      "team1": "RBC VISE A",
-      "team2": "BC VERVIERS B",
-      "category": "MM - DIVISION 2 A",
-      "location": "RBC VISE A",
       "other": ""
     },
     {
@@ -293,16 +293,6 @@
       "team2": "BC VERVIERS B",
       "category": "MM - DIVISION 2 A",
       "location": "ROYAL MOSA AC 1941 A",
-      "other": ""
-    },
-    {
-      "code": "403023",
-      "date": "2026-09-12",
-      "time": "17:30",
-      "team1": "BC VERVIERS C",
-      "team2": "HARIMALIA BC A",
-      "category": "MM - DIVISION 2 B",
-      "location": "BC VERVIERS C",
       "other": ""
     },
     {
@@ -806,16 +796,6 @@
       "other": ""
     },
     {
-      "code": "AW100018",
-      "date": "2026-09-12",
-      "time": "21:00",
-      "team1": "BC BELLEFLAMME A",
-      "team2": "BC VERVIERS A",
-      "category": "MM - REGIONALE 1",
-      "location": "BC BELLEFLAMME A",
-      "other": ""
-    },
-    {
       "code": "AW100011",
       "date": "2026-09-19",
       "time": "21:00",
@@ -1096,16 +1076,6 @@
       "other": ""
     },
     {
-      "code": "524022",
-      "date": "2026-09-12",
-      "time": "9:00",
-      "team1": "ROYAL BC NINANE B",
-      "team2": "BC VERVIERS",
-      "category": "U 10 - MM E",
-      "location": "ROYAL BC NINANE B",
-      "other": ""
-    },
-    {
       "code": "524033",
       "date": "2026-09-19",
       "time": "12:30",
@@ -1263,16 +1233,6 @@
       "team2": "RBC DISON-ANDRIMONT B",
       "category": "U 10 - MM E",
       "location": "BC VERVIERS",
-      "other": ""
-    },
-    {
-      "code": "430022",
-      "date": "2026-09-12",
-      "time": "15:00",
-      "team1": "R 4A AYWAILLE-HAMOIR",
-      "team2": "BC VERVIERS B",
-      "category": "U 18 - ELITES MM A",
-      "location": "R 4A AYWAILLE-HAMOIR",
       "other": ""
     },
     {
@@ -1453,16 +1413,6 @@
       "team2": "ORP JAUCHE",
       "category": "U 18 - ELITES MM A",
       "location": "BC VERVIERS B",
-      "other": ""
-    },
-    {
-      "code": "431024",
-      "date": "2026-09-12",
-      "time": "15:30",
-      "team1": "BC VERVIERS A",
-      "team2": "BC BELLEFLAMME A",
-      "category": "U 18 - ELITES MM B",
-      "location": "BC VERVIERS A",
       "other": ""
     },
     {

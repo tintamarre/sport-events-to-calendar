@@ -26,16 +26,6 @@
       "other": ""
     },
     {
-      "code": "760021",
-      "date": "2026-09-25",
-      "time": "21:00",
-      "team1": "BC BELLEFLAMME B",
-      "team2": "RABC ENSIVAL A (+ 5)",
-      "category": "CPE PROV MESSIEURS",
-      "location": "BC BELLEFLAMME B",
-      "other": ""
-    },
-    {
       "code": "760015",
       "date": "2026-09-26",
       "time": "17:00",
@@ -43,6 +33,16 @@
       "team2": "ROYAL ANS BC",
       "category": "CPE PROV MESSIEURS",
       "location": "RABC ENSIVAL D",
+      "other": ""
+    },
+    {
+      "code": "760021",
+      "date": "2026-09-27",
+      "time": "14:00",
+      "team1": "BC BELLEFLAMME B",
+      "team2": "RABC ENSIVAL A (+ 5)",
+      "category": "CPE PROV MESSIEURS",
+      "location": "BC BELLEFLAMME B",
       "other": ""
     },
     {
@@ -63,16 +63,6 @@
       "team2": "ROYAL BC NINANE",
       "category": "CPE PROV PUPILLES MM",
       "location": "RABC ENSIVAL A",
-      "other": ""
-    },
-    {
-      "code": "413021",
-      "date": "2026-09-13",
-      "time": "17:00",
-      "team1": "HENRI-CHAPELLE A",
-      "team2": "RABC ENSIVAL",
-      "category": "DD - DIVISION 1",
-      "location": "HENRI-CHAPELLE A",
       "other": ""
     },
     {
@@ -316,16 +306,6 @@
       "other": ""
     },
     {
-      "code": "402021",
-      "date": "2026-09-12",
-      "time": "19:00",
-      "team1": "ATLAS A JUPILLE B",
-      "team2": "RABC ENSIVAL A",
-      "category": "MM - DIVISION 2 A",
-      "location": "ATLAS A JUPILLE B",
-      "other": ""
-    },
-    {
       "code": "402034",
       "date": "2026-09-19",
       "time": "19:00",
@@ -563,16 +543,6 @@
       "team2": "RABC ENSIVAL A",
       "category": "MM - DIVISION 2 A",
       "location": "ROYAL SPA BC C",
-      "other": ""
-    },
-    {
-      "code": "404023",
-      "date": "2026-09-12",
-      "time": "19:00",
-      "team1": "RABC ENSIVAL B",
-      "team2": "HARIMALIA BC B",
-      "category": "MM - DIVISION 3 A",
-      "location": "RABC ENSIVAL B",
       "other": ""
     },
     {
@@ -816,16 +786,6 @@
       "other": ""
     },
     {
-      "code": "406023",
-      "date": "2026-09-12",
-      "time": "21:00",
-      "team1": "RABC ENSIVAL C",
-      "team2": "RBC WELKENRAEDT A",
-      "category": "MM - DIVISION 3 C",
-      "location": "RABC ENSIVAL C",
-      "other": ""
-    },
-    {
       "code": "406031",
       "date": "2026-09-19",
       "time": "20:00",
@@ -1066,16 +1026,6 @@
       "other": ""
     },
     {
-      "code": "407024",
-      "date": "2026-09-12",
-      "time": "17:00",
-      "team1": "RABC ENSIVAL D",
-      "team2": "ROYAL SPA BC D",
-      "category": "MM - DIVISION 4 A",
-      "location": "RABC ENSIVAL D",
-      "other": ""
-    },
-    {
       "code": "407052",
       "date": "2026-10-02",
       "time": "20:30",
@@ -1276,16 +1226,6 @@
       "other": ""
     },
     {
-      "code": "525025",
-      "date": "2026-09-12",
-      "time": "11:45",
-      "team1": "RBC BLEGNY B",
-      "team2": "RABC ENSIVAL B",
-      "category": "U 10 - MM F",
-      "location": "RBC BLEGNY B",
-      "other": ""
-    },
-    {
       "code": "525036",
       "date": "2026-09-20",
       "time": "9:00",
@@ -1446,16 +1386,6 @@
       "other": ""
     },
     {
-      "code": "526026",
-      "date": "2026-09-12",
-      "time": "11:00",
-      "team1": "RABC ENSIVAL A",
-      "team2": "RBC DISON-ANDRIMONT A",
-      "category": "U 10 - MM G",
-      "location": "RABC ENSIVAL A",
-      "other": ""
-    },
-    {
       "code": "526032",
       "date": "2026-09-19",
       "time": "12:00",
@@ -1613,16 +1543,6 @@
       "team2": "RABC ENSIVAL A",
       "category": "U 10 - MM G",
       "location": "HENRI-CHAPELLE B",
-      "other": ""
-    },
-    {
-      "code": "505025",
-      "date": "2026-09-13",
-      "time": "10:30",
-      "team1": "PRAYON TROOZ B",
-      "team2": "RABC ENSIVAL A",
-      "category": "U 12 - MM F",
-      "location": "PRAYON TROOZ B",
       "other": ""
     },
     {
@@ -1806,16 +1726,6 @@
       "other": ""
     },
     {
-      "code": "506021",
-      "date": "2026-09-12",
-      "time": "9:00",
-      "team1": "RBC STAVELOT B",
-      "team2": "RABC ENSIVAL B",
-      "category": "U 12 - MM G",
-      "location": "RBC STAVELOT B",
-      "other": ""
-    },
-    {
       "code": "506034",
       "date": "2026-09-19",
       "time": "9:00",
@@ -1868,7 +1778,7 @@
     {
       "code": "506124",
       "date": "2026-11-21",
-      "time": "11:00",
+      "time": "9:00",
       "team1": "RABC ENSIVAL B",
       "team2": "ROYAL HERVE-BATTICE D",
       "category": "U 12 - MM G",
@@ -1997,7 +1907,7 @@
     },
     {
       "code": "601063",
-      "date": "2026-10-11",
+      "date": "2026-10-10",
       "time": "11:00",
       "team1": "RABC ENSIVAL",
       "team2": "RBC AUBEL",
@@ -2326,16 +2236,6 @@
       "other": ""
     },
     {
-      "code": "490025",
-      "date": "2026-09-12",
-      "time": "11:00",
-      "team1": "CRISTAL SGH B",
-      "team2": "RABC ENSIVAL B",
-      "category": "U 14 - PROV MM A",
-      "location": "CRISTAL SGH B",
-      "other": "(Ho 18 Bonniers grace H)"
-    },
-    {
       "code": "490036",
       "date": "2026-09-19",
       "time": "15:00",
@@ -2393,16 +2293,6 @@
       "team2": "VAIL. JUPILLE",
       "category": "U 14 - PROV MM A",
       "location": "RABC ENSIVAL B",
-      "other": ""
-    },
-    {
-      "code": "490141",
-      "date": "2026-12-05",
-      "time": "13:45",
-      "team1": "ROYAL SPA BC",
-      "team2": "RABC ENSIVAL B",
-      "category": "U 14 - PROV MM A",
-      "location": "ROYAL SPA BC",
       "other": ""
     },
     {
@@ -2486,36 +2376,6 @@
       "other": ""
     },
     {
-      "code": "490336",
-      "date": "2027-04-17",
-      "time": "15:00",
-      "team1": "RABC ENSIVAL B",
-      "team2": "ROYAL SPA BC",
-      "category": "U 14 - PROV MM A",
-      "location": "RABC ENSIVAL B",
-      "other": ""
-    },
-    {
-      "code": "431026",
-      "date": "2026-09-12",
-      "time": "15:00",
-      "team1": "RABC ENSIVAL",
-      "team2": "RBC ESNEUX",
-      "category": "U 18 - ELITES MM B",
-      "location": "RABC ENSIVAL",
-      "other": ""
-    },
-    {
-      "code": "431032",
-      "date": "2026-09-20",
-      "time": "9:00",
-      "team1": "PEPINSTER EAST BELG",
-      "team2": "RABC ENSIVAL",
-      "category": "U 18 - ELITES MM B",
-      "location": "PEPINSTER EAST BELG",
-      "other": ""
-    },
-    {
       "code": "431053",
       "date": "2026-10-04",
       "time": "14:00",
@@ -2533,6 +2393,16 @@
       "team2": "PRAYON TROOZ",
       "category": "U 18 - ELITES MM B",
       "location": "RABC ENSIVAL",
+      "other": ""
+    },
+    {
+      "code": "431032",
+      "date": "2026-10-25",
+      "time": "16:00",
+      "team1": "PEPINSTER EAST BELG",
+      "team2": "RABC ENSIVAL",
+      "category": "U 18 - ELITES MM B",
+      "location": "PEPINSTER EAST BELG",
       "other": ""
     },
     {
@@ -2706,16 +2576,6 @@
       "other": ""
     },
     {
-      "code": "441022",
-      "date": "2026-09-12",
-      "time": "15:00",
-      "team1": "ALL. FLEMALLE B",
-      "team2": "RABC ENSIVAL",
-      "category": "U 18 - PROV MM B",
-      "location": "ALL. FLEMALLE B",
-      "other": "(Ho Av de la vecqué Neu"
-    },
-    {
       "code": "441033",
       "date": "2026-09-19",
       "time": "11:00",
@@ -2737,8 +2597,8 @@
     },
     {
       "code": "441063",
-      "date": "2026-10-11",
-      "time": "15:00",
+      "date": "2026-10-10",
+      "time": "9:00",
       "team1": "RABC ENSIVAL",
       "team2": "CRISTAL SGH",
       "category": "U 18 - PROV MM B",
@@ -2767,8 +2627,8 @@
     },
     {
       "code": "441123",
-      "date": "2026-11-22",
-      "time": "13:00",
+      "date": "2026-11-21",
+      "time": "11:00",
       "team1": "RABC ENSIVAL",
       "team2": "HANNUT BC",
       "category": "U 18 - PROV MM B",

@@ -46,16 +46,6 @@
       "other": ""
     },
     {
-      "code": "416021",
-      "date": "2026-09-13",
-      "time": "11:00",
-      "team1": "BC SPRIMONT C",
-      "team2": "ETOILE JUPILLE",
-      "category": "DD - DIVISION 3 A",
-      "location": "BC SPRIMONT C",
-      "other": ""
-    },
-    {
       "code": "416034",
       "date": "2026-09-20",
       "time": "15:30",
@@ -253,6 +243,16 @@
       "team2": "ALL. FLEMALLE A",
       "category": "MM - DIVISION 1",
       "location": "ETOILE JUPILLE A",
+      "other": ""
+    },
+    {
+      "code": "401021",
+      "date": "2026-09-30",
+      "time": "21:00",
+      "team1": "RBC STAVELOT A",
+      "team2": "ETOILE JUPILLE A",
+      "category": "MM - DIVISION 1",
+      "location": "RBC STAVELOT A",
       "other": ""
     },
     {
@@ -486,16 +486,6 @@
       "other": ""
     },
     {
-      "code": "404021",
-      "date": "2026-09-13",
-      "time": "17:00",
-      "team1": "ROYAL HERVE-BATTICE B",
-      "team2": "ETOILE JUPILLE B",
-      "category": "MM - DIVISION 3 A",
-      "location": "ROYAL HERVE-BATTICE B",
-      "other": ""
-    },
-    {
       "code": "404034",
       "date": "2026-09-18",
       "time": "19:00",
@@ -507,8 +497,8 @@
     },
     {
       "code": "404015",
-      "date": "2026-09-27",
-      "time": "17:30",
+      "date": "2026-09-29",
+      "time": "20:45",
       "team1": "ROYAL BC WANZE C",
       "team2": "ETOILE JUPILLE B",
       "category": "MM - DIVISION 3 A",
@@ -518,7 +508,7 @@
     {
       "code": "404054",
       "date": "2026-10-04",
-      "time": "11:00",
+      "time": "11:30",
       "team1": "ETOILE JUPILLE B",
       "team2": "BC BELLEFLAMME D",
       "category": "MM - DIVISION 3 A",
@@ -746,16 +736,6 @@
       "other": ""
     },
     {
-      "code": "407021",
-      "date": "2026-09-13",
-      "time": "11:00",
-      "team1": "RBC STAVELOT C",
-      "team2": "ETOILE JUPILLE D",
-      "category": "MM - DIVISION 4 A",
-      "location": "RBC STAVELOT C",
-      "other": ""
-    },
-    {
       "code": "407054",
       "date": "2026-10-04",
       "time": "9:30",
@@ -966,16 +946,6 @@
       "other": ""
     },
     {
-      "code": "409021",
-      "date": "2026-09-12",
-      "time": "19:00",
-      "team1": "RBC AWANS C",
-      "team2": "ETOILE JUPILLE C",
-      "category": "MM - DIVISION 4 C",
-      "location": "RBC AWANS C",
-      "other": ""
-    },
-    {
       "code": "409034",
       "date": "2026-09-20",
       "time": "17:30",
@@ -1172,16 +1142,6 @@
       "team1": "GIANTS BRAIVES A",
       "team2": "ETOILE JUPILLE C",
       "category": "MM - DIVISION 4 C",
-      "location": "GIANTS BRAIVES A",
-      "other": ""
-    },
-    {
-      "code": "500021",
-      "date": "2026-09-12",
-      "time": "9:00",
-      "team1": "GIANTS BRAIVES A",
-      "team2": "ETOILE JUPILLE",
-      "category": "U 12 - MM A",
       "location": "GIANTS BRAIVES A",
       "other": ""
     },
@@ -1614,16 +1574,6 @@
       "category": "U 12 - MM B",
       "location": "CRISTAL SGH B",
       "other": ""
-    },
-    {
-      "code": "480021",
-      "date": "2026-09-12",
-      "time": "12:45",
-      "team1": "PEPINSTER EAST BELG A",
-      "team2": "ETOILE JUPILLE",
-      "category": "U 14 - ELITES MM A",
-      "location": "PEPINSTER EAST BELG A",
-      "other": "(Ho du paire)"
     },
     {
       "code": "480034",

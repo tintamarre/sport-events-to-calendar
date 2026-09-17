@@ -6,6 +6,16 @@
   },
   "events": [
     {
+      "code": "AW245045",
+      "date": "2026-09-26",
+      "time": "9:00",
+      "team1": "ROYAL HERVE-BATTICE",
+      "team2": "COLLEGE S LOUIS",
+      "category": "COUPE AWBB U12 -GARCONS",
+      "location": "ROYAL HERVE-BATTICE",
+      "other": ""
+    },
+    {
       "code": "763025",
       "date": "2026-09-26",
       "time": "9:00",
@@ -24,26 +34,6 @@
       "category": "CPE PROV PUPILLES MM",
       "location": "COLLEGE S LOUIS",
       "other": ""
-    },
-    {
-      "code": "521024",
-      "date": "2026-09-12",
-      "time": "11:30",
-      "team1": "CRISTAL SGH A",
-      "team2": "COLLEGE S LOUIS A",
-      "category": "Ec Av centenaire  ougree)",
-      "location": "CRISTAL SGH A",
-      "other": ""
-    },
-    {
-      "code": "521024",
-      "date": "2026-09-12",
-      "time": "11:30",
-      "team1": "CRISTAL SGH A",
-      "team2": "COLLEGE S LOUIS A",
-      "category": "U 10 - MM B",
-      "location": "CRISTAL SGH A",
-      "other": "Ec Av centenaire  ougree"
     },
     {
       "code": "521031",
@@ -216,16 +206,6 @@
       "other": ""
     },
     {
-      "code": "523026",
-      "date": "2026-09-12",
-      "time": "11:15",
-      "team1": "COLLEGE S LOUIS",
-      "team2": "RB TILFF C",
-      "category": "U 10 - MM D",
-      "location": "COLLEGE S LOUIS",
-      "other": ""
-    },
-    {
       "code": "523032",
       "date": "2026-09-19",
       "time": "14:00",
@@ -383,16 +363,6 @@
       "team2": "COLLEGE S LOUIS",
       "category": "U 10 - MM D",
       "location": "R REN. MONTEGNEE",
-      "other": ""
-    },
-    {
-      "code": "501026",
-      "date": "2026-09-13",
-      "time": "13:00",
-      "team1": "COLLEGE S LOUIS B",
-      "team2": "CRISTAL SGH B",
-      "category": "U 12 - MM B",
-      "location": "COLLEGE S LOUIS B",
       "other": ""
     },
     {
@@ -613,16 +583,6 @@
       "team2": "COLLEGE S LOUIS B",
       "category": "U 12 - MM B",
       "location": "BC BELLEFLAMME B",
-      "other": ""
-    },
-    {
-      "code": "502026",
-      "date": "2026-09-13",
-      "time": "11:00",
-      "team1": "ROYAL HERVE-BATTICE C",
-      "team2": "COLLEGE S LOUIS A",
-      "category": "U 12 - MM C",
-      "location": "ROYAL HERVE-BATTICE C",
       "other": ""
     },
     {
@@ -856,16 +816,6 @@
       "other": ""
     },
     {
-      "code": "481023",
-      "date": "2026-09-13",
-      "time": "9:00",
-      "team1": "COLLEGE S LOUIS",
-      "team2": "RB TILFF A",
-      "category": "U 14 - ELITES MM B",
-      "location": "COLLEGE S LOUIS",
-      "other": ""
-    },
-    {
       "code": "481031",
       "date": "2026-09-19",
       "time": "16:30",
@@ -1042,16 +992,6 @@
       "team1": "COLLEGE S LOUIS",
       "team2": "BC COINTE A",
       "category": "U 14 - ELITES MM B",
-      "location": "COLLEGE S LOUIS",
-      "other": ""
-    },
-    {
-      "code": "450026",
-      "date": "2026-09-13",
-      "time": "15:00",
-      "team1": "COLLEGE S LOUIS",
-      "team2": "RBC BLEGNY",
-      "category": "U 16 - ELITES MM A",
       "location": "COLLEGE S LOUIS",
       "other": ""
     },
@@ -1234,16 +1174,6 @@
       "category": "U 16 - ELITES MM A",
       "location": "RBC STAVELOT",
       "other": ""
-    },
-    {
-      "code": "431022",
-      "date": "2026-09-13",
-      "time": "13:00",
-      "team1": "PEPINSTER EAST BELG",
-      "team2": "COLLEGE S LOUIS",
-      "category": "U 18 - ELITES MM B",
-      "location": "PEPINSTER EAST BELG",
-      "other": "(Ho du paire)"
     },
     {
       "code": "431033",

@@ -6,6 +6,66 @@
   },
   "events": [
     {
+      "code": "100",
+      "date": "2026-09-27",
+      "time": "18:00",
+      "team1": "BC SPRIMONT (+ 5)",
+      "team2": "BB GEMBLOUX A",
+      "category": "COUPE AWBB MESSIEURS",
+      "location": "BC SPRIMONT (+ 5)",
+      "other": ""
+    },
+    {
+      "code": "AW245035",
+      "date": "2026-09-27",
+      "time": "11:00",
+      "team1": "CRISTAL SGH B",
+      "team2": "BC SPRIMONT A",
+      "category": "COUPE AWBB U12 -GARCONS",
+      "location": "CRISTAL SGH B",
+      "other": ""
+    },
+    {
+      "code": "AW243045",
+      "date": "2026-09-26",
+      "time": "13:00",
+      "team1": "CONDROZ MODAVE BB B",
+      "team2": "BC SPRIMONT A",
+      "category": "COUPE AWBB U16 - GARCONS",
+      "location": "CONDROZ MODAVE BB B",
+      "other": ""
+    },
+    {
+      "code": "AW242047",
+      "date": "2026-09-26",
+      "time": "16:30",
+      "team1": "UCCLE EUROPE B",
+      "team2": "BC SPRIMONT B",
+      "category": "COUPE AWBB U18 - GARCONS",
+      "location": "UCCLE EUROPE B",
+      "other": ""
+    },
+    {
+      "code": "AW241033",
+      "date": "2026-09-27",
+      "time": "11:00",
+      "team1": "BC CENTRE GAUME",
+      "team2": "BC SPRIMONT",
+      "category": "COUPE AWBB U21 - GARCONS",
+      "location": "BC CENTRE GAUME",
+      "other": ""
+    },
+    {
+      "code": "14",
+      "date": "2026-09-25",
+      "time": "20:30",
+      "team1": "BC SPRIMONT",
+      "team2": "KANG. MECHELEN",
+      "category": "CPE BELG MESSIEURS",
+      "location": "BC SPRIMONT",
+      "other": ""
+    },
+    {
       "code": "760514",
       "date": "2026-09-26",
       "time": "19:30",
@@ -43,16 +103,6 @@
       "team2": "BC SPRIMONT",
       "category": "CPE PROV MINIMES MM",
       "location": "GIANTS BRAIVES A",
-      "other": ""
-    },
-    {
-      "code": "413027",
-      "date": "2026-09-13",
-      "time": "13:00",
-      "team1": "BC SPRIMONT A",
-      "team2": "RBC HANEFFE B",
-      "category": "DD - DIVISION 1",
-      "location": "BC SPRIMONT A",
       "other": ""
     },
     {
@@ -296,16 +346,6 @@
       "other": ""
     },
     {
-      "code": "414027",
-      "date": "2026-09-13",
-      "time": "15:00",
-      "team1": "BC SPRIMONT B",
-      "team2": "CRISTAL SGH A",
-      "category": "DD - DIVISION 2 A",
-      "location": "BC SPRIMONT B",
-      "other": ""
-    },
-    {
       "code": "414032",
       "date": "2026-09-20",
       "time": "15:00",
@@ -467,8 +507,8 @@
     },
     {
       "code": "414247",
-      "date": "2027-02-13",
-      "time": "17:00",
+      "date": "2027-02-07",
+      "time": "13:00",
       "team1": "BC SPRIMONT B",
       "team2": "LA VILLERSOISE A",
       "category": "DD - DIVISION 2 A",
@@ -553,16 +593,6 @@
       "team2": "BC SPRIMONT B",
       "category": "DD - DIVISION 2 A",
       "location": "PRAYON TROOZ B",
-      "other": ""
-    },
-    {
-      "code": "416021",
-      "date": "2026-09-13",
-      "time": "11:00",
-      "team1": "BC SPRIMONT C",
-      "team2": "ETOILE JUPILLE",
-      "category": "DD - DIVISION 3 A",
-      "location": "BC SPRIMONT C",
       "other": ""
     },
     {
@@ -743,16 +773,6 @@
       "team2": "BC SPRIMONT C",
       "category": "DD - DIVISION 3 A",
       "location": "BC VERLAINE B",
-      "other": ""
-    },
-    {
-      "code": "403025",
-      "date": "2026-09-12",
-      "time": "19:00",
-      "team1": "RB TILFF B",
-      "team2": "BC SPRIMONT C",
-      "category": "MM - DIVISION 2 B",
-      "location": "RB TILFF B",
       "other": ""
     },
     {
@@ -996,16 +1016,6 @@
       "other": ""
     },
     {
-      "code": "405025",
-      "date": "2026-09-11",
-      "time": "20:00",
-      "team1": "RBC BLEGNY B",
-      "team2": "BC SPRIMONT D",
-      "category": "MM - DIVISION 3 B",
-      "location": "RBC BLEGNY B",
-      "other": ""
-    },
-    {
       "code": "405037",
       "date": "2026-09-19",
       "time": "21:00",
@@ -1246,16 +1256,6 @@
       "other": ""
     },
     {
-      "code": "409025",
-      "date": "2026-09-12",
-      "time": "19:00",
-      "team1": "ORP JAUCHE A",
-      "team2": "BC SPRIMONT E",
-      "category": "MM - DIVISION 4 C",
-      "location": "ORP JAUCHE A",
-      "other": ""
-    },
-    {
       "code": "409037",
       "date": "2026-09-19",
       "time": "19:00",
@@ -1456,26 +1456,6 @@
       "other": ""
     },
     {
-      "code": "AW101021",
-      "date": "2026-09-13",
-      "time": "18:00",
-      "team1": "BC SPRIMONT B",
-      "team2": "ESL UNITED B",
-      "category": "MM - REGIONALE 2 A",
-      "location": "BC SPRIMONT B",
-      "other": ""
-    },
-    {
-      "code": "AW101009",
-      "date": "2026-09-19",
-      "time": "21:00",
-      "team1": "PEPINSTER EAST BELG B",
-      "team2": "BC SPRIMONT B",
-      "category": "MM - REGIONALE 2 A",
-      "location": "PEPINSTER EAST BELG B",
-      "other": ""
-    },
-    {
       "code": "AW101024",
       "date": "2026-10-04",
       "time": "17:00",
@@ -1533,6 +1513,16 @@
       "team2": "CENTRE GAUME RULLES",
       "category": "MM - REGIONALE 2 A",
       "location": "BC SPRIMONT B",
+      "other": ""
+    },
+    {
+      "code": "AW101009",
+      "date": "2026-11-29",
+      "time": "13:00",
+      "team1": "PEPINSTER EAST BELG B",
+      "team2": "BC SPRIMONT B",
+      "category": "MM - REGIONALE 2 A",
+      "location": "PEPINSTER EAST BELG B",
       "other": ""
     },
     {
@@ -2646,16 +2636,6 @@
       "other": ""
     },
     {
-      "code": "502027",
-      "date": "2026-09-13",
-      "time": "13:00",
-      "team1": "BC SPRIMONT A",
-      "team2": "ROYAL ANS BC A",
-      "category": "U 12 - MM C",
-      "location": "BC SPRIMONT A",
-      "other": ""
-    },
-    {
       "code": "502032",
       "date": "2026-09-20",
       "time": "14:30",
@@ -3076,16 +3056,6 @@
       "other": ""
     },
     {
-      "code": "480022",
-      "date": "2026-09-12",
-      "time": "11:00",
-      "team1": "BC BELLEFLAMME",
-      "team2": "BC SPRIMONT B",
-      "category": "U 14 - ELITES MM A",
-      "location": "BC BELLEFLAMME",
-      "other": ""
-    },
-    {
       "code": "480033",
       "date": "2026-09-19",
       "time": "11:00",
@@ -3263,16 +3233,6 @@
       "team2": "CRISTAL SGH A",
       "category": "U 14 - ELITES MM A",
       "location": "BC SPRIMONT B",
-      "other": ""
-    },
-    {
-      "code": "481022",
-      "date": "2026-09-12",
-      "time": "13:00",
-      "team1": "BC COINTE A",
-      "team2": "BC SPRIMONT A",
-      "category": "U 14 - ELITES MM B",
-      "location": "BC COINTE A",
       "other": ""
     },
     {
@@ -3456,16 +3416,6 @@
       "other": ""
     },
     {
-      "code": "AW134007",
-      "date": "2026-09-13",
-      "time": "9:00",
-      "team1": "BC SPRIMONT",
-      "team2": "EAST BELGIUM BCA",
-      "category": "U 14 - SILVER REGIONAUX C",
-      "location": "BC SPRIMONT",
-      "other": ""
-    },
-    {
       "code": "AW134006",
       "date": "2026-09-19",
       "time": "13:30",
@@ -3543,16 +3493,6 @@
       "team2": "BC SPRIMONT",
       "category": "U 14 - SILVER REGIONAUX C",
       "location": "EAST BELGIUM BCA",
-      "other": ""
-    },
-    {
-      "code": "AW128007",
-      "date": "2026-09-13",
-      "time": "11:00",
-      "team1": "BC SPRIMONT",
-      "team2": "OLYMPIC MSM",
-      "category": "U 16 - BRONZE REGIONAUX B",
-      "location": "BC SPRIMONT",
       "other": ""
     },
     {
@@ -3634,16 +3574,6 @@
       "category": "U 16 - BRONZE REGIONAUX B",
       "location": "OLYMPIC MSM",
       "other": ""
-    },
-    {
-      "code": "450025",
-      "date": "2026-09-12",
-      "time": "15:00",
-      "team1": "PEPINSTER EAST BELG A",
-      "team2": "BC SPRIMONT",
-      "category": "U 16 - ELITES MM A",
-      "location": "PEPINSTER EAST BELG A",
-      "other": "(Ho du paire)"
     },
     {
       "code": "450036",
@@ -3826,16 +3756,6 @@
       "other": ""
     },
     {
-      "code": "AW121007",
-      "date": "2026-09-13",
-      "time": "18:00",
-      "team1": "SPIROU BASKET",
-      "team2": "BC SPRIMONT",
-      "category": "U 16 - GOLD REGIONAUX A",
-      "location": "SPIROU BASKET",
-      "other": ""
-    },
-    {
       "code": "AW121004",
       "date": "2026-09-19",
       "time": "13:00",
@@ -3913,16 +3833,6 @@
       "team2": "SPIROU BASKET",
       "category": "U 16 - GOLD REGIONAUX A",
       "location": "BC SPRIMONT",
-      "other": ""
-    },
-    {
-      "code": "AW113008",
-      "date": "2026-09-13",
-      "time": "10:00",
-      "team1": "FRESH AIR",
-      "team2": "BC SPRIMONT",
-      "category": "U 18 - GOLD REGIONAUX A",
-      "location": "FRESH AIR",
       "other": ""
     },
     {
@@ -4006,16 +3916,6 @@
       "other": ""
     },
     {
-      "code": "AW116008",
-      "date": "2026-09-12",
-      "time": "13:00",
-      "team1": "JS ENTITE ENGHIEN",
-      "team2": "BC SPRIMONT",
-      "category": "U 18 - SILVER REGIONAUX B",
-      "location": "JS ENTITE ENGHIEN",
-      "other": ""
-    },
-    {
       "code": "AW116006",
       "date": "2026-09-19",
       "time": "15:00",
@@ -4096,16 +3996,6 @@
       "other": ""
     },
     {
-      "code": "420026",
-      "date": "2026-09-13",
-      "time": "9:00",
-      "team1": "BC SPRIMONT",
-      "team2": "R 4A AYWAILLE-HAMOIR",
-      "category": "U 21 - MM",
-      "location": "BC SPRIMONT",
-      "other": ""
-    },
-    {
       "code": "420036",
       "date": "2026-09-19",
       "time": "13:00",
@@ -4133,16 +4023,6 @@
       "team2": "BC SPRIMONT",
       "category": "U 21 - MM",
       "location": "ROYAL ANS BC",
-      "other": ""
-    },
-    {
-      "code": "420072",
-      "date": "2026-10-18",
-      "time": "12:00",
-      "team1": "ROYAL BC NINANE",
-      "team2": "BC SPRIMONT",
-      "category": "U 21 - MM",
-      "location": "ROYAL BC NINANE",
       "other": ""
     },
     {
@@ -4263,16 +4143,6 @@
       "team2": "BC SPRIMONT",
       "category": "U 21 - MM",
       "location": "R 4A AYWAILLE-HAMOIR",
-      "other": ""
-    },
-    {
-      "code": "420236",
-      "date": "2027-02-07",
-      "time": "9:00",
-      "team1": "BC SPRIMONT",
-      "team2": "ROYAL BC NINANE",
-      "category": "U 21 - MM",
-      "location": "BC SPRIMONT",
       "other": ""
     },
     {

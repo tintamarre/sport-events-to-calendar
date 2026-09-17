@@ -6,6 +6,56 @@
   },
   "events": [
     {
+      "code": "AW245038",
+      "date": "2026-09-26",
+      "time": "10:00",
+      "team1": "ASTE KAIN",
+      "team2": "LA VILLERSOISE",
+      "category": "COUPE AWBB U12 -GARCONS",
+      "location": "ASTE KAIN",
+      "other": ""
+    },
+    {
+      "code": "AW248040",
+      "date": "2026-09-27",
+      "time": "9:00",
+      "team1": "LA VILLERSOISE",
+      "team2": "RBC ALLEUR",
+      "category": "COUPE AWBB U14 - FILLES",
+      "location": "LA VILLERSOISE",
+      "other": ""
+    },
+    {
+      "code": "AW247034",
+      "date": "2026-09-26",
+      "time": "16:00",
+      "team1": "RE PONT-DE-LOUP B",
+      "team2": "LA VILLERSOISE A",
+      "category": "COUPE AWBB U16 - FILLES",
+      "location": "RE PONT-DE-LOUP B",
+      "other": ""
+    },
+    {
+      "code": "AW242045",
+      "date": "2026-09-26",
+      "time": "11:00",
+      "team1": "LA VILLERSOISE",
+      "team2": "R.B.C. BELGRADE A",
+      "category": "COUPE AWBB U18 - GARCONS",
+      "location": "LA VILLERSOISE",
+      "other": ""
+    },
+    {
+      "code": "AW246043",
+      "date": "2026-09-27",
+      "time": "11:00",
+      "team1": "LA VILLERSOISE",
+      "team2": "GANSHOREN DAMES",
+      "category": "COUPE AWBB U19 - FILLES",
+      "location": "LA VILLERSOISE",
+      "other": ""
+    },
+    {
       "code": "760502",
       "date": "2026-09-27",
       "time": "15:00",
@@ -33,16 +83,6 @@
       "team2": "ETOILE JUPILLE",
       "category": "CPE PROV MINIMES MM",
       "location": "LA VILLERSOISE",
-      "other": ""
-    },
-    {
-      "code": "414023",
-      "date": "2026-09-13",
-      "time": "15:00",
-      "team1": "LA VILLERSOISE A",
-      "team2": "PEPINSTER EAST BELG B",
-      "category": "DD - DIVISION 2 A",
-      "location": "LA VILLERSOISE A",
       "other": ""
     },
     {
@@ -187,8 +227,8 @@
     },
     {
       "code": "414247",
-      "date": "2027-02-13",
-      "time": "17:00",
+      "date": "2027-02-07",
+      "time": "13:00",
       "team1": "BC SPRIMONT B",
       "team2": "LA VILLERSOISE A",
       "category": "DD - DIVISION 2 A",
@@ -466,16 +506,6 @@
       "other": ""
     },
     {
-      "code": "402023",
-      "date": "2026-09-13",
-      "time": "17:00",
-      "team1": "LA VILLERSOISE A",
-      "team2": "PEPINSTER EAST BELG C",
-      "category": "MM - DIVISION 2 A",
-      "location": "LA VILLERSOISE A",
-      "other": ""
-    },
-    {
       "code": "402031",
       "date": "2026-09-20",
       "time": "13:00",
@@ -713,16 +743,6 @@
       "team2": "LA VILLERSOISE A",
       "category": "MM - DIVISION 2 A",
       "location": "PRAYON TROOZ A",
-      "other": ""
-    },
-    {
-      "code": "405022",
-      "date": "2026-09-12",
-      "time": "19:00",
-      "team1": "LA VILLERSOISE B",
-      "team2": "BC COINTE B",
-      "category": "MM - DIVISION 3 B",
-      "location": "LA VILLERSOISE B",
       "other": ""
     },
     {
@@ -966,16 +986,6 @@
       "other": ""
     },
     {
-      "code": "409022",
-      "date": "2026-09-13",
-      "time": "11:00",
-      "team1": "BC COINTE C",
-      "team2": "LA VILLERSOISE C",
-      "category": "MM - DIVISION 4 C",
-      "location": "BC COINTE C",
-      "other": ""
-    },
-    {
       "code": "409033",
       "date": "2026-09-19",
       "time": "21:00",
@@ -1186,16 +1196,6 @@
       "other": ""
     },
     {
-      "code": "412023",
-      "date": "2026-09-12",
-      "time": "21:00",
-      "team1": "LA VILLERSOISE D",
-      "team2": "RBC WELKENRAEDT B",
-      "category": "MM - DIVISION 4 F",
-      "location": "LA VILLERSOISE D",
-      "other": ""
-    },
-    {
       "code": "412031",
       "date": "2026-09-20",
       "time": "10:00",
@@ -1383,16 +1383,6 @@
       "team2": "ABC WAREMME C",
       "category": "MM - DIVISION 4 F",
       "location": "LA VILLERSOISE D",
-      "other": ""
-    },
-    {
-      "code": "521022",
-      "date": "2026-09-13",
-      "time": "9:00",
-      "team1": "PEPINSTER EAST BELG B",
-      "team2": "LA VILLERSOISE B",
-      "category": "U 10 - MM B",
-      "location": "PEPINSTER EAST BELG B",
       "other": ""
     },
     {
@@ -1648,7 +1638,7 @@
     {
       "code": "522161",
       "date": "2026-12-20",
-      "time": "9:00",
+      "time": "13:00",
       "team1": "LA VILLERSOISE A",
       "team2": "ROYAL BC WANZE A",
       "category": "U 10 - MM C",
@@ -1966,16 +1956,6 @@
       "other": ""
     },
     {
-      "code": "502021",
-      "date": "2026-09-13",
-      "time": "9:00",
-      "team1": "LA VILLERSOISE B",
-      "team2": "MAIL. COMBLAIN",
-      "category": "U 12 - MM C",
-      "location": "LA VILLERSOISE B",
-      "other": ""
-    },
-    {
       "code": "502055",
       "date": "2026-10-03",
       "time": "10:45",
@@ -2196,16 +2176,6 @@
       "other": ""
     },
     {
-      "code": "507022",
-      "date": "2026-09-12",
-      "time": "9:00",
-      "team1": "RBC ALLEUR D",
-      "team2": "LA VILLERSOISE C",
-      "category": "U 12 - MM H",
-      "location": "RBC ALLEUR D",
-      "other": ""
-    },
-    {
       "code": "507033",
       "date": "2026-09-19",
       "time": "9:00",
@@ -2214,16 +2184,6 @@
       "category": "U 12 - MM H",
       "location": "LA VILLERSOISE C",
       "other": ""
-    },
-    {
-      "code": "507056",
-      "date": "2026-10-03",
-      "time": "13:00",
-      "team1": "R 4A AYWAILLE-HAMOIR",
-      "team2": "LA VILLERSOISE C",
-      "category": "U 12 - MM H",
-      "location": "R 4A AYWAILLE-HAMOIR",
-      "other": "(ho Hamoir rue du mouli"
     },
     {
       "code": "507114",
@@ -2318,19 +2278,9 @@
     {
       "code": "507233",
       "date": "2027-02-06",
-      "time": "9:00",
+      "time": "10:30",
       "team1": "LA VILLERSOISE C",
       "team2": "ROYAL ANS BC C",
-      "category": "U 12 - MM H",
-      "location": "LA VILLERSOISE C",
-      "other": ""
-    },
-    {
-      "code": "507243",
-      "date": "2027-02-13",
-      "time": "9:00",
-      "team1": "LA VILLERSOISE C",
-      "team2": "R 4A AYWAILLE-HAMOIR",
       "category": "U 12 - MM H",
       "location": "LA VILLERSOISE C",
       "other": ""
@@ -2376,16 +2326,6 @@
       "other": ""
     },
     {
-      "code": "493025",
-      "date": "2026-09-12",
-      "time": "9:00",
-      "team1": "LA VILLERSOISE",
-      "team2": "R HT-PRE OUGREE",
-      "category": "U 14 - PROV MM D",
-      "location": "LA VILLERSOISE",
-      "other": ""
-    },
-    {
       "code": "493034",
       "date": "2026-09-20",
       "time": "13:00",
@@ -2403,7 +2343,7 @@
       "team2": "HANNUT BC",
       "category": "U 14 - PROV MM D",
       "location": "LA VILLERSOISE",
-      "other": "(petit pole ballon warem"
+      "other": "(IPES de waremme)"
     },
     {
       "code": "493115",
@@ -2413,7 +2353,7 @@
       "team2": "R REN. MONTEGNEE",
       "category": "U 14 - PROV MM D",
       "location": "LA VILLERSOISE",
-      "other": ""
+      "other": "(Ho collignon villers)"
     },
     {
       "code": "493145",
@@ -2423,7 +2363,7 @@
       "team2": "MARCHIN BASKET",
       "category": "U 14 - PROV MM D",
       "location": "LA VILLERSOISE",
-      "other": "(petit pole ballon warem"
+      "other": "(ipes de waremme)"
     },
     {
       "code": "493154",
@@ -2443,7 +2383,7 @@
       "team2": "UN HUY BASKET",
       "category": "U 14 - PROV MM D",
       "location": "LA VILLERSOISE",
-      "other": "(petit pole ballon warem"
+      "other": "(IPESS waremme)"
     },
     {
       "code": "493195",
@@ -2453,7 +2393,7 @@
       "team2": "BC VERLAINE",
       "category": "U 14 - PROV MM D",
       "location": "LA VILLERSOISE",
-      "other": ""
+      "other": "(Ho collignon villers)"
     },
     {
       "code": "493205",
@@ -2473,7 +2413,7 @@
       "team2": "ROYAL BC WANZE",
       "category": "U 14 - PROV MM D",
       "location": "LA VILLERSOISE",
-      "other": ""
+      "other": "(Ho collignon villers)"
     },
     {
       "code": "493226",
@@ -2523,16 +2463,6 @@
       "team2": "LA VILLERSOISE",
       "category": "U 14 - PROV MM D",
       "location": "MARCHIN BASKET",
-      "other": ""
-    },
-    {
-      "code": "AW153008",
-      "date": "2026-09-12",
-      "time": "13:00",
-      "team1": "PRAYON TROOZ",
-      "team2": "LA VILLERSOISE",
-      "category": "U 14 - SILVER REGIONALES B",
-      "location": "PRAYON TROOZ",
       "other": ""
     },
     {
@@ -2592,16 +2522,6 @@
       "team1": "LA VILLERSOISE",
       "team2": "PRAYON TROOZ",
       "category": "U 14 - SILVER REGIONALES B",
-      "location": "LA VILLERSOISE",
-      "other": ""
-    },
-    {
-      "code": "AW144008",
-      "date": "2026-09-12",
-      "time": "15:00",
-      "team1": "LA VILLERSOISE",
-      "team2": "MONS CAPITALE",
-      "category": "U 16 - GOLD REGIONALES A",
       "location": "LA VILLERSOISE",
       "other": ""
     },
@@ -2806,16 +2726,6 @@
       "other": ""
     },
     {
-      "code": "AW146007",
-      "date": "2026-09-13",
-      "time": "13:00",
-      "team1": "LA VILLERSOISE",
-      "team2": "RE PONT-DE-LOUP",
-      "category": "U 16 - SILVER REGIONALES A",
-      "location": "LA VILLERSOISE",
-      "other": ""
-    },
-    {
       "code": "AW146006",
       "date": "2026-09-19",
       "time": "12:45",
@@ -2896,16 +2806,6 @@
       "other": ""
     },
     {
-      "code": "AW125007",
-      "date": "2026-09-12",
-      "time": "11:00",
-      "team1": "LA VILLERSOISE",
-      "team2": "R MURPROTEC NIVELLES",
-      "category": "U 16 - SILVER REGIONAUX C",
-      "location": "LA VILLERSOISE",
-      "other": ""
-    },
-    {
       "code": "AW125006",
       "date": "2026-09-19",
       "time": "15:00",
@@ -2983,16 +2883,6 @@
       "team2": "LA VILLERSOISE",
       "category": "U 16 - SILVER REGIONAUX C",
       "location": "R MURPROTEC NIVELLES",
-      "other": ""
-    },
-    {
-      "code": "440022",
-      "date": "2026-09-12",
-      "time": "17:00",
-      "team1": "LA VILLERSOISE",
-      "team2": "THEUX BC",
-      "category": "U 18 - PROV MM A",
-      "location": "LA VILLERSOISE",
       "other": ""
     },
     {
@@ -3146,16 +3036,6 @@
       "other": ""
     },
     {
-      "code": "AW118007",
-      "date": "2026-09-13",
-      "time": "11:00",
-      "team1": "LA VILLERSOISE",
-      "team2": "EAST BELGIUM BCA",
-      "category": "U 18 - SILVER REGIONAUX D",
-      "location": "LA VILLERSOISE",
-      "other": ""
-    },
-    {
       "code": "AW118006",
       "date": "2026-09-19",
       "time": "10:00",
@@ -3233,16 +3113,6 @@
       "team2": "LA VILLERSOISE",
       "category": "U 18 - SILVER REGIONAUX D",
       "location": "EAST BELGIUM BCA",
-      "other": ""
-    },
-    {
-      "code": "580026",
-      "date": "2026-09-12",
-      "time": "11:00",
-      "team1": "PRAYON TROOZ",
-      "team2": "LA VILLERSOISE",
-      "category": "U 19 - DD",
-      "location": "PRAYON TROOZ",
       "other": ""
     },
     {
@@ -3532,16 +3402,6 @@
       "team1": "LA VILLERSOISE",
       "team2": "ROYAL BC NINANE A",
       "category": "U 19 - DD",
-      "location": "LA VILLERSOISE",
-      "other": ""
-    },
-    {
-      "code": "AW139007",
-      "date": "2026-09-12",
-      "time": "13:00",
-      "team1": "LA VILLERSOISE",
-      "team2": "RE PONT-DE-LOUP",
-      "category": "U 19 - GOLD REGIONALES A",
       "location": "LA VILLERSOISE",
       "other": ""
     },
@@ -4016,26 +3876,6 @@
       "other": ""
     },
     {
-      "code": "545141",
-      "date": "2026-12-05",
-      "time": "9:00",
-      "team1": "LA VILLERSOISE B",
-      "team2": "GIANTS BRAIVES B",
-      "category": "U 8 - MM F",
-      "location": "LA VILLERSOISE B",
-      "other": ""
-    },
-    {
-      "code": "545151",
-      "date": "2026-12-12",
-      "time": "9:00",
-      "team1": "LA VILLERSOISE B",
-      "team2": "R REN. MONTEGNEE",
-      "category": "U 8 - MM F",
-      "location": "LA VILLERSOISE B",
-      "other": ""
-    },
-    {
       "code": "545193",
       "date": "2027-01-09",
       "time": "13:30",
@@ -4053,16 +3893,6 @@
       "team2": "HANNUT BC B",
       "category": "U 8 - MM F",
       "location": "LA VILLERSOISE B",
-      "other": ""
-    },
-    {
-      "code": "545216",
-      "date": "2027-01-24",
-      "time": "9:00",
-      "team1": "R REN. MONTEGNEE",
-      "team2": "LA VILLERSOISE B",
-      "category": "U 8 - MM F",
-      "location": "R REN. MONTEGNEE",
       "other": ""
     },
     {
@@ -4113,16 +3943,6 @@
       "team2": "ORP JAUCHE",
       "category": "U 8 - MM F",
       "location": "LA VILLERSOISE B",
-      "other": ""
-    },
-    {
-      "code": "545336",
-      "date": "2027-04-17",
-      "time": "15:00",
-      "team1": "GIANTS BRAIVES B",
-      "team2": "LA VILLERSOISE B",
-      "category": "U 8 - MM F",
-      "location": "GIANTS BRAIVES B",
       "other": ""
     }
   ]
