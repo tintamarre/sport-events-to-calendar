@@ -6,7 +6,7 @@
   },
   "events": [
     {
-      "code": "105",
+      "code": "AW217015",
       "date": "2026-09-25",
       "time": "20:00",
       "team1": "ESL UNITED B (+  5)",
@@ -33,16 +33,6 @@
       "team2": "ESL UNITED A",
       "category": "COUPE AWBB U16 - GARCONS",
       "location": "ASTE KAIN",
-      "other": ""
-    },
-    {
-      "code": "AW242039",
-      "date": "2026-09-26",
-      "time": "13:00",
-      "team1": "PEPINSTER EAST BELG",
-      "team2": "ESL UNITED",
-      "category": "COUPE AWBB U18 - GARCONS",
-      "location": "PEPINSTER EAST BELG",
       "other": ""
     },
     {
@@ -83,16 +73,6 @@
       "team2": "RB TILFF C (+ 5)",
       "category": "CPE PROV MESSIEURS",
       "location": "ESL UNITED D",
-      "other": ""
-    },
-    {
-      "code": "401035",
-      "date": "2026-09-18",
-      "time": "20:00",
-      "team1": "ESL UNITED C",
-      "team2": "CRISTAL SGH A",
-      "category": "MM - DIVISION 1",
-      "location": "ESL UNITED C",
       "other": ""
     },
     {
@@ -336,16 +316,6 @@
       "other": ""
     },
     {
-      "code": "402034",
-      "date": "2026-09-19",
-      "time": "19:00",
-      "team1": "RABC ENSIVAL A",
-      "team2": "ESL UNITED E",
-      "category": "MM - DIVISION 2 A",
-      "location": "RABC ENSIVAL A",
-      "other": ""
-    },
-    {
       "code": "402057",
       "date": "2026-10-04",
       "time": "11:00",
@@ -573,16 +543,6 @@
       "team2": "ESL UNITED E",
       "category": "MM - DIVISION 2 A",
       "location": "PEPINSTER EAST BELG C",
-      "other": ""
-    },
-    {
-      "code": "403034",
-      "date": "2026-09-19",
-      "time": "19:00",
-      "team1": "RBC HANEFFE A",
-      "team2": "ESL UNITED D",
-      "category": "MM - DIVISION 2 B",
-      "location": "RBC HANEFFE A",
       "other": ""
     },
     {
@@ -816,16 +776,6 @@
       "other": ""
     },
     {
-      "code": "404034",
-      "date": "2026-09-18",
-      "time": "19:00",
-      "team1": "ETOILE JUPILLE B",
-      "team2": "ESL UNITED F",
-      "category": "MM - DIVISION 3 A",
-      "location": "ETOILE JUPILLE B",
-      "other": ""
-    },
-    {
       "code": "404057",
       "date": "2026-10-04",
       "time": "15:00",
@@ -1053,16 +1003,6 @@
       "team2": "ESL UNITED F",
       "category": "MM - DIVISION 3 A",
       "location": "HARIMALIA BC B",
-      "other": ""
-    },
-    {
-      "code": "AW100015",
-      "date": "2026-09-20",
-      "time": "15:00",
-      "team1": "OLYMPIC MSM",
-      "team2": "ESL UNITED A",
-      "category": "MM - REGIONALE 1",
-      "location": "OLYMPIC MSM",
       "other": ""
     },
     {
@@ -1556,16 +1496,6 @@
       "other": ""
     },
     {
-      "code": "AW130004",
-      "date": "2026-09-19",
-      "time": "13:00",
-      "team1": "ESL UNITED",
-      "team2": "UCCLE EUROPE",
-      "category": "U 14 - GOLD REGIONAUX A",
-      "location": "ESL UNITED",
-      "other": ""
-    },
-    {
       "code": "AW130010",
       "date": "2026-10-03",
       "time": "17:00",
@@ -1633,16 +1563,6 @@
       "team2": "R.B.C. BELGRADE",
       "category": "U 14 - GOLD REGIONAUX A",
       "location": "ESL UNITED",
-      "other": ""
-    },
-    {
-      "code": "AW122006",
-      "date": "2026-09-20",
-      "time": "11:30",
-      "team1": "DPK CARNIERES",
-      "team2": "ESL UNITED",
-      "category": "U 16 - GOLD REGIONAUX B",
-      "location": "DPK CARNIERES",
       "other": ""
     },
     {
@@ -1716,16 +1636,6 @@
       "other": ""
     },
     {
-      "code": "AW126006",
-      "date": "2026-09-20",
-      "time": "11:00",
-      "team1": "RBC ALLEUR",
-      "team2": "ESL UNITED",
-      "category": "U 16 - SILVER REGIONAUX D",
-      "location": "RBC ALLEUR",
-      "other": ""
-    },
-    {
       "code": "AW126012",
       "date": "2026-10-03",
       "time": "13:00",
@@ -1796,16 +1706,6 @@
       "other": ""
     },
     {
-      "code": "AW114004",
-      "date": "2026-09-20",
-      "time": "17:00",
-      "team1": "ESL UNITED",
-      "team2": "B55 ACADEMY XL",
-      "category": "U 18 - GOLD REGIONAUX B",
-      "location": "ESL UNITED",
-      "other": ""
-    },
-    {
       "code": "AW114010",
       "date": "2026-10-03",
       "time": "19:00",
@@ -1873,16 +1773,6 @@
       "team2": "UNITED B WOLUWE",
       "category": "U 18 - GOLD REGIONAUX B",
       "location": "ESL UNITED",
-      "other": ""
-    },
-    {
-      "code": "AW108006",
-      "date": "2026-09-19",
-      "time": "12:00",
-      "team1": "R LINTHOUT BC",
-      "team2": "ESL UNITED",
-      "category": "U 21 - GOLD REGIONAUX B",
-      "location": "R LINTHOUT BC",
       "other": ""
     },
     {

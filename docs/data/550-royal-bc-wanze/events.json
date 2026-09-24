@@ -6,7 +6,7 @@
   },
   "events": [
     {
-      "code": "97",
+      "code": "AW217007",
       "date": "2026-09-27",
       "time": "14:00",
       "team1": "BC FRAIRE-PHILIPPEVILLE",
@@ -29,10 +29,10 @@
       "code": "760029",
       "date": "2026-09-27",
       "time": "15:00",
-      "team1": "CRISTAL SGH A",
-      "team2": "ROYAL BC WANZE C (+ 10)",
+      "team1": "ROYAL BC WANZE C (+ 10)",
+      "team2": "CRISTAL SGH A",
       "category": "CPE PROV MESSIEURS",
-      "location": "CRISTAL SGH A",
+      "location": "ROYAL BC WANZE C (+ 10)",
       "other": ""
     },
     {
@@ -43,16 +43,6 @@
       "team2": "GIANTS BRAIVES B",
       "category": "CPE PROV MINIMES MM",
       "location": "ROYAL BC WANZE A",
-      "other": ""
-    },
-    {
-      "code": "415035",
-      "date": "2026-09-20",
-      "time": "12:00",
-      "team1": "RBC HANEFFE C",
-      "team2": "ROYAL BC WANZE",
-      "category": "DD - DIVISION 2 B",
-      "location": "RBC HANEFFE C",
       "other": ""
     },
     {
@@ -293,16 +283,6 @@
       "team2": "R 4A AYWAILLE-HAMOIR A",
       "category": "DD - DIVISION 2 B",
       "location": "ROYAL BC WANZE",
-      "other": ""
-    },
-    {
-      "code": "404036",
-      "date": "2026-09-19",
-      "time": "19:00",
-      "team1": "RBC DISON-ANDRIMONT B",
-      "team2": "ROYAL BC WANZE C",
-      "category": "MM - DIVISION 3 A",
-      "location": "RBC DISON-ANDRIMONT B",
       "other": ""
     },
     {
@@ -556,16 +536,6 @@
       "other": ""
     },
     {
-      "code": "405035",
-      "date": "2026-09-20",
-      "time": "13:30",
-      "team1": "RJS GRIVEGNEE",
-      "team2": "ROYAL BC WANZE B",
-      "category": "MM - DIVISION 3 B",
-      "location": "RJS GRIVEGNEE",
-      "other": ""
-    },
-    {
       "code": "405014",
       "date": "2026-09-27",
       "time": "15:00",
@@ -816,16 +786,6 @@
       "other": ""
     },
     {
-      "code": "AW102012",
-      "date": "2026-09-20",
-      "time": "17:00",
-      "team1": "CEP FLEURUS",
-      "team2": "ROYAL BC WANZE A",
-      "category": "MM - REGIONALE 2 B",
-      "location": "CEP FLEURUS",
-      "other": ""
-    },
-    {
       "code": "AW102023",
       "date": "2026-10-03",
       "time": "21:00",
@@ -1043,16 +1003,6 @@
       "team2": "BC FRAIRE-PHILIPPEVILLE",
       "category": "MM - REGIONALE 2 B",
       "location": "ROYAL BC WANZE A",
-      "other": ""
-    },
-    {
-      "code": "522035",
-      "date": "2026-09-20",
-      "time": "13:00",
-      "team1": "RB TILFF B",
-      "team2": "ROYAL BC WANZE A",
-      "category": "U 10 - MM C",
-      "location": "RB TILFF B",
       "other": ""
     },
     {
@@ -1414,16 +1364,6 @@
       "category": "U 10 - MM I",
       "location": "ROYAL BC WANZE B",
       "other": ""
-    },
-    {
-      "code": "502035",
-      "date": "2026-09-19",
-      "time": "10:45",
-      "team1": "ROYAL ANS BC A",
-      "team2": "ROYAL BC WANZE A",
-      "category": "U 12 - MM C",
-      "location": "ROYAL ANS BC A",
-      "other": "(parc communal ans)"
     },
     {
       "code": "502167",
@@ -1996,16 +1936,6 @@
       "other": ""
     },
     {
-      "code": "451035",
-      "date": "2026-09-19",
-      "time": "16:30",
-      "team1": "RBC ESNEUX A",
-      "team2": "ROYAL BC WANZE A",
-      "category": "U 16 - ELITES MM B",
-      "location": "RBC ESNEUX A",
-      "other": ""
-    },
-    {
       "code": "451052",
       "date": "2026-10-04",
       "time": "11:00",
@@ -2286,16 +2216,6 @@
       "other": ""
     },
     {
-      "code": "430033",
-      "date": "2026-09-19",
-      "time": "15:00",
-      "team1": "BC VERVIERS B",
-      "team2": "ROYAL BC WANZE",
-      "category": "U 18 - ELITES MM A",
-      "location": "BC VERVIERS B",
-      "other": ""
-    },
-    {
       "code": "430055",
       "date": "2026-10-03",
       "time": "16:00",
@@ -2476,16 +2396,6 @@
       "other": ""
     },
     {
-      "code": "580035",
-      "date": "2026-09-18",
-      "time": "20:30",
-      "team1": "RBC ESNEUX",
-      "team2": "ROYAL BC WANZE",
-      "category": "U 19 - DD",
-      "location": "RBC ESNEUX",
-      "other": ""
-    },
-    {
       "code": "580014",
       "date": "2026-09-27",
       "time": "11:00",
@@ -2648,7 +2558,7 @@
     {
       "code": "580235",
       "date": "2027-02-06",
-      "time": "15:15",
+      "time": "16:30",
       "team1": "RBC BLEGNY",
       "team2": "ROYAL BC WANZE",
       "category": "U 19 - DD",
@@ -2763,16 +2673,6 @@
       "team2": "ROYAL BC WANZE",
       "category": "U 19 - DD",
       "location": "PRAYON TROOZ",
-      "other": ""
-    },
-    {
-      "code": "420035",
-      "date": "2026-09-19",
-      "time": "12:30",
-      "team1": "RBC ESNEUX",
-      "team2": "ROYAL BC WANZE",
-      "category": "U 21 - MM",
-      "location": "RBC ESNEUX",
       "other": ""
     },
     {
@@ -3090,7 +2990,7 @@
       "date": "2026-12-06",
       "time": "10:30",
       "team1": "ROYAL BC WANZE",
-      "team2": "BC BELLEFLAMME",
+      "team2": "BC BELLEFLAMME A",
       "category": "U 7 - MM C",
       "location": "ROYAL BC WANZE",
       "other": ""
@@ -3209,10 +3109,10 @@
       "code": "552334",
       "date": "2027-04-17",
       "time": "9:00",
-      "team1": "BC BELLEFLAMME",
+      "team1": "BC BELLEFLAMME A",
       "team2": "ROYAL BC WANZE",
       "category": "U 7 - MM C",
-      "location": "BC BELLEFLAMME",
+      "location": "BC BELLEFLAMME A",
       "other": ""
     },
     {

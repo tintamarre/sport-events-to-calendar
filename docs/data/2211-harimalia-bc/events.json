@@ -26,26 +26,6 @@
       "other": ""
     },
     {
-      "code": "760010",
-      "date": "2026-09-23",
-      "time": "21:00",
-      "team1": "HARIMALIA BC A",
-      "team2": "HARIMALIA BC D (+ 10)",
-      "category": "CPE PROV MESSIEURS",
-      "location": "HARIMALIA BC A",
-      "other": ""
-    },
-    {
-      "code": "760010",
-      "date": "2026-09-23",
-      "time": "21:00",
-      "team1": "HARIMALIA BC A",
-      "team2": "HARIMALIA BC D (+ 10)",
-      "category": "CPE PROV MESSIEURS",
-      "location": "HARIMALIA BC A",
-      "other": ""
-    },
-    {
       "code": "760030",
       "date": "2026-09-26",
       "time": "17:30",
@@ -53,16 +33,6 @@
       "team2": "HARIMALIA BC B (+ 10)",
       "category": "CPE PROV MESSIEURS",
       "location": "ABC WAREMME A",
-      "other": ""
-    },
-    {
-      "code": "403037",
-      "date": "2026-09-19",
-      "time": "19:00",
-      "team1": "BC SPRIMONT C",
-      "team2": "HARIMALIA BC A",
-      "category": "MM - DIVISION 2 B",
-      "location": "BC SPRIMONT C",
       "other": ""
     },
     {
@@ -296,16 +266,6 @@
       "other": ""
     },
     {
-      "code": "404037",
-      "date": "2026-09-19",
-      "time": "18:30",
-      "team1": "HENRI-CHAPELLE B",
-      "team2": "HARIMALIA BC B",
-      "category": "MM - DIVISION 3 A",
-      "location": "HENRI-CHAPELLE B",
-      "other": ""
-    },
-    {
       "code": "404052",
       "date": "2026-10-03",
       "time": "19:00",
@@ -533,16 +493,6 @@
       "team2": "ESL UNITED F",
       "category": "MM - DIVISION 3 A",
       "location": "HARIMALIA BC B",
-      "other": ""
-    },
-    {
-      "code": "405031",
-      "date": "2026-09-20",
-      "time": "15:00",
-      "team1": "ROYALE US AWANS A",
-      "team2": "HARIMALIA BC C",
-      "category": "MM - DIVISION 3 B",
-      "location": "ROYALE US AWANS A",
       "other": ""
     },
     {
@@ -974,16 +924,6 @@
       "category": "MM - DIVISION 4 B",
       "location": "HARIMALIA BC D",
       "other": ""
-    },
-    {
-      "code": "523036",
-      "date": "2026-09-19",
-      "time": "15:00",
-      "team1": "R 4A AYWAILLE-HAMOIR A",
-      "team2": "HARIMALIA BC",
-      "category": "U 10 - MM D",
-      "location": "R 4A AYWAILLE-HAMOIR A",
-      "other": "(ho Hamoir rue du mouli"
     },
     {
       "code": "523112",
@@ -1466,16 +1406,6 @@
       "other": ""
     },
     {
-      "code": "490036",
-      "date": "2026-09-19",
-      "time": "15:00",
-      "team1": "RABC ENSIVAL B",
-      "team2": "HARIMALIA BC",
-      "category": "U 14 - PROV MM A",
-      "location": "RABC ENSIVAL B",
-      "other": ""
-    },
-    {
       "code": "490052",
       "date": "2026-10-04",
       "time": "11:00",
@@ -1613,16 +1543,6 @@
       "team2": "HARIMALIA BC",
       "category": "U 14 - PROV MM A",
       "location": "ABC WAREMME B",
-      "other": ""
-    },
-    {
-      "code": "451036",
-      "date": "2026-09-19",
-      "time": "9:00",
-      "team1": "GIANTS BRAIVES A",
-      "team2": "HARIMALIA BC",
-      "category": "U 16 - ELITES MM B",
-      "location": "GIANTS BRAIVES A",
       "other": ""
     },
     {
@@ -1773,16 +1693,6 @@
       "team2": "CRISTAL SGH A",
       "category": "U 16 - ELITES MM B",
       "location": "HARIMALIA BC",
-      "other": ""
-    },
-    {
-      "code": "431036",
-      "date": "2026-09-19",
-      "time": "15:00",
-      "team1": "PRAYON TROOZ",
-      "team2": "HARIMALIA BC",
-      "category": "U 18 - ELITES MM B",
-      "location": "PRAYON TROOZ",
       "other": ""
     },
     {
@@ -1976,16 +1886,6 @@
       "other": ""
     },
     {
-      "code": "440035",
-      "date": "2026-09-20",
-      "time": "16:30",
-      "team1": "MARCHIN BASKET",
-      "team2": "HARIMALIA BC",
-      "category": "U 18 - PROV MM A",
-      "location": "MARCHIN BASKET",
-      "other": ""
-    },
-    {
       "code": "440052",
       "date": "2026-10-04",
       "time": "15:00",
@@ -2126,16 +2026,6 @@
       "other": ""
     },
     {
-      "code": "541036",
-      "date": "2026-09-20",
-      "time": "9:00",
-      "team1": "THEUX BC B",
-      "team2": "HARIMALIA BC",
-      "category": "U 8 - MM B",
-      "location": "THEUX BC B",
-      "other": ""
-    },
-    {
       "code": "541052",
       "date": "2026-10-03",
       "time": "15:00",
@@ -2173,6 +2063,16 @@
       "team2": "HENRI-CHAPELLE B",
       "category": "U 8 - MM B",
       "location": "HARIMALIA BC",
+      "other": ""
+    },
+    {
+      "code": "541036",
+      "date": "2026-11-28",
+      "time": "9:00",
+      "team1": "THEUX BC B",
+      "team2": "HARIMALIA BC",
+      "category": "U 8 - MM B",
+      "location": "THEUX BC B",
       "other": ""
     },
     {

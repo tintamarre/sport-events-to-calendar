@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "417052",
-      "date": "2026-10-03",
-      "time": "18:30",
-      "team1": "DF BC MALMEDY",
-      "team2": "MAIL. COMBLAIN",
-      "category": "DD - DIVISION 3 B",
-      "location": "DF BC MALMEDY",
-      "other": ""
-    },
-    {
       "code": "417062",
       "date": "2026-10-11",
       "time": "16:30",
@@ -156,6 +146,16 @@
       "other": ""
     },
     {
+      "code": "417052",
+      "date": "2027-03-06",
+      "time": "17:00",
+      "team1": "DF BC MALMEDY",
+      "team2": "MAIL. COMBLAIN",
+      "category": "DD - DIVISION 3 B",
+      "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
       "code": "417292",
       "date": "2027-03-20",
       "time": "18:30",
@@ -186,16 +186,6 @@
       "other": ""
     },
     {
-      "code": "407037",
-      "date": "2026-09-20",
-      "time": "10:00",
-      "team1": "R 4A AYWAILLE-HAMOIR D",
-      "team2": "DF BC MALMEDY",
-      "category": "MM - DIVISION 4 A",
-      "location": "R 4A AYWAILLE-HAMOIR D",
-      "other": "(Hall d'Hamoir)"
-    },
-    {
       "code": "407052",
       "date": "2026-10-02",
       "time": "20:30",
@@ -216,16 +206,6 @@
       "other": ""
     },
     {
-      "code": "407072",
-      "date": "2026-10-16",
-      "time": "20:30",
-      "team1": "DF BC MALMEDY",
-      "team2": "HENRI-CHAPELLE D",
-      "category": "MM - DIVISION 4 A",
-      "location": "DF BC MALMEDY",
-      "other": ""
-    },
-    {
       "code": "407104",
       "date": "2026-11-08",
       "time": "9:30",
@@ -241,6 +221,16 @@
       "time": "20:30",
       "team1": "DF BC MALMEDY",
       "team2": "THEUX BC C",
+      "category": "MM - DIVISION 4 A",
+      "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "407072",
+      "date": "2026-11-27",
+      "time": "20:30",
+      "team1": "DF BC MALMEDY",
+      "team2": "HENRI-CHAPELLE D",
       "category": "MM - DIVISION 4 A",
       "location": "DF BC MALMEDY",
       "other": ""
@@ -566,16 +556,6 @@
       "other": ""
     },
     {
-      "code": "506032",
-      "date": "2026-09-19",
-      "time": "13:00",
-      "team1": "DF BC MALMEDY",
-      "team2": "ROYAL HERVE-BATTICE D",
-      "category": "U 12 - MM G",
-      "location": "DF BC MALMEDY",
-      "other": ""
-    },
-    {
       "code": "506011",
       "date": "2026-09-26",
       "time": "9:00",
@@ -593,16 +573,6 @@
       "team2": "DF BC MALMEDY",
       "category": "U 12 - MM G",
       "location": "RABC ENSIVAL B",
-      "other": ""
-    },
-    {
-      "code": "506062",
-      "date": "2026-10-10",
-      "time": "13:00",
-      "team1": "DF BC MALMEDY",
-      "team2": "RBC BLEGNY",
-      "category": "U 12 - MM G",
-      "location": "DF BC MALMEDY",
       "other": ""
     },
     {
@@ -701,6 +671,16 @@
       "time": "13:00",
       "team1": "DF BC MALMEDY",
       "team2": "RABC ENSIVAL B",
+      "category": "U 12 - MM G",
+      "location": "DF BC MALMEDY",
+      "other": ""
+    },
+    {
+      "code": "506062",
+      "date": "2027-03-06",
+      "time": "15:00",
+      "team1": "DF BC MALMEDY",
+      "team2": "RBC BLEGNY",
       "category": "U 12 - MM G",
       "location": "DF BC MALMEDY",
       "other": ""
@@ -883,16 +863,6 @@
       "team2": "DF BC MALMEDY",
       "category": "U 14 - PROV MM C",
       "location": "BCM HERSTAL",
-      "other": ""
-    },
-    {
-      "code": "590036",
-      "date": "2026-09-19",
-      "time": "13:00",
-      "team1": "ALL. FLEMALLE C",
-      "team2": "DF BC MALMEDY",
-      "category": "U 16 - DD A",
-      "location": "ALL. FLEMALLE C",
       "other": ""
     },
     {
