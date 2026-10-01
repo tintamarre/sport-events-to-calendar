@@ -6,46 +6,6 @@
   },
   "events": [
     {
-      "code": "AW246039",
-      "date": "2026-09-26",
-      "time": "13:00",
-      "team1": "ALL. FLEMALLE",
-      "team2": "REBOND OTTIGNIES A",
-      "category": "COUPE AWBB U19 - FILLES",
-      "location": "ALL. FLEMALLE",
-      "other": ""
-    },
-    {
-      "code": "760503",
-      "date": "2026-09-26",
-      "time": "17:00",
-      "team1": "ALL. FLEMALLE A",
-      "team2": "RBC ALLEUR D",
-      "category": "CPE PROV DAMES",
-      "location": "ALL. FLEMALLE A",
-      "other": ""
-    },
-    {
-      "code": "760004",
-      "date": "2026-09-26",
-      "time": "19:00",
-      "team1": "ALL. FLEMALLE A",
-      "team2": "CRISTAL SGH C (+ 15)",
-      "category": "CPE PROV MESSIEURS",
-      "location": "ALL. FLEMALLE A",
-      "other": ""
-    },
-    {
-      "code": "760024",
-      "date": "2026-09-26",
-      "time": "21:00",
-      "team1": "ALL. FLEMALLE B",
-      "team2": "BC COINTE C (+ 5)",
-      "category": "CPE PROV MESSIEURS",
-      "location": "ALL. FLEMALLE B",
-      "other": ""
-    },
-    {
       "code": "414054",
       "date": "2026-10-03",
       "time": "20:30",
@@ -161,26 +121,6 @@
       "time": "15:00",
       "team1": "ALL. FLEMALLE A",
       "team2": "ROYAL HERVE-BATTICE D",
-      "category": "DD - DIVISION 2 A",
-      "location": "ALL. FLEMALLE A",
-      "other": ""
-    },
-    {
-      "code": "414223",
-      "date": "2027-01-30",
-      "time": "17:00",
-      "team1": "R HT-PRE OUGREE A",
-      "team2": "ALL. FLEMALLE A",
-      "category": "DD - DIVISION 2 A",
-      "location": "R HT-PRE OUGREE A",
-      "other": ""
-    },
-    {
-      "code": "414022",
-      "date": "2027-02-07",
-      "time": "15:00",
-      "team1": "ALL. FLEMALLE A",
-      "team2": "R HT-PRE OUGREE A",
       "category": "DD - DIVISION 2 A",
       "location": "ALL. FLEMALLE A",
       "other": ""
@@ -1316,6 +1256,16 @@
       "other": ""
     },
     {
+      "code": "409026",
+      "date": "2027-03-20",
+      "time": "19:00",
+      "team1": "ALL. FLEMALLE C",
+      "team2": "GIANTS BRAIVES A",
+      "category": "MM - DIVISION 4 C",
+      "location": "ALL. FLEMALLE C",
+      "other": "(Hall de Neuville)"
+    },
+    {
       "code": "409301",
       "date": "2027-03-28",
       "time": "13:00",
@@ -2266,16 +2216,6 @@
       "other": ""
     },
     {
-      "code": "502167",
-      "date": "2026-09-26",
-      "time": "17:00",
-      "team1": "ALL. FLEMALLE B",
-      "team2": "ROYAL BC WANZE A",
-      "category": "U 12 - MM C",
-      "location": "ALL. FLEMALLE B",
-      "other": ""
-    },
-    {
       "code": "502057",
       "date": "2026-10-03",
       "time": "13:00",
@@ -3163,7 +3103,7 @@
       "team2": "ALL. FLEMALLE B",
       "category": "U 14 - PROV MM A",
       "location": "PEPINSTER EAST BELG B",
-      "other": ""
+      "other": "(Hall du paire)"
     },
     {
       "code": "490066",
@@ -3643,6 +3583,16 @@
       "team2": "ALL. FLEMALLE A",
       "category": "U 16 - ELITES MM B",
       "location": "ROYAL BC WANZE A",
+      "other": ""
+    },
+    {
+      "code": "451023",
+      "date": "2026-10-17",
+      "time": "15:00",
+      "team1": "ALL. FLEMALLE A",
+      "team2": "HARIMALIA BC",
+      "category": "U 16 - ELITES MM B",
+      "location": "ALL. FLEMALLE A",
       "other": ""
     },
     {
@@ -4522,16 +4472,6 @@
       "team1": "ALL. FLEMALLE",
       "team2": "CASTORS BRAINE",
       "category": "U 19 - BRONZE REGIONALES A",
-      "location": "ALL. FLEMALLE",
-      "other": ""
-    },
-    {
-      "code": "551141",
-      "date": "2026-09-26",
-      "time": "11:00",
-      "team1": "ALL. FLEMALLE",
-      "team2": "HENRI-CHAPELLE B",
-      "category": "U 7 - MM B",
       "location": "ALL. FLEMALLE",
       "other": ""
     },

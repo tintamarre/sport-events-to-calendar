@@ -6,56 +6,6 @@
   },
   "events": [
     {
-      "code": "AW242042",
-      "date": "2026-09-26",
-      "time": "15:00",
-      "team1": "GIANTS BRAIVES",
-      "team2": "CRISTAL SGH",
-      "category": "COUPE AWBB U18 - GARCONS",
-      "location": "GIANTS BRAIVES",
-      "other": ""
-    },
-    {
-      "code": "763024",
-      "date": "2026-09-27",
-      "time": "13:00",
-      "team1": "ROYAL BC WANZE A",
-      "team2": "GIANTS BRAIVES B",
-      "category": "CPE PROV MINIMES MM",
-      "location": "ROYAL BC WANZE A",
-      "other": ""
-    },
-    {
-      "code": "763027",
-      "date": "2026-09-27",
-      "time": "13:00",
-      "team1": "GIANTS BRAIVES A",
-      "team2": "BC SPRIMONT",
-      "category": "CPE PROV MINIMES MM",
-      "location": "GIANTS BRAIVES A",
-      "other": ""
-    },
-    {
-      "code": "764021",
-      "date": "2026-09-26",
-      "time": "13:00",
-      "team1": "GIANTS BRAIVES A",
-      "team2": "RBC BLEGNY",
-      "category": "CPE PROV PUPILLES MM",
-      "location": "GIANTS BRAIVES A",
-      "other": ""
-    },
-    {
-      "code": "764033",
-      "date": "2026-09-27",
-      "time": "13:00",
-      "team1": "ROYAL ANS BC",
-      "team2": "GIANTS BRAIVES B",
-      "category": "CPE PROV PUPILLES MM",
-      "location": "ROYAL ANS BC",
-      "other": ""
-    },
-    {
       "code": "416061",
       "date": "2026-10-11",
       "time": "17:00",
@@ -384,6 +334,16 @@
       "category": "MM - DIVISION 4 C",
       "location": "GIANTS BRAIVES A",
       "other": ""
+    },
+    {
+      "code": "409026",
+      "date": "2027-03-20",
+      "time": "19:00",
+      "team1": "ALL. FLEMALLE C",
+      "team2": "GIANTS BRAIVES A",
+      "category": "MM - DIVISION 4 C",
+      "location": "ALL. FLEMALLE C",
+      "other": "(Hall de Neuville)"
     },
     {
       "code": "409306",
@@ -2186,16 +2146,6 @@
       "other": ""
     },
     {
-      "code": "544126",
-      "date": "2026-11-29",
-      "time": "11:00",
-      "team1": "GIANTS BRAIVES A",
-      "team2": "BC VERLAINE",
-      "category": "U 8 - MM E",
-      "location": "GIANTS BRAIVES A",
-      "other": ""
-    },
-    {
       "code": "544141",
       "date": "2026-12-05",
       "time": "9:00",
@@ -2273,6 +2223,16 @@
       "team2": "GIANTS BRAIVES A",
       "category": "U 8 - MM E",
       "location": "RBC ESNEUX B",
+      "other": ""
+    },
+    {
+      "code": "544126",
+      "date": "2027-03-07",
+      "time": "9:00",
+      "team1": "GIANTS BRAIVES A",
+      "team2": "BC VERLAINE",
+      "category": "U 8 - MM E",
+      "location": "GIANTS BRAIVES A",
       "other": ""
     },
     {

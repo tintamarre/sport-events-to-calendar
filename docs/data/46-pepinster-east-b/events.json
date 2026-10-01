@@ -6,56 +6,6 @@
   },
   "events": [
     {
-      "code": "AW246038",
-      "date": "2026-09-27",
-      "time": "13:00",
-      "team1": "MONS CAPITALE",
-      "team2": "PEPINSTER EAST BELG",
-      "category": "COUPE AWBB U19 - FILLES",
-      "location": "MONS CAPITALE",
-      "other": ""
-    },
-    {
-      "code": "762016",
-      "date": "2026-09-27",
-      "time": "13:00",
-      "team1": "PEPINSTER EAST BELG",
-      "team2": "RBC VISE",
-      "category": "CPE PROV CADETS",
-      "location": "PEPINSTER EAST BELG",
-      "other": ""
-    },
-    {
-      "code": "760032",
-      "date": "2026-09-26",
-      "time": "17:00",
-      "team1": "RBC STAVELOT A",
-      "team2": "PEPINSTER EAST BELG D (+",
-      "category": "CPE PROV MESSIEURS",
-      "location": "RBC STAVELOT A",
-      "other": ""
-    },
-    {
-      "code": "760020",
-      "date": "2026-09-26",
-      "time": "21:00",
-      "team1": "RBC DISON-ANDRIMONT A",
-      "team2": "PEPINSTER EAST BELG C",
-      "category": "CPE PROV MESSIEURS",
-      "location": "RBC DISON-ANDRIMONT A",
-      "other": ""
-    },
-    {
-      "code": "764020",
-      "date": "2026-09-26",
-      "time": "9:30",
-      "team1": "RB TILFF A",
-      "team2": "PEPINSTER EAST BELG A",
-      "category": "CPE PROV PUPILLES MM",
-      "location": "RB TILFF A",
-      "other": ""
-    },
-    {
       "code": "414052",
       "date": "2026-10-04",
       "time": "13:00",
@@ -103,16 +53,6 @@
       "team2": "PEPINSTER EAST BELG B",
       "category": "DD - DIVISION 2 A",
       "location": "RBC BLEGNY B",
-      "other": ""
-    },
-    {
-      "code": "414112",
-      "date": "2026-11-14",
-      "time": "17:00",
-      "team1": "PEPINSTER EAST BELG B",
-      "team2": "R HT-PRE OUGREE A",
-      "category": "DD - DIVISION 2 A",
-      "location": "PEPINSTER EAST BELG B",
       "other": ""
     },
     {
@@ -203,16 +143,6 @@
       "team2": "PEPINSTER EAST BELG B",
       "category": "DD - DIVISION 2 A",
       "location": "PRAYON TROOZ B",
-      "other": ""
-    },
-    {
-      "code": "414253",
-      "date": "2027-02-20",
-      "time": "20:00",
-      "team1": "R HT-PRE OUGREE A",
-      "team2": "PEPINSTER EAST BELG B",
-      "category": "DD - DIVISION 2 A",
-      "location": "R HT-PRE OUGREE A",
       "other": ""
     },
     {
@@ -1116,16 +1046,6 @@
       "other": ""
     },
     {
-      "code": "760032",
-      "date": "2026-09-26",
-      "time": "17:00",
-      "team1": "RBC STAVELOT A",
-      "team2": "PEPINSTER EAST BELG D (+ 15)",
-      "category": "PEPINSTER EAST BELG D (+ 15)",
-      "location": "RBC STAVELOT A",
-      "other": ""
-    },
-    {
       "code": "NAHSE21BGD",
       "date": "2026-10-02",
       "time": "21:00",
@@ -1353,7 +1273,7 @@
       "team2": "BC BELLEFLAMME A",
       "category": "U 10 - MM A",
       "location": "PEPINSTER EAST BELG A",
-      "other": ""
+      "other": "(Hall du paire)"
     },
     {
       "code": "520065",
@@ -1553,7 +1473,7 @@
       "team2": "RB TILFF A",
       "category": "U 10 - MM B",
       "location": "PEPINSTER EAST BELG B",
-      "other": ""
+      "other": "(Hall du paire)"
     },
     {
       "code": "521102",
@@ -1703,7 +1623,7 @@
       "team2": "VAIL. JUPILLE",
       "category": "U 10 - MM E",
       "location": "PEPINSTER EAST BELG C",
-      "other": "(Ho du Paire)"
+      "other": "(Hall du paire)"
     },
     {
       "code": "524065",
@@ -1857,13 +1777,13 @@
     },
     {
       "code": "503054",
-      "date": "2026-10-03",
-      "time": "13:00",
+      "date": "2026-10-04",
+      "time": "15:30",
       "team1": "PEPINSTER EAST BELG B",
       "team2": "RBC VISE B",
       "category": "U 12 - MM D",
       "location": "PEPINSTER EAST BELG B",
-      "other": "(Ho du Paire)"
+      "other": "(Hall du paire)"
     },
     {
       "code": "503063",
@@ -2043,7 +1963,7 @@
       "team2": "RBC DISON-ANDRIMONT A",
       "category": "U 12 - MM F",
       "location": "PEPINSTER EAST BELG C",
-      "other": "(Ho du Paire)"
+      "other": "(Hall du paire)"
     },
     {
       "code": "505064",
@@ -2223,7 +2143,7 @@
       "team2": "HENRI-CHAPELLE B",
       "category": "U 14 - ELITES MM A",
       "location": "PEPINSTER EAST BELG A",
-      "other": ""
+      "other": "(Hall du paire)"
     },
     {
       "code": "480101",
@@ -2383,7 +2303,7 @@
       "team2": "ALL. FLEMALLE B",
       "category": "U 14 - PROV MM A",
       "location": "PEPINSTER EAST BELG B",
-      "other": ""
+      "other": "(Hall du paire)"
     },
     {
       "code": "490064",
@@ -2533,7 +2453,7 @@
       "team2": "HENRI-CHAPELLE",
       "category": "U 16 - ELITES MM A",
       "location": "PEPINSTER EAST BELG A",
-      "other": ""
+      "other": "(Hall du paire)"
     },
     {
       "code": "450102",
@@ -2703,7 +2623,7 @@
       "team2": "VAIL. JUPILLE",
       "category": "U 16 - PROV MM B",
       "location": "PEPINSTER EAST BELG B",
-      "other": "(Ho du paire)"
+      "other": "(Hall du paire)"
     },
     {
       "code": "471065",
@@ -2853,7 +2773,7 @@
       "team2": "RABC ENSIVAL",
       "category": "U 18 - ELITES MM B",
       "location": "PEPINSTER EAST BELG",
-      "other": ""
+      "other": "(Hall du paire)"
     },
     {
       "code": "431102",
@@ -3456,16 +3376,6 @@
       "other": ""
     },
     {
-      "code": "540011",
-      "date": "2026-09-26",
-      "time": "9:00",
-      "team1": "RBC STAVELOT",
-      "team2": "PEPINSTER EAST BELG A",
-      "category": "U 8 - MM A",
-      "location": "RBC STAVELOT",
-      "other": ""
-    },
-    {
       "code": "540054",
       "date": "2026-10-03",
       "time": "9:00",
@@ -3483,7 +3393,7 @@
       "team2": "RBC DISON-ANDRIMONT",
       "category": "U 8 - MM A",
       "location": "PEPINSTER EAST BELG A",
-      "other": ""
+      "other": "(Hall du paire)"
     },
     {
       "code": "540102",
@@ -3663,7 +3573,7 @@
       "team2": "ROYAL MOSA AC 1941",
       "category": "U 8 - MM B",
       "location": "PEPINSTER EAST BELG B",
-      "other": ""
+      "other": "(Hall du paire)"
     },
     {
       "code": "541102",

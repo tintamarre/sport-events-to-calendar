@@ -6,46 +6,6 @@
   },
   "events": [
     {
-      "code": "760505",
-      "date": "2026-09-27",
-      "time": "17:30",
-      "team1": "BC VERLAINE A (+ 5)",
-      "team2": "RBC HANEFFE B",
-      "category": "CPE PROV DAMES",
-      "location": "BC VERLAINE A (+ 5)",
-      "other": ""
-    },
-    {
-      "code": "760009",
-      "date": "2026-09-27",
-      "time": "15:30",
-      "team1": "BC VERLAINE (+  10)",
-      "team2": "ROYAL SPA BC C",
-      "category": "CPE PROV MESSIEURS",
-      "location": "BC VERLAINE (+  10)",
-      "other": ""
-    },
-    {
-      "code": "763018",
-      "date": "2026-09-26",
-      "time": "11:00",
-      "team1": "ROYAL SPA BC B",
-      "team2": "BC VERLAINE",
-      "category": "CPE PROV MINIMES MM",
-      "location": "ROYAL SPA BC B",
-      "other": ""
-    },
-    {
-      "code": "764022",
-      "date": "2026-09-26",
-      "time": "15:00",
-      "team1": "ORP JAUCHE",
-      "team2": "BC VERLAINE",
-      "category": "CPE PROV PUPILLES MM",
-      "location": "ORP JAUCHE",
-      "other": ""
-    },
-    {
       "code": "415051",
       "date": "2026-10-04",
       "time": "11:45",
@@ -836,21 +796,21 @@
       "other": ""
     },
     {
-      "code": "527064",
-      "date": "2026-10-10",
-      "time": "13:00",
-      "team1": "BC VERLAINE B",
-      "team2": "RBC HANEFFE A",
-      "category": "U 10 - MM H",
-      "location": "BC VERLAINE B",
-      "other": ""
-    },
-    {
       "code": "527114",
       "date": "2026-10-17",
       "time": "10:45",
       "team1": "BC VERLAINE B",
       "team2": "RBC ALLEUR B",
+      "category": "U 10 - MM H",
+      "location": "BC VERLAINE B",
+      "other": ""
+    },
+    {
+      "code": "527064",
+      "date": "2026-11-01",
+      "time": "9:30",
+      "team1": "BC VERLAINE B",
+      "team2": "RBC HANEFFE A",
       "category": "U 10 - MM H",
       "location": "BC VERLAINE B",
       "other": ""
@@ -1356,16 +1316,6 @@
       "other": ""
     },
     {
-      "code": "493014",
-      "date": "2026-09-27",
-      "time": "9:00",
-      "team1": "ROYAL BC WANZE",
-      "team2": "BC VERLAINE",
-      "category": "U 14 - PROV MM D",
-      "location": "ROYAL BC WANZE",
-      "other": ""
-    },
-    {
       "code": "493113",
       "date": "2026-10-17",
       "time": "13:00",
@@ -1536,16 +1486,6 @@
       "other": "(Ho de Neuville)"
     },
     {
-      "code": "591114",
-      "date": "2026-11-15",
-      "time": "15:30",
-      "team1": "BC VERLAINE",
-      "team2": "RBC VISE",
-      "category": "U 16 - DD B",
-      "location": "BC VERLAINE",
-      "other": ""
-    },
-    {
       "code": "591154",
       "date": "2026-12-13",
       "time": "13:30",
@@ -1643,6 +1583,16 @@
       "team2": "BC VERLAINE",
       "category": "U 16 - DD B",
       "location": "UN HUY BASKET",
+      "other": ""
+    },
+    {
+      "code": "591114",
+      "date": "2027-04-18",
+      "time": "17:00",
+      "team1": "BC VERLAINE",
+      "team2": "RBC VISE",
+      "category": "U 16 - DD B",
+      "location": "BC VERLAINE",
       "other": ""
     },
     {
@@ -1956,26 +1906,6 @@
       "other": ""
     },
     {
-      "code": "544114",
-      "date": "2026-11-14",
-      "time": "11:00",
-      "team1": "BC VERLAINE",
-      "team2": "RBC ESNEUX B",
-      "category": "U 8 - MM E",
-      "location": "BC VERLAINE",
-      "other": ""
-    },
-    {
-      "code": "544126",
-      "date": "2026-11-29",
-      "time": "11:00",
-      "team1": "GIANTS BRAIVES A",
-      "team2": "BC VERLAINE",
-      "category": "U 8 - MM E",
-      "location": "GIANTS BRAIVES A",
-      "other": ""
-    },
-    {
       "code": "544144",
       "date": "2026-12-05",
       "time": "11:00",
@@ -2043,6 +1973,26 @@
       "team2": "HANNUT BC A",
       "category": "U 8 - MM E",
       "location": "BC VERLAINE",
+      "other": ""
+    },
+    {
+      "code": "544114",
+      "date": "2027-02-20",
+      "time": "11:00",
+      "team1": "BC VERLAINE",
+      "team2": "RBC ESNEUX B",
+      "category": "U 8 - MM E",
+      "location": "BC VERLAINE",
+      "other": ""
+    },
+    {
+      "code": "544126",
+      "date": "2027-03-07",
+      "time": "9:00",
+      "team1": "GIANTS BRAIVES A",
+      "team2": "BC VERLAINE",
+      "category": "U 8 - MM E",
+      "location": "GIANTS BRAIVES A",
       "other": ""
     },
     {

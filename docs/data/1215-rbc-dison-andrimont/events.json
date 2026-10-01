@@ -6,56 +6,6 @@
   },
   "events": [
     {
-      "code": "760504",
-      "date": "2026-09-26",
-      "time": "19:00",
-      "team1": "RBC DISON-ANDRIMONT A",
-      "team2": "ROYAL HERVE-BATTICE D",
-      "category": "CPE PROV DAMES",
-      "location": "RBC DISON-ANDRIMONT A",
-      "other": ""
-    },
-    {
-      "code": "760027",
-      "date": "2026-09-26",
-      "time": "19:00",
-      "team1": "RB TILFF B",
-      "team2": "RBC DISON-ANDRIMONT B (",
-      "category": "CPE PROV MESSIEURS",
-      "location": "RB TILFF B",
-      "other": ""
-    },
-    {
-      "code": "760013",
-      "date": "2026-09-26",
-      "time": "17:00",
-      "team1": "RBC DISON-ANDRIMONT C (",
-      "team2": "ROYAL BC NINANE C",
-      "category": "CPE PROV MESSIEURS",
-      "location": "RBC DISON-ANDRIMONT C (",
-      "other": ""
-    },
-    {
-      "code": "760020",
-      "date": "2026-09-26",
-      "time": "21:00",
-      "team1": "RBC DISON-ANDRIMONT A",
-      "team2": "PEPINSTER EAST BELG C",
-      "category": "CPE PROV MESSIEURS",
-      "location": "RBC DISON-ANDRIMONT A",
-      "other": ""
-    },
-    {
-      "code": "763013",
-      "date": "2026-09-26",
-      "time": "15:00",
-      "team1": "RBC STAVELOT",
-      "team2": "RBC DISON-ANDRIMONT",
-      "category": "CPE PROV MINIMES MM",
-      "location": "RBC STAVELOT",
-      "other": ""
-    },
-    {
       "code": "774008",
       "date": "2026-11-01",
       "time": "11:00",
@@ -156,16 +106,6 @@
       "other": ""
     },
     {
-      "code": "414163",
-      "date": "2026-12-19",
-      "time": "17:00",
-      "team1": "R HT-PRE OUGREE A",
-      "team2": "RBC DISON-ANDRIMONT A",
-      "category": "DD - DIVISION 2 A",
-      "location": "R HT-PRE OUGREE A",
-      "other": ""
-    },
-    {
       "code": "414196",
       "date": "2027-01-09",
       "time": "19:00",
@@ -263,16 +203,6 @@
       "team2": "RBC DISON-ANDRIMONT A",
       "category": "DD - DIVISION 2 A",
       "location": "ROYALE US AWANS",
-      "other": ""
-    },
-    {
-      "code": "414326",
-      "date": "2027-04-11",
-      "time": "18:00",
-      "team1": "RBC DISON-ANDRIMONT A",
-      "team2": "R HT-PRE OUGREE A",
-      "category": "DD - DIVISION 2 A",
-      "location": "RBC DISON-ANDRIMONT A",
       "other": ""
     },
     {
@@ -1116,16 +1046,6 @@
       "other": ""
     },
     {
-      "code": "760027",
-      "date": "2026-09-26",
-      "time": "19:00",
-      "team1": "RB TILFF B",
-      "team2": "RBC DISON-ANDRIMONT B (+ 5)",
-      "category": "RBC DISON-ANDRIMONT B (+ 5)",
-      "location": "RB TILFF B",
-      "other": ""
-    },
-    {
       "code": "524051",
       "date": "2026-10-03",
       "time": "13:00",
@@ -1386,16 +1306,6 @@
       "other": ""
     },
     {
-      "code": "526125",
-      "date": "2027-02-20",
-      "time": "13:00",
-      "team1": "RBC DISON-ANDRIMONT A",
-      "team2": "BC SANKT VITH",
-      "category": "U 10 - MM G",
-      "location": "RBC DISON-ANDRIMONT A",
-      "other": ""
-    },
-    {
       "code": "526285",
       "date": "2027-03-13",
       "time": "13:00",
@@ -1436,16 +1346,6 @@
       "other": ""
     },
     {
-      "code": "526321",
-      "date": "2027-04-10",
-      "time": "11:00",
-      "team1": "BC SANKT VITH",
-      "team2": "RBC DISON-ANDRIMONT A",
-      "category": "U 10 - MM G",
-      "location": "BC SANKT VITH",
-      "other": ""
-    },
-    {
       "code": "505053",
       "date": "2026-10-03",
       "time": "13:00",
@@ -1453,7 +1353,7 @@
       "team2": "RBC DISON-ANDRIMONT A",
       "category": "U 12 - MM F",
       "location": "PEPINSTER EAST BELG C",
-      "other": "(Ho du Paire)"
+      "other": "(Hall du paire)"
     },
     {
       "code": "505066",
@@ -2376,16 +2276,6 @@
       "other": ""
     },
     {
-      "code": "420093",
-      "date": "2026-09-27",
-      "time": "15:00",
-      "team1": "ROYAL ANS BC",
-      "team2": "RBC DISON-ANDRIMONT",
-      "category": "U 21 - MM",
-      "location": "ROYAL ANS BC",
-      "other": ""
-    },
-    {
       "code": "420056",
       "date": "2026-10-03",
       "time": "15:00",
@@ -2643,7 +2533,7 @@
       "team2": "RBC DISON-ANDRIMONT",
       "category": "U 8 - MM A",
       "location": "PEPINSTER EAST BELG A",
-      "other": ""
+      "other": "(Hall du paire)"
     },
     {
       "code": "540105",

@@ -6,76 +6,6 @@
   },
   "events": [
     {
-      "code": "AW217016",
-      "date": "2026-09-26",
-      "time": "21:00",
-      "team1": "ROYAL BC NINANE (+ 5)",
-      "team2": "RPC ANDERLECHT",
-      "category": "COUPE AWBB MESSIEURS",
-      "location": "ROYAL BC NINANE (+ 5)",
-      "other": ""
-    },
-    {
-      "code": "AW241036",
-      "date": "2026-09-27",
-      "time": "16:00",
-      "team1": "ENTITE COURCELLES",
-      "team2": "ROYAL BC NINANE",
-      "category": "COUPE AWBB U21 - GARCONS",
-      "location": "ENTITE COURCELLES",
-      "other": ""
-    },
-    {
-      "code": "5",
-      "date": "2026-09-25",
-      "time": "20:30",
-      "team1": "GEMBO BORGERHOUT",
-      "team2": "ROYAL BC NINANE",
-      "category": "CPE BELG MESSIEURS",
-      "location": "GEMBO BORGERHOUT",
-      "other": ""
-    },
-    {
-      "code": "762010",
-      "date": "2026-09-27",
-      "time": "10:00",
-      "team1": "HARIMALIA BC B",
-      "team2": "ROYAL BC NINANE",
-      "category": "CPE PROV CADETS",
-      "location": "HARIMALIA BC B",
-      "other": ""
-    },
-    {
-      "code": "760516",
-      "date": "2026-09-26",
-      "time": "19:00",
-      "team1": "ATLAS A JUPILLE A",
-      "team2": "ROYAL BC NINANE A (+ 5)",
-      "category": "CPE PROV DAMES",
-      "location": "ATLAS A JUPILLE A",
-      "other": ""
-    },
-    {
-      "code": "760013",
-      "date": "2026-09-26",
-      "time": "17:00",
-      "team1": "RBC DISON-ANDRIMONT C (",
-      "team2": "ROYAL BC NINANE C",
-      "category": "CPE PROV MESSIEURS",
-      "location": "RBC DISON-ANDRIMONT C (",
-      "other": ""
-    },
-    {
-      "code": "764023",
-      "date": "2026-09-26",
-      "time": "13:00",
-      "team1": "RABC ENSIVAL A",
-      "team2": "ROYAL BC NINANE",
-      "category": "CPE PROV PUPILLES MM",
-      "location": "RABC ENSIVAL A",
-      "other": ""
-    },
-    {
       "code": "415052",
       "date": "2026-10-04",
       "time": "16:00",
@@ -507,8 +437,8 @@
     },
     {
       "code": "406102",
-      "date": "2026-11-07",
-      "time": "19:00",
+      "date": "2026-11-08",
+      "time": "14:00",
       "team1": "ROYAL BC NINANE C",
       "team2": "RB TILFF C",
       "category": "MM - DIVISION 3 C",
@@ -527,8 +457,8 @@
     },
     {
       "code": "406122",
-      "date": "2026-11-21",
-      "time": "19:00",
+      "date": "2026-11-29",
+      "time": "14:00",
       "team1": "ROYAL BC NINANE C",
       "team2": "BC SANKT VITH",
       "category": "MM - DIVISION 3 C",
@@ -747,8 +677,8 @@
     },
     {
       "code": "407102",
-      "date": "2026-11-07",
-      "time": "17:00",
+      "date": "2026-11-08",
+      "time": "10:00",
       "team1": "ROYAL BC NINANE E",
       "team2": "PRAYON TROOZ B",
       "category": "MM - DIVISION 4 A",
@@ -1157,8 +1087,8 @@
     },
     {
       "code": "AW102065",
-      "date": "2026-12-05",
-      "time": "21:00",
+      "date": "2026-12-06",
+      "time": "16:00",
       "team1": "ROYAL BC NINANE A",
       "team2": "CEP FLEURUS",
       "category": "MM - REGIONALE 2 B",
@@ -1698,7 +1628,7 @@
     {
       "code": "524062",
       "date": "2026-10-10",
-      "time": "10:30",
+      "time": "10:00",
       "team1": "ROYAL BC NINANE B",
       "team2": "RBC BLEGNY A",
       "category": "U 10 - MM E",
@@ -2496,23 +2426,23 @@
       "other": ""
     },
     {
-      "code": "580102",
-      "date": "2026-11-08",
-      "time": "10:00",
-      "team1": "ROYAL BC NINANE A",
-      "team2": "RBC VISE",
-      "category": "U 19 - DD",
-      "location": "ROYAL BC NINANE A",
-      "other": ""
-    },
-    {
       "code": "580103",
-      "date": "2026-11-08",
-      "time": "14:00",
+      "date": "2026-11-07",
+      "time": "13:45",
       "team1": "ROYAL BC NINANE B",
       "team2": "ATLAS A JUPILLE",
       "category": "U 19 - DD",
       "location": "ROYAL BC NINANE B",
+      "other": ""
+    },
+    {
+      "code": "580102",
+      "date": "2026-11-07",
+      "time": "15:45",
+      "team1": "ROYAL BC NINANE A",
+      "team2": "RBC VISE",
+      "category": "U 19 - DD",
+      "location": "ROYAL BC NINANE A",
       "other": ""
     },
     {
