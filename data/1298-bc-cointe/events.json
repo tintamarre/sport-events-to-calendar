@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "AW104022",
-      "date": "2026-10-03",
-      "time": "20:00",
-      "team1": "RE PONT-DE-LOUP",
-      "team2": "BC COINTE A",
-      "category": "DD - REGIONALE 1",
-      "location": "RE PONT-DE-LOUP",
-      "other": ""
-    },
-    {
       "code": "AW104026",
       "date": "2026-10-10",
       "time": "17:00",
@@ -203,16 +193,6 @@
       "team2": "RCS NATOYE",
       "category": "DD - REGIONALE 1",
       "location": "BC COINTE A",
-      "other": ""
-    },
-    {
-      "code": "401054",
-      "date": "2026-10-02",
-      "time": "21:00",
-      "team1": "ETOILE JUPILLE A",
-      "team2": "BC COINTE A",
-      "category": "MM - DIVISION 1",
-      "location": "ETOILE JUPILLE A",
       "other": ""
     },
     {
@@ -436,16 +416,6 @@
       "other": ""
     },
     {
-      "code": "405056",
-      "date": "2026-10-03",
-      "time": "21:00",
-      "team1": "R HT-PRE OUGREE A",
-      "team2": "BC COINTE B",
-      "category": "MM - DIVISION 3 B",
-      "location": "R HT-PRE OUGREE A",
-      "other": ""
-    },
-    {
       "code": "405063",
       "date": "2026-10-10",
       "time": "21:00",
@@ -663,16 +633,6 @@
       "team2": "BC COINTE B",
       "category": "MM - DIVISION 3 B",
       "location": "RJS GRIVEGNEE",
-      "other": ""
-    },
-    {
-      "code": "409054",
-      "date": "2026-10-04",
-      "time": "17:30",
-      "team1": "ETOILE JUPILLE C",
-      "team2": "BC COINTE C",
-      "category": "MM - DIVISION 4 C",
-      "location": "ETOILE JUPILLE C",
       "other": ""
     },
     {
@@ -1186,16 +1146,6 @@
       "other": ""
     },
     {
-      "code": "527052",
-      "date": "2026-10-03",
-      "time": "11:30",
-      "team1": "BC COINTE C",
-      "team2": "BC VERLAINE B",
-      "category": "U 10 - MM H",
-      "location": "BC COINTE C",
-      "other": ""
-    },
-    {
       "code": "527065",
       "date": "2026-10-10",
       "time": "9:30",
@@ -1356,16 +1306,6 @@
       "other": ""
     },
     {
-      "code": "502052",
-      "date": "2026-10-03",
-      "time": "11:30",
-      "team1": "BC COINTE A",
-      "team2": "ROYAL BC WANZE A",
-      "category": "U 12 - MM C",
-      "location": "BC COINTE A",
-      "other": ""
-    },
-    {
       "code": "502065",
       "date": "2026-10-10",
       "time": "10:30",
@@ -1413,16 +1353,6 @@
       "team2": "BC COINTE A",
       "category": "U 12 - MM C",
       "location": "LA VILLERSOISE B",
-      "other": ""
-    },
-    {
-      "code": "502142",
-      "date": "2026-12-05",
-      "time": "9:00",
-      "team1": "BC COINTE A",
-      "team2": "ROYAL ANS BC A",
-      "category": "U 12 - MM C",
-      "location": "BC COINTE A",
       "other": ""
     },
     {
@@ -1506,16 +1436,6 @@
       "other": ""
     },
     {
-      "code": "502275",
-      "date": "2027-03-06",
-      "time": "10:45",
-      "team1": "ROYAL ANS BC A",
-      "team2": "BC COINTE A",
-      "category": "U 12 - MM C",
-      "location": "ROYAL ANS BC A",
-      "other": ""
-    },
-    {
       "code": "502282",
       "date": "2027-03-13",
       "time": "11:30",
@@ -1573,16 +1493,6 @@
       "team2": "ROYAL HERVE-BATTICE C",
       "category": "U 12 - MM C",
       "location": "BC COINTE A",
-      "other": ""
-    },
-    {
-      "code": "505054",
-      "date": "2026-10-03",
-      "time": "13:30",
-      "team1": "RBC AUBEL",
-      "team2": "BC COINTE B",
-      "category": "U 12 - MM F",
-      "location": "RBC AUBEL",
       "other": ""
     },
     {
@@ -1746,16 +1656,6 @@
       "other": ""
     },
     {
-      "code": "601052",
-      "date": "2026-10-03",
-      "time": "13:30",
-      "team1": "BC COINTE",
-      "team2": "RBC BLEGNY",
-      "category": "U 14 - DD B",
-      "location": "BC COINTE",
-      "other": ""
-    },
-    {
       "code": "601065",
       "date": "2026-10-10",
       "time": "11:00",
@@ -1873,16 +1773,6 @@
       "team2": "BC COINTE",
       "category": "U 14 - DD B",
       "location": "RBC AUBEL",
-      "other": ""
-    },
-    {
-      "code": "481054",
-      "date": "2026-10-03",
-      "time": "9:00",
-      "team1": "ABC WAREMME A",
-      "team2": "BC COINTE A",
-      "category": "U 14 - ELITES MM B",
-      "location": "ABC WAREMME A",
       "other": ""
     },
     {
@@ -2043,16 +1933,6 @@
       "team2": "BC COINTE A",
       "category": "U 14 - ELITES MM B",
       "location": "COLLEGE S LOUIS",
-      "other": ""
-    },
-    {
-      "code": "491052",
-      "date": "2026-10-03",
-      "time": "15:30",
-      "team1": "BC COINTE B",
-      "team2": "RBC VISE B",
-      "category": "U 14 - PROV MM B",
-      "location": "BC COINTE B",
       "other": ""
     },
     {
@@ -2356,16 +2236,6 @@
       "other": ""
     },
     {
-      "code": "420054",
-      "date": "2026-10-04",
-      "time": "11:00",
-      "team1": "MAIL. COMBLAIN",
-      "team2": "BC COINTE",
-      "category": "U 21 - MM",
-      "location": "MAIL. COMBLAIN",
-      "other": ""
-    },
-    {
       "code": "420062",
       "date": "2026-10-11",
       "time": "13:00",
@@ -2606,16 +2476,6 @@
       "other": ""
     },
     {
-      "code": "551052",
-      "date": "2026-10-03",
-      "time": "10:15",
-      "team1": "BC COINTE B",
-      "team2": "CRISTAL SGH B",
-      "category": "U 7 - MM B",
-      "location": "BC COINTE B",
-      "other": ""
-    },
-    {
       "code": "551065",
       "date": "2026-10-10",
       "time": "9:00",
@@ -2773,16 +2633,6 @@
       "team2": "BC COINTE B",
       "category": "U 7 - MM B",
       "location": "BC BELLEFLAMME B",
-      "other": ""
-    },
-    {
-      "code": "552054",
-      "date": "2026-10-03",
-      "time": "9:00",
-      "team1": "BC BELLEFLAMME A",
-      "team2": "BC COINTE A",
-      "category": "U 7 - MM C",
-      "location": "BC BELLEFLAMME A",
       "other": ""
     },
     {

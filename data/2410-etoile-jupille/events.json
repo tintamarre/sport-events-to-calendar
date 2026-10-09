@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "416054",
-      "date": "2026-10-04",
-      "time": "15:30",
-      "team1": "ETOILE JUPILLE",
-      "team2": "ALL. FLEMALLE C",
-      "category": "DD - DIVISION 3 A",
-      "location": "ETOILE JUPILLE",
-      "other": ""
-    },
-    {
       "code": "416064",
       "date": "2026-10-09",
       "time": "21:00",
@@ -183,16 +173,6 @@
       "team2": "RBC VISE B",
       "category": "DD - DIVISION 3 A",
       "location": "ETOILE JUPILLE",
-      "other": ""
-    },
-    {
-      "code": "401054",
-      "date": "2026-10-02",
-      "time": "21:00",
-      "team1": "ETOILE JUPILLE A",
-      "team2": "BC COINTE A",
-      "category": "MM - DIVISION 1",
-      "location": "ETOILE JUPILLE A",
       "other": ""
     },
     {
@@ -416,16 +396,6 @@
       "other": ""
     },
     {
-      "code": "404054",
-      "date": "2026-10-04",
-      "time": "11:30",
-      "team1": "ETOILE JUPILLE B",
-      "team2": "BC BELLEFLAMME D",
-      "category": "MM - DIVISION 3 A",
-      "location": "ETOILE JUPILLE B",
-      "other": ""
-    },
-    {
       "code": "404063",
       "date": "2026-10-08",
       "time": "21:00",
@@ -646,26 +616,6 @@
       "other": ""
     },
     {
-      "code": "407054",
-      "date": "2026-10-04",
-      "time": "9:30",
-      "team1": "ETOILE JUPILLE D",
-      "team2": "ROYAL BC NINANE E",
-      "category": "MM - DIVISION 4 A",
-      "location": "ETOILE JUPILLE D",
-      "other": ""
-    },
-    {
-      "code": "407063",
-      "date": "2026-10-11",
-      "time": "11:00",
-      "team1": "THEUX BC C",
-      "team2": "ETOILE JUPILLE D",
-      "category": "MM - DIVISION 4 A",
-      "location": "THEUX BC C",
-      "other": ""
-    },
-    {
       "code": "407075",
       "date": "2026-10-17",
       "time": "18:30",
@@ -683,6 +633,16 @@
       "team2": "BBC EUPEN B",
       "category": "MM - DIVISION 4 A",
       "location": "ETOILE JUPILLE D",
+      "other": ""
+    },
+    {
+      "code": "407063",
+      "date": "2026-11-01",
+      "time": "11:00",
+      "team1": "THEUX BC C",
+      "team2": "ETOILE JUPILLE D",
+      "category": "MM - DIVISION 4 A",
+      "location": "THEUX BC C",
       "other": ""
     },
     {
@@ -853,16 +813,6 @@
       "team2": "ETOILE JUPILLE D",
       "category": "MM - DIVISION 4 A",
       "location": "BBC EUPEN B",
-      "other": ""
-    },
-    {
-      "code": "409054",
-      "date": "2026-10-04",
-      "time": "17:30",
-      "team1": "ETOILE JUPILLE C",
-      "team2": "BC COINTE C",
-      "category": "MM - DIVISION 4 C",
-      "location": "ETOILE JUPILLE C",
       "other": ""
     },
     {
@@ -1046,16 +996,6 @@
       "other": ""
     },
     {
-      "code": "500054",
-      "date": "2026-10-03",
-      "time": "13:00",
-      "team1": "ETOILE JUPILLE",
-      "team2": "ROYAL HERVE-BATTICE B",
-      "category": "U 12 - MM A",
-      "location": "ETOILE JUPILLE",
-      "other": ""
-    },
-    {
       "code": "500075",
       "date": "2026-10-18",
       "time": "9:00",
@@ -1233,26 +1173,6 @@
       "team2": "BC BELLEFLAMME",
       "category": "U 12 - MM A",
       "location": "ETOILE JUPILLE",
-      "other": ""
-    },
-    {
-      "code": "501054",
-      "date": "2026-10-03",
-      "time": "11:00",
-      "team1": "ETOILE JUPILLE B",
-      "team2": "ROYAL BC NINANE",
-      "category": "U 12 - MM B",
-      "location": "ETOILE JUPILLE B",
-      "other": ""
-    },
-    {
-      "code": "501063",
-      "date": "2026-10-10",
-      "time": "11:00",
-      "team1": "THEUX BC A",
-      "team2": "ETOILE JUPILLE B",
-      "category": "U 12 - MM B",
-      "location": "THEUX BC A",
       "other": ""
     },
     {
@@ -1456,16 +1376,6 @@
       "other": ""
     },
     {
-      "code": "480054",
-      "date": "2026-10-03",
-      "time": "15:00",
-      "team1": "ETOILE JUPILLE",
-      "team2": "BC BELLEFLAMME",
-      "category": "U 14 - ELITES MM A",
-      "location": "ETOILE JUPILLE",
-      "other": ""
-    },
-    {
       "code": "480063",
       "date": "2026-10-17",
       "time": "15:00",
@@ -1632,16 +1542,6 @@
       "team1": "ETOILE JUPILLE",
       "team2": "RABC ENSIVAL A",
       "category": "U 14 - ELITES MM A",
-      "location": "ETOILE JUPILLE",
-      "other": ""
-    },
-    {
-      "code": "470054",
-      "date": "2026-10-04",
-      "time": "13:30",
-      "team1": "ETOILE JUPILLE",
-      "team2": "DF BC MALMEDY",
-      "category": "U 16 - PROV MM A",
       "location": "ETOILE JUPILLE",
       "other": ""
     },

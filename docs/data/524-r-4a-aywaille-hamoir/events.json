@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "415053",
-      "date": "2026-10-03",
-      "time": "17:00",
-      "team1": "RBC WELKENRAEDT",
-      "team2": "R 4A AYWAILLE-HAMOIR A",
-      "category": "DD - DIVISION 2 B",
-      "location": "RBC WELKENRAEDT",
-      "other": ""
-    },
-    {
       "code": "415067",
       "date": "2026-10-10",
       "time": "21:00",
@@ -236,16 +226,6 @@
       "other": ""
     },
     {
-      "code": "417056",
-      "date": "2026-10-03",
-      "time": "17:00",
-      "team1": "R 4A AYWAILLE-HAMOIR B",
-      "team2": "ATLAS A JUPILLE B",
-      "category": "DD - DIVISION 3 B",
-      "location": "R 4A AYWAILLE-HAMOIR B",
-      "other": ""
-    },
-    {
       "code": "417061",
       "date": "2026-10-10",
       "time": "18:30",
@@ -413,16 +393,6 @@
       "team2": "R 4A AYWAILLE-HAMOIR B",
       "category": "DD - DIVISION 3 B",
       "location": "MAIL. COMBLAIN",
-      "other": ""
-    },
-    {
-      "code": "403053",
-      "date": "2026-10-03",
-      "time": "17:30",
-      "team1": "BC VERVIERS C",
-      "team2": "R 4A AYWAILLE-HAMOIR A",
-      "category": "MM - DIVISION 2 B",
-      "location": "BC VERVIERS C",
       "other": ""
     },
     {
@@ -643,16 +613,6 @@
       "team2": "R 4A AYWAILLE-HAMOIR A",
       "category": "MM - DIVISION 2 B",
       "location": "RBC ALLEUR B",
-      "other": ""
-    },
-    {
-      "code": "404053",
-      "date": "2026-10-04",
-      "time": "13:00",
-      "team1": "RABC ENSIVAL B",
-      "team2": "R 4A AYWAILLE-HAMOIR B",
-      "category": "MM - DIVISION 3 A",
-      "location": "RABC ENSIVAL B",
       "other": ""
     },
     {
@@ -1076,16 +1036,6 @@
       "other": "(Hall d'Hamoir)"
     },
     {
-      "code": "411057",
-      "date": "2026-10-03",
-      "time": "19:00",
-      "team1": "R 4A AYWAILLE-HAMOIR C",
-      "team2": "ROYAL HERVE-BATTICE C",
-      "category": "MM - DIVISION 4 E",
-      "location": "R 4A AYWAILLE-HAMOIR C",
-      "other": ""
-    },
-    {
       "code": "411077",
       "date": "2026-10-17",
       "time": "19:00",
@@ -1276,16 +1226,6 @@
       "other": ""
     },
     {
-      "code": "522056",
-      "date": "2026-10-03",
-      "time": "10:30",
-      "team1": "R 4A AYWAILLE-HAMOIR C",
-      "team2": "ROYAL ANS BC A",
-      "category": "U 10 - MM C",
-      "location": "R 4A AYWAILLE-HAMOIR C",
-      "other": ""
-    },
-    {
       "code": "522066",
       "date": "2026-10-11",
       "time": "13:30",
@@ -1446,16 +1386,6 @@
       "other": ""
     },
     {
-      "code": "523056",
-      "date": "2026-10-03",
-      "time": "15:00",
-      "team1": "R 4A AYWAILLE-HAMOIR A",
-      "team2": "RBC VISE C",
-      "category": "U 10 - MM D",
-      "location": "R 4A AYWAILLE-HAMOIR A",
-      "other": "(ho Hamoir rue du mouli"
-    },
-    {
       "code": "523066",
       "date": "2026-10-10",
       "time": "11:15",
@@ -1604,16 +1534,6 @@
       "category": "U 10 - MM D",
       "location": "R 4A AYWAILLE-HAMOIR A",
       "other": "(ho Hamoir rue du mouli"
-    },
-    {
-      "code": "527056",
-      "date": "2026-10-03",
-      "time": "9:00",
-      "team1": "R 4A AYWAILLE-HAMOIR B",
-      "team2": "RBC ALLEUR B",
-      "category": "U 10 - MM H",
-      "location": "R 4A AYWAILLE-HAMOIR B",
-      "other": ""
     },
     {
       "code": "527066",
@@ -1776,16 +1696,6 @@
       "other": ""
     },
     {
-      "code": "491053",
-      "date": "2026-10-04",
-      "time": "15:00",
-      "team1": "RB TILFF B",
-      "team2": "R 4A AYWAILLE-HAMOIR",
-      "category": "U 14 - PROV MM B",
-      "location": "RB TILFF B",
-      "other": ""
-    },
-    {
       "code": "491066",
       "date": "2026-10-10",
       "time": "13:00",
@@ -1936,11 +1846,11 @@
       "other": ""
     },
     {
-      "code": "471056",
-      "date": "2026-10-03",
+      "code": "471116",
+      "date": "2026-10-17",
       "time": "17:00",
       "team1": "R 4A AYWAILLE-HAMOIR",
-      "team2": "UN HUY BASKET",
+      "team2": "RBC ESNEUX B",
       "category": "U 16 - PROV MM B",
       "location": "R 4A AYWAILLE-HAMOIR",
       "other": "(ho Hamoir rue du mouli"
@@ -1954,16 +1864,6 @@
       "category": "U 16 - PROV MM B",
       "location": "MAIL. COMBLAIN",
       "other": ""
-    },
-    {
-      "code": "471116",
-      "date": "2026-11-14",
-      "time": "15:00",
-      "team1": "R 4A AYWAILLE-HAMOIR",
-      "team2": "RBC ESNEUX B",
-      "category": "U 16 - PROV MM B",
-      "location": "R 4A AYWAILLE-HAMOIR",
-      "other": "(ho Hamoir rue du mouli"
     },
     {
       "code": "471126",
@@ -2064,16 +1964,6 @@
       "category": "U 16 - PROV MM B",
       "location": "R 4A AYWAILLE-HAMOIR",
       "other": "(ho Hamoir rue du mouli"
-    },
-    {
-      "code": "430054",
-      "date": "2026-10-03",
-      "time": "15:00",
-      "team1": "CRISTAL SGH",
-      "team2": "R 4A AYWAILLE-HAMOIR",
-      "category": "U 18 - ELITES MM A",
-      "location": "CRISTAL SGH",
-      "other": ""
     },
     {
       "code": "430062",
@@ -2244,16 +2134,6 @@
       "category": "U 18 - ELITES MM A",
       "location": "R 4A AYWAILLE-HAMOIR",
       "other": "(HO Hamoir)"
-    },
-    {
-      "code": "420057",
-      "date": "2026-10-03",
-      "time": "13:00",
-      "team1": "R 4A AYWAILLE-HAMOIR",
-      "team2": "HENRI-CHAPELLE",
-      "category": "U 21 - MM",
-      "location": "R 4A AYWAILLE-HAMOIR",
-      "other": ""
     },
     {
       "code": "420068",
@@ -2496,16 +2376,6 @@
       "other": ""
     },
     {
-      "code": "550053",
-      "date": "2026-10-03",
-      "time": "12:30",
-      "team1": "BC VERVIERS",
-      "team2": "R 4A AYWAILLE-HAMOIR A",
-      "category": "U 7 - MM A",
-      "location": "BC VERVIERS",
-      "other": ""
-    },
-    {
       "code": "550106",
       "date": "2026-11-07",
       "time": "11:30",
@@ -2653,16 +2523,6 @@
       "team2": "R 4A AYWAILLE-HAMOIR A",
       "category": "U 7 - MM A",
       "location": "ROYAL HERVE-BATTICE B",
-      "other": ""
-    },
-    {
-      "code": "551053",
-      "date": "2026-10-03",
-      "time": "9:00",
-      "team1": "RBC ALLEUR",
-      "team2": "R 4A AYWAILLE-HAMOIR B",
-      "category": "U 7 - MM B",
-      "location": "RBC ALLEUR",
       "other": ""
     },
     {
@@ -2833,16 +2693,6 @@
       "team2": "R 4A AYWAILLE-HAMOIR B",
       "category": "U 7 - MM B",
       "location": "RBC VISE B",
-      "other": ""
-    },
-    {
-      "code": "542053",
-      "date": "2026-10-03",
-      "time": "10:45",
-      "team1": "ROYAL ANS BC",
-      "team2": "R 4A AYWAILLE-HAMOIR A",
-      "category": "U 8 - MM C",
-      "location": "ROYAL ANS BC",
       "other": ""
     },
     {

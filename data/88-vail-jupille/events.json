@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "416052",
-      "date": "2026-10-03",
-      "time": "19:00",
-      "team1": "RBC VISE B",
-      "team2": "VAIL. JUPILLE",
-      "category": "DD - DIVISION 3 A",
-      "location": "RBC VISE B",
-      "other": ""
-    },
-    {
       "code": "416065",
       "date": "2026-10-11",
       "time": "9:30",
@@ -193,16 +183,6 @@
       "team2": "UN HUY BASKET C",
       "category": "DD - DIVISION 3 A",
       "location": "VAIL. JUPILLE",
-      "other": ""
-    },
-    {
-      "code": "402052",
-      "date": "2026-10-03",
-      "time": "21:00",
-      "team1": "PEPINSTER EAST BELG C",
-      "team2": "VAIL. JUPILLE A",
-      "category": "MM - DIVISION 2 A",
-      "location": "PEPINSTER EAST BELG C",
       "other": ""
     },
     {
@@ -423,16 +403,6 @@
       "team2": "FLERON BBC A",
       "category": "MM - DIVISION 2 A",
       "location": "VAIL. JUPILLE A",
-      "other": ""
-    },
-    {
-      "code": "404052",
-      "date": "2026-10-03",
-      "time": "19:00",
-      "team1": "HARIMALIA BC B",
-      "team2": "VAIL. JUPILLE B",
-      "category": "MM - DIVISION 3 A",
-      "location": "HARIMALIA BC B",
       "other": ""
     },
     {
@@ -666,16 +636,6 @@
       "other": ""
     },
     {
-      "code": "411052",
-      "date": "2026-10-03",
-      "time": "19:00",
-      "team1": "PEPINSTER EAST BELG D",
-      "team2": "VAIL. JUPILLE C",
-      "category": "MM - DIVISION 4 E",
-      "location": "PEPINSTER EAST BELG D",
-      "other": ""
-    },
-    {
       "code": "411064",
       "date": "2026-10-11",
       "time": "12:00",
@@ -856,16 +816,6 @@
       "other": ""
     },
     {
-      "code": "524052",
-      "date": "2026-10-03",
-      "time": "9:00",
-      "team1": "PEPINSTER EAST BELG C",
-      "team2": "VAIL. JUPILLE",
-      "category": "U 10 - MM E",
-      "location": "PEPINSTER EAST BELG C",
-      "other": "(Hall du paire)"
-    },
-    {
       "code": "524106",
       "date": "2026-11-08",
       "time": "16:00",
@@ -1013,16 +963,6 @@
       "team2": "VAIL. JUPILLE",
       "category": "U 10 - MM E",
       "location": "ROYAL BC NINANE B",
-      "other": ""
-    },
-    {
-      "code": "501052",
-      "date": "2026-10-04",
-      "time": "10:30",
-      "team1": "BC BELLEFLAMME B",
-      "team2": "VAIL. JUPILLE",
-      "category": "U 12 - MM B",
-      "location": "BC BELLEFLAMME B",
       "other": ""
     },
     {
@@ -1236,16 +1176,6 @@
       "other": ""
     },
     {
-      "code": "490052",
-      "date": "2026-10-04",
-      "time": "11:00",
-      "team1": "HARIMALIA BC",
-      "team2": "VAIL. JUPILLE",
-      "category": "U 14 - PROV MM A",
-      "location": "HARIMALIA BC",
-      "other": ""
-    },
-    {
       "code": "490064",
       "date": "2026-10-10",
       "time": "13:00",
@@ -1376,16 +1306,6 @@
       "other": ""
     },
     {
-      "code": "471052",
-      "date": "2026-10-03",
-      "time": "11:00",
-      "team1": "PEPINSTER EAST BELG B",
-      "team2": "VAIL. JUPILLE",
-      "category": "U 16 - PROV MM B",
-      "location": "PEPINSTER EAST BELG B",
-      "other": "(Hall du paire)"
-    },
-    {
       "code": "471064",
       "date": "2026-10-10",
       "time": "15:00",
@@ -1513,16 +1433,6 @@
       "team2": "R 4A AYWAILLE-HAMOIR",
       "category": "U 16 - PROV MM B",
       "location": "VAIL. JUPILLE",
-      "other": ""
-    },
-    {
-      "code": "430052",
-      "date": "2026-10-03",
-      "time": "14:30",
-      "team1": "BC BELLEFLAMME B",
-      "team2": "VAIL. JUPILLE",
-      "category": "U 18 - ELITES MM A",
-      "location": "BC BELLEFLAMME B",
       "other": ""
     },
     {
@@ -1856,16 +1766,6 @@
       "other": ""
     },
     {
-      "code": "540052",
-      "date": "2026-10-03",
-      "time": "9:00",
-      "team1": "THEUX BC A",
-      "team2": "VAIL. JUPILLE A",
-      "category": "U 8 - MM A",
-      "location": "THEUX BC A",
-      "other": ""
-    },
-    {
       "code": "540064",
       "date": "2026-10-10",
       "time": "10:00",
@@ -2036,16 +1936,6 @@
       "other": ""
     },
     {
-      "code": "543051",
-      "date": "2026-10-03",
-      "time": "11:00",
-      "team1": "BC SPRIMONT A",
-      "team2": "VAIL. JUPILLE B",
-      "category": "U 8 - MM D",
-      "location": "BC SPRIMONT A",
-      "other": ""
-    },
-    {
       "code": "543061",
       "date": "2026-10-10",
       "time": "9:00",
@@ -2063,6 +1953,16 @@
       "team2": "ABC WAREMME B",
       "category": "U 8 - MM D",
       "location": "VAIL. JUPILLE B",
+      "other": ""
+    },
+    {
+      "code": "543051",
+      "date": "2026-10-31",
+      "time": "11:00",
+      "team1": "BC SPRIMONT A",
+      "team2": "VAIL. JUPILLE B",
+      "category": "U 8 - MM D",
+      "location": "BC SPRIMONT A",
       "other": ""
     },
     {

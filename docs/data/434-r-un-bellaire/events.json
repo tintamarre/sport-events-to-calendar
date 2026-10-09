@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "413056",
-      "date": "2026-10-03",
-      "time": "19:00",
-      "team1": "ROYAL HERVE-BATTICE C",
-      "team2": "R.UN.BELLAIRE A",
-      "category": "DD - DIVISION 1",
-      "location": "ROYAL HERVE-BATTICE C",
-      "other": ""
-    },
-    {
       "code": "413063",
       "date": "2026-10-10",
       "time": "18:00",
@@ -456,16 +446,6 @@
       "other": ""
     },
     {
-      "code": "403056",
-      "date": "2026-10-03",
-      "time": "21:00",
-      "team1": "RBC DISON-ANDRIMONT A",
-      "team2": "R.UN.BELLAIRE A",
-      "category": "MM - DIVISION 2 B",
-      "location": "RBC DISON-ANDRIMONT A",
-      "other": ""
-    },
-    {
       "code": "403063",
       "date": "2026-10-09",
       "time": "20:15",
@@ -496,16 +476,6 @@
       "other": ""
     },
     {
-      "code": "403155",
-      "date": "2026-10-31",
-      "time": "19:00",
-      "team1": "RB TILFF B",
-      "team2": "R.UN.BELLAIRE A",
-      "category": "MM - DIVISION 2 B",
-      "location": "RB TILFF B",
-      "other": ""
-    },
-    {
       "code": "403112",
       "date": "2026-11-15",
       "time": "13:30",
@@ -513,6 +483,16 @@
       "team2": "R.UN.BELLAIRE A",
       "category": "MM - DIVISION 2 B",
       "location": "HARIMALIA BC A",
+      "other": ""
+    },
+    {
+      "code": "403155",
+      "date": "2026-11-18",
+      "time": "20:30",
+      "team1": "RB TILFF B",
+      "team2": "R.UN.BELLAIRE A",
+      "category": "MM - DIVISION 2 B",
+      "location": "RB TILFF B",
       "other": ""
     },
     {
@@ -683,16 +663,6 @@
       "team2": "R.UN.BELLAIRE A",
       "category": "MM - DIVISION 2 B",
       "location": "ABC WAREMME B",
-      "other": ""
-    },
-    {
-      "code": "406051",
-      "date": "2026-10-03",
-      "time": "18:00",
-      "team1": "R.UN.BELLAIRE B",
-      "team2": "RB TILFF C",
-      "category": "MM - DIVISION 3 C",
-      "location": "R.UN.BELLAIRE B",
       "other": ""
     },
     {
@@ -923,7 +893,7 @@
       "team2": "R.UN.BELLAIRE D",
       "category": "MM - DIVISION 4 D",
       "location": "CRISTAL SGH C",
-      "other": ""
+      "other": "(Salle de Tilff)"
     },
     {
       "code": "410085",
@@ -1103,16 +1073,6 @@
       "team2": "BC VERLAINE",
       "category": "MM - DIVISION 4 D",
       "location": "R.UN.BELLAIRE D",
-      "other": ""
-    },
-    {
-      "code": "411051",
-      "date": "2026-10-03",
-      "time": "20:00",
-      "team1": "R.UN.BELLAIRE C",
-      "team2": "RBC ESNEUX",
-      "category": "MM - DIVISION 4 E",
-      "location": "R.UN.BELLAIRE C",
       "other": ""
     },
     {
@@ -1296,16 +1256,6 @@
       "other": ""
     },
     {
-      "code": "523054",
-      "date": "2026-10-04",
-      "time": "11:00",
-      "team1": "BC VERLAINE A",
-      "team2": "R.UN.BELLAIRE A",
-      "category": "U 10 - MM D",
-      "location": "BC VERLAINE A",
-      "other": ""
-    },
-    {
       "code": "523062",
       "date": "2026-10-10",
       "time": "14:00",
@@ -1443,16 +1393,6 @@
       "team2": "R.UN.BELLAIRE A",
       "category": "U 10 - MM D",
       "location": "ROYAL ANS BC B",
-      "other": ""
-    },
-    {
-      "code": "526054",
-      "date": "2026-10-03",
-      "time": "10:00",
-      "team1": "RBC AUBEL B",
-      "team2": "R.UN.BELLAIRE B",
-      "category": "U 10 - MM G",
-      "location": "RBC AUBEL B",
       "other": ""
     },
     {
@@ -1746,16 +1686,6 @@
       "other": ""
     },
     {
-      "code": "470051",
-      "date": "2026-10-03",
-      "time": "14:00",
-      "team1": "R.UN.BELLAIRE",
-      "team2": "ROYAL MOSA AC 1941",
-      "category": "U 16 - PROV MM A",
-      "location": "R.UN.BELLAIRE",
-      "other": ""
-    },
-    {
       "code": "470012",
       "date": "2026-10-17",
       "time": "14:00",
@@ -1902,16 +1832,6 @@
       "team1": "R.UN.BELLAIRE",
       "team2": "PRAYON TROOZ",
       "category": "U 16 - PROV MM A",
-      "location": "R.UN.BELLAIRE",
-      "other": ""
-    },
-    {
-      "code": "441051",
-      "date": "2026-10-03",
-      "time": "16:00",
-      "team1": "R.UN.BELLAIRE",
-      "team2": "UN HUY BASKET",
-      "category": "U 18 - PROV MM B",
       "location": "R.UN.BELLAIRE",
       "other": ""
     },
@@ -2084,16 +2004,6 @@
       "category": "U 18 - PROV MM B",
       "location": "BBC EUPEN",
       "other": ""
-    },
-    {
-      "code": "543054",
-      "date": "2026-10-04",
-      "time": "9:30",
-      "team1": "MAIL. COMBLAIN",
-      "team2": "R.UN.BELLAIRE",
-      "category": "U 8 - MM D",
-      "location": "MAIL. COMBLAIN",
-      "other": "(Ho Hamoir)"
     },
     {
       "code": "543062",

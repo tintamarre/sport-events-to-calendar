@@ -8,7 +8,7 @@ Les agendas sont mis à jour automatiquement toutes semaines.
 
 [L'agenda global](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/CPLi%C3%A8ge.ics) est également disponible.
 
-Dernière mise à jour: 01/10/2026 22:11:30
+Dernière mise à jour: 09/10/2026 01:45:31
 
 ## [44 RBC ESNEUX](http://www.cpliege.be/clubs/club0044.asp)
 
@@ -843,7 +843,6 @@ Dernière mise à jour: 01/10/2026 22:11:30
 * [Agenda](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/197-rjs-grivegnee/197-rjs-grivegnee.csv)
 * [JSON](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/197-rjs-grivegnee/events.json)
 * [MM - DIVISION 3 B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/197-rjs-grivegnee/mm-division-3-b.ics)
-* [U 12 - MM H](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/197-rjs-grivegnee/u-12-mm-h.ics)
 * [U 14 - PROV MM A](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/197-rjs-grivegnee/u-14-prov-mm-a.ics)
 
 ## [1058 BC BELLEFLAMME](http://www.cpliege.be/clubs/club1058.asp)
@@ -1014,7 +1013,6 @@ Dernière mise à jour: 01/10/2026 22:11:30
 * [MM - DIVISION 4 F](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/425-royal-ans-bc/mm-division-4-f.ics)
 * [U 10 - MM C](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/425-royal-ans-bc/u-10-mm-c.ics)
 * [U 10 - MM D](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/425-royal-ans-bc/u-10-mm-d.ics)
-* [U 12 - MM C](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/425-royal-ans-bc/u-12-mm-c.ics)
 * [U 12 - MM F](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/425-royal-ans-bc/u-12-mm-f.ics)
 * [U 12 - MM H](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/425-royal-ans-bc/u-12-mm-h.ics)
 * [U 14 - ELITES MM B](https://raw.githubusercontent.com/tintamarre/sport-events-to-calendar/main/data/425-royal-ans-bc/u-14-elites-mm-b.ics)

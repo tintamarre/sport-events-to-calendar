@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "413052",
-      "date": "2026-10-03",
-      "time": "19:00",
-      "team1": "HANNUT BC",
-      "team2": "RBC CROATIA OUPEYE",
-      "category": "DD - DIVISION 1",
-      "location": "HANNUT BC",
-      "other": ""
-    },
-    {
       "code": "413074",
       "date": "2026-10-17",
       "time": "21:00",
@@ -246,26 +236,6 @@
       "other": ""
     },
     {
-      "code": "408052",
-      "date": "2026-10-04",
-      "time": "15:30",
-      "team1": "HARIMALIA BC D",
-      "team2": "RBC CROATIA OUPEYE",
-      "category": "MM - DIVISION 4 B",
-      "location": "HARIMALIA BC D",
-      "other": ""
-    },
-    {
-      "code": "408064",
-      "date": "2026-10-10",
-      "time": "19:30",
-      "team1": "RBC CROATIA OUPEYE",
-      "team2": "UN HUY BASKET",
-      "category": "MM - DIVISION 4 B",
-      "location": "RBC CROATIA OUPEYE",
-      "other": ""
-    },
-    {
       "code": "408074",
       "date": "2026-10-17",
       "time": "19:00",
@@ -381,6 +351,16 @@
       "time": "15:00",
       "team1": "RBC CROATIA OUPEYE",
       "team2": "BC TORES LIEGE",
+      "category": "MM - DIVISION 4 B",
+      "location": "RBC CROATIA OUPEYE",
+      "other": ""
+    },
+    {
+      "code": "408064",
+      "date": "2027-02-27",
+      "time": "21:00",
+      "team1": "RBC CROATIA OUPEYE",
+      "team2": "UN HUY BASKET",
       "category": "MM - DIVISION 4 B",
       "location": "RBC CROATIA OUPEYE",
       "other": ""
