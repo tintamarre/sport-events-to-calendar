@@ -6,13 +6,23 @@
   },
   "events": [
     {
-      "code": "416064",
-      "date": "2026-10-09",
-      "time": "21:00",
-      "team1": "ETOILE JUPILLE",
+      "code": "762031",
+      "date": "2026-10-31",
+      "time": "15:00",
+      "team1": "BC BELLEFLAMME B",
       "team2": "ORP JAUCHE",
-      "category": "DD - DIVISION 3 A",
-      "location": "ETOILE JUPILLE",
+      "category": "CPE PROV CADETS",
+      "location": "BC BELLEFLAMME B",
+      "other": ""
+    },
+    {
+      "code": "764037",
+      "date": "2026-10-31",
+      "time": "11:00",
+      "team1": "BC COINTE A",
+      "team2": "ORP JAUCHE",
+      "category": "CPE PROV PUPILLES MM",
+      "location": "BC COINTE A",
       "other": ""
     },
     {
@@ -183,16 +193,6 @@
       "team2": "UN HUY BASKET C",
       "category": "DD - DIVISION 3 A",
       "location": "ORP JAUCHE",
-      "other": ""
-    },
-    {
-      "code": "408065",
-      "date": "2026-10-10",
-      "time": "19:00",
-      "team1": "ORP JAUCHE B",
-      "team2": "HARIMALIA BC D",
-      "category": "MM - DIVISION 4 B",
-      "location": "ORP JAUCHE B",
       "other": ""
     },
     {
@@ -373,16 +373,6 @@
       "team2": "ORP JAUCHE B",
       "category": "MM - DIVISION 4 B",
       "location": "UN HUY BASKET",
-      "other": ""
-    },
-    {
-      "code": "409065",
-      "date": "2026-10-10",
-      "time": "21:00",
-      "team1": "ORP JAUCHE A",
-      "team2": "HANNUT BC C",
-      "category": "MM - DIVISION 4 C",
-      "location": "ORP JAUCHE A",
       "other": ""
     },
     {
@@ -1136,16 +1126,6 @@
       "other": ""
     },
     {
-      "code": "472065",
-      "date": "2026-10-10",
-      "time": "15:00",
-      "team1": "ORP JAUCHE",
-      "team2": "ALL. FLEMALLE B",
-      "category": "U 16 - PROV MM C",
-      "location": "ORP JAUCHE",
-      "other": ""
-    },
-    {
       "code": "472145",
       "date": "2026-12-05",
       "time": "15:00",
@@ -1233,16 +1213,6 @@
       "team2": "ORP JAUCHE",
       "category": "U 16 - PROV MM C",
       "location": "LA VILLERSOISE",
-      "other": ""
-    },
-    {
-      "code": "430065",
-      "date": "2026-10-10",
-      "time": "17:00",
-      "team1": "ORP JAUCHE",
-      "team2": "BC BELLEFLAMME B",
-      "category": "U 18 - ELITES MM A",
-      "location": "ORP JAUCHE",
       "other": ""
     },
     {
@@ -1403,16 +1373,6 @@
       "team2": "ORP JAUCHE",
       "category": "U 18 - ELITES MM A",
       "location": "BC VERVIERS B",
-      "other": ""
-    },
-    {
-      "code": "545062",
-      "date": "2026-10-10",
-      "time": "11:30",
-      "team1": "BC COINTE B",
-      "team2": "ORP JAUCHE",
-      "category": "U 8 - MM F",
-      "location": "BC COINTE B",
       "other": ""
     },
     {

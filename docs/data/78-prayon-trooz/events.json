@@ -6,13 +6,33 @@
   },
   "events": [
     {
-      "code": "414064",
-      "date": "2026-10-11",
-      "time": "12:00",
-      "team1": "PRAYON TROOZ B",
-      "team2": "LA VILLERSOISE A",
-      "category": "DD - DIVISION 2 A",
-      "location": "PRAYON TROOZ B",
+      "code": "773004",
+      "date": "2026-10-31",
+      "time": "17:00",
+      "team1": "ATLAS A JUPILLE",
+      "team2": "PRAYON TROOZ",
+      "category": "CPE PROV MINIMES DD",
+      "location": "ATLAS A JUPILLE",
+      "other": ""
+    },
+    {
+      "code": "774009",
+      "date": "2026-11-01",
+      "time": "15:00",
+      "team1": "PRAYON TROOZ",
+      "team2": "ABC WAREMME",
+      "category": "CPE PROV PUPILLES DD",
+      "location": "PRAYON TROOZ",
+      "other": ""
+    },
+    {
+      "code": "764034",
+      "date": "2026-11-01",
+      "time": "13:00",
+      "team1": "PRAYON TROOZ",
+      "team2": "CRISTAL SGH A",
+      "category": "CPE PROV PUPILLES MM",
+      "location": "PRAYON TROOZ",
       "other": ""
     },
     {
@@ -206,26 +226,6 @@
       "other": ""
     },
     {
-      "code": "415066",
-      "date": "2026-10-11",
-      "time": "14:00",
-      "team1": "PRAYON TROOZ C",
-      "team2": "ROYAL BASKET OTHEE",
-      "category": "DD - DIVISION 2 B",
-      "location": "PRAYON TROOZ C",
-      "other": ""
-    },
-    {
-      "code": "415034",
-      "date": "2026-10-13",
-      "time": "19:00",
-      "team1": "AVENIR JUPILLE",
-      "team2": "PRAYON TROOZ C",
-      "category": "DD - DIVISION 2 B",
-      "location": "AVENIR JUPILLE",
-      "other": ""
-    },
-    {
       "code": "415073",
       "date": "2026-10-17",
       "time": "17:00",
@@ -233,16 +233,6 @@
       "team2": "PRAYON TROOZ C",
       "category": "DD - DIVISION 2 B",
       "location": "RBC WELKENRAEDT",
-      "other": ""
-    },
-    {
-      "code": "415086",
-      "date": "2026-10-25",
-      "time": "12:00",
-      "team1": "ROYAL BC NINANE A",
-      "team2": "PRAYON TROOZ C",
-      "category": "DD - DIVISION 2 B",
-      "location": "ROYAL BC NINANE A",
       "other": ""
     },
     {
@@ -273,6 +263,16 @@
       "team2": "PRAYON TROOZ C",
       "category": "DD - DIVISION 2 B",
       "location": "R 4A AYWAILLE-HAMOIR A",
+      "other": ""
+    },
+    {
+      "code": "415086",
+      "date": "2026-11-24",
+      "time": "21:00",
+      "team1": "ROYAL BC NINANE A",
+      "team2": "PRAYON TROOZ C",
+      "category": "DD - DIVISION 2 B",
+      "location": "ROYAL BC NINANE A",
       "other": ""
     },
     {
@@ -446,16 +446,6 @@
       "other": ""
     },
     {
-      "code": "418065",
-      "date": "2026-10-11",
-      "time": "16:00",
-      "team1": "PRAYON TROOZ D",
-      "team2": "RBC BLEGNY C",
-      "category": "DD - DIVISION 3 C",
-      "location": "PRAYON TROOZ D",
-      "other": ""
-    },
-    {
       "code": "418126",
       "date": "2026-10-18",
       "time": "17:00",
@@ -603,16 +593,6 @@
       "team2": "PRAYON TROOZ D",
       "category": "DD - DIVISION 3 C",
       "location": "REBOND NEUVILLE",
-      "other": ""
-    },
-    {
-      "code": "AW104029",
-      "date": "2026-10-10",
-      "time": "19:00",
-      "team1": "PRAYON TROOZ A",
-      "team2": "PEPINSTER EAST BELG A",
-      "category": "DD - REGIONALE 1",
-      "location": "PRAYON TROOZ A",
       "other": ""
     },
     {
@@ -793,16 +773,6 @@
       "team2": "PRAYON TROOZ A",
       "category": "DD - REGIONALE 1",
       "location": "RBC ALLEUR A",
-      "other": ""
-    },
-    {
-      "code": "402065",
-      "date": "2026-10-10",
-      "time": "17:00",
-      "team1": "PRAYON TROOZ A",
-      "team2": "PEPINSTER EAST BELG C",
-      "category": "MM - DIVISION 2 A",
-      "location": "PRAYON TROOZ A",
       "other": ""
     },
     {
@@ -1013,16 +983,6 @@
       "team2": "LA VILLERSOISE A",
       "category": "MM - DIVISION 2 A",
       "location": "PRAYON TROOZ A",
-      "other": ""
-    },
-    {
-      "code": "407065",
-      "date": "2026-10-10",
-      "time": "21:00",
-      "team1": "PRAYON TROOZ B",
-      "team2": "DF BC MALMEDY",
-      "category": "MM - DIVISION 4 A",
-      "location": "PRAYON TROOZ B",
       "other": ""
     },
     {
@@ -1396,16 +1356,6 @@
       "other": ""
     },
     {
-      "code": "526065",
-      "date": "2026-10-11",
-      "time": "9:00",
-      "team1": "PRAYON TROOZ",
-      "team2": "DF BC MALMEDY",
-      "category": "U 10 - MM G",
-      "location": "PRAYON TROOZ",
-      "other": ""
-    },
-    {
       "code": "526102",
       "date": "2026-11-07",
       "time": "12:00",
@@ -1513,16 +1463,6 @@
       "team2": "PRAYON TROOZ",
       "category": "U 10 - MM G",
       "location": "THEUX BC B",
-      "other": ""
-    },
-    {
-      "code": "501065",
-      "date": "2026-10-11",
-      "time": "10:30",
-      "team1": "PRAYON TROOZ A",
-      "team2": "BC BELLEFLAMME B",
-      "category": "U 12 - MM B",
-      "location": "PRAYON TROOZ A",
       "other": ""
     },
     {
@@ -1706,16 +1646,6 @@
       "other": ""
     },
     {
-      "code": "505065",
-      "date": "2026-10-11",
-      "time": "10:30",
-      "team1": "PRAYON TROOZ B",
-      "team2": "BC BELLEFLAMME C",
-      "category": "U 12 - MM F",
-      "location": "PRAYON TROOZ B",
-      "other": ""
-    },
-    {
       "code": "505102",
       "date": "2026-11-07",
       "time": "9:00",
@@ -1876,16 +1806,6 @@
       "other": ""
     },
     {
-      "code": "601065",
-      "date": "2026-10-10",
-      "time": "11:00",
-      "team1": "PRAYON TROOZ",
-      "team2": "BC COINTE",
-      "category": "U 14 - DD B",
-      "location": "PRAYON TROOZ",
-      "other": ""
-    },
-    {
       "code": "601115",
       "date": "2026-11-14",
       "time": "11:00",
@@ -2013,16 +1933,6 @@
       "team2": "PRAYON TROOZ",
       "category": "U 14 - DD B",
       "location": "RABC ENSIVAL",
-      "other": ""
-    },
-    {
-      "code": "492062",
-      "date": "2026-10-10",
-      "time": "15:30",
-      "team1": "DF BC MALMEDY",
-      "team2": "PRAYON TROOZ",
-      "category": "U 14 - PROV MM C",
-      "location": "DF BC MALMEDY",
       "other": ""
     },
     {
@@ -2226,16 +2136,6 @@
       "other": ""
     },
     {
-      "code": "590065",
-      "date": "2026-10-10",
-      "time": "9:00",
-      "team1": "PRAYON TROOZ",
-      "team2": "DF BC MALMEDY",
-      "category": "U 16 - DD A",
-      "location": "PRAYON TROOZ",
-      "other": ""
-    },
-    {
       "code": "590034",
       "date": "2026-10-17",
       "time": "10:30",
@@ -2353,16 +2253,6 @@
       "team2": "PRAYON TROOZ",
       "category": "U 16 - DD A",
       "location": "ROYAL HERVE-BATTICE",
-      "other": ""
-    },
-    {
-      "code": "470062",
-      "date": "2026-10-10",
-      "time": "18:00",
-      "team1": "DF BC MALMEDY",
-      "team2": "PRAYON TROOZ",
-      "category": "U 16 - PROV MM A",
-      "location": "DF BC MALMEDY",
       "other": ""
     },
     {
@@ -2513,16 +2403,6 @@
       "team2": "RBC WELKENRAEDT",
       "category": "U 16 - PROV MM A",
       "location": "PRAYON TROOZ",
-      "other": ""
-    },
-    {
-      "code": "431066",
-      "date": "2026-10-11",
-      "time": "13:00",
-      "team1": "RABC ENSIVAL",
-      "team2": "PRAYON TROOZ",
-      "category": "U 18 - ELITES MM B",
-      "location": "RABC ENSIVAL",
       "other": ""
     },
     {
@@ -2702,16 +2582,6 @@
       "team1": "PRAYON TROOZ",
       "team2": "BC BELLEFLAMME A",
       "category": "U 18 - ELITES MM B",
-      "location": "PRAYON TROOZ",
-      "other": ""
-    },
-    {
-      "code": "580066",
-      "date": "2026-10-10",
-      "time": "13:00",
-      "team1": "PRAYON TROOZ",
-      "team2": "ATLAS A JUPILLE",
-      "category": "U 19 - DD",
       "location": "PRAYON TROOZ",
       "other": ""
     },
@@ -2963,16 +2833,6 @@
       "team2": "ROYAL BC WANZE",
       "category": "U 19 - DD",
       "location": "PRAYON TROOZ",
-      "other": ""
-    },
-    {
-      "code": "AW142038",
-      "date": "2026-10-10",
-      "time": "17:00",
-      "team1": "BC BELLEFLAMME",
-      "team2": "PRAYON TROOZ",
-      "category": "U 19 - SILVER REGIONALES B",
-      "location": "BC BELLEFLAMME",
       "other": ""
     },
     {

@@ -6,6 +6,16 @@
   },
   "events": [
     {
+      "code": "760035",
+      "date": "2026-11-01",
+      "time": "14:00",
+      "team1": "ROYAL BC NINANE C (+ 5)",
+      "team2": "RB TILFF B",
+      "category": "CPE PROV MESSIEURS",
+      "location": "ROYAL BC NINANE C (+ 5)",
+      "other": ""
+    },
+    {
       "code": "403074",
       "date": "2026-10-17",
       "time": "18:30",
@@ -226,16 +236,6 @@
       "other": ""
     },
     {
-      "code": "406065",
-      "date": "2026-10-10",
-      "time": "17:00",
-      "team1": "RB TILFF C",
-      "team2": "RBC WELKENRAEDT A",
-      "category": "MM - DIVISION 3 C",
-      "location": "RB TILFF C",
-      "other": ""
-    },
-    {
       "code": "406074",
       "date": "2026-10-18",
       "time": "13:00",
@@ -243,7 +243,7 @@
       "team2": "RB TILFF C",
       "category": "MM - DIVISION 3 C",
       "location": "CRISTAL SGH B",
-      "other": ""
+      "other": "(Salle de Tilff)"
     },
     {
       "code": "406085",
@@ -446,16 +446,6 @@
       "other": ""
     },
     {
-      "code": "407062",
-      "date": "2026-10-10",
-      "time": "17:00",
-      "team1": "ROYAL BC NINANE E",
-      "team2": "RB TILFF E",
-      "category": "MM - DIVISION 4 A",
-      "location": "ROYAL BC NINANE E",
-      "other": ""
-    },
-    {
       "code": "407075",
       "date": "2026-10-17",
       "time": "18:30",
@@ -477,8 +467,8 @@
     },
     {
       "code": "407035",
-      "date": "2026-10-31",
-      "time": "17:00",
+      "date": "2026-10-30",
+      "time": "20:45",
       "team1": "RB TILFF E",
       "team2": "RABC ENSIVAL D",
       "category": "MM - DIVISION 4 A",
@@ -643,16 +633,6 @@
       "team2": "THEUX BC C",
       "category": "MM - DIVISION 4 A",
       "location": "RB TILFF E",
-      "other": ""
-    },
-    {
-      "code": "411062",
-      "date": "2026-10-09",
-      "time": "21:00",
-      "team1": "BC BELLEFLAMME F",
-      "team2": "RB TILFF D",
-      "category": "MM - DIVISION 4 E",
-      "location": "BC BELLEFLAMME F",
       "other": ""
     },
     {
@@ -846,16 +826,6 @@
       "other": ""
     },
     {
-      "code": "AW102033",
-      "date": "2026-10-10",
-      "time": "19:00",
-      "team1": "RB TILFF A",
-      "team2": "ROYAL BC NINANE A",
-      "category": "MM - REGIONALE 2 B",
-      "location": "RB TILFF A",
-      "other": ""
-    },
-    {
       "code": "AW102039",
       "date": "2026-10-18",
       "time": "17:30",
@@ -917,7 +887,7 @@
     },
     {
       "code": "AW102068",
-      "date": "2026-12-05",
+      "date": "2026-12-04",
       "time": "21:00",
       "team1": "RB TILFF A",
       "team2": "BC FRAIRE-PHILIPPEVILLE",
@@ -1216,16 +1186,6 @@
       "other": ""
     },
     {
-      "code": "522062",
-      "date": "2026-10-10",
-      "time": "9:30",
-      "team1": "BC BELLEFLAMME B",
-      "team2": "RB TILFF B",
-      "category": "U 10 - MM C",
-      "location": "BC BELLEFLAMME B",
-      "other": ""
-    },
-    {
       "code": "522026",
       "date": "2026-10-17",
       "time": "13:30",
@@ -1383,16 +1343,6 @@
       "team2": "CONDROZ MODAVE BB",
       "category": "U 10 - MM C",
       "location": "RB TILFF B",
-      "other": ""
-    },
-    {
-      "code": "523062",
-      "date": "2026-10-10",
-      "time": "14:00",
-      "team1": "R.UN.BELLAIRE A",
-      "team2": "RB TILFF C",
-      "category": "U 10 - MM D",
-      "location": "R.UN.BELLAIRE A",
       "other": ""
     },
     {
@@ -1726,16 +1676,6 @@
       "other": ""
     },
     {
-      "code": "504063",
-      "date": "2026-10-10",
-      "time": "13:00",
-      "team1": "UN HUY BASKET B",
-      "team2": "RB TILFF B",
-      "category": "U 12 - MM E",
-      "location": "UN HUY BASKET B",
-      "other": ""
-    },
-    {
       "code": "504021",
       "date": "2026-10-17",
       "time": "9:30",
@@ -1906,16 +1846,6 @@
       "other": ""
     },
     {
-      "code": "481065",
-      "date": "2026-10-10",
-      "time": "10:45",
-      "team1": "ROYAL ANS BC",
-      "team2": "RB TILFF A",
-      "category": "U 14 - ELITES MM B",
-      "location": "ROYAL ANS BC",
-      "other": ""
-    },
-    {
       "code": "481105",
       "date": "2026-11-07",
       "time": "16:00",
@@ -2076,16 +2006,6 @@
       "other": ""
     },
     {
-      "code": "491064",
-      "date": "2026-10-10",
-      "time": "9:00",
-      "team1": "RBC VISE B",
-      "team2": "RB TILFF B",
-      "category": "U 14 - PROV MM B",
-      "location": "RBC VISE B",
-      "other": ""
-    },
-    {
       "code": "491101",
       "date": "2026-11-08",
       "time": "15:00",
@@ -2216,16 +2136,6 @@
       "other": ""
     },
     {
-      "code": "552062",
-      "date": "2026-10-10",
-      "time": "10:15",
-      "team1": "BC COINTE A",
-      "team2": "RB TILFF",
-      "category": "U 7 - MM C",
-      "location": "BC COINTE A",
-      "other": ""
-    },
-    {
       "code": "552125",
       "date": "2026-11-22",
       "time": "9:30",
@@ -2243,16 +2153,6 @@
       "team2": "ROYAL BC WANZE",
       "category": "U 7 - MM C",
       "location": "RB TILFF",
-      "other": ""
-    },
-    {
-      "code": "552143",
-      "date": "2026-12-05",
-      "time": "10:00",
-      "team1": "R HT-PRE OUGREE",
-      "team2": "RB TILFF",
-      "category": "U 7 - MM C",
-      "location": "R HT-PRE OUGREE",
       "other": ""
     },
     {
@@ -2363,26 +2263,6 @@
       "team2": "RB TILFF",
       "category": "U 7 - MM C",
       "location": "RBC HANEFFE B",
-      "other": ""
-    },
-    {
-      "code": "552335",
-      "date": "2027-04-18",
-      "time": "9:30",
-      "team1": "RB TILFF",
-      "team2": "R HT-PRE OUGREE",
-      "category": "U 7 - MM C",
-      "location": "RB TILFF",
-      "other": ""
-    },
-    {
-      "code": "542062",
-      "date": "2026-10-10",
-      "time": "11:00",
-      "team1": "ROYAL BC NINANE",
-      "team2": "RB TILFF A",
-      "category": "U 8 - MM C",
-      "location": "ROYAL BC NINANE",
       "other": ""
     },
     {
@@ -2513,16 +2393,6 @@
       "team2": "ROYAL ANS BC",
       "category": "U 8 - MM C",
       "location": "RB TILFF A",
-      "other": ""
-    },
-    {
-      "code": "543062",
-      "date": "2026-10-10",
-      "time": "10:30",
-      "team1": "R.UN.BELLAIRE",
-      "team2": "RB TILFF B",
-      "category": "U 8 - MM D",
-      "location": "R.UN.BELLAIRE",
       "other": ""
     },
     {

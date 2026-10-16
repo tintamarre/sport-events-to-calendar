@@ -6,13 +6,23 @@
   },
   "events": [
     {
-      "code": "415065",
-      "date": "2026-10-11",
-      "time": "17:30",
-      "team1": "BC VERLAINE A",
-      "team2": "ROYAL BC NINANE A",
-      "category": "DD - DIVISION 2 B",
-      "location": "BC VERLAINE A",
+      "code": "773005",
+      "date": "2026-10-31",
+      "time": "17:00",
+      "team1": "ROYAL HERVE-BATTICE",
+      "team2": "BC VERLAINE",
+      "category": "CPE PROV MINIMES DD",
+      "location": "ROYAL HERVE-BATTICE",
+      "other": ""
+    },
+    {
+      "code": "774005",
+      "date": "2026-11-01",
+      "time": "11:00",
+      "team1": "ATLAS A JUPILLE",
+      "team2": "BC VERLAINE",
+      "category": "CPE PROV PUPILLES DD",
+      "location": "ATLAS A JUPILLE",
       "other": ""
     },
     {
@@ -226,16 +236,6 @@
       "other": ""
     },
     {
-      "code": "416065",
-      "date": "2026-10-11",
-      "time": "9:30",
-      "team1": "BC VERLAINE B",
-      "team2": "VAIL. JUPILLE",
-      "category": "DD - DIVISION 3 A",
-      "location": "BC VERLAINE B",
-      "other": ""
-    },
-    {
       "code": "416015",
       "date": "2026-10-16",
       "time": "21:00",
@@ -406,16 +406,6 @@
       "other": ""
     },
     {
-      "code": "410065",
-      "date": "2026-10-11",
-      "time": "11:30",
-      "team1": "BC VERLAINE",
-      "team2": "BC BELLEFLAMME E",
-      "category": "MM - DIVISION 4 D",
-      "location": "BC VERLAINE",
-      "other": ""
-    },
-    {
       "code": "410074",
       "date": "2026-10-18",
       "time": "17:00",
@@ -423,7 +413,7 @@
       "team2": "BC VERLAINE",
       "category": "MM - DIVISION 4 D",
       "location": "CRISTAL SGH C",
-      "other": ""
+      "other": "(18 Bonniers)"
     },
     {
       "code": "410085",
@@ -583,16 +573,6 @@
       "team2": "BC VERLAINE",
       "category": "MM - DIVISION 4 D",
       "location": "R.UN.BELLAIRE D",
-      "other": ""
-    },
-    {
-      "code": "523063",
-      "date": "2026-10-11",
-      "time": "13:30",
-      "team1": "RBC VISE C",
-      "team2": "BC VERLAINE A",
-      "category": "U 10 - MM D",
-      "location": "RBC VISE C",
       "other": ""
     },
     {
@@ -916,16 +896,6 @@
       "other": ""
     },
     {
-      "code": "502064",
-      "date": "2026-10-11",
-      "time": "12:00",
-      "team1": "ROYAL BC WANZE A",
-      "team2": "BC VERLAINE A",
-      "category": "U 12 - MM C",
-      "location": "ROYAL BC WANZE A",
-      "other": ""
-    },
-    {
       "code": "502073",
       "date": "2026-10-17",
       "time": "10:45",
@@ -1103,16 +1073,6 @@
       "team2": "RBC ESNEUX B",
       "category": "U 12 - MM C",
       "location": "BC VERLAINE A",
-      "other": ""
-    },
-    {
-      "code": "600063",
-      "date": "2026-10-11",
-      "time": "15:30",
-      "team1": "BC VERLAINE",
-      "team2": "MAIL. COMBLAIN",
-      "category": "U 14 - DD A",
-      "location": "BC VERLAINE",
       "other": ""
     },
     {
@@ -1366,16 +1326,6 @@
       "other": ""
     },
     {
-      "code": "591064",
-      "date": "2026-10-11",
-      "time": "13:30",
-      "team1": "BC VERLAINE",
-      "team2": "UN HUY BASKET",
-      "category": "U 16 - DD B",
-      "location": "BC VERLAINE",
-      "other": ""
-    },
-    {
       "code": "591106",
       "date": "2026-11-07",
       "time": "9:00",
@@ -1496,16 +1446,6 @@
       "other": ""
     },
     {
-      "code": "472064",
-      "date": "2026-10-11",
-      "time": "9:00",
-      "team1": "ROYAL BC WANZE B",
-      "team2": "BC VERLAINE",
-      "category": "U 16 - PROV MM C",
-      "location": "ROYAL BC WANZE B",
-      "other": ""
-    },
-    {
       "code": "472113",
       "date": "2026-11-22",
       "time": "15:00",
@@ -1593,16 +1533,6 @@
       "team2": "ROYAL BC WANZE B",
       "category": "U 16 - PROV MM C",
       "location": "BC VERLAINE",
-      "other": ""
-    },
-    {
-      "code": "553063",
-      "date": "2026-10-10",
-      "time": "9:00",
-      "team1": "LA VILLERSOISE",
-      "team2": "BC VERLAINE",
-      "category": "U 7 - MM D",
-      "location": "LA VILLERSOISE",
       "other": ""
     },
     {
@@ -1752,16 +1682,6 @@
       "team1": "BC VERLAINE",
       "team2": "UN HUY BASKET",
       "category": "U 7 - MM D",
-      "location": "BC VERLAINE",
-      "other": ""
-    },
-    {
-      "code": "544064",
-      "date": "2026-10-10",
-      "time": "11:00",
-      "team1": "BC VERLAINE",
-      "team2": "UN HUY BASKET",
-      "category": "U 8 - MM E",
       "location": "BC VERLAINE",
       "other": ""
     },

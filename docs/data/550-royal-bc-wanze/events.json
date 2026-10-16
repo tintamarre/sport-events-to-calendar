@@ -6,13 +6,53 @@
   },
   "events": [
     {
-      "code": "415064",
-      "date": "2026-10-11",
-      "time": "13:00",
+      "code": "762028",
+      "date": "2026-10-26",
+      "time": "18:00",
       "team1": "ROYAL BC WANZE",
-      "team2": "RBC WELKENRAEDT",
-      "category": "DD - DIVISION 2 B",
+      "team2": "ROYAL MOSA AC 1941",
+      "category": "CPE PROV CADETS",
       "location": "ROYAL BC WANZE",
+      "other": ""
+    },
+    {
+      "code": "772004",
+      "date": "2026-10-31",
+      "time": "9:00",
+      "team1": "ROYAL BC WANZE",
+      "team2": "ABC WAREMME B",
+      "category": "CPE PROV CADETTES",
+      "location": "ROYAL BC WANZE",
+      "other": ""
+    },
+    {
+      "code": "761001",
+      "date": "2026-10-30",
+      "time": "19:00",
+      "team1": "RBC ESNEUX",
+      "team2": "ROYAL BC WANZE",
+      "category": "CPE PROV JUNIORS",
+      "location": "RBC ESNEUX",
+      "other": ""
+    },
+    {
+      "code": "760034",
+      "date": "2026-11-01",
+      "time": "12:30",
+      "team1": "ESL UNITED D",
+      "team2": "ROYAL BC WANZE C (+ 5)",
+      "category": "CPE PROV MESSIEURS",
+      "location": "ESL UNITED D",
+      "other": ""
+    },
+    {
+      "code": "763036",
+      "date": "2026-10-31",
+      "time": "11:00",
+      "team1": "ROYAL BC WANZE A",
+      "team2": "UN HUY BASKET",
+      "category": "CPE PROV MINIMES MM",
+      "location": "ROYAL BC WANZE A",
       "other": ""
     },
     {
@@ -236,16 +276,6 @@
       "other": ""
     },
     {
-      "code": "404065",
-      "date": "2026-10-11",
-      "time": "15:00",
-      "team1": "ROYAL BC WANZE C",
-      "team2": "HARIMALIA BC B",
-      "category": "MM - DIVISION 3 A",
-      "location": "ROYAL BC WANZE C",
-      "other": ""
-    },
-    {
       "code": "404074",
       "date": "2026-10-17",
       "time": "19:00",
@@ -257,8 +287,8 @@
     },
     {
       "code": "404085",
-      "date": "2026-10-25",
-      "time": "15:00",
+      "date": "2026-11-04",
+      "time": "21:00",
       "team1": "RABC ENSIVAL B",
       "team2": "ROYAL BC WANZE C",
       "category": "MM - DIVISION 3 A",
@@ -463,16 +493,6 @@
       "team2": "RABC ENSIVAL B",
       "category": "MM - DIVISION 3 A",
       "location": "ROYAL BC WANZE C",
-      "other": ""
-    },
-    {
-      "code": "405064",
-      "date": "2026-10-11",
-      "time": "15:00",
-      "team1": "ROYAL BC WANZE B",
-      "team2": "HARIMALIA BC C",
-      "category": "MM - DIVISION 3 B",
-      "location": "ROYAL BC WANZE B",
       "other": ""
     },
     {
@@ -696,16 +716,6 @@
       "other": ""
     },
     {
-      "code": "AW102032",
-      "date": "2026-10-11",
-      "time": "17:30",
-      "team1": "ROYAL BC WANZE A",
-      "team2": "RBC ALLEUR A",
-      "category": "MM - REGIONALE 2 B",
-      "location": "ROYAL BC WANZE A",
-      "other": ""
-    },
-    {
       "code": "AW102039",
       "date": "2026-10-18",
       "time": "17:30",
@@ -906,16 +916,6 @@
       "other": ""
     },
     {
-      "code": "522064",
-      "date": "2026-10-11",
-      "time": "9:00",
-      "team1": "ROYAL BC WANZE A",
-      "team2": "CONDROZ MODAVE BB",
-      "category": "U 10 - MM C",
-      "location": "ROYAL BC WANZE A",
-      "other": ""
-    },
-    {
       "code": "522106",
       "date": "2026-11-08",
       "time": "14:30",
@@ -1076,16 +1076,6 @@
       "other": ""
     },
     {
-      "code": "528064",
-      "date": "2026-10-11",
-      "time": "9:00",
-      "team1": "ROYAL BC WANZE B",
-      "team2": "RBC HANEFFE B",
-      "category": "U 10 - MM I",
-      "location": "ROYAL BC WANZE B",
-      "other": ""
-    },
-    {
       "code": "528052",
       "date": "2026-10-17",
       "time": "13:00",
@@ -1233,16 +1223,6 @@
       "team2": "CRISTAL SGH C",
       "category": "U 10 - MM I",
       "location": "ROYAL BC WANZE B",
-      "other": ""
-    },
-    {
-      "code": "502064",
-      "date": "2026-10-11",
-      "time": "12:00",
-      "team1": "ROYAL BC WANZE A",
-      "team2": "BC VERLAINE A",
-      "category": "U 12 - MM C",
-      "location": "ROYAL BC WANZE A",
       "other": ""
     },
     {
@@ -1426,16 +1406,6 @@
       "other": ""
     },
     {
-      "code": "504064",
-      "date": "2026-10-11",
-      "time": "10:30",
-      "team1": "ROYAL BC WANZE B",
-      "team2": "THUNDER CONDROZ",
-      "category": "U 12 - MM E",
-      "location": "ROYAL BC WANZE B",
-      "other": ""
-    },
-    {
       "code": "504106",
       "date": "2026-11-07",
       "time": "13:00",
@@ -1596,16 +1566,6 @@
       "other": ""
     },
     {
-      "code": "493064",
-      "date": "2026-10-11",
-      "time": "9:00",
-      "team1": "ROYAL BC WANZE",
-      "team2": "UN HUY BASKET",
-      "category": "U 14 - PROV MM D",
-      "location": "ROYAL BC WANZE",
-      "other": ""
-    },
-    {
       "code": "493035",
       "date": "2026-10-24",
       "time": "13:00",
@@ -1733,16 +1693,6 @@
       "team2": "R HT-PRE OUGREE",
       "category": "U 14 - PROV MM D",
       "location": "ROYAL BC WANZE",
-      "other": ""
-    },
-    {
-      "code": "451064",
-      "date": "2026-10-11",
-      "time": "14:00",
-      "team1": "ROYAL BC WANZE A",
-      "team2": "ALL. FLEMALLE A",
-      "category": "U 16 - ELITES MM B",
-      "location": "ROYAL BC WANZE A",
       "other": ""
     },
     {
@@ -1883,16 +1833,6 @@
       "team2": "ROYAL BC WANZE A",
       "category": "U 16 - ELITES MM B",
       "location": "BC COINTE",
-      "other": ""
-    },
-    {
-      "code": "472064",
-      "date": "2026-10-11",
-      "time": "9:00",
-      "team1": "ROYAL BC WANZE B",
-      "team2": "BC VERLAINE",
-      "category": "U 16 - PROV MM C",
-      "location": "ROYAL BC WANZE B",
       "other": ""
     },
     {
@@ -2156,16 +2096,6 @@
       "other": ""
     },
     {
-      "code": "580064",
-      "date": "2026-10-11",
-      "time": "11:00",
-      "team1": "ROYAL BC WANZE",
-      "team2": "RBC WELKENRAEDT",
-      "category": "U 19 - DD",
-      "location": "ROYAL BC WANZE",
-      "other": ""
-    },
-    {
       "code": "580074",
       "date": "2026-10-18",
       "time": "11:00",
@@ -2416,26 +2346,6 @@
       "other": ""
     },
     {
-      "code": "420064",
-      "date": "2026-10-11",
-      "time": "13:00",
-      "team1": "ROYAL BC WANZE",
-      "team2": "ROYAL ANS BC",
-      "category": "U 21 - MM",
-      "location": "ROYAL BC WANZE",
-      "other": ""
-    },
-    {
-      "code": "420074",
-      "date": "2026-10-18",
-      "time": "13:00",
-      "team1": "ROYAL BC WANZE",
-      "team2": "MARCHIN BASKET",
-      "category": "U 21 - MM",
-      "location": "ROYAL BC WANZE",
-      "other": ""
-    },
-    {
       "code": "420086",
       "date": "2026-10-25",
       "time": "9:00",
@@ -2566,16 +2476,6 @@
       "other": ""
     },
     {
-      "code": "420235",
-      "date": "2027-02-07",
-      "time": "16:30",
-      "team1": "MARCHIN BASKET",
-      "team2": "ROYAL BC WANZE",
-      "category": "U 21 - MM",
-      "location": "MARCHIN BASKET",
-      "other": ""
-    },
-    {
       "code": "420257",
       "date": "2027-02-20",
       "time": "16:30",
@@ -2666,16 +2566,6 @@
       "other": ""
     },
     {
-      "code": "552065",
-      "date": "2026-10-10",
-      "time": "9:30",
-      "team1": "CRISTAL SGH A",
-      "team2": "ROYAL BC WANZE",
-      "category": "U 7 - MM C",
-      "location": "CRISTAL SGH A",
-      "other": ""
-    },
-    {
       "code": "552112",
       "date": "2026-11-15",
       "time": "10:30",
@@ -2756,16 +2646,6 @@
       "other": ""
     },
     {
-      "code": "552222",
-      "date": "2027-01-30",
-      "time": "11:30",
-      "team1": "R HT-PRE OUGREE",
-      "team2": "ROYAL BC WANZE",
-      "category": "U 7 - MM C",
-      "location": "R HT-PRE OUGREE",
-      "other": ""
-    },
-    {
       "code": "552231",
       "date": "2027-02-07",
       "time": "11:00",
@@ -2833,16 +2713,6 @@
       "team2": "ROYAL BC WANZE",
       "category": "U 7 - MM C",
       "location": "BC BELLEFLAMME A",
-      "other": ""
-    },
-    {
-      "code": "545064",
-      "date": "2026-10-11",
-      "time": "12:00",
-      "team1": "ROYAL BC WANZE",
-      "team2": "CONDROZ MODAVE BB",
-      "category": "U 8 - MM F",
-      "location": "ROYAL BC WANZE",
       "other": ""
     },
     {

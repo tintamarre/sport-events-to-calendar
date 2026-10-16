@@ -6,6 +6,56 @@
   },
   "events": [
     {
+      "code": "762033",
+      "date": "2026-10-31",
+      "time": "15:00",
+      "team1": "RBC AWANS A",
+      "team2": "BBC EUPEN",
+      "category": "CPE PROV CADETS",
+      "location": "RBC AWANS A",
+      "other": ""
+    },
+    {
+      "code": "772002",
+      "date": "2026-11-04",
+      "time": "18:00",
+      "team1": "RBC AWANS A",
+      "team2": "RBC AWANS B",
+      "category": "CPE PROV CADETTES",
+      "location": "RBC AWANS A",
+      "other": ""
+    },
+    {
+      "code": "772002",
+      "date": "2026-11-04",
+      "time": "18:00",
+      "team1": "RBC AWANS A",
+      "team2": "RBC AWANS B",
+      "category": "CPE PROV CADETTES",
+      "location": "RBC AWANS A",
+      "other": ""
+    },
+    {
+      "code": "761003",
+      "date": "2026-10-31",
+      "time": "11:00",
+      "team1": "RBC AWANS",
+      "team2": "RBC DISON-ANDRIMONT",
+      "category": "CPE PROV JUNIORS",
+      "location": "RBC AWANS",
+      "other": ""
+    },
+    {
+      "code": "760043",
+      "date": "2026-10-27",
+      "time": "20:00",
+      "team1": "ROYAL ANS BC (+  10)",
+      "team2": "RBC AWANS A",
+      "category": "CPE PROV MESSIEURS",
+      "location": "ROYAL ANS BC (+  10)",
+      "other": ""
+    },
+    {
       "code": "773006",
       "date": "2026-10-31",
       "time": "13:00",
@@ -16,13 +66,33 @@
       "other": ""
     },
     {
-      "code": "416066",
-      "date": "2026-10-11",
+      "code": "763030",
+      "date": "2026-10-31",
       "time": "13:00",
-      "team1": "R REN. MONTEGNEE",
-      "team2": "RBC AWANS A",
-      "category": "DD - DIVISION 3 A",
-      "location": "R REN. MONTEGNEE",
+      "team1": "RBC AWANS A",
+      "team2": "RBC ALLEUR",
+      "category": "CPE PROV MINIMES MM",
+      "location": "RBC AWANS A",
+      "other": ""
+    },
+    {
+      "code": "774006",
+      "date": "2026-10-31",
+      "time": "9:00",
+      "team1": "RBC AWANS",
+      "team2": "BC COINTE",
+      "category": "CPE PROV PUPILLES DD",
+      "location": "RBC AWANS",
+      "other": ""
+    },
+    {
+      "code": "764040",
+      "date": "2026-10-31",
+      "time": "9:00",
+      "team1": "RBC ALLEUR A",
+      "team2": "RBC AWANS",
+      "category": "CPE PROV PUPILLES MM",
+      "location": "RBC ALLEUR A",
       "other": ""
     },
     {
@@ -173,16 +243,6 @@
       "team2": "RBC AWANS A",
       "category": "DD - DIVISION 3 A",
       "location": "GIANTS BRAIVES",
-      "other": ""
-    },
-    {
-      "code": "417066",
-      "date": "2026-10-10",
-      "time": "17:00",
-      "team1": "RBC DISON-ANDRIMONT B",
-      "team2": "RBC AWANS B",
-      "category": "DD - DIVISION 3 B",
-      "location": "RBC DISON-ANDRIMONT B",
       "other": ""
     },
     {
@@ -343,16 +403,6 @@
       "team2": "BCM HERSTAL",
       "category": "DD - DIVISION 3 B",
       "location": "RBC AWANS B",
-      "other": ""
-    },
-    {
-      "code": "403061",
-      "date": "2026-10-10",
-      "time": "21:00",
-      "team1": "RBC AWANS A",
-      "team2": "RBC DISON-ANDRIMONT A",
-      "category": "MM - DIVISION 2 B",
-      "location": "RBC AWANS A",
       "other": ""
     },
     {
@@ -566,16 +616,6 @@
       "other": ""
     },
     {
-      "code": "409061",
-      "date": "2026-10-10",
-      "time": "19:00",
-      "team1": "RBC AWANS C",
-      "team2": "GIANTS BRAIVES A",
-      "category": "MM - DIVISION 4 C",
-      "location": "RBC AWANS C",
-      "other": ""
-    },
-    {
       "code": "409071",
       "date": "2026-10-18",
       "time": "13:00",
@@ -743,16 +783,6 @@
       "team2": "RBC AWANS C",
       "category": "MM - DIVISION 4 C",
       "location": "BC SPRIMONT E",
-      "other": ""
-    },
-    {
-      "code": "410061",
-      "date": "2026-10-11",
-      "time": "11:00",
-      "team1": "RBC AWANS D",
-      "team2": "GIANTS BRAIVES B",
-      "category": "MM - DIVISION 4 D",
-      "location": "RBC AWANS D",
       "other": ""
     },
     {
@@ -1086,16 +1116,6 @@
       "other": ""
     },
     {
-      "code": "524061",
-      "date": "2026-10-11",
-      "time": "13:00",
-      "team1": "RBC AWANS",
-      "team2": "ROYAL SPA BC B",
-      "category": "U 10 - MM E",
-      "location": "RBC AWANS",
-      "other": ""
-    },
-    {
       "code": "524112",
       "date": "2026-11-14",
       "time": "9:00",
@@ -1233,16 +1253,6 @@
       "team2": "BC SPRIMONT C",
       "category": "U 10 - MM E",
       "location": "RBC AWANS",
-      "other": ""
-    },
-    {
-      "code": "504061",
-      "date": "2026-10-10",
-      "time": "11:30",
-      "team1": "ROYAL MOSA AC 1941 B",
-      "team2": "RBC AWANS",
-      "category": "U 12 - MM E",
-      "location": "ROYAL MOSA AC 1941 B",
       "other": ""
     },
     {
@@ -1396,16 +1406,6 @@
       "other": ""
     },
     {
-      "code": "600061",
-      "date": "2026-10-11",
-      "time": "9:00",
-      "team1": "ATLAS A JUPILLE",
-      "team2": "RBC AWANS",
-      "category": "U 14 - DD A",
-      "location": "ATLAS A JUPILLE",
-      "other": ""
-    },
-    {
       "code": "600103",
       "date": "2026-11-08",
       "time": "15:00",
@@ -1543,16 +1543,6 @@
       "team2": "RBC AWANS",
       "category": "U 14 - DD A",
       "location": "R HT-PRE OUGREE",
-      "other": ""
-    },
-    {
-      "code": "491061",
-      "date": "2026-10-11",
-      "time": "15:00",
-      "team1": "RBC AWANS B",
-      "team2": "ROYAL HERVE-BATTICE",
-      "category": "U 14 - PROV MM B",
-      "location": "RBC AWANS B",
       "other": ""
     },
     {
@@ -1696,16 +1686,6 @@
       "other": ""
     },
     {
-      "code": "591061",
-      "date": "2026-10-10",
-      "time": "17:00",
-      "team1": "ATLAS A JUPILLE",
-      "team2": "RBC AWANS",
-      "category": "U 16 - DD B",
-      "location": "ATLAS A JUPILLE",
-      "other": ""
-    },
-    {
       "code": "591151",
       "date": "2026-10-24",
       "time": "13:00",
@@ -1813,16 +1793,6 @@
       "team2": "ORP JAUCHE",
       "category": "U 16 - DD B",
       "location": "RBC AWANS",
-      "other": ""
-    },
-    {
-      "code": "451061",
-      "date": "2026-10-10",
-      "time": "11:00",
-      "team1": "RBC AWANS A",
-      "team2": "ABC WAREMME A",
-      "category": "U 16 - ELITES MM B",
-      "location": "RBC AWANS A",
       "other": ""
     },
     {
@@ -1973,16 +1943,6 @@
       "team2": "RBC ALLEUR",
       "category": "U 16 - ELITES MM B",
       "location": "RBC AWANS A",
-      "other": ""
-    },
-    {
-      "code": "431061",
-      "date": "2026-10-10",
-      "time": "13:00",
-      "team1": "RBC AWANS",
-      "team2": "BC BELLEFLAMME A",
-      "category": "U 18 - ELITES MM B",
-      "location": "RBC AWANS",
       "other": ""
     },
     {
@@ -2156,16 +2116,6 @@
       "other": ""
     },
     {
-      "code": "441061",
-      "date": "2026-10-10",
-      "time": "15:00",
-      "team1": "RBC AWANS",
-      "team2": "R.UN.BELLAIRE",
-      "category": "U 18 - PROV MM B",
-      "location": "RBC AWANS",
-      "other": ""
-    },
-    {
       "code": "441101",
       "date": "2026-11-07",
       "time": "15:00",
@@ -2313,26 +2263,6 @@
       "team2": "UN HUY BASKET",
       "category": "U 18 - PROV MM B",
       "location": "RBC AWANS",
-      "other": ""
-    },
-    {
-      "code": "580061",
-      "date": "2026-10-10",
-      "time": "9:00",
-      "team1": "RBC AWANS B",
-      "team2": "RBC AWANS A",
-      "category": "U 19 - DD",
-      "location": "RBC AWANS B",
-      "other": ""
-    },
-    {
-      "code": "580061",
-      "date": "2026-10-10",
-      "time": "9:00",
-      "team1": "RBC AWANS B",
-      "team2": "RBC AWANS A",
-      "category": "U 19 - DD",
-      "location": "RBC AWANS B",
       "other": ""
     },
     {
@@ -2836,16 +2766,6 @@
       "other": ""
     },
     {
-      "code": "420061",
-      "date": "2026-10-10",
-      "time": "17:00",
-      "team1": "RBC AWANS",
-      "team2": "RBC DISON-ANDRIMONT",
-      "category": "U 21 - MM",
-      "location": "RBC AWANS",
-      "other": ""
-    },
-    {
       "code": "420077",
       "date": "2026-10-17",
       "time": "15:00",
@@ -2913,16 +2833,6 @@
       "team2": "RBC AWANS",
       "category": "U 21 - MM",
       "location": "BC SPRIMONT",
-      "other": ""
-    },
-    {
-      "code": "420161",
-      "date": "2026-12-19",
-      "time": "17:00",
-      "team1": "RBC AWANS",
-      "team2": "MARCHIN BASKET",
-      "category": "U 21 - MM",
-      "location": "RBC AWANS",
       "other": ""
     },
     {
@@ -3046,16 +2956,6 @@
       "other": ""
     },
     {
-      "code": "420325",
-      "date": "2027-04-11",
-      "time": "16:30",
-      "team1": "MARCHIN BASKET",
-      "team2": "RBC AWANS",
-      "category": "U 21 - MM",
-      "location": "MARCHIN BASKET",
-      "other": ""
-    },
-    {
       "code": "420331",
       "date": "2027-04-17",
       "time": "17:00",
@@ -3073,26 +2973,6 @@
       "team2": "RBC AWANS",
       "category": "U 21 - MM",
       "location": "BBC EUPEN",
-      "other": ""
-    },
-    {
-      "code": "552061",
-      "date": "2026-10-11",
-      "time": "9:00",
-      "team1": "RBC AWANS",
-      "team2": "RBC HANEFFE B",
-      "category": "U 7 - MM C",
-      "location": "RBC AWANS",
-      "other": ""
-    },
-    {
-      "code": "552101",
-      "date": "2026-11-08",
-      "time": "9:00",
-      "team1": "RBC AWANS",
-      "team2": "R HT-PRE OUGREE",
-      "category": "U 7 - MM C",
-      "location": "RBC AWANS",
       "other": ""
     },
     {
@@ -3196,16 +3076,6 @@
       "other": ""
     },
     {
-      "code": "552293",
-      "date": "2027-03-20",
-      "time": "10:00",
-      "team1": "R HT-PRE OUGREE",
-      "team2": "RBC AWANS",
-      "category": "U 7 - MM C",
-      "location": "R HT-PRE OUGREE",
-      "other": ""
-    },
-    {
       "code": "552301",
       "date": "2027-03-27",
       "time": "11:00",
@@ -3232,16 +3102,6 @@
       "team1": "RBC AWANS",
       "team2": "BC SPRIMONT A",
       "category": "U 7 - MM C",
-      "location": "RBC AWANS",
-      "other": ""
-    },
-    {
-      "code": "542061",
-      "date": "2026-10-11",
-      "time": "9:00",
-      "team1": "RBC AWANS",
-      "team2": "ROYAL HERVE-BATTICE B",
-      "category": "U 8 - MM C",
       "location": "RBC AWANS",
       "other": ""
     },

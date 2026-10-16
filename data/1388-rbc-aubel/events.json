@@ -6,13 +6,13 @@
   },
   "events": [
     {
-      "code": "406063",
-      "date": "2026-10-10",
-      "time": "17:00",
-      "team1": "BC VERVIERS D",
-      "team2": "RBC AUBEL",
-      "category": "MM - DIVISION 3 C",
-      "location": "BC VERVIERS D",
+      "code": "772007",
+      "date": "2026-11-01",
+      "time": "16:00",
+      "team1": "RBC AUBEL",
+      "team2": "RBC WELKENRAEDT",
+      "category": "CPE PROV CADETTES",
+      "location": "RBC AUBEL",
       "other": ""
     },
     {
@@ -38,7 +38,7 @@
     {
       "code": "406224",
       "date": "2026-10-31",
-      "time": "20:00",
+      "time": "19:00",
       "team1": "RBC AUBEL",
       "team2": "RBC STAVELOT B",
       "category": "MM - DIVISION 3 C",
@@ -526,16 +526,6 @@
       "other": ""
     },
     {
-      "code": "505063",
-      "date": "2026-10-10",
-      "time": "9:00",
-      "team1": "ROYAL ANS BC B",
-      "team2": "RBC AUBEL",
-      "category": "U 12 - MM F",
-      "location": "ROYAL ANS BC B",
-      "other": ""
-    },
-    {
       "code": "505104",
       "date": "2026-11-07",
       "time": "13:30",
@@ -686,16 +676,6 @@
       "other": ""
     },
     {
-      "code": "601063",
-      "date": "2026-10-10",
-      "time": "11:00",
-      "team1": "RABC ENSIVAL",
-      "team2": "RBC AUBEL",
-      "category": "U 14 - DD B",
-      "location": "RABC ENSIVAL",
-      "other": ""
-    },
-    {
       "code": "601104",
       "date": "2026-11-07",
       "time": "11:30",
@@ -813,16 +793,6 @@
       "team2": "BC COINTE",
       "category": "U 14 - DD B",
       "location": "RBC AUBEL",
-      "other": ""
-    },
-    {
-      "code": "492063",
-      "date": "2026-10-10",
-      "time": "12:30",
-      "team1": "BCM HERSTAL",
-      "team2": "RBC AUBEL",
-      "category": "U 14 - PROV MM C",
-      "location": "BCM HERSTAL",
       "other": ""
     },
     {
@@ -956,16 +926,6 @@
       "other": ""
     },
     {
-      "code": "580063",
-      "date": "2026-10-11",
-      "time": "14:00",
-      "team1": "ROYAL BC NINANE B",
-      "team2": "RBC AUBEL",
-      "category": "U 19 - DD",
-      "location": "ROYAL BC NINANE B",
-      "other": ""
-    },
-    {
       "code": "580075",
       "date": "2026-10-18",
       "time": "16:00",
@@ -991,6 +951,16 @@
       "time": "14:15",
       "team1": "RBC AUBEL",
       "team2": "RBC WELKENRAEDT",
+      "category": "U 19 - DD",
+      "location": "RBC AUBEL",
+      "other": ""
+    },
+    {
+      "code": "580034",
+      "date": "2026-11-10",
+      "time": "19:30",
+      "team1": "RBC AUBEL",
+      "team2": "ROYAL HERVE-BATTICE",
       "category": "U 19 - DD",
       "location": "RBC AUBEL",
       "other": ""

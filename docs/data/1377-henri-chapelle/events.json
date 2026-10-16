@@ -6,13 +6,63 @@
   },
   "events": [
     {
-      "code": "413061",
-      "date": "2026-10-11",
-      "time": "11:00",
+      "code": "760522",
+      "date": "2026-10-21",
+      "time": "20:30",
+      "team1": "RBC ALLEUR C",
+      "team2": "HENRI-CHAPELLE B (+ 5)",
+      "category": "CPE PROV DAMES",
+      "location": "RBC ALLEUR C",
+      "other": ""
+    },
+    {
+      "code": "760520",
+      "date": "2026-11-04",
+      "time": "21:00",
       "team1": "HENRI-CHAPELLE A",
-      "team2": "ROYAL HERVE-BATTICE C",
-      "category": "DD - DIVISION 1",
+      "team2": "RBC HANEFFE B",
+      "category": "CPE PROV DAMES",
       "location": "HENRI-CHAPELLE A",
+      "other": ""
+    },
+    {
+      "code": "761007",
+      "date": "2026-10-31",
+      "time": "12:00",
+      "team1": "BC SPRIMONT",
+      "team2": "HENRI-CHAPELLE",
+      "category": "CPE PROV JUNIORS",
+      "location": "BC SPRIMONT",
+      "other": ""
+    },
+    {
+      "code": "760038",
+      "date": "2026-10-31",
+      "time": "17:00",
+      "team1": "ALL. FLEMALLE B (+ 10)",
+      "team2": "HENRI-CHAPELLE A",
+      "category": "CPE PROV MESSIEURS",
+      "location": "ALL. FLEMALLE B (+ 10)",
+      "other": ""
+    },
+    {
+      "code": "763032",
+      "date": "2026-10-31",
+      "time": "9:00",
+      "team1": "RBC STAVELOT",
+      "team2": "HENRI-CHAPELLE",
+      "category": "CPE PROV MINIMES MM",
+      "location": "RBC STAVELOT",
+      "other": ""
+    },
+    {
+      "code": "764038",
+      "date": "2026-10-31",
+      "time": "13:00",
+      "team1": "BC BELLEFLAMME",
+      "team2": "HENRI-CHAPELLE A",
+      "category": "CPE PROV PUPILLES MM",
+      "location": "BC BELLEFLAMME",
       "other": ""
     },
     {
@@ -236,16 +286,6 @@
       "other": ""
     },
     {
-      "code": "415061",
-      "date": "2026-10-10",
-      "time": "21:00",
-      "team1": "RBC STAVELOT",
-      "team2": "HENRI-CHAPELLE B",
-      "category": "DD - DIVISION 2 B",
-      "location": "RBC STAVELOT",
-      "other": ""
-    },
-    {
       "code": "415076",
       "date": "2026-10-18",
       "time": "13:00",
@@ -466,16 +506,6 @@
       "other": ""
     },
     {
-      "code": "417061",
-      "date": "2026-10-10",
-      "time": "18:30",
-      "team1": "HENRI-CHAPELLE C",
-      "team2": "R 4A AYWAILLE-HAMOIR B",
-      "category": "DD - DIVISION 3 B",
-      "location": "HENRI-CHAPELLE C",
-      "other": ""
-    },
-    {
       "code": "417101",
       "date": "2026-11-07",
       "time": "18:30",
@@ -633,16 +663,6 @@
       "team2": "RBC DISON-ANDRIMONT B",
       "category": "DD - DIVISION 3 B",
       "location": "HENRI-CHAPELLE C",
-      "other": ""
-    },
-    {
-      "code": "401067",
-      "date": "2026-10-10",
-      "time": "18:30",
-      "team1": "RB UNION LIEGE A",
-      "team2": "HENRI-CHAPELLE A",
-      "category": "MM - DIVISION 1",
-      "location": "RB UNION LIEGE A",
       "other": ""
     },
     {
@@ -853,16 +873,6 @@
       "team2": "RBC STAVELOT A",
       "category": "MM - DIVISION 1",
       "location": "HENRI-CHAPELLE A",
-      "other": ""
-    },
-    {
-      "code": "404067",
-      "date": "2026-10-10",
-      "time": "19:00",
-      "team1": "R 4A AYWAILLE-HAMOIR B",
-      "team2": "HENRI-CHAPELLE B",
-      "category": "MM - DIVISION 3 A",
-      "location": "R 4A AYWAILLE-HAMOIR B",
       "other": ""
     },
     {
@@ -1083,16 +1093,6 @@
       "team2": "ATLAS A JUPILLE C",
       "category": "MM - DIVISION 3 A",
       "location": "HENRI-CHAPELLE B",
-      "other": ""
-    },
-    {
-      "code": "407067",
-      "date": "2026-10-10",
-      "time": "20:30",
-      "team1": "HENRI-CHAPELLE D",
-      "team2": "R 4A AYWAILLE-HAMOIR D",
-      "category": "MM - DIVISION 4 A",
-      "location": "HENRI-CHAPELLE D",
       "other": ""
     },
     {
@@ -1466,16 +1466,6 @@
       "other": ""
     },
     {
-      "code": "525061",
-      "date": "2026-10-10",
-      "time": "10:30",
-      "team1": "HENRI-CHAPELLE A",
-      "team2": "ROYAL SPA BC C",
-      "category": "U 10 - MM F",
-      "location": "HENRI-CHAPELLE A",
-      "other": ""
-    },
-    {
       "code": "525101",
       "date": "2026-11-07",
       "time": "10:30",
@@ -1746,16 +1736,6 @@
       "other": ""
     },
     {
-      "code": "501067",
-      "date": "2026-10-10",
-      "time": "11:00",
-      "team1": "ALL. FLEMALLE D",
-      "team2": "HENRI-CHAPELLE A",
-      "category": "U 12 - MM B",
-      "location": "ALL. FLEMALLE D",
-      "other": ""
-    },
-    {
       "code": "501077",
       "date": "2026-10-18",
       "time": "9:00",
@@ -1946,16 +1926,6 @@
       "other": ""
     },
     {
-      "code": "505061",
-      "date": "2026-10-10",
-      "time": "16:00",
-      "team1": "R.UN.BELLAIRE",
-      "team2": "HENRI-CHAPELLE B",
-      "category": "U 12 - MM F",
-      "location": "R.UN.BELLAIRE",
-      "other": ""
-    },
-    {
       "code": "505103",
       "date": "2026-11-07",
       "time": "10:45",
@@ -2106,16 +2076,6 @@
       "other": ""
     },
     {
-      "code": "506065",
-      "date": "2026-10-10",
-      "time": "9:00",
-      "team1": "RBC DISON-ANDRIMONT B",
-      "team2": "HENRI-CHAPELLE C",
-      "category": "U 12 - MM G",
-      "location": "RBC DISON-ANDRIMONT B",
-      "other": ""
-    },
-    {
       "code": "506105",
       "date": "2026-11-07",
       "time": "10:45",
@@ -2254,16 +2214,6 @@
       "category": "U 12 - MM G",
       "location": "RABC ENSIVAL B",
       "other": ""
-    },
-    {
-      "code": "480061",
-      "date": "2026-10-10",
-      "time": "14:30",
-      "team1": "PEPINSTER EAST BELG A",
-      "team2": "HENRI-CHAPELLE B",
-      "category": "U 14 - ELITES MM A",
-      "location": "PEPINSTER EAST BELG A",
-      "other": "(Hall du paire)"
     },
     {
       "code": "480103",
@@ -2423,16 +2373,6 @@
       "team2": "HENRI-CHAPELLE B",
       "category": "U 14 - ELITES MM A",
       "location": "RBC ALLEUR A",
-      "other": ""
-    },
-    {
-      "code": "481061",
-      "date": "2026-10-11",
-      "time": "13:00",
-      "team1": "ATLAS A JUPILLE",
-      "team2": "HENRI-CHAPELLE A",
-      "category": "U 14 - ELITES MM B",
-      "location": "ATLAS A JUPILLE",
       "other": ""
     },
     {
@@ -2596,16 +2536,6 @@
       "other": ""
     },
     {
-      "code": "591065",
-      "date": "2026-10-10",
-      "time": "13:30",
-      "team1": "RBC BLEGNY",
-      "team2": "HENRI-CHAPELLE",
-      "category": "U 16 - DD B",
-      "location": "RBC BLEGNY",
-      "other": ""
-    },
-    {
       "code": "591105",
       "date": "2026-11-07",
       "time": "17:00",
@@ -2724,16 +2654,6 @@
       "category": "U 16 - DD B",
       "location": "HENRI-CHAPELLE",
       "other": ""
-    },
-    {
-      "code": "450065",
-      "date": "2026-10-10",
-      "time": "12:30",
-      "team1": "PEPINSTER EAST BELG A",
-      "team2": "HENRI-CHAPELLE",
-      "category": "U 16 - ELITES MM A",
-      "location": "PEPINSTER EAST BELG A",
-      "other": "(Hall du paire)"
     },
     {
       "code": "450105",
@@ -2876,16 +2796,6 @@
       "other": ""
     },
     {
-      "code": "420067",
-      "date": "2026-10-10",
-      "time": "16:30",
-      "team1": "HENRI-CHAPELLE",
-      "team2": "BBC EUPEN",
-      "category": "U 21 - MM",
-      "location": "HENRI-CHAPELLE",
-      "other": ""
-    },
-    {
       "code": "420071",
       "date": "2026-10-17",
       "time": "9:00",
@@ -2893,16 +2803,6 @@
       "team2": "HENRI-CHAPELLE",
       "category": "U 21 - MM",
       "location": "ROYAL SPA BC",
-      "other": ""
-    },
-    {
-      "code": "420107",
-      "date": "2026-11-07",
-      "time": "16:30",
-      "team1": "HENRI-CHAPELLE",
-      "team2": "MARCHIN BASKET",
-      "category": "U 21 - MM",
-      "location": "HENRI-CHAPELLE",
       "other": ""
     },
     {
@@ -3053,16 +2953,6 @@
       "team2": "HENRI-CHAPELLE",
       "category": "U 21 - MM",
       "location": "THEUX BC",
-      "other": ""
-    },
-    {
-      "code": "420295",
-      "date": "2027-03-21",
-      "time": "12:00",
-      "team1": "MARCHIN BASKET",
-      "team2": "HENRI-CHAPELLE",
-      "category": "U 21 - MM",
-      "location": "MARCHIN BASKET",
       "other": ""
     },
     {
@@ -3256,16 +3146,6 @@
       "other": ""
     },
     {
-      "code": "551066",
-      "date": "2026-10-10",
-      "time": "11:30",
-      "team1": "R 4A AYWAILLE-HAMOIR B",
-      "team2": "HENRI-CHAPELLE B",
-      "category": "U 7 - MM B",
-      "location": "R 4A AYWAILLE-HAMOIR B",
-      "other": ""
-    },
-    {
       "code": "551104",
       "date": "2026-11-07",
       "time": "9:00",
@@ -3403,16 +3283,6 @@
       "team2": "ALL. FLEMALLE",
       "category": "U 7 - MM B",
       "location": "HENRI-CHAPELLE B",
-      "other": ""
-    },
-    {
-      "code": "540066",
-      "date": "2026-10-11",
-      "time": "9:00",
-      "team1": "HENRI-CHAPELLE A",
-      "team2": "BBC EUPEN",
-      "category": "U 8 - MM A",
-      "location": "HENRI-CHAPELLE A",
       "other": ""
     },
     {
@@ -3573,16 +3443,6 @@
       "team2": "HENRI-CHAPELLE A",
       "category": "U 8 - MM A",
       "location": "RBC STAVELOT",
-      "other": ""
-    },
-    {
-      "code": "541061",
-      "date": "2026-10-11",
-      "time": "9:00",
-      "team1": "HENRI-CHAPELLE B",
-      "team2": "ROYAL SPA BC B",
-      "category": "U 8 - MM B",
-      "location": "HENRI-CHAPELLE B",
       "other": ""
     },
     {

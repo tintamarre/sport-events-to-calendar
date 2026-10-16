@@ -6,12 +6,32 @@
   },
   "events": [
     {
-      "code": "416064",
-      "date": "2026-10-09",
+      "code": "760046",
+      "date": "2026-10-21",
       "time": "21:00",
+      "team1": "ETOILE JUPILLE B (+ 10)",
+      "team2": "ABC WAREMME A",
+      "category": "CPE PROV MESSIEURS",
+      "location": "ETOILE JUPILLE B (+ 10)",
+      "other": ""
+    },
+    {
+      "code": "760048",
+      "date": "2026-11-04",
+      "time": "21:00",
+      "team1": "ROYALE US AWANS A (+ 10)",
+      "team2": "ETOILE JUPILLE A",
+      "category": "CPE PROV MESSIEURS",
+      "location": "ROYALE US AWANS A (+ 10)",
+      "other": ""
+    },
+    {
+      "code": "764035",
+      "date": "2026-10-31",
+      "time": "11:00",
       "team1": "ETOILE JUPILLE",
-      "team2": "ORP JAUCHE",
-      "category": "DD - DIVISION 3 A",
+      "team2": "ATLAS A JUPILLE",
+      "category": "CPE PROV PUPILLES MM",
       "location": "ETOILE JUPILLE",
       "other": ""
     },
@@ -196,16 +216,6 @@
       "other": ""
     },
     {
-      "code": "401063",
-      "date": "2026-11-01",
-      "time": "13:00",
-      "team1": "THEUX BC A",
-      "team2": "ETOILE JUPILLE A",
-      "category": "MM - DIVISION 1",
-      "location": "THEUX BC A",
-      "other": ""
-    },
-    {
       "code": "401104",
       "date": "2026-11-06",
       "time": "21:00",
@@ -223,6 +233,16 @@
       "team2": "ETOILE JUPILLE A",
       "category": "MM - DIVISION 1",
       "location": "HENRI-CHAPELLE A",
+      "other": ""
+    },
+    {
+      "code": "401063",
+      "date": "2026-11-17",
+      "time": "20:30",
+      "team1": "THEUX BC A",
+      "team2": "ETOILE JUPILLE A",
+      "category": "MM - DIVISION 1",
+      "location": "THEUX BC A",
       "other": ""
     },
     {
@@ -393,16 +413,6 @@
       "team2": "ETOILE JUPILLE A",
       "category": "MM - DIVISION 1",
       "location": "ROYAL HERVE-BATTICE A",
-      "other": ""
-    },
-    {
-      "code": "404063",
-      "date": "2026-10-08",
-      "time": "21:00",
-      "team1": "THEUX BC B",
-      "team2": "ETOILE JUPILLE B",
-      "category": "MM - DIVISION 3 A",
-      "location": "THEUX BC B",
       "other": ""
     },
     {
@@ -816,16 +826,6 @@
       "other": ""
     },
     {
-      "code": "409063",
-      "date": "2026-10-10",
-      "time": "21:00",
-      "team1": "LA VILLERSOISE C",
-      "team2": "ETOILE JUPILLE C",
-      "category": "MM - DIVISION 4 C",
-      "location": "LA VILLERSOISE C",
-      "other": ""
-    },
-    {
       "code": "409075",
       "date": "2026-10-17",
       "time": "19:30",
@@ -1196,6 +1196,16 @@
       "other": ""
     },
     {
+      "code": "501063",
+      "date": "2026-10-31",
+      "time": "11:00",
+      "team1": "THEUX BC A",
+      "team2": "ETOILE JUPILLE B",
+      "category": "U 12 - MM B",
+      "location": "THEUX BC A",
+      "other": ""
+    },
+    {
       "code": "501104",
       "date": "2026-11-07",
       "time": "11:00",
@@ -1543,16 +1553,6 @@
       "team2": "RABC ENSIVAL A",
       "category": "U 14 - ELITES MM A",
       "location": "ETOILE JUPILLE",
-      "other": ""
-    },
-    {
-      "code": "470063",
-      "date": "2026-10-10",
-      "time": "9:30",
-      "team1": "R HT-PRE OUGREE",
-      "team2": "ETOILE JUPILLE",
-      "category": "U 16 - PROV MM A",
-      "location": "R HT-PRE OUGREE",
       "other": ""
     },
     {

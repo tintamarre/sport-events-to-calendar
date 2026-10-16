@@ -6,13 +6,23 @@
   },
   "events": [
     {
-      "code": "401062",
-      "date": "2026-10-10",
-      "time": "19:00",
-      "team1": "BC COINTE A",
-      "team2": "ESL UNITED C",
-      "category": "MM - DIVISION 1",
-      "location": "BC COINTE A",
+      "code": "760036",
+      "date": "2026-10-31",
+      "time": "18:00",
+      "team1": "ESL UNITED C",
+      "team2": "RBC DISON-ANDRIMONT A (",
+      "category": "CPE PROV MESSIEURS",
+      "location": "ESL UNITED C",
+      "other": ""
+    },
+    {
+      "code": "760034",
+      "date": "2026-11-01",
+      "time": "12:30",
+      "team1": "ESL UNITED D",
+      "team2": "ROYAL BC WANZE C (+ 5)",
+      "category": "CPE PROV MESSIEURS",
+      "location": "ESL UNITED D",
       "other": ""
     },
     {
@@ -236,16 +246,6 @@
       "other": ""
     },
     {
-      "code": "402066",
-      "date": "2026-10-09",
-      "time": "21:00",
-      "team1": "ESL UNITED E",
-      "team2": "BC BELLEFLAMME C",
-      "category": "MM - DIVISION 2 A",
-      "location": "ESL UNITED E",
-      "other": ""
-    },
-    {
       "code": "402073",
       "date": "2026-10-18",
       "time": "17:00",
@@ -456,24 +456,14 @@
       "other": ""
     },
     {
-      "code": "403066",
-      "date": "2026-10-11",
-      "time": "12:00",
-      "team1": "ESL UNITED D",
-      "team2": "ROYAL SPA BC B",
-      "category": "MM - DIVISION 2 B",
-      "location": "ESL UNITED D",
-      "other": ""
-    },
-    {
       "code": "403073",
       "date": "2026-10-17",
-      "time": "17:30",
+      "time": "17:00",
       "team1": "BC VERVIERS C",
       "team2": "ESL UNITED D",
       "category": "MM - DIVISION 2 B",
       "location": "BC VERVIERS C",
-      "other": ""
+      "other": "(Salle de Spa)"
     },
     {
       "code": "403086",
@@ -673,16 +663,6 @@
       "team2": "ESL UNITED D",
       "category": "MM - DIVISION 2 B",
       "location": "HARIMALIA BC A",
-      "other": ""
-    },
-    {
-      "code": "404066",
-      "date": "2026-10-10",
-      "time": "17:00",
-      "team1": "ESL UNITED F",
-      "team2": "ATLAS A JUPILLE C",
-      "category": "MM - DIVISION 3 A",
-      "location": "ESL UNITED F",
       "other": ""
     },
     {
@@ -893,16 +873,6 @@
       "team2": "ESL UNITED F",
       "category": "MM - DIVISION 3 A",
       "location": "HARIMALIA BC B",
-      "other": ""
-    },
-    {
-      "code": "AW100037",
-      "date": "2026-10-11",
-      "time": "16:00",
-      "team1": "ESL UNITED A",
-      "team2": "ASTE KAIN",
-      "category": "MM - REGIONALE 1",
-      "location": "ESL UNITED A",
       "other": ""
     },
     {
@@ -1156,16 +1126,6 @@
       "other": ""
     },
     {
-      "code": "AW101030",
-      "date": "2026-10-10",
-      "time": "21:00",
-      "team1": "PEPINSTER EAST BELG B",
-      "team2": "ESL UNITED B",
-      "category": "MM - REGIONALE 2 A",
-      "location": "PEPINSTER EAST BELG B",
-      "other": ""
-    },
-    {
       "code": "AW101040",
       "date": "2026-10-16",
       "time": "21:00",
@@ -1366,13 +1326,13 @@
       "other": ""
     },
     {
-      "code": "AW130015",
-      "date": "2026-10-10",
-      "time": "13:00",
-      "team1": "EAST BELGIUM BCA",
-      "team2": "ESL UNITED",
-      "category": "U 14 - GOLD REGIONAUX A",
-      "location": "EAST BELGIUM BCA",
+      "code": "760036",
+      "date": "2026-10-31",
+      "time": "18:00",
+      "team1": "ESL UNITED C",
+      "team2": "RBC DISON-ANDRIMONT A (+ 5)",
+      "category": "RBC DISON-ANDRIMONT A (+ 5)",
+      "location": "ESL UNITED C",
       "other": ""
     },
     {
@@ -1422,16 +1382,6 @@
       "team1": "ESL UNITED",
       "team2": "R.B.C. BELGRADE",
       "category": "U 14 - GOLD REGIONAUX A",
-      "location": "ESL UNITED",
-      "other": ""
-    },
-    {
-      "code": "AW122013",
-      "date": "2026-10-11",
-      "time": "13:00",
-      "team1": "ESL UNITED",
-      "team2": "CONDROZ MODAVE BB",
-      "category": "U 16 - GOLD REGIONAUX B",
       "location": "ESL UNITED",
       "other": ""
     },
@@ -1486,16 +1436,6 @@
       "other": ""
     },
     {
-      "code": "AW126013",
-      "date": "2026-10-11",
-      "time": "15:00",
-      "team1": "ESL UNITED",
-      "team2": "CANTER SCHAERBEEK",
-      "category": "U 16 - SILVER REGIONAUX D",
-      "location": "ESL UNITED",
-      "other": ""
-    },
-    {
       "code": "AW126019",
       "date": "2026-11-07",
       "time": "17:00",
@@ -1546,16 +1486,6 @@
       "other": ""
     },
     {
-      "code": "AW114015",
-      "date": "2026-10-10",
-      "time": "13:00",
-      "team1": "CASTORS BRAINE",
-      "team2": "ESL UNITED",
-      "category": "U 18 - GOLD REGIONAUX B",
-      "location": "CASTORS BRAINE",
-      "other": ""
-    },
-    {
       "code": "AW114020",
       "date": "2026-11-07",
       "time": "13:00",
@@ -1602,16 +1532,6 @@
       "team1": "ESL UNITED",
       "team2": "UNITED B WOLUWE",
       "category": "U 18 - GOLD REGIONAUX B",
-      "location": "ESL UNITED",
-      "other": ""
-    },
-    {
-      "code": "AW108013",
-      "date": "2026-10-11",
-      "time": "11:00",
-      "team1": "ESL UNITED",
-      "team2": "JS ENTITE ENGHIEN",
-      "category": "U 21 - GOLD REGIONAUX B",
       "location": "ESL UNITED",
       "other": ""
     },
