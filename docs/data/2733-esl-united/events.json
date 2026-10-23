@@ -6,6 +6,56 @@
   },
   "events": [
     {
+      "code": "AW217024",
+      "date": "2026-11-01",
+      "time": "14:30",
+      "team1": "ESL UNITED B",
+      "team2": "ROYAL BC NINANE",
+      "category": "COUPE AWBB MESSIEURS",
+      "location": "ESL UNITED B",
+      "other": ""
+    },
+    {
+      "code": "AW217023",
+      "date": "2026-11-01",
+      "time": "16:30",
+      "team1": "ESL UNITED A",
+      "team2": "CEP FLEURUS (+ 5)",
+      "category": "COUPE AWBB MESSIEURS",
+      "location": "ESL UNITED A",
+      "other": ""
+    },
+    {
+      "code": "AW244054",
+      "date": "2026-10-31",
+      "time": "13:00",
+      "team1": "R.B.C. BELGRADE A",
+      "team2": "ESL UNITED",
+      "category": "COUPE AWBB U14 - GARCONS",
+      "location": "R.B.C. BELGRADE A",
+      "other": ""
+    },
+    {
+      "code": "AW242056",
+      "date": "2026-10-31",
+      "time": "16:00",
+      "team1": "ESL UNITED",
+      "team2": "SPIROU BASKET B",
+      "category": "COUPE AWBB U18 - GARCONS",
+      "location": "ESL UNITED",
+      "other": ""
+    },
+    {
+      "code": "AW241055",
+      "date": "2026-10-31",
+      "time": "10:00",
+      "team1": "BC SPRIMONT",
+      "team2": "ESL UNITED A",
+      "category": "COUPE AWBB U21 - GARCONS",
+      "location": "BC SPRIMONT",
+      "other": ""
+    },
+    {
       "code": "760036",
       "date": "2026-10-31",
       "time": "18:00",
@@ -26,26 +76,6 @@
       "other": ""
     },
     {
-      "code": "401075",
-      "date": "2026-10-16",
-      "time": "19:00",
-      "team1": "ESL UNITED C",
-      "team2": "ETOILE JUPILLE A",
-      "category": "MM - DIVISION 1",
-      "location": "ESL UNITED C",
-      "other": ""
-    },
-    {
-      "code": "401083",
-      "date": "2026-10-25",
-      "time": "13:00",
-      "team1": "THEUX BC A",
-      "team2": "ESL UNITED C",
-      "category": "MM - DIVISION 1",
-      "location": "THEUX BC A",
-      "other": ""
-    },
-    {
       "code": "401105",
       "date": "2026-11-06",
       "time": "19:00",
@@ -53,6 +83,16 @@
       "team2": "HENRI-CHAPELLE A",
       "category": "MM - DIVISION 1",
       "location": "ESL UNITED C",
+      "other": ""
+    },
+    {
+      "code": "401083",
+      "date": "2026-11-10",
+      "time": "20:15",
+      "team1": "THEUX BC A",
+      "team2": "ESL UNITED C",
+      "category": "MM - DIVISION 1",
+      "location": "THEUX BC A",
       "other": ""
     },
     {
@@ -243,16 +283,6 @@
       "team2": "THEUX BC A",
       "category": "MM - DIVISION 1",
       "location": "ESL UNITED C",
-      "other": ""
-    },
-    {
-      "code": "402073",
-      "date": "2026-10-18",
-      "time": "17:00",
-      "team1": "LA VILLERSOISE A",
-      "team2": "ESL UNITED E",
-      "category": "MM - DIVISION 2 A",
-      "location": "LA VILLERSOISE A",
       "other": ""
     },
     {
@@ -456,16 +486,6 @@
       "other": ""
     },
     {
-      "code": "403073",
-      "date": "2026-10-17",
-      "time": "17:00",
-      "team1": "BC VERVIERS C",
-      "team2": "ESL UNITED D",
-      "category": "MM - DIVISION 2 B",
-      "location": "BC VERVIERS C",
-      "other": "(Salle de Spa)"
-    },
-    {
       "code": "403086",
       "date": "2026-10-25",
       "time": "16:30",
@@ -663,16 +683,6 @@
       "team2": "ESL UNITED D",
       "category": "MM - DIVISION 2 B",
       "location": "HARIMALIA BC A",
-      "other": ""
-    },
-    {
-      "code": "404073",
-      "date": "2026-10-17",
-      "time": "21:00",
-      "team1": "RABC ENSIVAL B",
-      "team2": "ESL UNITED F",
-      "category": "MM - DIVISION 3 A",
-      "location": "RABC ENSIVAL B",
       "other": ""
     },
     {
@@ -1123,16 +1133,6 @@
       "team2": "ESL UNITED A",
       "category": "MM - REGIONALE 1",
       "location": "UNION MONS-HAINAUT",
-      "other": ""
-    },
-    {
-      "code": "AW101040",
-      "date": "2026-10-16",
-      "time": "21:00",
-      "team1": "ESL UNITED B",
-      "team2": "MAIL. COMBLAIN A",
-      "category": "MM - REGIONALE 2 A",
-      "location": "ESL UNITED B",
       "other": ""
     },
     {

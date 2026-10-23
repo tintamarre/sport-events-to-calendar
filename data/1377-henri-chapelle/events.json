@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "760522",
-      "date": "2026-10-21",
-      "time": "20:30",
-      "team1": "RBC ALLEUR C",
-      "team2": "HENRI-CHAPELLE B (+ 5)",
-      "category": "CPE PROV DAMES",
-      "location": "RBC ALLEUR C",
-      "other": ""
-    },
-    {
       "code": "760520",
       "date": "2026-11-04",
       "time": "21:00",
@@ -63,16 +53,6 @@
       "team2": "HENRI-CHAPELLE A",
       "category": "CPE PROV PUPILLES MM",
       "location": "BC BELLEFLAMME",
-      "other": ""
-    },
-    {
-      "code": "413071",
-      "date": "2026-10-18",
-      "time": "13:00",
-      "team1": "ATLAS A JUPILLE A",
-      "team2": "HENRI-CHAPELLE A",
-      "category": "DD - DIVISION 1",
-      "location": "ATLAS A JUPILLE A",
       "other": ""
     },
     {
@@ -286,16 +266,6 @@
       "other": ""
     },
     {
-      "code": "415076",
-      "date": "2026-10-18",
-      "time": "13:00",
-      "team1": "HENRI-CHAPELLE B",
-      "team2": "ALL. FLEMALLE B",
-      "category": "DD - DIVISION 2 B",
-      "location": "HENRI-CHAPELLE B",
-      "other": ""
-    },
-    {
       "code": "415084",
       "date": "2026-10-24",
       "time": "19:00",
@@ -306,8 +276,18 @@
       "other": ""
     },
     {
+      "code": "415152",
+      "date": "2026-11-06",
+      "time": "20:30",
+      "team1": "ROYAL BC NINANE A",
+      "team2": "HENRI-CHAPELLE B",
+      "category": "DD - DIVISION 2 B",
+      "location": "ROYAL BC NINANE A",
+      "other": ""
+    },
+    {
       "code": "415107",
-      "date": "2026-10-31",
+      "date": "2026-11-07",
       "time": "17:00",
       "team1": "R 4A AYWAILLE-HAMOIR A",
       "team2": "HENRI-CHAPELLE B",
@@ -353,16 +333,6 @@
       "team2": "HENRI-CHAPELLE B",
       "category": "DD - DIVISION 2 B",
       "location": "RBC ALLEUR D",
-      "other": ""
-    },
-    {
-      "code": "415152",
-      "date": "2026-12-13",
-      "time": "15:00",
-      "team1": "ROYAL BC NINANE A",
-      "team2": "HENRI-CHAPELLE B",
-      "category": "DD - DIVISION 2 B",
-      "location": "ROYAL BC NINANE A",
       "other": ""
     },
     {
@@ -516,6 +486,16 @@
       "other": ""
     },
     {
+      "code": "417055",
+      "date": "2026-11-11",
+      "time": "15:00",
+      "team1": "BCM HERSTAL",
+      "team2": "HENRI-CHAPELLE C",
+      "category": "DD - DIVISION 3 B",
+      "location": "BCM HERSTAL",
+      "other": ""
+    },
+    {
       "code": "417112",
       "date": "2026-11-14",
       "time": "18:30",
@@ -666,16 +646,6 @@
       "other": ""
     },
     {
-      "code": "401077",
-      "date": "2026-10-15",
-      "time": "20:00",
-      "team1": "HENRI-CHAPELLE A",
-      "team2": "THEUX BC A",
-      "category": "MM - DIVISION 1",
-      "location": "HENRI-CHAPELLE A",
-      "other": ""
-    },
-    {
       "code": "401081",
       "date": "2026-10-24",
       "time": "19:00",
@@ -736,16 +706,6 @@
       "other": ""
     },
     {
-      "code": "401167",
-      "date": "2026-12-19",
-      "time": "20:30",
-      "team1": "HENRI-CHAPELLE A",
-      "team2": "CRISTAL SGH A",
-      "category": "MM - DIVISION 1",
-      "location": "HENRI-CHAPELLE A",
-      "other": ""
-    },
-    {
       "code": "401192",
       "date": "2027-01-08",
       "time": "21:00",
@@ -803,6 +763,16 @@
       "team2": "HENRI-CHAPELLE A",
       "category": "MM - DIVISION 1",
       "location": "ETOILE JUPILLE A",
+      "other": ""
+    },
+    {
+      "code": "401167",
+      "date": "2027-02-27",
+      "time": "20:30",
+      "team1": "HENRI-CHAPELLE A",
+      "team2": "CRISTAL SGH A",
+      "category": "MM - DIVISION 1",
+      "location": "HENRI-CHAPELLE A",
       "other": ""
     },
     {
@@ -1346,16 +1316,6 @@
       "other": ""
     },
     {
-      "code": "410167",
-      "date": "2026-12-19",
-      "time": "18:30",
-      "team1": "HENRI-CHAPELLE C",
-      "team2": "CRISTAL SGH C",
-      "category": "MM - DIVISION 4 D",
-      "location": "HENRI-CHAPELLE C",
-      "other": ""
-    },
-    {
       "code": "410192",
       "date": "2027-01-10",
       "time": "11:00",
@@ -1403,6 +1363,16 @@
       "team2": "HENRI-CHAPELLE C",
       "category": "MM - DIVISION 4 D",
       "location": "RBC BLEGNY C",
+      "other": ""
+    },
+    {
+      "code": "410167",
+      "date": "2027-02-27",
+      "time": "20:30",
+      "team1": "HENRI-CHAPELLE C",
+      "team2": "CRISTAL SGH C",
+      "category": "MM - DIVISION 4 D",
+      "location": "HENRI-CHAPELLE C",
       "other": ""
     },
     {
@@ -1733,16 +1703,6 @@
       "team2": "RABC ENSIVAL A",
       "category": "U 10 - MM G",
       "location": "HENRI-CHAPELLE B",
-      "other": ""
-    },
-    {
-      "code": "501077",
-      "date": "2026-10-18",
-      "time": "9:00",
-      "team1": "HENRI-CHAPELLE A",
-      "team2": "THEUX BC A",
-      "category": "U 12 - MM B",
-      "location": "HENRI-CHAPELLE A",
       "other": ""
     },
     {
@@ -2793,16 +2753,6 @@
       "team2": "THEUX BC",
       "category": "U 16 - ELITES MM A",
       "location": "HENRI-CHAPELLE",
-      "other": ""
-    },
-    {
-      "code": "420071",
-      "date": "2026-10-17",
-      "time": "9:00",
-      "team1": "ROYAL SPA BC",
-      "team2": "HENRI-CHAPELLE",
-      "category": "U 21 - MM",
-      "location": "ROYAL SPA BC",
       "other": ""
     },
     {

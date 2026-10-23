@@ -6,6 +6,56 @@
   },
   "events": [
     {
+      "code": "AW244052",
+      "date": "2026-10-31",
+      "time": "11:00",
+      "team1": "BC GENAPPE-LOTHIER B",
+      "team2": "EAST BELGIUM BCA A",
+      "category": "COUPE AWBB U14 - GARCONS",
+      "location": "BC GENAPPE-LOTHIER B",
+      "other": ""
+    },
+    {
+      "code": "AW247051",
+      "date": "2026-11-01",
+      "time": "10:30",
+      "team1": "TOURNAI WAPITI",
+      "team2": "EAST BELGIUM BCA A",
+      "category": "COUPE AWBB U16 - FILLES",
+      "location": "TOURNAI WAPITI",
+      "other": ""
+    },
+    {
+      "code": "AW242052",
+      "date": "2026-10-31",
+      "time": "15:00",
+      "team1": "EAST BELGIUM BCA",
+      "team2": "R EXC BRUXELLES",
+      "category": "COUPE AWBB U18 - GARCONS",
+      "location": "EAST BELGIUM BCA",
+      "other": ""
+    },
+    {
+      "code": "AW246053",
+      "date": "2026-10-31",
+      "time": "10:00",
+      "team1": "LIEGE PANTHERS A",
+      "team2": "EAST BELGIUM BCA A",
+      "category": "COUPE AWBB U19 - FILLES",
+      "location": "LIEGE PANTHERS A",
+      "other": ""
+    },
+    {
+      "code": "AW246055",
+      "date": "2026-10-31",
+      "time": "15:00",
+      "team1": "MONS CAPITALE",
+      "team2": "EAST BELGIUM BCA B",
+      "category": "COUPE AWBB U19 - FILLES",
+      "location": "MONS CAPITALE",
+      "other": ""
+    },
+    {
       "code": "AW130021",
       "date": "2026-11-07",
       "time": "13:00",
@@ -52,16 +102,6 @@
       "team1": "EAST BELGIUM BCA",
       "team2": "BC GENAPPE-LOTHIER",
       "category": "U 14 - GOLD REGIONAUX A",
-      "location": "EAST BELGIUM BCA",
-      "other": ""
-    },
-    {
-      "code": "AW152021",
-      "date": "2026-10-18",
-      "time": "13:00",
-      "team1": "EAST BELGIUM BCA",
-      "team2": "BBC LIBRAMONT",
-      "category": "U 14 - SILVER REGIONALES A",
       "location": "EAST BELGIUM BCA",
       "other": ""
     },
@@ -216,16 +256,6 @@
       "other": ""
     },
     {
-      "code": "AW128010",
-      "date": "2026-10-18",
-      "time": "11:00",
-      "team1": "OLYMPIC MSM",
-      "team2": "EAST BELGIUM BCA",
-      "category": "U 16 - BRONZE REGIONAUX B",
-      "location": "OLYMPIC MSM",
-      "other": ""
-    },
-    {
       "code": "AW128020",
       "date": "2026-11-01",
       "time": "11:00",
@@ -267,8 +297,8 @@
     },
     {
       "code": "AW128029",
-      "date": "2026-12-05",
-      "time": "13:00",
+      "date": "2026-12-06",
+      "time": "10:30",
       "team1": "B.C.BOUSSU",
       "team2": "EAST BELGIUM BCA",
       "category": "U 16 - BRONZE REGIONAUX B",
@@ -506,16 +536,6 @@
       "other": ""
     },
     {
-      "code": "AW140005",
-      "date": "2026-10-18",
-      "time": "11:00",
-      "team1": "EAST BELGIUM BCA",
-      "team2": "BC COLFONTAINE",
-      "category": "U 19 - GOLD REGIONALES B",
-      "location": "EAST BELGIUM BCA",
-      "other": ""
-    },
-    {
       "code": "AW140020",
       "date": "2026-11-07",
       "time": "12:30",
@@ -563,16 +583,6 @@
       "team2": "EAST BELGIUM BCA",
       "category": "U 19 - GOLD REGIONALES B",
       "location": "R MURPROTEC NIVELLES",
-      "other": ""
-    },
-    {
-      "code": "AW141007",
-      "date": "2026-10-18",
-      "time": "11:00",
-      "team1": "PEPINSTER EAST BELG",
-      "team2": "EAST BELGIUM BCA",
-      "category": "U 19 - SILVER REGIONALES A",
-      "location": "PEPINSTER EAST BELG",
       "other": ""
     },
     {

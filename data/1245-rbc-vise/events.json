@@ -6,6 +6,26 @@
   },
   "events": [
     {
+      "code": "AW245051",
+      "date": "2026-10-31",
+      "time": "11:00",
+      "team1": "ANDENNE BASKET",
+      "team2": "RBC VISE",
+      "category": "COUPE AWBB U12 -GARCONS",
+      "location": "ANDENNE BASKET",
+      "other": ""
+    },
+    {
+      "code": "AW241051",
+      "date": "2026-10-31",
+      "time": "12:00",
+      "team1": "ROYAL BC NINANE",
+      "team2": "RBC VISE",
+      "category": "COUPE AWBB U21 - GARCONS",
+      "location": "ROYAL BC NINANE",
+      "other": ""
+    },
+    {
       "code": "760519",
       "date": "2026-10-31",
       "time": "19:00",
@@ -13,6 +33,16 @@
       "team2": "RBC VISE B (+ 10)",
       "category": "CPE PROV DAMES",
       "location": "RBC BLEGNY A",
+      "other": ""
+    },
+    {
+      "code": "760037",
+      "date": "2026-11-05",
+      "time": "20:00",
+      "team1": "RBC VISE A",
+      "team2": "RBC BLEGNY B (+ 5)",
+      "category": "CPE PROV MESSIEURS",
+      "location": "RBC VISE A",
       "other": ""
     },
     {
@@ -366,16 +396,6 @@
       "other": ""
     },
     {
-      "code": "402076",
-      "date": "2026-10-17",
-      "time": "21:00",
-      "team1": "ROYAL SPA BC C",
-      "team2": "RBC VISE A",
-      "category": "MM - DIVISION 2 A",
-      "location": "ROYAL SPA BC C",
-      "other": ""
-    },
-    {
       "code": "402082",
       "date": "2026-10-24",
       "time": "21:00",
@@ -563,16 +583,6 @@
       "team2": "RBC VISE A",
       "category": "MM - DIVISION 2 A",
       "location": "BC BELLEFLAMME C",
-      "other": ""
-    },
-    {
-      "code": "403076",
-      "date": "2026-10-18",
-      "time": "15:00",
-      "team1": "RBC DISON-ANDRIMONT A",
-      "team2": "RBC VISE B",
-      "category": "MM - DIVISION 2 B",
-      "location": "RBC DISON-ANDRIMONT A",
       "other": ""
     },
     {
@@ -786,16 +796,6 @@
       "other": ""
     },
     {
-      "code": "405071",
-      "date": "2026-10-18",
-      "time": "17:00",
-      "team1": "ROYALE US AWANS A",
-      "team2": "RBC VISE C",
-      "category": "MM - DIVISION 3 B",
-      "location": "ROYALE US AWANS A",
-      "other": ""
-    },
-    {
       "code": "405081",
       "date": "2026-10-24",
       "time": "19:00",
@@ -996,16 +996,6 @@
       "other": ""
     },
     {
-      "code": "410076",
-      "date": "2026-10-17",
-      "time": "21:00",
-      "team1": "GIANTS BRAIVES B",
-      "team2": "RBC VISE D",
-      "category": "MM - DIVISION 4 D",
-      "location": "GIANTS BRAIVES B",
-      "other": ""
-    },
-    {
       "code": "410082",
       "date": "2026-10-25",
       "time": "17:00",
@@ -1176,19 +1166,9 @@
       "other": ""
     },
     {
-      "code": "520062",
-      "date": "2026-10-18",
-      "time": "11:00",
-      "team1": "RBC VISE A",
-      "team2": "ROYAL BC NINANE A",
-      "category": "U 10 - MM A",
-      "location": "RBC VISE A",
-      "other": ""
-    },
-    {
       "code": "520102",
       "date": "2026-11-07",
-      "time": "9:00",
+      "time": "12:00",
       "team1": "RBC VISE A",
       "team2": "BC SPRIMONT A",
       "category": "U 10 - MM A",
@@ -1466,16 +1446,6 @@
       "other": ""
     },
     {
-      "code": "525322",
-      "date": "2026-10-17",
-      "time": "15:00",
-      "team1": "ROYAL HERVE-BATTICE D",
-      "team2": "RBC VISE B",
-      "category": "U 10 - MM F",
-      "location": "ROYAL HERVE-BATTICE D",
-      "other": ""
-    },
-    {
       "code": "525103",
       "date": "2026-11-08",
       "time": "12:00",
@@ -1606,16 +1576,6 @@
       "other": ""
     },
     {
-      "code": "500075",
-      "date": "2026-10-18",
-      "time": "9:00",
-      "team1": "RBC VISE A",
-      "team2": "ETOILE JUPILLE",
-      "category": "U 12 - MM A",
-      "location": "RBC VISE A",
-      "other": ""
-    },
-    {
       "code": "500105",
       "date": "2026-11-08",
       "time": "9:00",
@@ -1656,16 +1616,6 @@
       "other": ""
     },
     {
-      "code": "500165",
-      "date": "2026-12-19",
-      "time": "13:00",
-      "team1": "RBC VISE A",
-      "team2": "RSW LIEGE BASKET",
-      "category": "U 12 - MM A",
-      "location": "RBC VISE A",
-      "other": ""
-    },
-    {
       "code": "500194",
       "date": "2027-01-09",
       "time": "9:00",
@@ -1673,6 +1623,16 @@
       "team2": "RBC VISE A",
       "category": "U 12 - MM A",
       "location": "BC BELLEFLAMME",
+      "other": ""
+    },
+    {
+      "code": "500165",
+      "date": "2027-01-16",
+      "time": "13:00",
+      "team1": "RBC VISE A",
+      "team2": "RSW LIEGE BASKET",
+      "category": "U 12 - MM A",
+      "location": "RBC VISE A",
       "other": ""
     },
     {
@@ -1693,6 +1653,16 @@
       "team2": "ALL. FLEMALLE A",
       "category": "U 12 - MM A",
       "location": "RBC VISE A",
+      "other": ""
+    },
+    {
+      "code": "500321",
+      "date": "2027-02-06",
+      "time": "9:00",
+      "team1": "RSW LIEGE BASKET",
+      "team2": "RBC VISE A",
+      "category": "U 12 - MM A",
+      "location": "RSW LIEGE BASKET",
       "other": ""
     },
     {
@@ -1753,16 +1723,6 @@
       "team2": "ROYAL HERVE-BATTICE B",
       "category": "U 12 - MM A",
       "location": "RBC VISE A",
-      "other": ""
-    },
-    {
-      "code": "500321",
-      "date": "2027-04-10",
-      "time": "15:00",
-      "team1": "RSW LIEGE BASKET",
-      "team2": "RBC VISE A",
-      "category": "U 12 - MM A",
-      "location": "RSW LIEGE BASKET",
       "other": ""
     },
     {
@@ -1923,16 +1883,6 @@
       "team2": "GIANTS BRAIVES B",
       "category": "U 12 - MM D",
       "location": "RBC VISE B",
-      "other": ""
-    },
-    {
-      "code": "480023",
-      "date": "2026-10-18",
-      "time": "17:00",
-      "team1": "RBC VISE A",
-      "team2": "RABC ENSIVAL A",
-      "category": "U 14 - ELITES MM A",
-      "location": "RBC VISE A",
       "other": ""
     },
     {
@@ -2263,16 +2213,6 @@
       "team2": "RBC VISE",
       "category": "U 14 - SILVER REGIONAUX A",
       "location": "RE PONT-DE-LOUP",
-      "other": ""
-    },
-    {
-      "code": "591333",
-      "date": "2026-10-18",
-      "time": "13:00",
-      "team1": "RBC VISE",
-      "team2": "RBC BLEGNY",
-      "category": "U 16 - DD B",
-      "location": "RBC VISE",
       "other": ""
     },
     {
@@ -2616,16 +2556,6 @@
       "other": ""
     },
     {
-      "code": "441035",
-      "date": "2026-10-17",
-      "time": "16:30",
-      "team1": "BCM HERSTAL",
-      "team2": "RBC VISE",
-      "category": "U 18 - PROV MM B",
-      "location": "BCM HERSTAL",
-      "other": ""
-    },
-    {
       "code": "441024",
       "date": "2026-10-24",
       "time": "13:00",
@@ -2833,16 +2763,6 @@
       "team2": "RBC VISE",
       "category": "U 18 - SILVER REGIONAUX A",
       "location": "ASTE KAIN",
-      "other": ""
-    },
-    {
-      "code": "580072",
-      "date": "2026-10-17",
-      "time": "13:00",
-      "team1": "PRAYON TROOZ",
-      "team2": "RBC VISE",
-      "category": "U 19 - DD",
-      "location": "PRAYON TROOZ",
       "other": ""
     },
     {

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-16T00:08:08.751Z",
+  "lastUpdated": "2026-10-23T00:26:43.224Z",
   "clubs": [
     {
       "id": "709",
@@ -2058,6 +2058,7 @@
       "name": "La Villersoise",
       "slug": "2558-la-villersoise",
       "categories": [
+        "COUPE AWBB U12 - FILLES",
         "COUPE AWBB U12 -GARCONS",
         "COUPE AWBB U14 - FILLES",
         "COUPE AWBB U16 - FILLES",
@@ -2118,6 +2119,7 @@
       "jsonPath": "/data/2558-la-villersoise/events.json",
       "csvPath": "/data/2558-la-villersoise/2558-la-villersoise.csv",
       "icsFiles": {
+        "COUPE AWBB U12 - FILLES": "/data/2558-la-villersoise/coupe-awbb-u12-filles.ics",
         "COUPE AWBB U12 -GARCONS": "/data/2558-la-villersoise/coupe-awbb-u12-garcons.ics",
         "COUPE AWBB U14 - FILLES": "/data/2558-la-villersoise/coupe-awbb-u14-filles.ics",
         "COUPE AWBB U16 - FILLES": "/data/2558-la-villersoise/coupe-awbb-u16-filles.ics",
@@ -2183,6 +2185,7 @@
       "categories": [
         "AWBB DD - POULE D",
         "AWBB DD - POULE I",
+        "COUPE AWBB DAMES",
         "COUPE AWBB U14 - FILLES",
         "COUPE AWBB U16 - FILLES",
         "COUPE AWBB U19 - FILLES",
@@ -2207,6 +2210,7 @@
       "icsFiles": {
         "AWBB DD - POULE D": "/data/2699-liege-panthers/awbb-dd-poule-d.ics",
         "AWBB DD - POULE I": "/data/2699-liege-panthers/awbb-dd-poule-i.ics",
+        "COUPE AWBB DAMES": "/data/2699-liege-panthers/coupe-awbb-dames.ics",
         "COUPE AWBB U14 - FILLES": "/data/2699-liege-panthers/coupe-awbb-u14-filles.ics",
         "COUPE AWBB U16 - FILLES": "/data/2699-liege-panthers/coupe-awbb-u16-filles.ics",
         "COUPE AWBB U19 - FILLES": "/data/2699-liege-panthers/coupe-awbb-u19-filles.ics",
@@ -2790,6 +2794,7 @@
       "slug": "434-r-un-bellaire",
       "categories": [
         "AWBB DD - POULE I",
+        "COUPE AWBB DAMES",
         "CPE PROV CADETS",
         "CPE PROV DAMES",
         "CPE PROV MESSIEURS",
@@ -2824,6 +2829,7 @@
       "csvPath": "/data/434-r-un-bellaire/434-r-un-bellaire.csv",
       "icsFiles": {
         "AWBB DD - POULE I": "/data/434-r-un-bellaire/awbb-dd-poule-i.ics",
+        "COUPE AWBB DAMES": "/data/434-r-un-bellaire/coupe-awbb-dames.ics",
         "CPE PROV CADETS": "/data/434-r-un-bellaire/cpe-prov-cadets.ics",
         "CPE PROV DAMES": "/data/434-r-un-bellaire/cpe-prov-dames.ics",
         "CPE PROV MESSIEURS": "/data/434-r-un-bellaire/cpe-prov-messieurs.ics",
@@ -4251,6 +4257,8 @@
         "AWBB DD - POULE O",
         "AWBB DD - POULE P",
         "AWBB MM - POULE M",
+        "COUPE AWBB DAMES",
+        "COUPE AWBB U12 - FILLES",
         "COUPE AWBB U12 -GARCONS",
         "CPE BELG DAMES",
         "CPE PROV CADETTES",
@@ -4308,6 +4316,8 @@
         "AWBB DD - POULE O": "/data/1741-royal-herve-battice/awbb-dd-poule-o.ics",
         "AWBB DD - POULE P": "/data/1741-royal-herve-battice/awbb-dd-poule-p.ics",
         "AWBB MM - POULE M": "/data/1741-royal-herve-battice/awbb-mm-poule-m.ics",
+        "COUPE AWBB DAMES": "/data/1741-royal-herve-battice/coupe-awbb-dames.ics",
+        "COUPE AWBB U12 - FILLES": "/data/1741-royal-herve-battice/coupe-awbb-u12-filles.ics",
         "COUPE AWBB U12 -GARCONS": "/data/1741-royal-herve-battice/coupe-awbb-u12-garcons.ics",
         "CPE BELG DAMES": "/data/1741-royal-herve-battice/cpe-belg-dames.ics",
         "CPE PROV CADETTES": "/data/1741-royal-herve-battice/cpe-prov-cadettes.ics",

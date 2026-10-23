@@ -6,21 +6,21 @@
   },
   "events": [
     {
-      "code": "417035",
-      "date": "2026-10-17",
-      "time": "18:30",
-      "team1": "BCM HERSTAL",
-      "team2": "MAIL. COMBLAIN",
-      "category": "DD - DIVISION 3 B",
-      "location": "BCM HERSTAL",
-      "other": ""
-    },
-    {
       "code": "417105",
       "date": "2026-11-07",
       "time": "18:30",
       "team1": "BCM HERSTAL",
       "team2": "DF BC MALMEDY",
+      "category": "DD - DIVISION 3 B",
+      "location": "BCM HERSTAL",
+      "other": ""
+    },
+    {
+      "code": "417055",
+      "date": "2026-11-11",
+      "time": "15:00",
+      "team1": "BCM HERSTAL",
+      "team2": "HENRI-CHAPELLE C",
       "category": "DD - DIVISION 3 B",
       "location": "BCM HERSTAL",
       "other": ""
@@ -173,16 +173,6 @@
       "team2": "RBC ESNEUX C",
       "category": "DD - DIVISION 3 B",
       "location": "BCM HERSTAL",
-      "other": ""
-    },
-    {
-      "code": "404075",
-      "date": "2026-10-17",
-      "time": "20:30",
-      "team1": "BCM HERSTAL A",
-      "team2": "ETOILE JUPILLE B",
-      "category": "MM - DIVISION 3 A",
-      "location": "BCM HERSTAL A",
       "other": ""
     },
     {
@@ -396,16 +386,6 @@
       "other": ""
     },
     {
-      "code": "410075",
-      "date": "2026-10-18",
-      "time": "10:00",
-      "team1": "BCM HERSTAL B",
-      "team2": "RBC BLEGNY C",
-      "category": "MM - DIVISION 4 D",
-      "location": "BCM HERSTAL B",
-      "other": ""
-    },
-    {
       "code": "410083",
       "date": "2026-10-23",
       "time": "20:30",
@@ -596,16 +576,6 @@
       "other": ""
     },
     {
-      "code": "412075",
-      "date": "2026-10-17",
-      "time": "18:30",
-      "team1": "BCM HERSTAL C",
-      "team2": "AVENIR JUPILLE B",
-      "category": "MM - DIVISION 4 F",
-      "location": "BCM HERSTAL C",
-      "other": ""
-    },
-    {
       "code": "412035",
       "date": "2026-10-31",
       "time": "18:30",
@@ -763,16 +733,6 @@
       "team2": "ROYAL ANS BC B",
       "category": "MM - DIVISION 4 F",
       "location": "BCM HERSTAL C",
-      "other": ""
-    },
-    {
-      "code": "501075",
-      "date": "2026-10-17",
-      "time": "10:30",
-      "team1": "BCM HERSTAL",
-      "team2": "ETOILE JUPILLE B",
-      "category": "U 12 - MM B",
-      "location": "BCM HERSTAL",
       "other": ""
     },
     {
@@ -976,16 +936,6 @@
       "other": ""
     },
     {
-      "code": "492033",
-      "date": "2026-10-17",
-      "time": "12:30",
-      "team1": "BCM HERSTAL",
-      "team2": "RBC STAVELOT",
-      "category": "U 14 - PROV MM C",
-      "location": "BCM HERSTAL",
-      "other": ""
-    },
-    {
       "code": "492103",
       "date": "2026-11-07",
       "time": "12:30",
@@ -1092,16 +1042,6 @@
       "team1": "BCM HERSTAL",
       "team2": "DF BC MALMEDY",
       "category": "U 14 - PROV MM C",
-      "location": "BCM HERSTAL",
-      "other": ""
-    },
-    {
-      "code": "590034",
-      "date": "2026-10-17",
-      "time": "10:30",
-      "team1": "BCM HERSTAL",
-      "team2": "PRAYON TROOZ",
-      "category": "U 16 - DD A",
       "location": "BCM HERSTAL",
       "other": ""
     },
@@ -1232,16 +1172,6 @@
       "team1": "BCM HERSTAL",
       "team2": "DF BC MALMEDY",
       "category": "U 16 - DD A",
-      "location": "BCM HERSTAL",
-      "other": ""
-    },
-    {
-      "code": "441035",
-      "date": "2026-10-17",
-      "time": "16:30",
-      "team1": "BCM HERSTAL",
-      "team2": "RBC VISE",
-      "category": "U 18 - PROV MM B",
       "location": "BCM HERSTAL",
       "other": ""
     },

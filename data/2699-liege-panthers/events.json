@@ -6,6 +6,56 @@
   },
   "events": [
     {
+      "code": "AW237006",
+      "date": "2026-10-31",
+      "time": "20:30",
+      "team1": "RE PONT DE LOUP B",
+      "team2": "LIEGE PANTHERS A",
+      "category": "COUPE AWBB DAMES",
+      "location": "RE PONT DE LOUP B",
+      "other": ""
+    },
+    {
+      "code": "AW248051",
+      "date": "2026-10-31",
+      "time": "10:00",
+      "team1": "ROYAL BC CINEY",
+      "team2": "LIEGE PANTHERS",
+      "category": "COUPE AWBB U14 - FILLES",
+      "location": "ROYAL BC CINEY",
+      "other": ""
+    },
+    {
+      "code": "AW247050",
+      "date": "2026-11-01",
+      "time": "17:00",
+      "team1": "LIEGE PANTHERS B",
+      "team2": "RE PONT-DE-LOUP A",
+      "category": "COUPE AWBB U16 - FILLES",
+      "location": "LIEGE PANTHERS B",
+      "other": ""
+    },
+    {
+      "code": "AW246053",
+      "date": "2026-10-31",
+      "time": "10:00",
+      "team1": "LIEGE PANTHERS A",
+      "team2": "EAST BELGIUM BCA A",
+      "category": "COUPE AWBB U19 - FILLES",
+      "location": "LIEGE PANTHERS A",
+      "other": ""
+    },
+    {
+      "code": "AW246051",
+      "date": "2026-10-31",
+      "time": "12:00",
+      "team1": "LIEGE PANTHERS B",
+      "team2": "ROYAL BC CINEY A",
+      "category": "COUPE AWBB U19 - FILLES",
+      "location": "LIEGE PANTHERS B",
+      "other": ""
+    },
+    {
       "code": "AW104051",
       "date": "2026-11-07",
       "time": "18:30",
@@ -173,16 +223,6 @@
       "team2": "RE PONT-DE-LOUP",
       "category": "DD - REGIONALE 1",
       "location": "LIEGE PANTHERS C",
-      "other": ""
-    },
-    {
-      "code": "NADSE11AAJ",
-      "date": "2026-10-16",
-      "time": "19:00",
-      "team1": "LIEGE PANTHERS A",
-      "team2": "BASKET LUMMEN",
-      "category": "TOP DIVISION WOMEN 1",
-      "location": "LIEGE PANTHERS A",
       "other": ""
     },
     {
@@ -506,16 +546,6 @@
       "other": ""
     },
     {
-      "code": "AW151004",
-      "date": "2026-10-17",
-      "time": "11:30",
-      "team1": "LIEGE PANTHERS",
-      "team2": "GANSHOREN DAMES",
-      "category": "U 14 - GOLD REGIONALES B",
-      "location": "LIEGE PANTHERS",
-      "other": ""
-    },
-    {
       "code": "AW151020",
       "date": "2026-11-08",
       "time": "10:00",
@@ -616,16 +646,6 @@
       "other": ""
     },
     {
-      "code": "AW147015",
-      "date": "2026-10-18",
-      "time": "15:00",
-      "team1": "ALL. FLEMALLE",
-      "team2": "LIEGE PANTHERS",
-      "category": "U 16 - SILVER REGIONALES B",
-      "location": "ALL. FLEMALLE",
-      "other": ""
-    },
-    {
       "code": "AW147022",
       "date": "2026-11-04",
       "time": "19:00",
@@ -668,7 +688,7 @@
     {
       "code": "AW147016",
       "date": "2026-12-12",
-      "time": "13:30",
+      "time": "15:30",
       "team1": "LIEGE PANTHERS",
       "team2": "GANSHOREN DAMES",
       "category": "U 16 - SILVER REGIONALES B",
@@ -718,7 +738,7 @@
     {
       "code": "AW140016",
       "date": "2026-12-12",
-      "time": "11:30",
+      "time": "13:30",
       "team1": "LIEGE PANTHERS",
       "team2": "GANSHOREN DAMES",
       "category": "U 19 - GOLD REGIONALES B",
@@ -788,7 +808,7 @@
     {
       "code": "AW142021",
       "date": "2026-12-12",
-      "time": "11:30",
+      "time": "13:30",
       "team1": "LIEGE PANTHERS",
       "team2": "NAMUR CAPITALE",
       "category": "U 19 - SILVER REGIONALES B",

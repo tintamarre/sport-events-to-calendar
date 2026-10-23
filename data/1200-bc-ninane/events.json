@@ -6,6 +6,26 @@
   },
   "events": [
     {
+      "code": "AW217024",
+      "date": "2026-11-01",
+      "time": "14:30",
+      "team1": "ESL UNITED B",
+      "team2": "ROYAL BC NINANE",
+      "category": "COUPE AWBB MESSIEURS",
+      "location": "ESL UNITED B",
+      "other": ""
+    },
+    {
+      "code": "AW241051",
+      "date": "2026-10-31",
+      "time": "12:00",
+      "team1": "ROYAL BC NINANE",
+      "team2": "RBC VISE",
+      "category": "COUPE AWBB U21 - GARCONS",
+      "location": "ROYAL BC NINANE",
+      "other": ""
+    },
+    {
       "code": "762026",
       "date": "2026-11-01",
       "time": "10:00",
@@ -36,11 +56,11 @@
       "other": ""
     },
     {
-      "code": "415072",
-      "date": "2026-10-18",
-      "time": "14:00",
+      "code": "415152",
+      "date": "2026-11-06",
+      "time": "20:30",
       "team1": "ROYAL BC NINANE A",
-      "team2": "R 4A AYWAILLE-HAMOIR A",
+      "team2": "HENRI-CHAPELLE B",
       "category": "DD - DIVISION 2 B",
       "location": "ROYAL BC NINANE A",
       "other": ""
@@ -93,16 +113,6 @@
       "team2": "ROYAL BC NINANE A",
       "category": "DD - DIVISION 2 B",
       "location": "RBC HANEFFE C",
-      "other": ""
-    },
-    {
-      "code": "415152",
-      "date": "2026-12-13",
-      "time": "15:00",
-      "team1": "ROYAL BC NINANE A",
-      "team2": "HENRI-CHAPELLE B",
-      "category": "DD - DIVISION 2 B",
-      "location": "ROYAL BC NINANE A",
       "other": ""
     },
     {
@@ -396,16 +406,6 @@
       "other": ""
     },
     {
-      "code": "406076",
-      "date": "2026-10-17",
-      "time": "18:00",
-      "team1": "BBC EUPEN A",
-      "team2": "ROYAL BC NINANE C",
-      "category": "MM - DIVISION 3 C",
-      "location": "BBC EUPEN A",
-      "other": ""
-    },
-    {
       "code": "406082",
       "date": "2026-10-23",
       "time": "21:00",
@@ -623,16 +623,6 @@
       "team2": "BC REVEIL",
       "category": "MM - DIVISION 3 C",
       "location": "ROYAL BC NINANE C",
-      "other": ""
-    },
-    {
-      "code": "407076",
-      "date": "2026-10-17",
-      "time": "20:00",
-      "team1": "BBC EUPEN B",
-      "team2": "ROYAL BC NINANE E",
-      "category": "MM - DIVISION 4 A",
-      "location": "BBC EUPEN B",
       "other": ""
     },
     {
@@ -966,16 +956,6 @@
       "other": ""
     },
     {
-      "code": "AW102037",
-      "date": "2026-10-16",
-      "time": "20:30",
-      "team1": "ROYAL BC NINANE A",
-      "team2": "BC FRAIRE-PHILIPPEVILLE",
-      "category": "MM - REGIONALE 2 B",
-      "location": "ROYAL BC NINANE A",
-      "other": ""
-    },
-    {
       "code": "AW102048",
       "date": "2026-10-23",
       "time": "20:30",
@@ -1163,16 +1143,6 @@
       "team2": "JSB MAFFLE",
       "category": "MM - REGIONALE 2 B",
       "location": "ROYAL BC NINANE A",
-      "other": ""
-    },
-    {
-      "code": "NAHSE21BFL",
-      "date": "2026-10-17",
-      "time": "19:00",
-      "team1": "ROYAL BC NINANE",
-      "team2": "BBL'9 FLENU",
-      "category": "TOP DIVISION MEN 2 B",
-      "location": "ROYAL BC NINANE",
       "other": ""
     },
     {
@@ -1373,16 +1343,6 @@
       "team2": "ROYAL BC NINANE",
       "category": "TOP DIVISION MEN 2 B",
       "location": "STELLA LEUVEN",
-      "other": ""
-    },
-    {
-      "code": "520062",
-      "date": "2026-10-18",
-      "time": "11:00",
-      "team1": "RBC VISE A",
-      "team2": "ROYAL BC NINANE A",
-      "category": "U 10 - MM A",
-      "location": "RBC VISE A",
       "other": ""
     },
     {
@@ -1686,16 +1646,6 @@
       "other": ""
     },
     {
-      "code": "501076",
-      "date": "2026-10-17",
-      "time": "15:00",
-      "team1": "CRISTAL SGH B",
-      "team2": "ROYAL BC NINANE",
-      "category": "U 12 - MM B",
-      "location": "CRISTAL SGH B",
-      "other": ""
-    },
-    {
       "code": "501082",
       "date": "2026-10-24",
       "time": "12:00",
@@ -1883,16 +1833,6 @@
       "team2": "ROYAL BC NINANE",
       "category": "U 12 - MM B",
       "location": "ROYAL MOSA AC 1941 A",
-      "other": ""
-    },
-    {
-      "code": "492105",
-      "date": "2026-10-17",
-      "time": "11:00",
-      "team1": "PRAYON TROOZ",
-      "team2": "ROYAL BC NINANE",
-      "category": "U 14 - PROV MM C",
-      "location": "PRAYON TROOZ",
       "other": ""
     },
     {
@@ -2196,26 +2136,6 @@
       "other": ""
     },
     {
-      "code": "580078",
-      "date": "2026-10-17",
-      "time": "13:00",
-      "team1": "ABC WAREMME A",
-      "team2": "ROYAL BC NINANE B",
-      "category": "U 19 - DD",
-      "location": "ABC WAREMME A",
-      "other": ""
-    },
-    {
-      "code": "580076",
-      "date": "2026-10-17",
-      "time": "15:00",
-      "team1": "RBC AWANS A",
-      "team2": "ROYAL BC NINANE A",
-      "category": "U 19 - DD",
-      "location": "RBC AWANS A",
-      "other": ""
-    },
-    {
       "code": "580082",
       "date": "2026-10-25",
       "time": "10:00",
@@ -2243,16 +2163,6 @@
       "team2": "ROYAL BC NINANE A",
       "category": "U 19 - DD",
       "location": "PRAYON TROOZ",
-      "other": ""
-    },
-    {
-      "code": "580097",
-      "date": "2026-11-01",
-      "time": "9:00",
-      "team1": "ROYAL HERVE-BATTICE",
-      "team2": "ROYAL BC NINANE B",
-      "category": "U 19 - DD",
-      "location": "ROYAL HERVE-BATTICE",
       "other": ""
     },
     {
@@ -2473,6 +2383,16 @@
       "team2": "ROYAL BC NINANE A",
       "category": "U 19 - DD",
       "location": "ROYAL BC NINANE B",
+      "other": ""
+    },
+    {
+      "code": "580097",
+      "date": "2027-02-06",
+      "time": "13:00",
+      "team1": "ROYAL HERVE-BATTICE",
+      "team2": "ROYAL BC NINANE B",
+      "category": "U 19 - DD",
+      "location": "ROYAL HERVE-BATTICE",
       "other": ""
     },
     {
