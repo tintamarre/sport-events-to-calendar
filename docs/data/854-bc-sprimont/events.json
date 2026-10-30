@@ -26,6 +26,16 @@
       "other": ""
     },
     {
+      "code": "AW243051",
+      "date": "2026-10-31",
+      "time": "16:00",
+      "team1": "BC SPRIMONT A",
+      "team2": "JS ENTITE ENGHIEN",
+      "category": "COUPE AWBB U16 - GARCONS",
+      "location": "BC SPRIMONT A",
+      "other": ""
+    },
+    {
       "code": "AW242053",
       "date": "2026-10-31",
       "time": "12:00",
@@ -263,16 +273,6 @@
       "team2": "BC SPRIMONT A",
       "category": "DD - DIVISION 1",
       "location": "RBC CROATIA OUPEYE",
-      "other": ""
-    },
-    {
-      "code": "414087",
-      "date": "2026-10-25",
-      "time": "11:00",
-      "team1": "BC SPRIMONT B",
-      "team2": "PRAYON TROOZ B",
-      "category": "DD - DIVISION 2 A",
-      "location": "BC SPRIMONT B",
       "other": ""
     },
     {
@@ -616,16 +616,6 @@
       "other": ""
     },
     {
-      "code": "403081",
-      "date": "2026-10-24",
-      "time": "21:00",
-      "team1": "RBC AWANS A",
-      "team2": "BC SPRIMONT C",
-      "category": "MM - DIVISION 2 B",
-      "location": "RBC AWANS A",
-      "other": ""
-    },
-    {
       "code": "403105",
       "date": "2026-11-06",
       "time": "20:00",
@@ -663,6 +653,16 @@
       "team2": "BC SPRIMONT C",
       "category": "MM - DIVISION 2 B",
       "location": "RBC DISON-ANDRIMONT A",
+      "other": ""
+    },
+    {
+      "code": "403067",
+      "date": "2026-12-09",
+      "time": "20:30",
+      "team1": "R 4A AYWAILLE-HAMOIR A",
+      "team2": "BC SPRIMONT C",
+      "category": "MM - DIVISION 2 B",
+      "location": "R 4A AYWAILLE-HAMOIR A",
       "other": ""
     },
     {
@@ -813,16 +813,6 @@
       "team2": "RBC AWANS A",
       "category": "MM - DIVISION 2 B",
       "location": "BC SPRIMONT C",
-      "other": ""
-    },
-    {
-      "code": "405081",
-      "date": "2026-10-24",
-      "time": "19:00",
-      "team1": "RBC VISE C",
-      "team2": "BC SPRIMONT D",
-      "category": "MM - DIVISION 3 B",
-      "location": "RBC VISE C",
       "other": ""
     },
     {
@@ -1013,16 +1003,6 @@
       "team2": "RBC VISE C",
       "category": "MM - DIVISION 3 B",
       "location": "BC SPRIMONT D",
-      "other": ""
-    },
-    {
-      "code": "409081",
-      "date": "2026-10-24",
-      "time": "19:00",
-      "team1": "RBC AWANS C",
-      "team2": "BC SPRIMONT E",
-      "category": "MM - DIVISION 4 C",
-      "location": "RBC AWANS C",
       "other": ""
     },
     {
@@ -1386,16 +1366,6 @@
       "other": ""
     },
     {
-      "code": "NAHSE21BBM",
-      "date": "2026-10-24",
-      "time": "20:30",
-      "team1": "BASKET SIJSELE",
-      "team2": "BC SPRIMONT A",
-      "category": "TOP DIVISION MEN 2 B",
-      "location": "BASKET SIJSELE",
-      "other": ""
-    },
-    {
       "code": "NAHSE21BIM",
       "date": "2026-11-07",
       "time": "20:00",
@@ -1753,7 +1723,7 @@
       "team2": "BC SPRIMONT D",
       "category": "U 10 - MM B",
       "location": "PEPINSTER EAST BELG B",
-      "other": ""
+      "other": "(Hall du Paire)"
     },
     {
       "code": "521121",
@@ -2173,16 +2143,6 @@
       "team2": "BC SPRIMONT C",
       "category": "U 10 - MM E",
       "location": "RBC AWANS",
-      "other": ""
-    },
-    {
-      "code": "502087",
-      "date": "2026-10-25",
-      "time": "9:00",
-      "team1": "BC SPRIMONT A",
-      "team2": "ROYAL BC WANZE A",
-      "category": "U 12 - MM C",
-      "location": "BC SPRIMONT A",
       "other": ""
     },
     {
@@ -3192,16 +3152,6 @@
       "team1": "BC SPRIMONT",
       "team2": "JS ENTITE ENGHIEN",
       "category": "U 18 - SILVER REGIONAUX B",
-      "location": "BC SPRIMONT",
-      "other": ""
-    },
-    {
-      "code": "420086",
-      "date": "2026-10-25",
-      "time": "9:00",
-      "team1": "BC SPRIMONT",
-      "team2": "ROYAL BC WANZE",
-      "category": "U 21 - MM",
       "location": "BC SPRIMONT",
       "other": ""
     },
