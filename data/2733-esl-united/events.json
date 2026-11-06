@@ -6,76 +6,6 @@
   },
   "events": [
     {
-      "code": "AW217024",
-      "date": "2026-11-01",
-      "time": "14:30",
-      "team1": "ESL UNITED B",
-      "team2": "ROYAL BC NINANE",
-      "category": "COUPE AWBB MESSIEURS",
-      "location": "ESL UNITED B",
-      "other": ""
-    },
-    {
-      "code": "AW217023",
-      "date": "2026-11-01",
-      "time": "16:30",
-      "team1": "ESL UNITED A",
-      "team2": "CEP FLEURUS (+ 5)",
-      "category": "COUPE AWBB MESSIEURS",
-      "location": "ESL UNITED A",
-      "other": ""
-    },
-    {
-      "code": "AW244054",
-      "date": "2026-10-31",
-      "time": "13:00",
-      "team1": "R.B.C. BELGRADE A",
-      "team2": "ESL UNITED",
-      "category": "COUPE AWBB U14 - GARCONS",
-      "location": "R.B.C. BELGRADE A",
-      "other": ""
-    },
-    {
-      "code": "AW243052",
-      "date": "2026-11-01",
-      "time": "9:30",
-      "team1": "BC MALONNE A",
-      "team2": "ESL UNITED A",
-      "category": "COUPE AWBB U16 - GARCONS",
-      "location": "BC MALONNE A",
-      "other": ""
-    },
-    {
-      "code": "AW242056",
-      "date": "2026-10-31",
-      "time": "16:00",
-      "team1": "ESL UNITED",
-      "team2": "SPIROU BASKET B",
-      "category": "COUPE AWBB U18 - GARCONS",
-      "location": "ESL UNITED",
-      "other": ""
-    },
-    {
-      "code": "AW241055",
-      "date": "2026-10-31",
-      "time": "10:00",
-      "team1": "BC SPRIMONT",
-      "team2": "ESL UNITED A",
-      "category": "COUPE AWBB U21 - GARCONS",
-      "location": "BC SPRIMONT",
-      "other": ""
-    },
-    {
-      "code": "760034",
-      "date": "2026-11-01",
-      "time": "12:30",
-      "team1": "ESL UNITED D",
-      "team2": "ROYAL BC WANZE C (+ 5)",
-      "category": "CPE PROV MESSIEURS",
-      "location": "ESL UNITED D",
-      "other": ""
-    },
-    {
       "code": "401105",
       "date": "2026-11-06",
       "time": "19:00",
@@ -346,16 +276,6 @@
       "other": ""
     },
     {
-      "code": "402196",
-      "date": "2027-01-10",
-      "time": "11:00",
-      "team1": "ESL UNITED E",
-      "team2": "RABC ENSIVAL A",
-      "category": "MM - DIVISION 2 A",
-      "location": "ESL UNITED E",
-      "other": ""
-    },
-    {
       "code": "402205",
       "date": "2027-01-17",
       "time": "11:30",
@@ -383,6 +303,16 @@
       "team2": "ESL UNITED E",
       "category": "MM - DIVISION 2 A",
       "location": "ROYAL SPA BC C",
+      "other": ""
+    },
+    {
+      "code": "402196",
+      "date": "2027-02-05",
+      "time": "20:00",
+      "team1": "ESL UNITED E",
+      "team2": "RABC ENSIVAL A",
+      "category": "MM - DIVISION 2 A",
+      "location": "ESL UNITED E",
       "other": ""
     },
     {
@@ -666,16 +596,6 @@
       "other": ""
     },
     {
-      "code": "404127",
-      "date": "2026-10-31",
-      "time": "19:00",
-      "team1": "R 4A AYWAILLE-HAMOIR B",
-      "team2": "ESL UNITED F",
-      "category": "MM - DIVISION 3 A",
-      "location": "R 4A AYWAILLE-HAMOIR B",
-      "other": ""
-    },
-    {
       "code": "404106",
       "date": "2026-11-08",
       "time": "13:00",
@@ -853,16 +773,6 @@
       "team2": "ESL UNITED F",
       "category": "MM - DIVISION 3 A",
       "location": "HARIMALIA BC B",
-      "other": ""
-    },
-    {
-      "code": "AW100109",
-      "date": "2026-10-30",
-      "time": "21:00",
-      "team1": "ESL UNITED A",
-      "team2": "BCCA NEUFCHATEAU",
-      "category": "MM - REGIONALE 1",
-      "location": "ESL UNITED A",
       "other": ""
     },
     {
@@ -1338,7 +1248,7 @@
     {
       "code": "AW122023",
       "date": "2026-11-15",
-      "time": "15:15",
+      "time": "17:15",
       "team1": "CONDROZ MODAVE BB",
       "team2": "ESL UNITED",
       "category": "U 16 - GOLD REGIONAUX B",

@@ -6,66 +6,6 @@
   },
   "events": [
     {
-      "code": "760520",
-      "date": "2026-11-04",
-      "time": "21:00",
-      "team1": "HENRI-CHAPELLE A",
-      "team2": "RBC HANEFFE B",
-      "category": "CPE PROV DAMES",
-      "location": "HENRI-CHAPELLE A",
-      "other": ""
-    },
-    {
-      "code": "761007",
-      "date": "2026-10-31",
-      "time": "12:00",
-      "team1": "BC SPRIMONT",
-      "team2": "HENRI-CHAPELLE",
-      "category": "CPE PROV JUNIORS",
-      "location": "BC SPRIMONT",
-      "other": ""
-    },
-    {
-      "code": "760038",
-      "date": "2026-10-31",
-      "time": "17:00",
-      "team1": "ALL. FLEMALLE B (+ 10)",
-      "team2": "HENRI-CHAPELLE A",
-      "category": "CPE PROV MESSIEURS",
-      "location": "ALL. FLEMALLE B (+ 10)",
-      "other": ""
-    },
-    {
-      "code": "763032",
-      "date": "2026-10-31",
-      "time": "9:00",
-      "team1": "RBC STAVELOT",
-      "team2": "HENRI-CHAPELLE",
-      "category": "CPE PROV MINIMES MM",
-      "location": "RBC STAVELOT",
-      "other": ""
-    },
-    {
-      "code": "764038",
-      "date": "2026-10-31",
-      "time": "13:00",
-      "team1": "BC BELLEFLAMME",
-      "team2": "HENRI-CHAPELLE A",
-      "category": "CPE PROV PUPILLES MM",
-      "location": "BC BELLEFLAMME",
-      "other": ""
-    },
-    {
-      "code": "413055",
-      "date": "2026-11-01",
-      "time": "16:00",
-      "team1": "RBC HANEFFE B",
-      "team2": "HENRI-CHAPELLE A",
-      "category": "DD - DIVISION 1",
-      "location": "RBC HANEFFE B",
-      "other": ""
-    },
-    {
       "code": "413101",
       "date": "2026-11-08",
       "time": "11:00",
@@ -256,16 +196,6 @@
       "other": ""
     },
     {
-      "code": "415152",
-      "date": "2026-11-06",
-      "time": "20:30",
-      "team1": "ROYAL BC NINANE A",
-      "team2": "HENRI-CHAPELLE B",
-      "category": "DD - DIVISION 2 B",
-      "location": "ROYAL BC NINANE A",
-      "other": ""
-    },
-    {
       "code": "415107",
       "date": "2026-11-07",
       "time": "17:00",
@@ -313,6 +243,16 @@
       "team2": "HENRI-CHAPELLE B",
       "category": "DD - DIVISION 2 B",
       "location": "RBC ALLEUR D",
+      "other": ""
+    },
+    {
+      "code": "415152",
+      "date": "2026-12-17",
+      "time": "20:30",
+      "team1": "ROYAL BC NINANE A",
+      "team2": "HENRI-CHAPELLE B",
+      "category": "DD - DIVISION 2 B",
+      "location": "ROYAL BC NINANE A",
       "other": ""
     },
     {
@@ -816,16 +756,6 @@
       "other": ""
     },
     {
-      "code": "404077",
-      "date": "2026-10-31",
-      "time": "18:30",
-      "team1": "HENRI-CHAPELLE B",
-      "team2": "THEUX BC B",
-      "category": "MM - DIVISION 3 A",
-      "location": "HENRI-CHAPELLE B",
-      "other": ""
-    },
-    {
       "code": "404105",
       "date": "2026-11-07",
       "time": "20:30",
@@ -1323,7 +1253,7 @@
       "team2": "HENRI-CHAPELLE C",
       "category": "MM - DIVISION 4 D",
       "location": "GIANTS BRAIVES B",
-      "other": ""
+      "other": "(IPES - Waremme)"
     },
     {
       "code": "410287",

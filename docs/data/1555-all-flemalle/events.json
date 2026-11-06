@@ -6,26 +6,6 @@
   },
   "events": [
     {
-      "code": "760517",
-      "date": "2026-10-31",
-      "time": "17:00",
-      "team1": "RBC WELKENRAEDT",
-      "team2": "ALL. FLEMALLE A",
-      "category": "CPE PROV DAMES",
-      "location": "RBC WELKENRAEDT",
-      "other": ""
-    },
-    {
-      "code": "760038",
-      "date": "2026-10-31",
-      "time": "17:00",
-      "team1": "ALL. FLEMALLE B (+ 10)",
-      "team2": "HENRI-CHAPELLE A",
-      "category": "CPE PROV MESSIEURS",
-      "location": "ALL. FLEMALLE B (+ 10)",
-      "other": ""
-    },
-    {
       "code": "414102",
       "date": "2026-11-08",
       "time": "15:00",
@@ -243,7 +223,7 @@
       "team2": "ROYAL ANS BC",
       "category": "DD - DIVISION 2 B",
       "location": "ALL. FLEMALLE B",
-      "other": "(Hall de Neuville)"
+      "other": ""
     },
     {
       "code": "415144",
@@ -793,6 +773,16 @@
       "team2": "ALL. FLEMALLE B",
       "category": "MM - DIVISION 3 B",
       "location": "RB UNION LIEGE B",
+      "other": ""
+    },
+    {
+      "code": "405073",
+      "date": "2026-11-29",
+      "time": "11:00",
+      "team1": "HARIMALIA BC C",
+      "team2": "ALL. FLEMALLE B",
+      "category": "MM - DIVISION 3 B",
+      "location": "HARIMALIA BC C",
       "other": ""
     },
     {
@@ -2633,7 +2623,7 @@
       "team2": "ALL. FLEMALLE B",
       "category": "U 14 - PROV MM A",
       "location": "CRISTAL SGH B",
-      "other": ""
+      "other": "(18 bonniers Gh)"
     },
     {
       "code": "490124",
@@ -3066,16 +3056,6 @@
       "other": ""
     },
     {
-      "code": "451165",
-      "date": "2026-12-19",
-      "time": "15:00",
-      "team1": "CRISTAL SGH A",
-      "team2": "ALL. FLEMALLE A",
-      "category": "U 16 - ELITES MM B",
-      "location": "CRISTAL SGH A",
-      "other": ""
-    },
-    {
       "code": "451193",
       "date": "2027-01-10",
       "time": "13:00",
@@ -3106,13 +3086,13 @@
       "other": ""
     },
     {
-      "code": "451222",
-      "date": "2027-01-31",
-      "time": "11:00",
-      "team1": "HARIMALIA BC",
+      "code": "451165",
+      "date": "2027-02-20",
+      "time": "15:00",
+      "team1": "CRISTAL SGH A",
       "team2": "ALL. FLEMALLE A",
       "category": "U 16 - ELITES MM B",
-      "location": "HARIMALIA BC",
+      "location": "CRISTAL SGH A",
       "other": ""
     },
     {
@@ -3243,16 +3223,6 @@
       "team2": "ALL. FLEMALLE B",
       "category": "U 16 - PROV MM C",
       "location": "CRISTAL SGH B",
-      "other": ""
-    },
-    {
-      "code": "AW147022",
-      "date": "2026-11-04",
-      "time": "19:00",
-      "team1": "LIEGE PANTHERS",
-      "team2": "ALL. FLEMALLE",
-      "category": "U 16 - SILVER REGIONALES B",
-      "location": "LIEGE PANTHERS",
       "other": ""
     },
     {
@@ -3478,7 +3448,7 @@
     {
       "code": "440112",
       "date": "2026-11-14",
-      "time": "15:00",
+      "time": "17:00",
       "team1": "ALL. FLEMALLE C",
       "team2": "RBC STAVELOT",
       "category": "U 18 - PROV MM A",

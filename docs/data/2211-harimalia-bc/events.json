@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "760033",
-      "date": "2026-10-31",
-      "time": "18:00",
-      "team1": "RABC ENSIVAL A",
-      "team2": "HARIMALIA BC A",
-      "category": "CPE PROV MESSIEURS",
-      "location": "RABC ENSIVAL A",
-      "other": ""
-    },
-    {
       "code": "403104",
       "date": "2026-11-07",
       "time": "21:00",
@@ -71,6 +61,16 @@
       "time": "13:30",
       "team1": "HARIMALIA BC A",
       "team2": "RBC DISON-ANDRIMONT A",
+      "category": "MM - DIVISION 2 B",
+      "location": "HARIMALIA BC A",
+      "other": ""
+    },
+    {
+      "code": "403072",
+      "date": "2026-12-16",
+      "time": "20:30",
+      "team1": "HARIMALIA BC A",
+      "team2": "R 4A AYWAILLE-HAMOIR A",
       "category": "MM - DIVISION 2 B",
       "location": "HARIMALIA BC A",
       "other": ""
@@ -256,6 +256,16 @@
       "other": ""
     },
     {
+      "code": "404072",
+      "date": "2026-12-09",
+      "time": "20:30",
+      "team1": "HARIMALIA BC B",
+      "team2": "R 4A AYWAILLE-HAMOIR B",
+      "category": "MM - DIVISION 3 A",
+      "location": "HARIMALIA BC B",
+      "other": ""
+    },
+    {
       "code": "404152",
       "date": "2026-12-12",
       "time": "19:00",
@@ -433,6 +443,16 @@
       "team2": "HARIMALIA BC C",
       "category": "MM - DIVISION 3 B",
       "location": "AVENIR JUPILLE A",
+      "other": ""
+    },
+    {
+      "code": "405073",
+      "date": "2026-11-29",
+      "time": "11:00",
+      "team1": "HARIMALIA BC C",
+      "team2": "ALL. FLEMALLE B",
+      "category": "MM - DIVISION 3 B",
+      "location": "HARIMALIA BC C",
       "other": ""
     },
     {
@@ -1303,136 +1323,6 @@
       "team2": "HARIMALIA BC",
       "category": "U 14 - PROV MM A",
       "location": "ABC WAREMME B",
-      "other": ""
-    },
-    {
-      "code": "451105",
-      "date": "2026-11-07",
-      "time": "14:00",
-      "team1": "RBC ESNEUX A",
-      "team2": "HARIMALIA BC",
-      "category": "U 16 - ELITES MM B",
-      "location": "RBC ESNEUX A",
-      "other": ""
-    },
-    {
-      "code": "451112",
-      "date": "2026-11-15",
-      "time": "11:00",
-      "team1": "HARIMALIA BC",
-      "team2": "RBC AWANS A",
-      "category": "U 16 - ELITES MM B",
-      "location": "HARIMALIA BC",
-      "other": ""
-    },
-    {
-      "code": "451152",
-      "date": "2026-12-13",
-      "time": "11:00",
-      "team1": "HARIMALIA BC",
-      "team2": "BC COINTE",
-      "category": "U 16 - ELITES MM B",
-      "location": "HARIMALIA BC",
-      "other": ""
-    },
-    {
-      "code": "451166",
-      "date": "2026-12-20",
-      "time": "11:00",
-      "team1": "RBC ALLEUR",
-      "team2": "HARIMALIA BC",
-      "category": "U 16 - ELITES MM B",
-      "location": "RBC ALLEUR",
-      "other": ""
-    },
-    {
-      "code": "451192",
-      "date": "2027-01-10",
-      "time": "11:00",
-      "team1": "HARIMALIA BC",
-      "team2": "GIANTS BRAIVES A",
-      "category": "U 16 - ELITES MM B",
-      "location": "HARIMALIA BC",
-      "other": ""
-    },
-    {
-      "code": "451201",
-      "date": "2027-01-16",
-      "time": "13:00",
-      "team1": "ABC WAREMME A",
-      "team2": "HARIMALIA BC",
-      "category": "U 16 - ELITES MM B",
-      "location": "ABC WAREMME A",
-      "other": ""
-    },
-    {
-      "code": "451212",
-      "date": "2027-01-23",
-      "time": "15:00",
-      "team1": "BC COINTE",
-      "team2": "HARIMALIA BC",
-      "category": "U 16 - ELITES MM B",
-      "location": "BC COINTE",
-      "other": ""
-    },
-    {
-      "code": "451222",
-      "date": "2027-01-31",
-      "time": "11:00",
-      "team1": "HARIMALIA BC",
-      "team2": "ALL. FLEMALLE A",
-      "category": "U 16 - ELITES MM B",
-      "location": "HARIMALIA BC",
-      "other": ""
-    },
-    {
-      "code": "451231",
-      "date": "2027-02-06",
-      "time": "11:00",
-      "team1": "RBC AWANS A",
-      "team2": "HARIMALIA BC",
-      "category": "U 16 - ELITES MM B",
-      "location": "RBC AWANS A",
-      "other": ""
-    },
-    {
-      "code": "451244",
-      "date": "2027-02-14",
-      "time": "14:00",
-      "team1": "ROYAL BC WANZE A",
-      "team2": "HARIMALIA BC",
-      "category": "U 16 - ELITES MM B",
-      "location": "ROYAL BC WANZE A",
-      "other": ""
-    },
-    {
-      "code": "451282",
-      "date": "2027-03-14",
-      "time": "11:00",
-      "team1": "HARIMALIA BC",
-      "team2": "RBC ALLEUR",
-      "category": "U 16 - ELITES MM B",
-      "location": "HARIMALIA BC",
-      "other": ""
-    },
-    {
-      "code": "451292",
-      "date": "2027-03-21",
-      "time": "11:00",
-      "team1": "HARIMALIA BC",
-      "team2": "RBC ESNEUX A",
-      "category": "U 16 - ELITES MM B",
-      "location": "HARIMALIA BC",
-      "other": ""
-    },
-    {
-      "code": "451302",
-      "date": "2027-03-28",
-      "time": "11:00",
-      "team1": "HARIMALIA BC",
-      "team2": "CRISTAL SGH A",
-      "category": "U 16 - ELITES MM B",
-      "location": "HARIMALIA BC",
       "other": ""
     },
     {

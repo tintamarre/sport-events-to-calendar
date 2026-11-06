@@ -6,26 +6,6 @@
   },
   "events": [
     {
-      "code": "760520",
-      "date": "2026-11-04",
-      "time": "21:00",
-      "team1": "HENRI-CHAPELLE A",
-      "team2": "RBC HANEFFE B",
-      "category": "CPE PROV DAMES",
-      "location": "HENRI-CHAPELLE A",
-      "other": ""
-    },
-    {
-      "code": "413055",
-      "date": "2026-11-01",
-      "time": "16:00",
-      "team1": "RBC HANEFFE B",
-      "team2": "HENRI-CHAPELLE A",
-      "category": "DD - DIVISION 1",
-      "location": "RBC HANEFFE B",
-      "other": ""
-    },
-    {
       "code": "413105",
       "date": "2026-11-07",
       "time": "17:00",
@@ -213,16 +193,6 @@
       "team2": "R.UN.BELLAIRE A",
       "category": "DD - DIVISION 1",
       "location": "RBC HANEFFE B",
-      "other": ""
-    },
-    {
-      "code": "415055",
-      "date": "2026-11-01",
-      "time": "12:00",
-      "team1": "RBC HANEFFE C",
-      "team2": "RBC STAVELOT",
-      "category": "DD - DIVISION 2 B",
-      "location": "RBC HANEFFE C",
       "other": ""
     },
     {
@@ -436,16 +406,6 @@
       "other": ""
     },
     {
-      "code": "418051",
-      "date": "2026-11-01",
-      "time": "14:00",
-      "team1": "RBC HANEFFE D",
-      "team2": "PRAYON TROOZ D",
-      "category": "DD - DIVISION 3 C",
-      "location": "RBC HANEFFE D",
-      "other": ""
-    },
-    {
       "code": "418103",
       "date": "2026-11-08",
       "time": "11:00",
@@ -628,7 +588,7 @@
     {
       "code": "AW105039",
       "date": "2026-12-19",
-      "time": "19:00",
+      "time": "21:00",
       "team1": "ENTITE COURCELLES",
       "team2": "RBC HANEFFE A",
       "category": "DD - REGIONALE 2 A",
@@ -742,16 +702,6 @@
       "team1": "RBC HANEFFE A",
       "team2": "ENTITE COURCELLES",
       "category": "DD - REGIONALE 2 A",
-      "location": "RBC HANEFFE A",
-      "other": ""
-    },
-    {
-      "code": "403054",
-      "date": "2026-10-31",
-      "time": "19:00",
-      "team1": "RBC HANEFFE A",
-      "team2": "RBC VISE B",
-      "category": "MM - DIVISION 2 B",
       "location": "RBC HANEFFE A",
       "other": ""
     },
@@ -946,16 +896,6 @@
       "other": ""
     },
     {
-      "code": "411056",
-      "date": "2026-10-31",
-      "time": "17:00",
-      "team1": "RBC HANEFFE B",
-      "team2": "THEUX BC D",
-      "category": "MM - DIVISION 4 E",
-      "location": "RBC HANEFFE B",
-      "other": ""
-    },
-    {
       "code": "411116",
       "date": "2026-11-15",
       "time": "12:00",
@@ -1123,16 +1063,6 @@
       "team2": "PRAYON TROOZ C",
       "category": "MM - DIVISION 4 E",
       "location": "RBC HANEFFE B",
-      "other": ""
-    },
-    {
-      "code": "527064",
-      "date": "2026-11-01",
-      "time": "9:30",
-      "team1": "BC VERLAINE B",
-      "team2": "RBC HANEFFE A",
-      "category": "U 10 - MM H",
-      "location": "BC VERLAINE B",
       "other": ""
     },
     {
@@ -1588,7 +1518,7 @@
     {
       "code": "AW133022",
       "date": "2026-11-14",
-      "time": "11:00",
+      "time": "9:00",
       "team1": "ABC WAREMME",
       "team2": "RBC HANEFFE",
       "category": "U 14 - SILVER REGIONAUX B",

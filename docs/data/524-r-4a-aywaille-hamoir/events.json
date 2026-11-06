@@ -6,36 +6,6 @@
   },
   "events": [
     {
-      "code": "762029",
-      "date": "2026-10-31",
-      "time": "17:00",
-      "team1": "R 4A AYWAILLE-HAMOIR",
-      "team2": "PEPINSTER EAST BELG",
-      "category": "CPE PROV CADETS",
-      "location": "R 4A AYWAILLE-HAMOIR",
-      "other": ""
-    },
-    {
-      "code": "761004",
-      "date": "2026-10-31",
-      "time": "13:00",
-      "team1": "BC COINTE",
-      "team2": "R 4A AYWAILLE-HAMOIR",
-      "category": "CPE PROV JUNIORS",
-      "location": "BC COINTE",
-      "other": ""
-    },
-    {
-      "code": "760044",
-      "date": "2026-11-01",
-      "time": "10:00",
-      "team1": "VAIL. JUPILLE A",
-      "team2": "R 4A AYWAILLE-HAMOIR A",
-      "category": "CPE PROV MESSIEURS",
-      "location": "VAIL. JUPILLE A",
-      "other": ""
-    },
-    {
       "code": "415107",
       "date": "2026-11-07",
       "time": "17:00",
@@ -417,7 +387,7 @@
     },
     {
       "code": "403145",
-      "date": "2026-12-05",
+      "date": "2026-12-04",
       "time": "19:00",
       "team1": "RB TILFF B",
       "team2": "R 4A AYWAILLE-HAMOIR A",
@@ -443,6 +413,16 @@
       "team2": "RBC AWANS A",
       "category": "MM - DIVISION 2 B",
       "location": "R 4A AYWAILLE-HAMOIR A",
+      "other": ""
+    },
+    {
+      "code": "403072",
+      "date": "2026-12-16",
+      "time": "20:30",
+      "team1": "HARIMALIA BC A",
+      "team2": "R 4A AYWAILLE-HAMOIR A",
+      "category": "MM - DIVISION 2 B",
+      "location": "HARIMALIA BC A",
       "other": ""
     },
     {
@@ -576,16 +556,6 @@
       "other": ""
     },
     {
-      "code": "404127",
-      "date": "2026-10-31",
-      "time": "19:00",
-      "team1": "R 4A AYWAILLE-HAMOIR B",
-      "team2": "ESL UNITED F",
-      "category": "MM - DIVISION 3 A",
-      "location": "R 4A AYWAILLE-HAMOIR B",
-      "other": ""
-    },
-    {
       "code": "404107",
       "date": "2026-11-07",
       "time": "19:00",
@@ -623,6 +593,16 @@
       "team2": "R 4A AYWAILLE-HAMOIR B",
       "category": "MM - DIVISION 3 A",
       "location": "ROYAL BC WANZE C",
+      "other": ""
+    },
+    {
+      "code": "404072",
+      "date": "2026-12-09",
+      "time": "20:30",
+      "team1": "HARIMALIA BC B",
+      "team2": "R 4A AYWAILLE-HAMOIR B",
+      "category": "MM - DIVISION 3 A",
+      "location": "HARIMALIA BC B",
       "other": ""
     },
     {
@@ -2483,7 +2463,7 @@
       "team2": "R 4A AYWAILLE-HAMOIR A",
       "category": "U 8 - MM C",
       "location": "CRISTAL SGH A",
-      "other": ""
+      "other": "(18 bonniers Gh)"
     },
     {
       "code": "542124",
