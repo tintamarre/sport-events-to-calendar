@@ -6,13 +6,13 @@
   },
   "events": [
     {
-      "code": "418101",
-      "date": "2026-11-08",
-      "time": "12:00",
-      "team1": "ROYAL SPA BC B",
-      "team2": "LA VILLERSOISE B",
-      "category": "DD - DIVISION 3 C",
-      "location": "ROYAL SPA BC B",
+      "code": "761011",
+      "date": "2026-11-28",
+      "time": "15:00",
+      "team1": "ROYAL SPA BC",
+      "team2": "RBC ESNEUX",
+      "category": "CPE PROV JUNIORS",
+      "location": "ROYAL SPA BC",
       "other": ""
     },
     {
@@ -153,16 +153,6 @@
       "team2": "ROYAL HERVE-BATTICE E",
       "category": "DD - DIVISION 3 C",
       "location": "ROYAL SPA BC B",
-      "other": ""
-    },
-    {
-      "code": "AW106051",
-      "date": "2026-11-07",
-      "time": "20:30",
-      "team1": "RBC ALLEUR B",
-      "team2": "ROYAL SPA BC A",
-      "category": "DD - REGIONALE 2 B",
-      "location": "RBC ALLEUR B",
       "other": ""
     },
     {
@@ -323,16 +313,6 @@
       "team2": "NAMUR CAPITALE C",
       "category": "DD - REGIONALE 2 B",
       "location": "ROYAL SPA BC A",
-      "other": ""
-    },
-    {
-      "code": "402107",
-      "date": "2026-11-08",
-      "time": "11:00",
-      "team1": "FLERON BBC A",
-      "team2": "ROYAL SPA BC C",
-      "category": "MM - DIVISION 2 A",
-      "location": "FLERON BBC A",
       "other": ""
     },
     {
@@ -706,16 +686,6 @@
       "other": ""
     },
     {
-      "code": "407103",
-      "date": "2026-11-08",
-      "time": "11:00",
-      "team1": "THEUX BC C",
-      "team2": "ROYAL SPA BC D",
-      "category": "MM - DIVISION 4 A",
-      "location": "THEUX BC C",
-      "other": ""
-    },
-    {
       "code": "407111",
       "date": "2026-11-14",
       "time": "17:00",
@@ -1006,16 +976,6 @@
       "other": ""
     },
     {
-      "code": "AW101059",
-      "date": "2026-11-06",
-      "time": "21:00",
-      "team1": "UCCLE EUROPE",
-      "team2": "ROYAL SPA BC A",
-      "category": "MM - REGIONALE 2 A",
-      "location": "UCCLE EUROPE",
-      "other": ""
-    },
-    {
       "code": "AW101050",
       "date": "2026-11-14",
       "time": "19:00",
@@ -1048,7 +1008,7 @@
     {
       "code": "AW101078",
       "date": "2026-12-11",
-      "time": "19:30",
+      "time": "21:00",
       "team1": "ROYAL SPA BC A",
       "team2": "CHALET WOL ST PIERRE",
       "category": "MM - REGIONALE 2 A",
@@ -1183,16 +1143,6 @@
       "team2": "PEPINSTER EAST BELG B",
       "category": "MM - REGIONALE 2 A",
       "location": "ROYAL SPA BC A",
-      "other": ""
-    },
-    {
-      "code": "520103",
-      "date": "2026-11-07",
-      "time": "09:00",
-      "team1": "THEUX BC A",
-      "team2": "ROYAL SPA BC A",
-      "category": "U 10 - MM A",
-      "location": "THEUX BC A",
       "other": ""
     },
     {
@@ -1356,16 +1306,6 @@
       "other": ""
     },
     {
-      "code": "524103",
-      "date": "2026-11-07",
-      "time": "12:30",
-      "team1": "BC VERVIERS",
-      "team2": "ROYAL SPA BC B",
-      "category": "U 10 - MM E",
-      "location": "BC VERVIERS",
-      "other": ""
-    },
-    {
       "code": "524111",
       "date": "2026-11-14",
       "time": "13:00",
@@ -1493,16 +1433,6 @@
       "team2": "ROYAL SPA BC B",
       "category": "U 10 - MM E",
       "location": "ROYAL HERVE-BATTICE C",
-      "other": ""
-    },
-    {
-      "code": "525103",
-      "date": "2026-11-08",
-      "time": "12:00",
-      "team1": "RBC VISE B",
-      "team2": "ROYAL SPA BC C",
-      "category": "U 10 - MM F",
-      "location": "RBC VISE B",
       "other": ""
     },
     {
@@ -1636,16 +1566,6 @@
       "other": ""
     },
     {
-      "code": "503103",
-      "date": "2026-11-07",
-      "time": "15:00",
-      "team1": "RBC HANEFFE",
-      "team2": "ROYAL SPA BC",
-      "category": "U 12 - MM D",
-      "location": "RBC HANEFFE",
-      "other": ""
-    },
-    {
       "code": "503111",
       "date": "2026-11-14",
       "time": "11:00",
@@ -1658,12 +1578,12 @@
     {
       "code": "503125",
       "date": "2026-11-21",
-      "time": "11:30",
+      "time": "11:00",
       "team1": "CRISTAL SGH D",
       "team2": "ROYAL SPA BC",
       "category": "U 12 - MM D",
       "location": "CRISTAL SGH D",
-      "other": ""
+      "other": "(Renaissance)"
     },
     {
       "code": "503024",
@@ -1683,16 +1603,6 @@
       "team2": "FLERON BBC",
       "category": "U 12 - MM D",
       "location": "ROYAL SPA BC",
-      "other": ""
-    },
-    {
-      "code": "503164",
-      "date": "2026-12-19",
-      "time": "12:30",
-      "team1": "PEPINSTER EAST BELG B",
-      "team2": "ROYAL SPA BC",
-      "category": "U 12 - MM D",
-      "location": "PEPINSTER EAST BELG B",
       "other": ""
     },
     {
@@ -1756,6 +1666,16 @@
       "other": ""
     },
     {
+      "code": "503164",
+      "date": "2027-02-20",
+      "time": "16:00",
+      "team1": "PEPINSTER EAST BELG B",
+      "team2": "ROYAL SPA BC",
+      "category": "U 12 - MM D",
+      "location": "PEPINSTER EAST BELG B",
+      "other": ""
+    },
+    {
       "code": "503281",
       "date": "2027-03-13",
       "time": "11:00",
@@ -1793,16 +1713,6 @@
       "team2": "CRISTAL SGH D",
       "category": "U 12 - MM D",
       "location": "ROYAL SPA BC",
-      "other": ""
-    },
-    {
-      "code": "590103",
-      "date": "2026-11-07",
-      "time": "11:00",
-      "team1": "ROYAL HERVE-BATTICE",
-      "team2": "ROYAL SPA BC",
-      "category": "U 16 - DD A",
-      "location": "ROYAL HERVE-BATTICE",
       "other": ""
     },
     {
@@ -1923,16 +1833,6 @@
       "team2": "ROYAL SPA BC",
       "category": "U 16 - DD A",
       "location": "ALL. FLEMALLE C",
-      "other": ""
-    },
-    {
-      "code": "450103",
-      "date": "2026-11-07",
-      "time": "11:00",
-      "team1": "THEUX BC",
-      "team2": "ROYAL SPA BC A",
-      "category": "U 16 - ELITES MM A",
-      "location": "THEUX BC",
       "other": ""
     },
     {
@@ -2206,16 +2106,6 @@
       "other": ""
     },
     {
-      "code": "440103",
-      "date": "2026-11-07",
-      "time": "09:00",
-      "team1": "THEUX BC",
-      "team2": "ROYAL SPA BC",
-      "category": "U 18 - PROV MM A",
-      "location": "THEUX BC",
-      "other": ""
-    },
-    {
       "code": "440111",
       "date": "2026-11-14",
       "time": "15:00",
@@ -2316,16 +2206,6 @@
       "other": ""
     },
     {
-      "code": "AW143020",
-      "date": "2026-11-07",
-      "time": "12:00",
-      "team1": "CASTORS BRAINE",
-      "team2": "ROYAL SPA BC",
-      "category": "U 19 - BRONZE REGIONALES A",
-      "location": "CASTORS BRAINE",
-      "other": ""
-    },
-    {
       "code": "AW143025",
       "date": "2026-11-22",
       "time": "10:00",
@@ -2356,13 +2236,13 @@
       "other": ""
     },
     {
-      "code": "420103",
-      "date": "2026-11-08",
-      "time": "13:00",
-      "team1": "THEUX BC",
+      "code": "AW143015",
+      "date": "2026-12-19",
+      "time": "17:00",
+      "team1": "ALL. FLEMALLE",
       "team2": "ROYAL SPA BC",
-      "category": "U 21 - MM",
-      "location": "THEUX BC",
+      "category": "U 19 - BRONZE REGIONALES A",
+      "location": "ALL. FLEMALLE",
       "other": ""
     },
     {
@@ -2383,16 +2263,6 @@
       "team2": "ROYAL SPA BC",
       "category": "U 21 - MM",
       "location": "BC COINTE",
-      "other": ""
-    },
-    {
-      "code": "420136",
-      "date": "2026-11-28",
-      "time": "15:00",
-      "team1": "RBC DISON-ANDRIMONT",
-      "team2": "ROYAL SPA BC",
-      "category": "U 21 - MM",
-      "location": "RBC DISON-ANDRIMONT",
       "other": ""
     },
     {
@@ -2433,6 +2303,16 @@
       "team2": "ROYAL ANS BC",
       "category": "U 21 - MM",
       "location": "ROYAL SPA BC",
+      "other": ""
+    },
+    {
+      "code": "420136",
+      "date": "2027-01-16",
+      "time": "15:00",
+      "team1": "RBC DISON-ANDRIMONT",
+      "team2": "ROYAL SPA BC",
+      "category": "U 21 - MM",
+      "location": "RBC DISON-ANDRIMONT",
       "other": ""
     },
     {
@@ -2553,16 +2433,6 @@
       "team2": "RBC ALLEUR",
       "category": "U 21 - MM",
       "location": "ROYAL SPA BC",
-      "other": ""
-    },
-    {
-      "code": "550103",
-      "date": "2026-11-08",
-      "time": "09:00",
-      "team1": "THEUX BC",
-      "team2": "ROYAL SPA BC A",
-      "category": "U 7 - MM A",
-      "location": "THEUX BC",
       "other": ""
     },
     {

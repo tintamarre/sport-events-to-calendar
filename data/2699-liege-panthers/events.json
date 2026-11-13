@@ -6,6 +6,16 @@
   },
   "events": [
     {
+      "code": "AW248057",
+      "date": "2026-11-29",
+      "time": "15:00",
+      "team1": "REBOND OTTIGNIES",
+      "team2": "LIEGE PANTHERS",
+      "category": "COUPE AWBB U14 - FILLES",
+      "location": "REBOND OTTIGNIES",
+      "other": ""
+    },
+    {
       "code": "225",
       "date": "2026-12-08",
       "time": "20:30",
@@ -13,16 +23,6 @@
       "team2": "LIEGE PANTHERS A",
       "category": "CPE BELG DAMES",
       "location": "CASTORS BRAINE",
-      "other": ""
-    },
-    {
-      "code": "AW104051",
-      "date": "2026-11-07",
-      "time": "18:30",
-      "team1": "RBC ALLEUR A",
-      "team2": "LIEGE PANTHERS C",
-      "category": "DD - REGIONALE 1",
-      "location": "RBC ALLEUR A",
       "other": ""
     },
     {
@@ -186,16 +186,6 @@
       "other": ""
     },
     {
-      "code": "NADSE11AAD",
-      "date": "2026-11-08",
-      "time": "15:00",
-      "team1": "LIEGE PANTHERS A",
-      "team2": "BASKET WAREGEM",
-      "category": "TOP DIVISION WOMEN 1",
-      "location": "LIEGE PANTHERS A",
-      "other": ""
-    },
-    {
       "code": "NADSE11AGA",
       "date": "2026-11-21",
       "time": "20:30",
@@ -323,16 +313,6 @@
       "team2": "KORTRIJK SPURS",
       "category": "TOP DIVISION WOMEN 1",
       "location": "LIEGE PANTHERS A",
-      "other": ""
-    },
-    {
-      "code": "AW103035",
-      "date": "2026-11-08",
-      "time": "11:15",
-      "team1": "ROYAL BC CINEY",
-      "team2": "LIEGE PANTHERS B",
-      "category": "TOP DIVISION WOMEN R",
-      "location": "ROYAL BC CINEY",
       "other": ""
     },
     {
@@ -486,16 +466,6 @@
       "other": ""
     },
     {
-      "code": "AW151020",
-      "date": "2026-11-08",
-      "time": "10:00",
-      "team1": "BC BELLEFLAMME",
-      "team2": "LIEGE PANTHERS",
-      "category": "U 14 - GOLD REGIONALES B",
-      "location": "BC BELLEFLAMME",
-      "other": ""
-    },
-    {
       "code": "AW151025",
       "date": "2026-11-22",
       "time": "13:00",
@@ -533,16 +503,6 @@
       "team2": "RBC ECLAIR",
       "category": "U 14 - GOLD REGIONALES B",
       "location": "LIEGE PANTHERS",
-      "other": ""
-    },
-    {
-      "code": "AW145020",
-      "date": "2026-11-07",
-      "time": "11:00",
-      "team1": "BC BONINNE",
-      "team2": "LIEGE PANTHERS",
-      "category": "U 16 - GOLD REGIONALES B",
-      "location": "BC BONINNE",
       "other": ""
     },
     {
@@ -586,16 +546,6 @@
       "other": ""
     },
     {
-      "code": "AW147020",
-      "date": "2026-11-07",
-      "time": "15:30",
-      "team1": "TOURNAI WAPITI",
-      "team2": "LIEGE PANTHERS",
-      "category": "U 16 - SILVER REGIONALES B",
-      "location": "TOURNAI WAPITI",
-      "other": ""
-    },
-    {
       "code": "AW147025",
       "date": "2026-11-21",
       "time": "13:30",
@@ -623,16 +573,6 @@
       "team2": "GANSHOREN DAMES",
       "category": "U 16 - SILVER REGIONALES B",
       "location": "LIEGE PANTHERS",
-      "other": ""
-    },
-    {
-      "code": "AW140020",
-      "date": "2026-11-07",
-      "time": "12:30",
-      "team1": "EAST BELGIUM BCA",
-      "team2": "LIEGE PANTHERS",
-      "category": "U 19 - GOLD REGIONALES B",
-      "location": "EAST BELGIUM BCA",
       "other": ""
     },
     {
@@ -673,16 +613,6 @@
       "team2": "GANSHOREN DAMES",
       "category": "U 19 - GOLD REGIONALES B",
       "location": "LIEGE PANTHERS",
-      "other": ""
-    },
-    {
-      "code": "AW142035",
-      "date": "2026-11-07",
-      "time": "15:15",
-      "team1": "NAMUR CAPITALE",
-      "team2": "LIEGE PANTHERS",
-      "category": "U 19 - SILVER REGIONALES B",
-      "location": "NAMUR CAPITALE",
       "other": ""
     },
     {

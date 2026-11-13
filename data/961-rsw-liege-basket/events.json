@@ -6,26 +6,6 @@
   },
   "events": [
     {
-      "code": "410103",
-      "date": "2026-11-06",
-      "time": "20:30",
-      "team1": "RBC ALLEUR E",
-      "team2": "RSW LIEGE BASKET C",
-      "category": "MM - DIVISION 4 D",
-      "location": "RBC ALLEUR E",
-      "other": ""
-    },
-    {
-      "code": "410024",
-      "date": "2026-11-08",
-      "time": "17:00",
-      "team1": "CRISTAL SGH C",
-      "team2": "RSW LIEGE BASKET C",
-      "category": "MM - DIVISION 4 D",
-      "location": "CRISTAL SGH C",
-      "other": "(piscine olympique)"
-    },
-    {
       "code": "410126",
       "date": "2026-11-28",
       "time": "21:00",
@@ -173,16 +153,6 @@
       "team2": "RBC VISE D",
       "category": "MM - DIVISION 4 D",
       "location": "RSW LIEGE BASKET C",
-      "other": ""
-    },
-    {
-      "code": "AW100067",
-      "date": "2026-11-07",
-      "time": "21:00",
-      "team1": "BC VERVIERS A",
-      "team2": "RSW LIEGE BASKET A",
-      "category": "MM - REGIONALE 1",
-      "location": "BC VERVIERS A",
       "other": ""
     },
     {
@@ -396,16 +366,6 @@
       "other": ""
     },
     {
-      "code": "AW102059",
-      "date": "2026-11-08",
-      "time": "17:00",
-      "team1": "UCCLE EUROPE",
-      "team2": "RSW LIEGE BASKET B",
-      "category": "MM - REGIONALE 2 B",
-      "location": "UCCLE EUROPE",
-      "other": ""
-    },
-    {
       "code": "AW102050",
       "date": "2026-11-15",
       "time": "17:00",
@@ -576,16 +536,6 @@
       "other": ""
     },
     {
-      "code": "521101",
-      "date": "2026-11-07",
-      "time": "12:00",
-      "team1": "RSW LIEGE BASKET",
-      "team2": "UN HUY BASKET B",
-      "category": "U 10 - MM B",
-      "location": "RSW LIEGE BASKET",
-      "other": ""
-    },
-    {
       "code": "521121",
       "date": "2026-11-21",
       "time": "12:00",
@@ -738,7 +688,7 @@
     {
       "code": "500151",
       "date": "2026-12-12",
-      "time": "9:30",
+      "time": "15:00",
       "team1": "CONDROZ MODAVE BB",
       "team2": "RSW LIEGE BASKET",
       "category": "U 12 - MM A",
@@ -866,16 +816,6 @@
       "other": ""
     },
     {
-      "code": "AW135020",
-      "date": "2026-11-07",
-      "time": "15:00",
-      "team1": "LA LOUVIERE AM",
-      "team2": "RSW LIEGE BASKET",
-      "category": "U 14 - BRONZE REGIONAUX A",
-      "location": "LA LOUVIERE AM",
-      "other": ""
-    },
-    {
       "code": "AW135022",
       "date": "2026-11-14",
       "time": "12:00",
@@ -913,16 +853,6 @@
       "team2": "RCS NATOYE",
       "category": "U 14 - BRONZE REGIONAUX A",
       "location": "RSW LIEGE BASKET",
-      "other": ""
-    },
-    {
-      "code": "AW114021",
-      "date": "2026-11-07",
-      "time": "13:00",
-      "team1": "CASTORS BRAINE",
-      "team2": "RSW LIEGE BASKET",
-      "category": "U 18 - GOLD REGIONAUX B",
-      "location": "CASTORS BRAINE",
       "other": ""
     },
     {
@@ -966,16 +896,6 @@
       "other": ""
     },
     {
-      "code": "AW110021",
-      "date": "2026-11-07",
-      "time": "14:00",
-      "team1": "RSW LIEGE BASKET",
-      "team2": "ASTE KAIN",
-      "category": "U 21 - SILVER REGIONAUX B",
-      "location": "RSW LIEGE BASKET",
-      "other": ""
-    },
-    {
       "code": "AW110022",
       "date": "2026-11-15",
       "time": "10:00",
@@ -1012,16 +932,6 @@
       "team1": "RSW LIEGE BASKET",
       "team2": "R UAA ETTERBEEK",
       "category": "U 21 - SILVER REGIONAUX B",
-      "location": "RSW LIEGE BASKET",
-      "other": ""
-    },
-    {
-      "code": "553101",
-      "date": "2026-11-07",
-      "time": "9:00",
-      "team1": "RSW LIEGE BASKET",
-      "team2": "RBC HANEFFE",
-      "category": "U 7 - MM D",
       "location": "RSW LIEGE BASKET",
       "other": ""
     },
@@ -1152,16 +1062,6 @@
       "team1": "RSW LIEGE BASKET",
       "team2": "BC SPRIMONT B",
       "category": "U 7 - MM D",
-      "location": "RSW LIEGE BASKET",
-      "other": ""
-    },
-    {
-      "code": "543101",
-      "date": "2026-11-07",
-      "time": "10:30",
-      "team1": "RSW LIEGE BASKET",
-      "team2": "RBC HANEFFE",
-      "category": "U 8 - MM D",
       "location": "RSW LIEGE BASKET",
       "other": ""
     },

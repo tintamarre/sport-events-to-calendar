@@ -6,13 +6,23 @@
   },
   "events": [
     {
-      "code": "416104",
-      "date": "2026-11-08",
-      "time": "15:30",
-      "team1": "ETOILE JUPILLE",
-      "team2": "GIANTS BRAIVES",
-      "category": "DD - DIVISION 3 A",
-      "location": "ETOILE JUPILLE",
+      "code": "760050",
+      "date": "2026-11-27",
+      "time": "21:00",
+      "team1": "ETOILE JUPILLE A",
+      "team2": "RBC AWANS A (+ 5)",
+      "category": "CPE PROV MESSIEURS",
+      "location": "ETOILE JUPILLE A",
+      "other": ""
+    },
+    {
+      "code": "764042",
+      "date": "2026-11-28",
+      "time": "16:30",
+      "team1": "HENRI-CHAPELLE A",
+      "team2": "ETOILE JUPILLE",
+      "category": "CPE PROV PUPILLES MM",
+      "location": "HENRI-CHAPELLE A",
       "other": ""
     },
     {
@@ -156,16 +166,6 @@
       "other": ""
     },
     {
-      "code": "401104",
-      "date": "2026-11-06",
-      "time": "21:00",
-      "team1": "ETOILE JUPILLE A",
-      "team2": "HANNUT BC A",
-      "category": "MM - DIVISION 1",
-      "location": "ETOILE JUPILLE A",
-      "other": ""
-    },
-    {
       "code": "401117",
       "date": "2026-11-14",
       "time": "20:30",
@@ -207,13 +207,13 @@
     },
     {
       "code": "401154",
-      "date": "2026-12-12",
-      "time": "19:30",
+      "date": "2026-12-13",
+      "time": "17:30",
       "team1": "CRISTAL SGH A",
       "team2": "ETOILE JUPILLE A",
       "category": "MM - DIVISION 1",
       "location": "CRISTAL SGH A",
-      "other": ""
+      "other": "(Salle de Tilff)"
     },
     {
       "code": "401164",
@@ -353,16 +353,6 @@
       "team2": "ETOILE JUPILLE A",
       "category": "MM - DIVISION 1",
       "location": "ROYAL HERVE-BATTICE A",
-      "other": ""
-    },
-    {
-      "code": "404104",
-      "date": "2026-11-06",
-      "time": "19:00",
-      "team1": "ETOILE JUPILLE B",
-      "team2": "HARIMALIA BC B",
-      "category": "MM - DIVISION 3 A",
-      "location": "ETOILE JUPILLE B",
       "other": ""
     },
     {
@@ -546,16 +536,6 @@
       "other": ""
     },
     {
-      "code": "407104",
-      "date": "2026-11-08",
-      "time": "9:30",
-      "team1": "ETOILE JUPILLE D",
-      "team2": "DF BC MALMEDY",
-      "category": "MM - DIVISION 4 A",
-      "location": "ETOILE JUPILLE D",
-      "other": ""
-    },
-    {
       "code": "407117",
       "date": "2026-11-15",
       "time": "10:00",
@@ -713,16 +693,6 @@
       "team2": "ETOILE JUPILLE D",
       "category": "MM - DIVISION 4 A",
       "location": "BBC EUPEN B",
-      "other": ""
-    },
-    {
-      "code": "409104",
-      "date": "2026-11-08",
-      "time": "17:30",
-      "team1": "ETOILE JUPILLE C",
-      "team2": "HANNUT BC C",
-      "category": "MM - DIVISION 4 C",
-      "location": "ETOILE JUPILLE C",
       "other": ""
     },
     {
@@ -1026,16 +996,6 @@
       "other": ""
     },
     {
-      "code": "501104",
-      "date": "2026-11-07",
-      "time": "11:00",
-      "team1": "ETOILE JUPILLE B",
-      "team2": "BC BELLEFLAMME B",
-      "category": "U 12 - MM B",
-      "location": "ETOILE JUPILLE B",
-      "other": ""
-    },
-    {
       "code": "501117",
       "date": "2026-11-15",
       "time": "9:00",
@@ -1206,16 +1166,6 @@
       "other": ""
     },
     {
-      "code": "480104",
-      "date": "2026-11-08",
-      "time": "11:30",
-      "team1": "ETOILE JUPILLE",
-      "team2": "RBC ALLEUR A",
-      "category": "U 14 - ELITES MM A",
-      "location": "ETOILE JUPILLE",
-      "other": ""
-    },
-    {
       "code": "480113",
       "date": "2026-11-15",
       "time": "11:00",
@@ -1362,16 +1312,6 @@
       "team1": "ETOILE JUPILLE",
       "team2": "RABC ENSIVAL A",
       "category": "U 14 - ELITES MM A",
-      "location": "ETOILE JUPILLE",
-      "other": ""
-    },
-    {
-      "code": "470104",
-      "date": "2026-11-08",
-      "time": "13:30",
-      "team1": "ETOILE JUPILLE",
-      "team2": "RBC DISON-ANDRIMONT",
-      "category": "U 16 - PROV MM A",
       "location": "ETOILE JUPILLE",
       "other": ""
     },

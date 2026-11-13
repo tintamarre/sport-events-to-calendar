@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "413105",
-      "date": "2026-11-07",
-      "time": "17:00",
-      "team1": "RBC HANEFFE B",
-      "team2": "RBC BLEGNY A",
-      "category": "DD - DIVISION 1",
-      "location": "RBC HANEFFE B",
-      "other": ""
-    },
-    {
       "code": "413116",
       "date": "2026-11-14",
       "time": "17:00",
@@ -193,26 +183,6 @@
       "team2": "R.UN.BELLAIRE A",
       "category": "DD - DIVISION 1",
       "location": "RBC HANEFFE B",
-      "other": ""
-    },
-    {
-      "code": "415105",
-      "date": "2026-11-08",
-      "time": "12:00",
-      "team1": "RBC HANEFFE C",
-      "team2": "RBC ALLEUR D",
-      "category": "DD - DIVISION 2 B",
-      "location": "RBC HANEFFE C",
-      "other": ""
-    },
-    {
-      "code": "415083",
-      "date": "2026-11-10",
-      "time": "20:00",
-      "team1": "ROYAL ANS BC",
-      "team2": "RBC HANEFFE C",
-      "category": "DD - DIVISION 2 B",
-      "location": "ROYAL ANS BC",
       "other": ""
     },
     {
@@ -406,16 +376,6 @@
       "other": ""
     },
     {
-      "code": "418103",
-      "date": "2026-11-08",
-      "time": "11:00",
-      "team1": "REBOND NEUVILLE",
-      "team2": "RBC HANEFFE D",
-      "category": "DD - DIVISION 3 C",
-      "location": "REBOND NEUVILLE",
-      "other": ""
-    },
-    {
       "code": "418111",
       "date": "2026-11-15",
       "time": "14:00",
@@ -546,16 +506,6 @@
       "other": ""
     },
     {
-      "code": "AW105053",
-      "date": "2026-11-07",
-      "time": "19:00",
-      "team1": "RBC HANEFFE A",
-      "team2": "BC BELLEFLAMME A",
-      "category": "DD - REGIONALE 2 A",
-      "location": "RBC HANEFFE A",
-      "other": ""
-    },
-    {
       "code": "AW105048",
       "date": "2026-11-15",
       "time": "13:15",
@@ -588,7 +538,7 @@
     {
       "code": "AW105039",
       "date": "2026-12-19",
-      "time": "21:00",
+      "time": "19:00",
       "team1": "ENTITE COURCELLES",
       "team2": "RBC HANEFFE A",
       "category": "DD - REGIONALE 2 A",
@@ -702,16 +652,6 @@
       "team1": "RBC HANEFFE A",
       "team2": "ENTITE COURCELLES",
       "category": "DD - REGIONALE 2 A",
-      "location": "RBC HANEFFE A",
-      "other": ""
-    },
-    {
-      "code": "403104",
-      "date": "2026-11-07",
-      "time": "21:00",
-      "team1": "RBC HANEFFE A",
-      "team2": "HARIMALIA BC A",
-      "category": "MM - DIVISION 2 B",
       "location": "RBC HANEFFE A",
       "other": ""
     },
@@ -1066,16 +1006,6 @@
       "other": ""
     },
     {
-      "code": "527101",
-      "date": "2026-11-08",
-      "time": "9:00",
-      "team1": "GIANTS BRAIVES A",
-      "team2": "RBC HANEFFE A",
-      "category": "U 10 - MM H",
-      "location": "GIANTS BRAIVES A",
-      "other": ""
-    },
-    {
       "code": "527122",
       "date": "2026-11-21",
       "time": "10:30",
@@ -1166,16 +1096,6 @@
       "other": ""
     },
     {
-      "code": "527293",
-      "date": "2027-03-20",
-      "time": "14:00",
-      "team1": "RBC HANEFFE A",
-      "team2": "GIANTS BRAIVES A",
-      "category": "U 10 - MM H",
-      "location": "RBC HANEFFE A",
-      "other": ""
-    },
-    {
       "code": "527303",
       "date": "2027-03-27",
       "time": "14:00",
@@ -1216,13 +1136,13 @@
       "other": ""
     },
     {
-      "code": "528101",
-      "date": "2026-11-08",
-      "time": "13:00",
-      "team1": "GIANTS BRAIVES B",
-      "team2": "RBC HANEFFE B",
-      "category": "U 10 - MM I",
-      "location": "GIANTS BRAIVES B",
+      "code": "527293",
+      "date": "2027-04-24",
+      "time": "11:00",
+      "team1": "RBC HANEFFE A",
+      "team2": "GIANTS BRAIVES A",
+      "category": "U 10 - MM H",
+      "location": "RBC HANEFFE A",
       "other": ""
     },
     {
@@ -1343,16 +1263,6 @@
       "team2": "RBC HANEFFE B",
       "category": "U 10 - MM I",
       "location": "ORP JAUCHE",
-      "other": ""
-    },
-    {
-      "code": "503103",
-      "date": "2026-11-07",
-      "time": "15:00",
-      "team1": "RBC HANEFFE",
-      "team2": "ROYAL SPA BC",
-      "category": "U 12 - MM D",
-      "location": "RBC HANEFFE",
       "other": ""
     },
     {
@@ -1506,16 +1416,6 @@
       "other": ""
     },
     {
-      "code": "AW133021",
-      "date": "2026-11-07",
-      "time": "11:00",
-      "team1": "RBC HANEFFE",
-      "team2": "B.C.BOUSSU",
-      "category": "U 14 - SILVER REGIONAUX B",
-      "location": "RBC HANEFFE",
-      "other": ""
-    },
-    {
       "code": "AW133022",
       "date": "2026-11-14",
       "time": "9:00",
@@ -1556,16 +1456,6 @@
       "other": ""
     },
     {
-      "code": "AW123021",
-      "date": "2026-11-07",
-      "time": "13:00",
-      "team1": "RBC HANEFFE",
-      "team2": "BC MALONNE",
-      "category": "U 16 - SILVER REGIONAUX A",
-      "location": "RBC HANEFFE",
-      "other": ""
-    },
-    {
       "code": "AW123027",
       "date": "2026-11-21",
       "time": "13:00",
@@ -1593,16 +1483,6 @@
       "team2": "RBC HANEFFE",
       "category": "U 16 - SILVER REGIONAUX A",
       "location": "ECOLE EUROPEENNE",
-      "other": ""
-    },
-    {
-      "code": "552103",
-      "date": "2026-11-07",
-      "time": "9:00",
-      "team1": "ROYAL BC NINANE A",
-      "team2": "RBC HANEFFE B",
-      "category": "U 7 - MM C",
-      "location": "ROYAL BC NINANE A",
       "other": ""
     },
     {
@@ -1733,16 +1613,6 @@
       "team2": "RB TILFF",
       "category": "U 7 - MM C",
       "location": "RBC HANEFFE B",
-      "other": ""
-    },
-    {
-      "code": "553101",
-      "date": "2026-11-07",
-      "time": "9:00",
-      "team1": "RSW LIEGE BASKET",
-      "team2": "RBC HANEFFE",
-      "category": "U 7 - MM D",
-      "location": "RSW LIEGE BASKET",
       "other": ""
     },
     {
@@ -1893,16 +1763,6 @@
       "team2": "RBC HANEFFE",
       "category": "U 7 - MM D",
       "location": "ROYAL ANS BC",
-      "other": ""
-    },
-    {
-      "code": "543101",
-      "date": "2026-11-07",
-      "time": "10:30",
-      "team1": "RSW LIEGE BASKET",
-      "team2": "RBC HANEFFE",
-      "category": "U 8 - MM D",
-      "location": "RSW LIEGE BASKET",
       "other": ""
     },
     {

@@ -6,12 +6,22 @@
   },
   "events": [
     {
-      "code": "402103",
-      "date": "2026-11-07",
+      "code": "762034",
+      "date": "2026-11-29",
+      "time": "11:00",
+      "team1": "UN HUY BASKET",
+      "team2": "BC VERVIERS",
+      "category": "CPE PROV CADETS",
+      "location": "UN HUY BASKET",
+      "other": ""
+    },
+    {
+      "code": "760052",
+      "date": "2026-11-28",
       "time": "19:00",
       "team1": "BC VERVIERS B",
-      "team2": "BC BELLEFLAMME C",
-      "category": "MM - DIVISION 2 A",
+      "team2": "RBC VISE A",
+      "category": "CPE PROV MESSIEURS",
       "location": "BC VERVIERS B",
       "other": ""
     },
@@ -206,16 +216,6 @@
       "other": ""
     },
     {
-      "code": "403101",
-      "date": "2026-11-07",
-      "time": "21:00",
-      "team1": "RBC AWANS A",
-      "team2": "BC VERVIERS C",
-      "category": "MM - DIVISION 2 B",
-      "location": "RBC AWANS A",
-      "other": ""
-    },
-    {
       "code": "403113",
       "date": "2026-11-14",
       "time": "17:30",
@@ -393,16 +393,6 @@
       "team2": "RB TILFF B",
       "category": "MM - DIVISION 2 B",
       "location": "BC VERVIERS C",
-      "other": ""
-    },
-    {
-      "code": "406103",
-      "date": "2026-11-07",
-      "time": "17:00",
-      "team1": "BC VERVIERS D",
-      "team2": "R.UN.BELLAIRE B",
-      "category": "MM - DIVISION 3 C",
-      "location": "BC VERVIERS D",
       "other": ""
     },
     {
@@ -593,16 +583,6 @@
       "team2": "BC VERVIERS D",
       "category": "MM - DIVISION 3 C",
       "location": "RBC BLEGNY A",
-      "other": ""
-    },
-    {
-      "code": "AW100067",
-      "date": "2026-11-07",
-      "time": "21:00",
-      "team1": "BC VERVIERS A",
-      "team2": "RSW LIEGE BASKET A",
-      "category": "MM - REGIONALE 1",
-      "location": "BC VERVIERS A",
       "other": ""
     },
     {
@@ -813,16 +793,6 @@
       "team2": "BC VERVIERS A",
       "category": "MM - REGIONALE 1",
       "location": "BCCA NEUFCHATEAU",
-      "other": ""
-    },
-    {
-      "code": "524103",
-      "date": "2026-11-07",
-      "time": "12:30",
-      "team1": "BC VERVIERS",
-      "team2": "ROYAL SPA BC B",
-      "category": "U 10 - MM E",
-      "location": "BC VERVIERS",
       "other": ""
     },
     {
@@ -1106,16 +1076,6 @@
       "other": ""
     },
     {
-      "code": "431106",
-      "date": "2026-11-07",
-      "time": "15:00",
-      "team1": "RABC ENSIVAL",
-      "team2": "BC VERVIERS A",
-      "category": "U 18 - ELITES MM B",
-      "location": "RABC ENSIVAL",
-      "other": ""
-    },
-    {
       "code": "431114",
       "date": "2026-11-14",
       "time": "14:00",
@@ -1276,16 +1236,6 @@
       "other": ""
     },
     {
-      "code": "550101",
-      "date": "2026-11-07",
-      "time": "9:00",
-      "team1": "ROYAL HERVE-BATTICE B",
-      "team2": "BC VERVIERS",
-      "category": "U 7 - MM A",
-      "location": "ROYAL HERVE-BATTICE B",
-      "other": ""
-    },
-    {
       "code": "550113",
       "date": "2026-11-14",
       "time": "12:30",
@@ -1413,16 +1363,6 @@
       "team2": "PEPINSTER EAST BELG A",
       "category": "U 7 - MM A",
       "location": "BC VERVIERS",
-      "other": ""
-    },
-    {
-      "code": "540101",
-      "date": "2026-11-07",
-      "time": "9:00",
-      "team1": "RBC STAVELOT",
-      "team2": "BC VERVIERS",
-      "category": "U 8 - MM A",
-      "location": "RBC STAVELOT",
       "other": ""
     },
     {

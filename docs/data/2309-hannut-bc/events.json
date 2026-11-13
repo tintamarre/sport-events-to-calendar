@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "413104",
-      "date": "2026-11-08",
-      "time": "15:00",
-      "team1": "RABC ENSIVAL",
-      "team2": "HANNUT BC",
-      "category": "DD - DIVISION 1",
-      "location": "RABC ENSIVAL",
-      "other": ""
-    },
-    {
       "code": "413112",
       "date": "2026-11-14",
       "time": "19:00",
@@ -193,16 +183,6 @@
       "team2": "RBC ALLEUR C",
       "category": "DD - DIVISION 1",
       "location": "HANNUT BC",
-      "other": ""
-    },
-    {
-      "code": "401104",
-      "date": "2026-11-06",
-      "time": "21:00",
-      "team1": "ETOILE JUPILLE A",
-      "team2": "HANNUT BC A",
-      "category": "MM - DIVISION 1",
-      "location": "ETOILE JUPILLE A",
       "other": ""
     },
     {
@@ -386,16 +366,6 @@
       "other": ""
     },
     {
-      "code": "405104",
-      "date": "2026-11-07",
-      "time": "21:00",
-      "team1": "AVENIR JUPILLE A",
-      "team2": "HANNUT BC B",
-      "category": "MM - DIVISION 3 B",
-      "location": "AVENIR JUPILLE A",
-      "other": ""
-    },
-    {
       "code": "405112",
       "date": "2026-11-14",
       "time": "17:00",
@@ -576,16 +546,6 @@
       "other": ""
     },
     {
-      "code": "409104",
-      "date": "2026-11-08",
-      "time": "17:30",
-      "team1": "ETOILE JUPILLE C",
-      "team2": "HANNUT BC C",
-      "category": "MM - DIVISION 4 C",
-      "location": "ETOILE JUPILLE C",
-      "other": ""
-    },
-    {
       "code": "409112",
       "date": "2026-11-14",
       "time": "21:00",
@@ -746,16 +706,6 @@
       "other": ""
     },
     {
-      "code": "493105",
-      "date": "2026-11-07",
-      "time": "15:00",
-      "team1": "ORP JAUCHE",
-      "team2": "HANNUT BC",
-      "category": "U 14 - PROV MM D",
-      "location": "ORP JAUCHE",
-      "other": ""
-    },
-    {
       "code": "493123",
       "date": "2026-11-22",
       "time": "12:00",
@@ -866,16 +816,6 @@
       "other": ""
     },
     {
-      "code": "441105",
-      "date": "2026-11-07",
-      "time": "16:30",
-      "team1": "BCM HERSTAL",
-      "team2": "HANNUT BC",
-      "category": "U 18 - PROV MM B",
-      "location": "BCM HERSTAL",
-      "other": ""
-    },
-    {
       "code": "441112",
       "date": "2026-11-14",
       "time": "13:00",
@@ -927,8 +867,8 @@
     },
     {
       "code": "441201",
-      "date": "2027-01-17",
-      "time": "13:00",
+      "date": "2027-01-16",
+      "time": "16:00",
       "team1": "R.UN.BELLAIRE",
       "team2": "HANNUT BC",
       "category": "U 18 - PROV MM B",
@@ -1143,16 +1083,6 @@
       "team2": "RBC ESNEUX B",
       "category": "U 8 - MM E",
       "location": "HANNUT BC A",
-      "other": ""
-    },
-    {
-      "code": "545105",
-      "date": "2026-11-07",
-      "time": "11:00",
-      "team1": "ORP JAUCHE",
-      "team2": "HANNUT BC B",
-      "category": "U 8 - MM F",
-      "location": "ORP JAUCHE",
       "other": ""
     },
     {

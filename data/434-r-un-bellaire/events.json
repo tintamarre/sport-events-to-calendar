@@ -6,13 +6,23 @@
   },
   "events": [
     {
-      "code": "413103",
-      "date": "2026-11-07",
-      "time": "18:00",
+      "code": "760526",
+      "date": "2026-11-24",
+      "time": "20:15",
       "team1": "R.UN.BELLAIRE A",
-      "team2": "ATLAS A JUPILLE A",
-      "category": "DD - DIVISION 1",
+      "team2": "HENRI-CHAPELLE A",
+      "category": "CPE PROV DAMES",
       "location": "R.UN.BELLAIRE A",
+      "other": ""
+    },
+    {
+      "code": "760055",
+      "date": "2026-11-28",
+      "time": "20:30",
+      "team1": "HENRI-CHAPELLE A",
+      "team2": "R.UN.BELLAIRE A (+ 5)",
+      "category": "CPE PROV MESSIEURS",
+      "location": "HENRI-CHAPELLE A",
       "other": ""
     },
     {
@@ -196,16 +206,6 @@
       "other": ""
     },
     {
-      "code": "414101",
-      "date": "2026-11-06",
-      "time": "20:15",
-      "team1": "R.UN.BELLAIRE B",
-      "team2": "LA VILLERSOISE A",
-      "category": "DD - DIVISION 2 A",
-      "location": "R.UN.BELLAIRE B",
-      "other": ""
-    },
-    {
       "code": "414114",
       "date": "2026-11-15",
       "time": "17:00",
@@ -233,7 +233,7 @@
       "team2": "R.UN.BELLAIRE B",
       "category": "DD - DIVISION 2 A",
       "location": "CRISTAL SGH A",
-      "other": ""
+      "other": "(Salle de la Renaissance)"
     },
     {
       "code": "414146",
@@ -586,16 +586,6 @@
       "other": ""
     },
     {
-      "code": "406103",
-      "date": "2026-11-07",
-      "time": "17:00",
-      "team1": "BC VERVIERS D",
-      "team2": "R.UN.BELLAIRE B",
-      "category": "MM - DIVISION 3 C",
-      "location": "BC VERVIERS D",
-      "other": ""
-    },
-    {
       "code": "406111",
       "date": "2026-11-14",
       "time": "18:00",
@@ -786,16 +776,6 @@
       "other": ""
     },
     {
-      "code": "410101",
-      "date": "2026-11-08",
-      "time": "11:00",
-      "team1": "RBC AWANS D",
-      "team2": "R.UN.BELLAIRE D",
-      "category": "MM - DIVISION 4 D",
-      "location": "RBC AWANS D",
-      "other": ""
-    },
-    {
       "code": "410113",
       "date": "2026-11-13",
       "time": "20:15",
@@ -953,16 +933,6 @@
       "team2": "BC VERLAINE",
       "category": "MM - DIVISION 4 D",
       "location": "R.UN.BELLAIRE D",
-      "other": ""
-    },
-    {
-      "code": "411103",
-      "date": "2026-11-08",
-      "time": "17:00",
-      "team1": "THEUX BC D",
-      "team2": "R.UN.BELLAIRE C",
-      "category": "MM - DIVISION 4 E",
-      "location": "THEUX BC D",
       "other": ""
     },
     {
@@ -1246,16 +1216,6 @@
       "other": ""
     },
     {
-      "code": "526102",
-      "date": "2026-11-07",
-      "time": "12:00",
-      "team1": "R.UN.BELLAIRE B",
-      "team2": "PRAYON TROOZ",
-      "category": "U 10 - MM G",
-      "location": "R.UN.BELLAIRE B",
-      "other": ""
-    },
-    {
       "code": "526152",
       "date": "2026-12-12",
       "time": "13:30",
@@ -1353,16 +1313,6 @@
       "team2": "RBC AUBEL B",
       "category": "U 10 - MM G",
       "location": "R.UN.BELLAIRE B",
-      "other": ""
-    },
-    {
-      "code": "505101",
-      "date": "2026-11-07",
-      "time": "16:00",
-      "team1": "R.UN.BELLAIRE",
-      "team2": "PEPINSTER EAST BELG C",
-      "category": "U 12 - MM F",
-      "location": "R.UN.BELLAIRE",
       "other": ""
     },
     {
@@ -1516,16 +1466,6 @@
       "other": ""
     },
     {
-      "code": "470103",
-      "date": "2026-11-07",
-      "time": "16:00",
-      "team1": "R HT-PRE OUGREE",
-      "team2": "R.UN.BELLAIRE",
-      "category": "U 16 - PROV MM A",
-      "location": "R HT-PRE OUGREE",
-      "other": ""
-    },
-    {
       "code": "470111",
       "date": "2026-11-14",
       "time": "14:00",
@@ -1656,16 +1596,6 @@
       "other": ""
     },
     {
-      "code": "441103",
-      "date": "2026-11-07",
-      "time": "9:00",
-      "team1": "RABC ENSIVAL",
-      "team2": "R.UN.BELLAIRE",
-      "category": "U 18 - PROV MM B",
-      "location": "RABC ENSIVAL",
-      "other": ""
-    },
-    {
       "code": "441111",
       "date": "2026-11-14",
       "time": "16:00",
@@ -1717,8 +1647,8 @@
     },
     {
       "code": "441201",
-      "date": "2027-01-17",
-      "time": "13:00",
+      "date": "2027-01-16",
+      "time": "16:00",
       "team1": "R.UN.BELLAIRE",
       "team2": "HANNUT BC",
       "category": "U 18 - PROV MM B",
@@ -1803,16 +1733,6 @@
       "team2": "R.UN.BELLAIRE",
       "category": "U 18 - PROV MM B",
       "location": "BBC EUPEN",
-      "other": ""
-    },
-    {
-      "code": "543102",
-      "date": "2026-11-07",
-      "time": "10:30",
-      "team1": "R.UN.BELLAIRE",
-      "team2": "BC SPRIMONT A",
-      "category": "U 8 - MM D",
-      "location": "R.UN.BELLAIRE",
       "other": ""
     },
     {

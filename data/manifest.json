@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-06T02:02:04.147Z",
+  "lastUpdated": "2026-11-13T02:27:28.186Z",
   "clubs": [
     {
       "id": "709",
@@ -419,6 +419,7 @@
       "slug": "2458-bbc-eupen",
       "categories": [
         "CPE PROV CADETS",
+        "CPE PROV JUNIORS",
         "CPE PROV MESSIEURS",
         "MM - DIVISION 3 C",
         "MM - DIVISION 4 A",
@@ -442,6 +443,7 @@
       "csvPath": "/data/2458-bbc-eupen/2458-bbc-eupen.csv",
       "icsFiles": {
         "CPE PROV CADETS": "/data/2458-bbc-eupen/cpe-prov-cadets.ics",
+        "CPE PROV JUNIORS": "/data/2458-bbc-eupen/cpe-prov-juniors.ics",
         "CPE PROV MESSIEURS": "/data/2458-bbc-eupen/cpe-prov-messieurs.ics",
         "MM - DIVISION 3 C": "/data/2458-bbc-eupen/mm-division-3-c.ics",
         "MM - DIVISION 4 A": "/data/2458-bbc-eupen/mm-division-4-a.ics",
@@ -469,6 +471,7 @@
       "categories": [
         "AWBB DD - POULE H",
         "COUPE AWBB MESSIEURS",
+        "COUPE AWBB U12 - FILLES",
         "COUPE AWBB U12 -GARCONS",
         "COUPE AWBB U14 - FILLES",
         "COUPE AWBB U14 - GARCONS",
@@ -533,6 +536,7 @@
       "icsFiles": {
         "AWBB DD - POULE H": "/data/1058-bc-belleflamme/awbb-dd-poule-h.ics",
         "COUPE AWBB MESSIEURS": "/data/1058-bc-belleflamme/coupe-awbb-messieurs.ics",
+        "COUPE AWBB U12 - FILLES": "/data/1058-bc-belleflamme/coupe-awbb-u12-filles.ics",
         "COUPE AWBB U12 -GARCONS": "/data/1058-bc-belleflamme/coupe-awbb-u12-garcons.ics",
         "COUPE AWBB U14 - FILLES": "/data/1058-bc-belleflamme/coupe-awbb-u14-filles.ics",
         "COUPE AWBB U14 - GARCONS": "/data/1058-bc-belleflamme/coupe-awbb-u14-garcons.ics",
@@ -1962,6 +1966,7 @@
         "CPE PROV DAMES",
         "CPE PROV JUNIORS",
         "CPE PROV MESSIEURS",
+        "CPE PROV MINIMES DD",
         "CPE PROV MINIMES MM",
         "CPE PROV PUPILLES DD",
         "CPE PROV PUPILLES MM",
@@ -2013,6 +2018,7 @@
         "CPE PROV DAMES": "/data/1377-henri-chapelle/cpe-prov-dames.ics",
         "CPE PROV JUNIORS": "/data/1377-henri-chapelle/cpe-prov-juniors.ics",
         "CPE PROV MESSIEURS": "/data/1377-henri-chapelle/cpe-prov-messieurs.ics",
+        "CPE PROV MINIMES DD": "/data/1377-henri-chapelle/cpe-prov-minimes-dd.ics",
         "CPE PROV MINIMES MM": "/data/1377-henri-chapelle/cpe-prov-minimes-mm.ics",
         "CPE PROV PUPILLES DD": "/data/1377-henri-chapelle/cpe-prov-pupilles-dd.ics",
         "CPE PROV PUPILLES MM": "/data/1377-henri-chapelle/cpe-prov-pupilles-mm.ics",
@@ -3065,6 +3071,7 @@
         "COUPE AWBB U21 - GARCONS",
         "CPE PROV CADETS",
         "CPE PROV DAMES",
+        "CPE PROV JUNIORS",
         "CPE PROV MESSIEURS",
         "CPE PROV MINIMES MM",
         "CPE PROV PUPILLES MM",
@@ -3132,6 +3139,7 @@
         "COUPE AWBB U21 - GARCONS": "/data/1466-rbc-alleur/coupe-awbb-u21-garcons.ics",
         "CPE PROV CADETS": "/data/1466-rbc-alleur/cpe-prov-cadets.ics",
         "CPE PROV DAMES": "/data/1466-rbc-alleur/cpe-prov-dames.ics",
+        "CPE PROV JUNIORS": "/data/1466-rbc-alleur/cpe-prov-juniors.ics",
         "CPE PROV MESSIEURS": "/data/1466-rbc-alleur/cpe-prov-messieurs.ics",
         "CPE PROV MINIMES MM": "/data/1466-rbc-alleur/cpe-prov-minimes-mm.ics",
         "CPE PROV PUPILLES MM": "/data/1466-rbc-alleur/cpe-prov-pupilles-mm.ics",
@@ -3469,6 +3477,7 @@
         "CPE PROV DAMES",
         "CPE PROV JUNIORS",
         "CPE PROV MESSIEURS",
+        "CPE PROV MINIMES DD",
         "CPE PROV MINIMES MM",
         "CPE PROV PUPILLES DD",
         "CPE PROV PUPILLES MM",
@@ -3511,6 +3520,7 @@
         "CPE PROV DAMES": "/data/1215-rbc-dison-andrimont/cpe-prov-dames.ics",
         "CPE PROV JUNIORS": "/data/1215-rbc-dison-andrimont/cpe-prov-juniors.ics",
         "CPE PROV MESSIEURS": "/data/1215-rbc-dison-andrimont/cpe-prov-messieurs.ics",
+        "CPE PROV MINIMES DD": "/data/1215-rbc-dison-andrimont/cpe-prov-minimes-dd.ics",
         "CPE PROV MINIMES MM": "/data/1215-rbc-dison-andrimont/cpe-prov-minimes-mm.ics",
         "CPE PROV PUPILLES DD": "/data/1215-rbc-dison-andrimont/cpe-prov-pupilles-dd.ics",
         "CPE PROV PUPILLES MM": "/data/1215-rbc-dison-andrimont/cpe-prov-pupilles-mm.ics",
@@ -3814,6 +3824,7 @@
         "COUPE AWBB U18 - GARCONS",
         "COUPE AWBB U21 - GARCONS",
         "CPE PROV CADETS",
+        "CPE PROV CADETTES",
         "CPE PROV DAMES",
         "CPE PROV MESSIEURS",
         "CPE PROV MINIMES DD",
@@ -3879,6 +3890,7 @@
         "COUPE AWBB U18 - GARCONS": "/data/1245-rbc-vise/coupe-awbb-u18-garcons.ics",
         "COUPE AWBB U21 - GARCONS": "/data/1245-rbc-vise/coupe-awbb-u21-garcons.ics",
         "CPE PROV CADETS": "/data/1245-rbc-vise/cpe-prov-cadets.ics",
+        "CPE PROV CADETTES": "/data/1245-rbc-vise/cpe-prov-cadettes.ics",
         "CPE PROV DAMES": "/data/1245-rbc-vise/cpe-prov-dames.ics",
         "CPE PROV MESSIEURS": "/data/1245-rbc-vise/cpe-prov-messieurs.ics",
         "CPE PROV MINIMES DD": "/data/1245-rbc-vise/cpe-prov-minimes-dd.ics",

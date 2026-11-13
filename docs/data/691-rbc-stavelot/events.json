@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "415101",
-      "date": "2026-11-07",
-      "time": "17:00",
-      "team1": "RBC STAVELOT",
-      "team2": "RBC WELKENRAEDT",
-      "category": "DD - DIVISION 2 B",
-      "location": "RBC STAVELOT",
-      "other": ""
-    },
-    {
       "code": "415114",
       "date": "2026-11-15",
       "time": "13:00",
@@ -216,16 +206,6 @@
       "other": ""
     },
     {
-      "code": "401101",
-      "date": "2026-11-07",
-      "time": "21:00",
-      "team1": "RBC STAVELOT A",
-      "team2": "BC BELLEFLAMME B",
-      "category": "MM - DIVISION 1",
-      "location": "RBC STAVELOT A",
-      "other": ""
-    },
-    {
       "code": "401114",
       "date": "2026-11-15",
       "time": "15:00",
@@ -233,7 +213,7 @@
       "team2": "RBC STAVELOT A",
       "category": "MM - DIVISION 1",
       "location": "CRISTAL SGH A",
-      "other": "(piscine olympique)"
+      "other": "(Salle de la Renaissance)"
     },
     {
       "code": "401121",
@@ -406,16 +386,6 @@
       "other": ""
     },
     {
-      "code": "406101",
-      "date": "2026-11-07",
-      "time": "19:00",
-      "team1": "RBC STAVELOT B",
-      "team2": "RABC ENSIVAL C",
-      "category": "MM - DIVISION 3 C",
-      "location": "RBC STAVELOT B",
-      "other": ""
-    },
-    {
       "code": "406114",
       "date": "2026-11-15",
       "time": "13:00",
@@ -423,7 +393,7 @@
       "team2": "RBC STAVELOT B",
       "category": "MM - DIVISION 3 C",
       "location": "CRISTAL SGH B",
-      "other": "(piscine olympique)"
+      "other": "(Salle de la Renaissance)"
     },
     {
       "code": "406121",
@@ -603,16 +573,6 @@
       "team2": "RBC STAVELOT B",
       "category": "MM - DIVISION 3 C",
       "location": "BC SANKT VITH",
-      "other": ""
-    },
-    {
-      "code": "407114",
-      "date": "2026-11-14",
-      "time": "17:00",
-      "team1": "RABC ENSIVAL D",
-      "team2": "RBC STAVELOT C",
-      "category": "MM - DIVISION 4 A",
-      "location": "RABC ENSIVAL D",
       "other": ""
     },
     {
@@ -906,16 +866,6 @@
       "other": ""
     },
     {
-      "code": "506101",
-      "date": "2026-11-07",
-      "time": "9:00",
-      "team1": "RBC STAVELOT B",
-      "team2": "THEUX BC B",
-      "category": "U 12 - MM G",
-      "location": "RBC STAVELOT B",
-      "other": ""
-    },
-    {
       "code": "506112",
       "date": "2026-11-15",
       "time": "9:00",
@@ -1043,16 +993,6 @@
       "team2": "ROYAL HERVE-BATTICE D",
       "category": "U 12 - MM G",
       "location": "RBC STAVELOT B",
-      "other": ""
-    },
-    {
-      "code": "601101",
-      "date": "2026-11-07",
-      "time": "13:00",
-      "team1": "RBC STAVELOT",
-      "team2": "ROYAL HERVE-BATTICE",
-      "category": "U 14 - DD B",
-      "location": "RBC STAVELOT",
       "other": ""
     },
     {
@@ -1312,16 +1252,6 @@
       "team1": "RBC STAVELOT",
       "team2": "RBC ALLEUR B",
       "category": "U 14 - PROV MM C",
-      "location": "RBC STAVELOT",
-      "other": ""
-    },
-    {
-      "code": "450101",
-      "date": "2026-11-07",
-      "time": "15:00",
-      "team1": "RBC STAVELOT",
-      "team2": "ROYAL HERVE-BATTICE",
-      "category": "U 16 - ELITES MM A",
       "location": "RBC STAVELOT",
       "other": ""
     },
@@ -1603,16 +1533,6 @@
       "team2": "RBC STAVELOT",
       "category": "U 18 - PROV MM A",
       "location": "ROYAL SPA BC",
-      "other": ""
-    },
-    {
-      "code": "540101",
-      "date": "2026-11-07",
-      "time": "9:00",
-      "team1": "RBC STAVELOT",
-      "team2": "BC VERVIERS",
-      "category": "U 8 - MM A",
-      "location": "RBC STAVELOT",
       "other": ""
     },
     {

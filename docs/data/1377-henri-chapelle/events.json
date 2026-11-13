@@ -6,12 +6,52 @@
   },
   "events": [
     {
-      "code": "413101",
-      "date": "2026-11-08",
-      "time": "11:00",
+      "code": "760526",
+      "date": "2026-11-24",
+      "time": "20:15",
+      "team1": "R.UN.BELLAIRE A",
+      "team2": "HENRI-CHAPELLE A",
+      "category": "CPE PROV DAMES",
+      "location": "R.UN.BELLAIRE A",
+      "other": ""
+    },
+    {
+      "code": "760055",
+      "date": "2026-11-28",
+      "time": "20:30",
       "team1": "HENRI-CHAPELLE A",
-      "team2": "RBC ESNEUX B",
-      "category": "DD - DIVISION 1",
+      "team2": "R.UN.BELLAIRE A (+ 5)",
+      "category": "CPE PROV MESSIEURS",
+      "location": "HENRI-CHAPELLE A",
+      "other": ""
+    },
+    {
+      "code": "773010",
+      "date": "2026-11-28",
+      "time": "12:30",
+      "team1": "HENRI-CHAPELLE",
+      "team2": "ATLAS A JUPILLE",
+      "category": "CPE PROV MINIMES DD",
+      "location": "HENRI-CHAPELLE",
+      "other": ""
+    },
+    {
+      "code": "763039",
+      "date": "2026-11-28",
+      "time": "14:30",
+      "team1": "HENRI-CHAPELLE",
+      "team2": "LA VILLERSOISE",
+      "category": "CPE PROV MINIMES MM",
+      "location": "HENRI-CHAPELLE",
+      "other": ""
+    },
+    {
+      "code": "764042",
+      "date": "2026-11-28",
+      "time": "16:30",
+      "team1": "HENRI-CHAPELLE A",
+      "team2": "ETOILE JUPILLE",
+      "category": "CPE PROV PUPILLES MM",
       "location": "HENRI-CHAPELLE A",
       "other": ""
     },
@@ -193,16 +233,6 @@
       "team2": "HENRI-CHAPELLE A",
       "category": "DD - DIVISION 1",
       "location": "RBC BLEGNY A",
-      "other": ""
-    },
-    {
-      "code": "415107",
-      "date": "2026-11-07",
-      "time": "17:00",
-      "team1": "R 4A AYWAILLE-HAMOIR A",
-      "team2": "HENRI-CHAPELLE B",
-      "category": "DD - DIVISION 2 B",
-      "location": "R 4A AYWAILLE-HAMOIR A",
       "other": ""
     },
     {
@@ -396,26 +426,6 @@
       "other": ""
     },
     {
-      "code": "417101",
-      "date": "2026-11-07",
-      "time": "18:30",
-      "team1": "HENRI-CHAPELLE C",
-      "team2": "RBC ESNEUX C",
-      "category": "DD - DIVISION 3 B",
-      "location": "HENRI-CHAPELLE C",
-      "other": ""
-    },
-    {
-      "code": "417055",
-      "date": "2026-11-11",
-      "time": "15:00",
-      "team1": "BCM HERSTAL",
-      "team2": "HENRI-CHAPELLE C",
-      "category": "DD - DIVISION 3 B",
-      "location": "BCM HERSTAL",
-      "other": ""
-    },
-    {
       "code": "417112",
       "date": "2026-11-14",
       "time": "18:30",
@@ -453,6 +463,16 @@
       "team2": "HENRI-CHAPELLE C",
       "category": "DD - DIVISION 3 B",
       "location": "MAIL. COMBLAIN",
+      "other": ""
+    },
+    {
+      "code": "417055",
+      "date": "2026-12-12",
+      "time": "20:00",
+      "team1": "BCM HERSTAL",
+      "team2": "HENRI-CHAPELLE C",
+      "category": "DD - DIVISION 3 B",
+      "location": "BCM HERSTAL",
       "other": ""
     },
     {
@@ -563,16 +583,6 @@
       "team2": "RBC DISON-ANDRIMONT B",
       "category": "DD - DIVISION 3 B",
       "location": "HENRI-CHAPELLE C",
-      "other": ""
-    },
-    {
-      "code": "401105",
-      "date": "2026-11-06",
-      "time": "19:00",
-      "team1": "ESL UNITED C",
-      "team2": "HENRI-CHAPELLE A",
-      "category": "MM - DIVISION 1",
-      "location": "ESL UNITED C",
       "other": ""
     },
     {
@@ -753,16 +763,6 @@
       "team2": "RBC STAVELOT A",
       "category": "MM - DIVISION 1",
       "location": "HENRI-CHAPELLE A",
-      "other": ""
-    },
-    {
-      "code": "404105",
-      "date": "2026-11-07",
-      "time": "20:30",
-      "team1": "BCM HERSTAL A",
-      "team2": "HENRI-CHAPELLE B",
-      "category": "MM - DIVISION 3 A",
-      "location": "BCM HERSTAL A",
       "other": ""
     },
     {
@@ -956,16 +956,6 @@
       "other": ""
     },
     {
-      "code": "407107",
-      "date": "2026-11-07",
-      "time": "20:30",
-      "team1": "HENRI-CHAPELLE D",
-      "team2": "BBC EUPEN B",
-      "category": "MM - DIVISION 4 A",
-      "location": "HENRI-CHAPELLE D",
-      "other": ""
-    },
-    {
       "code": "407111",
       "date": "2026-11-14",
       "time": "17:00",
@@ -1126,16 +1116,6 @@
       "other": ""
     },
     {
-      "code": "410105",
-      "date": "2026-11-08",
-      "time": "10:00",
-      "team1": "BCM HERSTAL B",
-      "team2": "HENRI-CHAPELLE C",
-      "category": "MM - DIVISION 4 D",
-      "location": "BCM HERSTAL B",
-      "other": ""
-    },
-    {
       "code": "410117",
       "date": "2026-11-14",
       "time": "18:30",
@@ -1267,12 +1247,12 @@
     },
     {
       "code": "410297",
-      "date": "2027-03-20",
-      "time": "18:30",
-      "team1": "HENRI-CHAPELLE C",
-      "team2": "BCM HERSTAL B",
+      "date": "2027-03-21",
+      "time": "10:00",
+      "team1": "BCM HERSTAL B",
+      "team2": "HENRI-CHAPELLE C",
       "category": "MM - DIVISION 4 D",
-      "location": "HENRI-CHAPELLE C",
+      "location": "BCM HERSTAL B",
       "other": ""
     },
     {
@@ -1303,16 +1283,6 @@
       "team2": "RBC AWANS D",
       "category": "MM - DIVISION 4 D",
       "location": "HENRI-CHAPELLE C",
-      "other": ""
-    },
-    {
-      "code": "525101",
-      "date": "2026-11-07",
-      "time": "10:30",
-      "team1": "HENRI-CHAPELLE A",
-      "team2": "RBC ALLEUR A",
-      "category": "U 10 - MM F",
-      "location": "HENRI-CHAPELLE A",
       "other": ""
     },
     {
@@ -1576,16 +1546,6 @@
       "other": ""
     },
     {
-      "code": "501105",
-      "date": "2026-11-07",
-      "time": "10:30",
-      "team1": "BCM HERSTAL",
-      "team2": "HENRI-CHAPELLE A",
-      "category": "U 12 - MM B",
-      "location": "BCM HERSTAL",
-      "other": ""
-    },
-    {
       "code": "501117",
       "date": "2026-11-15",
       "time": "9:00",
@@ -1756,16 +1716,6 @@
       "other": ""
     },
     {
-      "code": "505103",
-      "date": "2026-11-07",
-      "time": "10:45",
-      "team1": "ROYAL ANS BC B",
-      "team2": "HENRI-CHAPELLE B",
-      "category": "U 12 - MM F",
-      "location": "ROYAL ANS BC B",
-      "other": ""
-    },
-    {
       "code": "505111",
       "date": "2026-11-15",
       "time": "11:00",
@@ -1906,16 +1856,6 @@
       "other": ""
     },
     {
-      "code": "506105",
-      "date": "2026-11-07",
-      "time": "10:45",
-      "team1": "RBC BLEGNY",
-      "team2": "HENRI-CHAPELLE C",
-      "category": "U 12 - MM G",
-      "location": "RBC BLEGNY",
-      "other": ""
-    },
-    {
       "code": "506112",
       "date": "2026-11-15",
       "time": "9:00",
@@ -2043,16 +1983,6 @@
       "team2": "HENRI-CHAPELLE C",
       "category": "U 12 - MM G",
       "location": "RABC ENSIVAL B",
-      "other": ""
-    },
-    {
-      "code": "480103",
-      "date": "2026-11-08",
-      "time": "15:00",
-      "team1": "HENRI-CHAPELLE B",
-      "team2": "BC SPRIMONT B",
-      "category": "U 14 - ELITES MM A",
-      "location": "HENRI-CHAPELLE B",
       "other": ""
     },
     {
@@ -2206,16 +2136,6 @@
       "other": ""
     },
     {
-      "code": "481103",
-      "date": "2026-11-08",
-      "time": "13:00",
-      "team1": "HENRI-CHAPELLE A",
-      "team2": "BC SPRIMONT A",
-      "category": "U 14 - ELITES MM B",
-      "location": "HENRI-CHAPELLE A",
-      "other": ""
-    },
-    {
       "code": "481111",
       "date": "2026-11-14",
       "time": "16:30",
@@ -2366,16 +2286,6 @@
       "other": ""
     },
     {
-      "code": "591105",
-      "date": "2026-11-07",
-      "time": "17:00",
-      "team1": "ORP JAUCHE",
-      "team2": "HENRI-CHAPELLE",
-      "category": "U 16 - DD B",
-      "location": "ORP JAUCHE",
-      "other": ""
-    },
-    {
       "code": "591112",
       "date": "2026-11-14",
       "time": "12:30",
@@ -2483,16 +2393,6 @@
       "team2": "RBC VISE",
       "category": "U 16 - DD B",
       "location": "HENRI-CHAPELLE",
-      "other": ""
-    },
-    {
-      "code": "450105",
-      "date": "2026-11-07",
-      "time": "14:30",
-      "team1": "RBC BLEGNY",
-      "team2": "HENRI-CHAPELLE",
-      "category": "U 16 - ELITES MM A",
-      "location": "RBC BLEGNY",
       "other": ""
     },
     {
@@ -2643,16 +2543,6 @@
       "team2": "ROYAL ANS BC",
       "category": "U 21 - MM",
       "location": "HENRI-CHAPELLE",
-      "other": ""
-    },
-    {
-      "code": "420131",
-      "date": "2026-11-28",
-      "time": "17:00",
-      "team1": "RBC AWANS",
-      "team2": "HENRI-CHAPELLE",
-      "category": "U 21 - MM",
-      "location": "RBC AWANS",
       "other": ""
     },
     {
@@ -2816,13 +2706,13 @@
       "other": ""
     },
     {
-      "code": "550104",
-      "date": "2026-11-07",
-      "time": "9:00",
-      "team1": "RBC AUBEL A",
-      "team2": "HENRI-CHAPELLE A",
-      "category": "U 7 - MM A",
-      "location": "RBC AUBEL A",
+      "code": "420131",
+      "date": "2027-04-25",
+      "time": "11:00",
+      "team1": "RBC AWANS",
+      "team2": "HENRI-CHAPELLE",
+      "category": "U 21 - MM",
+      "location": "RBC AWANS",
       "other": ""
     },
     {
@@ -2966,16 +2856,6 @@
       "other": ""
     },
     {
-      "code": "551104",
-      "date": "2026-11-07",
-      "time": "9:00",
-      "team1": "BC BELLEFLAMME B",
-      "team2": "HENRI-CHAPELLE B",
-      "category": "U 7 - MM B",
-      "location": "BC BELLEFLAMME B",
-      "other": ""
-    },
-    {
       "code": "551126",
       "date": "2026-11-22",
       "time": "9:00",
@@ -3103,16 +2983,6 @@
       "team2": "ALL. FLEMALLE",
       "category": "U 7 - MM B",
       "location": "HENRI-CHAPELLE B",
-      "other": ""
-    },
-    {
-      "code": "540106",
-      "date": "2026-11-08",
-      "time": "9:00",
-      "team1": "HENRI-CHAPELLE A",
-      "team2": "VAIL. JUPILLE A",
-      "category": "U 8 - MM A",
-      "location": "HENRI-CHAPELLE A",
       "other": ""
     },
     {
@@ -3263,16 +3133,6 @@
       "team2": "HENRI-CHAPELLE A",
       "category": "U 8 - MM A",
       "location": "RBC STAVELOT",
-      "other": ""
-    },
-    {
-      "code": "541101",
-      "date": "2026-11-07",
-      "time": "10:15",
-      "team1": "HENRI-CHAPELLE B",
-      "team2": "RBC ALLEUR",
-      "category": "U 8 - MM B",
-      "location": "HENRI-CHAPELLE B",
       "other": ""
     },
     {
