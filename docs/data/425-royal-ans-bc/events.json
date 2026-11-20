@@ -16,16 +16,6 @@
       "other": ""
     },
     {
-      "code": "415112",
-      "date": "2026-11-15",
-      "time": "12:00",
-      "team1": "ROYAL BC NINANE A",
-      "team2": "ROYAL ANS BC",
-      "category": "DD - DIVISION 2 B",
-      "location": "ROYAL BC NINANE A",
-      "other": ""
-    },
-    {
       "code": "415123",
       "date": "2026-11-22",
       "time": "13:00",
@@ -216,16 +206,6 @@
       "other": ""
     },
     {
-      "code": "408112",
-      "date": "2026-11-15",
-      "time": "15:30",
-      "team1": "HARIMALIA BC D",
-      "team2": "ROYAL ANS BC A",
-      "category": "MM - DIVISION 4 B",
-      "location": "HARIMALIA BC D",
-      "other": ""
-    },
-    {
       "code": "408123",
       "date": "2026-11-22",
       "time": "15:00",
@@ -396,16 +376,6 @@
       "other": ""
     },
     {
-      "code": "412112",
-      "date": "2026-11-14",
-      "time": "21:00",
-      "team1": "RBC WELKENRAEDT B",
-      "team2": "ROYAL ANS BC B",
-      "category": "MM - DIVISION 4 F",
-      "location": "RBC WELKENRAEDT B",
-      "other": ""
-    },
-    {
       "code": "412123",
       "date": "2026-11-21",
       "time": "20:00",
@@ -556,16 +526,6 @@
       "other": ""
     },
     {
-      "code": "522114",
-      "date": "2026-11-15",
-      "time": "9:00",
-      "team1": "ROYAL BC WANZE A",
-      "team2": "ROYAL ANS BC A",
-      "category": "U 10 - MM C",
-      "location": "ROYAL BC WANZE A",
-      "other": ""
-    },
-    {
       "code": "522123",
       "date": "2026-11-21",
       "time": "10:45",
@@ -706,16 +666,6 @@
       "other": ""
     },
     {
-      "code": "523113",
-      "date": "2026-11-14",
-      "time": "9:00",
-      "team1": "ROYAL ANS BC B",
-      "team2": "BC VERLAINE A",
-      "category": "U 10 - MM D",
-      "location": "ROYAL ANS BC B",
-      "other": ""
-    },
-    {
       "code": "523122",
       "date": "2026-11-21",
       "time": "14:00",
@@ -833,16 +783,6 @@
       "team2": "ROYAL ANS BC B",
       "category": "U 10 - MM D",
       "location": "RB TILFF C",
-      "other": ""
-    },
-    {
-      "code": "505114",
-      "date": "2026-11-14",
-      "time": "13:00",
-      "team1": "CRISTAL SGH C",
-      "team2": "ROYAL ANS BC B",
-      "category": "U 12 - MM F",
-      "location": "CRISTAL SGH C",
       "other": ""
     },
     {
@@ -976,16 +916,6 @@
       "other": ""
     },
     {
-      "code": "507114",
-      "date": "2026-11-14",
-      "time": "10:45",
-      "team1": "ROYAL ANS BC C",
-      "team2": "LA VILLERSOISE C",
-      "category": "U 12 - MM H",
-      "location": "ROYAL ANS BC C",
-      "other": ""
-    },
-    {
       "code": "507144",
       "date": "2026-12-05",
       "time": "10:45",
@@ -1083,16 +1013,6 @@
       "team2": "ROYAL ANS BC C",
       "category": "U 12 - MM H",
       "location": "RBC ALLEUR D",
-      "other": ""
-    },
-    {
-      "code": "481115",
-      "date": "2026-11-14",
-      "time": "10:45",
-      "team1": "ROYAL ANS BC",
-      "team2": "ALL. FLEMALLE A",
-      "category": "U 14 - ELITES MM B",
-      "location": "ROYAL ANS BC",
       "other": ""
     },
     {
@@ -1223,16 +1143,6 @@
       "team2": "ROYAL ANS BC",
       "category": "U 14 - ELITES MM B",
       "location": "BC SPRIMONT A",
-      "other": ""
-    },
-    {
-      "code": "471113",
-      "date": "2026-11-15",
-      "time": "17:00",
-      "team1": "ROYAL ANS BC",
-      "team2": "MAIL. COMBLAIN",
-      "category": "U 16 - PROV MM B",
-      "location": "ROYAL ANS BC",
       "other": ""
     },
     {
@@ -1466,16 +1376,6 @@
       "other": ""
     },
     {
-      "code": "420113",
-      "date": "2026-11-15",
-      "time": "15:00",
-      "team1": "ROYAL ANS BC",
-      "team2": "THEUX BC",
-      "category": "U 21 - MM",
-      "location": "ROYAL ANS BC",
-      "other": ""
-    },
-    {
       "code": "420127",
       "date": "2026-11-21",
       "time": "16:30",
@@ -1486,16 +1386,6 @@
       "other": ""
     },
     {
-      "code": "420137",
-      "date": "2026-11-28",
-      "time": "15:00",
-      "team1": "R 4A AYWAILLE-HAMOIR",
-      "team2": "ROYAL ANS BC",
-      "category": "U 21 - MM",
-      "location": "R 4A AYWAILLE-HAMOIR",
-      "other": ""
-    },
-    {
       "code": "420143",
       "date": "2026-12-06",
       "time": "17:00",
@@ -1503,6 +1393,16 @@
       "team2": "RBC AWANS",
       "category": "U 21 - MM",
       "location": "ROYAL ANS BC",
+      "other": ""
+    },
+    {
+      "code": "420137",
+      "date": "2026-12-11",
+      "time": "20:30",
+      "team1": "R 4A AYWAILLE-HAMOIR",
+      "team2": "ROYAL ANS BC",
+      "category": "U 21 - MM",
+      "location": "R 4A AYWAILLE-HAMOIR",
       "other": ""
     },
     {
@@ -1796,16 +1696,6 @@
       "other": ""
     },
     {
-      "code": "542113",
-      "date": "2026-11-14",
-      "time": "9:00",
-      "team1": "ROYAL ANS BC",
-      "team2": "BC BELLEFLAMME",
-      "category": "U 8 - MM C",
-      "location": "ROYAL ANS BC",
-      "other": ""
-    },
-    {
       "code": "542122",
       "date": "2026-11-21",
       "time": "10:30",
@@ -1833,7 +1723,7 @@
       "team2": "ROYAL ANS BC",
       "category": "U 8 - MM C",
       "location": "CRISTAL SGH A",
-      "other": ""
+      "other": "(Ho 18 bonniers GH)"
     },
     {
       "code": "542193",

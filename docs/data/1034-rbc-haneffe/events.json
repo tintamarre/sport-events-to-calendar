@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "413116",
-      "date": "2026-11-14",
-      "time": "17:00",
-      "team1": "ROYAL HERVE-BATTICE C",
-      "team2": "RBC HANEFFE B",
-      "category": "DD - DIVISION 1",
-      "location": "ROYAL HERVE-BATTICE C",
-      "other": ""
-    },
-    {
       "code": "413125",
       "date": "2026-11-22",
       "time": "15:00",
@@ -183,16 +173,6 @@
       "team2": "R.UN.BELLAIRE A",
       "category": "DD - DIVISION 1",
       "location": "RBC HANEFFE B",
-      "other": ""
-    },
-    {
-      "code": "415116",
-      "date": "2026-11-15",
-      "time": "11:00",
-      "team1": "HENRI-CHAPELLE B",
-      "team2": "RBC HANEFFE C",
-      "category": "DD - DIVISION 2 B",
-      "location": "HENRI-CHAPELLE B",
       "other": ""
     },
     {
@@ -376,16 +356,6 @@
       "other": ""
     },
     {
-      "code": "418111",
-      "date": "2026-11-15",
-      "time": "14:00",
-      "team1": "RBC HANEFFE D",
-      "team2": "ROYAL BC NINANE B",
-      "category": "DD - DIVISION 3 C",
-      "location": "RBC HANEFFE D",
-      "other": ""
-    },
-    {
       "code": "418122",
       "date": "2026-11-22",
       "time": "12:00",
@@ -503,16 +473,6 @@
       "team2": "RBC HANEFFE D",
       "category": "DD - DIVISION 3 C",
       "location": "R HT-PRE OUGREE B",
-      "other": ""
-    },
-    {
-      "code": "AW105048",
-      "date": "2026-11-15",
-      "time": "13:15",
-      "team1": "CENTRE GAUME TINTIGNY",
-      "team2": "RBC HANEFFE A",
-      "category": "DD - REGIONALE 2 A",
-      "location": "CENTRE GAUME TINTIGNY",
       "other": ""
     },
     {
@@ -653,16 +613,6 @@
       "team2": "ENTITE COURCELLES",
       "category": "DD - REGIONALE 2 A",
       "location": "RBC HANEFFE A",
-      "other": ""
-    },
-    {
-      "code": "403117",
-      "date": "2026-11-14",
-      "time": "21:00",
-      "team1": "BC SPRIMONT C",
-      "team2": "RBC HANEFFE A",
-      "category": "MM - DIVISION 2 B",
-      "location": "BC SPRIMONT C",
       "other": ""
     },
     {
@@ -833,16 +783,6 @@
       "team2": "RBC HANEFFE A",
       "category": "MM - DIVISION 2 B",
       "location": "RBC DISON-ANDRIMONT A",
-      "other": ""
-    },
-    {
-      "code": "411116",
-      "date": "2026-11-15",
-      "time": "12:00",
-      "team1": "RBC HANEFFE B",
-      "team2": "RB TILFF D",
-      "category": "MM - DIVISION 4 E",
-      "location": "RBC HANEFFE B",
       "other": ""
     },
     {
@@ -1043,7 +983,7 @@
       "team2": "RBC HANEFFE A",
       "category": "U 10 - MM H",
       "location": "CRISTAL SGH B",
-      "other": ""
+      "other": "(Ho 18 bonniers GH)"
     },
     {
       "code": "527193",
@@ -1143,16 +1083,6 @@
       "team2": "GIANTS BRAIVES A",
       "category": "U 10 - MM H",
       "location": "RBC HANEFFE A",
-      "other": ""
-    },
-    {
-      "code": "528113",
-      "date": "2026-11-14",
-      "time": "14:00",
-      "team1": "RBC HANEFFE B",
-      "team2": "ABC WAREMME B",
-      "category": "U 10 - MM I",
-      "location": "RBC HANEFFE B",
       "other": ""
     },
     {
@@ -1263,16 +1193,6 @@
       "team2": "RBC HANEFFE B",
       "category": "U 10 - MM I",
       "location": "ORP JAUCHE",
-      "other": ""
-    },
-    {
-      "code": "503114",
-      "date": "2026-11-15",
-      "time": "13:00",
-      "team1": "GIANTS BRAIVES B",
-      "team2": "RBC HANEFFE",
-      "category": "U 12 - MM D",
-      "location": "GIANTS BRAIVES B",
       "other": ""
     },
     {
@@ -1416,16 +1336,6 @@
       "other": ""
     },
     {
-      "code": "AW133022",
-      "date": "2026-11-14",
-      "time": "9:00",
-      "team1": "ABC WAREMME",
-      "team2": "RBC HANEFFE",
-      "category": "U 14 - SILVER REGIONAUX B",
-      "location": "ABC WAREMME",
-      "other": ""
-    },
-    {
       "code": "AW133027",
       "date": "2026-11-21",
       "time": "11:00",
@@ -1483,16 +1393,6 @@
       "team2": "RBC HANEFFE",
       "category": "U 16 - SILVER REGIONAUX A",
       "location": "ECOLE EUROPEENNE",
-      "other": ""
-    },
-    {
-      "code": "552111",
-      "date": "2026-11-14",
-      "time": "11:00",
-      "team1": "RBC HANEFFE B",
-      "team2": "BC COINTE A",
-      "category": "U 7 - MM C",
-      "location": "RBC HANEFFE B",
       "other": ""
     },
     {
@@ -1613,16 +1513,6 @@
       "team2": "RB TILFF",
       "category": "U 7 - MM C",
       "location": "RBC HANEFFE B",
-      "other": ""
-    },
-    {
-      "code": "553113",
-      "date": "2026-11-14",
-      "time": "11:00",
-      "team1": "RBC HANEFFE",
-      "team2": "BC VERLAINE",
-      "category": "U 7 - MM D",
-      "location": "RBC HANEFFE",
       "other": ""
     },
     {
@@ -1763,16 +1653,6 @@
       "team2": "RBC HANEFFE",
       "category": "U 7 - MM D",
       "location": "ROYAL ANS BC",
-      "other": ""
-    },
-    {
-      "code": "543113",
-      "date": "2026-11-14",
-      "time": "12:30",
-      "team1": "RBC HANEFFE",
-      "team2": "MAIL. COMBLAIN",
-      "category": "U 8 - MM D",
-      "location": "RBC HANEFFE",
       "other": ""
     },
     {

@@ -6,6 +6,16 @@
   },
   "events": [
     {
+      "code": "AW237010",
+      "date": "2026-11-29",
+      "time": "13:00",
+      "team1": "R.UN.BELLAIRE",
+      "team2": "RE PONT-DE-LOUP A",
+      "category": "COUPE AWBB DAMES",
+      "location": "R.UN.BELLAIRE",
+      "other": ""
+    },
+    {
       "code": "760526",
       "date": "2026-11-24",
       "time": "20:15",
@@ -23,16 +33,6 @@
       "team2": "R.UN.BELLAIRE A (+ 5)",
       "category": "CPE PROV MESSIEURS",
       "location": "HENRI-CHAPELLE A",
-      "other": ""
-    },
-    {
-      "code": "413112",
-      "date": "2026-11-14",
-      "time": "19:00",
-      "team1": "HANNUT BC",
-      "team2": "R.UN.BELLAIRE A",
-      "category": "DD - DIVISION 1",
-      "location": "HANNUT BC",
       "other": ""
     },
     {
@@ -206,16 +206,6 @@
       "other": ""
     },
     {
-      "code": "414114",
-      "date": "2026-11-15",
-      "time": "17:00",
-      "team1": "PRAYON TROOZ B",
-      "team2": "R.UN.BELLAIRE B",
-      "category": "DD - DIVISION 2 A",
-      "location": "PRAYON TROOZ B",
-      "other": ""
-    },
-    {
       "code": "414121",
       "date": "2026-11-22",
       "time": "11:00",
@@ -228,7 +218,7 @@
     {
       "code": "414055",
       "date": "2026-11-29",
-      "time": "13:00",
+      "time": "17:00",
       "team1": "CRISTAL SGH A",
       "team2": "R.UN.BELLAIRE B",
       "category": "DD - DIVISION 2 A",
@@ -383,26 +373,6 @@
       "team2": "R.UN.BELLAIRE B",
       "category": "DD - DIVISION 2 A",
       "location": "RBC VISE A",
-      "other": ""
-    },
-    {
-      "code": "403112",
-      "date": "2026-11-15",
-      "time": "13:30",
-      "team1": "HARIMALIA BC A",
-      "team2": "R.UN.BELLAIRE A",
-      "category": "MM - DIVISION 2 B",
-      "location": "HARIMALIA BC A",
-      "other": ""
-    },
-    {
-      "code": "403155",
-      "date": "2026-11-18",
-      "time": "20:30",
-      "team1": "RB TILFF B",
-      "team2": "R.UN.BELLAIRE A",
-      "category": "MM - DIVISION 2 B",
-      "location": "RB TILFF B",
       "other": ""
     },
     {
@@ -586,16 +556,6 @@
       "other": ""
     },
     {
-      "code": "406111",
-      "date": "2026-11-14",
-      "time": "18:00",
-      "team1": "R.UN.BELLAIRE B",
-      "team2": "FLERON BBC B",
-      "category": "MM - DIVISION 3 C",
-      "location": "R.UN.BELLAIRE B",
-      "other": ""
-    },
-    {
       "code": "406126",
       "date": "2026-11-22",
       "time": "14:00",
@@ -630,7 +590,7 @@
       "date": "2026-12-12",
       "time": "20:00",
       "team1": "R.UN.BELLAIRE B",
-      "team2": "BC SANKT VITH",
+      "team2": "KBC SANKT VITH",
       "category": "MM - DIVISION 3 C",
       "location": "R.UN.BELLAIRE B",
       "other": ""
@@ -749,10 +709,10 @@
       "code": "406337",
       "date": "2027-04-02",
       "time": "21:00",
-      "team1": "BC SANKT VITH",
+      "team1": "KBC SANKT VITH",
       "team2": "R.UN.BELLAIRE B",
       "category": "MM - DIVISION 3 C",
-      "location": "BC SANKT VITH",
+      "location": "KBC SANKT VITH",
       "other": ""
     },
     {
@@ -773,16 +733,6 @@
       "team2": "RBC BLEGNY A",
       "category": "MM - DIVISION 3 C",
       "location": "R.UN.BELLAIRE B",
-      "other": ""
-    },
-    {
-      "code": "410113",
-      "date": "2026-11-13",
-      "time": "20:15",
-      "team1": "R.UN.BELLAIRE D",
-      "team2": "RBC VISE D",
-      "category": "MM - DIVISION 4 D",
-      "location": "R.UN.BELLAIRE D",
       "other": ""
     },
     {
@@ -1086,16 +1036,6 @@
       "other": ""
     },
     {
-      "code": "523111",
-      "date": "2026-11-15",
-      "time": "9:00",
-      "team1": "ATLAS A JUPILLE",
-      "team2": "R.UN.BELLAIRE A",
-      "category": "U 10 - MM D",
-      "location": "ATLAS A JUPILLE",
-      "other": ""
-    },
-    {
       "code": "523122",
       "date": "2026-11-21",
       "time": "14:00",
@@ -1316,16 +1256,6 @@
       "other": ""
     },
     {
-      "code": "505112",
-      "date": "2026-11-14",
-      "time": "10:30",
-      "team1": "BC BELLEFLAMME C",
-      "team2": "R.UN.BELLAIRE",
-      "category": "U 12 - MM F",
-      "location": "BC BELLEFLAMME C",
-      "other": ""
-    },
-    {
       "code": "505121",
       "date": "2026-11-21",
       "time": "16:00",
@@ -1466,16 +1396,6 @@
       "other": ""
     },
     {
-      "code": "470111",
-      "date": "2026-11-14",
-      "time": "14:00",
-      "team1": "R.UN.BELLAIRE",
-      "team2": "DF BC MALMEDY",
-      "category": "U 16 - PROV MM A",
-      "location": "R.UN.BELLAIRE",
-      "other": ""
-    },
-    {
       "code": "470125",
       "date": "2026-11-21",
       "time": "11:00",
@@ -1592,16 +1512,6 @@
       "team1": "R.UN.BELLAIRE",
       "team2": "PRAYON TROOZ",
       "category": "U 16 - PROV MM A",
-      "location": "R.UN.BELLAIRE",
-      "other": ""
-    },
-    {
-      "code": "441111",
-      "date": "2026-11-14",
-      "time": "16:00",
-      "team1": "R.UN.BELLAIRE",
-      "team2": "ALL. FLEMALLE B",
-      "category": "U 18 - PROV MM B",
       "location": "R.UN.BELLAIRE",
       "other": ""
     },
@@ -1733,16 +1643,6 @@
       "team2": "R.UN.BELLAIRE",
       "category": "U 18 - PROV MM B",
       "location": "BBC EUPEN",
-      "other": ""
-    },
-    {
-      "code": "543111",
-      "date": "2026-11-14",
-      "time": "9:00",
-      "team1": "VAIL. JUPILLE B",
-      "team2": "R.UN.BELLAIRE",
-      "category": "U 8 - MM D",
-      "location": "VAIL. JUPILLE B",
       "other": ""
     },
     {

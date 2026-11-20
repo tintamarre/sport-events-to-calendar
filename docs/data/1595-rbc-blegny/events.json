@@ -16,16 +16,6 @@
       "other": ""
     },
     {
-      "code": "413117",
-      "date": "2026-11-13",
-      "time": "21:00",
-      "team1": "RBC BLEGNY A",
-      "team2": "RABC ENSIVAL",
-      "category": "DD - DIVISION 1",
-      "location": "RBC BLEGNY A",
-      "other": ""
-    },
-    {
       "code": "413122",
       "date": "2026-11-20",
       "time": "21:00",
@@ -193,16 +183,6 @@
       "team2": "HENRI-CHAPELLE A",
       "category": "DD - DIVISION 1",
       "location": "RBC BLEGNY A",
-      "other": ""
-    },
-    {
-      "code": "414117",
-      "date": "2026-11-14",
-      "time": "19:00",
-      "team1": "RBC VISE A",
-      "team2": "RBC BLEGNY B",
-      "category": "DD - DIVISION 2 A",
-      "location": "RBC VISE A",
       "other": ""
     },
     {
@@ -376,16 +356,6 @@
       "other": ""
     },
     {
-      "code": "418114",
-      "date": "2026-11-14",
-      "time": "19:00",
-      "team1": "RBC BLEGNY C",
-      "team2": "REBOND NEUVILLE",
-      "category": "DD - DIVISION 3 C",
-      "location": "RBC BLEGNY C",
-      "other": ""
-    },
-    {
       "code": "418123",
       "date": "2026-11-22",
       "time": "11:00",
@@ -516,16 +486,6 @@
       "other": ""
     },
     {
-      "code": "405115",
-      "date": "2026-11-13",
-      "time": "19:00",
-      "team1": "RBC BLEGNY B",
-      "team2": "ALL. FLEMALLE B",
-      "category": "MM - DIVISION 3 B",
-      "location": "RBC BLEGNY B",
-      "other": ""
-    },
-    {
       "code": "405125",
       "date": "2026-11-22",
       "time": "13:30",
@@ -557,8 +517,8 @@
     },
     {
       "code": "405161",
-      "date": "2026-12-19",
-      "time": "21:00",
+      "date": "2026-12-22",
+      "time": "20:00",
       "team1": "RBC VISE C",
       "team2": "RBC BLEGNY B",
       "category": "MM - DIVISION 3 B",
@@ -696,16 +656,6 @@
       "other": ""
     },
     {
-      "code": "406116",
-      "date": "2026-11-15",
-      "time": "14:00",
-      "team1": "BBC EUPEN A",
-      "team2": "RBC BLEGNY A",
-      "category": "MM - DIVISION 3 C",
-      "location": "BBC EUPEN A",
-      "other": ""
-    },
-    {
       "code": "406125",
       "date": "2026-11-20",
       "time": "21:00",
@@ -839,10 +789,10 @@
       "code": "406297",
       "date": "2027-03-19",
       "time": "21:00",
-      "team1": "BC SANKT VITH",
+      "team1": "KBC SANKT VITH",
       "team2": "RBC BLEGNY A",
       "category": "MM - DIVISION 3 C",
-      "location": "BC SANKT VITH",
+      "location": "KBC SANKT VITH",
       "other": ""
     },
     {
@@ -883,16 +833,6 @@
       "team2": "BC VERVIERS D",
       "category": "MM - DIVISION 3 C",
       "location": "RBC BLEGNY A",
-      "other": ""
-    },
-    {
-      "code": "410117",
-      "date": "2026-11-14",
-      "time": "18:30",
-      "team1": "HENRI-CHAPELLE C",
-      "team2": "RBC BLEGNY C",
-      "category": "MM - DIVISION 4 D",
-      "location": "HENRI-CHAPELLE C",
       "other": ""
     },
     {
@@ -1036,16 +976,6 @@
       "other": ""
     },
     {
-      "code": "524116",
-      "date": "2026-11-15",
-      "time": "11:00",
-      "team1": "ROYAL HERVE-BATTICE C",
-      "team2": "RBC BLEGNY A",
-      "category": "U 10 - MM E",
-      "location": "ROYAL HERVE-BATTICE C",
-      "other": ""
-    },
-    {
       "code": "524125",
       "date": "2026-11-21",
       "time": "09:00",
@@ -1153,16 +1083,6 @@
       "team2": "RBC BLEGNY A",
       "category": "U 10 - MM E",
       "location": "ROYAL SPA BC B",
-      "other": ""
-    },
-    {
-      "code": "525115",
-      "date": "2026-11-14",
-      "time": "11:45",
-      "team1": "RBC BLEGNY B",
-      "team2": "FLERON BBC",
-      "category": "U 10 - MM F",
-      "location": "RBC BLEGNY B",
       "other": ""
     },
     {
@@ -1286,21 +1206,11 @@
       "other": ""
     },
     {
-      "code": "506116",
-      "date": "2026-11-14",
-      "time": "14:00",
-      "team1": "BBC EUPEN",
-      "team2": "RBC BLEGNY",
-      "category": "U 12 - MM G",
-      "location": "BBC EUPEN",
-      "other": ""
-    },
-    {
       "code": "506125",
       "date": "2026-11-21",
       "time": "10:45",
       "team1": "RBC BLEGNY",
-      "team2": "BC SANKT VITH",
+      "team2": "KBC SANKT VITH",
       "category": "U 12 - MM G",
       "location": "RBC BLEGNY",
       "other": ""
@@ -1409,10 +1319,10 @@
       "code": "506321",
       "date": "2027-04-10",
       "time": "13:00",
-      "team1": "BC SANKT VITH",
+      "team1": "KBC SANKT VITH",
       "team2": "RBC BLEGNY",
       "category": "U 12 - MM G",
-      "location": "BC SANKT VITH",
+      "location": "KBC SANKT VITH",
       "other": ""
     },
     {
@@ -1422,16 +1332,6 @@
       "team1": "RBC BLEGNY",
       "team2": "THEUX BC B",
       "category": "U 12 - MM G",
-      "location": "RBC BLEGNY",
-      "other": ""
-    },
-    {
-      "code": "601114",
-      "date": "2026-11-14",
-      "time": "17:00",
-      "team1": "RBC BLEGNY",
-      "team2": "RABC ENSIVAL",
-      "category": "U 14 - DD B",
       "location": "RBC BLEGNY",
       "other": ""
     },
@@ -1556,16 +1456,6 @@
       "other": ""
     },
     {
-      "code": "491114",
-      "date": "2026-11-14",
-      "time": "11:00",
-      "team1": "RBC VISE B",
-      "team2": "RBC BLEGNY",
-      "category": "U 14 - PROV MM B",
-      "location": "RBC VISE B",
-      "other": ""
-    },
-    {
       "code": "491123",
       "date": "2026-11-21",
       "time": "12:30",
@@ -1686,16 +1576,6 @@
       "other": ""
     },
     {
-      "code": "591115",
-      "date": "2026-11-14",
-      "time": "13:30",
-      "team1": "RBC BLEGNY",
-      "team2": "ALL. FLEMALLE B",
-      "category": "U 16 - DD B",
-      "location": "RBC BLEGNY",
-      "other": ""
-    },
-    {
       "code": "591121",
       "date": "2026-11-21",
       "time": "17:00",
@@ -1803,16 +1683,6 @@
       "team2": "ATLAS A JUPILLE",
       "category": "U 16 - DD B",
       "location": "RBC BLEGNY",
-      "other": ""
-    },
-    {
-      "code": "450116",
-      "date": "2026-11-14",
-      "time": "17:00",
-      "team1": "BC SPRIMONT",
-      "team2": "RBC BLEGNY",
-      "category": "U 16 - ELITES MM A",
-      "location": "BC SPRIMONT",
       "other": ""
     },
     {
@@ -1942,16 +1812,6 @@
       "team1": "RBC BLEGNY",
       "team2": "ROYAL HERVE-BATTICE",
       "category": "U 16 - ELITES MM A",
-      "location": "RBC BLEGNY",
-      "other": ""
-    },
-    {
-      "code": "551115",
-      "date": "2026-11-14",
-      "time": "09:00",
-      "team1": "RBC BLEGNY",
-      "team2": "R 4A AYWAILLE-HAMOIR B",
-      "category": "U 7 - MM B",
       "location": "RBC BLEGNY",
       "other": ""
     },
@@ -2093,16 +1953,6 @@
       "team2": "RBC BLEGNY",
       "category": "U 7 - MM B",
       "location": "ROYAL HERVE-BATTICE A",
-      "other": ""
-    },
-    {
-      "code": "540115",
-      "date": "2026-11-14",
-      "time": "10:15",
-      "team1": "RBC BLEGNY",
-      "team2": "HENRI-CHAPELLE A",
-      "category": "U 8 - MM A",
-      "location": "RBC BLEGNY",
       "other": ""
     },
     {

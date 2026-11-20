@@ -6,6 +6,16 @@
   },
   "events": [
     {
+      "code": "AW237009",
+      "date": "2026-11-29",
+      "time": "17:00",
+      "team1": "BC BONINNE A",
+      "team2": "UN HUY BASKET A",
+      "category": "COUPE AWBB DAMES",
+      "location": "BC BONINNE A",
+      "other": ""
+    },
+    {
       "code": "762034",
       "date": "2026-11-29",
       "time": "11:00",
@@ -23,16 +33,6 @@
       "team2": "UN HUY BASKET",
       "category": "CPE PROV MINIMES DD",
       "location": "CRISTAL SGH",
-      "other": ""
-    },
-    {
-      "code": "416113",
-      "date": "2026-11-15",
-      "time": "15:30",
-      "team1": "ETOILE JUPILLE",
-      "team2": "UN HUY BASKET C",
-      "category": "DD - DIVISION 3 A",
-      "location": "ETOILE JUPILLE",
       "other": ""
     },
     {
@@ -756,16 +756,6 @@
       "other": ""
     },
     {
-      "code": "528114",
-      "date": "2026-11-15",
-      "time": "9:00",
-      "team1": "ROYAL BC WANZE B",
-      "team2": "UN HUY BASKET A",
-      "category": "U 10 - MM I",
-      "location": "ROYAL BC WANZE B",
-      "other": ""
-    },
-    {
       "code": "528123",
       "date": "2026-11-21",
       "time": "9:00",
@@ -883,16 +873,6 @@
       "team2": "RBC ESNEUX B",
       "category": "U 10 - MM I",
       "location": "UN HUY BASKET A",
-      "other": ""
-    },
-    {
-      "code": "501113",
-      "date": "2026-11-14",
-      "time": "9:00",
-      "team1": "ROYAL BC NINANE",
-      "team2": "UN HUY BASKET A",
-      "category": "U 12 - MM B",
-      "location": "ROYAL BC NINANE",
       "other": ""
     },
     {
@@ -1053,16 +1033,6 @@
       "team2": "UN HUY BASKET A",
       "category": "U 12 - MM B",
       "location": "PRAYON TROOZ A",
-      "other": ""
-    },
-    {
-      "code": "504114",
-      "date": "2026-11-15",
-      "time": "10:30",
-      "team1": "ROYAL BC WANZE B",
-      "team2": "UN HUY BASKET B",
-      "category": "U 12 - MM E",
-      "location": "ROYAL BC WANZE B",
       "other": ""
     },
     {
@@ -1533,16 +1503,6 @@
       "team2": "UN HUY BASKET",
       "category": "U 16 - DD B",
       "location": "ORP JAUCHE",
-      "other": ""
-    },
-    {
-      "code": "471114",
-      "date": "2026-11-14",
-      "time": "15:00",
-      "team1": "VAIL. JUPILLE",
-      "team2": "UN HUY BASKET",
-      "category": "U 16 - PROV MM B",
-      "location": "VAIL. JUPILLE",
       "other": ""
     },
     {

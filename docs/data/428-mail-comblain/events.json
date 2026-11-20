@@ -6,22 +6,22 @@
   },
   "events": [
     {
+      "code": "AW217027",
+      "date": "2026-11-28",
+      "time": "19:00",
+      "team1": "JSB MAFFLE",
+      "team2": "MAIL. COMBLAIN",
+      "category": "COUPE AWBB MESSIEURS",
+      "location": "JSB MAFFLE",
+      "other": ""
+    },
+    {
       "code": "774010",
       "date": "2026-11-29",
       "time": "10:00",
       "team1": "MAIL. COMBLAIN",
       "team2": "ROYAL HERVE-BATTICE",
       "category": "CPE PROV PUPILLES DD",
-      "location": "MAIL. COMBLAIN",
-      "other": ""
-    },
-    {
-      "code": "417114",
-      "date": "2026-11-13",
-      "time": "20:00",
-      "team1": "MAIL. COMBLAIN",
-      "team2": "ATLAS A JUPILLE B",
-      "category": "DD - DIVISION 3 B",
       "location": "MAIL. COMBLAIN",
       "other": ""
     },
@@ -53,6 +53,16 @@
       "team2": "ABC WAREMME C",
       "category": "DD - DIVISION 3 B",
       "location": "MAIL. COMBLAIN",
+      "other": ""
+    },
+    {
+      "code": "417106",
+      "date": "2026-12-17",
+      "time": "19:30",
+      "team1": "RBC DISON-ANDRIMONT B",
+      "team2": "MAIL. COMBLAIN",
+      "category": "DD - DIVISION 3 B",
+      "location": "RBC DISON-ANDRIMONT B",
       "other": ""
     },
     {
@@ -173,16 +183,6 @@
       "team2": "MAIL. COMBLAIN",
       "category": "DD - DIVISION 3 B",
       "location": "CS OUTREMEUSE",
-      "other": ""
-    },
-    {
-      "code": "408054",
-      "date": "2026-11-14",
-      "time": "18:00",
-      "team1": "MAIL. COMBLAIN B",
-      "team2": "CS OUTREMEUSE",
-      "category": "MM - DIVISION 4 B",
-      "location": "MAIL. COMBLAIN B",
       "other": ""
     },
     {
@@ -323,16 +323,6 @@
       "team2": "MAIL. COMBLAIN B",
       "category": "MM - DIVISION 4 B",
       "location": "RBC DISON-ANDRIMONT C",
-      "other": ""
-    },
-    {
-      "code": "AW101056",
-      "date": "2026-11-14",
-      "time": "21:00",
-      "team1": "CHALET WOL ST PIERRE",
-      "team2": "MAIL. COMBLAIN A",
-      "category": "MM - REGIONALE 2 A",
-      "location": "CHALET WOL ST PIERRE",
       "other": ""
     },
     {
@@ -596,16 +586,6 @@
       "other": ""
     },
     {
-      "code": "502117",
-      "date": "2026-11-15",
-      "time": "13:00",
-      "team1": "ALL. FLEMALLE B",
-      "team2": "MAIL. COMBLAIN",
-      "category": "U 12 - MM C",
-      "location": "ALL. FLEMALLE B",
-      "other": ""
-    },
-    {
       "code": "502124",
       "date": "2026-11-22",
       "time": "12:00",
@@ -773,7 +753,7 @@
       "team2": "MAIL. COMBLAIN",
       "category": "U 14 - DD A",
       "location": "CRISTAL SGH",
-      "other": "(salle de tilf)"
+      "other": "(Ho Tilf)"
     },
     {
       "code": "600164",
@@ -863,16 +843,6 @@
       "team2": "MAIL. COMBLAIN",
       "category": "U 14 - DD A",
       "location": "ALL. FLEMALLE",
-      "other": ""
-    },
-    {
-      "code": "491113",
-      "date": "2026-11-14",
-      "time": "11:00",
-      "team1": "RB TILFF B",
-      "team2": "MAIL. COMBLAIN",
-      "category": "U 14 - PROV MM B",
-      "location": "RB TILFF B",
       "other": ""
     },
     {
@@ -1006,16 +976,6 @@
       "other": ""
     },
     {
-      "code": "471113",
-      "date": "2026-11-15",
-      "time": "17:00",
-      "team1": "ROYAL ANS BC",
-      "team2": "MAIL. COMBLAIN",
-      "category": "U 16 - PROV MM B",
-      "location": "ROYAL ANS BC",
-      "other": ""
-    },
-    {
       "code": "471142",
       "date": "2026-12-05",
       "time": "11:00",
@@ -1123,16 +1083,6 @@
       "team2": "PEPINSTER EAST BELG B",
       "category": "U 16 - PROV MM B",
       "location": "MAIL. COMBLAIN",
-      "other": ""
-    },
-    {
-      "code": "420117",
-      "date": "2026-11-14",
-      "time": "15:00",
-      "team1": "R 4A AYWAILLE-HAMOIR",
-      "team2": "MAIL. COMBLAIN",
-      "category": "U 21 - MM",
-      "location": "R 4A AYWAILLE-HAMOIR",
       "other": ""
     },
     {
@@ -1293,16 +1243,6 @@
       "team2": "MAIL. COMBLAIN",
       "category": "U 21 - MM",
       "location": "RBC DISON-ANDRIMONT",
-      "other": ""
-    },
-    {
-      "code": "543113",
-      "date": "2026-11-14",
-      "time": "12:30",
-      "team1": "RBC HANEFFE",
-      "team2": "MAIL. COMBLAIN",
-      "category": "U 8 - MM D",
-      "location": "RBC HANEFFE",
       "other": ""
     },
     {

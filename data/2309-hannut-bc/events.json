@@ -6,16 +6,6 @@
   },
   "events": [
     {
-      "code": "413112",
-      "date": "2026-11-14",
-      "time": "19:00",
-      "team1": "HANNUT BC",
-      "team2": "R.UN.BELLAIRE A",
-      "category": "DD - DIVISION 1",
-      "location": "HANNUT BC",
-      "other": ""
-    },
-    {
       "code": "413121",
       "date": "2026-11-22",
       "time": "13:00",
@@ -33,6 +23,16 @@
       "team2": "RBC HANEFFE B",
       "category": "DD - DIVISION 1",
       "location": "HANNUT BC",
+      "other": ""
+    },
+    {
+      "code": "413065",
+      "date": "2026-12-10",
+      "time": "19:30",
+      "team1": "ABC WAREMME A",
+      "team2": "HANNUT BC",
+      "category": "DD - DIVISION 1",
+      "location": "ABC WAREMME A",
       "other": ""
     },
     {
@@ -183,16 +183,6 @@
       "team2": "RBC ALLEUR C",
       "category": "DD - DIVISION 1",
       "location": "HANNUT BC",
-      "other": ""
-    },
-    {
-      "code": "401112",
-      "date": "2026-11-13",
-      "time": "21:00",
-      "team1": "HANNUT BC A",
-      "team2": "THEUX BC A",
-      "category": "MM - DIVISION 1",
-      "location": "HANNUT BC A",
       "other": ""
     },
     {
@@ -366,19 +356,9 @@
       "other": ""
     },
     {
-      "code": "405112",
-      "date": "2026-11-14",
-      "time": "17:00",
-      "team1": "HANNUT BC B",
-      "team2": "BC COINTE B",
-      "category": "MM - DIVISION 3 B",
-      "location": "HANNUT BC B",
-      "other": ""
-    },
-    {
       "code": "405121",
       "date": "2026-11-21",
-      "time": "17:00",
+      "time": "21:00",
       "team1": "RBC VISE C",
       "team2": "HANNUT BC B",
       "category": "MM - DIVISION 3 B",
@@ -543,16 +523,6 @@
       "team2": "ALL. FLEMALLE B",
       "category": "MM - DIVISION 3 B",
       "location": "HANNUT BC B",
-      "other": ""
-    },
-    {
-      "code": "409112",
-      "date": "2026-11-14",
-      "time": "21:00",
-      "team1": "HANNUT BC C",
-      "team2": "LA VILLERSOISE C",
-      "category": "MM - DIVISION 4 C",
-      "location": "HANNUT BC C",
       "other": ""
     },
     {
@@ -816,16 +786,6 @@
       "other": ""
     },
     {
-      "code": "441112",
-      "date": "2026-11-14",
-      "time": "13:00",
-      "team1": "HANNUT BC",
-      "team2": "RBC AWANS",
-      "category": "U 18 - PROV MM B",
-      "location": "HANNUT BC",
-      "other": ""
-    },
-    {
       "code": "441123",
       "date": "2026-11-21",
       "time": "11:00",
@@ -956,16 +916,6 @@
       "other": ""
     },
     {
-      "code": "544112",
-      "date": "2026-11-14",
-      "time": "9:00",
-      "team1": "HANNUT BC A",
-      "team2": "ALL. FLEMALLE A",
-      "category": "U 8 - MM E",
-      "location": "HANNUT BC A",
-      "other": ""
-    },
-    {
       "code": "544123",
       "date": "2026-11-21",
       "time": "9:00",
@@ -1083,16 +1033,6 @@
       "team2": "RBC ESNEUX B",
       "category": "U 8 - MM E",
       "location": "HANNUT BC A",
-      "other": ""
-    },
-    {
-      "code": "545112",
-      "date": "2026-11-14",
-      "time": "11:00",
-      "team1": "HANNUT BC B",
-      "team2": "ALL. FLEMALLE B",
-      "category": "U 8 - MM F",
-      "location": "HANNUT BC B",
       "other": ""
     },
     {

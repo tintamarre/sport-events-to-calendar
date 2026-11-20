@@ -36,16 +36,6 @@
       "other": ""
     },
     {
-      "code": "414116",
-      "date": "2026-11-14",
-      "time": "19:00",
-      "team1": "ROYAL HERVE-BATTICE D",
-      "team2": "CRISTAL SGH A",
-      "category": "DD - DIVISION 2 A",
-      "location": "ROYAL HERVE-BATTICE D",
-      "other": ""
-    },
-    {
       "code": "414125",
       "date": "2026-11-20",
       "time": "20:45",
@@ -58,7 +48,7 @@
     {
       "code": "414055",
       "date": "2026-11-29",
-      "time": "13:00",
+      "time": "17:00",
       "team1": "CRISTAL SGH A",
       "team2": "R.UN.BELLAIRE B",
       "category": "DD - DIVISION 2 A",
@@ -226,16 +216,6 @@
       "other": ""
     },
     {
-      "code": "418116",
-      "date": "2026-11-14",
-      "time": "19:00",
-      "team1": "R HT-PRE OUGREE B",
-      "team2": "CRISTAL SGH B",
-      "category": "DD - DIVISION 3 C",
-      "location": "R HT-PRE OUGREE B",
-      "other": ""
-    },
-    {
       "code": "418125",
       "date": "2026-11-21",
       "time": "21:00",
@@ -374,26 +354,6 @@
       "category": "DD - DIVISION 3 C",
       "location": "CRISTAL SGH B",
       "other": ""
-    },
-    {
-      "code": "401114",
-      "date": "2026-11-15",
-      "time": "15:00",
-      "team1": "CRISTAL SGH A",
-      "team2": "RBC STAVELOT A",
-      "category": "MM - DIVISION 1",
-      "location": "CRISTAL SGH A",
-      "other": "(Salle de la Renaissance)"
-    },
-    {
-      "code": "401014",
-      "date": "2026-11-18",
-      "time": "20:00",
-      "team1": "CRISTAL SGH A",
-      "team2": "ROYAL HERVE-BATTICE A",
-      "category": "MM - DIVISION 1",
-      "location": "CRISTAL SGH A",
-      "other": "(18 Bonniers)"
     },
     {
       "code": "401123",
@@ -566,16 +526,6 @@
       "other": ""
     },
     {
-      "code": "406114",
-      "date": "2026-11-15",
-      "time": "13:00",
-      "team1": "CRISTAL SGH B",
-      "team2": "RBC STAVELOT B",
-      "category": "MM - DIVISION 3 C",
-      "location": "CRISTAL SGH B",
-      "other": "(Salle de la Renaissance)"
-    },
-    {
       "code": "406123",
       "date": "2026-11-21",
       "time": "17:00",
@@ -619,10 +569,10 @@
       "code": "406167",
       "date": "2026-12-18",
       "time": "21:00",
-      "team1": "BC SANKT VITH",
+      "team1": "KBC SANKT VITH",
       "team2": "CRISTAL SGH B",
       "category": "MM - DIVISION 3 C",
-      "location": "BC SANKT VITH",
+      "location": "KBC SANKT VITH",
       "other": ""
     },
     {
@@ -730,7 +680,7 @@
       "date": "2027-04-10",
       "time": "17:00",
       "team1": "CRISTAL SGH B",
-      "team2": "BC SANKT VITH",
+      "team2": "KBC SANKT VITH",
       "category": "MM - DIVISION 3 C",
       "location": "CRISTAL SGH B",
       "other": ""
@@ -754,16 +704,6 @@
       "category": "MM - DIVISION 3 C",
       "location": "CRISTAL SGH B",
       "other": ""
-    },
-    {
-      "code": "410114",
-      "date": "2026-11-15",
-      "time": "17:00",
-      "team1": "CRISTAL SGH C",
-      "team2": "RBC AWANS D",
-      "category": "MM - DIVISION 4 D",
-      "location": "CRISTAL SGH C",
-      "other": "(Salle de la Renaissance)"
     },
     {
       "code": "410123",
@@ -923,16 +863,6 @@
       "team2": "CRISTAL SGH C",
       "category": "MM - DIVISION 4 D",
       "location": "RBC BLEGNY C",
-      "other": ""
-    },
-    {
-      "code": "412114",
-      "date": "2026-11-14",
-      "time": "20:00",
-      "team1": "CRISTAL SGH D",
-      "team2": "RBC AWANS B",
-      "category": "MM - DIVISION 4 F",
-      "location": "CRISTAL SGH D",
       "other": ""
     },
     {
@@ -1196,16 +1126,6 @@
       "other": ""
     },
     {
-      "code": "525116",
-      "date": "2026-11-14",
-      "time": "9:00",
-      "team1": "RABC ENSIVAL B",
-      "team2": "CRISTAL SGH D",
-      "category": "U 10 - MM F",
-      "location": "RABC ENSIVAL B",
-      "other": ""
-    },
-    {
       "code": "525125",
       "date": "2026-11-28",
       "time": "9:30",
@@ -1326,16 +1246,6 @@
       "other": ""
     },
     {
-      "code": "527115",
-      "date": "2026-11-14",
-      "time": "11:00",
-      "team1": "CRISTAL SGH B",
-      "team2": "RBC ESNEUX A",
-      "category": "U 10 - MM H",
-      "location": "CRISTAL SGH B",
-      "other": "(18 Bonniers)"
-    },
-    {
       "code": "527121",
       "date": "2026-11-29",
       "time": "11:00",
@@ -1353,7 +1263,7 @@
       "team2": "RBC ALLEUR B",
       "category": "U 10 - MM H",
       "location": "CRISTAL SGH B",
-      "other": ""
+      "other": "(av du Centenaire )"
     },
     {
       "code": "527154",
@@ -1373,7 +1283,7 @@
       "team2": "RBC HANEFFE A",
       "category": "U 10 - MM H",
       "location": "CRISTAL SGH B",
-      "other": ""
+      "other": "(Ho 18 bonniers GH)"
     },
     {
       "code": "527205",
@@ -1476,16 +1386,6 @@
       "other": ""
     },
     {
-      "code": "528116",
-      "date": "2026-11-14",
-      "time": "9:30",
-      "team1": "CRISTAL SGH C",
-      "team2": "ORP JAUCHE",
-      "category": "U 10 - MM I",
-      "location": "CRISTAL SGH C",
-      "other": "(18 bonniers GH)"
-    },
-    {
       "code": "528126",
       "date": "2026-11-21",
       "time": "11:00",
@@ -1513,7 +1413,7 @@
       "team2": "GIANTS BRAIVES B",
       "category": "U 10 - MM I",
       "location": "CRISTAL SGH C",
-      "other": ""
+      "other": "(Ho 18 bonniers GH)"
     },
     {
       "code": "528192",
@@ -1606,16 +1506,6 @@
       "other": ""
     },
     {
-      "code": "500115",
-      "date": "2026-11-14",
-      "time": "13:00",
-      "team1": "CRISTAL SGH A",
-      "team2": "RBC ESNEUX A",
-      "category": "U 12 - MM A",
-      "location": "CRISTAL SGH A",
-      "other": "(18 Bonniers)"
-    },
-    {
       "code": "500125",
       "date": "2026-11-22",
       "time": "9:00",
@@ -1643,7 +1533,7 @@
       "team2": "ALL. FLEMALLE A",
       "category": "U 12 - MM A",
       "location": "CRISTAL SGH A",
-      "other": ""
+      "other": "(av du Centenaire)"
     },
     {
       "code": "500161",
@@ -1764,16 +1654,6 @@
       "category": "U 12 - MM A",
       "location": "LA VILLERSOISE A",
       "other": ""
-    },
-    {
-      "code": "501116",
-      "date": "2026-11-14",
-      "time": "11:00",
-      "team1": "CRISTAL SGH B",
-      "team2": "BCM HERSTAL",
-      "category": "U 12 - MM B",
-      "location": "CRISTAL SGH B",
-      "other": "(18 bonniers GH)"
     },
     {
       "code": "501126",
@@ -1973,7 +1853,7 @@
       "team2": "PEPINSTER EAST BELG B",
       "category": "U 12 - MM D",
       "location": "CRISTAL SGH D",
-      "other": "(ho av de la centenaire)"
+      "other": "(Ho av de la centenaire)"
     },
     {
       "code": "503194",
@@ -2073,16 +1953,6 @@
       "team2": "RBC ALLEUR B",
       "category": "U 12 - MM D",
       "location": "CRISTAL SGH D",
-      "other": ""
-    },
-    {
-      "code": "505114",
-      "date": "2026-11-14",
-      "time": "13:00",
-      "team1": "CRISTAL SGH C",
-      "team2": "ROYAL ANS BC B",
-      "category": "U 12 - MM F",
-      "location": "CRISTAL SGH C",
       "other": ""
     },
     {
@@ -2226,16 +2096,6 @@
       "other": ""
     },
     {
-      "code": "600116",
-      "date": "2026-11-14",
-      "time": "14:00",
-      "team1": "R HT-PRE OUGREE",
-      "team2": "CRISTAL SGH",
-      "category": "U 14 - DD A",
-      "location": "R HT-PRE OUGREE",
-      "other": ""
-    },
-    {
       "code": "600155",
       "date": "2026-12-12",
       "time": "13:00",
@@ -2243,7 +2103,7 @@
       "team2": "MAIL. COMBLAIN",
       "category": "U 14 - DD A",
       "location": "CRISTAL SGH",
-      "other": "(salle de tilf)"
+      "other": "(Ho Tilf)"
     },
     {
       "code": "600163",
@@ -2333,16 +2193,6 @@
       "team2": "CRISTAL SGH",
       "category": "U 14 - DD A",
       "location": "RBC AWANS",
-      "other": ""
-    },
-    {
-      "code": "480115",
-      "date": "2026-11-14",
-      "time": "15:00",
-      "team1": "CRISTAL SGH A",
-      "team2": "GIANTS BRAIVES B",
-      "category": "U 14 - ELITES MM A",
-      "location": "CRISTAL SGH A",
       "other": ""
     },
     {
@@ -2476,16 +2326,6 @@
       "other": ""
     },
     {
-      "code": "490115",
-      "date": "2026-11-14",
-      "time": "17:00",
-      "team1": "CRISTAL SGH B",
-      "team2": "ALL. FLEMALLE B",
-      "category": "U 14 - PROV MM A",
-      "location": "CRISTAL SGH B",
-      "other": "(18 Bonniers)"
-    },
-    {
       "code": "490015",
       "date": "2026-11-28",
       "time": "13:00",
@@ -2503,7 +2343,7 @@
       "team2": "THEUX BC",
       "category": "U 14 - PROV MM A",
       "location": "CRISTAL SGH B",
-      "other": ""
+      "other": "(av du Centenaire)"
     },
     {
       "code": "490154",
@@ -2523,7 +2363,7 @@
       "team2": "PEPINSTER EAST BELG B",
       "category": "U 14 - PROV MM A",
       "location": "CRISTAL SGH B",
-      "other": ""
+      "other": "(Ho Tilf)"
     },
     {
       "code": "490195",
@@ -2606,26 +2446,6 @@
       "other": ""
     },
     {
-      "code": "590116",
-      "date": "2026-11-14",
-      "time": "13:00",
-      "team1": "ALL. FLEMALLE C",
-      "team2": "CRISTAL SGH",
-      "category": "U 16 - DD A",
-      "location": "ALL. FLEMALLE C",
-      "other": ""
-    },
-    {
-      "code": "590125",
-      "date": "2026-11-21",
-      "time": "15:30",
-      "team1": "CRISTAL SGH",
-      "team2": "ROYAL SPA BC",
-      "category": "U 16 - DD A",
-      "location": "CRISTAL SGH",
-      "other": ""
-    },
-    {
       "code": "590155",
       "date": "2026-12-12",
       "time": "15:00",
@@ -2633,7 +2453,7 @@
       "team2": "BCM HERSTAL",
       "category": "U 16 - DD A",
       "location": "CRISTAL SGH",
-      "other": "(salle de tilf)"
+      "other": "(Ho tilf)"
     },
     {
       "code": "590163",
@@ -2726,16 +2546,6 @@
       "other": ""
     },
     {
-      "code": "451115",
-      "date": "2026-11-14",
-      "time": "15:00",
-      "team1": "CRISTAL SGH A",
-      "team2": "RBC ALLEUR",
-      "category": "U 16 - ELITES MM B",
-      "location": "CRISTAL SGH A",
-      "other": "(Salle de Tilff)"
-    },
-    {
       "code": "451121",
       "date": "2026-11-21",
       "time": "11:00",
@@ -2813,7 +2623,7 @@
       "team2": "ALL. FLEMALLE A",
       "category": "U 16 - ELITES MM B",
       "location": "CRISTAL SGH A",
-      "other": ""
+      "other": "(Ho Tilf)"
     },
     {
       "code": "451283",
@@ -2926,16 +2736,6 @@
       "other": ""
     },
     {
-      "code": "AW119023",
-      "date": "2026-11-14",
-      "time": "15:00",
-      "team1": "LA LOUVIERE AM",
-      "team2": "CRISTAL SGH",
-      "category": "U 18 - BRONZE REGIONAUX A",
-      "location": "LA LOUVIERE AM",
-      "other": ""
-    },
-    {
       "code": "AW119026",
       "date": "2026-11-21",
       "time": "11:00",
@@ -2963,16 +2763,6 @@
       "team2": "CRISTAL SGH",
       "category": "U 18 - BRONZE REGIONAUX A",
       "location": "CASTORS BRAINE",
-      "other": ""
-    },
-    {
-      "code": "430113",
-      "date": "2026-11-15",
-      "time": "15:00",
-      "team1": "ATLAS A JUPILLE",
-      "team2": "CRISTAL SGH",
-      "category": "U 18 - ELITES MM A",
-      "location": "ATLAS A JUPILLE",
       "other": ""
     },
     {
@@ -3106,16 +2896,6 @@
       "other": ""
     },
     {
-      "code": "441113",
-      "date": "2026-11-14",
-      "time": "13:00",
-      "team1": "RBC WELKENRAEDT",
-      "team2": "CRISTAL SGH",
-      "category": "U 18 - PROV MM B",
-      "location": "RBC WELKENRAEDT",
-      "other": ""
-    },
-    {
       "code": "441142",
       "date": "2026-12-05",
       "time": "13:00",
@@ -3246,16 +3026,6 @@
       "other": ""
     },
     {
-      "code": "AW110023",
-      "date": "2026-11-14",
-      "time": "13:30",
-      "team1": "ASTE KAIN",
-      "team2": "CRISTAL SGH",
-      "category": "U 21 - SILVER REGIONAUX B",
-      "location": "ASTE KAIN",
-      "other": ""
-    },
-    {
       "code": "AW110026",
       "date": "2026-11-21",
       "time": "11:00",
@@ -3284,16 +3054,6 @@
       "category": "U 21 - SILVER REGIONAUX B",
       "location": "UBCF QUAREGNON",
       "other": ""
-    },
-    {
-      "code": "551114",
-      "date": "2026-11-14",
-      "time": "11:00",
-      "team1": "CRISTAL SGH B",
-      "team2": "ROYAL HERVE-BATTICE A",
-      "category": "U 7 - MM B",
-      "location": "CRISTAL SGH B",
-      "other": "(18 bonniers Gh)"
     },
     {
       "code": "551126",
@@ -3436,16 +3196,6 @@
       "other": ""
     },
     {
-      "code": "552115",
-      "date": "2026-11-14",
-      "time": "11:00",
-      "team1": "CRISTAL SGH A",
-      "team2": "BC SPRIMONT A",
-      "category": "U 7 - MM C",
-      "location": "CRISTAL SGH A",
-      "other": ""
-    },
-    {
       "code": "552121",
       "date": "2026-11-22",
       "time": "9:00",
@@ -3463,7 +3213,7 @@
       "team2": "ROYAL BC NINANE A",
       "category": "U 7 - MM C",
       "location": "CRISTAL SGH A",
-      "other": ""
+      "other": "(18 bonniers GH)"
     },
     {
       "code": "552154",
@@ -3706,16 +3456,6 @@
       "other": ""
     },
     {
-      "code": "542115",
-      "date": "2026-11-14",
-      "time": "9:30",
-      "team1": "CRISTAL SGH A",
-      "team2": "R 4A AYWAILLE-HAMOIR A",
-      "category": "U 8 - MM C",
-      "location": "CRISTAL SGH A",
-      "other": "(18 Bonniers)"
-    },
-    {
       "code": "542121",
       "date": "2026-11-22",
       "time": "9:00",
@@ -3743,7 +3483,7 @@
       "team2": "ROYAL ANS BC",
       "category": "U 8 - MM C",
       "location": "CRISTAL SGH A",
-      "other": ""
+      "other": "(Ho 18 bonniers GH)"
     },
     {
       "code": "542195",
