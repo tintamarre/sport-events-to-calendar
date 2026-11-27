@@ -16,16 +16,6 @@
       "other": ""
     },
     {
-      "code": "401123",
-      "date": "2026-11-21",
-      "time": "19:00",
-      "team1": "THEUX BC A",
-      "team2": "CRISTAL SGH A",
-      "category": "MM - DIVISION 1",
-      "location": "THEUX BC A",
-      "other": ""
-    },
-    {
       "code": "401143",
       "date": "2026-12-04",
       "time": "21:00",
@@ -183,16 +173,6 @@
       "team2": "THEUX BC A",
       "category": "MM - DIVISION 1",
       "location": "ESL UNITED C",
-      "other": ""
-    },
-    {
-      "code": "404123",
-      "date": "2026-11-21",
-      "time": "21:00",
-      "team1": "THEUX BC B",
-      "team2": "VAIL. JUPILLE B",
-      "category": "MM - DIVISION 3 A",
-      "location": "THEUX BC B",
       "other": ""
     },
     {
@@ -366,16 +346,6 @@
       "other": ""
     },
     {
-      "code": "407123",
-      "date": "2026-11-21",
-      "time": "19:00",
-      "team1": "THEUX BC C",
-      "team2": "RABC ENSIVAL D",
-      "category": "MM - DIVISION 4 A",
-      "location": "THEUX BC C",
-      "other": ""
-    },
-    {
       "code": "407155",
       "date": "2026-12-12",
       "time": "21:00",
@@ -493,16 +463,6 @@
       "team2": "THEUX BC C",
       "category": "MM - DIVISION 4 A",
       "location": "RB TILFF E",
-      "other": ""
-    },
-    {
-      "code": "411123",
-      "date": "2026-11-21",
-      "time": "21:00",
-      "team1": "THEUX BC D",
-      "team2": "VAIL. JUPILLE C",
-      "category": "MM - DIVISION 4 E",
-      "location": "THEUX BC D",
       "other": ""
     },
     {
@@ -636,16 +596,6 @@
       "other": ""
     },
     {
-      "code": "520123",
-      "date": "2026-11-21",
-      "time": "9:00",
-      "team1": "THEUX BC A",
-      "team2": "PEPINSTER EAST BELG A",
-      "category": "U 10 - MM A",
-      "location": "THEUX BC A",
-      "other": ""
-    },
-    {
       "code": "520145",
       "date": "2026-11-28",
       "time": "10:30",
@@ -766,16 +716,6 @@
       "other": ""
     },
     {
-      "code": "526123",
-      "date": "2026-11-22",
-      "time": "11:00",
-      "team1": "THEUX BC B",
-      "team2": "DF BC MALMEDY",
-      "category": "U 10 - MM G",
-      "location": "THEUX BC B",
-      "other": ""
-    },
-    {
       "code": "526163",
       "date": "2026-12-19",
       "time": "11:00",
@@ -866,26 +806,6 @@
       "other": ""
     },
     {
-      "code": "501123",
-      "date": "2026-11-21",
-      "time": "11:00",
-      "team1": "THEUX BC A",
-      "team2": "VAIL. JUPILLE",
-      "category": "U 12 - MM B",
-      "location": "THEUX BC A",
-      "other": ""
-    },
-    {
-      "code": "501143",
-      "date": "2026-12-06",
-      "time": "9:00",
-      "team1": "UN HUY BASKET A",
-      "team2": "THEUX BC A",
-      "category": "U 12 - MM B",
-      "location": "UN HUY BASKET A",
-      "other": ""
-    },
-    {
       "code": "501163",
       "date": "2026-12-20",
       "time": "11:00",
@@ -923,6 +843,16 @@
       "team2": "ROYAL BC NINANE",
       "category": "U 12 - MM B",
       "location": "THEUX BC A",
+      "other": ""
+    },
+    {
+      "code": "501143",
+      "date": "2027-02-06",
+      "time": "15:00",
+      "team1": "UN HUY BASKET A",
+      "team2": "THEUX BC A",
+      "category": "U 12 - MM B",
+      "location": "UN HUY BASKET A",
       "other": ""
     },
     {
@@ -1016,16 +946,6 @@
       "other": ""
     },
     {
-      "code": "506122",
-      "date": "2026-11-21",
-      "time": "13:00",
-      "team1": "DF BC MALMEDY",
-      "team2": "THEUX BC B",
-      "category": "U 12 - MM G",
-      "location": "DF BC MALMEDY",
-      "other": ""
-    },
-    {
       "code": "506143",
       "date": "2026-12-05",
       "time": "11:00",
@@ -1040,7 +960,7 @@
       "date": "2027-01-09",
       "time": "11:00",
       "team1": "THEUX BC B",
-      "team2": "KBC SANKT VITH",
+      "team2": "RBC SANKT VITH",
       "category": "U 12 - MM G",
       "location": "THEUX BC B",
       "other": ""
@@ -1136,16 +1056,6 @@
       "other": ""
     },
     {
-      "code": "490123",
-      "date": "2026-11-22",
-      "time": "15:00",
-      "team1": "THEUX BC",
-      "team2": "HARIMALIA BC",
-      "category": "U 14 - PROV MM A",
-      "location": "THEUX BC",
-      "other": ""
-    },
-    {
       "code": "490145",
       "date": "2026-12-05",
       "time": "15:00",
@@ -1158,12 +1068,12 @@
     {
       "code": "490153",
       "date": "2026-12-12",
-      "time": "11:00",
+      "time": "13:00",
       "team1": "PEPINSTER EAST BELG B",
       "team2": "THEUX BC",
       "category": "U 14 - PROV MM A",
       "location": "PEPINSTER EAST BELG B",
-      "other": ""
+      "other": "(Ho du Paire)"
     },
     {
       "code": "490163",
@@ -1256,16 +1166,6 @@
       "other": ""
     },
     {
-      "code": "450123",
-      "date": "2026-11-21",
-      "time": "11:00",
-      "team1": "THEUX BC",
-      "team2": "HENRI-CHAPELLE",
-      "category": "U 16 - ELITES MM A",
-      "location": "THEUX BC",
-      "other": ""
-    },
-    {
       "code": "450145",
       "date": "2026-12-05",
       "time": "15:00",
@@ -1273,7 +1173,7 @@
       "team2": "THEUX BC",
       "category": "U 16 - ELITES MM A",
       "location": "PEPINSTER EAST BELG A",
-      "other": ""
+      "other": "(Ho du Paire)"
     },
     {
       "code": "450153",
@@ -1396,16 +1296,6 @@
       "other": ""
     },
     {
-      "code": "440123",
-      "date": "2026-11-21",
-      "time": "9:00",
-      "team1": "THEUX BC",
-      "team2": "ALL. FLEMALLE C",
-      "category": "U 18 - PROV MM A",
-      "location": "THEUX BC",
-      "other": ""
-    },
-    {
       "code": "440153",
       "date": "2026-12-13",
       "time": "13:00",
@@ -1503,16 +1393,6 @@
       "team2": "THEUX BC",
       "category": "U 18 - PROV MM A",
       "location": "ALL. FLEMALLE C",
-      "other": ""
-    },
-    {
-      "code": "420123",
-      "date": "2026-11-22",
-      "time": "13:00",
-      "team1": "THEUX BC",
-      "team2": "R 4A AYWAILLE-HAMOIR",
-      "category": "U 21 - MM",
-      "location": "THEUX BC",
       "other": ""
     },
     {
@@ -1906,16 +1786,6 @@
       "other": ""
     },
     {
-      "code": "541126",
-      "date": "2026-11-21",
-      "time": "9:00",
-      "team1": "THEUX BC B",
-      "team2": "CRISTAL SGH B",
-      "category": "U 8 - MM B",
-      "location": "THEUX BC B",
-      "other": ""
-    },
-    {
       "code": "541036",
       "date": "2026-11-28",
       "time": "9:00",
@@ -1953,7 +1823,7 @@
       "team2": "THEUX BC B",
       "category": "U 8 - MM B",
       "location": "PEPINSTER EAST BELG B",
-      "other": ""
+      "other": "(Ho du Paire)"
     },
     {
       "code": "541192",

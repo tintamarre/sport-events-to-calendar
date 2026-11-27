@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-20T02:53:33.398Z",
+  "lastUpdated": "2026-11-27T03:59:18.411Z",
   "clubs": [
     {
       "id": "709",
@@ -3736,6 +3736,23 @@
         "U 7 - MM D": "/data/1034-rbc-haneffe/u-7-mm-d.ics",
         "U 8 - MM D": "/data/1034-rbc-haneffe/u-8-mm-d.ics",
         "U 8 - MM F": "/data/1034-rbc-haneffe/u-8-mm-f.ics"
+      }
+    },
+    {
+      "id": "1898",
+      "name": "Rbc Sankt Vith",
+      "slug": "1898-rbc-sankt-vith",
+      "categories": [
+        "MM - DIVISION 3 C",
+        "U 12 - MM G",
+        "U 14 - PROV MM C"
+      ],
+      "jsonPath": "/data/1898-rbc-sankt-vith/events.json",
+      "csvPath": "/data/1898-rbc-sankt-vith/1898-rbc-sankt-vith.csv",
+      "icsFiles": {
+        "MM - DIVISION 3 C": "/data/1898-rbc-sankt-vith/mm-division-3-c.ics",
+        "U 12 - MM G": "/data/1898-rbc-sankt-vith/u-12-mm-g.ics",
+        "U 14 - PROV MM C": "/data/1898-rbc-sankt-vith/u-14-prov-mm-c.ics"
       }
     },
     {

@@ -6,26 +6,6 @@
   },
   "events": [
     {
-      "code": "760049",
-      "date": "2026-11-24",
-      "time": "20:00",
-      "team1": "RB UNION LIEGE B (+ 5)",
-      "team2": "RB TILFF B",
-      "category": "CPE PROV MESSIEURS",
-      "location": "RB UNION LIEGE B (+ 5)",
-      "other": ""
-    },
-    {
-      "code": "403125",
-      "date": "2026-11-21",
-      "time": "19:00",
-      "team1": "ABC WAREMME B",
-      "team2": "RB TILFF B",
-      "category": "MM - DIVISION 2 B",
-      "location": "ABC WAREMME B",
-      "other": ""
-    },
-    {
       "code": "403065",
       "date": "2026-11-29",
       "time": "19:00",
@@ -186,16 +166,6 @@
       "other": ""
     },
     {
-      "code": "406125",
-      "date": "2026-11-20",
-      "time": "21:00",
-      "team1": "RBC BLEGNY A",
-      "team2": "RB TILFF C",
-      "category": "MM - DIVISION 3 C",
-      "location": "RBC BLEGNY A",
-      "other": ""
-    },
-    {
       "code": "406145",
       "date": "2026-12-06",
       "time": "13:30",
@@ -259,10 +229,10 @@
       "code": "406227",
       "date": "2027-01-29",
       "time": "20:00",
-      "team1": "KBC SANKT VITH",
+      "team1": "RBC SANKT VITH",
       "team2": "RB TILFF C",
       "category": "MM - DIVISION 3 C",
-      "location": "KBC SANKT VITH",
+      "location": "RBC SANKT VITH",
       "other": ""
     },
     {
@@ -353,16 +323,6 @@
       "team2": "RB TILFF C",
       "category": "MM - DIVISION 3 C",
       "location": "RABC ENSIVAL C",
-      "other": ""
-    },
-    {
-      "code": "407125",
-      "date": "2026-11-21",
-      "time": "18:30",
-      "team1": "RB TILFF E",
-      "team2": "PRAYON TROOZ B",
-      "category": "MM - DIVISION 4 A",
-      "location": "RB TILFF E",
       "other": ""
     },
     {
@@ -503,16 +463,6 @@
       "team2": "THEUX BC C",
       "category": "MM - DIVISION 4 A",
       "location": "RB TILFF E",
-      "other": ""
-    },
-    {
-      "code": "411125",
-      "date": "2026-11-21",
-      "time": "20:30",
-      "team1": "RB TILFF D",
-      "team2": "RBC ESNEUX",
-      "category": "MM - DIVISION 4 E",
-      "location": "RB TILFF D",
       "other": ""
     },
     {
@@ -663,16 +613,6 @@
       "team2": "THEUX BC D",
       "category": "MM - DIVISION 4 E",
       "location": "RB TILFF D",
-      "other": ""
-    },
-    {
-      "code": "AW102075",
-      "date": "2026-11-22",
-      "time": "15:00",
-      "team1": "CEP FLEURUS",
-      "team2": "RB TILFF A",
-      "category": "MM - REGIONALE 2 B",
-      "location": "CEP FLEURUS",
       "other": ""
     },
     {
@@ -833,16 +773,6 @@
       "team2": "RB TILFF A",
       "category": "MM - REGIONALE 2 B",
       "location": "RBC ALLEUR A",
-      "other": ""
-    },
-    {
-      "code": "521125",
-      "date": "2026-11-22",
-      "time": "11:00",
-      "team1": "RB TILFF A",
-      "team2": "COLLEGE S LOUIS A",
-      "category": "U 10 - MM B",
-      "location": "RB TILFF A",
       "other": ""
     },
     {
@@ -1106,16 +1036,6 @@
       "other": ""
     },
     {
-      "code": "523125",
-      "date": "2026-11-22",
-      "time": "11:00",
-      "team1": "RB TILFF C",
-      "team2": "ATLAS A JUPILLE",
-      "category": "U 10 - MM D",
-      "location": "RB TILFF C",
-      "other": ""
-    },
-    {
       "code": "523105",
       "date": "2026-11-29",
       "time": "11:00",
@@ -1243,16 +1163,6 @@
       "team2": "ROYAL ANS BC B",
       "category": "U 10 - MM D",
       "location": "RB TILFF C",
-      "other": ""
-    },
-    {
-      "code": "502122",
-      "date": "2026-11-21",
-      "time": "11:00",
-      "team1": "RB TILFF A",
-      "team2": "ALL. FLEMALLE B",
-      "category": "U 12 - MM C",
-      "location": "RB TILFF A",
       "other": ""
     },
     {
@@ -1406,16 +1316,6 @@
       "other": ""
     },
     {
-      "code": "504124",
-      "date": "2026-11-21",
-      "time": "13:00",
-      "team1": "RB TILFF B",
-      "team2": "ALL. FLEMALLE E",
-      "category": "U 12 - MM E",
-      "location": "RB TILFF B",
-      "other": ""
-    },
-    {
       "code": "504014",
       "date": "2026-11-29",
       "time": "13:00",
@@ -1553,16 +1453,6 @@
       "team2": "ATLAS A JUPILLE",
       "category": "U 12 - MM E",
       "location": "RB TILFF B",
-      "other": ""
-    },
-    {
-      "code": "481123",
-      "date": "2026-11-21",
-      "time": "9:00",
-      "team1": "RB TILFF A",
-      "team2": "BC SPRIMONT A",
-      "category": "U 14 - ELITES MM B",
-      "location": "RB TILFF A",
       "other": ""
     },
     {
@@ -1806,16 +1696,6 @@
       "other": ""
     },
     {
-      "code": "552125",
-      "date": "2026-11-22",
-      "time": "9:30",
-      "team1": "RB TILFF",
-      "team2": "RBC HANEFFE B",
-      "category": "U 7 - MM C",
-      "location": "RB TILFF",
-      "other": ""
-    },
-    {
       "code": "552105",
       "date": "2026-11-29",
       "time": "9:30",
@@ -1936,16 +1816,6 @@
       "other": ""
     },
     {
-      "code": "542125",
-      "date": "2026-11-22",
-      "time": "9:30",
-      "team1": "RB TILFF A",
-      "team2": "ROYAL HERVE-BATTICE B",
-      "category": "U 8 - MM C",
-      "location": "RB TILFF A",
-      "other": ""
-    },
-    {
       "code": "542105",
       "date": "2026-11-29",
       "time": "9:30",
@@ -2053,16 +1923,6 @@
       "team2": "ROYAL ANS BC",
       "category": "U 8 - MM C",
       "location": "RB TILFF A",
-      "other": ""
-    },
-    {
-      "code": "543125",
-      "date": "2026-11-22",
-      "time": "12:30",
-      "team1": "RB TILFF B",
-      "team2": "VAIL. JUPILLE B",
-      "category": "U 8 - MM D",
-      "location": "RB TILFF B",
       "other": ""
     },
     {
